@@ -1,10 +1,7 @@
 import { LibraryItem, BookData } from '../types';
 
 // MOCK DATA
-// Structure: 
-// 1. EnglishPod (Series) -> [Lesson 1, Lesson 2]
-// 2. Steve Jobs (Standalone Book)
-
+// Used as fallback if the real JSON files are not found (e.g. build script hasn't run)
 const MOCK_MANIFEST: LibraryItem[] = [
   {
     type: 'series',
@@ -80,34 +77,25 @@ const MOCK_BOOK_CONTENT: Record<string, BookData> = {
   }
 };
 
-const USE_REAL_API = true;
-
 export const fetchManifest = async (): Promise<LibraryItem[]> => {
-  if (!USE_REAL_API) {
-    return new Promise(resolve => setTimeout(() => resolve(MOCK_MANIFEST), 300));
-  }
-
   try {
     const response = await fetch('/assets/subtitles/manifest.json');
-    if (!response.ok) throw new Error('Failed to load manifest');
+    if (!response.ok) throw new Error('Failed to load real manifest');
     return await response.json();
   } catch (error) {
-    console.warn("Could not fetch real manifest, falling back to mock.", error);
-    return MOCK_MANIFEST;
+    console.warn("Could not fetch real manifest, falling back to mock data.", error);
+    // Add artificial delay to simulate network when falling back
+    return new Promise(resolve => setTimeout(() => resolve(MOCK_MANIFEST), 300));
   }
 };
 
 export const fetchBook = async (bookId: string): Promise<BookData | null> => {
-  if (!USE_REAL_API) {
-    return new Promise(resolve => setTimeout(() => resolve(MOCK_BOOK_CONTENT[bookId] || null), 300));
-  }
-
   try {
     const response = await fetch(`/assets/subtitles/${bookId}.json`);
     if (!response.ok) throw new Error('Failed to load book');
     return await response.json();
   } catch (error) {
-    console.error(`Error loading book ${bookId}:`, error);
-    return null;
+    console.warn(`Could not fetch book ${bookId}, falling back to mock data.`, error);
+    return new Promise(resolve => setTimeout(() => resolve(MOCK_BOOK_CONTENT[bookId] || null), 300));
   }
 };

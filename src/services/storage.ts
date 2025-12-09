@@ -24,6 +24,12 @@ export const toggleCompletion = (bookId: string, isCompleted: boolean) => {
   localStorage.setItem(`${PROGRESS_KEY_PREFIX}${bookId}`, JSON.stringify(data));
 };
 
+export const markSeriesCompletion = (series: Series, isCompleted: boolean) => {
+  series.books.forEach(book => {
+    toggleCompletion(book.id, isCompleted);
+  });
+};
+
 export const getProgress = (bookId: string): ReadingProgress | null => {
   const json = localStorage.getItem(`${PROGRESS_KEY_PREFIX}${bookId}`);
   if (!json) return null;
@@ -79,6 +85,8 @@ export const isItemCompleted = (item: Book | Series): boolean => {
   if (item.type === 'book') {
     return getProgress(item.id)?.isCompleted ?? false;
   } else {
+    // Series is completed if ALL books are completed
+    if (item.books.length === 0) return false;
     return item.books.every(b => getProgress(b.id)?.isCompleted);
   }
 };
