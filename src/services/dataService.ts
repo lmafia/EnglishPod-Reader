@@ -86,7 +86,7 @@ export const fetchManifest = async (): Promise<LibraryItem[]> => {
   if (!USE_REAL_API) {
     return new Promise(resolve => setTimeout(() => resolve(MOCK_MANIFEST), 300));
   }
-  
+
   try {
     const response = await fetch('/assets/subtitles/manifest.json');
     if (!response.ok) throw new Error('Failed to load manifest');

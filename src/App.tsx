@@ -1,8 +1,8 @@
-import React, { useState, useCallback } from 'react';
-import Library from './components/Library';
-import Reader from './components/Reader';
-import { BookData } from './types';
-import { fetchBook } from './services/dataService';
+import React, { useState, useCallback } from "react";
+import Library from "./components/Library";
+import Reader from "./components/Reader";
+import { BookData } from "./types";
+import { fetchBook } from "./services/dataService";
 
 const App: React.FC = () => {
   const [currentBook, setCurrentBook] = useState<BookData | null>(null);
@@ -28,11 +28,14 @@ const App: React.FC = () => {
           <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-orange-500"></div>
         </div>
       )}
-      
+
       {!currentBook ? (
         <Library onSelectBook={handleSelectBook} />
       ) : (
-        <Reader book={currentBook} onBack={handleBackToLibrary} />
+        <Reader
+          book={currentBook}
+          onBack={handleBackToLibrary}
+        />
       )}
     </div>
   );

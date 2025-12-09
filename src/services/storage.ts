@@ -67,9 +67,9 @@ export const getItemProgress = (item: Book | Series): number => {
     if (item.books.length === 0) return 0;
     let totalPercent = 0;
     item.books.forEach(b => {
-       const p = getProgress(b.id);
-       if (p?.isCompleted) totalPercent += 100;
-       else if (p) totalPercent += Math.round(((p.segmentIndex + 1) / b.totalSegments) * 100);
+      const p = getProgress(b.id);
+      if (p?.isCompleted) totalPercent += 100;
+      else if (p) totalPercent += Math.round(((p.segmentIndex + 1) / b.totalSegments) * 100);
     });
     return Math.round(totalPercent / item.books.length);
   }
