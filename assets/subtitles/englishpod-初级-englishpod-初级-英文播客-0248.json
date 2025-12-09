@@ -1,0 +1,999 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0248",
+  "title": "EnglishPod 初级 英文播客 0248",
+  "totalSegments": 198,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we've got another lesson all about food and eating.",
+      "cn": "今天我们有一节关于食物和饮食的课程。"
+    },
+    {
+      "id": 5,
+      "en": "So today we're going to talk about all the tools that we use when we're at the table.",
+      "cn": "今天我们将讨论在餐桌上使用的所有工具。"
+    },
+    {
+      "id": 6,
+      "en": "So what we use when we're eating.",
+      "cn": "所以我们在吃东西时使用的工具。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "So let's take a listen to today's dialogue.",
+      "cn": "现在让我们来听今天的对话。"
+    },
+    {
+      "id": 9,
+      "en": "And when we come back, we'll talk about some of these words and some of the great phrases you're learning today.",
+      "cn": "回来后，我们将讨论一些单词和你今天学习的一些精彩短语。"
+    },
+    {
+      "id": 10,
+      "en": "Honey, can you set the table?",
+      "cn": "亲爱的，你能摆桌子吗？"
+    },
+    {
+      "id": 11,
+      "en": "Well, I'm sure.",
+      "cn": "好的，没问题。"
+    },
+    {
+      "id": 12,
+      "en": "What are we having for dinner?",
+      "cn": "我们晚餐吃什么？"
+    },
+    {
+      "id": 13,
+      "en": "Do I need to put anything out in particular?",
+      "cn": "我需要特别准备什么吗？"
+    },
+    {
+      "id": 14,
+      "en": "Well, make sure to put out the pepper and salt shakers.",
+      "cn": "确保把盐和胡椒瓶拿出来。"
+    },
+    {
+      "id": 15,
+      "en": "I don't know if your brother is coming tonight, so set an extra placemat just in case.",
+      "cn": "我不知道你哥哥今晚会不会来，所以多摆一个餐垫以防万一。"
+    },
+    {
+      "id": 16,
+      "en": "Okay, should I use the fancy silverware?",
+      "cn": "好的，我应该用精致的餐具吗？"
+    },
+    {
+      "id": 17,
+      "en": "Yeah, go ahead.",
+      "cn": "是的，去吧。"
+    },
+    {
+      "id": 18,
+      "en": "Forks, spoons and knives.",
+      "cn": "叉子、勺子和刀。"
+    },
+    {
+      "id": 19,
+      "en": "I roasted some meat, so be sure to put out some steak knives as well.",
+      "cn": "我烤了一些肉，所以也要准备一些牛排刀。"
+    },
+    {
+      "id": 20,
+      "en": "I'll also set some cups and saucers for some coffee after dinner.",
+      "cn": "我还会准备一些杯子和碟子，晚餐后喝咖啡。"
+    },
+    {
+      "id": 21,
+      "en": "Honey, have you seen our soup bowls?",
+      "cn": "亲爱的，你看到我们的汤碗了吗？"
+    },
+    {
+      "id": 22,
+      "en": "They're in the cupboard where you keep the gravy boat and serving dishes.",
+      "cn": "在你放肉汁船和餐具的橱柜里。"
+    },
+    {
+      "id": 23,
+      "en": "Just be careful because the wine glasses are also there.",
+      "cn": "小心点，因为那里面还有酒杯。"
+    },
+    {
+      "id": 24,
+      "en": "Oops!",
+      "cn": "哎呀！"
+    },
+    {
+      "id": 25,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 26,
+      "en": "So now let's take a look at a couple of words in language takeaway.",
+      "cn": "现在让我们来看几个语言要点。"
+    },
+    {
+      "id": 27,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 28,
+      "en": "So our first word is a very important one.",
+      "cn": "我们的第一个单词是一个非常重要的词。"
+    },
+    {
+      "id": 29,
+      "en": "You might have heard it before.",
+      "cn": "你可能以前听过。"
+    },
+    {
+      "id": 30,
+      "en": "The word is silverware.",
+      "cn": "这个词是餐具。"
+    },
+    {
+      "id": 31,
+      "en": "Okay, silverware.",
+      "cn": "好的，餐具。"
+    },
+    {
+      "id": 32,
+      "en": "Now, this means that it's usually made something that's made out of silver, right?",
+      "cn": "这通常是指用银制成的东西，对吧？"
+    },
+    {
+      "id": 33,
+      "en": "It could be.",
+      "cn": "可能是。"
+    },
+    {
+      "id": 34,
+      "en": "Maybe traditionally it's made out of silver, but it doesn't have to be.",
+      "cn": "也许传统上是用银制成的，但不一定。"
+    },
+    {
+      "id": 35,
+      "en": "You could have wooden silverware or other metals.",
+      "cn": "你可以有木制餐具或其他金属的餐具。"
+    },
+    {
+      "id": 36,
+      "en": "It's basically the things that you use to eat food with.",
+      "cn": "基本上就是你用来吃东西的工具。"
+    },
+    {
+      "id": 37,
+      "en": "Okay, so we're gonna take this as a category.",
+      "cn": "好的，所以我们将其视为一个类别。"
+    },
+    {
+      "id": 38,
+      "en": "Silverware are all the tools that we use to eat food with.",
+      "cn": "餐具是我们用来吃东西的所有工具。"
+    },
+    {
+      "id": 39,
+      "en": "And in this, so for example, a fork is some part of a silverware.",
+      "cn": "例如，叉子是餐具的一部分。"
+    },
+    {
+      "id": 40,
+      "en": "It's a kind of silverware fork.",
+      "cn": "这是一种餐具叉。"
+    },
+    {
+      "id": 41,
+      "en": "A fork is the one that you usually put in your mouth with a piece of lettuce or meat or something.",
+      "cn": "叉子是你通常用来夹生菜或肉的工具。"
+    },
+    {
+      "id": 42,
+      "en": "Okay, so it's pointy.",
+      "cn": "好的，所以它是尖的。"
+    },
+    {
+      "id": 43,
+      "en": "It has like four little points.",
+      "cn": "它有四个小尖头。"
+    },
+    {
+      "id": 44,
+      "en": "Now, the one that we use to have dessert or to have soup with, we call that a spoon.",
+      "cn": "现在，我们用来吃甜点或汤的叫做勺子。"
+    },
+    {
+      "id": 45,
+      "en": "A spoon, that's right.",
+      "cn": "勺子，没错。"
+    },
+    {
+      "id": 46,
+      "en": "So to eat yogurt or ice cream, you use a spoon.",
+      "cn": "所以吃酸奶或冰淇淋时，你用勺子。"
+    },
+    {
+      "id": 47,
+      "en": "And finally, to cut things, you use a knife.",
+      "cn": "最后，切东西时用刀。"
+    },
+    {
+      "id": 48,
+      "en": "Okay, so in the dialogue we saw the plural form knives, but singular it would be knife.",
+      "cn": "好的，在对话中我们看到复数形式的刀，但单数是刀。"
+    },
+    {
+      "id": 49,
+      "en": "That's right, and sometimes there are foods that are very, very hard to cut.",
+      "cn": "没错，有时有些食物非常难切。"
+    },
+    {
+      "id": 50,
+      "en": "For example, steak is very hard to cut because it's a tough meat.",
+      "cn": "例如，牛排很难切，因为它是硬肉。"
+    },
+    {
+      "id": 51,
+      "en": "And so in that case, we use a steak knife to cut it.",
+      "cn": "所以在这种情况下，我们用牛排刀来切。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, so we have a knife or a steak knife.",
+      "cn": "好的，所以我们有刀或牛排刀。"
+    },
+    {
+      "id": 53,
+      "en": "Steak knife, more specifically, is used to cut meats.",
+      "cn": "更具体地说，牛排刀是用来切肉的。"
+    },
+    {
+      "id": 54,
+      "en": "Alright, so these are three kinds or actually four kinds of silverware.",
+      "cn": "好吧，这些是三种或实际上四种餐具。"
+    },
+    {
+      "id": 55,
+      "en": "Of course, there are other kinds, but those are the most important.",
+      "cn": "当然，还有其他种类，但这些是最重要的。"
+    },
+    {
+      "id": 56,
+      "en": "After that though, we have something that's important for making your food taste better.",
+      "cn": "之后，我们有一些对提升食物味道很重要的东西。"
+    },
+    {
+      "id": 57,
+      "en": "So what if I want to add salt or pepper?",
+      "cn": "那么如果我想加盐或胡椒呢？"
+    },
+    {
+      "id": 58,
+      "en": "What are those things called?",
+      "cn": "那些东西叫什么？"
+    },
+    {
+      "id": 59,
+      "en": "Those are called salt and pepper shakers.",
+      "cn": "那些叫盐和胡椒瓶。"
+    },
+    {
+      "id": 60,
+      "en": "We saw them in the dialogue that we need to put out the pepper and salt shakers.",
+      "cn": "我们在对话中看到我们需要把盐和胡椒瓶拿出来。"
+    },
+    {
+      "id": 61,
+      "en": "So the little thing where you keep the salt is called a shaker.",
+      "cn": "所以放盐的小东西叫做瓶。"
+    },
+    {
+      "id": 62,
+      "en": "That's right, because the action, the verb is to shake.",
+      "cn": "没错，因为这个动作，动词是摇。"
+    },
+    {
+      "id": 63,
+      "en": "That means moving your hand up and down so some salt will fall out onto your food.",
+      "cn": "这意味着上下移动你的手，让一些盐落到你的食物上。"
+    },
+    {
+      "id": 64,
+      "en": "Exactly, so usually it's only salt and pepper that we keep in these things and these little shakers.",
+      "cn": "正是如此，所以通常我们只在这些小瓶里放盐和胡椒。"
+    },
+    {
+      "id": 65,
+      "en": "But apart from salt and pepper shakers and all the silverware we're putting out, we're also putting out some saucers because we're gonna have coffee later on.",
+      "cn": "除了盐和胡椒瓶以及我们摆出的所有餐具外，我们还会摆出一些碟子，因为我们稍后要喝咖啡。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so this normally goes together with cups, cups and saucers, but everyone knows what a cup is.",
+      "cn": "好的，这通常和杯子一起使用，杯子和碟子，但每个人都知道杯子是什么。"
+    },
+    {
+      "id": 67,
+      "en": "What is a saucer?",
+      "cn": "碟子是什么？"
+    },
+    {
+      "id": 68,
+      "en": "So a saucer is this little plate that you put under the cup when you're having coffee.",
+      "cn": "碟子是你在喝咖啡时放在杯子下面的小盘子。"
+    },
+    {
+      "id": 69,
+      "en": "So usually that's where you keep your spoon or maybe the little bag of tea.",
+      "cn": "所以通常这是你放勺子或小茶包的地方。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, so a saucer is important because it also helps in case you spill some coffee or tea so the coffee or tea doesn't go on the ground, it goes on the plate.",
+      "cn": "好的，碟子很重要，因为它也可以防止你洒咖啡或茶，这样咖啡或茶不会洒到地上，而是洒在盘子上。"
+    },
+    {
+      "id": 71,
+      "en": "Exactly, so that little plate is called a saucer.",
+      "cn": "没错，所以那个小盘子叫做碟子。"
+    },
+    {
+      "id": 72,
+      "en": "Now, where do we keep all the plates, all the silverware?",
+      "cn": "现在，我们把所有的盘子和餐具放在哪里？"
+    },
+    {
+      "id": 73,
+      "en": "We usually keep them in a cupboard.",
+      "cn": "我们通常把它们放在橱柜里。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, so you might want to say cupboard because it's C-U-P-B-O-A-R-D.",
+      "cn": "好的，你可能想说橱柜，因为它是C-U-P-B-O-A-R-D。"
+    },
+    {
+      "id": 75,
+      "en": "That's not right.",
+      "cn": "这不对。"
+    },
+    {
+      "id": 76,
+      "en": "The word is pronounced cupboard.",
+      "cn": "这个词的发音是橱柜。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, so even though it may seem like you should pronounce cupboard, the correct pronunciation is?",
+      "cn": "好的，尽管它看起来像是你应该发音为橱柜，但正确的发音是？"
+    },
+    {
+      "id": 78,
+      "en": "Cupboard.",
+      "cn": "橱柜。"
+    },
+    {
+      "id": 79,
+      "en": "Cupboard.",
+      "cn": "橱柜。"
+    },
+    {
+      "id": 80,
+      "en": "And a cupboard, like you said, is usually in the dining room or the kitchen because it houses, it keeps all of our plates and bowls and sometimes our silverware.",
+      "cn": "像你说的，橱柜通常在餐厅或厨房，因为它存放着我们所有的盘子和碗，有时还有我们的餐具。"
+    },
+    {
+      "id": 81,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 82,
+      "en": "Okay, so actually in the cupboard we also have some other things, dishes.",
+      "cn": "好的，实际上在橱柜里我们还有其他东西，餐具。"
+    },
+    {
+      "id": 83,
+      "en": "Specifically, we have a gravy boat in there.",
+      "cn": "具体来说，我们里面有一个肉汁船。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so I'm not even sure why they call it a boat, but a gravy boat is basically a special dish.",
+      "cn": "好的，我甚至不确定为什么叫它船，但肉汁船基本上是一种特殊的碗。"
+    },
+    {
+      "id": 85,
+      "en": "It's like a, it's like a tall bowl with a spout, so you can pour it, that keeps gravy.",
+      "cn": "它像一个高碗，有一个喷嘴，可以倒出肉汁。"
+    },
+    {
+      "id": 86,
+      "en": "So gravy is like a liquid or a sauce that goes on top of meat or potatoes.",
+      "cn": "肉汁是一种液体或酱汁，通常放在肉或土豆上。"
+    },
+    {
+      "id": 87,
+      "en": "I guess it kind of looks like a boat.",
+      "cn": "我想它有点像船。"
+    },
+    {
+      "id": 88,
+      "en": "Just imagine a boat, but inside it's empty, so then that's where you put the gravy in.",
+      "cn": "想象一艘船，但里面是空的，所以你把肉汁放进去。"
+    },
+    {
+      "id": 89,
+      "en": "You pour it.",
+      "cn": "你可以倒出来。"
+    },
+    {
+      "id": 90,
+      "en": "You can pour it.",
+      "cn": "你可以倒出来。"
+    },
+    {
+      "id": 91,
+      "en": "Alright, and so we can find that.",
+      "cn": "好的，我们可以找到这个。"
+    },
+    {
+      "id": 92,
+      "en": "We can also find serving dishes, which are basically big plates or bowls that we use when we're having dinner at the dinner table to keep for example, a Turkey or a roast.",
+      "cn": "我们还可以找到上菜盘，基本上是我们在餐桌上用来盛放火鸡或烤肉的大盘子或碗。"
+    },
+    {
+      "id": 93,
+      "en": "And specifically, we were also looking for wine glasses.",
+      "cn": "具体来说，我们还在找酒杯。"
+    },
+    {
+      "id": 94,
+      "en": "Well, maybe we weren't looking for them, but they found us because the person getting stuff out of the cupboard dropped some wine glasses.",
+      "cn": "好吧，也许我们没有在找它们，但它们找到了我们，因为从橱柜里拿东西的人掉了一些酒杯。"
+    },
+    {
+      "id": 95,
+      "en": "These are very, very easy to break.",
+      "cn": "这些非常容易破。"
+    },
+    {
+      "id": 96,
+      "en": "Wine glasses are basically just glasses that maybe are tall and you drink wine out of them.",
+      "cn": "酒杯基本上就是用来喝酒的高杯。"
+    },
+    {
+      "id": 97,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "So there's a specific type of glass usually used to drink wine.",
+      "cn": "所以酒杯是一种特定类型的杯子，通常用来喝酒。"
+    },
+    {
+      "id": 99,
+      "en": "So wine glasses, I guess a normal glass that you use to drink maybe juice or water is just called a glass.",
+      "cn": "所以酒杯，我想你用来喝果汁或水的普通杯子就叫做杯子。"
+    },
+    {
+      "id": 100,
+      "en": "Right, you wouldn't say wine glass.",
+      "cn": "对，你不会说酒杯。"
+    },
+    {
+      "id": 101,
+      "en": "Only when you're drinking wine.",
+      "cn": "只有在喝酒的时候。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, so we've taken a look at a lot of vocab here, a lot of tools that we use at the dinner table when we're having dinner.",
+      "cn": "好的，我们已经看了很多词汇，很多在吃晚餐时用的工具。"
+    },
+    {
+      "id": 103,
+      "en": "So let's listen to the dialogue again and review.",
+      "cn": "那么我们再听一遍对话，复习一下。"
+    },
+    {
+      "id": 104,
+      "en": "Honey, can you set the table?",
+      "cn": "亲爱的，你能摆桌子吗？"
+    },
+    {
+      "id": 105,
+      "en": "Um, sure.",
+      "cn": "嗯，当然。"
+    },
+    {
+      "id": 106,
+      "en": "What are we having for dinner?",
+      "cn": "我们晚餐吃什么？"
+    },
+    {
+      "id": 107,
+      "en": "Do I need to put anything out in particular?",
+      "cn": "我需要特别准备什么吗？"
+    },
+    {
+      "id": 108,
+      "en": "Well, make sure to put out the pepper and salt shakers.",
+      "cn": "嗯，确保把胡椒和盐罐拿出来。"
+    },
+    {
+      "id": 109,
+      "en": "I don't know if your brother is coming tonight, so set an extra placemat just in case.",
+      "cn": "我不知道你哥哥今晚是否会来，所以多摆一个餐垫以防万一。"
+    },
+    {
+      "id": 110,
+      "en": "Okay, should I use the fancy silverware?",
+      "cn": "好的，我应该用精致的餐具吗？"
+    },
+    {
+      "id": 111,
+      "en": "Yeah, go ahead.",
+      "cn": "是的，去吧。"
+    },
+    {
+      "id": 112,
+      "en": "Forks, spoons and knives.",
+      "cn": "叉子、勺子和刀子。"
+    },
+    {
+      "id": 113,
+      "en": "I roasted some meat, so be sure to put out some steak knives as well.",
+      "cn": "我烤了一些肉，所以确保也拿出一些牛排刀。"
+    },
+    {
+      "id": 114,
+      "en": "I'll also set some cups and saucers for some coffee after dinner.",
+      "cn": "我还会准备一些杯子和碟子，晚餐后喝咖啡。"
+    },
+    {
+      "id": 115,
+      "en": "Honey, have you seen our soup bowls?",
+      "cn": "亲爱的，你看到我们的汤碗了吗？"
+    },
+    {
+      "id": 116,
+      "en": "They're in the cupboard where you keep the gravy boat and serving dishes.",
+      "cn": "在你放肉汁壶和餐具的橱柜里。"
+    },
+    {
+      "id": 117,
+      "en": "Just be careful because the wine glasses are also the...",
+      "cn": "只要小心，因为酒杯也在那里……"
+    },
+    {
+      "id": 118,
+      "en": "Oops!",
+      "cn": "哎呀！"
+    },
+    {
+      "id": 119,
+      "en": "Alright, we're back, so now we have four key phrases that we've prepared for you on Fluency Builder.",
+      "cn": "好的，我们回来了，现在我们为你准备了四个关键短语在流利表达中。"
+    },
+    {
+      "id": 120,
+      "en": "Okay, so this first phrase is very important, especially as a child your mother or father might ask you to do this.",
+      "cn": "好的，第一个短语非常重要，尤其是作为孩子时，你的母亲或父亲可能会让你这样做。"
+    },
+    {
+      "id": 121,
+      "en": "The phrase is to set the table.",
+      "cn": "这个短语是摆桌子。"
+    },
+    {
+      "id": 122,
+      "en": "Okay, so that's a phrasal verb, to set the table.",
+      "cn": "好的，这是一个短语动词，摆桌子。"
+    },
+    {
+      "id": 123,
+      "en": "And what does it mean if you're asked to set the table?",
+      "cn": "如果你被要求摆桌子，这意味着什么？"
+    },
+    {
+      "id": 124,
+      "en": "It means you will put down the plates and the silverware and the bowls so that everything is prepared for dinner.",
+      "cn": "这意味着你会放下盘子、餐具和碗，以便一切准备好吃晚餐。"
+    },
+    {
+      "id": 125,
+      "en": "Okay, so this is actually what we were doing and a complementary phrasal verb to this when you're setting the table, as you said, you are putting down or putting out the different spoons, knives, dishes all that stuff.",
+      "cn": "好的，这实际上就是我们在做的事情，而与此相关的一个补充短语是，当你摆桌子时，正如你所说的，你是在放下或拿出不同的勺子、刀子、碟子等等。"
+    },
+    {
+      "id": 126,
+      "en": "Right, so the verbal phrase to put out means to place down or to make sure that you get something out on the table.",
+      "cn": "对，所以动词短语“拿出”意味着放下或确保把某物拿到桌子上。"
+    },
+    {
+      "id": 127,
+      "en": "In this case, my mother would usually ask me to put out extra glasses for water, okay, or don't forget to put out the wine glasses in case we're drinking wine.",
+      "cn": "在这种情况下，我的母亲通常会让我拿出额外的水杯，好的，或者别忘了拿出酒杯，以防我们喝酒。"
+    },
+    {
+      "id": 128,
+      "en": "It just means to place down.",
+      "cn": "这只是意味着放下。"
+    },
+    {
+      "id": 129,
+      "en": "Exactly, so just remember that we use it because all these things that are inside the cupboard, so you have to take them out, so you have to put them out on the table.",
+      "cn": "正是如此，所以只要记住我们使用它，因为所有这些东西都在橱柜里，所以你必须把它们拿出来，放到桌子上。"
+    },
+    {
+      "id": 130,
+      "en": "Alright, and sometimes we may have a guest or we may need an extra chair or an extra seat because we're having company and the person in the dialogue said to set an extra placemat just in case.",
+      "cn": "好的，有时我们可能会有客人，或者我们可能需要额外的椅子或额外的座位，因为我们有客人，而对话中的人说要多摆一个餐垫以防万一。"
+    },
+    {
+      "id": 131,
+      "en": "Okay, so placemat is basically a piece of plastic or maybe fabric that you put in front of a person when they're at the table, so it's on the table and it's something that protects the table.",
+      "cn": "好的，餐垫基本上是放在一个人面前的塑料或布料，所以它在桌子上，是保护桌子的东西。"
+    },
+    {
+      "id": 132,
+      "en": "So it's small, everyone has one, and the bowl and the silverware will go on top of that placemat, but it also indicates that that is where someone will sit.",
+      "cn": "所以它很小，每个人都有一个，碗和餐具会放在那个餐垫上，但它也表示那是某人将要坐的地方。"
+    },
+    {
+      "id": 133,
+      "en": "Okay, so to put out or to set out an extra placemat means to prepare an extra place for someone else who will be coming.",
+      "cn": "好的，拿出或摆出一个额外的餐垫意味着为将要来的人准备一个额外的地方。"
+    },
+    {
+      "id": 134,
+      "en": "So if you have a guest, for example, you'll set out an extra placemat for him or for her.",
+      "cn": "所以如果你有一个客人，比如说，你会为他或她摆出一个额外的餐垫。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, so we can say set an extra placemat because by this we are referring that somebody is going to sit down at the table or you can just simply say set an extra place for someone.",
+      "cn": "好的，所以我们可以说摆一个额外的餐垫，因为这样我们指的是某人将要坐在桌子上，或者你可以简单地说为某人摆一个额外的地方。"
+    },
+    {
+      "id": 136,
+      "en": "That's right, set an extra place your older brother is coming home from college tonight.",
+      "cn": "没错，摆一个额外的地方，你的哥哥今晚从大学回家。"
+    },
+    {
+      "id": 137,
+      "en": "Okay, so we can set an extra place for him at the table and well, in this case we didn't know if the brother was really coming or not, so she said just in case.",
+      "cn": "好的，我们可以在桌子上为他摆一个额外的地方，而在这种情况下，我们不知道哥哥是否真的会来，所以她说以防万一。"
+    },
+    {
+      "id": 138,
+      "en": "This is a great phrase, one that you'll hear all the time.",
+      "cn": "这是一个很好的短语，你会经常听到。"
+    },
+    {
+      "id": 139,
+      "en": "It means I'm not sure what the result will be or what the outcome will be, but in case something happens or just in case we should do this.",
+      "cn": "这意味着我不确定结果会是什么，但以防万一发生什么，或者以防万一我们应该这样做。"
+    },
+    {
+      "id": 140,
+      "en": "So for example, Marco, I think it's going to rain today, you should bring an umbrella just in case.",
+      "cn": "例如，马尔科，我觉得今天会下雨，你应该带把伞以防万一。"
+    },
+    {
+      "id": 141,
+      "en": "Okay, so this is a way of saying you're preventing something, you're prepared.",
+      "cn": "好的，这是一种说你在预防某事，你在准备。"
+    },
+    {
+      "id": 142,
+      "en": "Maybe if it does rain you'll have an umbrella.",
+      "cn": "也许如果真的下雨，你会有把伞。"
+    },
+    {
+      "id": 143,
+      "en": "Just in case, bring your umbrella.",
+      "cn": "以防万一，带上你的伞。"
+    },
+    {
+      "id": 144,
+      "en": "Okay, so a lot of great phrases there.",
+      "cn": "好的，有很多很好的短语。"
+    },
+    {
+      "id": 145,
+      "en": "A lot of vocab, so why don't we listen to the dialogue for the last time.",
+      "cn": "很多词汇，所以我们再听一遍对话。"
+    },
+    {
+      "id": 146,
+      "en": "Honey, can you set the table?",
+      "cn": "亲爱的，你能摆桌子吗？"
+    },
+    {
+      "id": 147,
+      "en": "Um, sure.",
+      "cn": "嗯，当然。"
+    },
+    {
+      "id": 148,
+      "en": "What are we having for dinner?",
+      "cn": "我们晚餐吃什么？"
+    },
+    {
+      "id": 149,
+      "en": "Do I need to put anything out in particular?",
+      "cn": "我需要特别准备什么吗？"
+    },
+    {
+      "id": 150,
+      "en": "Well, make sure to put out the pepper and salt shakers.",
+      "cn": "嗯，确保把胡椒和盐罐拿出来。"
+    },
+    {
+      "id": 151,
+      "en": "I don't know if your brother is coming tonight, so set an extra place mat, just in case.",
+      "cn": "我不知道你哥哥今晚是否会来，所以多摆一个餐垫，以防万一。"
+    },
+    {
+      "id": 152,
+      "en": "Okay, should I use the fancy silverware?",
+      "cn": "好的，我应该用精致的餐具吗？"
+    },
+    {
+      "id": 153,
+      "en": "Yeah, go ahead.",
+      "cn": "是的，去吧。"
+    },
+    {
+      "id": 154,
+      "en": "Forks, spoons, and knives.",
+      "cn": "叉子、勺子和刀子。"
+    },
+    {
+      "id": 155,
+      "en": "I roasted some meat, so be sure to put out some steak knives as well.",
+      "cn": "我烤了一些肉，所以确保也拿出一些牛排刀。"
+    },
+    {
+      "id": 156,
+      "en": "I'll also set some cups and saucers for some coffee after dinner.",
+      "cn": "我还会准备一些杯子和碟子，晚餐后喝咖啡。"
+    },
+    {
+      "id": 157,
+      "en": "Honey, have you seen our soup bowls?",
+      "cn": "亲爱的，你看到我们的汤碗了吗？"
+    },
+    {
+      "id": 158,
+      "en": "They're in the cupboard where you keep the gravy boat and serving dishes.",
+      "cn": "在你放肉汁壶和餐具的橱柜里。"
+    },
+    {
+      "id": 159,
+      "en": "Just be careful because the wine glasses are also there.",
+      "cn": "只要小心，因为酒杯也在那里。"
+    },
+    {
+      "id": 160,
+      "en": "Oops!",
+      "cn": "哎呀！"
+    },
+    {
+      "id": 161,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 162,
+      "en": "So talking about dinner and silverware there are also a couple of other names that we didn't mention.",
+      "cn": "所以谈到晚餐和餐具，还有一些我们没有提到的名字。"
+    },
+    {
+      "id": 163,
+      "en": "For example, many people refer to ceramic plates as China.",
+      "cn": "例如，很多人把陶瓷盘子称为瓷器。"
+    },
+    {
+      "id": 164,
+      "en": "Yeah, these are usually the fancy kinds of plates and dishes that you have in your house.",
+      "cn": "是的，这通常是你家里那种精致的盘子和碟子。"
+    },
+    {
+      "id": 165,
+      "en": "Obviously, if you have just kind of the cheap ceramics that you can throw away or even paper plates, those aren't very important, but at a wedding or in a special occasion, a person or family might receive China ware.",
+      "cn": "显然，如果你只有那种便宜的陶瓷，甚至是纸盘，那就不太重要，但在婚礼或特殊场合，一个人或家庭可能会收到瓷器。"
+    },
+    {
+      "id": 166,
+      "en": "China.",
+      "cn": "瓷器。"
+    },
+    {
+      "id": 167,
+      "en": "And that is very nice, very pretty porcelain plates or just lacquerware.",
+      "cn": "那是非常好，非常漂亮的瓷盘或漆器。"
+    },
+    {
+      "id": 168,
+      "en": "Okay, so you can call it China ware, which is basically plates that are either very fine ceramic or porcelain, as you said.",
+      "cn": "好的，所以你可以称之为瓷器，基本上是非常精致的陶瓷或瓷器，正如你所说。"
+    },
+    {
+      "id": 169,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 170,
+      "en": "Or what was the other word that you said before?",
+      "cn": "或者你之前说的另一个词是什么？"
+    },
+    {
+      "id": 171,
+      "en": "Lacquerware.",
+      "cn": "漆器。"
+    },
+    {
+      "id": 172,
+      "en": "Lacquerware is a certain kind of plate or ceramic that has a kind of sheen to it.",
+      "cn": "漆器是一种有光泽的盘子或陶瓷。"
+    },
+    {
+      "id": 173,
+      "en": "It's got a special kind of basically paint job.",
+      "cn": "它有一种特殊的涂装。"
+    },
+    {
+      "id": 174,
+      "en": "Oh, okay.",
+      "cn": "哦，好的。"
+    },
+    {
+      "id": 175,
+      "en": "Yeah, because it's always been kind of strange the fact that a name like China would also now be related to plates, but apparently I guess because Chinese porcelain is renowned as being such high quality I guess this is why now we just have a word for it called China or China ware.",
+      "cn": "是的，因为将一个名字像瓷器与盘子联系在一起一直有点奇怪，但显然我想是因为中国瓷器以其高质量而闻名，我想这就是为什么我们现在有一个词叫瓷器或瓷器。"
+    },
+    {
+      "id": 176,
+      "en": "I think it actually has to do with the fact that the Chinese in the old days sold, well, most of the British bought their porcelain from China.",
+      "cn": "我认为这实际上与过去中国人出售的事实有关，嗯，大多数英国人从中国购买他们的瓷器。"
+    },
+    {
+      "id": 177,
+      "en": "And so it was very, very in vogue it was very popular.",
+      "cn": "所以这非常流行，非常受欢迎。"
+    },
+    {
+      "id": 178,
+      "en": "And it was basically the only thing that the British wanted.",
+      "cn": "而且这基本上是英国人唯一想要的东西。"
+    },
+    {
+      "id": 179,
+      "en": "They just wanted all of this China.",
+      "cn": "他们只想要所有的瓷器。"
+    },
+    {
+      "id": 180,
+      "en": "And it became a part of the vocabulary then.",
+      "cn": "然后它成为了词汇的一部分。"
+    },
+    {
+      "id": 181,
+      "en": "Yeah, it's really strange though that you would call something China.",
+      "cn": "是的，真的很奇怪，你会称某样东西为瓷器。"
+    },
+    {
+      "id": 182,
+      "en": "It's like, I don't know any other country that you call something, you know, like French.",
+      "cn": "就像，我不知道还有哪个国家的东西会被称为，比如法式。"
+    },
+    {
+      "id": 183,
+      "en": "This is a French.",
+      "cn": "这是法式的。"
+    },
+    {
+      "id": 184,
+      "en": "Or French ware.",
+      "cn": "或者法式器皿。"
+    },
+    {
+      "id": 185,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 186,
+      "en": "I can't think of any.",
+      "cn": "我想不出任何。"
+    },
+    {
+      "id": 187,
+      "en": "Limoges is the name of a city in France and it's a certain kind of ceramics.",
+      "cn": "利摩日是法国的一个城市，它是一种特定的陶瓷。"
+    },
+    {
+      "id": 188,
+      "en": "Oh, there you go.",
+      "cn": "哦，没错。"
+    },
+    {
+      "id": 189,
+      "en": "Alright, so an interesting topic there are many other tools that we didn't mention, like salad fork and ice cream spoon.",
+      "cn": "好的，所以这是一个有趣的话题，还有很多其他工具我们没有提到，比如沙拉叉和冰淇淋勺。"
+    },
+    {
+      "id": 190,
+      "en": "I don't know, there are so many sometimes if you go to a fancy dinner you will have maybe three spoons three knives, three forks and you don't know what to do with it.",
+      "cn": "我不知道，有时候如果你去一个精致的晚餐，你可能会有三把勺子、三把刀、三把叉子，你不知道该怎么用。"
+    },
+    {
+      "id": 191,
+      "en": "Start on the outside and go in that's my one recommendation.",
+      "cn": "从外面开始，然后往里走，这是我唯一的建议。"
+    },
+    {
+      "id": 192,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 193,
+      "en": "So we're really curious to know what you have to say.",
+      "cn": "所以我们真的很想知道你有什么想法。"
+    },
+    {
+      "id": 194,
+      "en": "Come to our website, EnglishPod.com.",
+      "cn": "来我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 195,
+      "en": "If you have any questions you can leave them there.",
+      "cn": "如果你有任何问题，可以在那里留言。"
+    },
+    {
+      "id": 196,
+      "en": "Or if you also want to suggest a topic for a lesson or anything you want, just let us know.",
+      "cn": "或者如果你想建议一个课程主题或任何你想要的内容，请告诉我们。"
+    },
+    {
+      "id": 197,
+      "en": "Alright, we'll see you then.",
+      "cn": "好的，我们到时见。"
+    },
+    {
+      "id": 198,
+      "en": "Alright, bye.",
+      "cn": "好的，再见。"
+    }
+  ]
+}

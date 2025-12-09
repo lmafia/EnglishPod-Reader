@@ -1,0 +1,1259 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0122",
+  "title": "EnglishPod 初级 英文播客 0122",
+  "totalSegments": 250,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today, we have an elementary lesson for you and we are at the supermarket.",
+      "cn": "今天，我们为你准备了一节初级课程，我们在超市。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're at the grocery store and we're going to learn some language you can use when you want to pay for your groceries.",
+      "cn": "我们在杂货店，我们将学习一些你在支付杂货时可以使用的语言。"
+    },
+    {
+      "id": 8,
+      "en": "So this lesson was requested by one of our users that wanted vocabulary and different phrases that are used in the supermarket when the person is about to pay for all their groceries.",
+      "cn": "这节课是我们的一位用户请求的，他想要在超市支付时使用的词汇和不同的短语。"
+    },
+    {
+      "id": 9,
+      "en": "All the things they need.",
+      "cn": "所有他们需要的东西。"
+    },
+    {
+      "id": 10,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 11,
+      "en": "And we also have some great language that the person who is actually selling the groceries can use.",
+      "cn": "我们还有一些卖杂货的人可以使用的很好的语言。"
+    },
+    {
+      "id": 12,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 13,
+      "en": "So let's listen to our dialogue for the first time and see what happens.",
+      "cn": "那么让我们第一次听听我们的对话，看看会发生什么。"
+    },
+    {
+      "id": 14,
+      "en": "Excuse me, sir.",
+      "cn": "劳驾，先生。"
+    },
+    {
+      "id": 15,
+      "en": "This is the express checkout Lane for people who have 15 items or fewer.",
+      "cn": "这是15件商品或更少的快速结账通道。"
+    },
+    {
+      "id": 16,
+      "en": "It looks like you have more than 15 items there.",
+      "cn": "看起来你有超过15件商品。"
+    },
+    {
+      "id": 17,
+      "en": "Oh, come on.",
+      "cn": "哦，拜托。"
+    },
+    {
+      "id": 18,
+      "en": "I have 16 items.",
+      "cn": "我有16件商品。"
+    },
+    {
+      "id": 19,
+      "en": "Cut me some slack, will ya?",
+      "cn": "放我一马，好吗？"
+    },
+    {
+      "id": 20,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 21,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "cn": "请把你的商品放在传送带上，并推着购物车通过。"
+    },
+    {
+      "id": 22,
+      "en": "Do you prefer paper or plastic?",
+      "cn": "你喜欢纸袋还是塑料袋？"
+    },
+    {
+      "id": 23,
+      "en": "Plastic.",
+      "cn": "塑料袋。"
+    },
+    {
+      "id": 24,
+      "en": "I also have a couple of coupons.",
+      "cn": "我还有几张优惠券。"
+    },
+    {
+      "id": 25,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 26,
+      "en": "I'll take those.",
+      "cn": "我会收下这些。"
+    },
+    {
+      "id": 27,
+      "en": "Sir, these coupons expired yesterday.",
+      "cn": "先生，这些优惠券昨天过期了。"
+    },
+    {
+      "id": 28,
+      "en": "Darn.",
+      "cn": "真糟糕。"
+    },
+    {
+      "id": 29,
+      "en": "Oh well.",
+      "cn": "哦，好吧。"
+    },
+    {
+      "id": 30,
+      "en": "I guess it's just not my day.",
+      "cn": "我想这不是我的日子。"
+    },
+    {
+      "id": 31,
+      "en": "Thanks anyway.",
+      "cn": "不管怎样，谢谢。"
+    },
+    {
+      "id": 32,
+      "en": "Do you have a club card or will it be cash?",
+      "cn": "你有会员卡吗，还是现金？"
+    },
+    {
+      "id": 33,
+      "en": "Yeah, I got a club card.",
+      "cn": "是的，我有会员卡。"
+    },
+    {
+      "id": 34,
+      "en": "Here you go.",
+      "cn": "给你。"
+    },
+    {
+      "id": 35,
+      "en": "Will this be debit or credit?",
+      "cn": "这是借记卡还是信用卡？"
+    },
+    {
+      "id": 36,
+      "en": "Debit, please.",
+      "cn": "请用借记卡。"
+    },
+    {
+      "id": 37,
+      "en": "Also, could I get cash back?",
+      "cn": "另外，我可以取现金吗？"
+    },
+    {
+      "id": 38,
+      "en": "$50 would be great.",
+      "cn": "50美元就很好。"
+    },
+    {
+      "id": 39,
+      "en": "Yeah, sure.",
+      "cn": "好的，没问题。"
+    },
+    {
+      "id": 40,
+      "en": "Your total is $78.33.",
+      "cn": "你的总额是78.33美元。"
+    },
+    {
+      "id": 41,
+      "en": "Here's your receipt.",
+      "cn": "这是你的收据。"
+    },
+    {
+      "id": 42,
+      "en": "Have a nice day.",
+      "cn": "祝你有美好的一天。"
+    },
+    {
+      "id": 43,
+      "en": "Well, we can see in this dialogue that the guy was able to buy his food and, you know, they were using some really interesting, helpful language.",
+      "cn": "好吧，我们可以看到在这个对话中，这个家伙能够买到他的食物，你知道，他们使用了一些非常有趣和有用的语言。"
+    },
+    {
+      "id": 44,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 45,
+      "en": "And so why don't we look at this language now in Language Takeaway?",
+      "cn": "那么我们现在来看看这些语言在语言收获中。"
+    },
+    {
+      "id": 46,
+      "en": "Language Takeaway Okay, we have six words for you today.",
+      "cn": "语言收获 好吧，今天我们有六个单词给你。"
+    },
+    {
+      "id": 47,
+      "en": "And the first one, the girl, the cashier says this is the express checkout Lane.",
+      "cn": "第一个，女孩，收银员说这是快速结账通道。"
+    },
+    {
+      "id": 48,
+      "en": "Alright, so checkout Lane.",
+      "cn": "好的，所以结账通道。"
+    },
+    {
+      "id": 49,
+      "en": "The checkout Lane.",
+      "cn": "结账通道。"
+    },
+    {
+      "id": 50,
+      "en": "So the checkout Lane is the place where you get in line to pay for all the goods you bought.",
+      "cn": "所以结账通道是你排队支付你购买的所有商品的地方。"
+    },
+    {
+      "id": 51,
+      "en": "Right, so the checkout Lane.",
+      "cn": "对，所以结账通道。"
+    },
+    {
+      "id": 52,
+      "en": "Now, why did she say express checkout Lane?",
+      "cn": "现在，她为什么说快速结账通道？"
+    },
+    {
+      "id": 53,
+      "en": "So in grocery stores or in supermarkets, sometimes you have a specific checkout Lane that's faster.",
+      "cn": "所以在杂货店或超市，有时你会有一个特定的结账通道更快。"
+    },
+    {
+      "id": 54,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 55,
+      "en": "Because people have less things.",
+      "cn": "因为人们的东西更少。"
+    },
+    {
+      "id": 56,
+      "en": "So express is the faster checkout Lane.",
+      "cn": "所以快速是更快的结账通道。"
+    },
+    {
+      "id": 57,
+      "en": "Right, the faster one.",
+      "cn": "对，更快的。"
+    },
+    {
+      "id": 58,
+      "en": "Alright, so next she tells the guy to put your items on the belt.",
+      "cn": "好的，接下来她告诉那个家伙把你的商品放在传送带上。"
+    },
+    {
+      "id": 59,
+      "en": "Okay, the belt.",
+      "cn": "好的，传送带。"
+    },
+    {
+      "id": 60,
+      "en": "The belt.",
+      "cn": "传送带。"
+    },
+    {
+      "id": 61,
+      "en": "A belt.",
+      "cn": "一条传送带。"
+    },
+    {
+      "id": 62,
+      "en": "Now we know belt as the thing you put around your waist.",
+      "cn": "现在我们知道传送带是你围绕腰部的东西。"
+    },
+    {
+      "id": 63,
+      "en": "To keep your pants up.",
+      "cn": "用来保持裤子不掉。"
+    },
+    {
+      "id": 64,
+      "en": "Right, but in a supermarket, the belt is the moving table that you put your groceries on so the cashier starts to pass them through.",
+      "cn": "对，但在超市，传送带是你放置杂货的移动桌子，以便收银员开始扫描它们。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, so the belt.",
+      "cn": "好的，所以传送带。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, the belt.",
+      "cn": "好的，传送带。"
+    },
+    {
+      "id": 67,
+      "en": "Put your groceries on the belt.",
+      "cn": "把你的杂货放在传送带上。"
+    },
+    {
+      "id": 68,
+      "en": "And then the guy said that he had a couple of coupons.",
+      "cn": "然后那个家伙说他有几张优惠券。"
+    },
+    {
+      "id": 69,
+      "en": "Coupons.",
+      "cn": "优惠券。"
+    },
+    {
+      "id": 70,
+      "en": "Coupons.",
+      "cn": "优惠券。"
+    },
+    {
+      "id": 71,
+      "en": "A coupon.",
+      "cn": "一张优惠券。"
+    },
+    {
+      "id": 72,
+      "en": "Okay, so what is a coupon?",
+      "cn": "好的，那么什么是优惠券？"
+    },
+    {
+      "id": 73,
+      "en": "A coupon is a piece of paper you can use to get a discount.",
+      "cn": "优惠券是一张你可以用来获得折扣的纸。"
+    },
+    {
+      "id": 74,
+      "en": "Alright, so it has a discount on it.",
+      "cn": "好的，所以它上面有折扣。"
+    },
+    {
+      "id": 75,
+      "en": "A discount for one thing.",
+      "cn": "一种商品的折扣。"
+    },
+    {
+      "id": 76,
+      "en": "So maybe you buy some apples and you get 10% off one kind of apple.",
+      "cn": "所以也许你买一些苹果，你可以得到一种苹果10%的折扣。"
+    },
+    {
+      "id": 77,
+      "en": "Very good, coupons.",
+      "cn": "非常好，优惠券。"
+    },
+    {
+      "id": 78,
+      "en": "Now he presented these coupons and she said they were expired.",
+      "cn": "现在他出示了这些优惠券，她说它们已经过期了。"
+    },
+    {
+      "id": 79,
+      "en": "The coupons expired yesterday.",
+      "cn": "优惠券昨天过期了。"
+    },
+    {
+      "id": 80,
+      "en": "Expired.",
+      "cn": "过期。"
+    },
+    {
+      "id": 81,
+      "en": "To expire.",
+      "cn": "过期。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so to expire, that means?",
+      "cn": "好的，所以过期意味着？"
+    },
+    {
+      "id": 83,
+      "en": "To be older than the date when you can use them.",
+      "cn": "超过你可以使用它们的日期。"
+    },
+    {
+      "id": 84,
+      "en": "Right, so why don't we listen to some other examples of how we can use expired so we can understand a little bit better.",
+      "cn": "对，所以我们为什么不听一些其他例子，看看我们如何使用过期，以便更好地理解。"
+    },
+    {
+      "id": 85,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 86,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 87,
+      "en": "This credit card expired five years ago.",
+      "cn": "这张信用卡五年前过期了。"
+    },
+    {
+      "id": 88,
+      "en": "You can't use it anymore.",
+      "cn": "你不能再使用它了。"
+    },
+    {
+      "id": 89,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 90,
+      "en": "My driver's license expires in a month, so I have to get it renewed.",
+      "cn": "我的驾驶执照一个月后过期，所以我必须去续期。"
+    },
+    {
+      "id": 91,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 92,
+      "en": "Don't drink that.",
+      "cn": "不要喝那个。"
+    },
+    {
+      "id": 93,
+      "en": "The milk has expired.",
+      "cn": "牛奶已经过期了。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, so we can see his coupons expired so they were too old and he couldn't use them anymore.",
+      "cn": "好的，所以我们可以看到他的优惠券过期了，所以它们太旧了，他不能再使用它们。"
+    },
+    {
+      "id": 95,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 96,
+      "en": "And now, finally, she asked him if he wants to pay with his club card or cash.",
+      "cn": "最后，她问他是否想用会员卡支付还是现金。"
+    },
+    {
+      "id": 97,
+      "en": "So, club card.",
+      "cn": "所以，会员卡。"
+    },
+    {
+      "id": 98,
+      "en": "Club card.",
+      "cn": "会员卡。"
+    },
+    {
+      "id": 99,
+      "en": "What's a club card?",
+      "cn": "什么是会员卡？"
+    },
+    {
+      "id": 100,
+      "en": "So, in some supermarkets, you can receive a special type of credit card that you can only use for grocery shopping.",
+      "cn": "所以，在一些超市，你可以获得一种特殊类型的信用卡，只能用于购物。"
+    },
+    {
+      "id": 101,
+      "en": "And only in that store.",
+      "cn": "而且只能在那家店使用。"
+    },
+    {
+      "id": 102,
+      "en": "Right, so that is a club card.",
+      "cn": "对，所以这就是俱乐部卡。"
+    },
+    {
+      "id": 103,
+      "en": "Alright, so a club card.",
+      "cn": "好的，所以是俱乐部卡。"
+    },
+    {
+      "id": 104,
+      "en": "Okay, so he's going to pay with a card, but he also asks for some cash back.",
+      "cn": "好吧，他要用卡支付，但他也要求一些现金返还。"
+    },
+    {
+      "id": 105,
+      "en": "Cash back.",
+      "cn": "现金返还。"
+    },
+    {
+      "id": 106,
+      "en": "Could I get cash back?",
+      "cn": "我可以得到现金返还吗？"
+    },
+    {
+      "id": 107,
+      "en": "Cash back.",
+      "cn": "现金返还。"
+    },
+    {
+      "id": 108,
+      "en": "Now, what's he talking about?",
+      "cn": "现在，他在说什么？"
+    },
+    {
+      "id": 109,
+      "en": "Can he get cash back?",
+      "cn": "他能得到现金返还吗？"
+    },
+    {
+      "id": 110,
+      "en": "He's paying with a card.",
+      "cn": "他是用卡支付。"
+    },
+    {
+      "id": 111,
+      "en": "What does he want to do?",
+      "cn": "他想做什么？"
+    },
+    {
+      "id": 112,
+      "en": "Well, what happens is, sometimes, suppose your groceries cost $20.",
+      "cn": "嗯，发生的事情是，有时，比如你的杂货花费20美元。"
+    },
+    {
+      "id": 113,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 114,
+      "en": "So, instead of charging $20 to your credit card or your club card, you say, okay, put $70.",
+      "cn": "所以，不是向你的信用卡或俱乐部卡收费20美元，而是说，好的，收70美元。"
+    },
+    {
+      "id": 115,
+      "en": "So, then the cashier can give you $50 back, so you can have cash in your pocket.",
+      "cn": "然后，收银员可以给你50美元的现金，这样你口袋里就有现金了。"
+    },
+    {
+      "id": 116,
+      "en": "Ah, so instead of going to the ATM, you can get your money in one spot.",
+      "cn": "啊，所以不需要去ATM，你可以在一个地方拿到钱。"
+    },
+    {
+      "id": 117,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 118,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 119,
+      "en": "So, that's cash back.",
+      "cn": "所以，这就是现金返还。"
+    },
+    {
+      "id": 120,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 121,
+      "en": "Well, why don't we hear this one more time in the dialogue, but let's slow it down a little so we can understand better.",
+      "cn": "那么，为什么我们不再听一次对话，但慢一点，这样我们可以更好地理解。"
+    },
+    {
+      "id": 122,
+      "en": "Excuse me, sir.",
+      "cn": "劳驾，先生。"
+    },
+    {
+      "id": 123,
+      "en": "This is the express checkout Lane for people that have 15 items or fewer.",
+      "cn": "这是15件商品或更少的快速结账通道。"
+    },
+    {
+      "id": 124,
+      "en": "It looks like you have more than 15 items there.",
+      "cn": "看起来你有超过15件商品。"
+    },
+    {
+      "id": 125,
+      "en": "Oh, come on!",
+      "cn": "哦，拜托！"
+    },
+    {
+      "id": 126,
+      "en": "I have 16 items.",
+      "cn": "我有16件商品。"
+    },
+    {
+      "id": 127,
+      "en": "Cut me some slack, will ya?",
+      "cn": "放我一马，好吗？"
+    },
+    {
+      "id": 128,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 129,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "cn": "请把你的商品放在传送带上，并推着购物车通过。"
+    },
+    {
+      "id": 130,
+      "en": "Do you prefer paper or plastic?",
+      "cn": "你喜欢纸袋还是塑料袋？"
+    },
+    {
+      "id": 131,
+      "en": "Plastic.",
+      "cn": "塑料袋。"
+    },
+    {
+      "id": 132,
+      "en": "I also have a couple of coupons.",
+      "cn": "我还有几张优惠券。"
+    },
+    {
+      "id": 133,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 134,
+      "en": "I'll take those.",
+      "cn": "我会收下这些。"
+    },
+    {
+      "id": 135,
+      "en": "Sir, these coupons expired yesterday.",
+      "cn": "先生，这些优惠券昨天过期了。"
+    },
+    {
+      "id": 136,
+      "en": "Darn!",
+      "cn": "真糟糕！"
+    },
+    {
+      "id": 137,
+      "en": "Oh well.",
+      "cn": "哦，好吧。"
+    },
+    {
+      "id": 138,
+      "en": "I guess it's just not my day.",
+      "cn": "我想这一天就是不顺。"
+    },
+    {
+      "id": 139,
+      "en": "Thanks anyway.",
+      "cn": "不管怎样，谢谢。"
+    },
+    {
+      "id": 140,
+      "en": "Do you have a club card or will it be cash?",
+      "cn": "你有俱乐部卡还是现金？"
+    },
+    {
+      "id": 141,
+      "en": "Yeah, I got a club card.",
+      "cn": "是的，我有俱乐部卡。"
+    },
+    {
+      "id": 142,
+      "en": "Here you go.",
+      "cn": "给你。"
+    },
+    {
+      "id": 143,
+      "en": "Will this be debit or credit?",
+      "cn": "这是借记卡还是信用卡？"
+    },
+    {
+      "id": 144,
+      "en": "Debit, please.",
+      "cn": "借记卡，谢谢。"
+    },
+    {
+      "id": 145,
+      "en": "Also, could I get cash back?",
+      "cn": "另外，我可以得到现金返还吗？"
+    },
+    {
+      "id": 146,
+      "en": "$50 would be great.",
+      "cn": "50美元就很好。"
+    },
+    {
+      "id": 147,
+      "en": "Yeah, sure.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 148,
+      "en": "Your total is $78.33.",
+      "cn": "你的总额是78.33美元。"
+    },
+    {
+      "id": 149,
+      "en": "Here's your receipt.",
+      "cn": "这是你的收据。"
+    },
+    {
+      "id": 150,
+      "en": "Have a nice day.",
+      "cn": "祝你有美好的一天。"
+    },
+    {
+      "id": 151,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 152,
+      "en": "Alright, so now that we've listened to the dialogue for the second time, it's time for us to take a look at some phrases in Fluency Builder.",
+      "cn": "好吧，现在我们听了第二遍对话，是时候看看一些流利表达了。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, we have three phrases for you now.",
+      "cn": "好的，我们现在有三个短语给你。"
+    },
+    {
+      "id": 154,
+      "en": "Well, the guy was not having a very good day, was he?",
+      "cn": "嗯，这个家伙今天过得不太好，是吗？"
+    },
+    {
+      "id": 155,
+      "en": "So he couldn't go in the express checkout Lane and he says, cut me some slack.",
+      "cn": "所以他不能进入快速结账通道，他说，放我一马。"
+    },
+    {
+      "id": 156,
+      "en": "Cut me some slack.",
+      "cn": "放我一马。"
+    },
+    {
+      "id": 157,
+      "en": "To cut someone some slack.",
+      "cn": "放某人一马。"
+    },
+    {
+      "id": 158,
+      "en": "Alright, now this is an interesting and very informal phrase, so before we explain it, why don't we listen to a couple of other examples.",
+      "cn": "好的，现在这是一个有趣且非常非正式的短语，所以在我们解释之前，为什么不听几个其他例子。"
+    },
+    {
+      "id": 159,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 160,
+      "en": "Cut me some slack.",
+      "cn": "放我一马。"
+    },
+    {
+      "id": 161,
+      "en": "I'm only two minutes late.",
+      "cn": "我只迟到了两分钟。"
+    },
+    {
+      "id": 162,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 163,
+      "en": "My wife just had a baby and I'm so tired.",
+      "cn": "我妻子刚生了个宝宝，我太累了。"
+    },
+    {
+      "id": 164,
+      "en": "Cut me some slack.",
+      "cn": "放我一马。"
+    },
+    {
+      "id": 165,
+      "en": "I'll send you the report tomorrow.",
+      "cn": "我明天会把报告发给你。"
+    },
+    {
+      "id": 166,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 167,
+      "en": "Emily had a really bad week.",
+      "cn": "艾米莉这一周过得很糟糕。"
+    },
+    {
+      "id": 168,
+      "en": "I think you should cut her some slack.",
+      "cn": "我觉得你应该放她一马。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, I think I can understand it means relax the rules a little bit.",
+      "cn": "好吧，我想我能理解这意味着放宽一些规则。"
+    },
+    {
+      "id": 170,
+      "en": "Right, so don't be so strict on me.",
+      "cn": "对，所以不要对我太严格。"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, don't be so hard.",
+      "cn": "是的，不要太苛刻。"
+    },
+    {
+      "id": 172,
+      "en": "Now, I know this phrase actually comes from mountain climbing.",
+      "cn": "现在，我知道这个短语实际上来自登山。"
+    },
+    {
+      "id": 173,
+      "en": "Oh, because of the rope.",
+      "cn": "哦，因为绳索。"
+    },
+    {
+      "id": 174,
+      "en": "Yeah, so it's like saying, the slack is loose rope.",
+      "cn": "是的，所以这就像说，松弛是松弛的绳索。"
+    },
+    {
+      "id": 175,
+      "en": "So he's just saying, give me a little bit more freedom.",
+      "cn": "所以他只是说，给我一点更多的自由。"
+    },
+    {
+      "id": 176,
+      "en": "Give me more freedom.",
+      "cn": "给我更多的自由。"
+    },
+    {
+      "id": 177,
+      "en": "Oh, interesting.",
+      "cn": "哦，有趣。"
+    },
+    {
+      "id": 178,
+      "en": "To cut somebody some slack.",
+      "cn": "放某人一马。"
+    },
+    {
+      "id": 179,
+      "en": "Well, now the cashier asked him a question.",
+      "cn": "好吧，现在收银员问了他一个问题。"
+    },
+    {
+      "id": 180,
+      "en": "She says, do you prefer paper or plastic?",
+      "cn": "她说，你喜欢纸袋还是塑料袋？"
+    },
+    {
+      "id": 181,
+      "en": "Do you prefer paper or plastic?",
+      "cn": "你喜欢纸袋还是塑料袋？"
+    },
+    {
+      "id": 182,
+      "en": "Paper or plastic.",
+      "cn": "纸袋还是塑料袋。"
+    },
+    {
+      "id": 183,
+      "en": "Now, this is the common cliche phrase that any grocery store cashier will use, right?",
+      "cn": "现在，这是任何杂货店收银员都会使用的常见陈词，对吧？"
+    },
+    {
+      "id": 184,
+      "en": "Yeah, so paper or plastic what?",
+      "cn": "是的，纸袋还是塑料袋，什么？"
+    },
+    {
+      "id": 185,
+      "en": "Bags, paper or plastic bags.",
+      "cn": "袋子，纸袋或塑料袋。"
+    },
+    {
+      "id": 186,
+      "en": "Alright, so you'll hear this all the time in every grocery store.",
+      "cn": "好的，所以你会在每个杂货店听到这个。"
+    },
+    {
+      "id": 187,
+      "en": "Do you want paper or plastic?",
+      "cn": "你想要纸袋还是塑料袋？"
+    },
+    {
+      "id": 188,
+      "en": "Right, so you can choose plastic bags or paper bags.",
+      "cn": "对，所以你可以选择塑料袋或纸袋。"
+    },
+    {
+      "id": 189,
+      "en": "Okay, remember this one because when you get it right, you'll sound really native-like.",
+      "cn": "好吧，记住这个，因为当你说对的时候，你会听起来很像本地人。"
+    },
+    {
+      "id": 190,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 191,
+      "en": "And our last phrase, since he wasn't really having a good day, he said, it's just not my day.",
+      "cn": "还有我们的最后一个短语，因为他今天过得不太好，他说，这一天就是不顺。"
+    },
+    {
+      "id": 192,
+      "en": "It's just not my day.",
+      "cn": "这一天就是不顺。"
+    },
+    {
+      "id": 193,
+      "en": "It's not my day.",
+      "cn": "这不是我的一天。"
+    },
+    {
+      "id": 194,
+      "en": "Okay, so when it's not your day... It means the day has been hard, you're not really lucky.",
+      "cn": "好吧，所以当这不是你的日子时……这意味着这一天很艰难，你并不幸运。"
+    },
+    {
+      "id": 195,
+      "en": "Yeah, it's not a good day for you.",
+      "cn": "是的，这对你来说不是个好日子。"
+    },
+    {
+      "id": 196,
+      "en": "Not a good day.",
+      "cn": "不是个好日子。"
+    },
+    {
+      "id": 197,
+      "en": "Alright, so let's listen to the dialogue for the last time.",
+      "cn": "好吧，让我们最后一次听对话。"
+    },
+    {
+      "id": 198,
+      "en": "And then we'll come back and talk a little bit about grocery stores in America.",
+      "cn": "然后我们再回来聊聊美国的杂货店。"
+    },
+    {
+      "id": 199,
+      "en": "Excuse me, sir.",
+      "cn": "劳驾，先生。"
+    },
+    {
+      "id": 200,
+      "en": "This is the express checkout Lane for people who have 15 items or fewer.",
+      "cn": "这是15件商品或更少的快速结账通道。"
+    },
+    {
+      "id": 201,
+      "en": "It looks like you have more than 15 items there.",
+      "cn": "看起来你有超过15件商品。"
+    },
+    {
+      "id": 202,
+      "en": "Oh, come on.",
+      "cn": "哦，得了吧。"
+    },
+    {
+      "id": 203,
+      "en": "I have 16 items.",
+      "cn": "我有16件商品。"
+    },
+    {
+      "id": 204,
+      "en": "Cut me some slack, will ya?",
+      "cn": "放我一马，好吗？"
+    },
+    {
+      "id": 205,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 206,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "cn": "请把你的商品放在传送带上，并推着购物车通过。"
+    },
+    {
+      "id": 207,
+      "en": "Do you prefer paper or plastic?",
+      "cn": "你喜欢纸袋还是塑料袋？"
+    },
+    {
+      "id": 208,
+      "en": "Plastic.",
+      "cn": "塑料袋。"
+    },
+    {
+      "id": 209,
+      "en": "I also have a couple of coupons.",
+      "cn": "我还有几张优惠券。"
+    },
+    {
+      "id": 210,
+      "en": "No problem, I'll take those.",
+      "cn": "没问题，我会收下这些。"
+    },
+    {
+      "id": 211,
+      "en": "Sir, these coupons expired yesterday.",
+      "cn": "先生，这些优惠券昨天过期了。"
+    },
+    {
+      "id": 212,
+      "en": "Darn!",
+      "cn": "真糟糕！"
+    },
+    {
+      "id": 213,
+      "en": "Oh well, I guess it's just not my day.",
+      "cn": "哦，好吧，我想今天真不是我的日子。"
+    },
+    {
+      "id": 214,
+      "en": "Thanks anyway.",
+      "cn": "不管怎样，谢谢。"
+    },
+    {
+      "id": 215,
+      "en": "Do you have a club card or will it be cash?",
+      "cn": "你有会员卡吗，还是现金？"
+    },
+    {
+      "id": 216,
+      "en": "Yeah, I got a club card.",
+      "cn": "是的，我有会员卡。"
+    },
+    {
+      "id": 217,
+      "en": "Here you go.",
+      "cn": "给你。"
+    },
+    {
+      "id": 218,
+      "en": "Will this be debit or credit?",
+      "cn": "这是借记卡还是信用卡？"
+    },
+    {
+      "id": 219,
+      "en": "Debit, please.",
+      "cn": "请用借记卡。"
+    },
+    {
+      "id": 220,
+      "en": "Also, could I get cash back?",
+      "cn": "另外，我可以取现金吗？"
+    },
+    {
+      "id": 221,
+      "en": "$50 would be great.",
+      "cn": "50美元就很好。"
+    },
+    {
+      "id": 222,
+      "en": "Yeah, sure.",
+      "cn": "好的，没问题。"
+    },
+    {
+      "id": 223,
+      "en": "Your total is $78.33.",
+      "cn": "你的总额是78.33美元。"
+    },
+    {
+      "id": 224,
+      "en": "Here's your receipt.",
+      "cn": "这是你的收据。"
+    },
+    {
+      "id": 225,
+      "en": "Have a nice day.",
+      "cn": "祝你有美好的一天。"
+    },
+    {
+      "id": 226,
+      "en": "One interesting thing I know about grocery stores in America is that the people who are the cashiers are very often students.",
+      "cn": "我知道关于美国杂货店的一件有趣的事是，收银员通常是学生。"
+    },
+    {
+      "id": 227,
+      "en": "Right, it's a very popular summer job or part-time job of like college students.",
+      "cn": "对，这是大学生非常受欢迎的暑期工作或兼职工作。"
+    },
+    {
+      "id": 228,
+      "en": "Yeah, or even in my hometown it was the most common job for high school students.",
+      "cn": "是的，甚至在我家乡，这也是高中生最常见的工作。"
+    },
+    {
+      "id": 229,
+      "en": "After school, if you went to the grocery store between 4 o'clock and 9 o'clock at night, every single cashier would be a high school student.",
+      "cn": "放学后，如果你在晚上4点到9点之间去杂货店，每个收银员都是高中生。"
+    },
+    {
+      "id": 230,
+      "en": "And the interesting thing is that the cashiers are usually women, right?",
+      "cn": "有趣的是，收银员通常是女性，对吧？"
+    },
+    {
+      "id": 231,
+      "en": "Yeah, always the high school girls who are the cashiers.",
+      "cn": "是的，收银员总是高中女孩。"
+    },
+    {
+      "id": 232,
+      "en": "And so the high school boys would be working in the back, maybe in the warehouse, carrying boxes or stocking the shelves.",
+      "cn": "而高中男生则在后面工作，可能在仓库里，搬箱子或上货架。"
+    },
+    {
+      "id": 233,
+      "en": "So putting the cans on the shelves, right?",
+      "cn": "所以把罐头放到货架上，对吧？"
+    },
+    {
+      "id": 234,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 235,
+      "en": "It's a very popular part-time job for students in the United States, but also coupons are very popular in America.",
+      "cn": "这在美国是学生非常受欢迎的兼职工作，但优惠券在美国也非常流行。"
+    },
+    {
+      "id": 236,
+      "en": "Yeah, what is it about coupons?",
+      "cn": "是的，优惠券有什么特别之处？"
+    },
+    {
+      "id": 237,
+      "en": "Well, usually for example in the Sunday newspaper you will receive a lot of coupons.",
+      "cn": "通常例如在周日的报纸上你会收到很多优惠券。"
+    },
+    {
+      "id": 238,
+      "en": "You go to the grocery store and you have all these coupons for like cookies or a promotion on some type of soda or drink.",
+      "cn": "你去杂货店时，会有很多关于饼干或某种饮料促销的优惠券。"
+    },
+    {
+      "id": 239,
+      "en": "So it's very popular.",
+      "cn": "所以这非常受欢迎。"
+    },
+    {
+      "id": 240,
+      "en": "People go grocery shopping and then present all these coupons.",
+      "cn": "人们去购物，然后出示所有这些优惠券。"
+    },
+    {
+      "id": 241,
+      "en": "And actually you can end up saving a good amount of money.",
+      "cn": "实际上你可以节省不少钱。"
+    },
+    {
+      "id": 242,
+      "en": "I know the coupons are usually like, save 2 cents or save 25 cents.",
+      "cn": "我知道优惠券通常是节省2美分或25美分。"
+    },
+    {
+      "id": 243,
+      "en": "But I guess if you put all of those together, you can save money.",
+      "cn": "但我想如果把这些加在一起，你可以省钱。"
+    },
+    {
+      "id": 244,
+      "en": "It's interesting because people actually will buy that product just because they have a coupon for it.",
+      "cn": "有趣的是，人们实际上会因为有优惠券而购买那个产品。"
+    },
+    {
+      "id": 245,
+      "en": "Coupons and high school checkout girls.",
+      "cn": "优惠券和高中收银女孩。"
+    },
+    {
+      "id": 246,
+      "en": "Well guys, thanks for listening to this show.",
+      "cn": "好吧，感谢大家收听这个节目。"
+    },
+    {
+      "id": 247,
+      "en": "Now remember, if you have any questions about the language we were talking about in this show, please visit our website at EnglishPod.com.",
+      "cn": "现在记住，如果你对我们在这个节目中讨论的语言有任何问题，请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 248,
+      "en": "Right, leave all your questions and comments there.",
+      "cn": "对，留下你的所有问题和评论。"
+    },
+    {
+      "id": 249,
+      "en": "And also if you have any other suggestions or any doubts, please let us know and we'll see you guys there.",
+      "cn": "如果你还有其他建议或疑问，请告诉我们，我们会在那里见到你。"
+    },
+    {
+      "id": 250,
+      "en": "So thanks for listening and until next time, goodbye!",
+      "cn": "所以谢谢你的收听，下次再见，拜拜！"
+    }
+  ]
+}

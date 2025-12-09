@@ -1,0 +1,1144 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0111",
+  "title": "EnglishPod 初级 英文播客 0111",
+  "totalSegments": 227,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another sports lesson with us here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一节体育课。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marko.",
+      "cn": "我叫Marko。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be talking about a very interesting and very difficult game to play, and it's golf.",
+      "cn": "今天我们要谈论一个非常有趣且难度很大的游戏，那就是高尔夫。"
+    },
+    {
+      "id": 6,
+      "en": "So we've got some golf vocabulary for you in this lesson.",
+      "cn": "所以在这节课中，我们为你准备了一些高尔夫词汇。"
+    },
+    {
+      "id": 7,
+      "en": "And I think we better actually look at a few vocabulary words in Vocabulary Preview before we start with the dialogue.",
+      "cn": "我认为在开始对话之前，我们最好先看看词汇预览中的几个词汇。"
+    },
+    {
+      "id": 8,
+      "en": "On Vocabulary Preview today we have three words, and the first one is aficionado.",
+      "cn": "今天的词汇预览中有三个词，第一个是爱好者。"
+    },
+    {
+      "id": 9,
+      "en": "Aficionado.",
+      "cn": "爱好者。"
+    },
+    {
+      "id": 10,
+      "en": "An aficionado.",
+      "cn": "一个爱好者。"
+    },
+    {
+      "id": 11,
+      "en": "A golf aficionado.",
+      "cn": "一个高尔夫爱好者。"
+    },
+    {
+      "id": 12,
+      "en": "Alright, so this basically is a very fancy word of... it's a very fancy way of saying a fan.",
+      "cn": "好吧，这基本上是一个非常华丽的词……它是说一个粉丝的非常华丽的方式。"
+    },
+    {
+      "id": 13,
+      "en": "Yes, someone who likes something a lot.",
+      "cn": "是的，喜欢某样东西的人。"
+    },
+    {
+      "id": 14,
+      "en": "Okay, so you are an aficionado.",
+      "cn": "好吧，所以你是一个爱好者。"
+    },
+    {
+      "id": 15,
+      "en": "I like golf.",
+      "cn": "我喜欢高尔夫。"
+    },
+    {
+      "id": 16,
+      "en": "Yeah, you can also be in a wine aficionado.",
+      "cn": "是的，你也可以是一个葡萄酒爱好者。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, so it's kind of like a hobby.",
+      "cn": "好吧，所以这有点像一种爱好。"
+    },
+    {
+      "id": 18,
+      "en": "Yeah, you know a lot about it and you like it.",
+      "cn": "是的，你对它了解很多，并且你喜欢它。"
+    },
+    {
+      "id": 19,
+      "en": "And now our second word is not anywhere in the dialogue.",
+      "cn": "现在我们的第二个词在对话中没有出现。"
+    },
+    {
+      "id": 20,
+      "en": "No, but we're going to use it when we explain some of these words, so you need to know it.",
+      "cn": "不过我们在解释这些词时会用到它，所以你需要知道它。"
+    },
+    {
+      "id": 21,
+      "en": "Okay, the word is club.",
+      "cn": "好吧，那个词是俱乐部。"
+    },
+    {
+      "id": 22,
+      "en": "Club.",
+      "cn": "俱乐部。"
+    },
+    {
+      "id": 23,
+      "en": "A golf club.",
+      "cn": "一个高尔夫球杆。"
+    },
+    {
+      "id": 24,
+      "en": "Okay, so a golf club is the tool you use to hit the golf ball.",
+      "cn": "好吧，高尔夫球杆是你用来击打高尔夫球的工具。"
+    },
+    {
+      "id": 25,
+      "en": "Right, so it's a long tube basically that looks like a J kind of.",
+      "cn": "对，所以基本上是一个看起来像J的长管子。"
+    },
+    {
+      "id": 26,
+      "en": "Yeah, so and you hit the ball with it.",
+      "cn": "是的，你用它击打球。"
+    },
+    {
+      "id": 27,
+      "en": "Mm-hmm, so that's a golf club.",
+      "cn": "嗯，所以这就是高尔夫球杆。"
+    },
+    {
+      "id": 28,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 29,
+      "en": "And now our third word is golf course.",
+      "cn": "现在我们的第三个词是高尔夫球场。"
+    },
+    {
+      "id": 30,
+      "en": "Golf course.",
+      "cn": "高尔夫球场。"
+    },
+    {
+      "id": 31,
+      "en": "A golf course.",
+      "cn": "一个高尔夫球场。"
+    },
+    {
+      "id": 32,
+      "en": "A course.",
+      "cn": "一个球场。"
+    },
+    {
+      "id": 33,
+      "en": "So this is the area where you play golf.",
+      "cn": "这是你打高尔夫的地方。"
+    },
+    {
+      "id": 34,
+      "en": "Yeah, it's like the golf field.",
+      "cn": "是的，就像高尔夫球场。"
+    },
+    {
+      "id": 35,
+      "en": "Exactly, so it's a very big green area where you play golf.",
+      "cn": "正是如此，所以这是一个非常大的绿色区域，你在这里打高尔夫。"
+    },
+    {
+      "id": 36,
+      "en": "So those are the three words we have for vocabulary preview.",
+      "cn": "这就是我们在词汇预览中有的三个词。"
+    },
+    {
+      "id": 37,
+      "en": "So now we could listen to our dialogue for the first time as we listen to our sports announcers Rick Fields and Bob Copeland and see what happens on this occasion.",
+      "cn": "现在我们可以第一次听我们的对话，听听我们的体育播报员Rick Fields和Bob Copeland会发生什么。"
+    },
+    {
+      "id": 38,
+      "en": "Good morning golf aficionados, my name is Rick Fields and you guessed it I'm here with my main man Bob Copeland.",
+      "cn": "早上好，高尔夫爱好者，我叫Rick Fields，你猜对了，我和我的好朋友Bob Copeland在一起。"
+    },
+    {
+      "id": 39,
+      "en": "Thank you Rick, as you can see ladies and gentlemen we are here in beautiful Pebble Beach where the top golfers in the world are vying to win the grand prize of one million dollars.",
+      "cn": "谢谢你，Rick，女士们先生们，正如你所见，我们在美丽的Pebble Beach，世界顶级高尔夫球手正在争夺一百万美元的大奖。"
+    },
+    {
+      "id": 40,
+      "en": "Whoa, that's a lot of cash.",
+      "cn": "哇，那是一大笔现金。"
+    },
+    {
+      "id": 41,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "cn": "让我们去球场看看Tiger Woods的表现。"
+    },
+    {
+      "id": 42,
+      "en": "Alright, we're here at the 8th hole, it's par 4 and has some very difficult hazards which many golfers find difficult to avoid.",
+      "cn": "好吧，我们在第8洞，这是一个标准杆4的洞，有一些非常难的障碍，许多高尔夫球手发现很难避开。"
+    },
+    {
+      "id": 43,
+      "en": "Although I did see Jack Nicklaus hit a hole of one on this very same hole.",
+      "cn": "虽然我确实看到Jack Nicklaus在同一个洞打出了一杆进洞。"
+    },
+    {
+      "id": 44,
+      "en": "Tiger Woods is about to tee off and let's see if he has the same luck as Jack.",
+      "cn": "Tiger Woods即将开球，让我们看看他是否和Jack一样幸运。"
+    },
+    {
+      "id": 45,
+      "en": "Tiger is asking his caddy for his driver and he seems to be very nervous.",
+      "cn": "Tiger正在向他的球童要他的司机，他似乎非常紧张。"
+    },
+    {
+      "id": 46,
+      "en": "Oh no, not a good swing at all.",
+      "cn": "哦，不，挥杆完全不好。"
+    },
+    {
+      "id": 47,
+      "en": "It's definitely not his day today.",
+      "cn": "今天绝对不是他的日子。"
+    },
+    {
+      "id": 48,
+      "en": "On the 7th hole he got a bogey and before that he barely made par.",
+      "cn": "在第7洞他得了一个柏忌，之前他勉强打平。"
+    },
+    {
+      "id": 49,
+      "en": "He will definitely not get a birdie on this shot.",
+      "cn": "他绝对不会在这次击球中得鸟。"
+    },
+    {
+      "id": 50,
+      "en": "It seems that his ball has flown somewhere deep into the trees.",
+      "cn": "看起来他的球飞到了树深处。"
+    },
+    {
+      "id": 51,
+      "en": "He's having a hard time finding it and even his caddy has climbed a tree to try and spot it.",
+      "cn": "他很难找到它，甚至他的球童也爬上了树试图找到它。"
+    },
+    {
+      "id": 52,
+      "en": "Oh no, a bear!",
+      "cn": "哦，不，一只熊！"
+    },
+    {
+      "id": 53,
+      "en": "Run Tiger, run!",
+      "cn": "跑吧，Tiger，快跑！"
+    },
+    {
+      "id": 54,
+      "en": "Somebody call animal control!",
+      "cn": "有人打电话给动物控制中心！"
+    },
+    {
+      "id": 55,
+      "en": "So a pretty exciting ending to that dialogue there.",
+      "cn": "所以这个对话的结尾相当刺激。"
+    },
+    {
+      "id": 56,
+      "en": "A bear on the golf course.",
+      "cn": "高尔夫球场上的一只熊。"
+    },
+    {
+      "id": 57,
+      "en": "Yeah, I wonder if Tiger's okay.",
+      "cn": "是的，我想知道Tiger还好吗。"
+    },
+    {
+      "id": 58,
+      "en": "I sure hope so, because it would be a huge loss to the world of golf.",
+      "cn": "我真希望如此，因为这对高尔夫界来说将是一个巨大的损失。"
+    },
+    {
+      "id": 59,
+      "en": "Right, so we did learn a lot about golf because they used some very specific and technical words for golf.",
+      "cn": "对，所以我们确实学到了很多关于高尔夫的知识，因为他们使用了一些非常具体和专业的高尔夫词汇。"
+    },
+    {
+      "id": 60,
+      "en": "So let's look at these now in language takeaway.",
+      "cn": "现在让我们在语言收获中看看这些。"
+    },
+    {
+      "id": 61,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 62,
+      "en": "Alright, so the announcers were talking about the game and they're talking about the course and they're here on the 8th hole and they said that last time Jack Nicklaus hit a hole in one.",
+      "cn": "好吧，播报员们在谈论比赛，他们在谈论球场，他们在第8洞，他们说上次Jack Nicklaus打出了一杆进洞。"
+    },
+    {
+      "id": 63,
+      "en": "Hole in one.",
+      "cn": "一杆进洞。"
+    },
+    {
+      "id": 64,
+      "en": "A hole in one.",
+      "cn": "一杆进洞。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, a hole in one.",
+      "cn": "好吧，一杆进洞。"
+    },
+    {
+      "id": 66,
+      "en": "So this is when you hit the ball once and the ball goes in the hole.",
+      "cn": "这是你击球一次，球就进洞。"
+    },
+    {
+      "id": 67,
+      "en": "Exactly, so it's something very difficult to do.",
+      "cn": "正是如此，所以这是非常难做到的事情。"
+    },
+    {
+      "id": 68,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 69,
+      "en": "A hole in one.",
+      "cn": "一杆进洞。"
+    },
+    {
+      "id": 70,
+      "en": "I've certainly never made one.",
+      "cn": "我肯定从来没有做到过。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, so sometimes it's also called an ace, so it can be a hole in one or called an ace.",
+      "cn": "好吧，有时它也被称为“王牌”，所以可以是一杆进洞或称为“王牌”。"
+    },
+    {
+      "id": 72,
+      "en": "Ah, okay.",
+      "cn": "啊，好的。"
+    },
+    {
+      "id": 73,
+      "en": "Now for our second word, now once we get to the hole, to the 9th hole or the 10th hole, we have to tee off.",
+      "cn": "现在我们的第二个词，一旦我们到达洞口，第9洞或第10洞，我们必须开球。"
+    },
+    {
+      "id": 74,
+      "en": "To tee off.",
+      "cn": "开球。"
+    },
+    {
+      "id": 75,
+      "en": "Tee off.",
+      "cn": "开球。"
+    },
+    {
+      "id": 76,
+      "en": "So when you tee off, you begin playing.",
+      "cn": "开球。"
+    },
+    {
+      "id": 77,
+      "en": "Right, so it's the very first instance where you put the little ball on the tee.",
+      "cn": "所以当你开球时，你开始打球。"
+    },
+    {
+      "id": 78,
+      "en": "And you hit the ball for the first time.",
+      "cn": "对，所以这是你把小球放在球座上的第一次。"
+    },
+    {
+      "id": 79,
+      "en": "Exactly, so to tee off.",
+      "cn": "然后你第一次击打球。"
+    },
+    {
+      "id": 80,
+      "en": "Now another golf vocabulary, they were talking about a caddy.",
+      "cn": "正是如此，所以开球。"
+    },
+    {
+      "id": 81,
+      "en": "Right, a caddy.",
+      "cn": "现在另一个高尔夫词汇，他们在谈论球童。"
+    },
+    {
+      "id": 82,
+      "en": "A caddy.",
+      "cn": "对，球童。"
+    },
+    {
+      "id": 83,
+      "en": "Now a caddy is a person.",
+      "cn": "一个球童。"
+    },
+    {
+      "id": 84,
+      "en": "Yes, it's the person who carries your golf clubs.",
+      "cn": "球童是一个人。"
+    },
+    {
+      "id": 85,
+      "en": "Exactly, so he carries your bag, your golf clubs, and basically helps you while you're playing golf.",
+      "cn": "是的，他是携带你高尔夫球杆的人。"
+    },
+    {
+      "id": 86,
+      "en": "Yeah, he tells you which way you should hit the ball and maybe, you know, gives you a nice cold drink and looks after you.",
+      "cn": "正是如此，所以他携带你的包、你的高尔夫球杆，并在你打高尔夫时基本上帮助你。"
+    },
+    {
+      "id": 87,
+      "en": "Very good.",
+      "cn": "是的，他告诉你应该如何击球，也许，给你一杯冰饮料并照顾你。"
+    },
+    {
+      "id": 88,
+      "en": "So that's a caddy.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 89,
+      "en": "And now the caddy, since he has to carry all the golf clubs, Tiger Woods asked him for his driver.",
+      "cn": "所以这就是球童。"
+    },
+    {
+      "id": 90,
+      "en": "A driver.",
+      "cn": "现在球童，因为他必须携带所有高尔夫球杆，Tiger Woods向他要他的司机。"
+    },
+    {
+      "id": 91,
+      "en": "Driver.",
+      "cn": "一个司机。"
+    },
+    {
+      "id": 92,
+      "en": "A driver.",
+      "cn": "司机。"
+    },
+    {
+      "id": 93,
+      "en": "Now a driver is a type of golf club.",
+      "cn": "一个司机。"
+    },
+    {
+      "id": 94,
+      "en": "Right, it's not a person.",
+      "cn": "现在司机是一种高尔夫球杆。"
+    },
+    {
+      "id": 95,
+      "en": "No, no, it's a type of golf club and it's a very big and heavy golf club that is used to tee off.",
+      "cn": "对，这不是一个人。"
+    },
+    {
+      "id": 96,
+      "en": "So it's used to hit the ball a very long way.",
+      "cn": "不，不，这是一个高尔夫球杆，是一种非常大且重的高尔夫球杆，用于开球。"
+    },
+    {
+      "id": 97,
+      "en": "Yes, that is called the driver.",
+      "cn": "所以它用于击打球很远。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, so the next thing they were talking about were some different types of scores that you could get on a hole.",
+      "cn": "是的，这被称为司机。"
+    },
+    {
+      "id": 99,
+      "en": "And the first one they mentioned was par.",
+      "cn": "好吧，他们谈论的下一个是你在一个洞上可以得到的一些不同类型的分数。"
+    },
+    {
+      "id": 100,
+      "en": "Okay, so you can make par.",
+      "cn": "好吧，所以你可以打平。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, or the par of the course can be four.",
+      "cn": "好的，或者球场的标准杆可以是四杆。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 103,
+      "en": "So basically the par is the maximum number of swings or strokes you can make before putting the ball into the hole.",
+      "cn": "所以基本上，标准杆是你在将球打入洞之前可以挥杆或击球的最大次数。"
+    },
+    {
+      "id": 104,
+      "en": "Right, so it's like, it's like the, right, so when the, when a hole is par four, you should only hit the ball four times.",
+      "cn": "对，所以就像，当一个洞是四杆时，你应该只打四次球。"
+    },
+    {
+      "id": 105,
+      "en": "Four if you don't make par, there are some options.",
+      "cn": "如果你没有打平标准杆，还有一些选择。"
+    },
+    {
+      "id": 106,
+      "en": "You can make a bogey.",
+      "cn": "你可以打个柏忌。"
+    },
+    {
+      "id": 107,
+      "en": "All right, a bogey.",
+      "cn": "好吧，柏忌。"
+    },
+    {
+      "id": 108,
+      "en": "A bogey.",
+      "cn": "柏忌。"
+    },
+    {
+      "id": 109,
+      "en": "Now sometimes the golf course is very difficult.",
+      "cn": "现在有时高尔夫球场非常困难。"
+    },
+    {
+      "id": 110,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 111,
+      "en": "So instead of putting the ball in the hole, let's say in four turns, you do it in five.",
+      "cn": "所以如果你在四杆内没有将球打入洞，而是用了五杆。"
+    },
+    {
+      "id": 112,
+      "en": "Okay, so it's one over par.",
+      "cn": "好的，所以这是一个超标杆。"
+    },
+    {
+      "id": 113,
+      "en": "One over par.",
+      "cn": "超过标准杆一杆。"
+    },
+    {
+      "id": 114,
+      "en": "So that's bad.",
+      "cn": "所以这不好。"
+    },
+    {
+      "id": 115,
+      "en": "Yeah, that's bad because you get a point.",
+      "cn": "是的，这不好，因为你会得一分。"
+    },
+    {
+      "id": 116,
+      "en": "So it's kind of strange because in golf, the more points you have, the worse you are, the worse you are.",
+      "cn": "所以这有点奇怪，因为在高尔夫中，分数越多，你就越糟糕。"
+    },
+    {
+      "id": 117,
+      "en": "So that is a bogey.",
+      "cn": "所以这就是柏忌。"
+    },
+    {
+      "id": 118,
+      "en": "Now, they also talked about a birdie.",
+      "cn": "现在，他们还谈到了小鸟球。"
+    },
+    {
+      "id": 119,
+      "en": "Birdie is the opposite if you hit one under par.",
+      "cn": "小鸟球是相反的，如果你打得低于标准杆。"
+    },
+    {
+      "id": 120,
+      "en": "So that's good.",
+      "cn": "所以这很好。"
+    },
+    {
+      "id": 121,
+      "en": "Yeah, that's good because you have minus one, one less than par.",
+      "cn": "是的，这很好，因为你有负一，比标准杆少一。"
+    },
+    {
+      "id": 122,
+      "en": "All right, so this is actually a lot of weird, crazy, strange language, birdie, bogey, caddie, driver.",
+      "cn": "好吧，所以这实际上是很多奇怪、疯狂、奇特的语言，像小鸟球、柏忌、球童、发球木。"
+    },
+    {
+      "id": 123,
+      "en": "Why don't we listen to the dialogue one more time to help us understand?",
+      "cn": "我们再听一遍对话，帮助我们理解好吗？"
+    },
+    {
+      "id": 124,
+      "en": "Good morning, golf aficionados.",
+      "cn": "早上好，高尔夫爱好者们。"
+    },
+    {
+      "id": 125,
+      "en": "My name is Rick Fields.",
+      "cn": "我叫瑞克·菲尔兹。"
+    },
+    {
+      "id": 126,
+      "en": "And you guessed it, I'm here with my main man, Bob Copeland.",
+      "cn": "你们猜对了，我和我的好朋友鲍勃·科普兰在一起。"
+    },
+    {
+      "id": 127,
+      "en": "Thank you, Rick.",
+      "cn": "谢谢你，瑞克。"
+    },
+    {
+      "id": 128,
+      "en": "As you can see, ladies and gentlemen, we are here in beautiful Pebble Beach, where the top golfers in the world are vying to win the grand prize of $1 million.",
+      "cn": "如你所见，女士们和先生们，我们在美丽的卵石滩，世界顶级高尔夫球手正在争夺100万美元的大奖。"
+    },
+    {
+      "id": 129,
+      "en": "Whoa, that's a lot of cash.",
+      "cn": "哇，那是一大笔现金。"
+    },
+    {
+      "id": 130,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "cn": "让我们去球场看看老虎伍兹的表现。"
+    },
+    {
+      "id": 131,
+      "en": "All right, we're here at the eighth hole.",
+      "cn": "好的，我们在第八洞。"
+    },
+    {
+      "id": 132,
+      "en": "It's a par four, and has some very difficult hazards which many golfers find difficult to avoid.",
+      "cn": "这是一个四杆洞，有一些非常困难的障碍，许多高尔夫球手发现很难避开。"
+    },
+    {
+      "id": 133,
+      "en": "Although, I did see Jack Nicklaus hit a hole in one on this very same hole.",
+      "cn": "不过，我确实看到杰克·尼克劳斯在同一个洞打出一杆进洞。"
+    },
+    {
+      "id": 134,
+      "en": "Tiger Woods is about to tee off.",
+      "cn": "老虎伍兹即将开球。"
+    },
+    {
+      "id": 135,
+      "en": "And let's see if he has the same luck as Jack.",
+      "cn": "让我们看看他是否能像杰克一样幸运。"
+    },
+    {
+      "id": 136,
+      "en": "Tiger is asking his caddie for his driver.",
+      "cn": "老虎在向他的球童要发球木。"
+    },
+    {
+      "id": 137,
+      "en": "And he seems to be very nervous.",
+      "cn": "他似乎非常紧张。"
+    },
+    {
+      "id": 138,
+      "en": "Oh, no, not a good swing at all.",
+      "cn": "哦，不，挥杆完全不好。"
+    },
+    {
+      "id": 139,
+      "en": "It is definitely not his day today.",
+      "cn": "今天显然不是他的日子。"
+    },
+    {
+      "id": 140,
+      "en": "On the seventh hole, he got a bogey.",
+      "cn": "在第七洞，他打了个柏忌。"
+    },
+    {
+      "id": 141,
+      "en": "And before that, he barely made par.",
+      "cn": "在那之前，他勉强打平了标准杆。"
+    },
+    {
+      "id": 142,
+      "en": "He'll definitely not get a birdie on this shot.",
+      "cn": "他肯定不会在这次击球中打出小鸟球。"
+    },
+    {
+      "id": 143,
+      "en": "It seems that his ball has flown somewhere deep in the trees.",
+      "cn": "他的球似乎飞到了树深处。"
+    },
+    {
+      "id": 144,
+      "en": "He is having a hard time finding it.",
+      "cn": "他很难找到它。"
+    },
+    {
+      "id": 145,
+      "en": "And even his caddy has climbed the tree to try and spot it.",
+      "cn": "甚至他的球童也爬上了树试图找到它。"
+    },
+    {
+      "id": 146,
+      "en": "Oh, no, a bear!",
+      "cn": "哦，不，一只熊！"
+    },
+    {
+      "id": 147,
+      "en": "Run, Tiger, run!",
+      "cn": "跑啊，老虎，跑！"
+    },
+    {
+      "id": 148,
+      "en": "Somebody call animal control!",
+      "cn": "有人打电话给动物控制中心！"
+    },
+    {
+      "id": 149,
+      "en": "All right, great.",
+      "cn": "好吧，太好了。"
+    },
+    {
+      "id": 150,
+      "en": "So I think it's clear now what type of rules they have in golf and how it works.",
+      "cn": "所以我想现在很清楚他们在高尔夫中有什么样的规则以及它是如何运作的。"
+    },
+    {
+      "id": 151,
+      "en": "So why don't we take a look now at some of the phrases that we heard in the dialogue in Fluency Builder.",
+      "cn": "那么我们现在为什么不看看在对话中听到的一些短语呢？"
+    },
+    {
+      "id": 152,
+      "en": "Fluency Builder.",
+      "cn": "流利表达构建器。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, well, one of the phrases I want to talk about is something that Bob Copeland said.",
+      "cn": "好吧，我想谈谈鲍勃·科普兰说的一个短语。"
+    },
+    {
+      "id": 154,
+      "en": "He said, as you can see, ladies and gentlemen, we're here at beautiful Pebble Beach.",
+      "cn": "他说，女士们和先生们，如你所见，我们在美丽的卵石滩。"
+    },
+    {
+      "id": 155,
+      "en": "Okay, as you can see.",
+      "cn": "好吧，如你所见。"
+    },
+    {
+      "id": 156,
+      "en": "As you can see.",
+      "cn": "如你所见。"
+    },
+    {
+      "id": 157,
+      "en": "So this usually goes in the beginning of a sentence.",
+      "cn": "所以这通常在句子的开头。"
+    },
+    {
+      "id": 158,
+      "en": "Yeah, it's a way to say I know you can see this.",
+      "cn": "是的，这是一种说我知道你能看到这个的方式。"
+    },
+    {
+      "id": 159,
+      "en": "I'm telling you something you know.",
+      "cn": "我在告诉你一些你知道的事情。"
+    },
+    {
+      "id": 160,
+      "en": "Okay, so maybe I'm showing you my house and I can say, as you can see, our living room is very spacious.",
+      "cn": "好吧，所以也许我在给你看我的房子，我可以说，如你所见，我们的客厅非常宽敞。"
+    },
+    {
+      "id": 161,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 162,
+      "en": "So this is actually a really helpful phrase.",
+      "cn": "所以这实际上是一个非常有用的短语。"
+    },
+    {
+      "id": 163,
+      "en": "It can help you sound really native-like.",
+      "cn": "它可以帮助你听起来更像本地人。"
+    },
+    {
+      "id": 164,
+      "en": "So why don't we hear some examples of how it's used.",
+      "cn": "那么我们为什么不听听它是如何使用的一些例子呢？"
+    },
+    {
+      "id": 165,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 166,
+      "en": "As you can see, we recently remodeled our entire kitchen.",
+      "cn": "如你所见，我们最近重新装修了整个厨房。"
+    },
+    {
+      "id": 167,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 168,
+      "en": "As you can see here, the damage to the building is very serious.",
+      "cn": "如你所见，这栋建筑的损坏非常严重。"
+    },
+    {
+      "id": 169,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 170,
+      "en": "As you can see, the hairstylist made a mistake when cutting my hair.",
+      "cn": "如你所见，发型师在剪我的头发时犯了一个错误。"
+    },
+    {
+      "id": 171,
+      "en": "Alright, great.",
+      "cn": "好吧，太好了。"
+    },
+    {
+      "id": 172,
+      "en": "So as you can see, now for our second phrase, well Tiger Woods wasn't doing very well and the announcer said, it's not his day.",
+      "cn": "所以如你所见，现在我们的第二个短语，老虎伍兹表现不佳，播音员说，今天不是他的日子。"
+    },
+    {
+      "id": 173,
+      "en": "It's not his day.",
+      "cn": "今天不是他的日子。"
+    },
+    {
+      "id": 174,
+      "en": "It's not his day today.",
+      "cn": "今天不是他的日子。"
+    },
+    {
+      "id": 175,
+      "en": "Alright, so when it's not your day, you're having a bad time or a bad day.",
+      "cn": "好吧，所以当不是你的日子时，你正在经历糟糕的时光或糟糕的一天。"
+    },
+    {
+      "id": 176,
+      "en": "Right, maybe you're having difficulties or you're having bad luck that day.",
+      "cn": "对，也许你那天运气不好或遇到困难。"
+    },
+    {
+      "id": 177,
+      "en": "Yeah, so for example, today I had a headache and I ripped my pants and I spilled coffee on myself, so it really wasn't my day.",
+      "cn": "是的，比如说，今天我头痛，裤子撕了，咖啡洒在自己身上，所以今天真的不是我的日子。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, it's not your day today.",
+      "cn": "好吧，今天不是你的日子。"
+    },
+    {
+      "id": 179,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 180,
+      "en": "Great phrase and also very common and makes you sound very native.",
+      "cn": "很好的短语，也很常见，让你听起来很本地。"
+    },
+    {
+      "id": 181,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 182,
+      "en": "Now the last phrase, similar to it's not your day, we also heard that Tiger was having a hard time.",
+      "cn": "现在最后一个短语，类似于“今天不是你的日子”，我们还听到老虎在经历困难。"
+    },
+    {
+      "id": 183,
+      "en": "Okay, to have a hard time.",
+      "cn": "好吧，经历困难。"
+    },
+    {
+      "id": 184,
+      "en": "To have a hard time.",
+      "cn": "经历困难。"
+    },
+    {
+      "id": 185,
+      "en": "Now if you have a hard time with something, you have difficulty with it.",
+      "cn": "如果你在某件事情上有困难，你就会遇到困难。"
+    },
+    {
+      "id": 186,
+      "en": "Okay, now it's not only related to golf, right?",
+      "cn": "好吧，这不仅与高尔夫有关，对吧？"
+    },
+    {
+      "id": 187,
+      "en": "Of course, you can talk about anything like this, so I'm having a hard time understanding what this word means.",
+      "cn": "当然，你可以谈论任何事情，比如我在理解这个词时遇到困难。"
+    },
+    {
+      "id": 188,
+      "en": "Okay, or when I was in school, I had a hard time with math.",
+      "cn": "好吧，或者当我在学校时，我在数学上遇到困难。"
+    },
+    {
+      "id": 189,
+      "en": "Alright, me too.",
+      "cn": "好吧，我也是。"
+    },
+    {
+      "id": 190,
+      "en": "So to have a hard time means that you have difficulties with something.",
+      "cn": "所以经历困难意味着你在某件事情上有困难。"
+    },
+    {
+      "id": 191,
+      "en": "So great phrases, great words.",
+      "cn": "所以很好的短语，很好的词。"
+    },
+    {
+      "id": 192,
+      "en": "Let's listen to this dialogue for the last time and then we'll come back and talk a little bit more about golf.",
+      "cn": "让我们最后再听一遍这个对话，然后我们再回来谈谈高尔夫。"
+    },
+    {
+      "id": 193,
+      "en": "Good morning, golf aficionados.",
+      "cn": "早上好，高尔夫爱好者们。"
+    },
+    {
+      "id": 194,
+      "en": "My name is Rick Fields and you guessed it, I'm here with my main man, Bob Copeland.",
+      "cn": "我叫瑞克·菲尔兹，你们猜对了，我和我的好朋友鲍勃·科普兰在一起。"
+    },
+    {
+      "id": 195,
+      "en": "Thank you, Rick.",
+      "cn": "谢谢你，瑞克。"
+    },
+    {
+      "id": 196,
+      "en": "As you can see, ladies and gentlemen, we are here in beautiful Pebble Beach where the top golfers in the world are vying to win the grand prize of one million dollars.",
+      "cn": "如你所见，女士们，先生们，我们在美丽的佩布尔海滩，这里世界顶级高尔夫球手正在争夺一百万美元的大奖。"
+    },
+    {
+      "id": 197,
+      "en": "Whoa, that's a lot of cash.",
+      "cn": "哇，那可是一大笔钱。"
+    },
+    {
+      "id": 198,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "cn": "让我们去球场看看老虎伍兹的表现。"
+    },
+    {
+      "id": 199,
+      "en": "Alright, we're here at the 8th hole.",
+      "cn": "好的，我们在第八洞。"
+    },
+    {
+      "id": 200,
+      "en": "It's par 4 and has some very difficult hazards, which many golfers find difficult to avoid.",
+      "cn": "这是一个四杆洞，有一些非常困难的障碍，许多高尔夫球手发现很难避开。"
+    },
+    {
+      "id": 201,
+      "en": "Although I did see Jack hit a hole of one on this very same hole.",
+      "cn": "虽然我确实看到杰克在同一个洞打出了一个一杆进洞。"
+    },
+    {
+      "id": 202,
+      "en": "Tiger Woods is about to tee off and let's see if he has the same luck as Jack.",
+      "cn": "老虎伍兹即将开球，让我们看看他是否和杰克一样幸运。"
+    },
+    {
+      "id": 203,
+      "en": "Tiger is asking his caddy for his driver and he seems to be very nervous.",
+      "cn": "老虎在向他的球童要球杆，他似乎非常紧张。"
+    },
+    {
+      "id": 204,
+      "en": "Oh no, not a good swing at all.",
+      "cn": "哦，不，这个挥杆一点也不好。"
+    },
+    {
+      "id": 205,
+      "en": "It's definitely not his day today.",
+      "cn": "今天显然不是他的一天。"
+    },
+    {
+      "id": 206,
+      "en": "On the 7th hole he got a bogey and before that he barely made par.",
+      "cn": "在第七洞他打了一个柏忌，之前他勉强打平。"
+    },
+    {
+      "id": 207,
+      "en": "He will definitely not get a birdie on this shot.",
+      "cn": "他肯定不会在这次击球中打到小鸟。"
+    },
+    {
+      "id": 208,
+      "en": "It seems that his ball has flown somewhere deep into the trees.",
+      "cn": "看起来他的球飞到了树丛深处。"
+    },
+    {
+      "id": 209,
+      "en": "He's having a hard time finding it and even his caddy has climbed a tree to try and spot it.",
+      "cn": "他很难找到球，甚至他的球童也爬上树试图找到它。"
+    },
+    {
+      "id": 210,
+      "en": "Oh no, up there!",
+      "cn": "哦，不，上面！"
+    },
+    {
+      "id": 211,
+      "en": "Run Tiger, run!",
+      "cn": "跑啊，老虎，跑！"
+    },
+    {
+      "id": 212,
+      "en": "Somebody call animal control!",
+      "cn": "有人打电话给动物控制中心！"
+    },
+    {
+      "id": 213,
+      "en": "Alright, so Marco, I know that in the Western business world, golf is actually super important for your career, isn't it?",
+      "cn": "好吧，马尔科，我知道在西方商业世界，高尔夫对你的职业生涯非常重要，是吗？"
+    },
+    {
+      "id": 214,
+      "en": "Well, many times, you know, when you see in movies or the stereotype is that business is done on a golf course.",
+      "cn": "嗯，很多时候，你知道，当你在电影中看到或是刻板印象是商业是在高尔夫球场上进行的。"
+    },
+    {
+      "id": 215,
+      "en": "And yeah, it is true, many times, you know, people will invite you out to a golf course and you'll be playing a game and, you know, talking business and relaxing at the same time.",
+      "cn": "是的，确实如此，很多时候，人们会邀请你去高尔夫球场，你会在打球，同时谈论生意，放松心情。"
+    },
+    {
+      "id": 216,
+      "en": "So maybe you negotiate a deal out on the golf course.",
+      "cn": "所以也许你会在高尔夫球场上谈判达成交易。"
+    },
+    {
+      "id": 217,
+      "en": "Exactly, and of course if you lose, it's a good thing because then the deal will pull through.",
+      "cn": "正是如此，当然如果你输了，那也是好事，因为那样交易就能达成。"
+    },
+    {
+      "id": 218,
+      "en": "Okay, well actually I know that it is so important for people who are wanting to do well in business and many people who don't speak English as their first language take golf English lessons.",
+      "cn": "好吧，实际上我知道这对想在商业上做得好的人非常重要，许多以英语为非母语的人会参加高尔夫英语课程。"
+    },
+    {
+      "id": 219,
+      "en": "Right, so not only golf lessons, like how to play golf, but also in English.",
+      "cn": "对，所以不仅是高尔夫课程，比如如何打高尔夫，还有英语课程。"
+    },
+    {
+      "id": 220,
+      "en": "Like how to talk about golf, how to, you know, talk to other people and make deals while you're on the golf course.",
+      "cn": "比如如何谈论高尔夫，如何与其他人交谈并在高尔夫球场上达成交易。"
+    },
+    {
+      "id": 221,
+      "en": "Yeah, because like in many other sports, golf has also its slang and its terms and stuff.",
+      "cn": "是的，因为像许多其他运动一样，高尔夫也有它的俚语和术语。"
+    },
+    {
+      "id": 222,
+      "en": "So yeah, it's very interesting and it's one of those cultural things.",
+      "cn": "所以是的，这非常有趣，也是文化的一部分。"
+    },
+    {
+      "id": 223,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 224,
+      "en": "So if you have any questions or comments about today's lesson, why don't you visit our website at EnglishPod.com.",
+      "cn": "如果你对今天的课程有任何问题或评论，为什么不访问我们的网站 EnglishPod.com 呢？"
+    },
+    {
+      "id": 225,
+      "en": "Right, we're always there to answer any questions or doubts you might have.",
+      "cn": "对，我们总是在那里回答你可能有的任何问题或疑虑。"
+    },
+    {
+      "id": 226,
+      "en": "And until next time, we'll see you there.",
+      "cn": "下次见，我们再见。"
+    },
+    {
+      "id": 227,
+      "en": "Goodbye!",
+      "cn": "再见！"
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0344",
+  "title": "Englishpod 初级 英文播客 0344",
+  "totalSegments": 230,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're traveling a little bit and we need to book a hotel room.",
+      "cn": "今天我们要稍微旅行一下，需要预订一个酒店房间。"
+    },
+    {
+      "id": 5,
+      "en": "That's right, so today we're going to learn all the words and phrases that will help you talk to the receptionist in order to book a hotel room.",
+      "cn": "没错，今天我们将学习所有帮助你与接待员交流以预订酒店房间的单词和短语。"
+    },
+    {
+      "id": 6,
+      "en": "Let's check out our dialogue.",
+      "cn": "让我们来看看我们的对话。"
+    },
+    {
+      "id": 7,
+      "en": "Madison Sweets, how may I help you?",
+      "cn": "Madison Sweets，有什么可以帮您的吗？"
+    },
+    {
+      "id": 8,
+      "en": "Yes, I am calling from Mexico.",
+      "cn": "是的，我是从墨西哥打来的。"
+    },
+    {
+      "id": 9,
+      "en": "I will be in town next week and would like to know if you have availability.",
+      "cn": "我下周会到城里，想知道你们是否有空房。"
+    },
+    {
+      "id": 10,
+      "en": "Ok ma'am, can you tell me the date you expect to check in?",
+      "cn": "好的，女士，您能告诉我您预计的入住日期吗？"
+    },
+    {
+      "id": 11,
+      "en": "Yes, July 9th.",
+      "cn": "是的，7月9日。"
+    },
+    {
+      "id": 12,
+      "en": "I will be there for 7 nights.",
+      "cn": "我会在那里住7晚。"
+    },
+    {
+      "id": 13,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "cn": "在这些日期，我们有一个单人初级套房或一个高级双人套房可供选择。"
+    },
+    {
+      "id": 14,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 15,
+      "en": "The junior suite is smaller and has one twin bed while the superior suite has a double bed and mini bar.",
+      "cn": "初级套房较小，配有一张单人床，而高级套房有一张双人床和迷你吧。"
+    },
+    {
+      "id": 16,
+      "en": "Ok, I would like to reserve the superior suite.",
+      "cn": "好的，我想预订高级套房。"
+    },
+    {
+      "id": 17,
+      "en": "Is breakfast included?",
+      "cn": "包括早餐吗？"
+    },
+    {
+      "id": 18,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "cn": "是的，每天早上提供自助早餐。"
+    },
+    {
+      "id": 19,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "cn": "我需要您的姓名和信用卡信息以完成预订。"
+    },
+    {
+      "id": 20,
+      "en": "Sure, my credit card number is... Alright, we're back.",
+      "cn": "当然，我的信用卡号码是…… 好的，我们回来了。"
+    },
+    {
+      "id": 21,
+      "en": "So now let's take a look at language takeaway.",
+      "cn": "现在让我们看看语言要点。"
+    },
+    {
+      "id": 22,
+      "en": "So we've got a lot of great phrases and words today in language takeaway.",
+      "cn": "今天我们在语言要点中有很多很好的短语和单词。"
+    },
+    {
+      "id": 23,
+      "en": "The first one comes from the beginning of the dialogue.",
+      "cn": "第一个来自对话的开头。"
+    },
+    {
+      "id": 24,
+      "en": "It's availability.",
+      "cn": "是“可用性”。"
+    },
+    {
+      "id": 25,
+      "en": "Alright, so the woman wanted to know if the hotel has availability.",
+      "cn": "好的，所以这位女士想知道酒店是否有空房。"
+    },
+    {
+      "id": 26,
+      "en": "So what does that mean?",
+      "cn": "那这是什么意思？"
+    },
+    {
+      "id": 27,
+      "en": "That means, do you have free rooms?",
+      "cn": "这意味着，你们有空房吗？"
+    },
+    {
+      "id": 28,
+      "en": "Do you have any rooms I could rent?",
+      "cn": "你们有我可以租的房间吗？"
+    },
+    {
+      "id": 29,
+      "en": "So instead of saying, do you have any free rooms or do you have rooms available, you can just say, do you have availability?",
+      "cn": "所以与其说“你们有空房吗”或“你们有房间可用吗”，不如直接说“你们有可用性吗”？"
+    },
+    {
+      "id": 30,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 31,
+      "en": "So you're basically asking the person, do you have anything available?",
+      "cn": "所以你基本上是在问对方，你们有任何可用的房间吗？"
+    },
+    {
+      "id": 32,
+      "en": "So what's your availability?",
+      "cn": "那么你们的可用性如何？"
+    },
+    {
+      "id": 33,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 34,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 35,
+      "en": "Alright, so we asked the hotel if they have availability and obviously the receptionist needs to know when we expect to check in.",
+      "cn": "好的，所以我们问酒店是否有可用性，显然接待员需要知道我们预计的入住时间。"
+    },
+    {
+      "id": 36,
+      "en": "So this is a noun and a verb, but in today's dialogue, it's used as a verb.",
+      "cn": "这是一个名词和动词，但在今天的对话中，它用作动词。"
+    },
+    {
+      "id": 37,
+      "en": "So it's something we do to check in.",
+      "cn": "所以这是我们办理入住的动作。"
+    },
+    {
+      "id": 38,
+      "en": "So the person on the phone would like to know what date you expect to check in.",
+      "cn": "所以电话那头的人想知道您预计的入住日期。"
+    },
+    {
+      "id": 39,
+      "en": "That means, when will you arrive at our hotel?",
+      "cn": "这意味着，您什么时候会到达我们的酒店？"
+    },
+    {
+      "id": 40,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 41,
+      "en": "So maybe we will arrive to the city a couple of days before we check into the hotel.",
+      "cn": "所以也许我们会在入住酒店前几天到达城市。"
+    },
+    {
+      "id": 42,
+      "en": "So we really specifically want to know when are you going to start sleeping here?",
+      "cn": "所以我们真的想知道您什么时候开始在这里睡觉？"
+    },
+    {
+      "id": 43,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 44,
+      "en": "And the opposite, so when you leave the hotel is called check out, to check out.",
+      "cn": "反之，当您离开酒店时称为退房。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "Okay, so we want to check in on July 9th and the receptionist tells us that we have available a single suite or a double suite.",
+      "cn": "好的，所以我们想在7月9日入住，接待员告诉我们有一个单人套房或一个双人套房可用。"
+    },
+    {
+      "id": 47,
+      "en": "Alright, so these are two different kinds of rooms.",
+      "cn": "好的，这两种房间是不同的。"
+    },
+    {
+      "id": 48,
+      "en": "Now a suite is different from a room because it actually means that the space you're going to use is more than one room.",
+      "cn": "套房与房间不同，因为它实际上意味着您将使用的空间超过一个房间。"
+    },
+    {
+      "id": 49,
+      "en": "Maybe two rooms or three.",
+      "cn": "可能是两个房间或三个房间。"
+    },
+    {
+      "id": 50,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 51,
+      "en": "So it's a little bit bigger than just a standard room.",
+      "cn": "所以它比标准房间大一点。"
+    },
+    {
+      "id": 52,
+      "en": "It might have a sitting area or a kitchen area.",
+      "cn": "可能有一个休息区或厨房区域。"
+    },
+    {
+      "id": 53,
+      "en": "So that's what a suite is.",
+      "cn": "所以这就是套房。"
+    },
+    {
+      "id": 54,
+      "en": "Very expensive rooms are suites as well.",
+      "cn": "非常昂贵的房间也是套房。"
+    },
+    {
+      "id": 55,
+      "en": "They have a sitting area and a kitchen and maybe even an extra bedroom.",
+      "cn": "它们有一个休息区和厨房，甚至可能还有一个额外的卧室。"
+    },
+    {
+      "id": 56,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, so we have a single suite.",
+      "cn": "好的，所以我们有一个单人套房。"
+    },
+    {
+      "id": 58,
+      "en": "That means that we have one of these big rooms that is only for one person.",
+      "cn": "这意味着我们有一个仅供一个人使用的大房间。"
+    },
+    {
+      "id": 59,
+      "en": "And a double suite means that two or more people can sleep there.",
+      "cn": "而双人套房意味着可以容纳两人或更多人。"
+    },
+    {
+      "id": 60,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 61,
+      "en": "So single would be one person and double would be two people.",
+      "cn": "所以单人是一个人，双人是两个人。"
+    },
+    {
+      "id": 62,
+      "en": "And we also heard similar words with the beds because sometimes the rooms aren't really clear about what kind of beds they have.",
+      "cn": "我们还听到了与床相关的类似词，因为有时房间的床型并不明确。"
+    },
+    {
+      "id": 63,
+      "en": "So this person asked, what's the difference between these rooms?",
+      "cn": "所以这个人问，这些房间有什么区别？"
+    },
+    {
+      "id": 64,
+      "en": "And the hotel employee answered, well the junior suite has one twin bed.",
+      "cn": "酒店员工回答说，初级套房有一张单人床。"
+    },
+    {
+      "id": 65,
+      "en": "Alright, what's a twin bed?",
+      "cn": "好的，什么是单人床？"
+    },
+    {
+      "id": 66,
+      "en": "So a twin bed is basically a bed that's only for one person.",
+      "cn": "所以单人床基本上是只供一个人使用的床。"
+    },
+    {
+      "id": 67,
+      "en": "Only one person fits in there.",
+      "cn": "只有一个人可以躺在上面。"
+    },
+    {
+      "id": 68,
+      "en": "Alright, so it's a single bed basically.",
+      "cn": "好的，所以它基本上是单人床。"
+    },
+    {
+      "id": 69,
+      "en": "We call it a twin.",
+      "cn": "我们称之为单人床。"
+    },
+    {
+      "id": 70,
+      "en": "It's a standard size.",
+      "cn": "它是标准尺寸。"
+    },
+    {
+      "id": 71,
+      "en": "So everywhere you go, a twin is always for one person.",
+      "cn": "所以无论你去哪里，单人床总是供一个人使用。"
+    },
+    {
+      "id": 72,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 73,
+      "en": "Alright, and if you want to have another person in bed, we have to get a bigger one.",
+      "cn": "好的，如果你想和另一个人一起睡，我们必须找一个更大的床。"
+    },
+    {
+      "id": 74,
+      "en": "And what's that bigger bed called?",
+      "cn": "那个更大的床叫什么？"
+    },
+    {
+      "id": 75,
+      "en": "It's called a double bed.",
+      "cn": "它叫双人床。"
+    },
+    {
+      "id": 76,
+      "en": "A double bed.",
+      "cn": "双人床。"
+    },
+    {
+      "id": 77,
+      "en": "So again, double.",
+      "cn": "所以再次强调，双人。"
+    },
+    {
+      "id": 78,
+      "en": "Double room, double bed.",
+      "cn": "双人房，双人床。"
+    },
+    {
+      "id": 79,
+      "en": "So this means that two people can sleep on the one bed.",
+      "cn": "这意味着两个人可以在一张床上睡觉。"
+    },
+    {
+      "id": 80,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 81,
+      "en": "So this is important because sometimes you want to book a hotel room and it will be a double suite, but it will have two twin beds.",
+      "cn": "这很重要，因为有时你想预订一个酒店房间，它可能是双人套房，但会有两张单人床。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so it's a double room.",
+      "cn": "好的，所以这是一个双人房。"
+    },
+    {
+      "id": 83,
+      "en": "So it's for two people, but each person has their own small bed.",
+      "cn": "所以它是为两个人准备的，但每个人都有自己的小床。"
+    },
+    {
+      "id": 84,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 85,
+      "en": "Two twin beds.",
+      "cn": "两张单人床。"
+    },
+    {
+      "id": 86,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 87,
+      "en": "And lastly, the superior double suite not only had a double bed, but also had a mini bar.",
+      "cn": "最后，高级双人套房不仅有一张双人床，还有一个迷你吧。"
+    },
+    {
+      "id": 88,
+      "en": "A mini bar.",
+      "cn": "迷你吧。"
+    },
+    {
+      "id": 89,
+      "en": "So you know what a bar is.",
+      "cn": "所以你知道酒吧是什么。"
+    },
+    {
+      "id": 90,
+      "en": "It's a place you go to get some alcohol or some drinks.",
+      "cn": "它是一个你去喝酒或饮料的地方。"
+    },
+    {
+      "id": 91,
+      "en": "But a mini bar is a little bit different, right?",
+      "cn": "但迷你吧有点不同，对吗？"
+    },
+    {
+      "id": 92,
+      "en": "It's a little refrigerator or a little area where you will have snacks and drinks that you can just basically take freely, but obviously you will have to pay afterwards.",
+      "cn": "它是一个小冰箱或一个小区域，里面有小吃和饮料，你可以随意取用，但显然你需要在之后付款。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "So you can take them when you're staying there, but when you check out, when you leave, you have to pay for everything you ate or drank.",
+      "cn": "所以你可以在入住期间取用，但在退房时，你必须为你吃或喝的所有东西付款。"
+    },
+    {
+      "id": 95,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so a lot of words there on language takeaway today.",
+      "cn": "好的，所以今天的语言要点中有很多单词。"
+    },
+    {
+      "id": 97,
+      "en": "Let's take a break and listen to the dialogue again.",
+      "cn": "让我们休息一下，再次听听对话。"
+    },
+    {
+      "id": 98,
+      "en": "Yes, I am calling from Mexico.",
+      "cn": "是的，我是从墨西哥打来的。"
+    },
+    {
+      "id": 99,
+      "en": "I will be in town next week and would like to know if you have availability.",
+      "cn": "我下周会到城里，想知道你们是否有空房。"
+    },
+    {
+      "id": 100,
+      "en": "Okay, ma'am.",
+      "cn": "好的，女士。"
+    },
+    {
+      "id": 101,
+      "en": "Can you tell me the date you expect to check in?",
+      "cn": "你能告诉我你预计入住的日期吗？"
+    },
+    {
+      "id": 102,
+      "en": "Yes, July 9th.",
+      "cn": "是的，7月9日。"
+    },
+    {
+      "id": 103,
+      "en": "I will be there for seven nights.",
+      "cn": "我会在那里住七晚。"
+    },
+    {
+      "id": 104,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "cn": "我们有一个初级单人套房或一个高级双人套房可供选择。"
+    },
+    {
+      "id": 105,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 106,
+      "en": "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and mini bar.",
+      "cn": "初级套房较小，配有一张单人床，而高级套房有一张双人床和迷你吧。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, I would like to reserve the superior suite.",
+      "cn": "好的，我想预订高级套房。"
+    },
+    {
+      "id": 108,
+      "en": "Is breakfast included?",
+      "cn": "包括早餐吗？"
+    },
+    {
+      "id": 109,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "cn": "是的，每天早上提供自助早餐。"
+    },
+    {
+      "id": 110,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "cn": "我需要你的名字和信用卡信息以完成预订。"
+    },
+    {
+      "id": 111,
+      "en": "Sure, my credit card number is...",
+      "cn": "当然，我的信用卡号码是..."
+    },
+    {
+      "id": 112,
+      "en": "Alright, so now it's time for some phrases.",
+      "cn": "好的，现在是一些短语的时间。"
+    },
+    {
+      "id": 113,
+      "en": "Let's start with fluency builder.",
+      "cn": "让我们从流利度提升开始。"
+    },
+    {
+      "id": 114,
+      "en": "So the first phrase in fluency builder might seem a little bit strange.",
+      "cn": "所以流利度提升中的第一个短语可能听起来有点奇怪。"
+    },
+    {
+      "id": 115,
+      "en": "It's I will be in town next week.",
+      "cn": "我下周会到城里。"
+    },
+    {
+      "id": 116,
+      "en": "I'll be in town?",
+      "cn": "我会到城里？"
+    },
+    {
+      "id": 117,
+      "en": "In what town?",
+      "cn": "在哪个城？"
+    },
+    {
+      "id": 118,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 119,
+      "en": "Well, if you say I will be in town, that basically says I will be in this town.",
+      "cn": "如果你说我会到城里，这基本上意味着我会在这个城里。"
+    },
+    {
+      "id": 120,
+      "en": "I will be there.",
+      "cn": "我会在那里。"
+    },
+    {
+      "id": 121,
+      "en": "I will be here.",
+      "cn": "我会在这里。"
+    },
+    {
+      "id": 122,
+      "en": "So I'll be in the town you're in.",
+      "cn": "所以我会在你所在的城里。"
+    },
+    {
+      "id": 123,
+      "en": "This is interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 124,
+      "en": "So when I'm talking to someone, maybe Marco is in Chicago and I'm in New York.",
+      "cn": "所以当我和某人交谈时，也许马尔科在芝加哥，而我在纽约。"
+    },
+    {
+      "id": 125,
+      "en": "I call and I say, hey Marco, I'll be in town next week.",
+      "cn": "我打电话说，嘿马尔科，我下周会到城里。"
+    },
+    {
+      "id": 126,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 127,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 128,
+      "en": "You want to have a drink.",
+      "cn": "你想喝一杯。"
+    },
+    {
+      "id": 129,
+      "en": "That means I'm going to be where?",
+      "cn": "那意味着我会在哪里？"
+    },
+    {
+      "id": 130,
+      "en": "You're going to be in Chicago.",
+      "cn": "你会在芝加哥。"
+    },
+    {
+      "id": 131,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 132,
+      "en": "I'll be in Chicago like Marco is.",
+      "cn": "我会像马尔科一样在芝加哥。"
+    },
+    {
+      "id": 133,
+      "en": "I'm not going to talk about where I am now.",
+      "cn": "我不会谈论我现在在哪里。"
+    },
+    {
+      "id": 134,
+      "en": "This usually means I'm going somewhere else.",
+      "cn": "这通常意味着我会去别的地方。"
+    },
+    {
+      "id": 135,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 136,
+      "en": "So actually you can tell your friends that you're going to be in town or sometimes you have to tell someone you're going to be out of town.",
+      "cn": "所以实际上你可以告诉你的朋友你会在城里，或者有时你必须告诉某人你会不在城里。"
+    },
+    {
+      "id": 137,
+      "en": "I'll be out of town.",
+      "cn": "我会不在城里。"
+    },
+    {
+      "id": 138,
+      "en": "That means I won't be where I am now.",
+      "cn": "这意味着我不会在我现在所在的地方。"
+    },
+    {
+      "id": 139,
+      "en": "I won't be in New York.",
+      "cn": "我不会在纽约。"
+    },
+    {
+      "id": 140,
+      "en": "I'll be somewhere else.",
+      "cn": "我会在别的地方。"
+    },
+    {
+      "id": 141,
+      "en": "I'll be in Chicago.",
+      "cn": "我会在芝加哥。"
+    },
+    {
+      "id": 142,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 143,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 144,
+      "en": "So now moving on where when we were talking specifically about the hotel and maybe what is included with our suite, we asked a very important question.",
+      "cn": "现在继续，当我们具体谈论酒店时，也许我们问了一个非常重要的问题。"
+    },
+    {
+      "id": 145,
+      "en": "Is breakfast included?",
+      "cn": "早餐包括吗？"
+    },
+    {
+      "id": 146,
+      "en": "Included in what?",
+      "cn": "包括什么？"
+    },
+    {
+      "id": 147,
+      "en": "In the price.",
+      "cn": "包括在价格中。"
+    },
+    {
+      "id": 148,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 149,
+      "en": "So this is a very common question, like you're saying, Marco, but it's not obvious.",
+      "cn": "这是一个非常常见的问题，就像你说的，马尔科，但这并不明显。"
+    },
+    {
+      "id": 150,
+      "en": "So when you ask is breakfast included, that means do I have to pay extra for breakfast?",
+      "cn": "所以当你问早餐包括吗，这意味着我需要为早餐额外付费吗？"
+    },
+    {
+      "id": 151,
+      "en": "If breakfast is included, I don't have to pay.",
+      "cn": "如果早餐包括，我就不需要付费。"
+    },
+    {
+      "id": 152,
+      "en": "If it's not included, that means I have to pay extra for breakfast.",
+      "cn": "如果不包括，那意味着我需要为早餐额外付费。"
+    },
+    {
+      "id": 153,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 154,
+      "en": "And in this case, breakfast is included, but not just any breakfast.",
+      "cn": "在这种情况下，早餐是包括的，但不是任何早餐。"
+    },
+    {
+      "id": 155,
+      "en": "It's a buffet breakfast.",
+      "cn": "是自助早餐。"
+    },
+    {
+      "id": 156,
+      "en": "My favorite kind of breakfast.",
+      "cn": "我最喜欢的早餐类型。"
+    },
+    {
+      "id": 157,
+      "en": "So this is pretty common with hotels.",
+      "cn": "所以这在酒店中很常见。"
+    },
+    {
+      "id": 158,
+      "en": "They will serve a buffet breakfast from 7 A.M.",
+      "cn": "他们会从早上7点提供自助早餐。"
+    },
+    {
+      "id": 159,
+      "en": "to 9 A.M.",
+      "cn": "到早上9点。"
+    },
+    {
+      "id": 160,
+      "en": "or whatever.",
+      "cn": "或者其他时间。"
+    },
+    {
+      "id": 161,
+      "en": "A buffet means that there's a room with tables and food on the tables.",
+      "cn": "自助餐意味着有一个房间，里面有桌子和食物。"
+    },
+    {
+      "id": 162,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 163,
+      "en": "So you don't order food.",
+      "cn": "所以你不点食物。"
+    },
+    {
+      "id": 164,
+      "en": "You just take whatever you want.",
+      "cn": "你只需拿你想要的。"
+    },
+    {
+      "id": 165,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 166,
+      "en": "So you can take whatever you want and usually as much as you want.",
+      "cn": "所以你可以拿你想要的，通常是你想要多少就拿多少。"
+    },
+    {
+      "id": 167,
+      "en": "That's the best part.",
+      "cn": "这就是最好的部分。"
+    },
+    {
+      "id": 168,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 169,
+      "en": "So now we know that breakfast is included.",
+      "cn": "所以现在我们知道早餐是包括的。"
+    },
+    {
+      "id": 170,
+      "en": "We know what a room is like.",
+      "cn": "我们知道房间是什么样的。"
+    },
+    {
+      "id": 171,
+      "en": "So we're going to make the reservation.",
+      "cn": "所以我们要进行预订。"
+    },
+    {
+      "id": 172,
+      "en": "And the hotel employee says that he needs our credit card details to complete the reservation.",
+      "cn": "酒店员工说他需要我们的信用卡信息来完成预订。"
+    },
+    {
+      "id": 173,
+      "en": "Credit card details.",
+      "cn": "信用卡信息。"
+    },
+    {
+      "id": 174,
+      "en": "Now you might be wondering what details?",
+      "cn": "现在你可能想知道什么信息？"
+    },
+    {
+      "id": 175,
+      "en": "Credit card details means the specific information on your credit card.",
+      "cn": "信用卡信息是指你信用卡上的具体信息。"
+    },
+    {
+      "id": 176,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 177,
+      "en": "So this is pretty common when you're making a purchase on the phone or on the Internet.",
+      "cn": "所以这在你通过电话或互联网购物时很常见。"
+    },
+    {
+      "id": 178,
+      "en": "You have to enter.",
+      "cn": "你必须输入。"
+    },
+    {
+      "id": 179,
+      "en": "You have to provide your credit card details.",
+      "cn": "你必须提供你的信用卡信息。"
+    },
+    {
+      "id": 180,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 181,
+      "en": "That means your name, your credit card number, and the expiration date, which is when the card will no longer be useful.",
+      "cn": "这意味着你的名字、信用卡号码和到期日期，即卡片不再有效的日期。"
+    },
+    {
+      "id": 182,
+      "en": "So it's necessary because obviously you can say, yeah, I'm going to be there tomorrow.",
+      "cn": "所以这是必要的，因为显然你可以说，是的，我明天会到那里。"
+    },
+    {
+      "id": 183,
+      "en": "And then you don't show up and the hotel loses money.",
+      "cn": "然后你不出现，酒店就会亏损。"
+    },
+    {
+      "id": 184,
+      "en": "So they need to make sure that they have you somehow.",
+      "cn": "所以他们需要确保他们能找到你。"
+    },
+    {
+      "id": 185,
+      "en": "Yeah, that's their way of protecting themselves.",
+      "cn": "是的，这是他们保护自己的方式。"
+    },
+    {
+      "id": 186,
+      "en": "They want to give you the room, but they also don't want to lose money.",
+      "cn": "他们想给你房间，但他们也不想亏钱。"
+    },
+    {
+      "id": 187,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 188,
+      "en": "So let's listen to our dialogue one last time and we'll be back to talk a little bit more.",
+      "cn": "所以让我们最后再听一遍对话，我们会回来再聊一聊。"
+    },
+    {
+      "id": 189,
+      "en": "Madison Sweets, how may I help you?",
+      "cn": "麦迪逊甜品酒店，我能帮您什么？"
+    },
+    {
+      "id": 190,
+      "en": "Yes, I am calling from Mexico.",
+      "cn": "是的，我是从墨西哥打来的。"
+    },
+    {
+      "id": 191,
+      "en": "I will be in town next week and would like to know if you have availability.",
+      "cn": "我下周会到城里，想知道你们是否有空房。"
+    },
+    {
+      "id": 192,
+      "en": "Okay, ma'am.",
+      "cn": "好的，女士。"
+    },
+    {
+      "id": 193,
+      "en": "Can you tell me the date you expect to check in?",
+      "cn": "你能告诉我你预计入住的日期吗？"
+    },
+    {
+      "id": 194,
+      "en": "Yes, July 9th.",
+      "cn": "是的，7月9日。"
+    },
+    {
+      "id": 195,
+      "en": "I will be there for seven nights.",
+      "cn": "我会在那里住七晚。"
+    },
+    {
+      "id": 196,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "cn": "在这些日期，我们有一个初级单人套房或一个高级双人套房可供选择。"
+    },
+    {
+      "id": 197,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 198,
+      "en": "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and mini bar.",
+      "cn": "初级套房较小，配有一张单人床，而高级套房有一张双人床和迷你吧。"
+    },
+    {
+      "id": 199,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 200,
+      "en": "I would like to reserve the superior suite.",
+      "cn": "我想预订高级套房。"
+    },
+    {
+      "id": 201,
+      "en": "Is breakfast included?",
+      "cn": "包括早餐吗？"
+    },
+    {
+      "id": 202,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "cn": "是的，每天早上提供自助早餐。"
+    },
+    {
+      "id": 203,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "cn": "我需要你的名字和信用卡信息以完成预订。"
+    },
+    {
+      "id": 204,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 205,
+      "en": "My credit card number is...",
+      "cn": "我的信用卡号码是..."
+    },
+    {
+      "id": 206,
+      "en": "Alright, so talking about hotels, I think one of the most important things out of this... Well, not important, but also something that you should know is that the mini bar is always so expensive.",
+      "cn": "好的，谈到酒店，我认为最重要的事情之一... 嗯，不是重要，但你应该知道的是迷你吧总是很贵。"
+    },
+    {
+      "id": 207,
+      "en": "It is expensive.",
+      "cn": "确实很贵。"
+    },
+    {
+      "id": 208,
+      "en": "Be very careful when you're going into that mini bar.",
+      "cn": "进入迷你吧时要非常小心。"
+    },
+    {
+      "id": 209,
+      "en": "Sometimes it seems like a really good idea.",
+      "cn": "有时候这似乎是个好主意。"
+    },
+    {
+      "id": 210,
+      "en": "You're hungry and there are crackers or you want a beer.",
+      "cn": "你饿了，有饼干，或者想喝啤酒。"
+    },
+    {
+      "id": 211,
+      "en": "But you have to look at the menu because the menu will have the prices.",
+      "cn": "但你必须查看菜单，因为菜单上会有价格。"
+    },
+    {
+      "id": 212,
+      "en": "And maybe something that's really cheap in a store outside is really expensive at a hotel.",
+      "cn": "也许在外面的商店里很便宜的东西在酒店里却很贵。"
+    },
+    {
+      "id": 213,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 214,
+      "en": "And I think sometimes, I don't know, sometimes it's even hard to find that little menu so you don't even know what the prices are.",
+      "cn": "我觉得有时候，我不知道，有时候甚至很难找到那个小菜单，所以你根本不知道价格。"
+    },
+    {
+      "id": 215,
+      "en": "But you're so thirsty you just want to have something to drink now and it ends up costing you $10.",
+      "cn": "但你口渴得很，只想现在喝点东西，结果花了你10美元。"
+    },
+    {
+      "id": 216,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 217,
+      "en": "So be careful.",
+      "cn": "所以要小心。"
+    },
+    {
+      "id": 218,
+      "en": "Anytime you're in a hotel room, expect the prices to be pretty high for the things in the hotel.",
+      "cn": "每当你在酒店房间时，预计酒店里的东西价格会很高。"
+    },
+    {
+      "id": 219,
+      "en": "Unless, of course, there's a sign or a piece of paper that says that something is free or complimentary.",
+      "cn": "除非当然有标志或纸条说明某样东西是免费的或赠送的。"
+    },
+    {
+      "id": 220,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 221,
+      "en": "Complimentary water is very common in hotels.",
+      "cn": "酒店里提供免费的水是很常见的。"
+    },
+    {
+      "id": 222,
+      "en": "They'll give you two free bottles of water.",
+      "cn": "他们会给你两瓶免费的水。"
+    },
+    {
+      "id": 223,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 224,
+      "en": "So complimentary means you don't have to pay for it.",
+      "cn": "所以赠送的意思是你不需要为此付费。"
+    },
+    {
+      "id": 225,
+      "en": "But if there's no sign, then expect to pay a lot.",
+      "cn": "但如果没有标志，那就要准备付很多钱。"
+    },
+    {
+      "id": 226,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 227,
+      "en": "Okay, so if you guys have any questions or any doubts or you want to suggest any other lesson topic, you can visit us at EnglishPod.com.",
+      "cn": "好的，如果你们有任何问题或疑虑，或者想建议其他课程主题，可以访问我们的网站 EnglishPod.com。"
+    },
+    {
+      "id": 228,
+      "en": "We hope to see you there.",
+      "cn": "我们希望在那里见到你。"
+    },
+    {
+      "id": 229,
+      "en": "Until next time.",
+      "cn": "下次见。"
+    },
+    {
+      "id": 230,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

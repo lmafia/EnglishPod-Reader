@@ -1,0 +1,1174 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0209",
+  "title": "EnglishPod 初级 英文播客 0209",
+  "totalSegments": 233,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're talking about office stuff, things in your office.",
+      "cn": "今天我们要讨论办公室的事情，办公室里的东西。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "We are talking about secrets in the office or maybe specific little things that people talk about behind other people's back.",
+      "cn": "我们在谈论办公室的秘密，或者人们在背后谈论的具体小事。"
+    },
+    {
+      "id": 7,
+      "en": "Okay, bad things then.",
+      "cn": "好吧，那就是坏事。"
+    },
+    {
+      "id": 8,
+      "en": "So this is an elementary level lesson.",
+      "cn": "这是一个初级水平的课程。"
+    },
+    {
+      "id": 9,
+      "en": "Before we get going, though, let's take a look at a phrase in today's vocabulary preview.",
+      "cn": "不过在开始之前，让我们先看看今天词汇预览中的一个短语。"
+    },
+    {
+      "id": 10,
+      "en": "All right, so the phrase for today is actually the same as the title for this lesson, and that's office gossip.",
+      "cn": "好的，今天的短语实际上和本课的标题相同，那就是办公室八卦。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, you all know what an office is.",
+      "cn": "好吧，你们都知道办公室是什么。"
+    },
+    {
+      "id": 12,
+      "en": "What is gossip?",
+      "cn": "什么是八卦？"
+    },
+    {
+      "id": 13,
+      "en": "So to gossip means to talk about other people secretly or behind their backs, or maybe talk about other people's problems or private things.",
+      "cn": "八卦就是秘密地或在别人背后谈论其他人，或者谈论其他人的问题或私事。"
+    },
+    {
+      "id": 14,
+      "en": "So, oh my god, did you hear?",
+      "cn": "哦，我的天，你听说了吗？"
+    },
+    {
+      "id": 15,
+      "en": "John is totally gonna break up with her.",
+      "cn": "John肯定要和她分手了。"
+    },
+    {
+      "id": 16,
+      "en": "So you're talking about people without them knowing.",
+      "cn": "所以你是在谈论别人而他们不知道。"
+    },
+    {
+      "id": 17,
+      "en": "Right, so you're talking about their private things, their relationships.",
+      "cn": "对，所以你在谈论他们的私事，他们的关系。"
+    },
+    {
+      "id": 18,
+      "en": "Maybe you're even maybe criticizing them.",
+      "cn": "也许你甚至在批评他们。"
+    },
+    {
+      "id": 19,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 20,
+      "en": "So office gossip is talking about people in your office without them knowing, so saying bad things about them.",
+      "cn": "所以办公室八卦就是在办公室里谈论别人而他们不知道，讲一些坏话。"
+    },
+    {
+      "id": 21,
+      "en": "Right, so without any more delay, why don't we listen to this dialogue for the first time?",
+      "cn": "好的，那我们不再拖延，为什么不第一次听这个对话呢？"
+    },
+    {
+      "id": 22,
+      "en": "Hey, Eric, have you heard?",
+      "cn": "嘿，Eric，你听说了吗？"
+    },
+    {
+      "id": 23,
+      "en": "Hmm?",
+      "cn": "嗯？"
+    },
+    {
+      "id": 24,
+      "en": "No?",
+      "cn": "没有？"
+    },
+    {
+      "id": 25,
+      "en": "Go on, tell me.",
+      "cn": "继续，告诉我。"
+    },
+    {
+      "id": 26,
+      "en": "What's the latest office gossip?",
+      "cn": "最新的办公室八卦是什么？"
+    },
+    {
+      "id": 27,
+      "en": "Well, you didn't hear this from me, but the rumor is Paula is getting a promotion.",
+      "cn": "嗯，你没听我说，但传闻是Paula要升职了。"
+    },
+    {
+      "id": 28,
+      "en": "No way, but she's a terrible worker, and you can't trust her.",
+      "cn": "不可能，她工作糟糕，根本不能信任她。"
+    },
+    {
+      "id": 29,
+      "en": "She's so two-faced.",
+      "cn": "她真是个双面人。"
+    },
+    {
+      "id": 30,
+      "en": "You can't believe anything she says.",
+      "cn": "你不能相信她说的任何话。"
+    },
+    {
+      "id": 31,
+      "en": "Hey, guys, what are you two whispering about?",
+      "cn": "嘿，伙计们，你们在低声说什么？"
+    },
+    {
+      "id": 32,
+      "en": "Oh, hi, Paula.",
+      "cn": "哦，嗨，Paula。"
+    },
+    {
+      "id": 33,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 34,
+      "en": "I've got some good news.",
+      "cn": "我有个好消息。"
+    },
+    {
+      "id": 35,
+      "en": "I'm getting a promotion.",
+      "cn": "我要升职了。"
+    },
+    {
+      "id": 36,
+      "en": "Congratulations!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 37,
+      "en": "Eric and I were just saying that you were the best person for the job.",
+      "cn": "Eric和我刚刚说你是这个工作的最佳人选。"
+    },
+    {
+      "id": 38,
+      "en": "Yes, you're the best.",
+      "cn": "是的，你是最棒的。"
+    },
+    {
+      "id": 39,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 40,
+      "en": "So we have four keywords that we want to look at from this gossip dialogue.",
+      "cn": "所以我们有四个关键词想从这个八卦对话中看一下。"
+    },
+    {
+      "id": 41,
+      "en": "So why don't we take a look at those now in language takeaway.",
+      "cn": "那么我们现在来看看这些词汇。"
+    },
+    {
+      "id": 42,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, the first word is rumor.",
+      "cn": "好的，第一个词是传闻。"
+    },
+    {
+      "id": 44,
+      "en": "Rumor.",
+      "cn": "传闻。"
+    },
+    {
+      "id": 45,
+      "en": "Now this is an interesting word about gossip.",
+      "cn": "这是一个关于八卦的有趣词汇。"
+    },
+    {
+      "id": 46,
+      "en": "Yeah, a rumor.",
+      "cn": "是的，传闻。"
+    },
+    {
+      "id": 47,
+      "en": "So a rumor is a story that might or might not be true.",
+      "cn": "传闻是一个可能真实也可能不真实的故事。"
+    },
+    {
+      "id": 48,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 49,
+      "en": "Okay, so I heard a rumor that they broke up yesterday.",
+      "cn": "好吧，我听说他们昨天分手了。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so you're not sure if they broke up or no one has told you for a fact.",
+      "cn": "好吧，所以你不确定他们是否分手，或者没有人确切告诉你。"
+    },
+    {
+      "id": 51,
+      "en": "No, it means I probably heard it from someone else who heard it from someone else who heard it from someone else who doesn't really know.",
+      "cn": "不，这意味着我可能是从另一个人那里听来的，而那个人又是从另一个人那里听来的，最后一个人并不真正知道。"
+    },
+    {
+      "id": 52,
+      "en": "Right, so rumors are maybe guesses about people and you don't know if they're true.",
+      "cn": "对，所以传闻可能是关于人们的猜测，你不知道它们是否真实。"
+    },
+    {
+      "id": 53,
+      "en": "You see this a lot with famous people, movie stars.",
+      "cn": "你在名人、电影明星身上经常看到这种情况。"
+    },
+    {
+      "id": 54,
+      "en": "They always talk about rumors that maybe they got married in secret or something.",
+      "cn": "他们总是谈论可能秘密结婚的传闻。"
+    },
+    {
+      "id": 55,
+      "en": "Exactly, there's a rumor that Angelina Jolie and Brad Pitt are breaking up.",
+      "cn": "确切地说，有传闻说安吉丽娜·朱莉和布拉德·皮特要分手了。"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, so we don't think that we don't know if it's true.",
+      "cn": "好吧，我们不知道这是否真实。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, that's a rumor.",
+      "cn": "好吧，那是一个传闻。"
+    },
+    {
+      "id": 59,
+      "en": "So now the rumor that they heard was that this girl, Paula, is getting a promotion.",
+      "cn": "现在他们听到的传闻是这个女孩Paula要升职了。"
+    },
+    {
+      "id": 60,
+      "en": "Promotion, this is an important office word.",
+      "cn": "升职，这是一个重要的办公室词汇。"
+    },
+    {
+      "id": 61,
+      "en": "This means to be offered a better job in your company.",
+      "cn": "这意味着在你的公司里被提供一个更好的工作。"
+    },
+    {
+      "id": 62,
+      "en": "That means to move up.",
+      "cn": "这意味着晋升。"
+    },
+    {
+      "id": 63,
+      "en": "To move up, right.",
+      "cn": "晋升，没错。"
+    },
+    {
+      "id": 64,
+      "en": "All right, so this is a noun.",
+      "cn": "好吧，这是一个名词。"
+    },
+    {
+      "id": 65,
+      "en": "You get a promotion, right?",
+      "cn": "你得到升职，对吧？"
+    },
+    {
+      "id": 66,
+      "en": "Yes, I got a promotion last year, which also meant I got more money.",
+      "cn": "是的，我去年升职了，这也意味着我赚了更多的钱。"
+    },
+    {
+      "id": 67,
+      "en": "Okay, awesome.",
+      "cn": "好吧，太棒了。"
+    },
+    {
+      "id": 68,
+      "en": "So that is a promotion.",
+      "cn": "所以那是一个升职。"
+    },
+    {
+      "id": 69,
+      "en": "Now, when they were talking about the promotion, the girl said, I can't believe, the guy said, and Eric said, I can't believe she's getting a promotion.",
+      "cn": "现在，当他们谈论升职时，女孩说，我简直不敢相信，那个家伙说，Eric说，我简直不敢相信她要升职了。"
+    },
+    {
+      "id": 70,
+      "en": "She's so two-faced.",
+      "cn": "她真是个双面人。"
+    },
+    {
+      "id": 71,
+      "en": "Two-faced.",
+      "cn": "双面人。"
+    },
+    {
+      "id": 72,
+      "en": "So think about what this means.",
+      "cn": "想想这是什么意思。"
+    },
+    {
+      "id": 73,
+      "en": "To have two faces, to be two-faced means to have two different sides to your personality, a good one and a bad one.",
+      "cn": "拥有两张面孔，双面人意味着你有两种不同的个性，一种好，一种坏。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, so like, I could be very nice to Marco.",
+      "cn": "好吧，比如说，我可以对Marco非常好。"
+    },
+    {
+      "id": 75,
+      "en": "Marco, wow, you look so good today.",
+      "cn": "Marco，哇，你今天看起来真好。"
+    },
+    {
+      "id": 76,
+      "en": "You're such a nice guy.",
+      "cn": "你真是个好人。"
+    },
+    {
+      "id": 77,
+      "en": "She's a card worker.",
+      "cn": "她是个努力工作的人。"
+    },
+    {
+      "id": 78,
+      "en": "And then, oh, my God, Marco's such an idiot.",
+      "cn": "然后，哦，我的天，Marco真是个傻瓜。"
+    },
+    {
+      "id": 79,
+      "en": "He's like never working and he's always on the phone.",
+      "cn": "他从来不工作，总是在打电话。"
+    },
+    {
+      "id": 80,
+      "en": "Oh, hi, Marco.",
+      "cn": "哦，嗨，Marco。"
+    },
+    {
+      "id": 81,
+      "en": "That is two-faced.",
+      "cn": "这就是双面人。"
+    },
+    {
+      "id": 82,
+      "en": "That's very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 83,
+      "en": "All right, so two-faced means to have two different sides to your personality.",
+      "cn": "好吧，双面人意味着你有两种不同的个性。"
+    },
+    {
+      "id": 84,
+      "en": "Now, it's interesting the way that you use this word, you say two-faced, right?",
+      "cn": "现在，使用这个词的方式很有趣，你说双面人，对吧？"
+    },
+    {
+      "id": 85,
+      "en": "So you have to add the E D at the end.",
+      "cn": "所以你必须在后面加上ED。"
+    },
+    {
+      "id": 86,
+      "en": "You can't say he is two-faced.",
+      "cn": "你不能说他是双面人。"
+    },
+    {
+      "id": 87,
+      "en": "No, he has two-faced.",
+      "cn": "不，他是双面人。"
+    },
+    {
+      "id": 88,
+      "en": "No, it's an adjective.",
+      "cn": "不，这是一个形容词。"
+    },
+    {
+      "id": 89,
+      "en": "So he's two-faced.",
+      "cn": "所以他是双面人。"
+    },
+    {
+      "id": 90,
+      "en": "She is two-faced.",
+      "cn": "她是双面人。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, two-faced.",
+      "cn": "好吧，双面人。"
+    },
+    {
+      "id": 92,
+      "en": "I don't like people who are two-faced.",
+      "cn": "我不喜欢双面的人。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 94,
+      "en": "And we have one final word.",
+      "cn": "我们还有一个最后的词。"
+    },
+    {
+      "id": 95,
+      "en": "And it's actually a verb when people talk like this.",
+      "cn": "这实际上是一个动词，当人们这样说的时候。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so they're talking quietly, very quietly.",
+      "cn": "好吧，他们在低声说，非常低声。"
+    },
+    {
+      "id": 97,
+      "en": "To whisper.",
+      "cn": "低语。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, so what are you whispering about?",
+      "cn": "好吧，你们在低声说什么？"
+    },
+    {
+      "id": 99,
+      "en": "Oh, so usually when people are whispering, they're talking about a rumor, right?",
+      "cn": "哦，所以通常当人们在低语时，他们是在谈论一个传闻，对吧？"
+    },
+    {
+      "id": 100,
+      "en": "Or they're talking in secret.",
+      "cn": "或者他们在秘密交谈。"
+    },
+    {
+      "id": 101,
+      "en": "You don't want somebody else to hear you.",
+      "cn": "你不想让别人听到。"
+    },
+    {
+      "id": 102,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 103,
+      "en": "So when you want to be very quiet, like at the movie theater, you whisper.",
+      "cn": "所以当你想要非常安静，比如在电影院时，你就耳语。"
+    },
+    {
+      "id": 104,
+      "en": "Okay, so those are our four words for language takeaway.",
+      "cn": "好的，这就是我们语言学习的四个词。"
+    },
+    {
+      "id": 105,
+      "en": "Why don't we go back, listen to the dialogue again.",
+      "cn": "我们为什么不回去，再听一遍对话。"
+    },
+    {
+      "id": 106,
+      "en": "And we'll be back to take a look at a couple of phrases.",
+      "cn": "然后我们再来看看几个短语。"
+    },
+    {
+      "id": 107,
+      "en": "Hey, Eric, have you heard?",
+      "cn": "嘿，埃里克，你听说了吗？"
+    },
+    {
+      "id": 108,
+      "en": "Hmm?",
+      "cn": "嗯？"
+    },
+    {
+      "id": 109,
+      "en": "No, go on.",
+      "cn": "没有，继续。"
+    },
+    {
+      "id": 110,
+      "en": "Tell me, what's the latest office gossip?",
+      "cn": "告诉我，最新的办公室八卦是什么？"
+    },
+    {
+      "id": 111,
+      "en": "Well, you didn't hear this from me.",
+      "cn": "嗯，你可别说是我告诉你的。"
+    },
+    {
+      "id": 112,
+      "en": "But the rumor is, Paula is getting a promotion.",
+      "cn": "但谣言是，保拉要升职了。"
+    },
+    {
+      "id": 113,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 114,
+      "en": "But she's a terrible worker.",
+      "cn": "但她工作很糟糕。"
+    },
+    {
+      "id": 115,
+      "en": "And you can't trust her.",
+      "cn": "而且你不能信任她。"
+    },
+    {
+      "id": 116,
+      "en": "She's so two faced.",
+      "cn": "她真是个双面人。"
+    },
+    {
+      "id": 117,
+      "en": "You can't believe anything she says.",
+      "cn": "你不能相信她说的任何话。"
+    },
+    {
+      "id": 118,
+      "en": "Hey, guys, what are you two whispering about?",
+      "cn": "嘿，伙计们，你们在耳语什么？"
+    },
+    {
+      "id": 119,
+      "en": "Oh, hi, Paula.",
+      "cn": "哦，嗨，保拉。"
+    },
+    {
+      "id": 120,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 121,
+      "en": "I've got some good news.",
+      "cn": "我有个好消息。"
+    },
+    {
+      "id": 122,
+      "en": "I'm getting a promotion.",
+      "cn": "我要升职了。"
+    },
+    {
+      "id": 123,
+      "en": "Congratulations.",
+      "cn": "恭喜你。"
+    },
+    {
+      "id": 124,
+      "en": "Eric and I were just saying that you were the best person for the job.",
+      "cn": "埃里克和我刚刚说你是这个职位的最佳人选。"
+    },
+    {
+      "id": 125,
+      "en": "Yes, you're the best.",
+      "cn": "是的，你是最棒的。"
+    },
+    {
+      "id": 126,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 127,
+      "en": "So now we have three key phrases from this great dialogue on Fluency Builder.",
+      "cn": "现在我们有三个关键短语来自这个精彩的流利度提升对话。"
+    },
+    {
+      "id": 128,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 129,
+      "en": "So this first one is the beginning to any great rumor.",
+      "cn": "所以第一个是任何伟大谣言的开端。"
+    },
+    {
+      "id": 130,
+      "en": "We say, have you heard?",
+      "cn": "我们说，你听说了吗？"
+    },
+    {
+      "id": 131,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 132,
+      "en": "So have you heard?",
+      "cn": "所以你听说了吗？"
+    },
+    {
+      "id": 133,
+      "en": "Have you heard that she got a promotion?",
+      "cn": "你听说她升职了吗？"
+    },
+    {
+      "id": 134,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 135,
+      "en": "It's kind of... you're not really asking, right?",
+      "cn": "这有点……你并不是真的在问，对吧？"
+    },
+    {
+      "id": 136,
+      "en": "Although it is a question.",
+      "cn": "虽然这确实是个问题。"
+    },
+    {
+      "id": 137,
+      "en": "Have you heard?",
+      "cn": "你听说了吗？"
+    },
+    {
+      "id": 138,
+      "en": "But you're not really expecting an answer.",
+      "cn": "但你并不真的期待答案。"
+    },
+    {
+      "id": 139,
+      "en": "What you're... this means I'm going to tell you some gossip.",
+      "cn": "这意味着我要告诉你一些八卦。"
+    },
+    {
+      "id": 140,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 141,
+      "en": "Have you heard?",
+      "cn": "你听说了吗？"
+    },
+    {
+      "id": 142,
+      "en": "Because maybe I did.",
+      "cn": "因为也许我听说了。"
+    },
+    {
+      "id": 143,
+      "en": "Maybe I didn't.",
+      "cn": "也许我没听说。"
+    },
+    {
+      "id": 144,
+      "en": "But I'm still going to say it.",
+      "cn": "但我还是要说。"
+    },
+    {
+      "id": 145,
+      "en": "She's still going to say it anyway.",
+      "cn": "她还是会说的。"
+    },
+    {
+      "id": 146,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 147,
+      "en": "So usually you can say, uh, what?",
+      "cn": "所以通常你可以说，呃，什么？"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 149,
+      "en": "Or in this case, Eric goes, no, go on, tell me what's the latest office gossip.",
+      "cn": "或者在这种情况下，埃里克说，不，继续，告诉我最新的办公室八卦。"
+    },
+    {
+      "id": 150,
+      "en": "So obviously... He knows it's going to be gossip.",
+      "cn": "所以显然……他知道这会是八卦。"
+    },
+    {
+      "id": 151,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 152,
+      "en": "Have you heard?",
+      "cn": "你听说了吗？"
+    },
+    {
+      "id": 153,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 154,
+      "en": "And so the next thing Pam says is, well, you didn't hear this from me.",
+      "cn": "所以下一个帕姆说的是，嗯，你可别说是我告诉你的。"
+    },
+    {
+      "id": 155,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 156,
+      "en": "What does this mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 157,
+      "en": "This is typical.",
+      "cn": "这很典型。"
+    },
+    {
+      "id": 158,
+      "en": "This is a way of saying, OK, don't tell anyone that I told you.",
+      "cn": "这是一种说法，好的，别告诉任何人是我告诉你的。"
+    },
+    {
+      "id": 159,
+      "en": "So you can tell people, but just don't tell them that I said that this happened because Pam doesn't want to get in trouble.",
+      "cn": "所以你可以告诉别人，但只要别告诉他们是我说的，因为帕姆不想惹麻烦。"
+    },
+    {
+      "id": 160,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 161,
+      "en": "She doesn't want anyone to know that she was giving out rumors.",
+      "cn": "她不想让任何人知道她在散布谣言。"
+    },
+    {
+      "id": 162,
+      "en": "So that's why she's starting out with, well, you didn't hear this from me, but the rumor is, OK, so you can.",
+      "cn": "所以这就是她开始说，嗯，你可别说是我告诉你的，但谣言是，好的，你可以。"
+    },
+    {
+      "id": 163,
+      "en": "So this is a way of saying, all right, don't tell anyone that I told you.",
+      "cn": "所以这是一种说法，好的，别告诉任何人是我告诉你的。"
+    },
+    {
+      "id": 164,
+      "en": "You didn't hear this from me.",
+      "cn": "你可别说是我告诉你的。"
+    },
+    {
+      "id": 165,
+      "en": "And also you can go, you can say, but the rumor is, or you can say, but rumor has it.",
+      "cn": "你也可以说，但谣言是，或者你可以说，但谣言说。"
+    },
+    {
+      "id": 166,
+      "en": "Rumor has it that Paula is getting a promotion.",
+      "cn": "谣言说保拉要升职了。"
+    },
+    {
+      "id": 167,
+      "en": "So you can go both ways.",
+      "cn": "所以你可以两种说法。"
+    },
+    {
+      "id": 168,
+      "en": "And now he exclaims something that's very strange.",
+      "cn": "现在他惊呼了一些非常奇怪的事情。"
+    },
+    {
+      "id": 169,
+      "en": "If you just look at it from these two words, no way.",
+      "cn": "如果你只看这两个词，不可能。"
+    },
+    {
+      "id": 170,
+      "en": "No way?",
+      "cn": "不可能？"
+    },
+    {
+      "id": 171,
+      "en": "What is no way?",
+      "cn": "不可能是什么意思？"
+    },
+    {
+      "id": 172,
+      "en": "Well, in this context, no way means really?",
+      "cn": "嗯，在这个上下文中，不可能意味着真的吗？"
+    },
+    {
+      "id": 173,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 174,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 175,
+      "en": "I'm surprised.",
+      "cn": "我很惊讶。"
+    },
+    {
+      "id": 176,
+      "en": "So it's a way to express surprise.",
+      "cn": "所以这是一种表达惊讶的方式。"
+    },
+    {
+      "id": 177,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 178,
+      "en": "But be careful because there's another meaning to this phrase.",
+      "cn": "但要小心，因为这个短语还有另一种含义。"
+    },
+    {
+      "id": 179,
+      "en": "For example, Marco, could you help me out and get the groceries from the car?",
+      "cn": "例如，马尔科，你能帮我把车里的杂货拿出来吗？"
+    },
+    {
+      "id": 180,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 181,
+      "en": "Huh?",
+      "cn": "嗯？"
+    },
+    {
+      "id": 182,
+      "en": "OK, that means no.",
+      "cn": "好的，那意味着不。"
+    },
+    {
+      "id": 183,
+      "en": "OK, no way.",
+      "cn": "好的，不可能。"
+    },
+    {
+      "id": 184,
+      "en": "That means no.",
+      "cn": "那意味着不。"
+    },
+    {
+      "id": 185,
+      "en": "But also, if you say it like, no way.",
+      "cn": "但如果你说得像，不可能。"
+    },
+    {
+      "id": 186,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 187,
+      "en": "You're saying, wow, that's so interesting.",
+      "cn": "你是在说，哇，真有趣。"
+    },
+    {
+      "id": 188,
+      "en": "So it can be an expression of surprise or it can be a way of saying no very firmly.",
+      "cn": "所以它可以是惊讶的表达，或者可以是非常坚定地说不。"
+    },
+    {
+      "id": 189,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 190,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 191,
+      "en": "So three great phrases there.",
+      "cn": "所以这里有三个很棒的短语。"
+    },
+    {
+      "id": 192,
+      "en": "Very interesting dialogue about gossip.",
+      "cn": "关于八卦的非常有趣的对话。"
+    },
+    {
+      "id": 193,
+      "en": "Very common in the office environment.",
+      "cn": "在办公室环境中非常常见。"
+    },
+    {
+      "id": 194,
+      "en": "So why don't we listen to the dialogue again and we'll be back in a little bit.",
+      "cn": "所以我们为什么不再听一遍对话，我们稍后再回来。"
+    },
+    {
+      "id": 195,
+      "en": "Hey, Eric, have you heard?",
+      "cn": "嘿，埃里克，你听说了吗？"
+    },
+    {
+      "id": 196,
+      "en": "No, go on.",
+      "cn": "没有，继续。"
+    },
+    {
+      "id": 197,
+      "en": "Tell me, what's the latest office gossip?",
+      "cn": "告诉我，最新的办公室八卦是什么？"
+    },
+    {
+      "id": 198,
+      "en": "Well, you didn't hear this from me, but the rumor is Paula is getting a promotion.",
+      "cn": "嗯，你可别告诉我，是传言保拉要升职了。"
+    },
+    {
+      "id": 199,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 200,
+      "en": "But she's a terrible worker and you can't trust her.",
+      "cn": "可是她工作糟糕，根本不能信任她。"
+    },
+    {
+      "id": 201,
+      "en": "She's so two faced.",
+      "cn": "她真是个双面人。"
+    },
+    {
+      "id": 202,
+      "en": "You can't believe anything she says.",
+      "cn": "你根本不能相信她说的任何话。"
+    },
+    {
+      "id": 203,
+      "en": "Hey, guys, what are you two whispering about?",
+      "cn": "嘿，伙计们，你们在窃窃私语什么？"
+    },
+    {
+      "id": 204,
+      "en": "Oh, hi, Paula.",
+      "cn": "哦，嗨，保拉。"
+    },
+    {
+      "id": 205,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 206,
+      "en": "I've got some good news.",
+      "cn": "我有个好消息。"
+    },
+    {
+      "id": 207,
+      "en": "I'm getting a promotion.",
+      "cn": "我要升职了。"
+    },
+    {
+      "id": 208,
+      "en": "Congratulations.",
+      "cn": "恭喜你。"
+    },
+    {
+      "id": 209,
+      "en": "Eric and I were just saying that you were the best person for the job.",
+      "cn": "埃里克和我刚才还说你是这个职位的最佳人选。"
+    },
+    {
+      "id": 210,
+      "en": "Yes, you're the best.",
+      "cn": "是的，你是最棒的。"
+    },
+    {
+      "id": 211,
+      "en": "OK, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 212,
+      "en": "So office gossip is generally well, it's common.",
+      "cn": "所以办公室八卦通常是，嗯，很常见。"
+    },
+    {
+      "id": 213,
+      "en": "It happens in every office, but I think that it's good to avoid too much gossip.",
+      "cn": "每个办公室都会发生，但我认为最好避免过多的八卦。"
+    },
+    {
+      "id": 214,
+      "en": "Because sometimes people's feelings can get hurt.",
+      "cn": "因为有时人们的感情会受到伤害。"
+    },
+    {
+      "id": 215,
+      "en": "Yeah, it's actually very interesting because usually the bigger the company is, I think more gossip starts to spread because, you know, they're departments.",
+      "cn": "是的，这实际上非常有趣，因为通常公司越大，我认为八卦传播得越多，因为你知道，他们有不同的部门。"
+    },
+    {
+      "id": 216,
+      "en": "So you got the marketing department, the finance department.",
+      "cn": "所以你有市场部，财务部。"
+    },
+    {
+      "id": 217,
+      "en": "So you're like, oh, Kathy from finance, she slept with Tom from marketing and stuff like that.",
+      "cn": "所以你会说，哦，财务部的凯西，她和市场部的汤姆发生了关系之类的。"
+    },
+    {
+      "id": 218,
+      "en": "Then you have the gossip about the bosses.",
+      "cn": "然后你会有关于老板的八卦。"
+    },
+    {
+      "id": 219,
+      "en": "Did you see he totally left for the weekend, but his wife was at home?",
+      "cn": "你看到他周末完全离开了，但他的妻子在家吗？"
+    },
+    {
+      "id": 220,
+      "en": "Yeah, so and also one of the situations where a lot of rumors and office gossip starts to come up is office parties or the office Christmas parties where people maybe are drinking or something happens and a lot of rumors start to spread.",
+      "cn": "是的，所以还有一种情况是很多谣言和办公室八卦开始出现的地方是办公室聚会或办公室圣诞聚会，人们可能在喝酒或发生了什么事情，很多谣言开始传播。"
+    },
+    {
+      "id": 221,
+      "en": "And they're more relaxed than usual.",
+      "cn": "而且他们比平时更放松。"
+    },
+    {
+      "id": 222,
+      "en": "They do things they wouldn't normally do.",
+      "cn": "他们会做一些平时不会做的事情。"
+    },
+    {
+      "id": 223,
+      "en": "Absolutely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 224,
+      "en": "So maybe we could open this up to you.",
+      "cn": "所以也许我们可以向你们开放这个话题。"
+    },
+    {
+      "id": 225,
+      "en": "Is there a common rumor or office gossip that you hear in your office?",
+      "cn": "在你们的办公室里，有没有常见的谣言或办公室八卦？"
+    },
+    {
+      "id": 226,
+      "en": "Or is there that one secretary or guy that's always spreading rumors and gossiping?",
+      "cn": "或者有没有那个总是传播谣言和八卦的秘书或家伙？"
+    },
+    {
+      "id": 227,
+      "en": "And don't use any real names.",
+      "cn": "记得不要用真实的名字。"
+    },
+    {
+      "id": 228,
+      "en": "You can just tell us general stories.",
+      "cn": "你可以告诉我们一些一般的故事。"
+    },
+    {
+      "id": 229,
+      "en": "But that's about it for us here today at EnglishPod.",
+      "cn": "但今天在EnglishPod就到此为止。"
+    },
+    {
+      "id": 230,
+      "en": "Hope you've enjoyed this.",
+      "cn": "希望你喜欢这个。"
+    },
+    {
+      "id": 231,
+      "en": "Check out our website, EnglishPod.com.",
+      "cn": "查看我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 232,
+      "en": "Let us know if you have any questions or concerns.",
+      "cn": "如果你有任何问题或疑虑，请告诉我们。"
+    },
+    {
+      "id": 233,
+      "en": "But until next time, bye.",
+      "cn": "但下次再见，拜拜。"
+    }
+  ]
+}

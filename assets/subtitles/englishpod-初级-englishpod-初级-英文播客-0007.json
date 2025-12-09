@@ -1,0 +1,1074 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0007",
+  "title": "Englishpod 初级 英文播客 0007",
+  "totalSegments": 213,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners, and welcome to EnglishPod.",
+      "cn": "你好，英语学习者，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 4,
+      "en": "Hey, Erica.",
+      "cn": "嘿，Erica。"
+    },
+    {
+      "id": 5,
+      "en": "How are you today?",
+      "cn": "你今天怎么样？"
+    },
+    {
+      "id": 6,
+      "en": "Marco, I am doing really well, and I'm really looking forward to today's lesson.",
+      "cn": "Marco，我很好，我非常期待今天的课程。"
+    },
+    {
+      "id": 7,
+      "en": "Well, so am I, because here at EnglishPod, we're giving you real English.",
+      "cn": "我也是，因为在EnglishPod，我们给你真实的英语。"
+    },
+    {
+      "id": 8,
+      "en": "Everyday English.",
+      "cn": "日常英语。"
+    },
+    {
+      "id": 9,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 10,
+      "en": "English that you hear in movies or in TV shows.",
+      "cn": "电影或电视节目中听到的英语。"
+    },
+    {
+      "id": 11,
+      "en": "This is English people actually use.",
+      "cn": "这是人们实际使用的英语。"
+    },
+    {
+      "id": 12,
+      "en": "So, Erica, what is our topic for today?",
+      "cn": "那么，Erica，今天我们的主题是什么？"
+    },
+    {
+      "id": 13,
+      "en": "Well, today we're talking about computer viruses.",
+      "cn": "今天我们要谈论计算机病毒。"
+    },
+    {
+      "id": 14,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 15,
+      "en": "So, I think it's time for us to take a look at our preview.",
+      "cn": "我想是时候看看我们的预览了。"
+    },
+    {
+      "id": 16,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, today we've got two words to preview.",
+      "cn": "好的，今天我们有两个词要预览。"
+    },
+    {
+      "id": 18,
+      "en": "The first word is virus.",
+      "cn": "第一个词是病毒。"
+    },
+    {
+      "id": 19,
+      "en": "Virus.",
+      "cn": "病毒。"
+    },
+    {
+      "id": 20,
+      "en": "Virus.",
+      "cn": "病毒。"
+    },
+    {
+      "id": 21,
+      "en": "Virus.",
+      "cn": "病毒。"
+    },
+    {
+      "id": 22,
+      "en": "So, if your computer has a computer virus, it means your computer is sick, right?",
+      "cn": "所以，如果你的电脑有病毒，意味着你的电脑生病了，对吗？"
+    },
+    {
+      "id": 23,
+      "en": "Actually, a computer virus is a program that is designed to harm or to damage your computer.",
+      "cn": "实际上，计算机病毒是一个旨在损害或破坏你电脑的程序。"
+    },
+    {
+      "id": 24,
+      "en": "Oh, I see.",
+      "cn": "哦，我明白了。"
+    },
+    {
+      "id": 25,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 26,
+      "en": "Well, thank you for being so technical.",
+      "cn": "谢谢你这么专业。"
+    },
+    {
+      "id": 27,
+      "en": "That's the technical explanation.",
+      "cn": "这是技术解释。"
+    },
+    {
+      "id": 28,
+      "en": "Okay, let's take a look at our second word for our preview today, and that would be froze.",
+      "cn": "好的，让我们看看今天预览的第二个词，那就是冻结。"
+    },
+    {
+      "id": 29,
+      "en": "Froze.",
+      "cn": "冻结。"
+    },
+    {
+      "id": 30,
+      "en": "Froze.",
+      "cn": "冻结。"
+    },
+    {
+      "id": 31,
+      "en": "Froze.",
+      "cn": "冻结。"
+    },
+    {
+      "id": 32,
+      "en": "So, if your computer froze, it means that your computer stopped working.",
+      "cn": "所以，如果你的电脑冻结了，意味着你的电脑停止工作。"
+    },
+    {
+      "id": 33,
+      "en": "Your applications or your programs stopped working and you just can't do anything.",
+      "cn": "你的应用程序或程序停止工作，你什么也做不了。"
+    },
+    {
+      "id": 34,
+      "en": "Your computer is broken.",
+      "cn": "你的电脑坏了。"
+    },
+    {
+      "id": 35,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 36,
+      "en": "So, let's listen to our dialogue.",
+      "cn": "现在，让我们听听我们的对话。"
+    },
+    {
+      "id": 37,
+      "en": "It's gonna be a little bit fast, but... Don't worry if you don't understand everything.",
+      "cn": "会有点快，但... 如果你不理解所有内容也不用担心。"
+    },
+    {
+      "id": 38,
+      "en": "At the end of this podcast, you'll understand everything.",
+      "cn": "在这个播客结束时，你会理解一切。"
+    },
+    {
+      "id": 39,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 40,
+      "en": "Let's listen.",
+      "cn": "让我们听。"
+    },
+    {
+      "id": 41,
+      "en": "Oh, great.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 42,
+      "en": "The stupid computer froze again.",
+      "cn": "这该死的电脑又冻结了。"
+    },
+    {
+      "id": 43,
+      "en": "That's the third time today.",
+      "cn": "今天已经是第三次了。"
+    },
+    {
+      "id": 44,
+      "en": "Hey, Samuel, can you come take a look at my PC?",
+      "cn": "嘿，Samuel，你能来看看我的电脑吗？"
+    },
+    {
+      "id": 45,
+      "en": "It's acting up again.",
+      "cn": "它又出问题了。"
+    },
+    {
+      "id": 46,
+      "en": "It must have a virus or something.",
+      "cn": "可能有病毒或其他问题。"
+    },
+    {
+      "id": 47,
+      "en": "Just give me a second.",
+      "cn": "等我一下。"
+    },
+    {
+      "id": 48,
+      "en": "I'll be right up.",
+      "cn": "我马上就来。"
+    },
+    {
+      "id": 49,
+      "en": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+      "cn": "我对你的电脑进行了病毒扫描，结果发现你有很多感染的文件。"
+    },
+    {
+      "id": 50,
+      "en": "But I'm quite careful when I'm browsing the Internet.",
+      "cn": "但我在上网时非常小心。"
+    },
+    {
+      "id": 51,
+      "en": "I have no idea how I could have picked up a virus.",
+      "cn": "我不知道我是怎么感染病毒的。"
+    },
+    {
+      "id": 52,
+      "en": "Well, you have to make sure their antivirus software is updated regularly.",
+      "cn": "嗯，你必须确保你的杀毒软件定期更新。"
+    },
+    {
+      "id": 53,
+      "en": "Yours wasn't up to date.",
+      "cn": "你的没有更新。"
+    },
+    {
+      "id": 54,
+      "en": "That's probably what was causing your problems.",
+      "cn": "这可能是导致你问题的原因。"
+    },
+    {
+      "id": 55,
+      "en": "Okay, anything else?",
+      "cn": "好的，还有其他吗？"
+    },
+    {
+      "id": 56,
+      "en": "Yeah, try not to kick or hit the computer.",
+      "cn": "是的，尽量不要踢或打电脑。"
+    },
+    {
+      "id": 57,
+      "en": "Um, yeah, sorry about that.",
+      "cn": "嗯，是的，抱歉。"
+    },
+    {
+      "id": 58,
+      "en": "Well, I completely understand this guy.",
+      "cn": "嗯，我完全理解这个家伙。"
+    },
+    {
+      "id": 59,
+      "en": "When my computer freezes, I kick it and punch it and do everything to it.",
+      "cn": "当我的电脑冻结时，我会踢它、打它，做任何事情。"
+    },
+    {
+      "id": 60,
+      "en": "Well, I hope you don't punch it too hard, Marco.",
+      "cn": "嗯，我希望你不要打得太狠，Marco。"
+    },
+    {
+      "id": 61,
+      "en": "Well, it's still working, so it's alright.",
+      "cn": "嗯，它还在工作，所以没关系。"
+    },
+    {
+      "id": 62,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 63,
+      "en": "Alright, let's take a look at our language takeaway.",
+      "cn": "好吧，让我们看看我们的语言要点。"
+    },
+    {
+      "id": 64,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 65,
+      "en": "In today's language takeaway, we have two words.",
+      "cn": "在今天的语言要点中，我们有两个词。"
+    },
+    {
+      "id": 66,
+      "en": "The first word for today is infected file.",
+      "cn": "今天的第一个词是感染文件。"
+    },
+    {
+      "id": 67,
+      "en": "Infected file.",
+      "cn": "感染文件。"
+    },
+    {
+      "id": 68,
+      "en": "Infected file.",
+      "cn": "感染文件。"
+    },
+    {
+      "id": 69,
+      "en": "Infected file.",
+      "cn": "感染文件。"
+    },
+    {
+      "id": 70,
+      "en": "And what is an infected file?",
+      "cn": "感染文件是什么？"
+    },
+    {
+      "id": 71,
+      "en": "An infected file is a file in your computer that has a virus in it.",
+      "cn": "感染文件是你电脑中含有病毒的文件。"
+    },
+    {
+      "id": 72,
+      "en": "Ah, perfect.",
+      "cn": "啊，完美。"
+    },
+    {
+      "id": 73,
+      "en": "That's really clear.",
+      "cn": "这很清楚。"
+    },
+    {
+      "id": 74,
+      "en": "What is our second word for the language takeaway today?",
+      "cn": "今天语言要点的第二个词是什么？"
+    },
+    {
+      "id": 75,
+      "en": "Our second word is not up-to-date.",
+      "cn": "我们的第二个词是未更新。"
+    },
+    {
+      "id": 76,
+      "en": "Not up-to-date.",
+      "cn": "未更新。"
+    },
+    {
+      "id": 77,
+      "en": "And what is it when something is not up-to-date?",
+      "cn": "当某物未更新时是什么意思？"
+    },
+    {
+      "id": 78,
+      "en": "It means it doesn't have all the most recent information.",
+      "cn": "意味着它没有最新的信息。"
+    },
+    {
+      "id": 79,
+      "en": "Okay, perfect.",
+      "cn": "好的，完美。"
+    },
+    {
+      "id": 80,
+      "en": "Now let's listen to some examples.",
+      "cn": "现在让我们听一些例子。"
+    },
+    {
+      "id": 81,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 82,
+      "en": "I need to buy a new computer because mine isn't up-to-date.",
+      "cn": "我需要买一台新电脑，因为我的电脑没有更新。"
+    },
+    {
+      "id": 83,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 84,
+      "en": "I can't find the street.",
+      "cn": "我找不到这条街。"
+    },
+    {
+      "id": 85,
+      "en": "Are you sure this map is up-to-date?",
+      "cn": "你确定这张地图是最新的吗？"
+    },
+    {
+      "id": 86,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 87,
+      "en": "Sarah has just finished the reports and all the information is up-to-date.",
+      "cn": "Sarah刚完成报告，所有信息都是最新的。"
+    },
+    {
+      "id": 88,
+      "en": "Okay, that was pretty clear.",
+      "cn": "好的，这很清楚。"
+    },
+    {
+      "id": 89,
+      "en": "You know, you can also use this phrase positively.",
+      "cn": "你知道，你也可以积极地使用这个短语。"
+    },
+    {
+      "id": 90,
+      "en": "You can say up-to-date.",
+      "cn": "你可以说是最新的。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, for example, we can say this is a new map.",
+      "cn": "好的，例如，我们可以说这是张新地图。"
+    },
+    {
+      "id": 92,
+      "en": "This is the most up-to-date map.",
+      "cn": "这是最新的地图。"
+    },
+    {
+      "id": 93,
+      "en": "Exactly, or if I bought a new computer, I could say I just got a new computer.",
+      "cn": "正是，或者如果我买了一台新电脑，我可以说我刚买了一台新电脑。"
+    },
+    {
+      "id": 94,
+      "en": "All my software is up-to-date.",
+      "cn": "我所有的软件都是最新的。"
+    },
+    {
+      "id": 95,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 96,
+      "en": "So now let's take a look at some phrases.",
+      "cn": "现在让我们看看一些短语。"
+    },
+    {
+      "id": 97,
+      "en": "And it's time for putting it all together.",
+      "cn": "是时候把所有内容整合在一起了。"
+    },
+    {
+      "id": 98,
+      "en": "Putting it together.",
+      "cn": "整合在一起。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, so Samuel said a really great phrase.",
+      "cn": "好的，Samuel说了一个很好的短语。"
+    },
+    {
+      "id": 100,
+      "en": "He said, I'll be right up.",
+      "cn": "他说，我马上就来。"
+    },
+    {
+      "id": 101,
+      "en": "I'll be right up.",
+      "cn": "我马上就来。"
+    },
+    {
+      "id": 102,
+      "en": "I'll be right up.",
+      "cn": "我马上就来。"
+    },
+    {
+      "id": 103,
+      "en": "I'll be right up.",
+      "cn": "我马上就来。"
+    },
+    {
+      "id": 104,
+      "en": "Now, we can use this phrase in a lot of different situations.",
+      "cn": "现在，我们可以在很多不同的情况下使用这个短语。"
+    },
+    {
+      "id": 105,
+      "en": "So let's listen to some examples.",
+      "cn": "所以让我们听一些例子。"
+    },
+    {
+      "id": 106,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 107,
+      "en": "Can you help me with my computer?",
+      "cn": "你能帮我修电脑吗？"
+    },
+    {
+      "id": 108,
+      "en": "I'll be right there.",
+      "cn": "我马上就到。"
+    },
+    {
+      "id": 109,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 110,
+      "en": "Come downstairs.",
+      "cn": "下楼来。"
+    },
+    {
+      "id": 111,
+      "en": "Dinner is ready.",
+      "cn": "晚餐准备好了。"
+    },
+    {
+      "id": 112,
+      "en": "I'll be right down.",
+      "cn": "我马上就下去。"
+    },
+    {
+      "id": 113,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 114,
+      "en": "Hurry up!",
+      "cn": "快点！"
+    },
+    {
+      "id": 115,
+      "en": "I need to use the bathroom.",
+      "cn": "我需要上厕所。"
+    },
+    {
+      "id": 116,
+      "en": "I'll be right out.",
+      "cn": "我马上就出来。"
+    },
+    {
+      "id": 117,
+      "en": "Okay, really great and clear examples, right?",
+      "cn": "好的，真的很好的例子，对吧？"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, you know that phrase, I'll be right out?",
+      "cn": "是的，你知道那个短语，我马上就出来？"
+    },
+    {
+      "id": 119,
+      "en": "I used to hear this all the time when I was young.",
+      "cn": "我年轻的时候总是听到这个。"
+    },
+    {
+      "id": 120,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 121,
+      "en": "How come?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 122,
+      "en": "Well, I have two sisters and we were always fighting for the bathroom.",
+      "cn": "嗯，我有两个姐妹，我们总是争厕所。"
+    },
+    {
+      "id": 123,
+      "en": "So someone was always saying, just a minute, I'll be right out.",
+      "cn": "所以总有人在说，等一下，我马上就出来。"
+    },
+    {
+      "id": 124,
+      "en": "Yes, that's common.",
+      "cn": "是的，这很常见。"
+    },
+    {
+      "id": 125,
+      "en": "I had that too when I was young.",
+      "cn": "我年轻的时候也有过。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, now our second phrase is, it turns out that.",
+      "cn": "好的，现在我们的第二个短语是，结果是。"
+    },
+    {
+      "id": 127,
+      "en": "It turns out that.",
+      "cn": "结果是。"
+    },
+    {
+      "id": 128,
+      "en": "It turns out that.",
+      "cn": "结果是。"
+    },
+    {
+      "id": 129,
+      "en": "It turns out that.",
+      "cn": "结果是。"
+    },
+    {
+      "id": 130,
+      "en": "This is a great phrase, you can use it in many different situations.",
+      "cn": "这是一个很好的短语，你可以在很多不同的情况下使用。"
+    },
+    {
+      "id": 131,
+      "en": "Marco, can you give us an example?",
+      "cn": "马尔科，你能给我们一个例子吗？"
+    },
+    {
+      "id": 132,
+      "en": "Sure, for example, I can say, Frank didn't come to work today and it turns out that he was sick.",
+      "cn": "当然，比如，我可以说，弗兰克今天没来上班，结果他生病了。"
+    },
+    {
+      "id": 133,
+      "en": "Yep, or I could say, oh, I've been feeling really sick recently.",
+      "cn": "是的，或者我可以说，哦，我最近感觉很不舒服。"
+    },
+    {
+      "id": 134,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 135,
+      "en": "It turns out that I'm pregnant.",
+      "cn": "结果我怀孕了。"
+    },
+    {
+      "id": 136,
+      "en": "Oh my god, are you really pregnant?",
+      "cn": "哦我的天，你真的怀孕了吗？"
+    },
+    {
+      "id": 137,
+      "en": "No, I'm not, I'm just kidding.",
+      "cn": "不，我不是，我只是开玩笑。"
+    },
+    {
+      "id": 138,
+      "en": "Alright, cuz.",
+      "cn": "好吧，表弟。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so it's time for us to listen to our dialogue again, but this time it'll be a little bit slower.",
+      "cn": "好的，现在是时候再听一次我们的对话了，但这次会慢一点。"
+    },
+    {
+      "id": 140,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 141,
+      "en": "Oh, great.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 142,
+      "en": "This stupid computer froze again.",
+      "cn": "这台愚蠢的电脑又卡住了。"
+    },
+    {
+      "id": 143,
+      "en": "That's the third time today.",
+      "cn": "今天是第三次。"
+    },
+    {
+      "id": 144,
+      "en": "Hey, Samuel, can you come take a look at my PC?",
+      "cn": "嘿，塞缪尔，你能来看看我的电脑吗？"
+    },
+    {
+      "id": 145,
+      "en": "It's acting up again.",
+      "cn": "它又出问题了。"
+    },
+    {
+      "id": 146,
+      "en": "It must have a virus or something.",
+      "cn": "可能有病毒或其他问题。"
+    },
+    {
+      "id": 147,
+      "en": "Just give me a second, I'll be right up.",
+      "cn": "给我一秒钟，我马上就来。"
+    },
+    {
+      "id": 148,
+      "en": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+      "cn": "我对你的电脑进行了病毒扫描，结果你有很多感染的文件。"
+    },
+    {
+      "id": 149,
+      "en": "But I'm quite careful when I'm browsing the Internet.",
+      "cn": "但我在上网时很小心。"
+    },
+    {
+      "id": 150,
+      "en": "I have to make sure that your anti-virus software is updated regularly.",
+      "cn": "我必须确保你的防病毒软件定期更新。"
+    },
+    {
+      "id": 151,
+      "en": "Yours wasn't up to date.",
+      "cn": "你的没有更新。"
+    },
+    {
+      "id": 152,
+      "en": "That's probably what was causing your problems.",
+      "cn": "这可能是导致你问题的原因。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, anything else?",
+      "cn": "好的，还有其他问题吗？"
+    },
+    {
+      "id": 154,
+      "en": "Yeah, try not to kick or hit the computer.",
+      "cn": "是的，尽量不要踢或打电脑。"
+    },
+    {
+      "id": 155,
+      "en": "Um, yeah, sorry about that.",
+      "cn": "嗯，是的，抱歉。"
+    },
+    {
+      "id": 156,
+      "en": "Okay, that was a lot more clear this time.",
+      "cn": "好的，这次清楚多了。"
+    },
+    {
+      "id": 157,
+      "en": "Definitely, yeah, I understood a lot more.",
+      "cn": "绝对是的，我理解得多了。"
+    },
+    {
+      "id": 158,
+      "en": "Okay, so now it's time to look at Fluency Builder.",
+      "cn": "好的，现在是时候看看流利度构建器了。"
+    },
+    {
+      "id": 159,
+      "en": "Erica, why don't you explain what Fluency Builder is?",
+      "cn": "艾瑞卡，你能解释一下流利度构建器是什么吗？"
+    },
+    {
+      "id": 160,
+      "en": "In Fluency Builder, we give you some great useful phrases to help you express your ideas clearly.",
+      "cn": "在流利度构建器中，我们给你一些很有用的短语，帮助你清晰地表达你的想法。"
+    },
+    {
+      "id": 161,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 162,
+      "en": "So let's look at Fluency Builder.",
+      "cn": "所以让我们看看流利度构建器。"
+    },
+    {
+      "id": 163,
+      "en": "Fluency Builder.",
+      "cn": "流利度构建器。"
+    },
+    {
+      "id": 164,
+      "en": "Okay, so in this dialogue, we know his computer wasn't working.",
+      "cn": "好的，在这个对话中，我们知道他的电脑不工作。"
+    },
+    {
+      "id": 165,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 166,
+      "en": "So many students would probably say his computer was acting strangely.",
+      "cn": "所以很多学生可能会说他的电脑表现得很奇怪。"
+    },
+    {
+      "id": 167,
+      "en": "His computer isn't working properly.",
+      "cn": "他的电脑工作不正常。"
+    },
+    {
+      "id": 168,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 169,
+      "en": "And that's perfect.",
+      "cn": "这很完美。"
+    },
+    {
+      "id": 170,
+      "en": "And that's fine.",
+      "cn": "这很好。"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, but there's a really great way to say it that we heard in the dialogue.",
+      "cn": "是的，但有一种很好的说法，我们在对话中听到了。"
+    },
+    {
+      "id": 172,
+      "en": "It's acting up again.",
+      "cn": "它又出问题了。"
+    },
+    {
+      "id": 173,
+      "en": "It's acting up again.",
+      "cn": "它又出问题了。"
+    },
+    {
+      "id": 174,
+      "en": "I love this phrase.",
+      "cn": "我喜欢这个短语。"
+    },
+    {
+      "id": 175,
+      "en": "It's acting up.",
+      "cn": "它出问题了。"
+    },
+    {
+      "id": 176,
+      "en": "Yeah, it sounds really natural.",
+      "cn": "是的，听起来很自然。"
+    },
+    {
+      "id": 177,
+      "en": "It sounds really natural.",
+      "cn": "听起来真的很自然。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, we're ready to listen to our dialogue a third time.",
+      "cn": "好的，我们准备好第三次听我们的对话了。"
+    },
+    {
+      "id": 179,
+      "en": "But this time, it'll be at the normal speed.",
+      "cn": "但这次会是正常速度。"
+    },
+    {
+      "id": 180,
+      "en": "Try and see if you can hear these key words.",
+      "cn": "尝试看看你能否听到这些关键词。"
+    },
+    {
+      "id": 181,
+      "en": "Oh, great.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 182,
+      "en": "The stupid computer froze again.",
+      "cn": "这台愚蠢的电脑又卡住了。"
+    },
+    {
+      "id": 183,
+      "en": "It's the third time today.",
+      "cn": "今天是第三次。"
+    },
+    {
+      "id": 184,
+      "en": "Hey, Samuel, can you come take a look at my PC?",
+      "cn": "嘿，塞缪尔，你能来看看我的电脑吗？"
+    },
+    {
+      "id": 185,
+      "en": "It's acting up again.",
+      "cn": "它又出问题了。"
+    },
+    {
+      "id": 186,
+      "en": "It must have a virus or something.",
+      "cn": "可能有病毒或其他问题。"
+    },
+    {
+      "id": 187,
+      "en": "Just give me a second.",
+      "cn": "给我一秒钟。"
+    },
+    {
+      "id": 188,
+      "en": "I'll be right up.",
+      "cn": "我马上就来。"
+    },
+    {
+      "id": 189,
+      "en": "I ran a virus scan on your computer.",
+      "cn": "我对你的电脑进行了病毒扫描。"
+    },
+    {
+      "id": 190,
+      "en": "And it turns out that you have a lot of infected files.",
+      "cn": "结果你有很多感染的文件。"
+    },
+    {
+      "id": 191,
+      "en": "But I'm quite careful when I'm browsing the Internet.",
+      "cn": "但我在上网时很小心。"
+    },
+    {
+      "id": 192,
+      "en": "I have no idea how I could have picked up a virus.",
+      "cn": "我不知道我怎么会感染病毒。"
+    },
+    {
+      "id": 193,
+      "en": "Well, you have to make sure their antivirus software is updated regularly.",
+      "cn": "嗯，你必须确保他们的防病毒软件定期更新。"
+    },
+    {
+      "id": 194,
+      "en": "Yours wasn't up to date.",
+      "cn": "你的没有更新。"
+    },
+    {
+      "id": 195,
+      "en": "That's probably what was causing your problems.",
+      "cn": "这可能是导致你问题的原因。"
+    },
+    {
+      "id": 196,
+      "en": "Okay, anything else?",
+      "cn": "好的，还有其他吗？"
+    },
+    {
+      "id": 197,
+      "en": "Yeah, try not to kick or hit the computer.",
+      "cn": "是的，尽量不要踢或打电脑。"
+    },
+    {
+      "id": 198,
+      "en": "Yeah, sorry about that.",
+      "cn": "是的，抱歉。"
+    },
+    {
+      "id": 199,
+      "en": "So Marco, I really think that my computer actually has a virus now.",
+      "cn": "所以马尔科，我真的觉得我的电脑现在有病毒。"
+    },
+    {
+      "id": 200,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 201,
+      "en": "How come?",
+      "cn": "怎么会？"
+    },
+    {
+      "id": 202,
+      "en": "Because I have been turning on my computer, and then suddenly, it turns off by itself.",
+      "cn": "因为我一直在开电脑，然后突然它自己关掉了。"
+    },
+    {
+      "id": 203,
+      "en": "It shuts down by itself.",
+      "cn": "它自己关机。"
+    },
+    {
+      "id": 204,
+      "en": "Yeah, that sounds like a virus.",
+      "cn": "是的，这听起来像是病毒。"
+    },
+    {
+      "id": 205,
+      "en": "But I ran a virus scan, and there was no problem.",
+      "cn": "但我进行了病毒扫描，没有问题。"
+    },
+    {
+      "id": 206,
+      "en": "Well, maybe your antivirus software isn't up to date.",
+      "cn": "好吧，也许你的杀毒软件没有更新。"
+    },
+    {
+      "id": 207,
+      "en": "Yeah, I guess I'd better call Samuel.",
+      "cn": "是的，我想我最好打电话给塞缪尔。"
+    },
+    {
+      "id": 208,
+      "en": "Yeah, you can call Samuel to fix it.",
+      "cn": "是的，你可以打电话给塞缪尔来修理。"
+    },
+    {
+      "id": 209,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 210,
+      "en": "All right, folks, we're out of time now.",
+      "cn": "好吧，大家，我们现在没时间了。"
+    },
+    {
+      "id": 211,
+      "en": "But be sure to go to our website at EnglishPod.com, where you can leave all your questions and comments.",
+      "cn": "但一定要去我们的网站 EnglishPod.com，您可以留下所有问题和评论。"
+    },
+    {
+      "id": 212,
+      "en": "So stay tuned for our next great lesson.",
+      "cn": "所以请继续关注我们的下一堂精彩课程。"
+    },
+    {
+      "id": 213,
+      "en": "And until next time, goodbye.",
+      "cn": "下次见，再见。"
+    }
+  ]
+}

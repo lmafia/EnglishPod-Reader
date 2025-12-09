@@ -1,0 +1,1324 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0145",
+  "title": "EnglishPod 初级 英文播客 0145",
+  "totalSegments": 263,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine, and we've got a great lesson for you today.",
+      "cn": "我叫Catherine，今天我们有一个很棒的课程。"
+    },
+    {
+      "id": 4,
+      "en": "What level is this, Marco?",
+      "cn": "这个课程是什么级别的，Marco？"
+    },
+    {
+      "id": 5,
+      "en": "This is an elementary lesson, and we're going to be touching one of these medical topics.",
+      "cn": "这是一个初级课程，我们将讨论一些医学话题。"
+    },
+    {
+      "id": 6,
+      "en": "Today, we're going to talk about chicken pox.",
+      "cn": "今天，我们要谈论水痘。"
+    },
+    {
+      "id": 7,
+      "en": "Oh, gosh, I hated the chicken pox.",
+      "cn": "哦，天哪，我讨厌水痘。"
+    },
+    {
+      "id": 8,
+      "en": "They're horrible and they itch, and you can't do anything about it, and your parents say, don't scratch.",
+      "cn": "它们很可怕，痒得厉害，你无能为力，父母却说不要抓。"
+    },
+    {
+      "id": 9,
+      "en": "Right, so chicken pox is an illness that you get usually as a child, and what happens is you start getting these little red dots all over your body, like little mosquito bites.",
+      "cn": "对，所以水痘是一种通常在儿童时期得的疾病，发生时你会在全身出现小红点，就像小蚊子叮的包。"
+    },
+    {
+      "id": 10,
+      "en": "Exactly, and they come all over your body, arms, legs, face, and you can only get this disease once, unless maybe you didn't really get it too seriously.",
+      "cn": "没错，它们会遍布你的身体，手臂、腿、脸，你只能得一次这种病，除非你得得不太严重。"
+    },
+    {
+      "id": 11,
+      "en": "So most people get this when they're children.",
+      "cn": "所以大多数人在儿童时期得这个病。"
+    },
+    {
+      "id": 12,
+      "en": "Exactly, and what makes you very uncomfortable when you get chicken pox, as you said, it's these little red dots, they itch, just like mosquito bites, but you can't scratch, because if you do, then you get, your skin gets, like, marked, right?",
+      "cn": "没错，得水痘时让你非常不舒服的，正如你所说的，就是这些小红点，它们痒，就像蚊子叮的包，但你不能抓，因为如果抓了，你的皮肤会留下痕迹，对吧？"
+    },
+    {
+      "id": 13,
+      "en": "You have like stains.",
+      "cn": "你会有污点。"
+    },
+    {
+      "id": 14,
+      "en": "Forever.",
+      "cn": "永远。"
+    },
+    {
+      "id": 15,
+      "en": "Forever, like scars.",
+      "cn": "永远，像伤疤一样。"
+    },
+    {
+      "id": 16,
+      "en": "So it's best not to scratch.",
+      "cn": "所以最好不要抓。"
+    },
+    {
+      "id": 17,
+      "en": "And that's what we're going to talk about today.",
+      "cn": "这就是我们今天要谈的。"
+    },
+    {
+      "id": 18,
+      "en": "Somebody has the chicken pox.",
+      "cn": "有人得了水痘。"
+    },
+    {
+      "id": 19,
+      "en": "So let's listen to our dialogue for the first time, and then we'll be right back.",
+      "cn": "所以让我们第一次听听对话，然后我们会马上回来。"
+    },
+    {
+      "id": 20,
+      "en": "What's wrong with you?",
+      "cn": "你怎么了？"
+    },
+    {
+      "id": 21,
+      "en": "Why are you scratching so much?",
+      "cn": "你为什么抓得这么厉害？"
+    },
+    {
+      "id": 22,
+      "en": "I feel itchy.",
+      "cn": "我觉得很痒。"
+    },
+    {
+      "id": 23,
+      "en": "I can't stand it anymore.",
+      "cn": "我再也受不了了。"
+    },
+    {
+      "id": 24,
+      "en": "I think I may be coming down with something.",
+      "cn": "我觉得我可能得了什么。"
+    },
+    {
+      "id": 25,
+      "en": "I feel light-headed and weak.",
+      "cn": "我感到头晕和虚弱。"
+    },
+    {
+      "id": 26,
+      "en": "Let me have a look.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 27,
+      "en": "Whoa, get away from me!",
+      "cn": "哇，离我远点！"
+    },
+    {
+      "id": 28,
+      "en": "What's wrong?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 29,
+      "en": "I think you have chicken pox.",
+      "cn": "我觉得你得了水痘。"
+    },
+    {
+      "id": 30,
+      "en": "You're contagious.",
+      "cn": "你是传染性的。"
+    },
+    {
+      "id": 31,
+      "en": "Get away.",
+      "cn": "离远点。"
+    },
+    {
+      "id": 32,
+      "en": "Don't breathe on me.",
+      "cn": "不要对我呼吸。"
+    },
+    {
+      "id": 33,
+      "en": "Maybe it's just a rash or an allergy.",
+      "cn": "也许只是皮疹或过敏。"
+    },
+    {
+      "id": 34,
+      "en": "We can't be sure until I see a doctor.",
+      "cn": "我们不能确定，直到我看医生。"
+    },
+    {
+      "id": 35,
+      "en": "Well, in the meantime, you're a biohazard.",
+      "cn": "好吧，暂时你是生物危害。"
+    },
+    {
+      "id": 36,
+      "en": "I didn't get it when I was a kid, and I've heard that you can even die if you get it as an adult.",
+      "cn": "我小时候没得过，听说成年人得了可能会死。"
+    },
+    {
+      "id": 37,
+      "en": "Are you serious?",
+      "cn": "你是认真的吗？"
+    },
+    {
+      "id": 38,
+      "en": "You always blow things out of proportion.",
+      "cn": "你总是夸大其词。"
+    },
+    {
+      "id": 39,
+      "en": "In any case, I think I'll go take an oatmeal bath.",
+      "cn": "无论如何，我想我去泡燕麦浴。"
+    },
+    {
+      "id": 40,
+      "en": "Ew!",
+      "cn": "哎呀！"
+    },
+    {
+      "id": 41,
+      "en": "All right, we're back, so I think this kid does have the chicken pox.",
+      "cn": "好吧，我们回来了，我觉得这个孩子确实得了水痘。"
+    },
+    {
+      "id": 42,
+      "en": "Definitely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 43,
+      "en": "And, uh, well, he's got a funny solution for it.",
+      "cn": "而且，他有一个有趣的解决办法。"
+    },
+    {
+      "id": 44,
+      "en": "But before we get there, we've got a lot of great medical words and just basic body words for you in today's Language Takeaway.",
+      "cn": "但在我们到达那里之前，今天的语言要点中有很多很棒的医学词汇和基本身体词汇。"
+    },
+    {
+      "id": 45,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 46,
+      "en": "All right, so let's start with our first word.",
+      "cn": "好吧，让我们从第一个词开始。"
+    },
+    {
+      "id": 47,
+      "en": "He mentioned that he felt itchy.",
+      "cn": "他提到他感到痒。"
+    },
+    {
+      "id": 48,
+      "en": "I feel itchy.",
+      "cn": "我觉得痒。"
+    },
+    {
+      "id": 49,
+      "en": "Itchy.",
+      "cn": "痒。"
+    },
+    {
+      "id": 50,
+      "en": "So, okay, this is often confused.",
+      "cn": "所以，这个词常常被混淆。"
+    },
+    {
+      "id": 51,
+      "en": "Even among children who are native speakers of English, there are two words, to itch and to scratch.",
+      "cn": "即使在以英语为母语的儿童中，也有两个词，痒和抓。"
+    },
+    {
+      "id": 52,
+      "en": "But this person is itchy, so it means that your skin, you want to scratch it.",
+      "cn": "但这个人感到痒，所以这意味着你的皮肤想要被抓。"
+    },
+    {
+      "id": 53,
+      "en": "It may be uncomfortable.",
+      "cn": "这可能会让人不舒服。"
+    },
+    {
+      "id": 54,
+      "en": "Like, a mosquito bite is itchy.",
+      "cn": "比如，蚊子叮的包是痒的。"
+    },
+    {
+      "id": 55,
+      "en": "Okay, so itchy would be the adjective, right?",
+      "cn": "好吧，痒是形容词，对吧？"
+    },
+    {
+      "id": 56,
+      "en": "To the noun, an itch.",
+      "cn": "名词是痒感。"
+    },
+    {
+      "id": 57,
+      "en": "So if you have an itch, you feel itchy, right?",
+      "cn": "所以如果你有痒感，你会感到痒，对吧？"
+    },
+    {
+      "id": 58,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 59,
+      "en": "So, and that's when you scratch.",
+      "cn": "所以，这就是你抓的原因。"
+    },
+    {
+      "id": 60,
+      "en": "All right, so he feels itchy.",
+      "cn": "好吧，他感到痒。"
+    },
+    {
+      "id": 61,
+      "en": "And he also felt a little bit light-headed.",
+      "cn": "他也感到有点头晕。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, so you know the word head, you know the word light.",
+      "cn": "好吧，你知道头这个词，你知道轻这个词。"
+    },
+    {
+      "id": 63,
+      "en": "So here we have a person who feels light-headed.",
+      "cn": "所以这里有一个人感到头晕。"
+    },
+    {
+      "id": 64,
+      "en": "It means that you kind of feel a little bit strange and your head is a little bit, well, what's a good word to describe it?",
+      "cn": "这意味着你有点感觉奇怪，头有点，嗯，怎么形容呢？"
+    },
+    {
+      "id": 65,
+      "en": "Like dizzy.",
+      "cn": "就像晕眩。"
+    },
+    {
+      "id": 66,
+      "en": "Yeah, almost dizzy or faint.",
+      "cn": "是的，几乎是晕眩或昏厥。"
+    },
+    {
+      "id": 67,
+      "en": "Right, so you usually feel a little bit weak.",
+      "cn": "对，所以你通常会感到有点虚弱。"
+    },
+    {
+      "id": 68,
+      "en": "You don't really feel very well.",
+      "cn": "你感觉不太好。"
+    },
+    {
+      "id": 69,
+      "en": "Your head is light-headed.",
+      "cn": "你的头是轻的。"
+    },
+    {
+      "id": 70,
+      "en": "The complete opposite of having a headache, right?",
+      "cn": "完全相反于头痛，对吧？"
+    },
+    {
+      "id": 71,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 72,
+      "en": "Okay, and well, then the girl got scared and she said, get away, you are contagious.",
+      "cn": "好吧，然后女孩害怕了，她说，离开，你是传染性的。"
+    },
+    {
+      "id": 73,
+      "en": "Oh, gosh, now this is a dangerous one.",
+      "cn": "哦，天哪，这个是危险的。"
+    },
+    {
+      "id": 74,
+      "en": "Someone who is contagious can pass their illness to someone else.",
+      "cn": "传染性的人可以把他们的疾病传给别人。"
+    },
+    {
+      "id": 75,
+      "en": "So, for example, the flu is very contagious and if I have the flu, Marco doesn't want me to come over and touch all this stuff and sneeze and cough into his food.",
+      "cn": "所以，例如，流感是非常传染性的，如果我得了流感，Marco不想让我过来碰他的东西，打喷嚏和咳嗽到他的食物里。"
+    },
+    {
+      "id": 76,
+      "en": "Right, exactly, so that's contagious.",
+      "cn": "对，没错，所以这就是传染性。"
+    },
+    {
+      "id": 77,
+      "en": "It's an adjective and that means that you easily pass your illness to another person.",
+      "cn": "这是一个形容词，意味着你很容易把你的疾病传给另一个人。"
+    },
+    {
+      "id": 78,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "All right, so why don't we take a look at a couple of different examples using this word contagious.",
+      "cn": "好吧，那我们来看看几个使用这个词传染性的不同例子。"
+    },
+    {
+      "id": 80,
+      "en": "Don't get near me.",
+      "cn": "不要靠近我。"
+    },
+    {
+      "id": 81,
+      "en": "Chicken pox are very contagious.",
+      "cn": "水痘是非常传染性的。"
+    },
+    {
+      "id": 82,
+      "en": "The sickness that is going around the office is very contagious.",
+      "cn": "办公室里流行的疾病是非常传染性的。"
+    },
+    {
+      "id": 83,
+      "en": "H1N1 flu is very contagious.",
+      "cn": "H1N1流感是非常传染性的。"
+    },
+    {
+      "id": 84,
+      "en": "All right, so you want to avoid contagious people but you might also want to avoid people who have this next word.",
+      "cn": "好吧，你想避免传染性的人，但你可能也想避免有下一个词的人。"
+    },
+    {
+      "id": 85,
+      "en": "It's called a rash.",
+      "cn": "这叫做皮疹。"
+    },
+    {
+      "id": 86,
+      "en": "A rash, exactly.",
+      "cn": "皮疹，没错。"
+    },
+    {
+      "id": 87,
+      "en": "So why do you want to avoid people who have a rash?",
+      "cn": "那么你为什么想避免有皮疹的人？"
+    },
+    {
+      "id": 88,
+      "en": "Well, they might have a contagious rash.",
+      "cn": "嗯，他们可能有传染性的皮疹。"
+    },
+    {
+      "id": 89,
+      "en": "Who knows?",
+      "cn": "谁知道呢？"
+    },
+    {
+      "id": 90,
+      "en": "But you can get a rash for a number of different reasons.",
+      "cn": "但你可能因为多种不同的原因而得皮疹。"
+    },
+    {
+      "id": 91,
+      "en": "A rash is just basically a part of your skin that becomes irritated or uncomfortable and sometimes it turns red or pink.",
+      "cn": "皮疹基本上是你皮肤的一部分变得刺激或不舒服，有时会变红或粉色。"
+    },
+    {
+      "id": 92,
+      "en": "So, as you said, it happens for different reasons.",
+      "cn": "所以，正如你所说，这发生的原因各不相同。"
+    },
+    {
+      "id": 93,
+      "en": "Sometimes you maybe have bad seafood in your skin and you start to have rashes all over your body.",
+      "cn": "有时你可能吃了不好的海鲜，皮肤上开始出现皮疹。"
+    },
+    {
+      "id": 94,
+      "en": "Other times you can touch some plants that are dangerous, like poison Ivy or poison oak.",
+      "cn": "其他时候你可能碰到一些危险的植物，比如毒藤或毒橡树。"
+    },
+    {
+      "id": 95,
+      "en": "And then you get a big rash.",
+      "cn": "然后你会得一个大皮疹。"
+    },
+    {
+      "id": 96,
+      "en": "And our last word for today is a little bit dramatic.",
+      "cn": "今天我们的最后一个词有点戏剧性。"
+    },
+    {
+      "id": 97,
+      "en": "She called him a biohazard.",
+      "cn": "她称他为生物危害。"
+    },
+    {
+      "id": 98,
+      "en": "Biohazard.",
+      "cn": "生物危害。"
+    },
+    {
+      "id": 99,
+      "en": "Well, let's take a look at these words individually.",
+      "cn": "好吧，让我们逐个看看这些词。"
+    },
+    {
+      "id": 100,
+      "en": "The first word, bio, comes from the word biology.",
+      "cn": "第一个词，生物，来自生物学这个词。"
+    },
+    {
+      "id": 101,
+      "en": "So that's something that is alive.",
+      "cn": "所以这是活的东西。"
+    },
+    {
+      "id": 102,
+      "en": "An animal, a plant, or a person.",
+      "cn": "动物、植物或人。"
+    },
+    {
+      "id": 103,
+      "en": "And hazard is something that is dangerous.",
+      "cn": "而危害是指危险的东西。"
+    },
+    {
+      "id": 104,
+      "en": "So biohazard is something that's alive that's dangerous.",
+      "cn": "所以生物危害是指活着的、危险的东西。"
+    },
+    {
+      "id": 105,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 106,
+      "en": "Or that's dangerous towards a living person or organism.",
+      "cn": "或者是对活着的人或生物危险的东西。"
+    },
+    {
+      "id": 107,
+      "en": "For example, you don't want to be near an area that has a lot of radiation.",
+      "cn": "例如，你不想靠近有很多辐射的地方。"
+    },
+    {
+      "id": 108,
+      "en": "It's a biohazard.",
+      "cn": "那是生物危害。"
+    },
+    {
+      "id": 109,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 110,
+      "en": "Or some of these diseases like Ebola virus.",
+      "cn": "或者像埃博拉病毒这样的疾病。"
+    },
+    {
+      "id": 111,
+      "en": "These are very dangerous towards living things.",
+      "cn": "这些对生物非常危险。"
+    },
+    {
+      "id": 112,
+      "en": "And so biohazard is the name for it.",
+      "cn": "所以生物危害就是这个名称。"
+    },
+    {
+      "id": 113,
+      "en": "And usually there's a symbol, a very clear symbol that kind of looks like a triangle.",
+      "cn": "通常会有一个符号，一个非常明显的符号，看起来像个三角形。"
+    },
+    {
+      "id": 114,
+      "en": "And it's red.",
+      "cn": "而且是红色的。"
+    },
+    {
+      "id": 115,
+      "en": "And even in movies it's appeared, right?",
+      "cn": "在电影中也出现过，对吧？"
+    },
+    {
+      "id": 116,
+      "en": "I think in that movie...",
+      "cn": "我想在那部电影里..."
+    },
+    {
+      "id": 117,
+      "en": "It's red or yellow.",
+      "cn": "它是红色或黄色的。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, sometimes both.",
+      "cn": "是的，有时两者都有。"
+    },
+    {
+      "id": 119,
+      "en": "All right, so biohazard.",
+      "cn": "好吧，所以生物危害。"
+    },
+    {
+      "id": 120,
+      "en": "I think we've taken a look at a lot of words.",
+      "cn": "我想我们已经看了很多词。"
+    },
+    {
+      "id": 121,
+      "en": "So why don't we listen to this dialogue.",
+      "cn": "那我们来听听这个对话吧。"
+    },
+    {
+      "id": 122,
+      "en": "Again, let's slow it down a little bit.",
+      "cn": "再次，让我们慢一点。"
+    },
+    {
+      "id": 123,
+      "en": "See if we can understand a little bit more.",
+      "cn": "看看我们能否理解更多。"
+    },
+    {
+      "id": 124,
+      "en": "I feel itchy.",
+      "cn": "我感到痒。"
+    },
+    {
+      "id": 125,
+      "en": "I can't stand it anymore.",
+      "cn": "我再也忍不住了。"
+    },
+    {
+      "id": 126,
+      "en": "I think I may be coming down with something.",
+      "cn": "我觉得我可能得了什么。"
+    },
+    {
+      "id": 127,
+      "en": "I feel light-headed and weak.",
+      "cn": "我感到头晕和虚弱。"
+    },
+    {
+      "id": 128,
+      "en": "Let me have a look.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 129,
+      "en": "Whoa!",
+      "cn": "哇！"
+    },
+    {
+      "id": 130,
+      "en": "Get away from me.",
+      "cn": "离我远点。"
+    },
+    {
+      "id": 131,
+      "en": "What's wrong?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 132,
+      "en": "I think you have the chicken pox.",
+      "cn": "我觉得你得了水痘。"
+    },
+    {
+      "id": 133,
+      "en": "You're contagious.",
+      "cn": "你是传染性的。"
+    },
+    {
+      "id": 134,
+      "en": "Get away.",
+      "cn": "离开。"
+    },
+    {
+      "id": 135,
+      "en": "Don't breathe on me.",
+      "cn": "别对我呼吸。"
+    },
+    {
+      "id": 136,
+      "en": "Maybe it's just a rash or an allergy.",
+      "cn": "也许只是皮疹或过敏。"
+    },
+    {
+      "id": 137,
+      "en": "We can't be sure until I see a doctor.",
+      "cn": "我们不能确定，直到我看医生。"
+    },
+    {
+      "id": 138,
+      "en": "Well, in the meantime, you are a biohazard.",
+      "cn": "好吧，在此期间，你是生物危害。"
+    },
+    {
+      "id": 139,
+      "en": "I didn't get it when I was a kid, and I've heard that you can even die if you get it as an adult.",
+      "cn": "我小时候没得过，我听说如果成年人得了，甚至可能会死。"
+    },
+    {
+      "id": 140,
+      "en": "Are you serious?",
+      "cn": "你是认真的吗？"
+    },
+    {
+      "id": 141,
+      "en": "You always blow things out of proportion.",
+      "cn": "你总是夸大其词。"
+    },
+    {
+      "id": 142,
+      "en": "In any case, I think I'll go take an oatmeal bath.",
+      "cn": "无论如何，我想我去泡燕麦浴。"
+    },
+    {
+      "id": 143,
+      "en": "Ew.",
+      "cn": "呃。"
+    },
+    {
+      "id": 144,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 145,
+      "en": "So now, why don't we take a look at fluency builder and start taking a look at all these phrases.",
+      "cn": "现在，为什么我们不看看流利度构建器，开始看看所有这些短语。"
+    },
+    {
+      "id": 146,
+      "en": "Well, the first one is something that we often say when we're starting to feel ill.",
+      "cn": "好吧，第一个是我们在开始感到不适时常说的。"
+    },
+    {
+      "id": 147,
+      "en": "This phrase is coming down with.",
+      "cn": "这个短语是“得病”。"
+    },
+    {
+      "id": 148,
+      "en": "So I could say, I think I'm coming down with a cold, for example.",
+      "cn": "所以我可以说，我觉得我得了感冒，例如。"
+    },
+    {
+      "id": 149,
+      "en": "So basically, you say, I'm coming down with something.",
+      "cn": "所以基本上，你说，我得了什么。"
+    },
+    {
+      "id": 150,
+      "en": "So a cold or I think I'm coming down with the flu.",
+      "cn": "所以感冒，或者我觉得我得了流感。"
+    },
+    {
+      "id": 151,
+      "en": "So you're saying that I think I'm getting ill?",
+      "cn": "所以你是在说我觉得我生病了？"
+    },
+    {
+      "id": 152,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 153,
+      "en": "It means I'm just starting to feel sick.",
+      "cn": "这意味着我刚开始感到不适。"
+    },
+    {
+      "id": 154,
+      "en": "And so you could say, I've had a cold for a week.",
+      "cn": "所以你可以说，我感冒已经一周了。"
+    },
+    {
+      "id": 155,
+      "en": "You wouldn't use the phrase I'm coming down with in this situation.",
+      "cn": "在这种情况下你不会使用“得病”这个短语。"
+    },
+    {
+      "id": 156,
+      "en": "You'd only use it when you're starting to feel sick.",
+      "cn": "你只会在开始感到不适时使用它。"
+    },
+    {
+      "id": 157,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 158,
+      "en": "So you could ask your boss, I think I'm coming down with the flu.",
+      "cn": "所以你可以问你的老板，我觉得我得了流感。"
+    },
+    {
+      "id": 159,
+      "en": "Can I go home early?",
+      "cn": "我可以早点回家吗？"
+    },
+    {
+      "id": 160,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 161,
+      "en": "And I think this is a very useful phrase.",
+      "cn": "我觉得这是一个非常有用的短语。"
+    },
+    {
+      "id": 162,
+      "en": "It's very natural to say.",
+      "cn": "说起来很自然。"
+    },
+    {
+      "id": 163,
+      "en": "So why don't we listen to a couple of other examples?",
+      "cn": "那我们来听听其他几个例子吧？"
+    },
+    {
+      "id": 164,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 165,
+      "en": "Honey, will you take my temperature?",
+      "cn": "亲爱的，你能给我量量体温吗？"
+    },
+    {
+      "id": 166,
+      "en": "I think I'm coming down with something.",
+      "cn": "我觉得我得了什么。"
+    },
+    {
+      "id": 167,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 168,
+      "en": "You must be coming down with a cold.",
+      "cn": "你一定是得了感冒。"
+    },
+    {
+      "id": 169,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 170,
+      "en": "Tommy came down with the flu.",
+      "cn": "汤米得了流感。"
+    },
+    {
+      "id": 171,
+      "en": "All right, so coming down with, coming down with the flu, coming down with a cough, etc.",
+      "cn": "好吧，所以得病，得流感，得咳嗽，等等。"
+    },
+    {
+      "id": 172,
+      "en": "All right, what's our next phrase?",
+      "cn": "好吧，我们下一个短语是什么？"
+    },
+    {
+      "id": 173,
+      "en": "Well, this one's great.",
+      "cn": "好吧，这个很棒。"
+    },
+    {
+      "id": 174,
+      "en": "It's a filler phrase.",
+      "cn": "这是一个填充短语。"
+    },
+    {
+      "id": 175,
+      "en": "So, in the meantime.",
+      "cn": "所以，在此期间。"
+    },
+    {
+      "id": 176,
+      "en": "In the meantime.",
+      "cn": "在此期间。"
+    },
+    {
+      "id": 177,
+      "en": "So I could say, all right, I'm going to go cook dinner.",
+      "cn": "所以我可以说，好吧，我要去做晚餐。"
+    },
+    {
+      "id": 178,
+      "en": "In the meantime, Marco, can you please clear the table?",
+      "cn": "在此期间，马尔科，你能请把桌子清理一下吗？"
+    },
+    {
+      "id": 179,
+      "en": "Okay, so while you are cooking dinner, I am doing something else.",
+      "cn": "好吧，所以当你在做晚餐时，我在做其他事情。"
+    },
+    {
+      "id": 180,
+      "en": "I'm cleaning the table.",
+      "cn": "我在清理桌子。"
+    },
+    {
+      "id": 181,
+      "en": "So two things happening at the same time.",
+      "cn": "所以两件事情同时发生。"
+    },
+    {
+      "id": 182,
+      "en": "In the meantime.",
+      "cn": "在此期间。"
+    },
+    {
+      "id": 183,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 184,
+      "en": "So it's a filler, you say.",
+      "cn": "所以这是一个填充词，你说。"
+    },
+    {
+      "id": 185,
+      "en": "Because usually it follows another phrase.",
+      "cn": "因为通常它跟在另一个短语后面。"
+    },
+    {
+      "id": 186,
+      "en": "So I'm going to be doing this report for a while.",
+      "cn": "所以我将做这个报告一段时间。"
+    },
+    {
+      "id": 187,
+      "en": "In the meantime, can you just, can you just wait here on the sofa, please?",
+      "cn": "在此期间，你能在沙发上等一下吗？"
+    },
+    {
+      "id": 188,
+      "en": "Okay, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 189,
+      "en": "So in the meantime.",
+      "cn": "所以在此期间。"
+    },
+    {
+      "id": 190,
+      "en": "So you're connecting two different actions, two different ideas.",
+      "cn": "所以你在连接两个不同的动作，两个不同的想法。"
+    },
+    {
+      "id": 191,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 192,
+      "en": "In the meantime.",
+      "cn": "在此期间。"
+    },
+    {
+      "id": 193,
+      "en": "And what about our last phrase?",
+      "cn": "我们最后一个短语呢？"
+    },
+    {
+      "id": 194,
+      "en": "All right, there are some people who really like to do this.",
+      "cn": "好吧，有些人真的喜欢这样做。"
+    },
+    {
+      "id": 195,
+      "en": "And I might be one of them.",
+      "cn": "而我可能是其中之一。"
+    },
+    {
+      "id": 196,
+      "en": "It's called to blow things out of proportion.",
+      "cn": "这叫做夸大其词。"
+    },
+    {
+      "id": 197,
+      "en": "All right, and you're going to hear this phrase a lot with native English speakers.",
+      "cn": "好吧，你会经常听到这个短语，尤其是母语为英语的人。"
+    },
+    {
+      "id": 198,
+      "en": "And so to blow things out of proportion, well, pretty much means that you're exaggerating or you're making a really big deal out of something that's not very serious.",
+      "cn": "所以夸大其词，基本上意味着你在夸张，或者把一些不太严重的事情搞得很严重。"
+    },
+    {
+      "id": 199,
+      "en": "So for example, if you come over to my house and you break a glass and I start freaking out and yelling at you because you broke my glass.",
+      "cn": "比如说，如果你来我家，打破了一个杯子，我开始发疯并对你大喊，因为你打破了我的杯子。"
+    },
+    {
+      "id": 200,
+      "en": "I say, Marco, you're blowing things out of proportion.",
+      "cn": "我会说，马尔科，你在夸大其词。"
+    },
+    {
+      "id": 201,
+      "en": "I'll just buy you a new one.",
+      "cn": "我会给你买一个新的。"
+    },
+    {
+      "id": 202,
+      "en": "It's not that serious.",
+      "cn": "这没那么严重。"
+    },
+    {
+      "id": 203,
+      "en": "All right, so don't exaggerate, right?",
+      "cn": "好吧，所以别夸张，对吧？"
+    },
+    {
+      "id": 204,
+      "en": "Right, so oftentimes you feel like this with siblings, spouses, or bosses who react very seriously.",
+      "cn": "对，所以你常常会觉得和兄弟姐妹、配偶或反应非常严肃的老板在一起时是这样的。"
+    },
+    {
+      "id": 205,
+      "en": "So you can say, hey, stop yelling.",
+      "cn": "所以你可以说，嘿，别大喊。"
+    },
+    {
+      "id": 206,
+      "en": "You're blowing things out of proportion.",
+      "cn": "你在夸大其词。"
+    },
+    {
+      "id": 207,
+      "en": "This is not a really big deal.",
+      "cn": "这不是个大事。"
+    },
+    {
+      "id": 208,
+      "en": "Exactly, all right.",
+      "cn": "正是这样，好吧。"
+    },
+    {
+      "id": 209,
+      "en": "So blowing things out of proportion.",
+      "cn": "所以夸大其词。"
+    },
+    {
+      "id": 210,
+      "en": "Let's not do that.",
+      "cn": "我们别这样。"
+    },
+    {
+      "id": 211,
+      "en": "But let's listen to our dialogue for the last time.",
+      "cn": "但让我们最后一次听我们的对话。"
+    },
+    {
+      "id": 212,
+      "en": "And then we'll be back.",
+      "cn": "然后我们会回来。"
+    },
+    {
+      "id": 213,
+      "en": "What's wrong with you?",
+      "cn": "你怎么了？"
+    },
+    {
+      "id": 214,
+      "en": "Why are you scratching so much?",
+      "cn": "你为什么抓得这么厉害？"
+    },
+    {
+      "id": 215,
+      "en": "I feel itchy.",
+      "cn": "我觉得很痒。"
+    },
+    {
+      "id": 216,
+      "en": "I can't stand it anymore.",
+      "cn": "我再也受不了了。"
+    },
+    {
+      "id": 217,
+      "en": "I think I may be coming down with something.",
+      "cn": "我觉得我可能得了什么。"
+    },
+    {
+      "id": 218,
+      "en": "I feel light-headed and weak.",
+      "cn": "我感到头晕和虚弱。"
+    },
+    {
+      "id": 219,
+      "en": "Let me have a look.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 220,
+      "en": "Whoa, get away from me.",
+      "cn": "哇，离我远点。"
+    },
+    {
+      "id": 221,
+      "en": "What's wrong?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 222,
+      "en": "I think you have chicken pox.",
+      "cn": "我觉得你得了水痘。"
+    },
+    {
+      "id": 223,
+      "en": "You're contagious.",
+      "cn": "你是传染性的。"
+    },
+    {
+      "id": 224,
+      "en": "Get away.",
+      "cn": "离开。"
+    },
+    {
+      "id": 225,
+      "en": "Don't bring it on me.",
+      "cn": "别把它传给我。"
+    },
+    {
+      "id": 226,
+      "en": "Maybe it's just a rash or an allergy.",
+      "cn": "也许只是皮疹或过敏。"
+    },
+    {
+      "id": 227,
+      "en": "We can't be sure until I see a doctor.",
+      "cn": "我们不能确定，直到我看医生。"
+    },
+    {
+      "id": 228,
+      "en": "Well, in the meantime, you're a biohazard.",
+      "cn": "好吧，在此期间，你是生物危害。"
+    },
+    {
+      "id": 229,
+      "en": "I didn't get it when I was a kid, and I've heard that you can even die if you get it as an adult.",
+      "cn": "我小时候没得过，我听说如果成年人得了，甚至可能会死。"
+    },
+    {
+      "id": 230,
+      "en": "Are you serious?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 231,
+      "en": "You always blow things out of proportion.",
+      "cn": "你总是夸大其词。"
+    },
+    {
+      "id": 232,
+      "en": "In any case, I think I'll go take an oatmeal bath.",
+      "cn": "无论如何，我想我去泡个燕麦浴。"
+    },
+    {
+      "id": 233,
+      "en": "Ew.",
+      "cn": "呃。"
+    },
+    {
+      "id": 234,
+      "en": "All right, so, Katherine, have you ever had the chicken pox?",
+      "cn": "好吧，凯瑟琳，你得过水痘吗？"
+    },
+    {
+      "id": 235,
+      "en": "I did.",
+      "cn": "我得过。"
+    },
+    {
+      "id": 236,
+      "en": "I have very, very clear memories of when I was a child and I had the chicken pox because I believe it was Thanksgiving when I was about four or five years old.",
+      "cn": "我对我小时候得水痘的记忆非常清晰，因为我相信那是我四五岁时的感恩节。"
+    },
+    {
+      "id": 237,
+      "en": "And I didn't have an appetite, so I was not hungry.",
+      "cn": "我没有食欲，所以我不饿。"
+    },
+    {
+      "id": 238,
+      "en": "And all I could do was itch and drink.",
+      "cn": "我只能抓痒和喝水。"
+    },
+    {
+      "id": 239,
+      "en": "And so I still have little scars, like you mentioned, from where I couldn't stop myself from scratching my little marks.",
+      "cn": "所以我仍然有小伤疤，就像你提到的，因为我无法停止抓我的小痕迹。"
+    },
+    {
+      "id": 240,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 241,
+      "en": "And, well, why does the little boy say that he's going to go take an oatmeal bath?",
+      "cn": "那么，那个小男孩为什么说他要去泡燕麦浴？"
+    },
+    {
+      "id": 242,
+      "en": "An oatmeal bath?",
+      "cn": "燕麦浴？"
+    },
+    {
+      "id": 243,
+      "en": "Okay, well, this is one of the home remedies, one of the home cures for the itchiness, all right?",
+      "cn": "好吧，这是缓解瘙痒的一种家庭疗法，对吧？"
+    },
+    {
+      "id": 244,
+      "en": "So it doesn't make your chicken pox go away, but it does make your skin feel better because it's very calming and smooth.",
+      "cn": "所以它并不能让你的水痘消失，但它确实让你的皮肤感觉更好，因为它非常舒缓和平滑。"
+    },
+    {
+      "id": 245,
+      "en": "So you can have some creams or some lotions, but other people like to take an oatmeal bath.",
+      "cn": "所以你可以用一些乳霜或乳液，但其他人喜欢泡燕麦浴。"
+    },
+    {
+      "id": 246,
+      "en": "Right, so then you're not itching anymore.",
+      "cn": "对，所以你就不再痒了。"
+    },
+    {
+      "id": 247,
+      "en": "Right, but it's gross because you're sitting in oatmeal.",
+      "cn": "对，但这很恶心，因为你在燕麦里坐着。"
+    },
+    {
+      "id": 248,
+      "en": "It is kind of gross.",
+      "cn": "确实有点恶心。"
+    },
+    {
+      "id": 249,
+      "en": "Have you had the chicken pox?",
+      "cn": "你得过水痘吗？"
+    },
+    {
+      "id": 250,
+      "en": "I did.",
+      "cn": "我得过。"
+    },
+    {
+      "id": 251,
+      "en": "I didn't know, because I couldn't remember.",
+      "cn": "我不知道，因为我记不起来。"
+    },
+    {
+      "id": 252,
+      "en": "So actually my brother had it recently, so I was afraid that I didn't get it.",
+      "cn": "实际上，我哥哥最近得过，所以我担心我没得过。"
+    },
+    {
+      "id": 253,
+      "en": "But I called my mom, she said I got it, so I'm good.",
+      "cn": "但我打电话给我妈妈，她说我得过，所以我没事。"
+    },
+    {
+      "id": 254,
+      "en": "You're safe.",
+      "cn": "你安全。"
+    },
+    {
+      "id": 255,
+      "en": "Yeah, so that's the thing, right?",
+      "cn": "是的，所以这就是问题，对吧？"
+    },
+    {
+      "id": 256,
+      "en": "You can only get it once.",
+      "cn": "你只能得一次。"
+    },
+    {
+      "id": 257,
+      "en": "So once you get it, you don't have a problem.",
+      "cn": "所以一旦你得了，就没问题。"
+    },
+    {
+      "id": 258,
+      "en": "Well, we're curious to know, have you had the chicken pox?",
+      "cn": "好吧，我们很好奇，你得过水痘吗？"
+    },
+    {
+      "id": 259,
+      "en": "And if you did, was it really itchy, or were you a lucky one and it wasn't so bad?",
+      "cn": "如果得过，真的很痒，还是你是个幸运儿，没那么糟糕？"
+    },
+    {
+      "id": 260,
+      "en": "So let us know on our website, EnglishPod.com.",
+      "cn": "所以请在我们的网站上告诉我们，EnglishPod.com。"
+    },
+    {
+      "id": 261,
+      "en": "Right, and if you ever had any other common childhood illnesses like the mumps or the measles, you can also tell us about that.",
+      "cn": "对，如果你曾经得过其他常见的儿童疾病，比如腮腺炎或麻疹，也可以告诉我们。"
+    },
+    {
+      "id": 262,
+      "en": "So we'll see you guys there, and until next time.",
+      "cn": "所以我们下次见。"
+    },
+    {
+      "id": 263,
+      "en": "Bye, everyone.",
+      "cn": "再见，大家。"
+    }
+  ]
+}

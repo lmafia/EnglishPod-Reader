@@ -1,0 +1,997 @@
+[
+  {
+    "type": "series",
+    "id": "englishpod-初级",
+    "title": "Englishpod 初级",
+    "description": "141 lessons in this collection.",
+    "books": [
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0001",
+        "title": "Englishpod 初级 英文播客 0001",
+        "totalSegments": 123,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0002",
+        "title": "Englishpod 初级 英文播客 0002",
+        "totalSegments": 133,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0003",
+        "title": "Englishpod 初级 英文播客 0003",
+        "totalSegments": 141,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0004",
+        "title": "Englishpod 初级 英文播客 0004",
+        "totalSegments": 153,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0005",
+        "title": "Englishpod 初级 英文播客 0005",
+        "totalSegments": 179,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0006",
+        "title": "EnglishPod 初级 英文播客 0006",
+        "totalSegments": 216,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0007",
+        "title": "Englishpod 初级 英文播客 0007",
+        "totalSegments": 213,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0008",
+        "title": "EnglishPod 初级 英文播客 0008",
+        "totalSegments": 244,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0009",
+        "title": "EnglishPod 初级 英文播客 0009",
+        "totalSegments": 206,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0014",
+        "title": "EnglishPod 初级 英文播客 0014",
+        "totalSegments": 298,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0016",
+        "title": "EnglishPod 初级 英文播客 0016",
+        "totalSegments": 257,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0017",
+        "title": "EnglishPod 初级 英文播客 0017",
+        "totalSegments": 274,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0020",
+        "title": "EnglishPod 初级 英文播客 0020",
+        "totalSegments": 190,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0023",
+        "title": "EnglishPod 初级 英文播客 0023",
+        "totalSegments": 199,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0024",
+        "title": "EnglishPod 初级 英文播客 0024",
+        "totalSegments": 248,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0026",
+        "title": "EnglishPod 初级 英文播客 0026",
+        "totalSegments": 213,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0027",
+        "title": "EnglishPod 初级 英文播客 0027",
+        "totalSegments": 174,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0031",
+        "title": "EnglishPod 初级 英文播客 0031",
+        "totalSegments": 209,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0033",
+        "title": "EnglishPod 初级 英文播客 0033",
+        "totalSegments": 186,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0036",
+        "title": "EnglishPod 初级 英文播客 0036",
+        "totalSegments": 207,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0039",
+        "title": "EnglishPod 初级 英文播客 0039",
+        "totalSegments": 266,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0040",
+        "title": "EnglishPod 初级 英文播客 0040",
+        "totalSegments": 222,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0042",
+        "title": "EnglishPod 初级 英文播客 0042",
+        "totalSegments": 223,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0044",
+        "title": "EnglishPod 初级 英文播客 0044",
+        "totalSegments": 236,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0051",
+        "title": "EnglishPod 初级 英文播客 0051",
+        "totalSegments": 239,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0052",
+        "title": "EnglishPod 初级 英文播客 0052",
+        "totalSegments": 354,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0061",
+        "title": "EnglishPod 初级 英文播客 0061",
+        "totalSegments": 312,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0063",
+        "title": "EnglishPod 初级 英文播客 0063",
+        "totalSegments": 200,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0066",
+        "title": "EnglishPod 初级 英文播客 0066",
+        "totalSegments": 95,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0069",
+        "title": "EnglishPod 初级 英文播客 0069",
+        "totalSegments": 304,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0071",
+        "title": "EnglishPod 初级 英文播客 0071",
+        "totalSegments": 232,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0073",
+        "title": "EnglishPod 初级 英文播客 0073",
+        "totalSegments": 278,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0076",
+        "title": "EnglishPod 初级 英文播客 0076",
+        "totalSegments": 288,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0079",
+        "title": "EnglishPod 初级 英文播客 0079",
+        "totalSegments": 265,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0081",
+        "title": "EnglishPod 初级 英文播客 0081",
+        "totalSegments": 318,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0084",
+        "title": "EnglishPod 初级 英文播客 0084",
+        "totalSegments": 250,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0085",
+        "title": "EnglishPod 初级 英文播客 0085",
+        "totalSegments": 261,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0087",
+        "title": "EnglishPod 初级 英文播客 0087",
+        "totalSegments": 221,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0088",
+        "title": "EnglishPod 初级 英文播客 0088",
+        "totalSegments": 262,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0092",
+        "title": "EnglishPod 初级 英文播客 0092",
+        "totalSegments": 236,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0101",
+        "title": "EnglishPod 初级 英文播客 0101",
+        "totalSegments": 232,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0103",
+        "title": "EnglishPod 初级 英文播客 0103",
+        "totalSegments": 281,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0110",
+        "title": "EnglishPod 初级 英文播客 0110",
+        "totalSegments": 222,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0111",
+        "title": "EnglishPod 初级 英文播客 0111",
+        "totalSegments": 227,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0115",
+        "title": "EnglishPod 初级 英文播客 0115",
+        "totalSegments": 216,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0119",
+        "title": "EnglishPod 初级 英文播客 0119",
+        "totalSegments": 191,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0122",
+        "title": "EnglishPod 初级 英文播客 0122",
+        "totalSegments": 250,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0125",
+        "title": "EnglishPod 初级 英文播客 0125",
+        "totalSegments": 283,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0127",
+        "title": "EnglishPod 初级 英文播客 0127",
+        "totalSegments": 355,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0130",
+        "title": "EnglishPod 初级 英文播客 0130",
+        "totalSegments": 291,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0131",
+        "title": "EnglishPod 初级 英文播客 0131",
+        "totalSegments": 242,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0134",
+        "title": "EnglishPod 初级 英文播客 0134",
+        "totalSegments": 255,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0135",
+        "title": "EnglishPod 初级 英文播客 0135",
+        "totalSegments": 353,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0138",
+        "title": "EnglishPod 初级 英文播客 0138",
+        "totalSegments": 285,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0139",
+        "title": "EnglishPod 初级 英文播客 0139",
+        "totalSegments": 222,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0140",
+        "title": "EnglishPod 初级 英文播客 0140",
+        "totalSegments": 271,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0142",
+        "title": "EnglishPod 初级 英文播客 0142",
+        "totalSegments": 302,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0145",
+        "title": "EnglishPod 初级 英文播客 0145",
+        "totalSegments": 263,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0149",
+        "title": "EnglishPod 初级 英文播客 0149",
+        "totalSegments": 240,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0150",
+        "title": "EnglishPod 初级 英文播客 0150",
+        "totalSegments": 185,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0154",
+        "title": "EnglishPod 初级 英文播客 0154",
+        "totalSegments": 242,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0157",
+        "title": "EnglishPod 初级 英文播客 0157",
+        "totalSegments": 184,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0158",
+        "title": "EnglishPod 初级 英文播客 0158",
+        "totalSegments": 174,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0162",
+        "title": "EnglishPod 初级 英文播客 0162",
+        "totalSegments": 186,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0167",
+        "title": "EnglishPod 初级 英文播客 0167",
+        "totalSegments": 248,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0169",
+        "title": "EnglishPod 初级 英文播客 0169",
+        "totalSegments": 278,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0172",
+        "title": "EnglishPod 初级 英文播客 0172",
+        "totalSegments": 193,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0174",
+        "title": "EnglishPod 初级 英文播客 0174",
+        "totalSegments": 168,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0176",
+        "title": "EnglishPod 初级 英文播客 0176",
+        "totalSegments": 166,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0177",
+        "title": "EnglishPod 初级 英文播客 0177",
+        "totalSegments": 157,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0180",
+        "title": "EnglishPod 初级 英文播客 0180",
+        "totalSegments": 137,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0183",
+        "title": "EnglishPod 初级 英文播客 0183",
+        "totalSegments": 222,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0184",
+        "title": "EnglishPod 初级 英文播客 0184",
+        "totalSegments": 202,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0185",
+        "title": "EnglishPod 初级 英文播客 0185",
+        "totalSegments": 224,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0188",
+        "title": "EnglishPod 初级 英文播客 0188",
+        "totalSegments": 204,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0190",
+        "title": "EnglishPod 初级 英文播客 0190",
+        "totalSegments": 178,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0191",
+        "title": "EnglishPod 初级 英文播客 0191",
+        "totalSegments": 214,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0195",
+        "title": "EnglishPod 初级 英文播客 0195",
+        "totalSegments": 228,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0197",
+        "title": "EnglishPod 初级 英文播客 0197",
+        "totalSegments": 209,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0200",
+        "title": "EnglishPod 初级 英文播客 0200",
+        "totalSegments": 244,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0202",
+        "title": "EnglishPod 初级 英文播客 0202",
+        "totalSegments": 251,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0203",
+        "title": "EnglishPod 初级 英文播客 0203",
+        "totalSegments": 276,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0206",
+        "title": "EnglishPod 初级 英文播客 0206",
+        "totalSegments": 238,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0209",
+        "title": "EnglishPod 初级 英文播客 0209",
+        "totalSegments": 233,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0211",
+        "title": "EnglishPod 初级 英文播客 0211",
+        "totalSegments": 227,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0213",
+        "title": "EnglishPod 初级 英文播客 0213",
+        "totalSegments": 239,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0216",
+        "title": "EnglishPod 初级 英文播客 0216",
+        "totalSegments": 205,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0219",
+        "title": "EnglishPod 初级 英文播客 0219",
+        "totalSegments": 238,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0220",
+        "title": "EnglishPod 初级 英文播客 0220",
+        "totalSegments": 307,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0223",
+        "title": "EnglishPod 初级 英文播客 0223",
+        "totalSegments": 341,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0228",
+        "title": "EnglishPod 初级 英文播客 0228",
+        "totalSegments": 279,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0230",
+        "title": "EnglishPod 初级 英文播客 0230",
+        "totalSegments": 277,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0232",
+        "title": "EnglishPod 初级 英文播客 0232",
+        "totalSegments": 322,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0235",
+        "title": "EnglishPod 初级 英文播客 0235",
+        "totalSegments": 265,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0236",
+        "title": "EnglishPod 初级 英文播客 0236",
+        "totalSegments": 313,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0238",
+        "title": "EnglishPod 初级 英文播客 0238",
+        "totalSegments": 256,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0240",
+        "title": "EnglishPod 初级 英文播客 0240",
+        "totalSegments": 311,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0241",
+        "title": "EnglishPod 初级 英文播客 0241",
+        "totalSegments": 245,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0244",
+        "title": "EnglishPod 初级 英文播客 0244",
+        "totalSegments": 201,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0245",
+        "title": "EnglishPod 初级 英文播客 0245",
+        "totalSegments": 261,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0247",
+        "title": "EnglishPod 初级 英文播客 0247",
+        "totalSegments": 275,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0248",
+        "title": "EnglishPod 初级 英文播客 0248",
+        "totalSegments": 198,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0250",
+        "title": "EnglishPod 初级 英文播客 0250",
+        "totalSegments": 140,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0253",
+        "title": "Englishpod 初级 英文播客 0253",
+        "totalSegments": 183,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0254",
+        "title": "Englishpod 初级 英文播客 0254",
+        "totalSegments": 262,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0256",
+        "title": "Englishpod 初级 英文播客 0256",
+        "totalSegments": 226,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0258",
+        "title": "Englishpod 初级 英文播客 0258",
+        "totalSegments": 281,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0259",
+        "title": "Englishpod 初级 英文播客 0259",
+        "totalSegments": 232,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0261",
+        "title": "Englishpod 初级 英文播客 0261",
+        "totalSegments": 243,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0262",
+        "title": "Englishpod 初级 英文播客 0262",
+        "totalSegments": 213,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0263",
+        "title": "Englishpod 初级 英文播客 0263",
+        "totalSegments": 270,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0271",
+        "title": "Englishpod 初级 英文播客 0271",
+        "totalSegments": 215,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0275",
+        "title": "Englishpod 初级 英文播客 0275",
+        "totalSegments": 178,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0276",
+        "title": "Englishpod 初级 英文播客 0276",
+        "totalSegments": 229,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0281",
+        "title": "Englishpod 初级 英文播客 0281",
+        "totalSegments": 305,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0285",
+        "title": "Englishpod 初级 英文播客 0285",
+        "totalSegments": 205,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0288",
+        "title": "Englishpod 初级 英文播客 0288",
+        "totalSegments": 205,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0294",
+        "title": "Englishpod 初级 英文播客 0294",
+        "totalSegments": 225,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0296",
+        "title": "Englishpod 初级 英文播客 0296",
+        "totalSegments": 205,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0297",
+        "title": "Englishpod 初级 英文播客 0297",
+        "totalSegments": 186,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0299",
+        "title": "Englishpod 初级 英文播客 0299",
+        "totalSegments": 232,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0301",
+        "title": "Englishpod 初级 英文播客 0301",
+        "totalSegments": 243,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0303",
+        "title": "Englishpod 初级 英文播客 0303",
+        "totalSegments": 220,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0305",
+        "title": "Englishpod 初级 英文播客 0305",
+        "totalSegments": 173,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0307",
+        "title": "Englishpod 初级 英文播客 0307",
+        "totalSegments": 221,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0308",
+        "title": "Englishpod 初级 英文播客 0308",
+        "totalSegments": 153,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0310",
+        "title": "Englishpod 初级 英文播客 0310",
+        "totalSegments": 249,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0311",
+        "title": "Englishpod 初级 英文播客 0311",
+        "totalSegments": 219,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0314",
+        "title": "Englishpod 初级 英文播客 0314",
+        "totalSegments": 250,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0323",
+        "title": "Englishpod 初级 英文播客 0323",
+        "totalSegments": 236,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0326",
+        "title": "Englishpod 初级 英文播客 0326",
+        "totalSegments": 294,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0327",
+        "title": "Englishpod 初级 英文播客 0327",
+        "totalSegments": 188,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0332",
+        "title": "Englishpod 初级 英文播客 0332",
+        "totalSegments": 258,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0335",
+        "title": "Englishpod 初级 英文播客 0335",
+        "totalSegments": 201,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0338",
+        "title": "Englishpod 初级 英文播客 0338",
+        "totalSegments": 197,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0344",
+        "title": "Englishpod 初级 英文播客 0344",
+        "totalSegments": 230,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0348",
+        "title": "Englishpod 初级 英文播客 0348",
+        "totalSegments": 209,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0350",
+        "title": "Englishpod 初级 英文播客 0350",
+        "totalSegments": 202,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0355",
+        "title": "Englishpod 初级 英文播客 0355",
+        "totalSegments": 246,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0358",
+        "title": "Englishpod 初级 英文播客 0358",
+        "totalSegments": 227,
+        "seriesId": "englishpod-初级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-初级-englishpod-初级-英文播客-0365",
+        "title": "Englishpod 初级 英文播客 0365",
+        "totalSegments": 220,
+        "seriesId": "englishpod-初级"
+      }
+    ]
+  }
+]

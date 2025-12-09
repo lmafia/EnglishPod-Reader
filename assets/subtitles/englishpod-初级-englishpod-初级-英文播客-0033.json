@@ -1,0 +1,939 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0033",
+  "title": "EnglishPod 初级 英文播客 0033",
+  "totalSegments": 186,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we have another great elementary lesson for you all.",
+      "cn": "今天我们为大家准备了另一节很棒的初级课程。"
+    },
+    {
+      "id": 6,
+      "en": "That's right, we've got a lesson for all you sports fans out there.",
+      "cn": "没错，我们为所有运动迷准备了一节课。"
+    },
+    {
+      "id": 7,
+      "en": "Right, we're doing a podcast on sports today.",
+      "cn": "对，我们今天做一个关于运动的播客。"
+    },
+    {
+      "id": 8,
+      "en": "We're starting off with basketball.",
+      "cn": "我们从篮球开始。"
+    },
+    {
+      "id": 9,
+      "en": "So we've got lots of language about basketball and sports in this lesson today.",
+      "cn": "所以今天的课程中有很多关于篮球和运动的语言。"
+    },
+    {
+      "id": 10,
+      "en": "Great, so let's take a look at our vocabulary preview.",
+      "cn": "很好，让我们看看我们的词汇预览。"
+    },
+    {
+      "id": 11,
+      "en": "Two words for you today.",
+      "cn": "今天有两个单词。"
+    },
+    {
+      "id": 12,
+      "en": "The first one is foul.",
+      "cn": "第一个是犯规。"
+    },
+    {
+      "id": 13,
+      "en": "Foul.",
+      "cn": "犯规。"
+    },
+    {
+      "id": 14,
+      "en": "Foul.",
+      "cn": "犯规。"
+    },
+    {
+      "id": 15,
+      "en": "A foul.",
+      "cn": "一个犯规。"
+    },
+    {
+      "id": 16,
+      "en": "Basically it's an action in a game that is not allowed.",
+      "cn": "基本上是在比赛中不允许的行为。"
+    },
+    {
+      "id": 17,
+      "en": "Right, so if you're playing basketball and you kick the other player.",
+      "cn": "对，如果你在打篮球时踢了对方球员。"
+    },
+    {
+      "id": 18,
+      "en": "That's a foul.",
+      "cn": "那就是犯规。"
+    },
+    {
+      "id": 19,
+      "en": "That's a foul.",
+      "cn": "那是犯规。"
+    },
+    {
+      "id": 20,
+      "en": "That's a pretty big foul.",
+      "cn": "那是个很大的犯规。"
+    },
+    {
+      "id": 21,
+      "en": "Yeah, if you're playing soccer and you pick up the ball.",
+      "cn": "是的，如果你在踢足球时捡起了球。"
+    },
+    {
+      "id": 22,
+      "en": "That's also a foul.",
+      "cn": "那也是犯规。"
+    },
+    {
+      "id": 23,
+      "en": "Our second word is ref.",
+      "cn": "我们的第二个单词是裁判。"
+    },
+    {
+      "id": 24,
+      "en": "Ref.",
+      "cn": "裁判。"
+    },
+    {
+      "id": 25,
+      "en": "R-E-F.",
+      "cn": "R-E-F。"
+    },
+    {
+      "id": 26,
+      "en": "Also known as a referendum.",
+      "cn": "也称为公投。"
+    },
+    {
+      "id": 27,
+      "en": "Right, so a referee is basically like the judge of a game.",
+      "cn": "对，裁判基本上就像比赛的法官。"
+    },
+    {
+      "id": 28,
+      "en": "The judge of the game.",
+      "cn": "比赛的法官。"
+    },
+    {
+      "id": 29,
+      "en": "So he's the one that will say that was a foul.",
+      "cn": "所以他会说那是犯规。"
+    },
+    {
+      "id": 30,
+      "en": "That was a foul, exactly.",
+      "cn": "那是犯规，没错。"
+    },
+    {
+      "id": 31,
+      "en": "Ref.",
+      "cn": "裁判。"
+    },
+    {
+      "id": 32,
+      "en": "Also known as referee.",
+      "cn": "也称为裁判员。"
+    },
+    {
+      "id": 33,
+      "en": "Okay, so two great words.",
+      "cn": "好的，两个很棒的单词。"
+    },
+    {
+      "id": 34,
+      "en": "We're going to hear them in our dialogue.",
+      "cn": "我们将在对话中听到它们。"
+    },
+    {
+      "id": 35,
+      "en": "And we're going to be listening to two guys who are watching a basketball game on TV.",
+      "cn": "我们将听到两个正在看篮球比赛的家伙。"
+    },
+    {
+      "id": 36,
+      "en": "Hey, has the game started yet?",
+      "cn": "嘿，比赛开始了吗？"
+    },
+    {
+      "id": 37,
+      "en": "Yeah, about five minutes ago.",
+      "cn": "是的，大约五分钟前。"
+    },
+    {
+      "id": 38,
+      "en": "Who's winning?",
+      "cn": "谁在赢？"
+    },
+    {
+      "id": 39,
+      "en": "The Bulls of course.",
+      "cn": "当然是公牛队。"
+    },
+    {
+      "id": 40,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 41,
+      "en": "That wasn't a foul.",
+      "cn": "那不是犯规。"
+    },
+    {
+      "id": 42,
+      "en": "Oh come on ref.",
+      "cn": "哦，拜托裁判。"
+    },
+    {
+      "id": 43,
+      "en": "Don't worry, Shaq always screws up free throws.",
+      "cn": "别担心，Shaq总是罚球失误。"
+    },
+    {
+      "id": 44,
+      "en": "You were right.",
+      "cn": "你说得对。"
+    },
+    {
+      "id": 45,
+      "en": "He didn't make the shot.",
+      "cn": "他没投中。"
+    },
+    {
+      "id": 46,
+      "en": "Yeah, that was a great shot.",
+      "cn": "是的，那是个好投。"
+    },
+    {
+      "id": 47,
+      "en": "Three pointer, yeah.",
+      "cn": "三分球，没错。"
+    },
+    {
+      "id": 48,
+      "en": "Did you see that?",
+      "cn": "你看到了吗？"
+    },
+    {
+      "id": 49,
+      "en": "He traveled to the ref.",
+      "cn": "他走步了，裁判。"
+    },
+    {
+      "id": 50,
+      "en": "Didn't even call it.",
+      "cn": "甚至都没叫。"
+    },
+    {
+      "id": 51,
+      "en": "This ref needs glasses.",
+      "cn": "这个裁判需要眼镜。"
+    },
+    {
+      "id": 52,
+      "en": "Hey ref, open your eyes.",
+      "cn": "嘿裁判，睁开你的眼睛。"
+    },
+    {
+      "id": 53,
+      "en": "Can't believe he didn't see that.",
+      "cn": "真不敢相信他没看到。"
+    },
+    {
+      "id": 54,
+      "en": "Okay, end of the first quarter.",
+      "cn": "好的，第一节结束。"
+    },
+    {
+      "id": 55,
+      "en": "Alright, I'm going to make a beer run.",
+      "cn": "好吧，我去买啤酒。"
+    },
+    {
+      "id": 56,
+      "en": "Alright, a really common situation whenever you're watching games with friends, right?",
+      "cn": "好吧，这在和朋友看比赛时是个很常见的情况，对吧？"
+    },
+    {
+      "id": 57,
+      "en": "You need to get a beer.",
+      "cn": "你需要去拿啤酒。"
+    },
+    {
+      "id": 58,
+      "en": "We'll talk about that in a little while.",
+      "cn": "我们稍后会谈论这个。"
+    },
+    {
+      "id": 59,
+      "en": "Let's take a look at language takeaway.",
+      "cn": "让我们看看语言要点。"
+    },
+    {
+      "id": 60,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 61,
+      "en": "Okay, let's take a look at our first word on language takeaway.",
+      "cn": "好的，让我们看看语言要点中的第一个单词。"
+    },
+    {
+      "id": 62,
+      "en": "Free throw.",
+      "cn": "罚球。"
+    },
+    {
+      "id": 63,
+      "en": "Free throw.",
+      "cn": "罚球。"
+    },
+    {
+      "id": 64,
+      "en": "Free throw.",
+      "cn": "罚球。"
+    },
+    {
+      "id": 65,
+      "en": "This one's a bit hard to say, isn't it?",
+      "cn": "这个有点难说，是不是？"
+    },
+    {
+      "id": 66,
+      "en": "It's a little bit hard to explain, but if you're playing basketball and if someone fouls you, you get a free throw.",
+      "cn": "这有点难解释，但如果你在打篮球时被犯规，你会得到一个罚球。"
+    },
+    {
+      "id": 67,
+      "en": "So that's when all the players line up around you and you can throw the ball.",
+      "cn": "所以那是所有球员围着你排队，你可以投球。"
+    },
+    {
+      "id": 68,
+      "en": "To the basket without anyone blocking you or anything.",
+      "cn": "投向篮筐，没有人阻挡你。"
+    },
+    {
+      "id": 69,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 70,
+      "en": "A little bit complicated, but I'm sure the basketball fans understand what a free throw is.",
+      "cn": "有点复杂，但我相信篮球迷知道罚球是什么。"
+    },
+    {
+      "id": 71,
+      "en": "Alright, our next word is... Make the shot.",
+      "cn": "好吧，我们下一个单词是... 投中。"
+    },
+    {
+      "id": 72,
+      "en": "Make the shot.",
+      "cn": "投中。"
+    },
+    {
+      "id": 73,
+      "en": "Make the shot.",
+      "cn": "投中。"
+    },
+    {
+      "id": 74,
+      "en": "Make the shot.",
+      "cn": "投中。"
+    },
+    {
+      "id": 75,
+      "en": "Let's listen to some examples and we'll understand the meaning of make the shot.",
+      "cn": "让我们听一些例子，理解“投中”的意思。"
+    },
+    {
+      "id": 76,
+      "en": "Example 1.",
+      "cn": "例子1。"
+    },
+    {
+      "id": 77,
+      "en": "I can't believe it.",
+      "cn": "我简直不敢相信。"
+    },
+    {
+      "id": 78,
+      "en": "He made the shot from the other side of the court.",
+      "cn": "他从场地另一边投中了。"
+    },
+    {
+      "id": 79,
+      "en": "Example 2.",
+      "cn": "例子2。"
+    },
+    {
+      "id": 80,
+      "en": "There's no way he's going to make that shot.",
+      "cn": "他绝对不可能投中那个。"
+    },
+    {
+      "id": 81,
+      "en": "He's way too far away from the net.",
+      "cn": "他离篮筐太远了。"
+    },
+    {
+      "id": 82,
+      "en": "Example 3.",
+      "cn": "例子3。"
+    },
+    {
+      "id": 83,
+      "en": "If Gretzky makes this shot, they're going to win the Stanley Cup.",
+      "cn": "如果Gretzky投中这个，他们就会赢得斯坦利杯。"
+    },
+    {
+      "id": 84,
+      "en": "So it's clear now.",
+      "cn": "所以现在很清楚了。"
+    },
+    {
+      "id": 85,
+      "en": "To make the shot is to successfully put the ball in the basket.",
+      "cn": "投中就是成功把球放进篮筐。"
+    },
+    {
+      "id": 86,
+      "en": "You can use this expression in other sports as well, right?",
+      "cn": "你也可以在其他运动中使用这个表达，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "Yeah, you can use it in hockey to make the shot.",
+      "cn": "是的，你可以在冰球中使用“投中”。"
+    },
+    {
+      "id": 88,
+      "en": "You can also use it in golf.",
+      "cn": "你也可以在高尔夫中使用。"
+    },
+    {
+      "id": 89,
+      "en": "In a lot of different sports, they use the term to shoot.",
+      "cn": "在很多不同的运动中，他们使用“投球”这个术语。"
+    },
+    {
+      "id": 90,
+      "en": "Shoot the ball.",
+      "cn": "投球。"
+    },
+    {
+      "id": 91,
+      "en": "So anytime you shoot the ball, you can make the shot.",
+      "cn": "所以每当你投球时，你都可以说“投中”。"
+    },
+    {
+      "id": 92,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 93,
+      "en": "Ok, our next word today... 3 pointer.",
+      "cn": "好的，今天我们的下一个单词... 三分球。"
+    },
+    {
+      "id": 94,
+      "en": "3 pointer.",
+      "cn": "三分球。"
+    },
+    {
+      "id": 95,
+      "en": "3 pointer.",
+      "cn": "三分球。"
+    },
+    {
+      "id": 96,
+      "en": "A 3 pointer.",
+      "cn": "一个三分球。"
+    },
+    {
+      "id": 97,
+      "en": "It's a shot in basketball when you get 3 points.",
+      "cn": "这是篮球中得3分的投篮。"
+    },
+    {
+      "id": 98,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 99,
+      "en": "Usually this shot is taken from further out.",
+      "cn": "通常这个投篮是从更远的地方投的。"
+    },
+    {
+      "id": 100,
+      "en": "Yeah, farther distance.",
+      "cn": "是的，更远的距离。"
+    },
+    {
+      "id": 101,
+      "en": "Yeah, so it's a little bit more difficult to make this shot.",
+      "cn": "是的，所以这个投篮有点难。"
+    },
+    {
+      "id": 102,
+      "en": "You know, sometimes people might say a 3-point shot or something like that, but our EnglishPod learners, they know.",
+      "cn": "你知道，有时人们可能会说三分投篮之类的，但我们的EnglishPod学习者，他们知道。"
+    },
+    {
+      "id": 103,
+      "en": "It's a 3 pointer.",
+      "cn": "这是三分球。"
+    },
+    {
+      "id": 104,
+      "en": "Yeah, you'll sound really knowledgeable, really cool using that one.",
+      "cn": "是的，使用这个词你会显得很有知识，真的很酷。"
+    },
+    {
+      "id": 105,
+      "en": "3 pointer.",
+      "cn": "三分球。"
+    },
+    {
+      "id": 106,
+      "en": "And our last word today... travel.",
+      "cn": "今天最后一个词……旅行。"
+    },
+    {
+      "id": 107,
+      "en": "Travel.",
+      "cn": "旅行。"
+    },
+    {
+      "id": 108,
+      "en": "To travel.",
+      "cn": "去旅行。"
+    },
+    {
+      "id": 109,
+      "en": "Travel.",
+      "cn": "旅行。"
+    },
+    {
+      "id": 110,
+      "en": "When you walk with the basketball.",
+      "cn": "当你带着篮球走动时。"
+    },
+    {
+      "id": 111,
+      "en": "Well, technically you're allowed to take 2 steps in basketball.",
+      "cn": "嗯，技术上讲，在篮球中你可以走两步。"
+    },
+    {
+      "id": 112,
+      "en": "Ok.",
+      "cn": "好的。"
+    },
+    {
+      "id": 113,
+      "en": "So when you take more than 2 steps, then it's traveling.",
+      "cn": "所以当你走超过两步时，就是旅行。"
+    },
+    {
+      "id": 114,
+      "en": "So yeah, traveling means to take more than 2 steps with the ball.",
+      "cn": "所以是的，旅行意味着带着球走超过两步。"
+    },
+    {
+      "id": 115,
+      "en": "Let's listen to the dialogue a second time.",
+      "cn": "让我们再听一遍对话。"
+    },
+    {
+      "id": 116,
+      "en": "This time it'll be a bit slower so that we can understand some of these great phrases we just talked about.",
+      "cn": "这次会慢一点，以便我们能理解一些我们刚刚谈到的好短语。"
+    },
+    {
+      "id": 117,
+      "en": "Jack always screws up free throws.",
+      "cn": "杰克总是搞砸罚球。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, you were right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 119,
+      "en": "He didn't make the shot.",
+      "cn": "他没投中。"
+    },
+    {
+      "id": 120,
+      "en": "Yeah, that was a great shot.",
+      "cn": "是的，那是个好投篮。"
+    },
+    {
+      "id": 121,
+      "en": "3 pointer, yeah.",
+      "cn": "三分球，是的。"
+    },
+    {
+      "id": 122,
+      "en": "Oh, did you see that?",
+      "cn": "哦，你看到那个了吗？"
+    },
+    {
+      "id": 123,
+      "en": "He traveled and the ref didn't even call it.",
+      "cn": "他走步了，裁判甚至没有吹哨。"
+    },
+    {
+      "id": 124,
+      "en": "This ref needs glasses.",
+      "cn": "这个裁判需要眼镜。"
+    },
+    {
+      "id": 125,
+      "en": "Hey ref, open your eyes!",
+      "cn": "嘿裁判，睁开你的眼睛！"
+    },
+    {
+      "id": 126,
+      "en": "I can't believe he didn't see that.",
+      "cn": "我真不敢相信他没看到。"
+    },
+    {
+      "id": 127,
+      "en": "Ok.",
+      "cn": "好的。"
+    },
+    {
+      "id": 128,
+      "en": "The end of the first quarter.",
+      "cn": "第一节结束。"
+    },
+    {
+      "id": 129,
+      "en": "Hey, I'm gonna make a beer run.",
+      "cn": "嘿，我要去买啤酒。"
+    },
+    {
+      "id": 130,
+      "en": "Sweet.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 131,
+      "en": "Alright sports fans, so now let's take a look at Fluency Builder.",
+      "cn": "好吧，体育迷们，现在让我们看看流利度提升。"
+    },
+    {
+      "id": 132,
+      "en": "Ok, today on Fluency Builder we have two really common words that you would listen to while you're watching a game.",
+      "cn": "好的，今天在流利度提升中，我们有两个在观看比赛时会听到的常用词。"
+    },
+    {
+      "id": 133,
+      "en": "Yeah, these are sort of slangy words, hey?",
+      "cn": "是的，这些算是俚语词，对吧？"
+    },
+    {
+      "id": 134,
+      "en": "Yeah, they're kind of common.",
+      "cn": "是的，它们有点常见。"
+    },
+    {
+      "id": 135,
+      "en": "Like informal.",
+      "cn": "像是非正式的。"
+    },
+    {
+      "id": 136,
+      "en": "The first one that we have is screw up.",
+      "cn": "我们第一个词是搞砸。"
+    },
+    {
+      "id": 137,
+      "en": "Screw up.",
+      "cn": "搞砸。"
+    },
+    {
+      "id": 138,
+      "en": "To screw up.",
+      "cn": "去搞砸。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah, so this is a good way of saying to make a mistake.",
+      "cn": "是的，这是一种说犯错误的好方式。"
+    },
+    {
+      "id": 140,
+      "en": "Let's listen to some examples of how this word is used.",
+      "cn": "让我们听听这个词的用法示例。"
+    },
+    {
+      "id": 141,
+      "en": "Rule 3.",
+      "cn": "规则3。"
+    },
+    {
+      "id": 142,
+      "en": "I'm sorry, I know I screwed up.",
+      "cn": "对不起，我知道我搞砸了。"
+    },
+    {
+      "id": 143,
+      "en": "Will you forgive me?",
+      "cn": "你会原谅我吗？"
+    },
+    {
+      "id": 144,
+      "en": "Ok, so screw up is mess up.",
+      "cn": "好的，所以搞砸就是搞错。"
+    },
+    {
+      "id": 145,
+      "en": "Yeah, make a mistake.",
+      "cn": "是的，犯错误。"
+    },
+    {
+      "id": 146,
+      "en": "Make a mistake.",
+      "cn": "犯错误。"
+    },
+    {
+      "id": 147,
+      "en": "Uh huh.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 148,
+      "en": "Great, and our last word on Fluency Builder today, a beer run.",
+      "cn": "很好，今天流利度提升的最后一个词，买啤酒。"
+    },
+    {
+      "id": 149,
+      "en": "A beer run.",
+      "cn": "买啤酒。"
+    },
+    {
+      "id": 150,
+      "en": "Beer run.",
+      "cn": "买啤酒。"
+    },
+    {
+      "id": 151,
+      "en": "So, what is this beer run?",
+      "cn": "那么，这个买啤酒是什么？"
+    },
+    {
+      "id": 152,
+      "en": "You run to get beer.",
+      "cn": "你去买啤酒。"
+    },
+    {
+      "id": 153,
+      "en": "You go to the store and get beer.",
+      "cn": "你去商店买啤酒。"
+    },
+    {
+      "id": 154,
+      "en": "Ok.",
+      "cn": "好的。"
+    },
+    {
+      "id": 155,
+      "en": "Get more beer.",
+      "cn": "再买点啤酒。"
+    },
+    {
+      "id": 156,
+      "en": "So it's just an expression to meaning to go and get more beer.",
+      "cn": "所以这只是一个表达，意思是去再买点啤酒。"
+    },
+    {
+      "id": 157,
+      "en": "Yeah, usually you're watching a game or you're at home with your friends.",
+      "cn": "是的，通常你是在看比赛或者和朋友在家。"
+    },
+    {
+      "id": 158,
+      "en": "You run out of beer, so somebody has to go get some beer.",
+      "cn": "你啤酒喝完了，所以有人得去买啤酒。"
+    },
+    {
+      "id": 159,
+      "en": "Make a beer run.",
+      "cn": "去买啤酒。"
+    },
+    {
+      "id": 160,
+      "en": "Hey,",
+      "cn": "嘿，"
+    },
+    {
+      "id": 161,
+      "en": "has the game started yet?",
+      "cn": "比赛开始了吗？"
+    },
+    {
+      "id": 162,
+      "en": "Yeah, about five minutes ago.",
+      "cn": "是的，大约五分钟前。"
+    },
+    {
+      "id": 163,
+      "en": "Who's winning?",
+      "cn": "谁在赢？"
+    },
+    {
+      "id": 164,
+      "en": "The Bulls of course.",
+      "cn": "当然是公牛队。"
+    },
+    {
+      "id": 165,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 166,
+      "en": "That wasn't a foul!",
+      "cn": "那不是犯规！"
+    },
+    {
+      "id": 167,
+      "en": "Oh, come on ref!",
+      "cn": "哦，拜托裁判！"
+    },
+    {
+      "id": 168,
+      "en": "Don't worry, Shaq always screws up free throws.",
+      "cn": "别担心，沙奎尔总是搞砸罚球。"
+    },
+    {
+      "id": 169,
+      "en": "You were right, he didn't make the shot.",
+      "cn": "你说得对，他没投中。"
+    },
+    {
+      "id": 170,
+      "en": "Yeah, that was a great shot.",
+      "cn": "是的，那是个好投篮。"
+    },
+    {
+      "id": 171,
+      "en": "Three pointer, yeah.",
+      "cn": "三分球，是的。"
+    },
+    {
+      "id": 172,
+      "en": "Did you see that?",
+      "cn": "你看到那个了吗？"
+    },
+    {
+      "id": 173,
+      "en": "He traveled and the ref didn't even call it.",
+      "cn": "他走步了，裁判甚至没有吹哨。"
+    },
+    {
+      "id": 174,
+      "en": "This ref needs glasses.",
+      "cn": "这个裁判需要眼镜。"
+    },
+    {
+      "id": 175,
+      "en": "Hey ref, open your eyes!",
+      "cn": "嘿裁判，睁开你的眼睛！"
+    },
+    {
+      "id": 176,
+      "en": "Can't believe he didn't see that.",
+      "cn": "不敢相信他没看到。"
+    },
+    {
+      "id": 177,
+      "en": "Ok, end of the first quarter.",
+      "cn": "好的，第一节结束。"
+    },
+    {
+      "id": 178,
+      "en": "Alright, I'm going to make a beer run.",
+      "cn": "好吧，我要去买啤酒。"
+    },
+    {
+      "id": 179,
+      "en": "Ok guys, I hope you enjoyed our lesson today.",
+      "cn": "好的，大家，希望你们喜欢今天的课程。"
+    },
+    {
+      "id": 180,
+      "en": "We'll be bringing you more sports lessons in the future.",
+      "cn": "我们将来会带来更多的体育课程。"
+    },
+    {
+      "id": 181,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 182,
+      "en": "So if you have a particular sport that you want to learn about, you can tell us.",
+      "cn": "所以如果你有想学习的特定运动，可以告诉我们。"
+    },
+    {
+      "id": 183,
+      "en": "Come to our website, EnglishPod.com.",
+      "cn": "来我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 184,
+      "en": "Yeah, and leave us your comments or your suggestions or any doubts that you have.",
+      "cn": "是的，给我们留言或建议，或者任何你有的疑问。"
+    },
+    {
+      "id": 185,
+      "en": "And we're always there to answer it, so we'll see you there.",
+      "cn": "我们总是在那里回答，所以我们会在那里见。"
+    },
+    {
+      "id": 186,
+      "en": "Yes, until next time, bye!",
+      "cn": "是的，下次见，再见！"
+    }
+  ]
+}

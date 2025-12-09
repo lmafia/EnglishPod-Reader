@@ -1,0 +1,624 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0001",
+  "title": "Englishpod 初级 英文播客 0001",
+  "totalSegments": 123,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners, and welcome to EnglishPod.",
+      "cn": "你好，英语学习者，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "I'm Amira.",
+      "cn": "我是Amira。"
+    },
+    {
+      "id": 4,
+      "en": "And Amira and I are here today with a great, great lesson for you.",
+      "cn": "今天Amira和我为你们准备了一堂非常棒的课。"
+    },
+    {
+      "id": 5,
+      "en": "Yes, we are.",
+      "cn": "是的，我们准备好了。"
+    },
+    {
+      "id": 6,
+      "en": "Today we're gonna be talking about a restaurant.",
+      "cn": "今天我们要谈论一家餐厅。"
+    },
+    {
+      "id": 7,
+      "en": "Amira, why don't you give us a little bit more details?",
+      "cn": "Amira，你能多给我们一些细节吗？"
+    },
+    {
+      "id": 8,
+      "en": "Well, we're talking about a situation in a restaurant and two people are involved, the waiter and the customer.",
+      "cn": "好的，我们讨论的是餐厅里的一个情境，涉及两个人，服务员和顾客。"
+    },
+    {
+      "id": 9,
+      "en": "And I don't want to say any more.",
+      "cn": "我不想再多说了。"
+    },
+    {
+      "id": 10,
+      "en": "Okay, don't say any more.",
+      "cn": "好吧，不要再说了。"
+    },
+    {
+      "id": 11,
+      "en": "Let's just listen to this dialogue and we'll be back later to explain it.",
+      "cn": "让我们听这个对话，稍后再回来解释。"
+    },
+    {
+      "id": 12,
+      "en": "Good evening.",
+      "cn": "晚上好。"
+    },
+    {
+      "id": 13,
+      "en": "My name is Fabio.",
+      "cn": "我叫Fabio。"
+    },
+    {
+      "id": 14,
+      "en": "I'll be your waiter for tonight.",
+      "cn": "我将是你今晚的服务员。"
+    },
+    {
+      "id": 15,
+      "en": "May I take your order?",
+      "cn": "我可以为你点餐吗？"
+    },
+    {
+      "id": 16,
+      "en": "No, I'm still working on it.",
+      "cn": "不，我还在考虑。"
+    },
+    {
+      "id": 17,
+      "en": "This menu is not even in English.",
+      "cn": "这个菜单甚至不是英文的。"
+    },
+    {
+      "id": 18,
+      "en": "What's good here?",
+      "cn": "这里有什么好吃的？"
+    },
+    {
+      "id": 19,
+      "en": "For you, sir, I would recommend spaghetti and meatballs.",
+      "cn": "对你来说，先生，我推荐意大利面和肉丸。"
+    },
+    {
+      "id": 20,
+      "en": "Does it come with coke and fries?",
+      "cn": "它配可乐和薯条吗？"
+    },
+    {
+      "id": 21,
+      "en": "It comes with either soup or salad and a complimentary glass of wine, sir.",
+      "cn": "它配汤或沙拉，还有一杯免费的葡萄酒，先生。"
+    },
+    {
+      "id": 22,
+      "en": "I'll go with the spaghetti and meatballs, salad and the wine.",
+      "cn": "我选择意大利面和肉丸，沙拉和葡萄酒。"
+    },
+    {
+      "id": 23,
+      "en": "Excellent choice.",
+      "cn": "很好的选择。"
+    },
+    {
+      "id": 24,
+      "en": "Your order will be ready soon.",
+      "cn": "你的订单很快就会准备好。"
+    },
+    {
+      "id": 25,
+      "en": "How soon is soon?",
+      "cn": "多快算快？"
+    },
+    {
+      "id": 26,
+      "en": "Twenty minutes.",
+      "cn": "二十分钟。"
+    },
+    {
+      "id": 27,
+      "en": "You know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 28,
+      "en": "I'll just go grab a burger across the street.",
+      "cn": "我去街对面吃个汉堡。"
+    },
+    {
+      "id": 29,
+      "en": "Oh, what a waiter.",
+      "cn": "哦，真是个服务员。"
+    },
+    {
+      "id": 30,
+      "en": "What a waiter.",
+      "cn": "真是个服务员。"
+    },
+    {
+      "id": 31,
+      "en": "He is really angry at this customer and I can't blame him.",
+      "cn": "他对这个顾客真的很生气，我不能怪他。"
+    },
+    {
+      "id": 32,
+      "en": "I would be angry too.",
+      "cn": "我也会生气。"
+    },
+    {
+      "id": 33,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 34,
+      "en": "So I think, Marco, you have chosen some interesting expressions for us here.",
+      "cn": "所以我觉得，Marco，你为我们选择了一些有趣的表达。"
+    },
+    {
+      "id": 35,
+      "en": "What is the first one?",
+      "cn": "第一个是什么？"
+    },
+    {
+      "id": 36,
+      "en": "Well, the first one is I'm still working on it.",
+      "cn": "第一个是“我还在考虑”。"
+    },
+    {
+      "id": 37,
+      "en": "I'm still working on it.",
+      "cn": "我还在考虑。"
+    },
+    {
+      "id": 38,
+      "en": "I'm still working on it.",
+      "cn": "我还在考虑。"
+    },
+    {
+      "id": 39,
+      "en": "I'm still working on it.",
+      "cn": "我还在考虑。"
+    },
+    {
+      "id": 40,
+      "en": "Why don't we listen to some other examples on how you can use this word and then we'll come back and explain it.",
+      "cn": "我们来听一些其他例子，看看如何使用这个词，然后再回来解释。"
+    },
+    {
+      "id": 41,
+      "en": "Did you finish reading the magazine?",
+      "cn": "你读完杂志了吗？"
+    },
+    {
+      "id": 42,
+      "en": "I'm still working on it.",
+      "cn": "我还在考虑。"
+    },
+    {
+      "id": 43,
+      "en": "Did you fix my cough?",
+      "cn": "你修好我的咳嗽了吗？"
+    },
+    {
+      "id": 44,
+      "en": "I'm still working on it.",
+      "cn": "我还在考虑。"
+    },
+    {
+      "id": 45,
+      "en": "Ah, so you could say I'm still working on it means I still need more time.",
+      "cn": "啊，所以你可以说“我还在考虑”意味着我还需要更多时间。"
+    },
+    {
+      "id": 46,
+      "en": "Fantastic.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 47,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 48,
+      "en": "Okay, it's clear.",
+      "cn": "好的，很清楚。"
+    },
+    {
+      "id": 49,
+      "en": "I have another one for you guys.",
+      "cn": "我还有一个给你们。"
+    },
+    {
+      "id": 50,
+      "en": "It's a phrase commonly used and you'll hear it all the time.",
+      "cn": "这是一个常用的短语，你会经常听到。"
+    },
+    {
+      "id": 51,
+      "en": "Coke and fries.",
+      "cn": "可乐和薯条。"
+    },
+    {
+      "id": 52,
+      "en": "Coke and fries.",
+      "cn": "可乐和薯条。"
+    },
+    {
+      "id": 53,
+      "en": "Coke and fries.",
+      "cn": "可乐和薯条。"
+    },
+    {
+      "id": 54,
+      "en": "Coke and fries.",
+      "cn": "可乐和薯条。"
+    },
+    {
+      "id": 55,
+      "en": "It's a short way of saying Coca-cola and French fries.",
+      "cn": "这是可口可乐和薯条的简短说法。"
+    },
+    {
+      "id": 56,
+      "en": "So that's basically America's fast food.",
+      "cn": "所以这基本上是美国的快餐。"
+    },
+    {
+      "id": 57,
+      "en": "Yeah, burger, coke and fries.",
+      "cn": "是的，汉堡、可乐和薯条。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, what's next on the menu?",
+      "cn": "好的，菜单上还有什么？"
+    },
+    {
+      "id": 59,
+      "en": "On the menu we have a complimentary glass of wine.",
+      "cn": "菜单上有一杯免费的葡萄酒。"
+    },
+    {
+      "id": 60,
+      "en": "Complimentary glass of wine.",
+      "cn": "免费的葡萄酒。"
+    },
+    {
+      "id": 61,
+      "en": "Complimentary glass of wine.",
+      "cn": "免费的葡萄酒。"
+    },
+    {
+      "id": 62,
+      "en": "Complimentary means that it's free.",
+      "cn": "免费意味着它是免费的。"
+    },
+    {
+      "id": 63,
+      "en": "Free.",
+      "cn": "免费。"
+    },
+    {
+      "id": 64,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 65,
+      "en": "We love that, huh?",
+      "cn": "我们喜欢这个，是吧？"
+    },
+    {
+      "id": 66,
+      "en": "Yeah, we definitely like free things.",
+      "cn": "是的，我们确实喜欢免费的东西。"
+    },
+    {
+      "id": 67,
+      "en": "Well, I have another one for us here.",
+      "cn": "好吧，我还有一个给我们。"
+    },
+    {
+      "id": 68,
+      "en": "Another interesting phrase.",
+      "cn": "另一个有趣的短语。"
+    },
+    {
+      "id": 69,
+      "en": "I'll go with.",
+      "cn": "我选择。"
+    },
+    {
+      "id": 70,
+      "en": "I'll go with.",
+      "cn": "我选择。"
+    },
+    {
+      "id": 71,
+      "en": "I'll go with.",
+      "cn": "我选择。"
+    },
+    {
+      "id": 72,
+      "en": "I'll go with.",
+      "cn": "我选择。"
+    },
+    {
+      "id": 73,
+      "en": "So basically it's another way of saying I'm choosing.",
+      "cn": "所以基本上是说我在选择。"
+    },
+    {
+      "id": 74,
+      "en": "Yeah, I'll choose or I'll take.",
+      "cn": "是的，我会选择或我会拿。"
+    },
+    {
+      "id": 75,
+      "en": "I'll take.",
+      "cn": "我会拿。"
+    },
+    {
+      "id": 76,
+      "en": "Mm-hmm.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 78,
+      "en": "All right, the next word that I want to take a look at is grab.",
+      "cn": "好吧，我想看看下一个词是“抓”。"
+    },
+    {
+      "id": 79,
+      "en": "Grab.",
+      "cn": "抓。"
+    },
+    {
+      "id": 80,
+      "en": "Grab.",
+      "cn": "抓。"
+    },
+    {
+      "id": 81,
+      "en": "Grab.",
+      "cn": "抓。"
+    },
+    {
+      "id": 82,
+      "en": "Okay, now let's listen to some other examples of how we could use grab in different situations and then we'll come back and explain it.",
+      "cn": "好的，现在让我们听一些其他例子，看看如何在不同情况下使用“抓”，然后再回来解释。"
+    },
+    {
+      "id": 83,
+      "en": "On your way home, can you grab some milk?",
+      "cn": "回家的路上，你能抓点牛奶吗？"
+    },
+    {
+      "id": 84,
+      "en": "Wait for me, please.",
+      "cn": "请等我。"
+    },
+    {
+      "id": 85,
+      "en": "I need to grab my coat.",
+      "cn": "我需要抓我的外套。"
+    },
+    {
+      "id": 86,
+      "en": "Let's grab a cup of coffee.",
+      "cn": "我们去喝杯咖啡吧。"
+    },
+    {
+      "id": 87,
+      "en": "All right, well, I would understand that go grab means go get quickly.",
+      "cn": "好吧，我理解“去抓”意味着快速去拿。"
+    },
+    {
+      "id": 88,
+      "en": "To go get quickly, yeah.",
+      "cn": "快速去拿，是的。"
+    },
+    {
+      "id": 89,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 90,
+      "en": "All right, everyone, so now it's time to listen one more time to the dialogue and listen carefully and try to understand why the waiter doesn't like the customer.",
+      "cn": "好吧，大家，现在是时候再听一次对话，仔细听，试着理解为什么服务员不喜欢这个顾客。"
+    },
+    {
+      "id": 91,
+      "en": "Let's listen.",
+      "cn": "让我们听听。"
+    },
+    {
+      "id": 92,
+      "en": "Good evening.",
+      "cn": "晚上好。"
+    },
+    {
+      "id": 93,
+      "en": "My name is Fabio.",
+      "cn": "我叫Fabio。"
+    },
+    {
+      "id": 94,
+      "en": "I'll be your waiter for tonight.",
+      "cn": "我将是你今晚的服务员。"
+    },
+    {
+      "id": 95,
+      "en": "May I take your order?",
+      "cn": "我可以为你点餐吗？"
+    },
+    {
+      "id": 96,
+      "en": "No, I'm still working on it.",
+      "cn": "不，我还在考虑。"
+    },
+    {
+      "id": 97,
+      "en": "This menu is not even in English.",
+      "cn": "这个菜单甚至不是英文的。"
+    },
+    {
+      "id": 98,
+      "en": "What's good here?",
+      "cn": "这里有什么好吃的？"
+    },
+    {
+      "id": 99,
+      "en": "For you, sir, I would recommend spaghetti and meatballs.",
+      "cn": "对你来说，先生，我推荐意大利面和肉丸。"
+    },
+    {
+      "id": 100,
+      "en": "Does it come with Coke and fries?",
+      "cn": "它配可乐和薯条吗？"
+    },
+    {
+      "id": 101,
+      "en": "It comes with either soup or salad and a complimentary glass of wine, sir.",
+      "cn": "它配有汤或沙拉和一杯免费的葡萄酒，先生。"
+    },
+    {
+      "id": 102,
+      "en": "I'll go with the spaghetti and meatballs, salad and the wine.",
+      "cn": "我选择意大利面和肉丸，沙拉和葡萄酒。"
+    },
+    {
+      "id": 103,
+      "en": "Excellent choice.",
+      "cn": "很好的选择。"
+    },
+    {
+      "id": 104,
+      "en": "Your order will be ready soon.",
+      "cn": "您的订单很快就会准备好。"
+    },
+    {
+      "id": 105,
+      "en": "How soon is soon?",
+      "cn": "多快算快？"
+    },
+    {
+      "id": 106,
+      "en": "20 minutes.",
+      "cn": "20分钟。"
+    },
+    {
+      "id": 107,
+      "en": "You know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 108,
+      "en": "I'll just go grab a burger across the street.",
+      "cn": "我去街对面吃个汉堡。"
+    },
+    {
+      "id": 109,
+      "en": "Marco,",
+      "cn": "马尔科，"
+    },
+    {
+      "id": 110,
+      "en": "why did this waiter get angry at the customer?",
+      "cn": "这个服务员为什么对顾客生气？"
+    },
+    {
+      "id": 111,
+      "en": "Well, he basically wasted the waiter's time.",
+      "cn": "嗯，他基本上浪费了服务员的时间。"
+    },
+    {
+      "id": 112,
+      "en": "I mean, this guy comes into the restaurant, he is not very polite and he's asking all these questions and in the end he just gets up and says, ah, I'll just go grab a burger across the street.",
+      "cn": "我的意思是，这家伙进餐厅时不太礼貌，问了很多问题，最后却站起来说，啊，我去街对面吃个汉堡。"
+    },
+    {
+      "id": 113,
+      "en": "Yeah, and I also think that this guy was a lot more casual than the place he was in, right?",
+      "cn": "是的，我也觉得这个家伙比他所在的地方要随意得多，对吧？"
+    },
+    {
+      "id": 114,
+      "en": "Yeah, yeah, I think this was a nice, fancy restaurant, so I think he was in the wrong place.",
+      "cn": "是的，我认为这是家不错的高档餐厅，所以我觉得他来错地方了。"
+    },
+    {
+      "id": 115,
+      "en": "Yeah, so how many times, Marco, tell me, do you really have fast food a week?",
+      "cn": "是的，马尔科，告诉我，你一周真的吃多少次快餐？"
+    },
+    {
+      "id": 116,
+      "en": "Fast food, let's see, Monday, Tuesday, Wednesday, no, no, I think I get fast food maybe once a week, once or twice a week.",
+      "cn": "快餐，嗯，星期一、星期二、星期三，不，我想我一周可能吃一次快餐，一周一到两次。"
+    },
+    {
+      "id": 117,
+      "en": "All right, talking about fast food made me hungry, so I think I'm gonna go grab something to eat myself.",
+      "cn": "好吧，谈到快餐让我饿了，我想我也去找点吃的。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, me too.",
+      "cn": "是的，我也是。"
+    },
+    {
+      "id": 119,
+      "en": "All right, I hope you guys enjoyed the lesson today and remember that all of this vocabulary is useful for your everyday needs.",
+      "cn": "好吧，希望你们今天的课程愉快，记住这些词汇对你们的日常生活很有用。"
+    },
+    {
+      "id": 120,
+      "en": "Yes, well actually here in EnglishPod we focus on phrases and words that are high frequency and that means that you can use them every day in your practical life.",
+      "cn": "是的，实际上在EnglishPod，我们专注于高频率的短语和单词，这意味着你可以在日常生活中使用它们。"
+    },
+    {
+      "id": 121,
+      "en": "Exactly, and be sure to go to our website at EnglishPod.com where you can find many other resources and you can leave your questions and comments at our community forum.",
+      "cn": "确切地说，确保访问我们的网站EnglishPod.com，那里有许多其他资源，你可以在我们的社区论坛上留下问题和评论。"
+    },
+    {
+      "id": 122,
+      "en": "So thank you very much for listening, we'll be back tomorrow with another great lesson for you.",
+      "cn": "非常感谢你的收听，我们明天会带来另一节精彩的课程。"
+    },
+    {
+      "id": 123,
+      "en": "So until then, bye!",
+      "cn": "所以在那之前，再见！"
+    }
+  ]
+}

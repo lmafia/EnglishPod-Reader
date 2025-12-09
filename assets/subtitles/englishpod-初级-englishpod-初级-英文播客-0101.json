@@ -1,0 +1,1169 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0101",
+  "title": "EnglishPod 初级 英文播客 0101",
+  "totalSegments": 232,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another edition here with us at EnglishPod.",
+      "cn": "欢迎回到我们在EnglishPod的另一期节目。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we are doing the third part of our Old English series.",
+      "cn": "今天我们将进行老英语系列的第三部分。"
+    },
+    {
+      "id": 6,
+      "en": "And today we're transported back to the 1970s.",
+      "cn": "今天我们回到1970年代。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "So we're going to learn some 1970s slang, some phrases that were really popular back in the 70s but are also still in use today.",
+      "cn": "所以我们将学习一些1970年代的俚语，一些在70年代非常流行但今天仍在使用的短语。"
+    },
+    {
+      "id": 9,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 10,
+      "en": "So it's going to be a very cool lesson today.",
+      "cn": "所以今天的课程会非常酷。"
+    },
+    {
+      "id": 11,
+      "en": "And before we start with the dialogue, let's take a look at some of the words that we're going to find in Vocabulary Preview.",
+      "cn": "在我们开始对话之前，让我们看看在词汇预览中会遇到的一些单词。"
+    },
+    {
+      "id": 12,
+      "en": "Well, we have two words for you in Vocabulary Preview and they're both found in the dialogue.",
+      "cn": "好吧，我们在词汇预览中有两个单词，它们都出现在对话中。"
+    },
+    {
+      "id": 13,
+      "en": "The first one, roller rink.",
+      "cn": "第一个，溜冰场。"
+    },
+    {
+      "id": 14,
+      "en": "A roller rink.",
+      "cn": "一个溜冰场。"
+    },
+    {
+      "id": 15,
+      "en": "A roller rink.",
+      "cn": "一个溜冰场。"
+    },
+    {
+      "id": 16,
+      "en": "Okay, so a roller rink.",
+      "cn": "好吧，所以是一个溜冰场。"
+    },
+    {
+      "id": 17,
+      "en": "Let's break that down and let's look at the first part.",
+      "cn": "让我们分解一下，看看第一部分。"
+    },
+    {
+      "id": 18,
+      "en": "Alright, so roller.",
+      "cn": "好的，所以是溜冰。"
+    },
+    {
+      "id": 19,
+      "en": "We might recognize this from roller blades or roller skates.",
+      "cn": "我们可能会从溜冰鞋或溜冰刀中认出这个。"
+    },
+    {
+      "id": 20,
+      "en": "Okay, so yeah, when you go roller blading, roller skating, those things that you put on your feet to skate.",
+      "cn": "好吧，是的，当你去溜冰时，穿在脚上的东西。"
+    },
+    {
+      "id": 21,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 22,
+      "en": "Wheels, not like a blade or a knife.",
+      "cn": "轮子，不是刀片或刀。"
+    },
+    {
+      "id": 23,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 24,
+      "en": "So that's roller.",
+      "cn": "所以这是溜冰。"
+    },
+    {
+      "id": 25,
+      "en": "And what about rink?",
+      "cn": "那么“场”呢？"
+    },
+    {
+      "id": 26,
+      "en": "Rink is the place where you do skating.",
+      "cn": "场是你滑冰的地方。"
+    },
+    {
+      "id": 27,
+      "en": "Okay, so if you go to a roller rink, it's this big area where everyone can roller blade or roller skate.",
+      "cn": "好吧，所以如果你去溜冰场，那是一个大家可以溜冰的地方。"
+    },
+    {
+      "id": 28,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 29,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 30,
+      "en": "And what about the next word?",
+      "cn": "那下一个词呢？"
+    },
+    {
+      "id": 31,
+      "en": "A block.",
+      "cn": "一个街区。"
+    },
+    {
+      "id": 32,
+      "en": "Block.",
+      "cn": "街区。"
+    },
+    {
+      "id": 33,
+      "en": "A block.",
+      "cn": "一个街区。"
+    },
+    {
+      "id": 34,
+      "en": "Okay, so this is a noun, a block.",
+      "cn": "好吧，这是一个名词，一个街区。"
+    },
+    {
+      "id": 35,
+      "en": "And a block is a part of a city that is surrounded by four streets.",
+      "cn": "街区是被四条街道包围的城市的一部分。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so a city is made up of many blocks.",
+      "cn": "好吧，所以一个城市由许多街区组成。"
+    },
+    {
+      "id": 37,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 38,
+      "en": "And everyone lives on a block.",
+      "cn": "每个人都住在一个街区。"
+    },
+    {
+      "id": 39,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 40,
+      "en": "So it's a square within the city.",
+      "cn": "所以这是城市中的一个方块。"
+    },
+    {
+      "id": 41,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 42,
+      "en": "So these are the two words that we previewed and we're going to listen to them now in the dialogue.",
+      "cn": "这就是我们预览的两个单词，现在我们将在对话中听到它们。"
+    },
+    {
+      "id": 43,
+      "en": "We're going to hear two guys just talking about normal everyday things, but we're going to be listening to them in 1970.",
+      "cn": "我们将听到两个家伙谈论日常生活中的事情，但我们将听到他们在1970年。"
+    },
+    {
+      "id": 44,
+      "en": "Hey, man, how's it hanging?",
+      "cn": "嘿，伙计，怎么样？"
+    },
+    {
+      "id": 45,
+      "en": "Hey, man.",
+      "cn": "嘿，伙计。"
+    },
+    {
+      "id": 46,
+      "en": "Everything is just groovy, baby.",
+      "cn": "一切都很棒，宝贝。"
+    },
+    {
+      "id": 47,
+      "en": "Did you go to the roller rink on Saturday?",
+      "cn": "你星期六去溜冰场了吗？"
+    },
+    {
+      "id": 48,
+      "en": "I heard it was far out, man.",
+      "cn": "我听说那很棒，伙计。"
+    },
+    {
+      "id": 49,
+      "en": "I wanted to, but I ran into this foxy lady that just moved to my block.",
+      "cn": "我想去，但我遇到了一个刚搬到我街区的迷人女士。"
+    },
+    {
+      "id": 50,
+      "en": "I was chatting her up a bit, and then we mellowed out at her place.",
+      "cn": "我和她聊了一会儿，然后我们在她家放松了。"
+    },
+    {
+      "id": 51,
+      "en": "Right on, right on.",
+      "cn": "没错，没错。"
+    },
+    {
+      "id": 52,
+      "en": "Well, Jim went to the roller rink with Sherry and he said it was dot no mites.",
+      "cn": "好吧，Jim和Sherry去了溜冰场，他说那真不错。"
+    },
+    {
+      "id": 53,
+      "en": "He was low on bread, but Sherry paid for everything.",
+      "cn": "他缺钱，但Sherry为一切买单。"
+    },
+    {
+      "id": 54,
+      "en": "Gravy!",
+      "cn": "太好了！"
+    },
+    {
+      "id": 55,
+      "en": "Jim is such a jive Turkey, man.",
+      "cn": "Jim真是个混蛋，伙计。"
+    },
+    {
+      "id": 56,
+      "en": "He's always hitting me up for cash.",
+      "cn": "他总是向我借钱。"
+    },
+    {
+      "id": 57,
+      "en": "Anyway, you want to book and go grab some grub?",
+      "cn": "不管怎样，你想去吃点东西吗？"
+    },
+    {
+      "id": 58,
+      "en": "Yeah, man.",
+      "cn": "是的，伙计。"
+    },
+    {
+      "id": 59,
+      "en": "I'm starving.",
+      "cn": "我饿死了。"
+    },
+    {
+      "id": 60,
+      "en": "Okay, groovy dialogue.",
+      "cn": "好的，酷炫的对话。"
+    },
+    {
+      "id": 61,
+      "en": "Yeah, really nice, huh?",
+      "cn": "是啊，真的不错，嗯？"
+    },
+    {
+      "id": 62,
+      "en": "Alright, so some interesting language in here.",
+      "cn": "好吧，这里有一些有趣的语言。"
+    },
+    {
+      "id": 63,
+      "en": "Like we said, it sounds a bit strange, but a lot of this is still used today in modern English, so why don't we look at some of these words in language takeaway.",
+      "cn": "就像我们说的，听起来有点奇怪，但很多在现代英语中仍然使用，所以我们来看看这些单词在语言收获中。"
+    },
+    {
+      "id": 64,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 65,
+      "en": "Alright, on language takeaway today, we have the first word, far out.",
+      "cn": "好吧，今天的语言收获中，我们有第一个词，far out。"
+    },
+    {
+      "id": 66,
+      "en": "Far out.",
+      "cn": "far out。"
+    },
+    {
+      "id": 67,
+      "en": "That was far out.",
+      "cn": "那真是太棒了。"
+    },
+    {
+      "id": 68,
+      "en": "To be far out.",
+      "cn": "变得far out。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, so it's just another way of saying cool.",
+      "cn": "好吧，这只是另一种说“酷”的方式。"
+    },
+    {
+      "id": 70,
+      "en": "Cool.",
+      "cn": "酷。"
+    },
+    {
+      "id": 71,
+      "en": "That was nice.",
+      "cn": "那真不错。"
+    },
+    {
+      "id": 72,
+      "en": "It was really cool.",
+      "cn": "真的很酷。"
+    },
+    {
+      "id": 73,
+      "en": "So they went to the roller rink.",
+      "cn": "所以他们去了溜冰场。"
+    },
+    {
+      "id": 74,
+      "en": "It was far out.",
+      "cn": "那真是太棒了。"
+    },
+    {
+      "id": 75,
+      "en": "It was really cool, but the other guy couldn't go because he saw a foxy lady.",
+      "cn": "真的很酷，但另一个家伙不能去，因为他看到了一个迷人的女士。"
+    },
+    {
+      "id": 76,
+      "en": "A foxy lady.",
+      "cn": "一个迷人的女士。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, foxy lady.",
+      "cn": "好吧，迷人的女士。"
+    },
+    {
+      "id": 78,
+      "en": "So basically a foxy lady is a really good-looking or sexy woman.",
+      "cn": "所以基本上，迷人的女士是一个非常好看或性感的女人。"
+    },
+    {
+      "id": 79,
+      "en": "Right, commonly you would hear some men refer to a attractive woman as a fox.",
+      "cn": "对，通常你会听到一些男人称呼一个有吸引力的女人为“狐狸”。"
+    },
+    {
+      "id": 80,
+      "en": "Okay, so foxy lady.",
+      "cn": "好吧，所以迷人的女士。"
+    },
+    {
+      "id": 81,
+      "en": "Now, Marco, can we say a foxy man?",
+      "cn": "现在，Marco，我们可以说一个迷人的男人吗？"
+    },
+    {
+      "id": 82,
+      "en": "No, this is a phrase that you would only use for women.",
+      "cn": "不，这个短语只会用来形容女性。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, so foxy lady.",
+      "cn": "好吧，所以迷人的女士。"
+    },
+    {
+      "id": 84,
+      "en": "Foxy lady.",
+      "cn": "迷人的女士。"
+    },
+    {
+      "id": 85,
+      "en": "So after he met up with the foxy lady, they both just decided to mellow out at her place.",
+      "cn": "所以在他和迷人的女士见面后，他们都决定在她家放松一下。"
+    },
+    {
+      "id": 86,
+      "en": "To mellow out.",
+      "cn": "放松一下。"
+    },
+    {
+      "id": 87,
+      "en": "To mellow out.",
+      "cn": "放松一下。"
+    },
+    {
+      "id": 88,
+      "en": "Okay, so mellow out.",
+      "cn": "好吧，所以放松一下。"
+    },
+    {
+      "id": 89,
+      "en": "What does this mean exactly?",
+      "cn": "这到底是什么意思？"
+    },
+    {
+      "id": 90,
+      "en": "Basically, just to relax.",
+      "cn": "基本上，就是放松。"
+    },
+    {
+      "id": 91,
+      "en": "Right, so to relax, to take it easy.",
+      "cn": "对，所以放松，轻松一下。"
+    },
+    {
+      "id": 92,
+      "en": "Mm-hmm.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 93,
+      "en": "To mellow out.",
+      "cn": "放松一下。"
+    },
+    {
+      "id": 94,
+      "en": "So what did you do on the weekend?",
+      "cn": "那你周末做了什么？"
+    },
+    {
+      "id": 95,
+      "en": "Oh, nothing.",
+      "cn": "哦，没什么。"
+    },
+    {
+      "id": 96,
+      "en": "I just stayed at home and mellowed out.",
+      "cn": "我只是呆在家里放松。"
+    },
+    {
+      "id": 97,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 98,
+      "en": "Alright, and so the response to that was?",
+      "cn": "好吧，那么对此的回应是？"
+    },
+    {
+      "id": 99,
+      "en": "Right on.",
+      "cn": "没错。"
+    },
+    {
+      "id": 100,
+      "en": "Right on.",
+      "cn": "没错。"
+    },
+    {
+      "id": 101,
+      "en": "Right on.",
+      "cn": "对的。"
+    },
+    {
+      "id": 102,
+      "en": "Right, right on, right on.",
+      "cn": "对，对的，对的。"
+    },
+    {
+      "id": 103,
+      "en": "And so basically they're saying, okay, good, I agree.",
+      "cn": "所以基本上他们在说，好，好的，我同意。"
+    },
+    {
+      "id": 104,
+      "en": "Yeah, this phrase, you can say as good, yeah, that's nice, or you can also say it as well, correct, correct, I agree.",
+      "cn": "是的，这个短语可以说成好的，是的，挺好的，或者你也可以说，正确，正确，我同意。"
+    },
+    {
+      "id": 105,
+      "en": "So why don't we listen to some examples of how we can use this word in other situations.",
+      "cn": "那我们为什么不听一些例子，看看如何在其他情况下使用这个词呢？"
+    },
+    {
+      "id": 106,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 107,
+      "en": "Right on, you got a high score, that's amazing.",
+      "cn": "对的，你得了高分，太棒了。"
+    },
+    {
+      "id": 108,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 109,
+      "en": "You got the job?",
+      "cn": "你得到了这份工作？"
+    },
+    {
+      "id": 110,
+      "en": "Right on.",
+      "cn": "对的。"
+    },
+    {
+      "id": 111,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 112,
+      "en": "Jenny was right when she told me she thought Rick was no good for me.",
+      "cn": "珍妮说她觉得里克对我不好时是对的。"
+    },
+    {
+      "id": 113,
+      "en": "I should have listened to her.",
+      "cn": "我应该听她的。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, so I think that's pretty clear.",
+      "cn": "好的，我想这很清楚。"
+    },
+    {
+      "id": 115,
+      "en": "We can see how it means, correct, or also, okay, good.",
+      "cn": "我们可以看到它的意思是，正确，或者说，好，好的。"
+    },
+    {
+      "id": 116,
+      "en": "Alright, right on.",
+      "cn": "好吧，对的。"
+    },
+    {
+      "id": 117,
+      "en": "And now we also have another word that's similar to far out.",
+      "cn": "现在我们还有一个与“far out”相似的词。"
+    },
+    {
+      "id": 118,
+      "en": "He said gravy.",
+      "cn": "他说“gravy”。"
+    },
+    {
+      "id": 119,
+      "en": "Gravy.",
+      "cn": "“gravy”。"
+    },
+    {
+      "id": 120,
+      "en": "Gravy.",
+      "cn": "“gravy”。"
+    },
+    {
+      "id": 121,
+      "en": "Gravy.",
+      "cn": "“gravy”。"
+    },
+    {
+      "id": 122,
+      "en": "Now, if you look it up in a dictionary, it's gonna tell you something else, right?",
+      "cn": "现在，如果你在字典里查一下，它会告诉你其他的意思，对吧？"
+    },
+    {
+      "id": 123,
+      "en": "Gravy is a sauce you put on meat.",
+      "cn": "“gravy”是你放在肉上的一种酱。"
+    },
+    {
+      "id": 124,
+      "en": "Right, but in this case, we say gravy is cool.",
+      "cn": "对，但在这种情况下，我们说“gravy”是酷的。"
+    },
+    {
+      "id": 125,
+      "en": "It's nice.",
+      "cn": "很好。"
+    },
+    {
+      "id": 126,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 127,
+      "en": "Alright, so gravy.",
+      "cn": "好吧，所以“gravy”。"
+    },
+    {
+      "id": 128,
+      "en": "That was gravy.",
+      "cn": "那是“gravy”。"
+    },
+    {
+      "id": 129,
+      "en": "Mm-hmm.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 130,
+      "en": "Now, finally, at the end of their conversation, they said, wanna book.",
+      "cn": "现在，最后，在他们的对话结束时，他们说，想要“book”。"
+    },
+    {
+      "id": 131,
+      "en": "Okay, let's book.",
+      "cn": "好的，我们来“book”。"
+    },
+    {
+      "id": 132,
+      "en": "Book.",
+      "cn": "“book”。"
+    },
+    {
+      "id": 133,
+      "en": "So, to book as a verb.",
+      "cn": "所以，“book”作为动词。"
+    },
+    {
+      "id": 134,
+      "en": "Yeah, interesting verb.",
+      "cn": "是的，有趣的动词。"
+    },
+    {
+      "id": 135,
+      "en": "It basically means to leave a place quickly.",
+      "cn": "它基本上意味着快速离开一个地方。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, so we have to book, the police are coming.",
+      "cn": "好的，所以我们得“book”，警察来了。"
+    },
+    {
+      "id": 137,
+      "en": "Right, or I gotta book, guys, I'm late.",
+      "cn": "对，或者我得“book”，伙计们，我迟到了。"
+    },
+    {
+      "id": 138,
+      "en": "Mm-hmm, so book, to leave quickly, to leave suddenly.",
+      "cn": "嗯哼，所以“book”，快速离开，突然离开。"
+    },
+    {
+      "id": 139,
+      "en": "Yep, and that word is used quite commonly today, isn't it?",
+      "cn": "是的，这个词今天使用得相当普遍，不是吗？"
+    },
+    {
+      "id": 140,
+      "en": "Yeah, yeah, it's used among, like, younger people.",
+      "cn": "是的，是的，它在年轻人中使用。"
+    },
+    {
+      "id": 141,
+      "en": "You would say, yeah, let's book, this party is dead.",
+      "cn": "你会说，是的，我们来“book”，这个派对太无聊了。"
+    },
+    {
+      "id": 142,
+      "en": "Okay, great, so there's a lot of pretty cool phrases in this dialogue, pretty groovy phrases.",
+      "cn": "好的，很好，所以在这个对话中有很多很酷的短语，挺酷的短语。"
+    },
+    {
+      "id": 143,
+      "en": "Why don't we everything is just groovy, baby.",
+      "cn": "为什么不说一切都很酷，宝贝。"
+    },
+    {
+      "id": 144,
+      "en": "Did you go to the roller rink on Saturday?",
+      "cn": "你星期六去过滑轮溜冰场吗？"
+    },
+    {
+      "id": 145,
+      "en": "I heard it was far out, man.",
+      "cn": "我听说那太棒了，伙计。"
+    },
+    {
+      "id": 146,
+      "en": "I wanted to, but I ran into this foxy lady that just moved to my block.",
+      "cn": "我想去，但我遇到了一个刚搬到我街区的迷人女士。"
+    },
+    {
+      "id": 147,
+      "en": "I was chatting her up a bit, and then we mellowed out at her place.",
+      "cn": "我和她聊了一会儿，然后我们在她家放松了。"
+    },
+    {
+      "id": 148,
+      "en": "Right on, right on.",
+      "cn": "对的，对的。"
+    },
+    {
+      "id": 149,
+      "en": "Well, Jim went to the rink with Sherry, and he said it was dot-no-mite.",
+      "cn": "好吧，吉姆和雪莉一起去了溜冰场，他说那太棒了。"
+    },
+    {
+      "id": 150,
+      "en": "He was low on bread, but Sherry paid for everything.",
+      "cn": "他缺钱，但雪莉为一切买单。"
+    },
+    {
+      "id": 151,
+      "en": "Gravy!",
+      "cn": "“gravy”!"
+    },
+    {
+      "id": 152,
+      "en": "Jim is such a jive Turkey, man.",
+      "cn": "吉姆真是个无聊的家伙，伙计。"
+    },
+    {
+      "id": 153,
+      "en": "He's always hitting me up for cash.",
+      "cn": "他总是向我借钱。"
+    },
+    {
+      "id": 154,
+      "en": "Anyway, you want to book and go grab some grub?",
+      "cn": "不管怎样，你想“book”去吃点东西吗？"
+    },
+    {
+      "id": 155,
+      "en": "Yeah, man, I'm starving.",
+      "cn": "是的，伙计，我饿坏了。"
+    },
+    {
+      "id": 156,
+      "en": "All right, so now that we understand these six words that we saw in Language Takeaway, it's time for us now to take a look at some great phrases that we can use today in Fluency Builder.",
+      "cn": "好的，现在我们理解了在语言收获中看到的这六个词，是时候看看我们今天可以在流利构建中使用的一些很棒的短语了。"
+    },
+    {
+      "id": 157,
+      "en": "Okay, so at the start of the conversation, there was an interesting way he started talking to his friend, right?",
+      "cn": "好的，所以在对话开始时，他有一个有趣的方式开始和他的朋友交谈，对吧？"
+    },
+    {
+      "id": 158,
+      "en": "All right, he said, How's it hangin'?",
+      "cn": "好吧，他说，怎么样？"
+    },
+    {
+      "id": 159,
+      "en": "How's it hangin'?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 160,
+      "en": "How's it hangin'?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 161,
+      "en": "Okay, so basically, how is it going?",
+      "cn": "好的，所以基本上，怎么样？"
+    },
+    {
+      "id": 162,
+      "en": "How's it going?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 163,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 164,
+      "en": "Now, you notice in the spelling that we do have a G at the end, I-N-G, right?",
+      "cn": "现在，你注意到拼写中我们确实有一个G在最后，I-N-G，对吧？"
+    },
+    {
+      "id": 165,
+      "en": "Yeah, but usually you don't really pronounce the G in this context, because it's very informal.",
+      "cn": "是的，但通常在这种情况下你并不真的发出G的音，因为这非常非正式。"
+    },
+    {
+      "id": 166,
+      "en": "So, how's it hangin'?",
+      "cn": "所以，怎么样？"
+    },
+    {
+      "id": 167,
+      "en": "How's it hangin'?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 168,
+      "en": "So, he said everything was just groovy, and then he started telling him about how he met a girl, and he chat her up a bit.",
+      "cn": "所以，他说一切都很酷，然后他开始告诉他他是如何遇到一个女孩的，他和她聊了一会儿。"
+    },
+    {
+      "id": 169,
+      "en": "To chat her up.",
+      "cn": "和她聊天。"
+    },
+    {
+      "id": 170,
+      "en": "Okay, so to chat somebody up.",
+      "cn": "好的，所以和某人聊天。"
+    },
+    {
+      "id": 171,
+      "en": "So, when you chat someone up, you talk with them, right?",
+      "cn": "所以，当你和某人聊天时，你是在和他们交谈，对吧？"
+    },
+    {
+      "id": 172,
+      "en": "Yeah, you're making conversation.",
+      "cn": "是的，你在进行对话。"
+    },
+    {
+      "id": 173,
+      "en": "But it's more than just conversation, isn't it?",
+      "cn": "但这不仅仅是对话，对吧？"
+    },
+    {
+      "id": 174,
+      "en": "Yeah, you're trying to be a little bit flirty, and maybe say nice romantic phrases, or something like that.",
+      "cn": "是的，你试图有点调情，也许说一些浪漫的短语，或者类似的东西。"
+    },
+    {
+      "id": 175,
+      "en": "Yeah, so usually it's between a woman and a man, right?",
+      "cn": "是的，所以通常是在女人和男人之间，对吧？"
+    },
+    {
+      "id": 176,
+      "en": "And it's the man who chats up the woman.",
+      "cn": "而且是男人在和女人聊天。"
+    },
+    {
+      "id": 177,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 178,
+      "en": "So, a little bit of a sexist phrase here.",
+      "cn": "所以，这里有一点性别歧视的短语。"
+    },
+    {
+      "id": 179,
+      "en": "To chat someone up, or to chat up a girl, right?",
+      "cn": "和某人聊天，或者和女孩聊天，对吧？"
+    },
+    {
+      "id": 180,
+      "en": "Okay, so he was chatting her up.",
+      "cn": "好的，所以他在和她聊天。"
+    },
+    {
+      "id": 181,
+      "en": "That's right, and so they were talking about how Jim went to the roller rink, but he didn't have any money, right?",
+      "cn": "没错，所以他们在谈论吉姆去滑轮溜冰场的事，但他没有钱，对吧？"
+    },
+    {
+      "id": 182,
+      "en": "Because Jim is always hitting his friends up for cash.",
+      "cn": "因为吉姆总是向他的朋友借钱。"
+    },
+    {
+      "id": 183,
+      "en": "Okay, so to hit someone up.",
+      "cn": "好的，所以向某人借钱。"
+    },
+    {
+      "id": 184,
+      "en": "To hit someone up.",
+      "cn": "向某人借钱。"
+    },
+    {
+      "id": 185,
+      "en": "So, before we explain this word, let's listen to some other examples so then we can maybe understand the meaning.",
+      "cn": "所以，在我们解释这个词之前，让我们听一些其他例子，这样我们就可以理解这个意思。"
+    },
+    {
+      "id": 186,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 187,
+      "en": "Can you believe Patrick?",
+      "cn": "你能相信帕特里克吗？"
+    },
+    {
+      "id": 188,
+      "en": "He came up to me a month ago and tried to hit me up for some money.",
+      "cn": "他一个月前来找我，试图向我借钱。"
+    },
+    {
+      "id": 189,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 190,
+      "en": "When I was a kid, I used to always hit my dad up for lunch money.",
+      "cn": "当我还是个孩子的时候，我总是向我爸爸借午餐钱。"
+    },
+    {
+      "id": 191,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 192,
+      "en": "This is the last time I lend you money.",
+      "cn": "这是我最后一次借给你钱。"
+    },
+    {
+      "id": 193,
+      "en": "Don't even try to hit me up for more.",
+      "cn": "你别想再向我借。"
+    },
+    {
+      "id": 194,
+      "en": "All right, so when you hit someone up for something, you ask for it.",
+      "cn": "好的，所以当你向某人借东西时，你是在请求它。"
+    },
+    {
+      "id": 195,
+      "en": "So, usually it's to ask for money.",
+      "cn": "所以，通常是请求钱。"
+    },
+    {
+      "id": 196,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 197,
+      "en": "Okay, so to hit someone up.",
+      "cn": "好的，向某人借东西。"
+    },
+    {
+      "id": 198,
+      "en": "And now for our last phrase.",
+      "cn": "现在是我们最后一个短语。"
+    },
+    {
+      "id": 199,
+      "en": "Let's book and go grab some grub.",
+      "cn": "我们去订餐，吃点东西吧。"
+    },
+    {
+      "id": 200,
+      "en": "To grab some grub.",
+      "cn": "吃点东西。"
+    },
+    {
+      "id": 201,
+      "en": "Grab some grub.",
+      "cn": "吃点东西。"
+    },
+    {
+      "id": 202,
+      "en": "Okay, let's break this one down.",
+      "cn": "好的，我们来分析一下这个。"
+    },
+    {
+      "id": 203,
+      "en": "With the final word grub, what are we talking about?",
+      "cn": "最后一个词“grub”，我们在说什么？"
+    },
+    {
+      "id": 204,
+      "en": "Grub is an informal way of saying food.",
+      "cn": "“Grub”是非正式的说法，意思是食物。"
+    },
+    {
+      "id": 205,
+      "en": "Okay, so to grab some grub is to get some food quickly.",
+      "cn": "好的，吃点东西就是快速获取食物。"
+    },
+    {
+      "id": 206,
+      "en": "Yeah, let's go get some food.",
+      "cn": "是的，我们去吃点东西吧。"
+    },
+    {
+      "id": 207,
+      "en": "All right, so maybe it's time for us to grab some grub.",
+      "cn": "好吧，也许是时候去吃点东西了。"
+    },
+    {
+      "id": 208,
+      "en": "And while we're doing that, you can listen to the dialogue one last time.",
+      "cn": "在我们这样做的时候，你可以最后再听一遍对话。"
+    },
+    {
+      "id": 209,
+      "en": "Hey man, how's it hanging?",
+      "cn": "嘿，伙计，怎么样？"
+    },
+    {
+      "id": 210,
+      "en": "Hey man, everything is just groovy baby.",
+      "cn": "嘿，伙计，一切都很好。"
+    },
+    {
+      "id": 211,
+      "en": "Did you go to the roller rink on Saturday?",
+      "cn": "你星期六去滑冰场了吗？"
+    },
+    {
+      "id": 212,
+      "en": "I heard it was far out, man.",
+      "cn": "我听说那儿很棒，伙计。"
+    },
+    {
+      "id": 213,
+      "en": "I wanted to, but I ran into this foxy lady that just moved to my block.",
+      "cn": "我想去，但我遇到了一个刚搬到我这条街的漂亮女士。"
+    },
+    {
+      "id": 214,
+      "en": "I was chatting her up a bit, and then we mellowed out at her place.",
+      "cn": "我和她聊了一会儿，然后我们在她家放松了。"
+    },
+    {
+      "id": 215,
+      "en": "Right on, right on.",
+      "cn": "太好了，太好了。"
+    },
+    {
+      "id": 216,
+      "en": "Well, Jim went to the rink with Sherry, and he said it was dynamite.",
+      "cn": "嗯，吉姆和雪莉一起去滑冰，他说那儿很棒。"
+    },
+    {
+      "id": 217,
+      "en": "He was low on bread, but Sherry paid for everything.",
+      "cn": "他缺钱，但雪莉付了所有费用。"
+    },
+    {
+      "id": 218,
+      "en": "Gravy!",
+      "cn": "太好了！"
+    },
+    {
+      "id": 219,
+      "en": "Jim is such a Turkey man.",
+      "cn": "吉姆真是个傻瓜。"
+    },
+    {
+      "id": 220,
+      "en": "He's always hitting me up for cash.",
+      "cn": "他总是向我借钱。"
+    },
+    {
+      "id": 221,
+      "en": "Anyway, you want to book and go grab some grub?",
+      "cn": "不管怎样，你想去订餐，吃点东西吗？"
+    },
+    {
+      "id": 222,
+      "en": "Yeah man, I'm starving.",
+      "cn": "是的，伙计，我饿坏了。"
+    },
+    {
+      "id": 223,
+      "en": "All right, so some interesting phrases.",
+      "cn": "好吧，一些有趣的短语。"
+    },
+    {
+      "id": 224,
+      "en": "And even though some of these words you may not really commonly hear anymore, they might still be used in movies or something that's related to the disco era because it's very, very popular still, right?",
+      "cn": "即使这些词你可能不常听到，但它们可能仍在电影或与迪斯科时代相关的东西中使用，因为它们仍然非常流行，对吧？"
+    },
+    {
+      "id": 225,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 226,
+      "en": "Some of our advanced users could even use a lot of these phrases in a kind of funny way to reference back to 1970.",
+      "cn": "我们的一些高级用户甚至可以用这些短语以一种有趣的方式回顾1970年。"
+    },
+    {
+      "id": 227,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 228,
+      "en": "So it's fun and well, you will use them or you will hear them from time to time, even today.",
+      "cn": "所以这很有趣，嗯，你会使用它们，或者你会时不时听到它们，即使在今天。"
+    },
+    {
+      "id": 229,
+      "en": "And remember, if you have any questions about the language you hear in these lessons, check out our website at EnglishPod.com.",
+      "cn": "记住，如果你对这些课程中听到的语言有任何问题，请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 230,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 231,
+      "en": "We're there to answer any questions, and we'll see you guys there.",
+      "cn": "我们会回答任何问题，我们在那里等你们。"
+    },
+    {
+      "id": 232,
+      "en": "Thanks for listening, and until next time, goodbye!",
+      "cn": "感谢收听，下次再见，拜拜！"
+    }
+  ]
+}

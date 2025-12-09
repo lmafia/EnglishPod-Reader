@@ -1,0 +1,1199 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0206",
+  "title": "EnglishPod 初级 英文播客 0206",
+  "totalSegments": 238,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to another lesson here at EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod的另一节课。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Katherine, and today we have an elementary-level lesson all about life with a roommate.",
+      "cn": "我是Katherine，今天我们有一节关于室友生活的初级课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "So sometimes during college, you have to live with a roommate because living alone is too expensive.",
+      "cn": "有时候在大学期间，你必须和室友一起住，因为单独生活太贵了。"
+    },
+    {
+      "id": 6,
+      "en": "Also, after college, I know that a lot of people who are just starting their jobs often live with a roommate to save some money.",
+      "cn": "此外，我知道很多刚开始工作的人的确会和室友一起住以节省一些钱。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "Or maybe your girlfriend could be considered kind of like your romantic roommate.",
+      "cn": "或者你的女朋友也可以被视为你的浪漫室友。"
+    },
+    {
+      "id": 9,
+      "en": "I hope not.",
+      "cn": "我希望不是。"
+    },
+    {
+      "id": 10,
+      "en": "In the sense of today's lesson, we're talking about problems with a roommate.",
+      "cn": "在今天的课程中，我们讨论的是与室友的矛盾。"
+    },
+    {
+      "id": 11,
+      "en": "So let's listen to this dialogue and we'll be back in a moment.",
+      "cn": "让我们听听这个对话，稍后再回来。"
+    },
+    {
+      "id": 12,
+      "en": "Charlie, do you have a second?",
+      "cn": "Charlie，你有空吗？"
+    },
+    {
+      "id": 13,
+      "en": "Yeah, what's up?",
+      "cn": "有，怎么了？"
+    },
+    {
+      "id": 14,
+      "en": "Well, I went and paid the bills today, and you still haven't given me your half.",
+      "cn": "我今天去付账单了，你还没给我你的那一半。"
+    },
+    {
+      "id": 15,
+      "en": "Yeah, I wanted to talk to you about that.",
+      "cn": "是的，我想和你谈谈这个。"
+    },
+    {
+      "id": 16,
+      "en": "I agreed we would go halves on all the bills, but frankly, I think it's unfair.",
+      "cn": "我同意我们分摊所有账单，但坦白说，我觉得这不公平。"
+    },
+    {
+      "id": 17,
+      "en": "Unfair?",
+      "cn": "不公平？"
+    },
+    {
+      "id": 18,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 19,
+      "en": "Well, you have long hair and use the hair dryer every morning.",
+      "cn": "嗯，你有长发，每天早上都用吹风机。"
+    },
+    {
+      "id": 20,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 21,
+      "en": "You leave your computer on all night downloading torrents.",
+      "cn": "你整晚开着电脑下载种子。"
+    },
+    {
+      "id": 22,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 23,
+      "en": "You see what I'm getting at here?",
+      "cn": "你明白我的意思吗？"
+    },
+    {
+      "id": 24,
+      "en": "You leave the air conditioner on day and night.",
+      "cn": "你整天开着空调。"
+    },
+    {
+      "id": 25,
+      "en": "You also take 30-minute showers, which means you're using way more gas and water than me.",
+      "cn": "你还洗30分钟的澡，这意味着你用的煤气和水比我多得多。"
+    },
+    {
+      "id": 26,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "cn": "嗯，既然我们在谈这个，别每个周末都带朋友来喝酒。"
+    },
+    {
+      "id": 27,
+      "en": "You always leave a mess and keep me up all night.",
+      "cn": "你总是留下麻烦，让我整晚无法入睡。"
+    },
+    {
+      "id": 28,
+      "en": "Maybe you should just move out and find another place.",
+      "cn": "也许你应该搬出去，找个新地方。"
+    },
+    {
+      "id": 29,
+      "en": "Maybe you should move out.",
+      "cn": "也许你应该搬出去。"
+    },
+    {
+      "id": 30,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 31,
+      "en": "So we have a couple of different words that we're going to take a look at now in language takeaway.",
+      "cn": "现在我们有几个不同的单词要在语言学习中看看。"
+    },
+    {
+      "id": 32,
+      "en": "Language people don't like it.",
+      "cn": "语言人不喜欢它。"
+    },
+    {
+      "id": 33,
+      "en": "They fear it.",
+      "cn": "他们害怕它。"
+    },
+    {
+      "id": 34,
+      "en": "This is bills.",
+      "cn": "这是账单。"
+    },
+    {
+      "id": 35,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 36,
+      "en": "You have to pay your bills.",
+      "cn": "你必须支付你的账单。"
+    },
+    {
+      "id": 37,
+      "en": "So a bill is the paper that tells you how much you have to pay.",
+      "cn": "所以账单是告诉你需要支付多少的纸。"
+    },
+    {
+      "id": 38,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 39,
+      "en": "So you can have a gas bill.",
+      "cn": "所以你可以有煤气账单。"
+    },
+    {
+      "id": 40,
+      "en": "An electricity bill.",
+      "cn": "电费账单。"
+    },
+    {
+      "id": 41,
+      "en": "A cable bill.",
+      "cn": "有线电视账单。"
+    },
+    {
+      "id": 42,
+      "en": "Or even at the restaurant, you ask for the bill.",
+      "cn": "或者在餐厅，你要求账单。"
+    },
+    {
+      "id": 43,
+      "en": "All right, so this is the amount of money you need to pay.",
+      "cn": "好的，这就是你需要支付的金额。"
+    },
+    {
+      "id": 44,
+      "en": "And usually at the end of the month, you receive many, many bills in the mail and you have to pay the companies like the gas company and the electricity company.",
+      "cn": "通常在月底，你会收到很多账单，你必须支付煤气公司和电力公司。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "So those are bills.",
+      "cn": "所以这些就是账单。"
+    },
+    {
+      "id": 47,
+      "en": "Singular would be a bill.",
+      "cn": "单数是账单。"
+    },
+    {
+      "id": 48,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 49,
+      "en": "And so this is how the argument starts.",
+      "cn": "这就是争论开始的方式。"
+    },
+    {
+      "id": 50,
+      "en": "The two roommates decide that they have to pay the bills, but they don't want to split the bills in half, go halves.",
+      "cn": "两个室友决定他们必须支付账单，但他们不想平分账单。"
+    },
+    {
+      "id": 51,
+      "en": "They have to pay their own.",
+      "cn": "他们必须各自支付。"
+    },
+    {
+      "id": 52,
+      "en": "And so one person says, listen, this isn't fair.",
+      "cn": "所以一个人说，听着，这不公平。"
+    },
+    {
+      "id": 53,
+      "en": "You leave your computer on all night downloading torrents.",
+      "cn": "你整晚开着电脑下载种子。"
+    },
+    {
+      "id": 54,
+      "en": "Okay, so we understand what it is to download something.",
+      "cn": "好的，所以我们明白下载是什么。"
+    },
+    {
+      "id": 55,
+      "en": "You download this podcast, but a torrent, what is that?",
+      "cn": "你下载这个播客，但种子是什么？"
+    },
+    {
+      "id": 56,
+      "en": "That's kind of technical.",
+      "cn": "这有点技术性。"
+    },
+    {
+      "id": 57,
+      "en": "That is.",
+      "cn": "是的。"
+    },
+    {
+      "id": 58,
+      "en": "So a torrent is a kind of file that you can download from the Internet.",
+      "cn": "所以种子是一种你可以从互联网下载的文件。"
+    },
+    {
+      "id": 59,
+      "en": "So basically, when you want to download a movie or some music from the Internet, you go to a website that will connect you to someone who owns this movie or book or music, and they'll have a special file that's called a torrent file.",
+      "cn": "基本上，当你想从互联网下载电影或音乐时，你会去一个网站，它会把你连接到拥有这部电影、书籍或音乐的人，他们会有一个叫做种子文件的特殊文件。"
+    },
+    {
+      "id": 60,
+      "en": "And that's what you download.",
+      "cn": "这就是你下载的东西。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "So it's a new way of downloading files off the Internet from many people, kind of like a peer sharing.",
+      "cn": "所以这是一种从许多人那里下载文件的新方式，有点像对等分享。"
+    },
+    {
+      "id": 63,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 64,
+      "en": "So when one person disappears or goes offline, it shares you with another person.",
+      "cn": "所以当一个人消失或下线时，它会与你分享另一个人。"
+    },
+    {
+      "id": 65,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 66,
+      "en": "So those are torrents.",
+      "cn": "所以这些就是种子。"
+    },
+    {
+      "id": 67,
+      "en": "And now, well, they kept arguing about you have to pay this, I have to pay that.",
+      "cn": "现在，他们继续争论你必须支付这个，我必须支付那个。"
+    },
+    {
+      "id": 68,
+      "en": "So you said, you know what, you should just move out.",
+      "cn": "所以你说，你知道吗，你应该搬出去。"
+    },
+    {
+      "id": 69,
+      "en": "Ooh.",
+      "cn": "哦。"
+    },
+    {
+      "id": 70,
+      "en": "So to move out, this is a phrase that has two words to move out.",
+      "cn": "所以搬出去，这是一个有两个词的短语，搬出去。"
+    },
+    {
+      "id": 71,
+      "en": "It means to leave this house forever, this apartment.",
+      "cn": "意思是永远离开这个房子，这个公寓。"
+    },
+    {
+      "id": 72,
+      "en": "So that means to find a new place to live.",
+      "cn": "这意味着找一个新的住处。"
+    },
+    {
+      "id": 73,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 74,
+      "en": "So I can say, Oh, I'm moving out this weekend.",
+      "cn": "所以我可以说，哦，我这个周末要搬出去。"
+    },
+    {
+      "id": 75,
+      "en": "That means I'm changing apartments.",
+      "cn": "这意味着我在换公寓。"
+    },
+    {
+      "id": 76,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 77,
+      "en": "Or my boyfriend just moved out.",
+      "cn": "或者我男朋友刚搬出去。"
+    },
+    {
+      "id": 78,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 79,
+      "en": "So that was really sad.",
+      "cn": "所以这真的很伤心。"
+    },
+    {
+      "id": 80,
+      "en": "He Now we have a word that is more colloquial of how to say a house or an apartment.",
+      "cn": "现在我们有一个更口语化的词来表示房子或公寓。"
+    },
+    {
+      "id": 81,
+      "en": "This is place.",
+      "cn": "这是地方。"
+    },
+    {
+      "id": 82,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 83,
+      "en": "So you just say a place.",
+      "cn": "所以你只需说一个地方。"
+    },
+    {
+      "id": 84,
+      "en": "So place normally is a location.",
+      "cn": "所以地方通常是一个位置。"
+    },
+    {
+      "id": 85,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 86,
+      "en": "Where is this place?",
+      "cn": "这个地方在哪里？"
+    },
+    {
+      "id": 87,
+      "en": "But we could say, Hey, we're going to have dinner at my place.",
+      "cn": "但我们可以说，嘿，我们要在我家吃晚餐。"
+    },
+    {
+      "id": 88,
+      "en": "Would you like to come?",
+      "cn": "你想来吗？"
+    },
+    {
+      "id": 89,
+      "en": "So that means we're going to have dinner at my house, right?",
+      "cn": "所以这意味着我们要在我家吃晚餐，对吧？"
+    },
+    {
+      "id": 90,
+      "en": "My place, his place, his place, or you have a really nice place.",
+      "cn": "我家，他家，或者你有一个非常好的地方。"
+    },
+    {
+      "id": 91,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 92,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 93,
+      "en": "That means you have a really nice house.",
+      "cn": "这意味着你有一个非常好的房子。"
+    },
+    {
+      "id": 94,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 95,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 96,
+      "en": "So four key words today.",
+      "cn": "所以今天四个关键词。"
+    },
+    {
+      "id": 97,
+      "en": "When we listen to the dialogue again, and we'll be back in a little bit.",
+      "cn": "我们再听一遍对话，稍后再回来。"
+    },
+    {
+      "id": 98,
+      "en": "Charlie, do you have a second?",
+      "cn": "Charlie，你有空吗？"
+    },
+    {
+      "id": 99,
+      "en": "Yeah.",
+      "cn": "有。"
+    },
+    {
+      "id": 100,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 101,
+      "en": "Well, I went and paid the bills today and you still haven't given me your half.",
+      "cn": "我今天去付账单了，你还没给我你那一半。"
+    },
+    {
+      "id": 102,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 103,
+      "en": "I wanted to talk to you about that.",
+      "cn": "我想和你谈谈这个。"
+    },
+    {
+      "id": 104,
+      "en": "I agreed we would go halves on all the bills, but frankly, I think it's unfair.",
+      "cn": "我同意我们分摊所有账单，但坦白说，我觉得这不公平。"
+    },
+    {
+      "id": 105,
+      "en": "Unfair?",
+      "cn": "不公平？"
+    },
+    {
+      "id": 106,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 107,
+      "en": "Well, you have long hair and use the hairdryer every morning.",
+      "cn": "嗯，你有长头发，每天早上用吹风机。"
+    },
+    {
+      "id": 108,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 109,
+      "en": "You leave your computer on all night downloading torrents.",
+      "cn": "你整晚开着电脑下载种子。"
+    },
+    {
+      "id": 110,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 111,
+      "en": "You see what I'm getting at here?",
+      "cn": "你明白我的意思吗？"
+    },
+    {
+      "id": 112,
+      "en": "You leave the air conditioner on day and night.",
+      "cn": "你整天开着空调。"
+    },
+    {
+      "id": 113,
+      "en": "You also take 30 minute showers, which means you're using way more gas and water than me.",
+      "cn": "你还洗30分钟的澡，这意味着你用的气和水比我多得多。"
+    },
+    {
+      "id": 114,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "cn": "嗯，既然我们在谈这个，别每个周末都带朋友来喝酒。"
+    },
+    {
+      "id": 115,
+      "en": "You always leave a mess and keep me up all night.",
+      "cn": "你总是留下麻烦，让我整晚睡不着。"
+    },
+    {
+      "id": 116,
+      "en": "Maybe you should just move out and find another place.",
+      "cn": "也许你应该搬出去找个地方。"
+    },
+    {
+      "id": 117,
+      "en": "Maybe you should move out.",
+      "cn": "也许你该搬出去。"
+    },
+    {
+      "id": 118,
+      "en": "All right, we are back and we've got some great phrases today coming up in Fluency Builder, so let's take a look at some of those.",
+      "cn": "好吧，我们回来了，今天在流利表达中有一些很棒的短语，来看看其中的一些。"
+    },
+    {
+      "id": 119,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 120,
+      "en": "All right, so the first phrase that we have, very common, very, very common, but also very difficult for English learners to answer this question.",
+      "cn": "好吧，第一个短语，非常常见，但对英语学习者来说也很难回答这个问题。"
+    },
+    {
+      "id": 121,
+      "en": "All right, what's up?",
+      "cn": "好吧，怎么了？"
+    },
+    {
+      "id": 122,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 123,
+      "en": "So if somebody says, what's up, what does that mean?",
+      "cn": "如果有人问，怎么了，这是什么意思？"
+    },
+    {
+      "id": 124,
+      "en": "That means, what's going on?",
+      "cn": "这意味着，发生了什么？"
+    },
+    {
+      "id": 125,
+      "en": "What's new?",
+      "cn": "有什么新鲜事？"
+    },
+    {
+      "id": 126,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 127,
+      "en": "How is it going?",
+      "cn": "过得怎么样？"
+    },
+    {
+      "id": 128,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 129,
+      "en": "Hi.",
+      "cn": "嗨。"
+    },
+    {
+      "id": 130,
+      "en": "So how should you answer this?",
+      "cn": "那么你应该怎么回答呢？"
+    },
+    {
+      "id": 131,
+      "en": "Okay, so think of what's up as being a question about what's new?",
+      "cn": "好吧，把怎么了看作是一个关于新鲜事的问题。"
+    },
+    {
+      "id": 132,
+      "en": "What's happening?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 133,
+      "en": "You can say, what's up?",
+      "cn": "你可以说，怎么了？"
+    },
+    {
+      "id": 134,
+      "en": "Oh, not much.",
+      "cn": "哦，没什么。"
+    },
+    {
+      "id": 135,
+      "en": "Not much.",
+      "cn": "没什么。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, what's up means, what's new?",
+      "cn": "好的，怎么了意味着，有什么新鲜事？"
+    },
+    {
+      "id": 137,
+      "en": "Oh, not much is new.",
+      "cn": "哦，没什么新鲜事。"
+    },
+    {
+      "id": 138,
+      "en": "Not much.",
+      "cn": "没什么。"
+    },
+    {
+      "id": 139,
+      "en": "Everything is the same.",
+      "cn": "一切都一样。"
+    },
+    {
+      "id": 140,
+      "en": "Or what's up?",
+      "cn": "或者怎么了？"
+    },
+    {
+      "id": 141,
+      "en": "You could say, hey, hi, how are you?",
+      "cn": "你可以说，嘿，嗨，你好吗？"
+    },
+    {
+      "id": 142,
+      "en": "It's another way to say hi.",
+      "cn": "这也是打招呼的一种方式。"
+    },
+    {
+      "id": 143,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 144,
+      "en": "But you can't say, this guy.",
+      "cn": "但你不能说，这家伙。"
+    },
+    {
+      "id": 145,
+      "en": "Right, or sometimes English learners will say, fine, thank you, because they think that what's up means, how are you?",
+      "cn": "对，或者有时英语学习者会说，好的，谢谢，因为他们认为怎么了意味着，你好吗？"
+    },
+    {
+      "id": 146,
+      "en": "No, that's different.",
+      "cn": "不，这不一样。"
+    },
+    {
+      "id": 147,
+      "en": "So you cannot say, fine, thank you, fine, well, these are words about how, that answer how are you questions, but this isn't a how are you question.",
+      "cn": "所以你不能说，好的，谢谢，好的，这些是回答你好吗问题的词，但这不是一个你好吗的问题。"
+    },
+    {
+      "id": 148,
+      "en": "This is a what's new question.",
+      "cn": "这是一个有什么新鲜事的问题。"
+    },
+    {
+      "id": 149,
+      "en": "What's new?",
+      "cn": "有什么新鲜事？"
+    },
+    {
+      "id": 150,
+      "en": "Or, hi.",
+      "cn": "或者，嗨。"
+    },
+    {
+      "id": 151,
+      "en": "Okay, so somebody says, what's up?",
+      "cn": "好的，所以有人问，怎么了？"
+    },
+    {
+      "id": 152,
+      "en": "You can say, not much.",
+      "cn": "你可以说，没什么。"
+    },
+    {
+      "id": 153,
+      "en": "Or you can say, hey, what's up?",
+      "cn": "或者你可以说，嘿，怎么了？"
+    },
+    {
+      "id": 154,
+      "en": "You can say, what's up back?",
+      "cn": "你可以说，怎么了？"
+    },
+    {
+      "id": 155,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 156,
+      "en": "What's up with you?",
+      "cn": "你怎么样？"
+    },
+    {
+      "id": 157,
+      "en": "Yeah, what's up with you?",
+      "cn": "是的，你怎么样？"
+    },
+    {
+      "id": 158,
+      "en": "Okay, so that's our first phrase.",
+      "cn": "好的，这是我们的第一个短语。"
+    },
+    {
+      "id": 159,
+      "en": "Now, when the guy was talking about the hairdryer and the computer, he finished off that paragraph by saying, you see what I'm getting at here?",
+      "cn": "现在，当那个人谈到吹风机和电脑时，他在那段话的结尾说，你明白我的意思吗？"
+    },
+    {
+      "id": 160,
+      "en": "Okay, you're doing this.",
+      "cn": "好吧，你在做这个。"
+    },
+    {
+      "id": 161,
+      "en": "You use the hairdryer.",
+      "cn": "你用吹风机。"
+    },
+    {
+      "id": 162,
+      "en": "You leave the computer on.",
+      "cn": "你开着电脑。"
+    },
+    {
+      "id": 163,
+      "en": "Do you see what I'm getting at here?",
+      "cn": "你明白我的意思吗？"
+    },
+    {
+      "id": 164,
+      "en": "This phrase, do you see what I'm getting at?",
+      "cn": "这个短语，你明白我的意思吗？"
+    },
+    {
+      "id": 165,
+      "en": "It means, do you understand what I'm talking about?",
+      "cn": "意思是，你明白我在说什么吗？"
+    },
+    {
+      "id": 166,
+      "en": "Do you see my point?",
+      "cn": "你明白我的观点吗？"
+    },
+    {
+      "id": 167,
+      "en": "That means, I haven't said exactly what I mean, but you should understand what I'm saying.",
+      "cn": "这意味着，我没有确切地说出我的意思，但你应该理解我在说什么。"
+    },
+    {
+      "id": 168,
+      "en": "So he's saying, you're wasting electricity.",
+      "cn": "所以他说，你在浪费电。"
+    },
+    {
+      "id": 169,
+      "en": "You use all of these services more than I do.",
+      "cn": "你使用这些服务比我多。"
+    },
+    {
+      "id": 170,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 171,
+      "en": "And we could say, maybe Marco didn't get a good grade in his English test last week.",
+      "cn": "我们可以说，也许马尔科上周的英语考试没考好。"
+    },
+    {
+      "id": 172,
+      "en": "And I say, listen, maybe it has to do with your study habits, or how much you love video games, or how little time you spend at school.",
+      "cn": "我说，听着，也许这和你的学习习惯有关，或者你有多喜欢视频游戏，或者你在学校花的时间有多少。"
+    },
+    {
+      "id": 173,
+      "en": "Do you see what I'm getting at?",
+      "cn": "你明白我的意思吗？"
+    },
+    {
+      "id": 174,
+      "en": "Okay, so you're not saying directly that I don't study.",
+      "cn": "好吧，所以你并没有直接说我不学习。"
+    },
+    {
+      "id": 175,
+      "en": "You're just telling me the reasons, maybe why, as to I'm not studying.",
+      "cn": "你只是告诉我原因，也许为什么我不学习。"
+    },
+    {
+      "id": 176,
+      "en": "Right, like a hint.",
+      "cn": "对，就像一个暗示。"
+    },
+    {
+      "id": 177,
+      "en": "Okay, so that's what you say when you don't tell somebody directly what the problem is.",
+      "cn": "好吧，这就是你在不直接告诉某人问题是什么时所说的。"
+    },
+    {
+      "id": 178,
+      "en": "You say, you see what I'm getting at here?",
+      "cn": "你说，你明白我的意思吗？"
+    },
+    {
+      "id": 179,
+      "en": "Do you see what I'm getting at?",
+      "cn": "你明白我的意思吗？"
+    },
+    {
+      "id": 180,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 181,
+      "en": "Getting at means hinting.",
+      "cn": "意思是暗示。"
+    },
+    {
+      "id": 182,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 183,
+      "en": "Okay, and our last phrase, when they kept talking about the bills, one of the persons said, you are using way more gas and water than me.",
+      "cn": "好的，最后一个短语，当他们继续谈论账单时，有一个人说，你用的气和水比我多得多。"
+    },
+    {
+      "id": 184,
+      "en": "So what about this, way more?",
+      "cn": "那么这个，\"多得多\"呢？"
+    },
+    {
+      "id": 185,
+      "en": "Way more.",
+      "cn": "多得多。"
+    },
+    {
+      "id": 186,
+      "en": "Way means much, or a lot.",
+      "cn": "\"多\"意味着很多，或非常多。"
+    },
+    {
+      "id": 187,
+      "en": "So we could say, you are using a lot more water than I am.",
+      "cn": "所以我们可以说，你用的水比我多得多。"
+    },
+    {
+      "id": 188,
+      "en": "Or, you're using way more water.",
+      "cn": "或者，你用的水多得多。"
+    },
+    {
+      "id": 189,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 190,
+      "en": "This is very spoken language.",
+      "cn": "这非常口语化。"
+    },
+    {
+      "id": 191,
+      "en": "This is not written language, so don't write this down on your tests, but a way more means a lot more, much more.",
+      "cn": "这不是书面语言，所以不要在考试中写下这个，但\"多得多\"意味着很多更多，或更大。"
+    },
+    {
+      "id": 192,
+      "en": "Okay, you can say, Bob is way more attractive than Bill.",
+      "cn": "好的，你可以说，鲍勃比比尔更有吸引力。"
+    },
+    {
+      "id": 193,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 194,
+      "en": "Or, this is way more interesting than that show.",
+      "cn": "或者，这比那个节目有趣得多。"
+    },
+    {
+      "id": 195,
+      "en": "Okay, so you can say way more instead of much more or a lot more, but it's usually spoken English.",
+      "cn": "好的，所以你可以说\"多得多\"而不是\"很多\"或\"更多\"，但这通常是口语英语。"
+    },
+    {
+      "id": 196,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 197,
+      "en": "Alright, let's listen to our dialogue for the last time, and we'll be back in a bit to talk a little bit more.",
+      "cn": "好吧，让我们最后一次听我们的对话，稍后我们会回来再聊聊。"
+    },
+    {
+      "id": 198,
+      "en": "Charlie, do you have a second?",
+      "cn": "Charlie，你有时间吗？"
+    },
+    {
+      "id": 199,
+      "en": "Yeah, what's up?",
+      "cn": "有啊，怎么了？"
+    },
+    {
+      "id": 200,
+      "en": "Well, I went and paid the bills today, and you still haven't given me your half.",
+      "cn": "嗯，我今天去付账单了，你还没给我你的那一半。"
+    },
+    {
+      "id": 201,
+      "en": "Yeah, I wanted to talk to you about that.",
+      "cn": "是的，我想和你谈谈这个。"
+    },
+    {
+      "id": 202,
+      "en": "I agreed we would go halves on all the bills, but frankly I think it's unfair.",
+      "cn": "我同意我们分摊所有账单，但坦白说，我觉得这不公平。"
+    },
+    {
+      "id": 203,
+      "en": "Unfair?",
+      "cn": "不公平？"
+    },
+    {
+      "id": 204,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 205,
+      "en": "Well, you have long hair and use the hairdryer every morning.",
+      "cn": "嗯，你有长发，每天早上都用吹风机。"
+    },
+    {
+      "id": 206,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 207,
+      "en": "You leave your computer on all night downloading torrents.",
+      "cn": "你整晚开着电脑下载种子。"
+    },
+    {
+      "id": 208,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 209,
+      "en": "You see what I'm getting at here?",
+      "cn": "你明白我在说什么吗？"
+    },
+    {
+      "id": 210,
+      "en": "You leave the air conditioner on day and night.",
+      "cn": "你整天开着空调。"
+    },
+    {
+      "id": 211,
+      "en": "You also take 30-minute showers, which means you're using way more gas and water than me.",
+      "cn": "你还洗30分钟的澡，这意味着你用的气和水比我多得多。"
+    },
+    {
+      "id": 212,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "cn": "嗯，既然我们在谈这个，别每个周末都带朋友来喝酒。"
+    },
+    {
+      "id": 213,
+      "en": "You always leave a mess and keep me up all night.",
+      "cn": "你总是留下麻烦，让我整晚无法入睡。"
+    },
+    {
+      "id": 214,
+      "en": "Maybe you should just move out and find another place.",
+      "cn": "也许你应该搬出去找个地方。"
+    },
+    {
+      "id": 215,
+      "en": "Maybe you should move out.",
+      "cn": "也许你应该搬出去。"
+    },
+    {
+      "id": 216,
+      "en": "So Marco, have you ever had any of these problems with a roommate?",
+      "cn": "Marco，你有过和室友的这些问题吗？"
+    },
+    {
+      "id": 217,
+      "en": "I've actually stayed away from roommates because of issues like this.",
+      "cn": "其实我一直避免和室友住，因为有这样的麻烦。"
+    },
+    {
+      "id": 218,
+      "en": "You mean you have not had many roommates because you're afraid of this situation?",
+      "cn": "你是说你没有很多室友，因为你害怕这种情况？"
+    },
+    {
+      "id": 219,
+      "en": "Yeah, I've always actually tried to live on my own by myself, like in a small apartment or studio, or if I have to have a roommate, maybe just like one.",
+      "cn": "是的，我一直试图自己住，比如在小公寓或单间，如果必须有室友，也许就一个。"
+    },
+    {
+      "id": 220,
+      "en": "Not like a house full of roommates, because I think the more people there are, the little bit more complicated it gets.",
+      "cn": "不是一屋子室友，因为我觉得人越多，事情就越复杂。"
+    },
+    {
+      "id": 221,
+      "en": "And if it's just two, you know, it's a little bit simpler.",
+      "cn": "如果只有两个人，你知道，这就简单多了。"
+    },
+    {
+      "id": 222,
+      "en": "This is true, although sometimes I think it depends on the people that you're sharing a house with.",
+      "cn": "这是真的，尽管有时我觉得这取决于你和谁合租。"
+    },
+    {
+      "id": 223,
+      "en": "I've had one awkward experience where people did not want to pay, ever.",
+      "cn": "我有过一次尴尬的经历，有人从来不想付钱。"
+    },
+    {
+      "id": 224,
+      "en": "And they were always late with their payments, and one situation where people were very good about it, so always remembered and were very helpful.",
+      "cn": "他们总是迟交，另外有一次人们非常守信用，所以总是记得并且很乐于助人。"
+    },
+    {
+      "id": 225,
+      "en": "So it really depends.",
+      "cn": "所以这真的取决于情况。"
+    },
+    {
+      "id": 226,
+      "en": "Yeah, I think it's hard to live with someone always, of course.",
+      "cn": "是的，我觉得和人一起生活总是很难，当然。"
+    },
+    {
+      "id": 227,
+      "en": "Even if you start living with your girlfriend or boyfriend, or you get married, it's kind of different to live with someone, you know?",
+      "cn": "即使你开始和女朋友或男朋友同居，或者结婚，和某人一起生活也是不同的，你知道吗？"
+    },
+    {
+      "id": 228,
+      "en": "And especially money-wise, I think it always complicates things with people.",
+      "cn": "尤其是涉及金钱时，我觉得这总是让事情变得复杂。"
+    },
+    {
+      "id": 229,
+      "en": "Definitely.",
+      "cn": "绝对如此。"
+    },
+    {
+      "id": 230,
+      "en": "So I think you're right, though.",
+      "cn": "所以我觉得你是对的。"
+    },
+    {
+      "id": 231,
+      "en": "If there's two people, it's very easy to share the bills, but if there's five people or six people, it's very hard to find out who spent more money or what the rules are.",
+      "cn": "如果有两个人，分账单很简单，但如果有五六个人，就很难弄清楚谁花了更多的钱或规则是什么。"
+    },
+    {
+      "id": 232,
+      "en": "Yeah, so it can get a little bit complicated, but I'm sure a lot of our listeners have probably had roommates before, maybe in college, maybe even now.",
+      "cn": "是的，所以这可能会变得有点复杂，但我相信我们的很多听众可能以前有过室友，也许在大学，甚至现在。"
+    },
+    {
+      "id": 233,
+      "en": "So let's hear those experiences and maybe those good and bad stories about living with other people.",
+      "cn": "所以让我们听听那些经历，也许是关于和其他人一起生活的好坏故事。"
+    },
+    {
+      "id": 234,
+      "en": "So please get in touch with us.",
+      "cn": "所以请与我们联系。"
+    },
+    {
+      "id": 235,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是EnglishPod.com。"
+    },
+    {
+      "id": 236,
+      "en": "There's lots of places for you to ask questions and to post your own experiences with roommates.",
+      "cn": "有很多地方可以让你提问和分享你与室友的经历。"
+    },
+    {
+      "id": 237,
+      "en": "We hope to see you there, and until next time.",
+      "cn": "我们希望在那里见到你，直到下次。"
+    },
+    {
+      "id": 238,
+      "en": "Bye, everyone.",
+      "cn": "再见，大家。"
+    }
+  ]
+}

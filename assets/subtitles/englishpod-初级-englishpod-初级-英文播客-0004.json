@@ -1,0 +1,774 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0004",
+  "title": "Englishpod 初级 英文播客 0004",
+  "totalSegments": 153,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "I'm Amira.",
+      "cn": "我是Amira。"
+    },
+    {
+      "id": 4,
+      "en": "Hey, Amira.",
+      "cn": "嗨，Amira。"
+    },
+    {
+      "id": 5,
+      "en": "How are you today?",
+      "cn": "你今天怎么样？"
+    },
+    {
+      "id": 6,
+      "en": "I'm doing great.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 7,
+      "en": "What about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 8,
+      "en": "I'm doing pretty good.",
+      "cn": "我也不错。"
+    },
+    {
+      "id": 9,
+      "en": "I'm excited about this lesson that you have for us today.",
+      "cn": "我对你今天为我们准备的这节课很期待。"
+    },
+    {
+      "id": 10,
+      "en": "Yes, it's actually a very, very useful lesson.",
+      "cn": "是的，这实际上是一节非常有用的课。"
+    },
+    {
+      "id": 11,
+      "en": "It's about someone asking his boss for an assistant.",
+      "cn": "这是关于某人向他的老板请求一个助手。"
+    },
+    {
+      "id": 12,
+      "en": "Oh, okay, an assistant.",
+      "cn": "哦，好吧，一个助手。"
+    },
+    {
+      "id": 13,
+      "en": "What's an assistant?",
+      "cn": "什么是助手？"
+    },
+    {
+      "id": 14,
+      "en": "Well, it's someone who helps you with your work around the office.",
+      "cn": "嗯，就是帮助你处理办公室工作的人。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 16,
+      "en": "So let's listen to this dialogue.",
+      "cn": "那我们来听这个对话吧。"
+    },
+    {
+      "id": 17,
+      "en": "And when we come back, we'll take a look at all the interesting and useful vocabulary that you'll find.",
+      "cn": "回来后，我们将看看所有有趣和有用的词汇。"
+    },
+    {
+      "id": 18,
+      "en": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "cn": "就像我之前告诉你的，我们没有资源来雇你一个助手。"
+    },
+    {
+      "id": 19,
+      "en": "I understand that.",
+      "cn": "我明白。"
+    },
+    {
+      "id": 20,
+      "en": "But the fact is, we're understaffed.",
+      "cn": "但事实是，我们人手不足。"
+    },
+    {
+      "id": 21,
+      "en": "The timing is just not right.",
+      "cn": "时机不对。"
+    },
+    {
+      "id": 22,
+      "en": "The economy's bad, and it's too risky to take on new staff.",
+      "cn": "经济不好，雇新员工风险太大。"
+    },
+    {
+      "id": 23,
+      "en": "Yeah, I guess you're right.",
+      "cn": "是的，我想你是对的。"
+    },
+    {
+      "id": 24,
+      "en": "Here's an idea.",
+      "cn": "我有个主意。"
+    },
+    {
+      "id": 25,
+      "en": "What if we hire an intern?",
+      "cn": "如果我们雇一个实习生呢？"
+    },
+    {
+      "id": 26,
+      "en": "She would take some of the weight off my shoulders.",
+      "cn": "她可以减轻我的一些负担。"
+    },
+    {
+      "id": 27,
+      "en": "She?",
+      "cn": "她？"
+    },
+    {
+      "id": 28,
+      "en": "Yeah, you know, a recent graduate, she could give me a hand with some of these projects, and we could keep our costs down.",
+      "cn": "是的，你知道的，最近毕业的，她可以帮我处理一些项目，我们可以控制成本。"
+    },
+    {
+      "id": 29,
+      "en": "That sounds reasonable.",
+      "cn": "听起来合理。"
+    },
+    {
+      "id": 30,
+      "en": "Let me see what I can do.",
+      "cn": "让我看看我能做什么。"
+    },
+    {
+      "id": 31,
+      "en": "Tony, I'd like to introduce you to your new assistant.",
+      "cn": "Tony，我想介绍你认识你新的助手。"
+    },
+    {
+      "id": 32,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 33,
+      "en": "Let's meet her.",
+      "cn": "让我们见见她。"
+    },
+    {
+      "id": 34,
+      "en": "Hi, I'm Adam.",
+      "cn": "嗨，我是Adam。"
+    },
+    {
+      "id": 35,
+      "en": "Oh, hi, I'm Tony.",
+      "cn": "哦，嗨，我是Tony。"
+    },
+    {
+      "id": 36,
+      "en": "And we're back, Tony.",
+      "cn": "我们回来了，Tony。"
+    },
+    {
+      "id": 37,
+      "en": "He's surprised, huh?",
+      "cn": "他很惊讶，是吧？"
+    },
+    {
+      "id": 38,
+      "en": "Yeah, he's I don't know why, though, he's surprised.",
+      "cn": "是的，我不知道为什么，他很惊讶。"
+    },
+    {
+      "id": 39,
+      "en": "I think we should talk about that a little bit later.",
+      "cn": "我想我们应该稍后再谈这个。"
+    },
+    {
+      "id": 40,
+      "en": "Yes, for now, let's look at some interesting vocabulary and phrases here.",
+      "cn": "是的，暂时让我们看看这里一些有趣的词汇和短语。"
+    },
+    {
+      "id": 41,
+      "en": "Marco, I know you've chosen one for us.",
+      "cn": "Marco，我知道你为我们选择了一个。"
+    },
+    {
+      "id": 42,
+      "en": "Yeah, the first one that I want to take a look at is resources.",
+      "cn": "是的，我想先看看的是资源。"
+    },
+    {
+      "id": 43,
+      "en": "resources, resources, resources.",
+      "cn": "资源，资源，资源。"
+    },
+    {
+      "id": 44,
+      "en": "And that means in this text, basically money, right?",
+      "cn": "在这段文本中，这基本上是指钱，对吧？"
+    },
+    {
+      "id": 45,
+      "en": "So the office doesn't have enough money.",
+      "cn": "所以办公室没有足够的钱。"
+    },
+    {
+      "id": 46,
+      "en": "Okay, I've chosen another interesting word for you.",
+      "cn": "好的，我为你选择了另一个有趣的词。"
+    },
+    {
+      "id": 47,
+      "en": "And that's understaffed, understaffed, understaffed, understaffed.",
+      "cn": "那就是人手不足，人手不足，人手不足，人手不足。"
+    },
+    {
+      "id": 48,
+      "en": "Now, understaffed means that they don't have enough people working there.",
+      "cn": "现在，人手不足意味着他们没有足够的人在那工作。"
+    },
+    {
+      "id": 49,
+      "en": "They don't have enough workers, right?",
+      "cn": "他们没有足够的工人，对吧？"
+    },
+    {
+      "id": 50,
+      "en": "They don't have enough employees.",
+      "cn": "他们没有足够的员工。"
+    },
+    {
+      "id": 51,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 52,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 53,
+      "en": "The next one is timing is just not right.",
+      "cn": "下一个是时机不对。"
+    },
+    {
+      "id": 54,
+      "en": "The timing is just not right.",
+      "cn": "时机不对。"
+    },
+    {
+      "id": 55,
+      "en": "The timing is just not right.",
+      "cn": "时机不对。"
+    },
+    {
+      "id": 56,
+      "en": "The timing is just not right.",
+      "cn": "时机不对。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, let's listen to how we can use this entire phrase in a different situation.",
+      "cn": "好的，让我们听听如何在不同情况下使用这个完整的短语。"
+    },
+    {
+      "id": 58,
+      "en": "So then we can understand what it means.",
+      "cn": "这样我们就能理解它的意思。"
+    },
+    {
+      "id": 59,
+      "en": "Let's listen.",
+      "cn": "我们来听听。"
+    },
+    {
+      "id": 60,
+      "en": "I was going to sell my house, but the timing is just not right.",
+      "cn": "我本打算卖掉我的房子，但时机不对。"
+    },
+    {
+      "id": 61,
+      "en": "Honey, I think we should have a baby.",
+      "cn": "亲爱的，我觉得我们应该要个孩子。"
+    },
+    {
+      "id": 62,
+      "en": "The timing is just not right.",
+      "cn": "时机不对。"
+    },
+    {
+      "id": 63,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 64,
+      "en": "I guess that makes it clear.",
+      "cn": "我想这很清楚。"
+    },
+    {
+      "id": 65,
+      "en": "Yes, actually, it's very obvious that it means that it's just not a good time.",
+      "cn": "是的，实际上，很明显这意味着现在不是个好时机。"
+    },
+    {
+      "id": 66,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 67,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 68,
+      "en": "I have another interesting phrase for you, which is weight off my shoulders.",
+      "cn": "我还有另一个有趣的短语给你，那就是减轻我的负担。"
+    },
+    {
+      "id": 69,
+      "en": "Weight off my shoulders.",
+      "cn": "减轻我的负担。"
+    },
+    {
+      "id": 70,
+      "en": "Weight off my shoulders.",
+      "cn": "减轻我的负担。"
+    },
+    {
+      "id": 71,
+      "en": "Weight off my shoulders.",
+      "cn": "减轻我的负担。"
+    },
+    {
+      "id": 72,
+      "en": "So to take weight off my shoulders is another way of saying to help me with my work or to take some of my work away from me.",
+      "cn": "所以减轻我的负担是另一种说法，表示帮助我工作或减轻我的一些工作。"
+    },
+    {
+      "id": 73,
+      "en": "If you have a lot of things to do and I come and help you, that means that I took some of the weight off your shoulders.",
+      "cn": "如果你有很多事情要做，而我来帮你，那就意味着我减轻了你的负担。"
+    },
+    {
+      "id": 74,
+      "en": "Let's look at the next phrase that we have here, and it's give me a hand.",
+      "cn": "让我们看看下一个短语，就是帮我一个忙。"
+    },
+    {
+      "id": 75,
+      "en": "Give me a hand.",
+      "cn": "帮我一个忙。"
+    },
+    {
+      "id": 76,
+      "en": "Give me a hand.",
+      "cn": "帮我一个忙。"
+    },
+    {
+      "id": 77,
+      "en": "Give me a hand.",
+      "cn": "帮我一个忙。"
+    },
+    {
+      "id": 78,
+      "en": "Okay, now this is not literal.",
+      "cn": "好的，这不是字面意思。"
+    },
+    {
+      "id": 79,
+      "en": "It's not that I'm going to give you somebody's hand, right?",
+      "cn": "不是说我要给你某人的手，对吧？"
+    },
+    {
+      "id": 80,
+      "en": "Let's listen to some examples and then we can come back and explain what it means.",
+      "cn": "让我们听一些例子，然后我们可以回来解释它的意思。"
+    },
+    {
+      "id": 81,
+      "en": "Can you give me a hand with these boxes?",
+      "cn": "你能帮我搬这些箱子吗？"
+    },
+    {
+      "id": 82,
+      "en": "Neil, I'll need you to give me a hand with the sales reports.",
+      "cn": "Neil，我需要你帮我处理销售报告。"
+    },
+    {
+      "id": 83,
+      "en": "Here, let me give you a hand with your suitcase.",
+      "cn": "来吧，让我帮你提行李。"
+    },
+    {
+      "id": 84,
+      "en": "All right, give me a hand is another way of saying help or to help out.",
+      "cn": "好吧，帮我一个忙是另一种说法，表示帮助或帮忙。"
+    },
+    {
+      "id": 85,
+      "en": "Exactly, to help out.",
+      "cn": "正是，帮忙。"
+    },
+    {
+      "id": 86,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 87,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 88,
+      "en": "Now, the last phrase we're going to look at here in this dialogue is keep our costs down.",
+      "cn": "现在，我们要在这个对话中看的最后一个短语是控制我们的成本。"
+    },
+    {
+      "id": 89,
+      "en": "Keep our costs down.",
+      "cn": "控制我们的成本。"
+    },
+    {
+      "id": 90,
+      "en": "Keep our costs down.",
+      "cn": "控制我们的成本。"
+    },
+    {
+      "id": 91,
+      "en": "Keep our costs down.",
+      "cn": "控制我们的成本。"
+    },
+    {
+      "id": 92,
+      "en": "So to keep our costs down means to try and not spend so much money.",
+      "cn": "所以控制我们的成本意味着尽量不花太多钱。"
+    },
+    {
+      "id": 93,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 94,
+      "en": "Many companies, for example, now control how much printing you do.",
+      "cn": "例如，许多公司现在控制你打印的数量。"
+    },
+    {
+      "id": 95,
+      "en": "Yes, right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 96,
+      "en": "To keep the costs down of paper.",
+      "cn": "以控制纸张的成本。"
+    },
+    {
+      "id": 97,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 98,
+      "en": "So in other words, they do not want to have unnecessary spending.",
+      "cn": "换句话说，他们不想有不必要的开支。"
+    },
+    {
+      "id": 99,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 100,
+      "en": "OK, I think it's time for us to listen to this dialogue one more time.",
+      "cn": "好吧，我想是时候再听一次这个对话了。"
+    },
+    {
+      "id": 101,
+      "en": "But I want everyone to listen and see why Tony is surprised at the end when he meets his intern, when he meets his assistant.",
+      "cn": "但我希望大家听听，为什么托尼在最后见到他的实习生和助理时会感到惊讶。"
+    },
+    {
+      "id": 102,
+      "en": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "cn": "就像我之前告诉你的，我们真的没有资源雇佣你一个助理。"
+    },
+    {
+      "id": 103,
+      "en": "I understand that, but the fact is we're understaffed.",
+      "cn": "我明白，但事实是我们人手不足。"
+    },
+    {
+      "id": 104,
+      "en": "The timing is just not right.",
+      "cn": "时机就是不对。"
+    },
+    {
+      "id": 105,
+      "en": "The economy's bad and it's too risky to take on new staff.",
+      "cn": "经济不好，雇佣新员工风险太大。"
+    },
+    {
+      "id": 106,
+      "en": "Yeah, I guess you're right.",
+      "cn": "是的，我想你是对的。"
+    },
+    {
+      "id": 107,
+      "en": "Here's an idea.",
+      "cn": "这里有个主意。"
+    },
+    {
+      "id": 108,
+      "en": "What if we hire an intern?",
+      "cn": "如果我们雇一个实习生呢？"
+    },
+    {
+      "id": 109,
+      "en": "She would take some of the weight off my shoulders.",
+      "cn": "她可以减轻我的一些负担。"
+    },
+    {
+      "id": 110,
+      "en": "She?",
+      "cn": "她？"
+    },
+    {
+      "id": 111,
+      "en": "Yeah, you know, a recent graduate, she could give me a hand with some of these projects and we could keep our costs down.",
+      "cn": "是的，你知道的，最近毕业的，她可以帮我处理一些项目，我们可以降低成本。"
+    },
+    {
+      "id": 112,
+      "en": "That sounds reasonable.",
+      "cn": "听起来合理。"
+    },
+    {
+      "id": 113,
+      "en": "Let me see what I can do.",
+      "cn": "让我看看我能做什么。"
+    },
+    {
+      "id": 114,
+      "en": "Tony, I'd like to introduce you to your new assistant.",
+      "cn": "托尼，我想介绍你认识你的新助理。"
+    },
+    {
+      "id": 115,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 116,
+      "en": "Let's meet her.",
+      "cn": "让我们见见她。"
+    },
+    {
+      "id": 117,
+      "en": "Hi, I'm Adam.",
+      "cn": "嗨，我是亚当。"
+    },
+    {
+      "id": 118,
+      "en": "Oh, hi.",
+      "cn": "哦，嗨。"
+    },
+    {
+      "id": 119,
+      "en": "I'm Tony.",
+      "cn": "我是托尼。"
+    },
+    {
+      "id": 120,
+      "en": "Well, you know, Marco, I think that Tony was really surprised because he was kind of hoping to have a female intern.",
+      "cn": "嗯，你知道，马尔科，我觉得托尼真的很惊讶，因为他有点希望能有一个女实习生。"
+    },
+    {
+      "id": 121,
+      "en": "Yeah, I think that's exactly what he was expecting.",
+      "cn": "是的，我觉得这正是他所期待的。"
+    },
+    {
+      "id": 122,
+      "en": "Maybe this guy is a little bit sexist.",
+      "cn": "也许这个家伙有点性别歧视。"
+    },
+    {
+      "id": 123,
+      "en": "He thought that an intern should be a girl, but instead...",
+      "cn": "他认为实习生应该是女孩，但结果..."
+    },
+    {
+      "id": 124,
+      "en": "Instead he got Adam.",
+      "cn": "结果他得到了亚当。"
+    },
+    {
+      "id": 125,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 126,
+      "en": "And it looks like Adam is really big and really tall because he's got that deep voice.",
+      "cn": "看起来亚当真的很大很高，因为他的声音很低沉。"
+    },
+    {
+      "id": 127,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 128,
+      "en": "An intern, Marco, do you want to elaborate on that?",
+      "cn": "实习生，马尔科，你想详细说明一下吗？"
+    },
+    {
+      "id": 129,
+      "en": "Working at a company with a very low salary or sometimes no salary at all.",
+      "cn": "在一家薪水非常低或有时根本没有薪水的公司工作。"
+    },
+    {
+      "id": 130,
+      "en": "But what you're gaining is experience and you're learning a lot of things.",
+      "cn": "但你获得的是经验，学到了很多东西。"
+    },
+    {
+      "id": 131,
+      "en": "Everyone who has been an intern or had an intern knows that sometimes they are not treated all that well.",
+      "cn": "每个曾经做过实习生或有实习生的人都知道，有时他们并没有得到很好的对待。"
+    },
+    {
+      "id": 132,
+      "en": "Sometimes they just serve coffee or they have to do paperwork.",
+      "cn": "有时他们只是端咖啡，或者必须做文书工作。"
+    },
+    {
+      "id": 133,
+      "en": "Or like photocopying things.",
+      "cn": "或者像复印东西。"
+    },
+    {
+      "id": 134,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 135,
+      "en": "But some internships are really, really cool and some are really good experiences for learning.",
+      "cn": "但有些实习确实非常酷，有些是很好的学习经验。"
+    },
+    {
+      "id": 136,
+      "en": "Yes, definitely.",
+      "cn": "是的，绝对是。"
+    },
+    {
+      "id": 137,
+      "en": "Actually, I know a friend of mine, she used to work as an intern in one of those really big companies.",
+      "cn": "实际上，我有一个朋友，她曾在一家非常大的公司做实习生。"
+    },
+    {
+      "id": 138,
+      "en": "And she told me that she has gained so much experience doing that.",
+      "cn": "她告诉我，她在那样做中获得了很多经验。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah, I mean, even if you don't get paid, the experience that you get is really good.",
+      "cn": "是的，我的意思是，即使你没有得到报酬，你获得的经验也非常好。"
+    },
+    {
+      "id": 140,
+      "en": "And that just opens doors for maybe getting another job.",
+      "cn": "这为你获得另一份工作打开了大门。"
+    },
+    {
+      "id": 141,
+      "en": "Or sometimes the interns get hired by the company to stay because they do such a good job.",
+      "cn": "有时实习生会被公司雇佣留下，因为他们做得很好。"
+    },
+    {
+      "id": 142,
+      "en": "Yeah, I think that's mostly the case, huh?",
+      "cn": "是的，我想这大多数情况下都是这样，对吧？"
+    },
+    {
+      "id": 143,
+      "en": "Yeah, that happened to me once I started working as an intern and after three months I was hired by the company.",
+      "cn": "是的，我开始做实习生后，三个月后就被公司雇佣了。"
+    },
+    {
+      "id": 144,
+      "en": "So it does happen.",
+      "cn": "所以这确实会发生。"
+    },
+    {
+      "id": 145,
+      "en": "So you did a good job.",
+      "cn": "所以你做得很好。"
+    },
+    {
+      "id": 146,
+      "en": "Yeah, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 147,
+      "en": "Alright, folks, we're out of time today.",
+      "cn": "好吧，大家，今天时间到了。"
+    },
+    {
+      "id": 148,
+      "en": "I hope that you enjoyed our lesson and we'll be back tomorrow with another really cool and really interesting lesson from EnglishPod.",
+      "cn": "希望你们喜欢我们的课程，明天我们将带来另一节非常酷和有趣的课程来自EnglishPod。"
+    },
+    {
+      "id": 149,
+      "en": "Don't forget to come to our website at EnglishPod.com where you'll find some really great and interesting resources to help you learn and improve your English even more.",
+      "cn": "不要忘记访问我们的网站EnglishPod.com，在那里你会找到一些非常棒和有趣的资源，帮助你学习和提高你的英语。"
+    },
+    {
+      "id": 150,
+      "en": "Yes, you should definitely do that.",
+      "cn": "是的，你绝对应该这样做。"
+    },
+    {
+      "id": 151,
+      "en": "And Marco and I would love to receive your comments and suggestions that you can leave on our community forum.",
+      "cn": "马尔科和我很乐意收到你们的评论和建议，你可以在我们的社区论坛上留言。"
+    },
+    {
+      "id": 152,
+      "en": "But for now, it's time for us to say bye.",
+      "cn": "但现在，是时候说再见了。"
+    },
+    {
+      "id": 153,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

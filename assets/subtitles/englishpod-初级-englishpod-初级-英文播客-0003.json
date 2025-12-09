@@ -1,0 +1,714 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0003",
+  "title": "Englishpod 初级 英文播客 0003",
+  "totalSegments": 141,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners, and welcome to EnglishPod.",
+      "cn": "你好，英语学习者，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "I'm Amira.",
+      "cn": "我是Amira。"
+    },
+    {
+      "id": 4,
+      "en": "Amira and I are here today with an interesting lesson about a hotel situation.",
+      "cn": "Amira和我今天在这里进行一个关于酒店情况的有趣课程。"
+    },
+    {
+      "id": 5,
+      "en": "Amira, why don't you give us a little bit more information?",
+      "cn": "Amira，你能多给我们一些信息吗？"
+    },
+    {
+      "id": 6,
+      "en": "Well, the situation is taking place in a hotel and someone is checking in and is obtaining an upgrade.",
+      "cn": "好吧，情况发生在一家酒店，有人正在办理入住并获得升级。"
+    },
+    {
+      "id": 7,
+      "en": "An upgrade.",
+      "cn": "升级。"
+    },
+    {
+      "id": 8,
+      "en": "Okay, that's an interesting word.",
+      "cn": "好的，这是个有趣的词。"
+    },
+    {
+      "id": 9,
+      "en": "Why don't we listen to the dialogue and then we'll come back and explain all this vocabulary.",
+      "cn": "我们不如先听听对话，然后再回来解释这些词汇。"
+    },
+    {
+      "id": 10,
+      "en": "Good afternoon.",
+      "cn": "下午好。"
+    },
+    {
+      "id": 11,
+      "en": "What can I do for you?",
+      "cn": "我能为您做些什么？"
+    },
+    {
+      "id": 12,
+      "en": "I'd like to check in, please.",
+      "cn": "我想办理入住。"
+    },
+    {
+      "id": 13,
+      "en": "I have a reservation under the name Anthony Roberts.",
+      "cn": "我有一个以Anthony Roberts的名字预订的房间。"
+    },
+    {
+      "id": 14,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 15,
+      "en": "Roberts.",
+      "cn": "Roberts。"
+    },
+    {
+      "id": 16,
+      "en": "Oh, Mr. Roberts, we've been expecting you.",
+      "cn": "哦，Roberts先生，我们一直在等您。"
+    },
+    {
+      "id": 17,
+      "en": "And here is your key card to the presidential suite.",
+      "cn": "这是您总统套房的钥匙卡。"
+    },
+    {
+      "id": 18,
+      "en": "But there must be some mistake.",
+      "cn": "但这一定是个错误。"
+    },
+    {
+      "id": 19,
+      "en": "My reservation was for a standard room.",
+      "cn": "我的预订是标准间。"
+    },
+    {
+      "id": 20,
+      "en": "Are you sure?",
+      "cn": "您确定吗？"
+    },
+    {
+      "id": 21,
+      "en": "Let me double check.",
+      "cn": "让我再确认一下。"
+    },
+    {
+      "id": 22,
+      "en": "Yeah, here.",
+      "cn": "是的，这里。"
+    },
+    {
+      "id": 23,
+      "en": "This is my confirmation number.",
+      "cn": "这是我的确认号码。"
+    },
+    {
+      "id": 24,
+      "en": "You're right, Mr. Roberts.",
+      "cn": "您说得对，Roberts先生。"
+    },
+    {
+      "id": 25,
+      "en": "There seems to be a mix up.",
+      "cn": "似乎有些混淆。"
+    },
+    {
+      "id": 26,
+      "en": "Unfortunately, we're overbooked at the moment.",
+      "cn": "不幸的是，我们目前超额预订。"
+    },
+    {
+      "id": 27,
+      "en": "So?",
+      "cn": "那么？"
+    },
+    {
+      "id": 28,
+      "en": "Not to worry.",
+      "cn": "不用担心。"
+    },
+    {
+      "id": 29,
+      "en": "We're pleased to offer you a complimentary upgrade.",
+      "cn": "我们很高兴为您提供免费的升级。"
+    },
+    {
+      "id": 30,
+      "en": "Whoo-hoo!",
+      "cn": "哇哦！"
+    },
+    {
+      "id": 31,
+      "en": "Presidential suite, baby!",
+      "cn": "总统套房，太棒了！"
+    },
+    {
+      "id": 32,
+      "en": "Okay, everyone.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 33,
+      "en": "That is nice, huh?",
+      "cn": "这很好，是吧？"
+    },
+    {
+      "id": 34,
+      "en": "Yeah, the guy is really excited that he's going to get the presidential suite.",
+      "cn": "是的，这家伙真的很兴奋他要得到总统套房。"
+    },
+    {
+      "id": 35,
+      "en": "Yes, there's some interesting phrases and vocabulary items here.",
+      "cn": "是的，这里有一些有趣的短语和词汇。"
+    },
+    {
+      "id": 36,
+      "en": "And I know, Marco, you want to talk about some of them.",
+      "cn": "我知道，Marco，你想谈谈其中的一些。"
+    },
+    {
+      "id": 37,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 38,
+      "en": "The first one, and this is really useful for all of our listeners who travel a lot, this phrase will come in handy.",
+      "cn": "第一个，这对我们所有经常旅行的听众非常有用，这个短语会派上用场。"
+    },
+    {
+      "id": 39,
+      "en": "And it is I have a reservation under the name.",
+      "cn": "它是“我有一个以……名字的预订”。"
+    },
+    {
+      "id": 40,
+      "en": "Under the name.",
+      "cn": "以……名字。"
+    },
+    {
+      "id": 41,
+      "en": "Under the name.",
+      "cn": "以……名字。"
+    },
+    {
+      "id": 42,
+      "en": "Under the name.",
+      "cn": "以……名字。"
+    },
+    {
+      "id": 43,
+      "en": "So before we explain this phrase, let's listen to some examples on how it is used in other situations, and then we'll come back and give you more information.",
+      "cn": "在我们解释这个短语之前，让我们听一些在其他情况下如何使用的例子，然后再回来给您更多信息。"
+    },
+    {
+      "id": 44,
+      "en": "My secretary made a reservation under my name.",
+      "cn": "我的秘书以我的名字做了一个预订。"
+    },
+    {
+      "id": 45,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 46,
+      "en": "I don't have a reservation under that name.",
+      "cn": "我没有以那个名字的预订。"
+    },
+    {
+      "id": 47,
+      "en": "Do you have a reservation under the name Smith?",
+      "cn": "您有以Smith的名字的预订吗？"
+    },
+    {
+      "id": 48,
+      "en": "All right, some really good examples there on how we could use this phrase in other situations.",
+      "cn": "好吧，这里有一些很好的例子，说明我们如何在其他情况下使用这个短语。"
+    },
+    {
+      "id": 49,
+      "en": "But just in case, let me explain it real fast.",
+      "cn": "但以防万一，让我快速解释一下。"
+    },
+    {
+      "id": 50,
+      "en": "Under the name means that when you go to the restaurant or a hotel, and you tell them your name, they know that you are the person that they have been expecting.",
+      "cn": "以……名字意味着当你去餐厅或酒店时，你告诉他们你的名字，他们知道你就是他们一直在等的人。"
+    },
+    {
+      "id": 51,
+      "en": "They have been waiting.",
+      "cn": "他们一直在等待。"
+    },
+    {
+      "id": 52,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 53,
+      "en": "Well, I have chosen another useful phrase for you.",
+      "cn": "好吧，我为你选择了另一个有用的短语。"
+    },
+    {
+      "id": 54,
+      "en": "And it is mix up.",
+      "cn": "它是“混淆”。"
+    },
+    {
+      "id": 55,
+      "en": "Mix up.",
+      "cn": "混淆。"
+    },
+    {
+      "id": 56,
+      "en": "Mix up.",
+      "cn": "混淆。"
+    },
+    {
+      "id": 57,
+      "en": "Mix up.",
+      "cn": "混淆。"
+    },
+    {
+      "id": 58,
+      "en": "There seems to be a mix up.",
+      "cn": "似乎有些混淆。"
+    },
+    {
+      "id": 59,
+      "en": "Before we talk about this phrase, let's listen to some examples of how it is used.",
+      "cn": "在我们谈论这个短语之前，让我们听一些如何使用的例子。"
+    },
+    {
+      "id": 60,
+      "en": "There was a mix up at the airport, and my bags were sent to Antarctica.",
+      "cn": "机场发生了混淆，我的行李被送到了南极洲。"
+    },
+    {
+      "id": 61,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 62,
+      "en": "There's been a terrible mix up.",
+      "cn": "发生了严重的混淆。"
+    },
+    {
+      "id": 63,
+      "en": "We've given you the wrong baby.",
+      "cn": "我们给了你错误的婴儿。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, that was useful and funny.",
+      "cn": "好吧，那很有用也很有趣。"
+    },
+    {
+      "id": 65,
+      "en": "Yeah, that's the baby situation.",
+      "cn": "是的，那是婴儿的情况。"
+    },
+    {
+      "id": 66,
+      "en": "Oh my God, imagine that happening.",
+      "cn": "哦，我的天，想象一下那种情况。"
+    },
+    {
+      "id": 67,
+      "en": "Yeah, I know.",
+      "cn": "是的，我知道。"
+    },
+    {
+      "id": 68,
+      "en": "Well, guys, so a mix up is a confusion or a misunderstanding.",
+      "cn": "好吧，伙计们，混淆是指困惑或误解。"
+    },
+    {
+      "id": 69,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 70,
+      "en": "Well put.",
+      "cn": "说得好。"
+    },
+    {
+      "id": 71,
+      "en": "All right, Marco, what do you have for us?",
+      "cn": "好吧，Marco，你有什么要告诉我们的吗？"
+    },
+    {
+      "id": 72,
+      "en": "Okay, the next word that you should take a look at is overbooked.",
+      "cn": "好的，下一个你应该注意的词是“超额预订”。"
+    },
+    {
+      "id": 73,
+      "en": "Overbooked.",
+      "cn": "超额预订。"
+    },
+    {
+      "id": 74,
+      "en": "Overbooked.",
+      "cn": "超额预订。"
+    },
+    {
+      "id": 75,
+      "en": "Overbooked.",
+      "cn": "超额预订。"
+    },
+    {
+      "id": 76,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 77,
+      "en": "So if a hotel or a flight is overbooked, it means that they are full.",
+      "cn": "所以如果一家酒店或航班超额预订，意味着他们已经满了。"
+    },
+    {
+      "id": 78,
+      "en": "They are more than full.",
+      "cn": "他们比满还要多。"
+    },
+    {
+      "id": 79,
+      "en": "Right, so they cannot accept any more people.",
+      "cn": "对，所以他们不能再接收更多的人。"
+    },
+    {
+      "id": 80,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, now why is this phrase useful?",
+      "cn": "好吧，这个短语为什么有用？"
+    },
+    {
+      "id": 82,
+      "en": "Because it happens all the time.",
+      "cn": "因为这经常发生。"
+    },
+    {
+      "id": 83,
+      "en": "There's so many other situations where you can use this word or hear it from other native English speakers.",
+      "cn": "还有很多其他情况下你可以使用这个词或听到其他以英语为母语的人说这个词。"
+    },
+    {
+      "id": 84,
+      "en": "For example, a bus or a train can be overbooked.",
+      "cn": "例如，公交车或火车也可能超额预订。"
+    },
+    {
+      "id": 85,
+      "en": "Exactly, that's really common.",
+      "cn": "正是如此，这很常见。"
+    },
+    {
+      "id": 86,
+      "en": "Okay, let's take a look at the last phrase for today, and that is complementary upgrade.",
+      "cn": "好吧，让我们看看今天最后一个短语，那就是“免费升级”。"
+    },
+    {
+      "id": 87,
+      "en": "Complementary upgrade.",
+      "cn": "免费升级。"
+    },
+    {
+      "id": 88,
+      "en": "Complementary upgrade.",
+      "cn": "免费升级。"
+    },
+    {
+      "id": 89,
+      "en": "Complementary upgrade.",
+      "cn": "免费升级。"
+    },
+    {
+      "id": 90,
+      "en": "So this means that, for example, when the hotel is overbooked and all of their standard rooms are full, they will give you a better room, a more expensive room, but free.",
+      "cn": "这意味着，例如，当酒店超额预订且所有标准房间都满时，他们会给你一个更好的房间，一个更贵的房间，但免费。"
+    },
+    {
+      "id": 91,
+      "en": "Yes, because it was not your fault.",
+      "cn": "是的，因为这不是你的错。"
+    },
+    {
+      "id": 92,
+      "en": "Right, this also happens sometimes, if you're lucky, on airplane flights.",
+      "cn": "对，这有时也会发生，如果你幸运的话，在飞机航班上。"
+    },
+    {
+      "id": 93,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 94,
+      "en": "So if you are an economy class and an airplane, but for some reason it's overbooked, they will move you to business class or first class for free.",
+      "cn": "所以如果你是经济舱，但由于某种原因超额预订，他们会把你免费转到商务舱或头等舱。"
+    },
+    {
+      "id": 95,
+      "en": "I have a similar story, but I'm not going to tell you about it now.",
+      "cn": "我有一个类似的故事，但我现在不打算告诉你。"
+    },
+    {
+      "id": 96,
+      "en": "For now, let's go and listen to the dialogue one more time, and when we come back we'll talk some more.",
+      "cn": "现在，让我们再听一次对话，当我们回来时再多聊聊。"
+    },
+    {
+      "id": 97,
+      "en": "Good afternoon, what can I do for you?",
+      "cn": "下午好，我能为您做些什么？"
+    },
+    {
+      "id": 98,
+      "en": "I'd like to check in, please.",
+      "cn": "我想办理入住。"
+    },
+    {
+      "id": 99,
+      "en": "I have a reservation under the name Anthony Roberts.",
+      "cn": "我有一个以Anthony Roberts的名字预订的房间。"
+    },
+    {
+      "id": 100,
+      "en": "Alright, um, Roberts.",
+      "cn": "好的，嗯，Roberts。"
+    },
+    {
+      "id": 101,
+      "en": "Oh, Mr. Roberts, we've been expecting you.",
+      "cn": "哦，罗伯茨先生，我们一直在等您。"
+    },
+    {
+      "id": 102,
+      "en": "And here is your key card to the Presidential Suite.",
+      "cn": "这是您总统套房的钥匙卡。"
+    },
+    {
+      "id": 103,
+      "en": "But there must be some mistake.",
+      "cn": "但这一定是个错误。"
+    },
+    {
+      "id": 104,
+      "en": "My reservation was for a standard room.",
+      "cn": "我的预订是标准间。"
+    },
+    {
+      "id": 105,
+      "en": "Are you sure?",
+      "cn": "您确定吗？"
+    },
+    {
+      "id": 106,
+      "en": "Let me double check.",
+      "cn": "让我再确认一下。"
+    },
+    {
+      "id": 107,
+      "en": "Yeah, here, this is my confirmation number.",
+      "cn": "是的，这里是我的确认号码。"
+    },
+    {
+      "id": 108,
+      "en": "You're right, Mr. Roberts, there seems to be a mix-up.",
+      "cn": "您说得对，罗伯茨先生，似乎有些混淆。"
+    },
+    {
+      "id": 109,
+      "en": "Unfortunately, we're overbooked at the moment.",
+      "cn": "不幸的是，我们目前超额预订。"
+    },
+    {
+      "id": 110,
+      "en": "So... Not to worry, we're pleased to offer you a complimentary upgrade.",
+      "cn": "所以……别担心，我们很高兴为您提供免费升级。"
+    },
+    {
+      "id": 111,
+      "en": "Presidential Suite, baby!",
+      "cn": "总统套房，太棒了！"
+    },
+    {
+      "id": 112,
+      "en": "I love listening to this dialogue.",
+      "cn": "我喜欢听这个对话。"
+    },
+    {
+      "id": 113,
+      "en": "It's just so nice to see that someone is enjoying his upgrade so much, huh?",
+      "cn": "看到有人如此享受他的升级，真是太好了，是吧？"
+    },
+    {
+      "id": 114,
+      "en": "Yeah, especially since he was expecting just a really normal room and now he's gonna be treated like a king.",
+      "cn": "是的，尤其是他原本只期待一个普通房间，现在却像国王一样被对待。"
+    },
+    {
+      "id": 115,
+      "en": "So Marco, have you ever gotten a complimentary upgrade?",
+      "cn": "所以马尔科，你有没有得到过免费升级？"
+    },
+    {
+      "id": 116,
+      "en": "Yes, yes I did.",
+      "cn": "有的，我得到了。"
+    },
+    {
+      "id": 117,
+      "en": "When I was traveling through India, I bought a normal seat in the train.",
+      "cn": "当我在印度旅行时，我买了火车的普通座位。"
+    },
+    {
+      "id": 118,
+      "en": "But for some reason, it was overbooked.",
+      "cn": "但由于某种原因，超额预订了。"
+    },
+    {
+      "id": 119,
+      "en": "So I talked to the station manager and I got a complimentary upgrade to First Class.",
+      "cn": "所以我和车站经理谈了谈，得到了免费升级到头等舱。"
+    },
+    {
+      "id": 120,
+      "en": "I had a similar experience as well.",
+      "cn": "我也有类似的经历。"
+    },
+    {
+      "id": 121,
+      "en": "I was flying from Shanghai to Qatar and I actually had an economy seat, but for some reason they just upgraded me.",
+      "cn": "我从上海飞往卡塔尔，实际上我有一个经济舱的座位，但由于某种原因，他们把我升级了。"
+    },
+    {
+      "id": 122,
+      "en": "And I was so happy.",
+      "cn": "我非常开心。"
+    },
+    {
+      "id": 123,
+      "en": "Oh really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 124,
+      "en": "Like, it wasn't overbooked.",
+      "cn": "不是超额预订。"
+    },
+    {
+      "id": 125,
+      "en": "Well, I'm not sure because normally the night flight is not that full, but they upgraded me for some reason and I was so happy.",
+      "cn": "嗯，我不太确定，因为通常夜间航班不会那么满，但他们出于某种原因把我升级了，我非常开心。"
+    },
+    {
+      "id": 126,
+      "en": "It was an upgrade to First Class.",
+      "cn": "这是升级到头等舱。"
+    },
+    {
+      "id": 127,
+      "en": "Wow, that's really cool.",
+      "cn": "哇，真酷。"
+    },
+    {
+      "id": 128,
+      "en": "I would prefer a First Class upgrade on an airplane any day.",
+      "cn": "我每天都希望在飞机上获得头等舱的升级。"
+    },
+    {
+      "id": 129,
+      "en": "Well, you know what really amazed me was the food you get there.",
+      "cn": "嗯，你知道让我真正惊讶的是那里的食物。"
+    },
+    {
+      "id": 130,
+      "en": "You have a five-course meal.",
+      "cn": "你会有五道菜的餐点。"
+    },
+    {
+      "id": 131,
+      "en": "Oh really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 132,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 133,
+      "en": "And you get all the drinks you can get, right?",
+      "cn": "你可以喝到所有的饮料，对吧？"
+    },
+    {
+      "id": 134,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 135,
+      "en": "Wow, I would be really happy there.",
+      "cn": "哇，我会在那里非常开心。"
+    },
+    {
+      "id": 136,
+      "en": "Alright everyone, we're out of time today, but be sure to listen tomorrow because we'll be back again with another great podcast.",
+      "cn": "好吧，大家，今天时间到了，但请确保明天收听，因为我们会带来另一个精彩的播客。"
+    },
+    {
+      "id": 137,
+      "en": "And also, don't forget to go to our website at EnglishPod.com and leave us all your questions and comments in our community forum.",
+      "cn": "另外，别忘了访问我们的网站 EnglishPod.com，并在我们的社区论坛中留下您的问题和评论。"
+    },
+    {
+      "id": 138,
+      "en": "Yes, and we would also appreciate your suggestions.",
+      "cn": "是的，我们也会很感激您的建议。"
+    },
+    {
+      "id": 139,
+      "en": "And I hope you enjoyed the lesson today.",
+      "cn": "希望您喜欢今天的课程。"
+    },
+    {
+      "id": 140,
+      "en": "And Marco and I will be back tomorrow with another great lesson for you.",
+      "cn": "马尔科和我明天会带来另一个精彩的课程给您。"
+    },
+    {
+      "id": 141,
+      "en": "But for now, it's bye.",
+      "cn": "但现在，告别了。"
+    }
+  ]
+}

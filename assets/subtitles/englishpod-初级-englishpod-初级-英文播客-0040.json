@@ -1,0 +1,1119 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0040",
+  "title": "EnglishPod 初级 英文播客 0040",
+  "totalSegments": 222,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And we're bringing you another great elementary lesson today, one that takes place at the office.",
+      "cn": "今天我们为你带来另一节很棒的初级课程，发生在办公室。"
+    },
+    {
+      "id": 6,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 7,
+      "en": "Today, we're going to teach you some great phrases so that you can ask people to help you.",
+      "cn": "今天，我们将教你一些很好的短语，以便你可以请求他人帮助。"
+    },
+    {
+      "id": 8,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 9,
+      "en": "And I think this dialogue is with a new person at the office.",
+      "cn": "我认为这个对话是和办公室的新同事进行的。"
+    },
+    {
+      "id": 10,
+      "en": "So when you're new, you always need to ask people for favors.",
+      "cn": "所以当你是新来的时，总是需要向人请求帮助。"
+    },
+    {
+      "id": 11,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 12,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 13,
+      "en": "So we're going to be asking for a favor.",
+      "cn": "所以我们将请求一个帮助。"
+    },
+    {
+      "id": 14,
+      "en": "So Marco, what exactly is a favor?",
+      "cn": "Marco，什么是帮助？"
+    },
+    {
+      "id": 15,
+      "en": "Something that a person does for you.",
+      "cn": "某人为你做的事情。"
+    },
+    {
+      "id": 16,
+      "en": "Like a small, helpful thing.",
+      "cn": "就像一个小的、帮助性的事情。"
+    },
+    {
+      "id": 17,
+      "en": "Yeah, a small, helpful thing.",
+      "cn": "是的，一个小的、帮助性的事情。"
+    },
+    {
+      "id": 18,
+      "en": "So, you know, like, can you pass me that pencil?",
+      "cn": "比如，你能把那支铅笔递给我吗？"
+    },
+    {
+      "id": 19,
+      "en": "Maybe that's even a favor.",
+      "cn": "也许那也是一个帮助。"
+    },
+    {
+      "id": 20,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 21,
+      "en": "Or maybe, can you pick me up on your way to work?",
+      "cn": "或者，你能在上班路上接我吗？"
+    },
+    {
+      "id": 22,
+      "en": "Yeah, that's a favor.",
+      "cn": "是的，那是一个帮助。"
+    },
+    {
+      "id": 23,
+      "en": "Or even lending money to your friend.",
+      "cn": "甚至借钱给你的朋友。"
+    },
+    {
+      "id": 24,
+      "en": "That's a favor.",
+      "cn": "那也是一个帮助。"
+    },
+    {
+      "id": 25,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 26,
+      "en": "So that's what we're going to be talking about, favors and how to ask for one.",
+      "cn": "所以我们将讨论帮助以及如何请求帮助。"
+    },
+    {
+      "id": 27,
+      "en": "Because you always have to do this at work.",
+      "cn": "因为你在工作中总是需要这样做。"
+    },
+    {
+      "id": 28,
+      "en": "At work with your friends, with your family.",
+      "cn": "在工作中，和朋友，和家人。"
+    },
+    {
+      "id": 29,
+      "en": "So let's listen to the dialogue and then we'll come back and explain all the vocabulary.",
+      "cn": "所以让我们听听对话，然后我们会回来解释所有的词汇。"
+    },
+    {
+      "id": 30,
+      "en": "Um, sorry to bother you.",
+      "cn": "嗯，抱歉打扰你。"
+    },
+    {
+      "id": 31,
+      "en": "Um, my name is Rachel.",
+      "cn": "嗯，我叫Rachel。"
+    },
+    {
+      "id": 32,
+      "en": "I'm new here.",
+      "cn": "我是新来的。"
+    },
+    {
+      "id": 33,
+      "en": "Can I ask you for a favor?",
+      "cn": "我可以请你帮个忙吗？"
+    },
+    {
+      "id": 34,
+      "en": "Hi Rachel, welcome on board.",
+      "cn": "嗨Rachel，欢迎加入。"
+    },
+    {
+      "id": 35,
+      "en": "I'm afraid I can't help you right now.",
+      "cn": "我恐怕现在无法帮助你。"
+    },
+    {
+      "id": 36,
+      "en": "I'm getting ready for a very important meeting.",
+      "cn": "我正在准备一个非常重要的会议。"
+    },
+    {
+      "id": 37,
+      "en": "Excuse me, but can I bother you for a second?",
+      "cn": "对不起，我可以打扰你一下吗？"
+    },
+    {
+      "id": 38,
+      "en": "You know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 39,
+      "en": "I'd love to help you, but I'm about to meet an important client.",
+      "cn": "我很乐意帮助你，但我正要见一个重要客户。"
+    },
+    {
+      "id": 40,
+      "en": "Do you want to ask Sean instead?",
+      "cn": "你想问Sean吗？"
+    },
+    {
+      "id": 41,
+      "en": "He sits right over there.",
+      "cn": "他就坐在那边。"
+    },
+    {
+      "id": 42,
+      "en": "Sorry to interrupt you, Sean.",
+      "cn": "抱歉打扰你，Sean。"
+    },
+    {
+      "id": 43,
+      "en": "Could you do me a quick favor?",
+      "cn": "你能帮我一个忙吗？"
+    },
+    {
+      "id": 44,
+      "en": "Actually, I'm working on a document that's due in a couple of minutes.",
+      "cn": "实际上，我正在处理一份几分钟后到期的文件。"
+    },
+    {
+      "id": 45,
+      "en": "I really can't talk right now.",
+      "cn": "我现在真的不能说话。"
+    },
+    {
+      "id": 46,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 47,
+      "en": "Geez, I just want to know where the bathroom is.",
+      "cn": "天哪，我只想知道洗手间在哪里。"
+    },
+    {
+      "id": 48,
+      "en": "What's wrong with you people?",
+      "cn": "你们这些人怎么了？"
+    },
+    {
+      "id": 49,
+      "en": "So a pretty busy office.",
+      "cn": "这是一个相当忙碌的办公室。"
+    },
+    {
+      "id": 50,
+      "en": "Pretty unhelpful colleagues.",
+      "cn": "同事们相当不乐于助人。"
+    },
+    {
+      "id": 51,
+      "en": "I know everyone's so busy they didn't help this poor girl.",
+      "cn": "我知道每个人都很忙，他们没有帮助这个可怜的女孩。"
+    },
+    {
+      "id": 52,
+      "en": "Yeah, I hope she found the bathroom.",
+      "cn": "是的，我希望她找到了洗手间。"
+    },
+    {
+      "id": 53,
+      "en": "Now let's take a look at the language from the dialogue.",
+      "cn": "现在让我们看看对话中的语言。"
+    },
+    {
+      "id": 54,
+      "en": "So let's start with language takeaway.",
+      "cn": "所以让我们从语言要点开始。"
+    },
+    {
+      "id": 55,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 56,
+      "en": "There's some great language in this dialogue, wasn't there?",
+      "cn": "这个对话中有一些很好的语言，不是吗？"
+    },
+    {
+      "id": 57,
+      "en": "Yeah, a lot of interesting phrases and words.",
+      "cn": "是的，有很多有趣的短语和单词。"
+    },
+    {
+      "id": 58,
+      "en": "The first one that I saw that was really interesting is on board.",
+      "cn": "我看到的第一个非常有趣的短语是“欢迎加入”。"
+    },
+    {
+      "id": 59,
+      "en": "On board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 60,
+      "en": "Welcome on board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 61,
+      "en": "Well, we've got some examples of how this phrase is used.",
+      "cn": "好吧，我们有一些这个短语使用的例子。"
+    },
+    {
+      "id": 62,
+      "en": "So let's listen to them to help us understand the meaning.",
+      "cn": "所以让我们听听它们，以帮助我们理解意思。"
+    },
+    {
+      "id": 63,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 64,
+      "en": "Welcome on board, Sarah.",
+      "cn": "欢迎加入，Sarah。"
+    },
+    {
+      "id": 65,
+      "en": "If you have any questions, please feel free to ask me.",
+      "cn": "如果你有任何问题，请随时问我。"
+    },
+    {
+      "id": 66,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 67,
+      "en": "We need to get our new office assistant on board as soon as possible.",
+      "cn": "我们需要尽快让我们的新办公室助理加入。"
+    },
+    {
+      "id": 68,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 69,
+      "en": "We decided to bring Melissa on board to join the marketing team.",
+      "cn": "我们决定让Melissa加入市场团队。"
+    },
+    {
+      "id": 70,
+      "en": "So basically it means... Welcome to the company.",
+      "cn": "所以基本上它的意思是... 欢迎来到公司。"
+    },
+    {
+      "id": 71,
+      "en": "Welcome to the company.",
+      "cn": "欢迎来到公司。"
+    },
+    {
+      "id": 72,
+      "en": "Or... The team.",
+      "cn": "或者... 团队。"
+    },
+    {
+      "id": 73,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 74,
+      "en": "Welcome on board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 75,
+      "en": "So on board is the same as to the company.",
+      "cn": "所以“欢迎加入”与“欢迎来到公司”是一样的。"
+    },
+    {
+      "id": 76,
+      "en": "I guess also when you get on a ship, they'll tell you welcome on board.",
+      "cn": "我想当你上船时，他们也会告诉你“欢迎加入”。"
+    },
+    {
+      "id": 77,
+      "en": "Yes, that's where it comes from.",
+      "cn": "是的，这就是它的来源。"
+    },
+    {
+      "id": 78,
+      "en": "Or an airplane.",
+      "cn": "或者在飞机上。"
+    },
+    {
+      "id": 79,
+      "en": "Welcome on board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 80,
+      "en": "Okay, let's take a look at our next word.",
+      "cn": "好的，让我们看看下一个单词。"
+    },
+    {
+      "id": 81,
+      "en": "About to.",
+      "cn": "正要。"
+    },
+    {
+      "id": 82,
+      "en": "About to.",
+      "cn": "正要。"
+    },
+    {
+      "id": 83,
+      "en": "I'm about to.",
+      "cn": "我正要。"
+    },
+    {
+      "id": 84,
+      "en": "I'm about to.",
+      "cn": "我正要。"
+    },
+    {
+      "id": 85,
+      "en": "So this is a great phrase to explain that you're about to do something.",
+      "cn": "所以这是一个很好的短语，用来解释你正要做某事。"
+    },
+    {
+      "id": 86,
+      "en": "I'm going to do this thing really soon.",
+      "cn": "我很快就要做这件事。"
+    },
+    {
+      "id": 87,
+      "en": "Okay, so for example you can say, I'm about to go out for lunch.",
+      "cn": "好吧，例如你可以说，我正要出去吃午餐。"
+    },
+    {
+      "id": 88,
+      "en": "Or I could say, hey Marco, let's go record a show.",
+      "cn": "或者我可以说，嘿Marco，我们去录制一个节目。"
+    },
+    {
+      "id": 89,
+      "en": "I'm about to go into a meeting.",
+      "cn": "我正要去开会。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly, yeah.",
+      "cn": "正是，没错。"
+    },
+    {
+      "id": 91,
+      "en": "About to.",
+      "cn": "正要。"
+    },
+    {
+      "id": 92,
+      "en": "Going to do something really soon.",
+      "cn": "很快要做某事。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, the next word we have is instead.",
+      "cn": "好的，下一个单词是“而是”。"
+    },
+    {
+      "id": 94,
+      "en": "Instead.",
+      "cn": "而是。"
+    },
+    {
+      "id": 95,
+      "en": "Instead.",
+      "cn": "而是。"
+    },
+    {
+      "id": 96,
+      "en": "It means in the place of.",
+      "cn": "它的意思是“代替”。"
+    },
+    {
+      "id": 97,
+      "en": "In the place of.",
+      "cn": "代替。"
+    },
+    {
+      "id": 98,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 99,
+      "en": "So for example, if we're at dinner, I could say, I'll have the chicken instead of the fish.",
+      "cn": "所以例如，如果我们在吃晚餐，我可以说，我要鸡肉而不是鱼。"
+    },
+    {
+      "id": 100,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 101,
+      "en": "Or I can say, I wanted to buy a red sweater, but they didn't have one, so I bought a blue one instead.",
+      "cn": "或者我可以说，我想买一件红色毛衣，但他们没有，所以我买了一件蓝色的。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, so in the place of.",
+      "cn": "好的，所以代替。"
+    },
+    {
+      "id": 103,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 104,
+      "en": "And our last word for language takeaway, interrupt.",
+      "cn": "我们最后一个语言学习词是，打断。"
+    },
+    {
+      "id": 105,
+      "en": "Interrupt.",
+      "cn": "打断。"
+    },
+    {
+      "id": 106,
+      "en": "Interrupt.",
+      "cn": "打断。"
+    },
+    {
+      "id": 107,
+      "en": "Interrupt.",
+      "cn": "打断。"
+    },
+    {
+      "id": 108,
+      "en": "So when somebody interrupts you, they come in and... They talk to you while you're doing something.",
+      "cn": "所以当有人打断你时，他们会进来... 他们在你做某事时和你说话。"
+    },
+    {
+      "id": 109,
+      "en": "Or maybe while you're speaking.",
+      "cn": "或者也许在你说话时。"
+    },
+    {
+      "id": 110,
+      "en": "Or maybe you're busy and people come and... Bother you.",
+      "cn": "或者也许你很忙，人们进来... 打扰你。"
+    },
+    {
+      "id": 111,
+      "en": "Bother you.",
+      "cn": "打扰你。"
+    },
+    {
+      "id": 112,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 113,
+      "en": "So interrupt.",
+      "cn": "所以打断。"
+    },
+    {
+      "id": 114,
+      "en": "Interrupt.",
+      "cn": "打断。"
+    },
+    {
+      "id": 115,
+      "en": "Okay, some great words here in our dialogue.",
+      "cn": "好的，我们对话中有一些很好的词。"
+    },
+    {
+      "id": 116,
+      "en": "And now we can listen to it again.",
+      "cn": "现在我们可以再听一遍。"
+    },
+    {
+      "id": 117,
+      "en": "This time it's going to be a little bit slower.",
+      "cn": "这次会慢一点。"
+    },
+    {
+      "id": 118,
+      "en": "And you'll be able to understand the language a little bit better.",
+      "cn": "你会更好地理解语言。"
+    },
+    {
+      "id": 119,
+      "en": "Um, sorry to bother you.",
+      "cn": "嗯，抱歉打扰你。"
+    },
+    {
+      "id": 120,
+      "en": "Um, my name is Rachel.",
+      "cn": "嗯，我叫瑞秋。"
+    },
+    {
+      "id": 121,
+      "en": "I'm new here.",
+      "cn": "我是新来的。"
+    },
+    {
+      "id": 122,
+      "en": "Can I ask you for a favor?",
+      "cn": "我可以请你帮个忙吗？"
+    },
+    {
+      "id": 123,
+      "en": "Hi, Rachel.",
+      "cn": "嗨，瑞秋。"
+    },
+    {
+      "id": 124,
+      "en": "Welcome on board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 125,
+      "en": "I'm afraid I can't help you right now.",
+      "cn": "我恐怕现在无法帮助你。"
+    },
+    {
+      "id": 126,
+      "en": "I'm getting ready for a very important meeting.",
+      "cn": "我正在准备一个非常重要的会议。"
+    },
+    {
+      "id": 127,
+      "en": "Excuse me, but can I bother you for a second?",
+      "cn": "对不起，但我可以打扰你一下吗？"
+    },
+    {
+      "id": 128,
+      "en": "You know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 129,
+      "en": "I'd love to help you, but I'm about to meet an important client.",
+      "cn": "我很想帮助你，但我马上要见一个重要客户。"
+    },
+    {
+      "id": 130,
+      "en": "Do you want to try Sean instead?",
+      "cn": "你想试试肖恩吗？"
+    },
+    {
+      "id": 131,
+      "en": "He sits right over there.",
+      "cn": "他就坐在那边。"
+    },
+    {
+      "id": 132,
+      "en": "Sorry to interrupt you, Sean.",
+      "cn": "抱歉打扰你，肖恩。"
+    },
+    {
+      "id": 133,
+      "en": "Could you do me a quick favor?",
+      "cn": "你能帮我个忙吗？"
+    },
+    {
+      "id": 134,
+      "en": "Actually, I'm working on a document that is due in a couple of minutes.",
+      "cn": "其实，我正在处理一份几分钟后到期的文件。"
+    },
+    {
+      "id": 135,
+      "en": "I really can't talk to you right now.",
+      "cn": "我现在真的不能和你说话。"
+    },
+    {
+      "id": 136,
+      "en": "Sorry about that.",
+      "cn": "抱歉。"
+    },
+    {
+      "id": 137,
+      "en": "Geez, I just want to know where the bathroom is.",
+      "cn": "天哪，我只是想知道洗手间在哪里。"
+    },
+    {
+      "id": 138,
+      "en": "What's wrong with you people?",
+      "cn": "你们这些人怎么了？"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so there are some great ways that you can ask someone for a favor, right?",
+      "cn": "好的，所以有一些很好的方式可以请别人帮忙，对吧？"
+    },
+    {
+      "id": 140,
+      "en": "Yeah, we want to show you some really useful phrases for asking for help.",
+      "cn": "是的，我们想给你展示一些非常有用的请求帮助的短语。"
+    },
+    {
+      "id": 141,
+      "en": "So let's start with putting it together.",
+      "cn": "所以让我们开始组合起来。"
+    },
+    {
+      "id": 142,
+      "en": "Putting it together.",
+      "cn": "组合起来。"
+    },
+    {
+      "id": 143,
+      "en": "Let's listen to some different ways of how you can ask someone for a favor.",
+      "cn": "让我们听听你可以用来请别人帮忙的不同方式。"
+    },
+    {
+      "id": 144,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 145,
+      "en": "May I get you to do me a favor?",
+      "cn": "我可以请你帮个忙吗？"
+    },
+    {
+      "id": 146,
+      "en": "Can you carry this package in your suitcase for me?",
+      "cn": "你能帮我把这个包放进你的行李箱吗？"
+    },
+    {
+      "id": 147,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 148,
+      "en": "Can I ask you a favor?",
+      "cn": "我可以请你帮个忙吗？"
+    },
+    {
+      "id": 149,
+      "en": "Can you just finish this report for me?",
+      "cn": "你能帮我完成这份报告吗？"
+    },
+    {
+      "id": 150,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 151,
+      "en": "Will you do me a favor and pass me that file?",
+      "cn": "你能帮我把那个文件递给我吗？"
+    },
+    {
+      "id": 152,
+      "en": "Okay, so those were great examples of asking for a favor.",
+      "cn": "好的，这些都是请求帮忙的好例子。"
+    },
+    {
+      "id": 153,
+      "en": "In our dialogue, we heard, can I ask you a favor?",
+      "cn": "在我们的对话中，我们听到，可以请你帮个忙吗？"
+    },
+    {
+      "id": 154,
+      "en": "But we could also say, can I get you to do me a favor?",
+      "cn": "但我们也可以说，我可以请你帮个忙吗？"
+    },
+    {
+      "id": 155,
+      "en": "Right, can I get you to do me a favor?",
+      "cn": "对吧，我可以请你帮个忙吗？"
+    },
+    {
+      "id": 156,
+      "en": "Also, I could say, will you do me a favor?",
+      "cn": "另外，我可以说，你能帮我个忙吗？"
+    },
+    {
+      "id": 157,
+      "en": "Will you do me a favor?",
+      "cn": "你能帮我个忙吗？"
+    },
+    {
+      "id": 158,
+      "en": "Right, so those are different ways of asking for a favor.",
+      "cn": "对吧，这些都是请求帮忙的不同方式。"
+    },
+    {
+      "id": 159,
+      "en": "Let's say you want to ask someone for a favor, right?",
+      "cn": "假设你想请别人帮忙，对吧？"
+    },
+    {
+      "id": 160,
+      "en": "But they're busy, right?",
+      "cn": "但他们很忙，对吧？"
+    },
+    {
+      "id": 161,
+      "en": "So you'll need some phrases to help you do this.",
+      "cn": "所以你需要一些短语来帮助你做到这一点。"
+    },
+    {
+      "id": 162,
+      "en": "Exactly, you need some phrases to interrupt somebody, right?",
+      "cn": "正是如此，你需要一些短语来打断某人，对吧？"
+    },
+    {
+      "id": 163,
+      "en": "So let's listen to some examples of what phrases you can use to begin to talk to someone.",
+      "cn": "所以让我们听听你可以用来开始与某人交谈的短语示例。"
+    },
+    {
+      "id": 164,
+      "en": "Yeah, to interrupt them.",
+      "cn": "是的，打断他们。"
+    },
+    {
+      "id": 165,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 166,
+      "en": "I hate to bother you, but... I hate to bother you, but...",
+      "cn": "我不想打扰你，但... 我不想打扰你，但..."
+    },
+    {
+      "id": 167,
+      "en": "I'm sorry to bother you, but...",
+      "cn": "抱歉打扰你，但..."
+    },
+    {
+      "id": 168,
+      "en": "I'm sorry to bother you, but...",
+      "cn": "抱歉打扰你，但..."
+    },
+    {
+      "id": 169,
+      "en": "I don't mean to bother you, but... I don't mean to bother you, but...",
+      "cn": "我不是故意打扰你，但... 我不是故意打扰你，但..."
+    },
+    {
+      "id": 170,
+      "en": "Okay, so those are really nice and polite ways of beginning to talk to someone.",
+      "cn": "好的，这些都是开始与某人交谈的非常礼貌的方式。"
+    },
+    {
+      "id": 171,
+      "en": "Exactly, they're really useful at the office.",
+      "cn": "正是如此，它们在办公室非常有用。"
+    },
+    {
+      "id": 172,
+      "en": "So maybe you want to talk to your boss, you knock on his door, kind of open it a little bit and say, I'm sorry to bother you, but I was wondering if you have time for a meeting today.",
+      "cn": "所以也许你想和你的老板谈谈，你敲他的门，稍微打开一下，说，我很抱歉打扰你，但我想知道你今天有没有时间开会。"
+    },
+    {
+      "id": 173,
+      "en": "Or you could say, I hate to bother you, but do you have time for a meeting today?",
+      "cn": "或者你可以说，我不想打扰你，但你今天有时间开会吗？"
+    },
+    {
+      "id": 174,
+      "en": "Exactly, so those are great ways of starting up a conversation and maybe setting it up to ask for a favor, right?",
+      "cn": "正是如此，这些都是开始对话的好方法，也许为请求帮忙铺平道路，对吧？"
+    },
+    {
+      "id": 175,
+      "en": "So we can combine them.",
+      "cn": "所以我们可以把它们结合起来。"
+    },
+    {
+      "id": 176,
+      "en": "I could say, I hate to bother you, but can you do me a favor?",
+      "cn": "我可以说，我不想打扰你，但你能帮我个忙吗？"
+    },
+    {
+      "id": 177,
+      "en": "Perfect, yeah, really useful.",
+      "cn": "完美，是的，真的很有用。"
+    },
+    {
+      "id": 178,
+      "en": "So then you can ask someone for a favor.",
+      "cn": "这样你就可以请别人帮忙。"
+    },
+    {
+      "id": 179,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 180,
+      "en": "Okay, great stuff.",
+      "cn": "好的，很棒的内容。"
+    },
+    {
+      "id": 181,
+      "en": "So I guess we can listen to our dialogue again.",
+      "cn": "所以我想我们可以再听一遍我们的对话。"
+    },
+    {
+      "id": 182,
+      "en": "Yeah, let's listen to our dialogue for the third time.",
+      "cn": "是的，让我们第三次听我们的对话。"
+    },
+    {
+      "id": 183,
+      "en": "And this time, I'm sure you'll understand it a lot better.",
+      "cn": "这次，我相信你会更好地理解。"
+    },
+    {
+      "id": 184,
+      "en": "Um, sorry to bother you.",
+      "cn": "嗯，抱歉打扰你。"
+    },
+    {
+      "id": 185,
+      "en": "My name is Rachel.",
+      "cn": "我叫瑞秋。"
+    },
+    {
+      "id": 186,
+      "en": "I'm new here.",
+      "cn": "我是新来的。"
+    },
+    {
+      "id": 187,
+      "en": "Can I ask you for a favor?",
+      "cn": "我可以请你帮个忙吗？"
+    },
+    {
+      "id": 188,
+      "en": "Hi, Rachel.",
+      "cn": "嗨，瑞秋。"
+    },
+    {
+      "id": 189,
+      "en": "Welcome on board.",
+      "cn": "欢迎加入。"
+    },
+    {
+      "id": 190,
+      "en": "I'm afraid I can't help you right now.",
+      "cn": "我恐怕现在无法帮助你。"
+    },
+    {
+      "id": 191,
+      "en": "I'm getting ready for a very important meeting.",
+      "cn": "我正在准备一个非常重要的会议。"
+    },
+    {
+      "id": 192,
+      "en": "Excuse me, but can I bother you for a second?",
+      "cn": "对不起，但我可以打扰你一下吗？"
+    },
+    {
+      "id": 193,
+      "en": "You know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 194,
+      "en": "I'd love to help you, but I'm about to meet an important client.",
+      "cn": "我很想帮助你，但我马上要见一个重要客户。"
+    },
+    {
+      "id": 195,
+      "en": "Do you want to ask Sean instead?",
+      "cn": "你想问肖恩吗？"
+    },
+    {
+      "id": 196,
+      "en": "Can you sit right over there?",
+      "cn": "你能坐在那边吗？"
+    },
+    {
+      "id": 197,
+      "en": "Sorry to interrupt you, Sean.",
+      "cn": "抱歉打扰你，肖恩。"
+    },
+    {
+      "id": 198,
+      "en": "Could you do me a quick favor?",
+      "cn": "你能帮我一个忙吗？"
+    },
+    {
+      "id": 199,
+      "en": "Actually, I'm working on a document that's due in a couple of minutes.",
+      "cn": "其实，我正在处理一份几分钟后到期的文件。"
+    },
+    {
+      "id": 200,
+      "en": "I really can't talk right now.",
+      "cn": "我现在真的不能说话。"
+    },
+    {
+      "id": 201,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 202,
+      "en": "Geez, I just want to know where the bathroom is.",
+      "cn": "天哪，我只是想知道洗手间在哪里。"
+    },
+    {
+      "id": 203,
+      "en": "What's wrong with you people?",
+      "cn": "你们这些人怎么了？"
+    },
+    {
+      "id": 204,
+      "en": "All right, so now you have all the vocabulary necessary the next time you need to ask someone for a favor.",
+      "cn": "好吧，现在你们有了下次请求别人帮忙所需的所有词汇。"
+    },
+    {
+      "id": 205,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 206,
+      "en": "At the office, with your friends, with your family, anyone.",
+      "cn": "在办公室，和朋友，和家人，任何人。"
+    },
+    {
+      "id": 207,
+      "en": "Well, everyone, we are out of time for today.",
+      "cn": "好吧，大家，今天的时间到了。"
+    },
+    {
+      "id": 208,
+      "en": "But remember to visit our website at EnglishPod.com.",
+      "cn": "但记得访问我们的网站 EnglishPod.com。"
+    },
+    {
+      "id": 209,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 210,
+      "en": "At our website, you'll find the script of the dialogue.",
+      "cn": "在我们的网站上，你会找到对话的脚本。"
+    },
+    {
+      "id": 211,
+      "en": "And also, you'll find intermediate lessons, upper intermediate, and even advanced.",
+      "cn": "还有，你会找到中级课程、高级课程，甚至是高级课程。"
+    },
+    {
+      "id": 212,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 213,
+      "en": "Our website is a great resource for learning.",
+      "cn": "我们的网站是学习的好资源。"
+    },
+    {
+      "id": 214,
+      "en": "Marco and I are always there to answer your questions.",
+      "cn": "马尔科和我总是在那里回答你的问题。"
+    },
+    {
+      "id": 215,
+      "en": "And we also have lots of helpful users who answer your questions.",
+      "cn": "我们还有很多乐于助人的用户来回答你的问题。"
+    },
+    {
+      "id": 216,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 217,
+      "en": "So don't miss out.",
+      "cn": "所以不要错过。"
+    },
+    {
+      "id": 218,
+      "en": "Come to our website at EnglishPod.com.",
+      "cn": "来我们的网站 EnglishPod.com。"
+    },
+    {
+      "id": 219,
+      "en": "And we'll see you there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 220,
+      "en": "Until next time.",
+      "cn": "下次见。"
+    },
+    {
+      "id": 221,
+      "en": "Bye-bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 222,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

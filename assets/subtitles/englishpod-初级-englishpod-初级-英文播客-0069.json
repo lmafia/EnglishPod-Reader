@@ -1,0 +1,1529 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0069",
+  "title": "EnglishPod 初级 英文播客 0069",
+  "totalSegments": 304,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back.",
+      "cn": "欢迎回来。"
+    },
+    {
+      "id": 3,
+      "en": "We are here at EnglishPod.",
+      "cn": "我们在EnglishPod。"
+    },
+    {
+      "id": 4,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 5,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 6,
+      "en": "And today we're going to be bringing you a lesson about eggs.",
+      "cn": "今天我们将为您带来关于鸡蛋的课程。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "And who knew there was so much to talk about when we're talking eggs?",
+      "cn": "谁知道谈论鸡蛋时有这么多内容呢？"
+    },
+    {
+      "id": 9,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 10,
+      "en": "Well, we always have eggs for breakfast and there are many ways of preparing them, so we're going to learn what the different ways are.",
+      "cn": "我们早餐总是吃鸡蛋，有很多种做法，所以我们要学习不同的做法。"
+    },
+    {
+      "id": 11,
+      "en": "Yes, and we'll learn some of the language that goes along with eggs.",
+      "cn": "是的，我们还会学习一些与鸡蛋相关的词汇。"
+    },
+    {
+      "id": 12,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 13,
+      "en": "So we have three words that we want to take a look at before we listen to our dialogue, so let's look at these in vocabulary preview.",
+      "cn": "在听对话之前，我们有三个词想先看一下，让我们在词汇预览中看看这些。"
+    },
+    {
+      "id": 14,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 15,
+      "en": "Our preview word for this lesson is picky.",
+      "cn": "本课的预览词是挑剔。"
+    },
+    {
+      "id": 16,
+      "en": "Picky.",
+      "cn": "挑剔。"
+    },
+    {
+      "id": 17,
+      "en": "Picky.",
+      "cn": "挑剔。"
+    },
+    {
+      "id": 18,
+      "en": "Picky.",
+      "cn": "挑剔。"
+    },
+    {
+      "id": 19,
+      "en": "So picky is an interesting adjective.",
+      "cn": "所以挑剔是一个有趣的形容词。"
+    },
+    {
+      "id": 20,
+      "en": "Okay, so if a person is picky, what does that mean?",
+      "cn": "好的，如果一个人很挑剔，那是什么意思？"
+    },
+    {
+      "id": 21,
+      "en": "They're very hard to please.",
+      "cn": "他们很难取悦。"
+    },
+    {
+      "id": 22,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 23,
+      "en": "So if your boss is picky and you give him a report and maybe it has, I don't know, a couple of mistakes or something.",
+      "cn": "如果你的老板很挑剔，你给他一份报告，可能有几个错误。"
+    },
+    {
+      "id": 24,
+      "en": "Yeah, he'll say, do it again.",
+      "cn": "是的，他会说，再来一次。"
+    },
+    {
+      "id": 25,
+      "en": "Change this, this, and this.",
+      "cn": "改这个、这个和这个。"
+    },
+    {
+      "id": 26,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 27,
+      "en": "So if you are picky, you want everything to be perfect.",
+      "cn": "所以如果你很挑剔，你想要一切都完美。"
+    },
+    {
+      "id": 28,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 29,
+      "en": "And if there's one small thing that's not, you won't be happy.",
+      "cn": "如果有一件小事不完美，你就不会开心。"
+    },
+    {
+      "id": 30,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 31,
+      "en": "So picky.",
+      "cn": "所以挑剔。"
+    },
+    {
+      "id": 32,
+      "en": "Interesting word.",
+      "cn": "有趣的词。"
+    },
+    {
+      "id": 33,
+      "en": "Now our next word.",
+      "cn": "现在我们的下一个词。"
+    },
+    {
+      "id": 34,
+      "en": "Yolk.",
+      "cn": "蛋黄。"
+    },
+    {
+      "id": 35,
+      "en": "Yolk.",
+      "cn": "蛋黄。"
+    },
+    {
+      "id": 36,
+      "en": "Y-O-L-K.",
+      "cn": "Y-O-L-K。"
+    },
+    {
+      "id": 37,
+      "en": "Yolk.",
+      "cn": "蛋黄。"
+    },
+    {
+      "id": 38,
+      "en": "So this word is actually not in the dialogue.",
+      "cn": "这个词实际上不在对话中。"
+    },
+    {
+      "id": 39,
+      "en": "It's not in the dialogue, but it's important that you know, right?",
+      "cn": "它不在对话中，但你知道这很重要，对吧？"
+    },
+    {
+      "id": 40,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 41,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 42,
+      "en": "So if you have an egg, the yellow part is called the yolk.",
+      "cn": "如果你有一个鸡蛋，黄色的部分叫做蛋黄。"
+    },
+    {
+      "id": 43,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 44,
+      "en": "And what about the other part?",
+      "cn": "那另一部分呢？"
+    },
+    {
+      "id": 45,
+      "en": "The white.",
+      "cn": "蛋白。"
+    },
+    {
+      "id": 46,
+      "en": "The white.",
+      "cn": "蛋白。"
+    },
+    {
+      "id": 47,
+      "en": "The white.",
+      "cn": "蛋白。"
+    },
+    {
+      "id": 48,
+      "en": "Or also called the egg white, right?",
+      "cn": "也叫蛋白，对吧？"
+    },
+    {
+      "id": 49,
+      "en": "Yes, egg white.",
+      "cn": "是的，蛋白。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so pretty simple.",
+      "cn": "好的，所以很简单。"
+    },
+    {
+      "id": 51,
+      "en": "Yolk and egg white.",
+      "cn": "蛋黄和蛋白。"
+    },
+    {
+      "id": 52,
+      "en": "Let's listen to our dialogue.",
+      "cn": "让我们听听我们的对话。"
+    },
+    {
+      "id": 53,
+      "en": "We are going to be listening to a couple who are having breakfast.",
+      "cn": "我们将听一对正在吃早餐的夫妻。"
+    },
+    {
+      "id": 54,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 55,
+      "en": "You're up early today.",
+      "cn": "你今天起得真早。"
+    },
+    {
+      "id": 56,
+      "en": "What's for breakfast?",
+      "cn": "早餐吃什么？"
+    },
+    {
+      "id": 57,
+      "en": "Well, I felt like baking, so I made some muffins.",
+      "cn": "嗯，我想烘焙，所以我做了一些松饼。"
+    },
+    {
+      "id": 58,
+      "en": "Smells good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 59,
+      "en": "I'll make some coffee.",
+      "cn": "我来做咖啡。"
+    },
+    {
+      "id": 60,
+      "en": "Do you want me to make you some eggs?",
+      "cn": "你想让我给你做鸡蛋吗？"
+    },
+    {
+      "id": 61,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 62,
+      "en": "I'll take mine sunny side up.",
+      "cn": "我喜欢煎蛋。"
+    },
+    {
+      "id": 63,
+      "en": "I don't know how you can eat your eggs like that.",
+      "cn": "我不知道你怎么能那样吃鸡蛋。"
+    },
+    {
+      "id": 64,
+      "en": "Ever since I was small, I've had eggs and soldiers.",
+      "cn": "从小我就吃鸡蛋和士兵。"
+    },
+    {
+      "id": 65,
+      "en": "You know, my dad had scrambled eggs every morning for 20 years.",
+      "cn": "你知道，我爸爸每天早上吃炒鸡蛋，持续了20年。"
+    },
+    {
+      "id": 66,
+      "en": "It drove my mom crazy.",
+      "cn": "这让我妈妈发疯。"
+    },
+    {
+      "id": 67,
+      "en": "You know what really drives me crazy?",
+      "cn": "你知道什么让我真的发疯吗？"
+    },
+    {
+      "id": 68,
+      "en": "When I ask for soft boiled eggs and they overcook them so they come out hard boiled.",
+      "cn": "当我要求软煮蛋时，他们把它煮过头了，变成了硬煮蛋。"
+    },
+    {
+      "id": 69,
+      "en": "How can you dip your toast into a hard boiled egg?",
+      "cn": "你怎么能把吐司浸入硬煮蛋里？"
+    },
+    {
+      "id": 70,
+      "en": "You're so picky sometimes.",
+      "cn": "你有时候真挑剔。"
+    },
+    {
+      "id": 71,
+      "en": "Here you go, honey.",
+      "cn": "给你，亲爱的。"
+    },
+    {
+      "id": 72,
+      "en": "Fried eggs.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 73,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 74,
+      "en": "I said sunny side up.",
+      "cn": "我说的是煎蛋。"
+    },
+    {
+      "id": 75,
+      "en": "How many times do I have to tell you?",
+      "cn": "我得告诉你多少次？"
+    },
+    {
+      "id": 76,
+      "en": "Well,",
+      "cn": "嗯，"
+    },
+    {
+      "id": 77,
+      "en": "she is definitely very picky and has a very bad temper.",
+      "cn": "她绝对很挑剔，而且脾气很差。"
+    },
+    {
+      "id": 78,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 79,
+      "en": "I can't believe anyone would get so angry over their breakfast.",
+      "cn": "我真不敢相信有人会因为早餐而生这么大的气。"
+    },
+    {
+      "id": 80,
+      "en": "Yeah, yeah.",
+      "cn": "是啊，是啊。"
+    },
+    {
+      "id": 81,
+      "en": "But I guess it is the most important meal of the day.",
+      "cn": "但我想这确实是一天中最重要的一餐。"
+    },
+    {
+      "id": 82,
+      "en": "So we heard a couple of different ways of describing how you prepare eggs.",
+      "cn": "所以我们听到了几种不同的描述鸡蛋的做法。"
+    },
+    {
+      "id": 83,
+      "en": "So let's take a look at that in Language Takeaway.",
+      "cn": "让我们在语言收获中看看。"
+    },
+    {
+      "id": 84,
+      "en": "Language Takeaway Okay, so our first preparation method.",
+      "cn": "语言收获 好的，我们的第一种做法。"
+    },
+    {
+      "id": 85,
+      "en": "My favorite.",
+      "cn": "我最喜欢的。"
+    },
+    {
+      "id": 86,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 87,
+      "en": "Sunny side up.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 88,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 89,
+      "en": "Sunny side up.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 90,
+      "en": "Sunny side up.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 91,
+      "en": "Now this is interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 92,
+      "en": "Sunny like the sun, right?",
+      "cn": "像太阳一样的煎蛋，对吧？"
+    },
+    {
+      "id": 93,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 94,
+      "en": "So when you fry an egg, right?",
+      "cn": "所以当你煎一个鸡蛋时，对吧？"
+    },
+    {
+      "id": 95,
+      "en": "And the yolk looks like a little sun, right?",
+      "cn": "蛋黄看起来像一个小太阳，对吧？"
+    },
+    {
+      "id": 96,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 97,
+      "en": "So why is it called sunny side up?",
+      "cn": "那为什么叫煎蛋呢？"
+    },
+    {
+      "id": 98,
+      "en": "I think because of what you just said.",
+      "cn": "我想是因为你刚才说的。"
+    },
+    {
+      "id": 99,
+      "en": "It looks like the sun.",
+      "cn": "它看起来像太阳。"
+    },
+    {
+      "id": 100,
+      "en": "But you don't cook the yolk, right?",
+      "cn": "但你不煮蛋黄，对吧？"
+    },
+    {
+      "id": 101,
+      "en": "Okay, yeah.",
+      "cn": "好的，是的。"
+    },
+    {
+      "id": 102,
+      "en": "The yolk is still yellow.",
+      "cn": "蛋黄还是黄色的。"
+    },
+    {
+      "id": 103,
+      "en": "It's still a little bit liquid.",
+      "cn": "还是有一点液体。"
+    },
+    {
+      "id": 104,
+      "en": "It's a little bit soft.",
+      "cn": "有点软。"
+    },
+    {
+      "id": 105,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 106,
+      "en": "Because the opposite would be a fried egg.",
+      "cn": "因为相反的就是煎蛋。"
+    },
+    {
+      "id": 107,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 108,
+      "en": "And that's our second word.",
+      "cn": "这是我们的第二个词。"
+    },
+    {
+      "id": 109,
+      "en": "Fried egg.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 110,
+      "en": "Fried egg.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 111,
+      "en": "So you put the egg in the pan and you cook it all the way through.",
+      "cn": "所以你把蛋放在锅里，煮熟。"
+    },
+    {
+      "id": 112,
+      "en": "All the way through.",
+      "cn": "煮熟。"
+    },
+    {
+      "id": 113,
+      "en": "So the yolk is not liquid anymore.",
+      "cn": "所以蛋黄不再是液体了。"
+    },
+    {
+      "id": 114,
+      "en": "It becomes hard and... Yes.",
+      "cn": "它变得硬了……是的。"
+    },
+    {
+      "id": 115,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 116,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 117,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 118,
+      "en": "A fried egg.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 119,
+      "en": "A fried egg.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 120,
+      "en": "Alright, so now let's take a look at our next set of eggs.",
+      "cn": "好吧，现在让我们看看下一组鸡蛋。"
+    },
+    {
+      "id": 121,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 122,
+      "en": "A soft boiled egg.",
+      "cn": "水煮蛋。"
+    },
+    {
+      "id": 123,
+      "en": "A soft boiled egg.",
+      "cn": "水煮蛋。"
+    },
+    {
+      "id": 124,
+      "en": "Soft boiled.",
+      "cn": "水煮。"
+    },
+    {
+      "id": 125,
+      "en": "Soft boiled.",
+      "cn": "水煮。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, so to boil, you put the egg... In water.",
+      "cn": "好的，水煮的话，你把蛋……放在水里。"
+    },
+    {
+      "id": 127,
+      "en": "In boiling water.",
+      "cn": "在开水中。"
+    },
+    {
+      "id": 128,
+      "en": "Yes, and make it cook.",
+      "cn": "是的，让它煮熟。"
+    },
+    {
+      "id": 129,
+      "en": "And make it cook.",
+      "cn": "让它煮熟。"
+    },
+    {
+      "id": 130,
+      "en": "So how long would you usually put it in for to be soft boiled?",
+      "cn": "那通常你会煮多久才能水煮？"
+    },
+    {
+      "id": 131,
+      "en": "Three minutes.",
+      "cn": "三分钟。"
+    },
+    {
+      "id": 132,
+      "en": "Four minutes.",
+      "cn": "四分钟。"
+    },
+    {
+      "id": 133,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 134,
+      "en": "So you only cook part of the egg, right?",
+      "cn": "所以你只煮部分蛋，对吧？"
+    },
+    {
+      "id": 135,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 136,
+      "en": "The yolk, the yellow part, stays a little bit wet, a little bit liquid.",
+      "cn": "蛋黄，黄色部分，保持有点湿，有点液体。"
+    },
+    {
+      "id": 137,
+      "en": "Uh -huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 138,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 139,
+      "en": "So again, the opposite would be... A hard boiled egg.",
+      "cn": "所以相反的就是……硬煮蛋。"
+    },
+    {
+      "id": 140,
+      "en": "Hard boiled egg.",
+      "cn": "硬煮蛋。"
+    },
+    {
+      "id": 141,
+      "en": "Hard boiled.",
+      "cn": "硬煮。"
+    },
+    {
+      "id": 142,
+      "en": "So hard boiled is when you cook the entire egg again.",
+      "cn": "硬煮就是你把整个蛋再煮一次。"
+    },
+    {
+      "id": 143,
+      "en": "Yes, so then it's hard like a ball.",
+      "cn": "是的，所以它就像一个球一样硬。"
+    },
+    {
+      "id": 144,
+      "en": "The entire egg.",
+      "cn": "整个蛋。"
+    },
+    {
+      "id": 145,
+      "en": "Mm -hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 146,
+      "en": "So with this soft boiled and hard boiled eggs, this takes us to our next form.",
+      "cn": "所以有了这个水煮蛋和硬煮蛋，这带我们进入下一个形式。"
+    },
+    {
+      "id": 147,
+      "en": "Eggs and soldiers.",
+      "cn": "鸡蛋和士兵。"
+    },
+    {
+      "id": 148,
+      "en": "Eggs and soldiers.",
+      "cn": "鸡蛋和士兵。"
+    },
+    {
+      "id": 149,
+      "en": "Eggs and soldiers.",
+      "cn": "鸡蛋和士兵。"
+    },
+    {
+      "id": 150,
+      "en": "Eggs and soldiers.",
+      "cn": "鸡蛋和士兵。"
+    },
+    {
+      "id": 151,
+      "en": "Now this is really interesting.",
+      "cn": "现在这真的很有趣。"
+    },
+    {
+      "id": 152,
+      "en": "I didn't really know about this before.",
+      "cn": "我之前并不知道这个。"
+    },
+    {
+      "id": 153,
+      "en": "It kind of sounds like you're having eggs with a group of soldiers from the army.",
+      "cn": "听起来像是你在和一群士兵吃鸡蛋。"
+    },
+    {
+      "id": 154,
+      "en": "Well, this is a very British way of eating eggs.",
+      "cn": "这是非常英国的吃蛋方式。"
+    },
+    {
+      "id": 155,
+      "en": "So you have your soft boiled egg in a cup and you have a piece of toast.",
+      "cn": "所以你把水煮蛋放在杯子里，旁边有一片吐司。"
+    },
+    {
+      "id": 156,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 157,
+      "en": "But the toast is cut into long pieces.",
+      "cn": "但吐司切成长条。"
+    },
+    {
+      "id": 158,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 159,
+      "en": "And then you take those pieces and you dip them into the egg yolk.",
+      "cn": "然后你把那些条浸入蛋黄中。"
+    },
+    {
+      "id": 160,
+      "en": "It's delicious.",
+      "cn": "很美味。"
+    },
+    {
+      "id": 161,
+      "en": "It's good.",
+      "cn": "很好。"
+    },
+    {
+      "id": 162,
+      "en": "Typical English way of eating eggs.",
+      "cn": "典型的英式吃蛋方式。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, so eggs and soldiers.",
+      "cn": "好的，所以鸡蛋和士兵。"
+    },
+    {
+      "id": 164,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 165,
+      "en": "And this takes us to our last form of egg preparation and probably the most popular.",
+      "cn": "这带我们进入最后一种蛋的准备方式，可能是最受欢迎的。"
+    },
+    {
+      "id": 166,
+      "en": "Yes, scrambled eggs.",
+      "cn": "是的，炒蛋。"
+    },
+    {
+      "id": 167,
+      "en": "Scrambled eggs.",
+      "cn": "炒蛋。"
+    },
+    {
+      "id": 168,
+      "en": "Scrambled eggs.",
+      "cn": "炒蛋。"
+    },
+    {
+      "id": 169,
+      "en": "Take eggs, put them in a pan, and then you just move them all over the place.",
+      "cn": "把鸡蛋放在锅里，然后你就把它们搅拌。"
+    },
+    {
+      "id": 170,
+      "en": "Mix them all up.",
+      "cn": "把它们混合在一起。"
+    },
+    {
+      "id": 171,
+      "en": "Mix them all up.",
+      "cn": "把它们混合在一起。"
+    },
+    {
+      "id": 172,
+      "en": "So the yellow... so the yolk and the white are mixed together.",
+      "cn": "所以蛋黄……所以蛋黄和蛋白混合在一起。"
+    },
+    {
+      "id": 173,
+      "en": "Mixed together.",
+      "cn": "混合在一起。"
+    },
+    {
+      "id": 174,
+      "en": "Mm -hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 175,
+      "en": "Alright, so we've looked at a lot of egg preparation and now we can listen to our dialogue for the second time.",
+      "cn": "好的，我们已经看了很多蛋的准备方式，现在我们可以再听一次对话。"
+    },
+    {
+      "id": 176,
+      "en": "And then we'll come back and look at some phrases.",
+      "cn": "然后我们会回来看看一些短语。"
+    },
+    {
+      "id": 177,
+      "en": "Wow, you're up early today.",
+      "cn": "哇，你今天起得真早。"
+    },
+    {
+      "id": 178,
+      "en": "What's for breakfast?",
+      "cn": "早餐吃什么？"
+    },
+    {
+      "id": 179,
+      "en": "Well, I felt like baking, so I made some muffins.",
+      "cn": "嗯，我想烘焙，所以我做了一些松饼。"
+    },
+    {
+      "id": 180,
+      "en": "Smells good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 181,
+      "en": "I'll make some coffee.",
+      "cn": "我来做咖啡。"
+    },
+    {
+      "id": 182,
+      "en": "Do you want me to make you some eggs?",
+      "cn": "你想让我给你做鸡蛋吗？"
+    },
+    {
+      "id": 183,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 184,
+      "en": "I'll take mine sunny side up.",
+      "cn": "我想要阳光面朝上。"
+    },
+    {
+      "id": 185,
+      "en": "Ew, I don't know how you can eat your eggs like that.",
+      "cn": "哎，我不知道你怎么能吃这样的鸡蛋。"
+    },
+    {
+      "id": 186,
+      "en": "Ever since I was small, I've had eggs and soldiers.",
+      "cn": "从小我就吃鸡蛋和士兵。"
+    },
+    {
+      "id": 187,
+      "en": "You know, my dad had scrambled eggs every morning for 20 years.",
+      "cn": "你知道，我爸爸每天早上吃炒蛋，持续了20年。"
+    },
+    {
+      "id": 188,
+      "en": "It drove my mom crazy.",
+      "cn": "这让我妈妈疯了。"
+    },
+    {
+      "id": 189,
+      "en": "You know what really drives me crazy?",
+      "cn": "你知道什么真的让我疯？"
+    },
+    {
+      "id": 190,
+      "en": "When I asked for soft-boiled eggs and they overcook them so they come out hard-boiled.",
+      "cn": "当我要求水煮蛋时，他们煮过头了，变成硬煮蛋。"
+    },
+    {
+      "id": 191,
+      "en": "How can you dip your toast into a hard-boiled egg?",
+      "cn": "你怎么能把吐司浸入硬煮蛋里？"
+    },
+    {
+      "id": 192,
+      "en": "You're so picky sometimes.",
+      "cn": "你有时候真挑剔。"
+    },
+    {
+      "id": 193,
+      "en": "Here you go, honey.",
+      "cn": "给你，亲爱的。"
+    },
+    {
+      "id": 194,
+      "en": "Fried eggs.",
+      "cn": "煎蛋。"
+    },
+    {
+      "id": 195,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 196,
+      "en": "I said sunny side up!",
+      "cn": "我说的是单面煎！"
+    },
+    {
+      "id": 197,
+      "en": "How many times do I have to tell you?",
+      "cn": "我得告诉你多少次？"
+    },
+    {
+      "id": 198,
+      "en": "Interesting that the man in this dialogue is the one doing the baking.",
+      "cn": "有趣的是，这段对话中的男人在烘焙。"
+    },
+    {
+      "id": 199,
+      "en": "Yeah, well, that's modern days.",
+      "cn": "是啊，这就是现代。"
+    },
+    {
+      "id": 200,
+      "en": "Men are learning how to cook.",
+      "cn": "男人们正在学习做饭。"
+    },
+    {
+      "id": 201,
+      "en": "House husbands.",
+      "cn": "家庭丈夫。"
+    },
+    {
+      "id": 202,
+      "en": "Alright, well, since this house husband felt like baking, I think we should look at this in one other phrase in Fluency Builder.",
+      "cn": "好吧，既然这个家庭丈夫想烘焙，我想我们应该在流利构建器中看一下这个短语。"
+    },
+    {
+      "id": 203,
+      "en": "Okay, so great phrase.",
+      "cn": "好的，这是个很好的短语。"
+    },
+    {
+      "id": 204,
+      "en": "He said, I felt like baking.",
+      "cn": "他说，我想烘焙。"
+    },
+    {
+      "id": 205,
+      "en": "I felt like baking.",
+      "cn": "我想烘焙。"
+    },
+    {
+      "id": 206,
+      "en": "So let's take a look at this.",
+      "cn": "那我们来看看这个。"
+    },
+    {
+      "id": 207,
+      "en": "He feels like or he felt like in the past.",
+      "cn": "他想或他过去想。"
+    },
+    {
+      "id": 208,
+      "en": "What does that mean when you feel like?",
+      "cn": "当你想做某事时，这意味着什么？"
+    },
+    {
+      "id": 209,
+      "en": "You want to do it.",
+      "cn": "你想去做。"
+    },
+    {
+      "id": 210,
+      "en": "You have the desire to do it.",
+      "cn": "你有做的欲望。"
+    },
+    {
+      "id": 211,
+      "en": "Okay, and then to bake.",
+      "cn": "好的，然后是烘焙。"
+    },
+    {
+      "id": 212,
+      "en": "And now this verb is in the gerund form.",
+      "cn": "现在这个动词是动名词形式。"
+    },
+    {
+      "id": 213,
+      "en": "That's right, the ing form.",
+      "cn": "没错，是ing形式。"
+    },
+    {
+      "id": 214,
+      "en": "And that's the rule, right?",
+      "cn": "这就是规则，对吧？"
+    },
+    {
+      "id": 215,
+      "en": "I feel like playing soccer.",
+      "cn": "我想踢足球。"
+    },
+    {
+      "id": 216,
+      "en": "Right, I feel like eating lunch.",
+      "cn": "对，我想吃午餐。"
+    },
+    {
+      "id": 217,
+      "en": "I felt like going to the movies.",
+      "cn": "我想去看电影。"
+    },
+    {
+      "id": 218,
+      "en": "That's the way you would say this.",
+      "cn": "这就是你会这样说。"
+    },
+    {
+      "id": 219,
+      "en": "You have the desire, you feel like doing something.",
+      "cn": "你有欲望，你想做某事。"
+    },
+    {
+      "id": 220,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 221,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 222,
+      "en": "And now let's take a look at this second phrase.",
+      "cn": "现在我们来看看这个第二个短语。"
+    },
+    {
+      "id": 223,
+      "en": "Drives me crazy.",
+      "cn": "让我发疯。"
+    },
+    {
+      "id": 224,
+      "en": "All right, this is a very descriptive phrase.",
+      "cn": "好吧，这是一个非常描述性的短语。"
+    },
+    {
+      "id": 225,
+      "en": "And I think if we listen to some examples, it will help us understand the meaning.",
+      "cn": "我认为如果我们听一些例子，会帮助我们理解这个意思。"
+    },
+    {
+      "id": 226,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 227,
+      "en": "This music is driving me crazy.",
+      "cn": "这音乐让我发疯。"
+    },
+    {
+      "id": 228,
+      "en": "Turn it down.",
+      "cn": "把音量调低。"
+    },
+    {
+      "id": 229,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 230,
+      "en": "Don't leave garbage in my car.",
+      "cn": "不要在我的车里留下垃圾。"
+    },
+    {
+      "id": 231,
+      "en": "It drives me crazy.",
+      "cn": "这让我发疯。"
+    },
+    {
+      "id": 232,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 233,
+      "en": "Your mom is driving me crazy.",
+      "cn": "你妈妈让我发疯。"
+    },
+    {
+      "id": 234,
+      "en": "She keeps calling me.",
+      "cn": "她一直给我打电话。"
+    },
+    {
+      "id": 235,
+      "en": "All right, so if something drives you crazy.",
+      "cn": "好吧，如果某事让你发疯。"
+    },
+    {
+      "id": 236,
+      "en": "It makes you feel very angry or annoyed.",
+      "cn": "它让你感到非常生气或恼火。"
+    },
+    {
+      "id": 237,
+      "en": "Irritated.",
+      "cn": "恼怒。"
+    },
+    {
+      "id": 238,
+      "en": "Yeah, frustrated.",
+      "cn": "是啊，沮丧。"
+    },
+    {
+      "id": 239,
+      "en": "But it can also be positive, right?",
+      "cn": "但这也可以是积极的，对吧？"
+    },
+    {
+      "id": 240,
+      "en": "That girl drives me crazy.",
+      "cn": "那女孩让我发疯。"
+    },
+    {
+      "id": 241,
+      "en": "As in you really, really, really like her.",
+      "cn": "就是你真的非常喜欢她。"
+    },
+    {
+      "id": 242,
+      "en": "I don't know, it sounds a little bit inappropriate to me.",
+      "cn": "我不知道，这听起来有点不合适。"
+    },
+    {
+      "id": 243,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 244,
+      "en": "I think it's okay.",
+      "cn": "我觉得没关系。"
+    },
+    {
+      "id": 245,
+      "en": "She's got me thinking, she's got me in the clouds or something like that.",
+      "cn": "她让我思考，她让我飘飘然。"
+    },
+    {
+      "id": 246,
+      "en": "All right, well maybe there's something about you that I don't need to know.",
+      "cn": "好吧，也许你有些事情我不需要知道。"
+    },
+    {
+      "id": 247,
+      "en": "So I'll let you keep that thought to yourself.",
+      "cn": "所以我让你把这个想法留给自己。"
+    },
+    {
+      "id": 248,
+      "en": "All right, well I'm just saying we could use it in a positive form as well.",
+      "cn": "好吧，我只是说我们也可以用它来表达积极的形式。"
+    },
+    {
+      "id": 249,
+      "en": "Okay, you're just saying.",
+      "cn": "好的，你只是说。"
+    },
+    {
+      "id": 250,
+      "en": "I'm just saying.",
+      "cn": "我只是说。"
+    },
+    {
+      "id": 251,
+      "en": "All right, so drives me crazy.",
+      "cn": "好吧，所以让我发疯。"
+    },
+    {
+      "id": 252,
+      "en": "Really great phrase and you can use it in all of these different situations like we heard.",
+      "cn": "真是个很好的短语，你可以在我们听到的所有不同情况下使用它。"
+    },
+    {
+      "id": 253,
+      "en": "So let's listen to our dialogue for the last time and then we'll come back and talk a little bit more.",
+      "cn": "所以让我们最后再听一次我们的对话，然后我们再回来聊聊。"
+    },
+    {
+      "id": 254,
+      "en": "Wow, you're up early today.",
+      "cn": "哇，你今天起得真早。"
+    },
+    {
+      "id": 255,
+      "en": "What's for breakfast?",
+      "cn": "早餐吃什么？"
+    },
+    {
+      "id": 256,
+      "en": "Well, I felt like baking so I made some muffins.",
+      "cn": "嗯，我想烘焙，所以我做了一些松饼。"
+    },
+    {
+      "id": 257,
+      "en": "Smells good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 258,
+      "en": "I'll make some coffee.",
+      "cn": "我来做咖啡。"
+    },
+    {
+      "id": 259,
+      "en": "Do you want me to make you some eggs?",
+      "cn": "你想让我给你做些鸡蛋吗？"
+    },
+    {
+      "id": 260,
+      "en": "Sure, I'll take mine sunny side up.",
+      "cn": "当然，我要我的单面煎。"
+    },
+    {
+      "id": 261,
+      "en": "I don't know how you can eat your eggs like that.",
+      "cn": "我不知道你怎么能这样吃鸡蛋。"
+    },
+    {
+      "id": 262,
+      "en": "Ever since I was small I've had eggs and soldiers.",
+      "cn": "从小我就吃鸡蛋和士兵。"
+    },
+    {
+      "id": 263,
+      "en": "You know, my dad had scrambled eggs every morning for 20 years.",
+      "cn": "你知道，我爸爸每天早上吃20年的炒蛋。"
+    },
+    {
+      "id": 264,
+      "en": "It drove my mom crazy.",
+      "cn": "这让我的妈妈发疯。"
+    },
+    {
+      "id": 265,
+      "en": "You know what really drives me crazy?",
+      "cn": "你知道什么真的让我发疯吗？"
+    },
+    {
+      "id": 266,
+      "en": "When I ask for soft boiled eggs and they overcook them so they come out hard boiled.",
+      "cn": "当我要求水煮蛋时，他们把它煮过头了，结果变成了硬煮蛋。"
+    },
+    {
+      "id": 267,
+      "en": "How can you dip your toast into a hard boiled egg?",
+      "cn": "你怎么能把吐司浸入硬煮蛋里？"
+    },
+    {
+      "id": 268,
+      "en": "You're so picky sometimes.",
+      "cn": "你有时候真挑剔。"
+    },
+    {
+      "id": 269,
+      "en": "Here you go honey, fried eggs.",
+      "cn": "给你，亲爱的，煎蛋。"
+    },
+    {
+      "id": 270,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 271,
+      "en": "I said sunny side up.",
+      "cn": "我说的是单面煎。"
+    },
+    {
+      "id": 272,
+      "en": "How many times do I have to tell you?",
+      "cn": "我得告诉你多少次？"
+    },
+    {
+      "id": 273,
+      "en": "Well, I think there are some people who really really love eating eggs for breakfast and some people who just can't stand it.",
+      "cn": "好吧，我认为有些人真的非常喜欢早餐吃鸡蛋，有些人则根本无法忍受。"
+    },
+    {
+      "id": 274,
+      "en": "Yeah, I don't know who though.",
+      "cn": "是啊，我不知道是谁。"
+    },
+    {
+      "id": 275,
+      "en": "I mean who doesn't like eggs in the morning?",
+      "cn": "我是说，谁不喜欢早上的鸡蛋？"
+    },
+    {
+      "id": 276,
+      "en": "I know, I'm a big fan.",
+      "cn": "我知道，我是个大粉丝。"
+    },
+    {
+      "id": 277,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 278,
+      "en": "Eggs, bacon, toast.",
+      "cn": "鸡蛋，培根，吐司。"
+    },
+    {
+      "id": 279,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 280,
+      "en": "Good stuff.",
+      "cn": "好东西。"
+    },
+    {
+      "id": 281,
+      "en": "Traditional American type breakfast.",
+      "cn": "传统的美式早餐。"
+    },
+    {
+      "id": 282,
+      "en": "Now you were telling me that you have some traditions when you eat eggs.",
+      "cn": "现在你告诉我你吃鸡蛋时有一些传统。"
+    },
+    {
+      "id": 283,
+      "en": "I know, I'm not sure if this is just in my family but I think actually it might be common with other people as well.",
+      "cn": "我知道，我不确定这是否只是我家里的事，但我觉得实际上这可能在其他人中也很常见。"
+    },
+    {
+      "id": 284,
+      "en": "When you eat a soft boiled or hard boiled egg, you have to eat all of the egg outside of the shell and then you have to break the bottom of the shell after you finished.",
+      "cn": "当你吃水煮蛋或硬煮蛋时，你必须把蛋壳外面的蛋都吃掉，然后在吃完后打破蛋壳的底部。"
+    },
+    {
+      "id": 285,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 286,
+      "en": "So that the fairies who live in your egg cup can come out.",
+      "cn": "这样住在你蛋杯里的仙女就可以出来。"
+    },
+    {
+      "id": 287,
+      "en": "So it's kind of like a superstition.",
+      "cn": "所以这有点像迷信。"
+    },
+    {
+      "id": 288,
+      "en": "Yeah, I guess it is.",
+      "cn": "是的，我想确实是。"
+    },
+    {
+      "id": 289,
+      "en": "Yeah, so I don't know.",
+      "cn": "是的，我不知道。"
+    },
+    {
+      "id": 290,
+      "en": "You guys, do you have any egg traditions or any other crazy food stories like that?",
+      "cn": "你们，有没有什么鸡蛋的传统或其他疯狂的食物故事？"
+    },
+    {
+      "id": 291,
+      "en": "Well, for example, I was telling you that when I prepare scrambled eggs, sometimes I like to take some rice, some rice that has already been cooked, put it in the pan and then take some eggs, two eggs, put it on top of the rice and scramble the rice with the eggs.",
+      "cn": "嗯，比如说，我跟你说过，当我准备炒鸡蛋时，有时我喜欢拿一些已经煮好的米饭，放在锅里，然后拿两个鸡蛋，放在米饭上面，把米饭和鸡蛋一起炒。"
+    },
+    {
+      "id": 292,
+      "en": "Okay, for breakfast?",
+      "cn": "好的，早餐吃？"
+    },
+    {
+      "id": 293,
+      "en": "Yeah, it could be for breakfast.",
+      "cn": "是的，可以是早餐。"
+    },
+    {
+      "id": 294,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 295,
+      "en": "Yeah, a little bit, not like a huge plate of rice or maybe at night you don't have anything to eat.",
+      "cn": "是的，稍微一点，不是大盘米饭，或者晚上你没有东西吃。"
+    },
+    {
+      "id": 296,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 297,
+      "en": "Scrambled eggs with rice.",
+      "cn": "炒鸡蛋配米饭。"
+    },
+    {
+      "id": 298,
+      "en": "It's a poor man's food.",
+      "cn": "这是穷人的食物。"
+    },
+    {
+      "id": 299,
+      "en": "Alright, well, it's also a quick man's food.",
+      "cn": "好吧，这也是快速的食物。"
+    },
+    {
+      "id": 300,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 301,
+      "en": "So let us know if you guys have any egg preparations or any special egg recipes or traditions that you practice.",
+      "cn": "所以如果你们有任何蛋的做法或特别的蛋食谱或传统，请告诉我们。"
+    },
+    {
+      "id": 302,
+      "en": "Visit our website at EnglishPod.com where you can leave all of your comments and questions.",
+      "cn": "访问我们的网站 EnglishPod.com，您可以留下所有评论和问题。"
+    },
+    {
+      "id": 303,
+      "en": "Exactly, and as always, we are there to answer them and solve any problems.",
+      "cn": "没错，和往常一样，我们会回答并解决任何问题。"
+    },
+    {
+      "id": 304,
+      "en": "Well, we're out of time for today, but until next time, bye.",
+      "cn": "好吧，今天的时间到了，但下次见，再见。"
+    }
+  ]
+}

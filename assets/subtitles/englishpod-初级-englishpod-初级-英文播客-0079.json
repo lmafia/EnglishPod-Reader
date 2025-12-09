@@ -1,0 +1,1334 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0079",
+  "title": "EnglishPod 初级 英文播客 0079",
+  "totalSegments": 265,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we have a special lesson for all our Sci-Fi or science fiction fans.",
+      "cn": "今天我们为所有科幻迷准备了一节特别课程。"
+    },
+    {
+      "id": 6,
+      "en": "Yes, and actually one special user was the inspiration for this lesson.",
+      "cn": "是的，实际上有一位特别的用户启发了这节课。"
+    },
+    {
+      "id": 7,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 8,
+      "en": "Wolfgang.",
+      "cn": "Wolfgang。"
+    },
+    {
+      "id": 9,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 10,
+      "en": "This one is for you.",
+      "cn": "这节课是为你准备的。"
+    },
+    {
+      "id": 11,
+      "en": "Well, Sci-Fi is very popular.",
+      "cn": "科幻非常受欢迎。"
+    },
+    {
+      "id": 12,
+      "en": "Star Trek, Star Wars.",
+      "cn": "星际迷航，星球大战。"
+    },
+    {
+      "id": 13,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 14,
+      "en": "And, well, there are some really interesting words that maybe you wouldn't use in real life or in normal circumstances, but you do want to understand these movies or why they say these words.",
+      "cn": "还有一些非常有趣的词，可能在现实生活中或正常情况下不会使用，但你确实想理解这些电影或他们为什么说这些词。"
+    },
+    {
+      "id": 15,
+      "en": "So we're going to look at some Sci-Fi language in this lesson.",
+      "cn": "所以我们将在这节课中看看一些科幻语言。"
+    },
+    {
+      "id": 16,
+      "en": "But before we start, let's look at vocabulary preview.",
+      "cn": "但在开始之前，让我们先看一下词汇预览。"
+    },
+    {
+      "id": 17,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 18,
+      "en": "And in vocabulary preview today we have one phrase only.",
+      "cn": "今天的词汇预览只有一个短语。"
+    },
+    {
+      "id": 19,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 20,
+      "en": "Unidentified spacecraft.",
+      "cn": "不明飞行器。"
+    },
+    {
+      "id": 21,
+      "en": "Unidentified spacecraft.",
+      "cn": "不明飞行器。"
+    },
+    {
+      "id": 22,
+      "en": "Unidentified spacecraft.",
+      "cn": "不明飞行器。"
+    },
+    {
+      "id": 23,
+      "en": "Okay, so unidentified.",
+      "cn": "好的，所以不明。"
+    },
+    {
+      "id": 24,
+      "en": "You don't know which one it is.",
+      "cn": "你不知道它是什么。"
+    },
+    {
+      "id": 25,
+      "en": "You don't know the name.",
+      "cn": "你不知道名字。"
+    },
+    {
+      "id": 26,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 27,
+      "en": "You don't know the identity.",
+      "cn": "你不知道身份。"
+    },
+    {
+      "id": 28,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 29,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 30,
+      "en": "And a spacecraft.",
+      "cn": "还有飞行器。"
+    },
+    {
+      "id": 31,
+      "en": "A spacecraft is a vehicle that travels in space.",
+      "cn": "飞行器是一个在太空中旅行的交通工具。"
+    },
+    {
+      "id": 32,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 33,
+      "en": "Also known as a spaceship.",
+      "cn": "也称为宇宙飞船。"
+    },
+    {
+      "id": 34,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 35,
+      "en": "Actually this is interesting because you know the word UFO.",
+      "cn": "其实这很有趣，因为你知道UFO这个词。"
+    },
+    {
+      "id": 36,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 37,
+      "en": "That comes from... Unidentified flying object.",
+      "cn": "它来自... 不明飞行物。"
+    },
+    {
+      "id": 38,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 39,
+      "en": "So, unidentified spacecraft and an unknown vehicle flying in space.",
+      "cn": "所以，不明飞行器和在太空中飞行的未知交通工具。"
+    },
+    {
+      "id": 40,
+      "en": "Right, a UFO.",
+      "cn": "对，一个UFO。"
+    },
+    {
+      "id": 41,
+      "en": "Have you ever seen a UFO?",
+      "cn": "你见过UFO吗？"
+    },
+    {
+      "id": 42,
+      "en": "No.",
+      "cn": "没有。"
+    },
+    {
+      "id": 43,
+      "en": "Oh, that's too bad.",
+      "cn": "哦，那太可惜了。"
+    },
+    {
+      "id": 44,
+      "en": "Have you?",
+      "cn": "你见过吗？"
+    },
+    {
+      "id": 45,
+      "en": "Of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 46,
+      "en": "Hasn't anyone?",
+      "cn": "没有人见过吗？"
+    },
+    {
+      "id": 47,
+      "en": "Alright, well, I think the people in our dialogue may or may not have seen a UFO.",
+      "cn": "好吧，我想我们对话中的人可能见过也可能没见过UFO。"
+    },
+    {
+      "id": 48,
+      "en": "So, why don't we take a listen.",
+      "cn": "那么，我们来听听。"
+    },
+    {
+      "id": 49,
+      "en": "They are breaking through.",
+      "cn": "他们正在突破。"
+    },
+    {
+      "id": 50,
+      "en": "Search your blasters to full power.",
+      "cn": "将你的激光炮调至全功率。"
+    },
+    {
+      "id": 51,
+      "en": "Excellent job.",
+      "cn": "干得好。"
+    },
+    {
+      "id": 52,
+      "en": "Search the ship.",
+      "cn": "搜索船只。"
+    },
+    {
+      "id": 53,
+      "en": "She's got to be in here somewhere.",
+      "cn": "她一定在这里某个地方。"
+    },
+    {
+      "id": 54,
+      "en": "Bring her to me.",
+      "cn": "把她带给我。"
+    },
+    {
+      "id": 55,
+      "en": "Lord hater, we have a survivor here.",
+      "cn": "领主仇恨者，我们这里有一个幸存者。"
+    },
+    {
+      "id": 56,
+      "en": "Where is she?",
+      "cn": "她在哪里？"
+    },
+    {
+      "id": 57,
+      "en": "Don't make me destroy you.",
+      "cn": "别逼我毁了你。"
+    },
+    {
+      "id": 58,
+      "en": "Tell me where she is.",
+      "cn": "告诉我她在哪里。"
+    },
+    {
+      "id": 59,
+      "en": "Not so fast.",
+      "cn": "不要太快。"
+    },
+    {
+      "id": 60,
+      "en": "She will no longer be a prisoner.",
+      "cn": "她将不再是囚犯。"
+    },
+    {
+      "id": 61,
+      "en": "It's time you and I settled this once and for all.",
+      "cn": "是时候你我彻底解决这个问题了。"
+    },
+    {
+      "id": 62,
+      "en": "You are unwise to think you can defeat me.",
+      "cn": "你认为你能打败我真是太天真了。"
+    },
+    {
+      "id": 63,
+      "en": "You know nothing of the power of the obscure side.",
+      "cn": "你对模糊一方的力量一无所知。"
+    },
+    {
+      "id": 64,
+      "en": "We will stop you.",
+      "cn": "我们会阻止你。"
+    },
+    {
+      "id": 65,
+      "en": "Lord hater, we have an unidentified spacecraft taking off from the rear dock.",
+      "cn": "领主仇恨者，我们有一艘不明飞行器从后方码头起飞。"
+    },
+    {
+      "id": 66,
+      "en": "They somehow managed to escape our tractor beam.",
+      "cn": "他们以某种方式逃脱了我们的拖船束缚。"
+    },
+    {
+      "id": 67,
+      "en": "After them.",
+      "cn": "追上他们。"
+    },
+    {
+      "id": 68,
+      "en": "They are accelerating towards the speed of light.",
+      "cn": "他们正在加速到光速。"
+    },
+    {
+      "id": 69,
+      "en": "We lost them sir.",
+      "cn": "我们失去他们了，先生。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, so a really cool lord hater, huh?",
+      "cn": "好的，真酷的领主仇恨者，嗯？"
+    },
+    {
+      "id": 71,
+      "en": "The music and everything.",
+      "cn": "音乐和一切。"
+    },
+    {
+      "id": 72,
+      "en": "Well, you may have noticed that it's similar to a certain movie out there.",
+      "cn": "好吧，你可能注意到这和某部电影很相似。"
+    },
+    {
+      "id": 73,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 74,
+      "en": "I mean, it seems quite original to me.",
+      "cn": "我觉得这对我来说相当原创。"
+    },
+    {
+      "id": 75,
+      "en": "But everything for educational purposes.",
+      "cn": "但一切都是为了教育目的。"
+    },
+    {
+      "id": 76,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, so we saw some words that were maybe a little bit difficult.",
+      "cn": "好的，我们看到了一些可能有点困难的词。"
+    },
+    {
+      "id": 78,
+      "en": "So let's take a look at these now in language takeaway.",
+      "cn": "现在让我们在语言收获中看看这些。"
+    },
+    {
+      "id": 79,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 80,
+      "en": "Well, I guess in the dialogue, the bad guys were breaking through.",
+      "cn": "好吧，我想在对话中，坏人正在突破。"
+    },
+    {
+      "id": 81,
+      "en": "Breaking through.",
+      "cn": "突破。"
+    },
+    {
+      "id": 82,
+      "en": "Breaking through.",
+      "cn": "突破。"
+    },
+    {
+      "id": 83,
+      "en": "In the simple present, it would be to break through.",
+      "cn": "在简单现在时中，它是突破。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, breakthrough.",
+      "cn": "好的，突破。"
+    },
+    {
+      "id": 85,
+      "en": "And what does that mean?",
+      "cn": "那是什么意思？"
+    },
+    {
+      "id": 86,
+      "en": "Well, let's listen to some examples to help us find out.",
+      "cn": "好吧，让我们听一些例子来帮助我们找出答案。"
+    },
+    {
+      "id": 87,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 88,
+      "en": "After 15 minutes, the workers broke through the wall and rescued everyone from the fire.",
+      "cn": "15分钟后，工人们突破了墙壁，救出了所有被困在火灾中的人。"
+    },
+    {
+      "id": 89,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 90,
+      "en": "He is such a bad guy.",
+      "cn": "他真是个坏人。"
+    },
+    {
+      "id": 91,
+      "en": "They are breaking through our impenetrable wall.",
+      "cn": "他们正在突破我们的坚不可摧的墙。"
+    },
+    {
+      "id": 92,
+      "en": "Run!",
+      "cn": "快跑！"
+    },
+    {
+      "id": 93,
+      "en": "Alright, so it's kind of like to enter by force somewhere.",
+      "cn": "好吧，这有点像是强行进入某个地方。"
+    },
+    {
+      "id": 94,
+      "en": "Yeah, to maybe break some glass and come into a room or something like that.",
+      "cn": "是的，可能是打破一些玻璃进入一个房间或类似的事情。"
+    },
+    {
+      "id": 95,
+      "en": "Break through.",
+      "cn": "突破。"
+    },
+    {
+      "id": 96,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 97,
+      "en": "Alright, so lord hater had a fight with his enemy and he said he wants to settle this.",
+      "cn": "好吧，领主仇恨者和他的敌人打了一架，他说他想解决这个问题。"
+    },
+    {
+      "id": 98,
+      "en": "To settle this.",
+      "cn": "解决这个问题。"
+    },
+    {
+      "id": 99,
+      "en": "Settle.",
+      "cn": "解决。"
+    },
+    {
+      "id": 100,
+      "en": "So what do you do when you settle something?",
+      "cn": "那么，当你解决某件事情时，你会怎么做？"
+    },
+    {
+      "id": 101,
+      "en": "Well, when you settle something is you end a fight or a dispute.",
+      "cn": "嗯，解决某事就是结束一场争斗或争议。"
+    },
+    {
+      "id": 102,
+      "en": "Or an argument.",
+      "cn": "或者争论。"
+    },
+    {
+      "id": 103,
+      "en": "Or an argument.",
+      "cn": "或者争论。"
+    },
+    {
+      "id": 104,
+      "en": "Or a problem.",
+      "cn": "或者问题。"
+    },
+    {
+      "id": 105,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 106,
+      "en": "When you settle an argument, does everyone always agree?",
+      "cn": "当你解决争论时，大家总是同意吗？"
+    },
+    {
+      "id": 107,
+      "en": "No, not always, right?",
+      "cn": "不，总不是，对吧？"
+    },
+    {
+      "id": 108,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 109,
+      "en": "Sometimes you are forced to agree.",
+      "cn": "有时你被迫同意。"
+    },
+    {
+      "id": 110,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 111,
+      "en": "Not everyone agrees but you have no other choice.",
+      "cn": "不是每个人都同意，但你别无选择。"
+    },
+    {
+      "id": 112,
+      "en": "So it's a little bit different from reaching an agreement because there's usually a winner and a loser.",
+      "cn": "所以这与达成协议有点不同，因为通常会有赢家和输家。"
+    },
+    {
+      "id": 113,
+      "en": "Right, exactly.",
+      "cn": "对，正是如此。"
+    },
+    {
+      "id": 114,
+      "en": "Well now another very popular word and within Sci-Fi is this word tractor beam.",
+      "cn": "现在另一个非常流行的词，在科幻中是这个词：牵引光束。"
+    },
+    {
+      "id": 115,
+      "en": "Tractor beam.",
+      "cn": "牵引光束。"
+    },
+    {
+      "id": 116,
+      "en": "A tractor beam.",
+      "cn": "一个牵引光束。"
+    },
+    {
+      "id": 117,
+      "en": "Tractor beam.",
+      "cn": "牵引光束。"
+    },
+    {
+      "id": 118,
+      "en": "Now I'm not sure if this really exists in real life.",
+      "cn": "现在我不确定这在现实生活中是否真的存在。"
+    },
+    {
+      "id": 119,
+      "en": "Well I've never heard of it.",
+      "cn": "嗯，我从未听说过。"
+    },
+    {
+      "id": 120,
+      "en": "But a tractor beam in Sci-Fi movies is like this invisible force that grabs an object and doesn't let it escape and brings it towards another spaceship.",
+      "cn": "但在科幻电影中，牵引光束就像是一种看不见的力量，抓住一个物体，不让它逃脱，并将其拉向另一艘宇宙飞船。"
+    },
+    {
+      "id": 121,
+      "en": "So it's like almost like a rope that you can't see.",
+      "cn": "所以这几乎就像一根你看不见的绳子。"
+    },
+    {
+      "id": 122,
+      "en": "Right, and it brings it in.",
+      "cn": "对，它把它拉进来。"
+    },
+    {
+      "id": 123,
+      "en": "So the spaceship managed to escape their tractor beam.",
+      "cn": "所以宇宙飞船成功逃脱了他们的牵引光束。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, I think that is definitely not true.",
+      "cn": "好吧，我觉得这绝对不是真的。"
+    },
+    {
+      "id": 125,
+      "en": "Well maybe, I don't know, but in Sci-Fi you will always hear this tractor beam.",
+      "cn": "嗯，也许，我不知道，但在科幻中你总会听到这个牵引光束。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, now let's move on to our final word.",
+      "cn": "好的，现在让我们继续我们的最后一个词。"
+    },
+    {
+      "id": 127,
+      "en": "The spaceship was accelerating towards the speed of light.",
+      "cn": "宇宙飞船正在加速到光速。"
+    },
+    {
+      "id": 128,
+      "en": "Accelerating.",
+      "cn": "加速。"
+    },
+    {
+      "id": 129,
+      "en": "Accelerating.",
+      "cn": "加速。"
+    },
+    {
+      "id": 130,
+      "en": "To accelerate.",
+      "cn": "加速。"
+    },
+    {
+      "id": 131,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 132,
+      "en": "So that means to increase speed, right?",
+      "cn": "所以这意味着增加速度，对吧？"
+    },
+    {
+      "id": 133,
+      "en": "Yeah, just to go faster.",
+      "cn": "是的，就是要更快。"
+    },
+    {
+      "id": 134,
+      "en": "To go faster.",
+      "cn": "更快。"
+    },
+    {
+      "id": 135,
+      "en": "So if you are in your car... You want to accelerate so you can pass another car.",
+      "cn": "所以如果你在车里……你想加速以便超越另一辆车。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, or even when you stop at a red light and it turns green... You got to accelerate.",
+      "cn": "好的，或者当你在红灯前停下，灯变绿时……你得加速。"
+    },
+    {
+      "id": 137,
+      "en": "Okay, to accelerate.",
+      "cn": "好的，加速。"
+    },
+    {
+      "id": 138,
+      "en": "Let's listen to our dialogue again and then we'll come back and take a look at some of the phrases that came up in this dialogue.",
+      "cn": "让我们再听一遍我们的对话，然后我们再回来看看在这段对话中出现的一些短语。"
+    },
+    {
+      "id": 139,
+      "en": "They are breaking through.",
+      "cn": "他们正在突破。"
+    },
+    {
+      "id": 140,
+      "en": "Search your blasters to full power.",
+      "cn": "将你的激光炮调至全功率。"
+    },
+    {
+      "id": 141,
+      "en": "Excellent job.",
+      "cn": "干得好。"
+    },
+    {
+      "id": 142,
+      "en": "Search the ship.",
+      "cn": "搜索船只。"
+    },
+    {
+      "id": 143,
+      "en": "She's got to be in here somewhere.",
+      "cn": "她一定在这里某个地方。"
+    },
+    {
+      "id": 144,
+      "en": "Bring her to me.",
+      "cn": "把她带给我。"
+    },
+    {
+      "id": 145,
+      "en": "Lord Hater, we have a survivor here.",
+      "cn": "仇恨领主，我们这里有一个幸存者。"
+    },
+    {
+      "id": 146,
+      "en": "Where is she?",
+      "cn": "她在哪里？"
+    },
+    {
+      "id": 147,
+      "en": "Don't make me destroy you.",
+      "cn": "不要让我毁灭你。"
+    },
+    {
+      "id": 148,
+      "en": "Tell me where she is.",
+      "cn": "告诉我她在哪里。"
+    },
+    {
+      "id": 149,
+      "en": "Not so fast.",
+      "cn": "不要太快。"
+    },
+    {
+      "id": 150,
+      "en": "She will no longer be a prisoner.",
+      "cn": "她将不再是囚犯。"
+    },
+    {
+      "id": 151,
+      "en": "It's time you and I settled this once and for all.",
+      "cn": "是时候你我彻底解决这个问题了。"
+    },
+    {
+      "id": 152,
+      "en": "You are unwise to think you can defeat me.",
+      "cn": "你认为你能打败我是不明智的。"
+    },
+    {
+      "id": 153,
+      "en": "You know nothing of the power of the obscure side.",
+      "cn": "你对模糊一方的力量一无所知。"
+    },
+    {
+      "id": 154,
+      "en": "We will stop you.",
+      "cn": "我们会阻止你。"
+    },
+    {
+      "id": 155,
+      "en": "Lord Hater, we have an unidentified spacecraft taking off from the rear dock.",
+      "cn": "仇恨领主，我们有一艘不明飞行器从后方码头起飞。"
+    },
+    {
+      "id": 156,
+      "en": "They somehow managed to escape our tractor beam.",
+      "cn": "他们以某种方式成功逃脱了我们的牵引光束。"
+    },
+    {
+      "id": 157,
+      "en": "After them.",
+      "cn": "追上他们。"
+    },
+    {
+      "id": 158,
+      "en": "They're accelerating towards the speed of light.",
+      "cn": "他们正在加速到光速。"
+    },
+    {
+      "id": 159,
+      "en": "We lost them, sir.",
+      "cn": "我们失去他们了，先生。"
+    },
+    {
+      "id": 160,
+      "en": "Well, great.",
+      "cn": "好吧，太好了。"
+    },
+    {
+      "id": 161,
+      "en": "Well, like Marco said, I want to look at now some phrases that you might hear in a Sci-Fi context.",
+      "cn": "嗯，正如马尔科所说，我想现在看看一些你可能在科幻背景中听到的短语。"
+    },
+    {
+      "id": 162,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 163,
+      "en": "The first phrase that we can take a look at and maybe it looks a little bit strange.",
+      "cn": "我们可以看看第一个短语，也许看起来有点奇怪。"
+    },
+    {
+      "id": 164,
+      "en": "He said she will no longer be your prisoner.",
+      "cn": "他说她将不再是你的囚犯。"
+    },
+    {
+      "id": 165,
+      "en": "No longer be.",
+      "cn": "不再是。"
+    },
+    {
+      "id": 166,
+      "en": "No longer be.",
+      "cn": "不再是。"
+    },
+    {
+      "id": 167,
+      "en": "So what does he mean by no longer?",
+      "cn": "那么他所说的“不再”是什么意思？"
+    },
+    {
+      "id": 168,
+      "en": "Anymore.",
+      "cn": "不再。"
+    },
+    {
+      "id": 169,
+      "en": "Anymore, right?",
+      "cn": "不再，对吧？"
+    },
+    {
+      "id": 170,
+      "en": "So you will not be my prisoner anymore.",
+      "cn": "所以你将不再是我的囚犯。"
+    },
+    {
+      "id": 171,
+      "en": "Okay, so how would I use it in this form no longer be?",
+      "cn": "好的，那么我如何使用这个形式“不再是”？"
+    },
+    {
+      "id": 172,
+      "en": "You've always got to use it in the future tense.",
+      "cn": "你总是得在将来时使用它。"
+    },
+    {
+      "id": 173,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 174,
+      "en": "So she'll no longer be your prisoner.",
+      "cn": "所以她将不再是你的囚犯。"
+    },
+    {
+      "id": 175,
+      "en": "I will no longer be your employee.",
+      "cn": "我将不再是你的员工。"
+    },
+    {
+      "id": 176,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 177,
+      "en": "Or I can say I will no longer be your boyfriend.",
+      "cn": "或者我可以说我将不再是你的男朋友。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, so it's always will no longer be.",
+      "cn": "好的，所以总是将不再是。"
+    },
+    {
+      "id": 179,
+      "en": "It's always in the future.",
+      "cn": "总是在未来。"
+    },
+    {
+      "id": 180,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 181,
+      "en": "One more thing, Marco.",
+      "cn": "还有一件事，马尔科。"
+    },
+    {
+      "id": 182,
+      "en": "Is this quite commonly used or maybe a little bit formal?",
+      "cn": "这个用法常见吗，还是有点正式？"
+    },
+    {
+      "id": 183,
+      "en": "I certain point poetic.",
+      "cn": "我认为有点诗意。"
+    },
+    {
+      "id": 184,
+      "en": "Yeah, which I think is why we hear it a little bit more often in Sci-Fi movies.",
+      "cn": "是的，我想这就是为什么我们在科幻电影中听到它的频率更高。"
+    },
+    {
+      "id": 185,
+      "en": "All right, so no longer be.",
+      "cn": "好吧，所以不再是。"
+    },
+    {
+      "id": 186,
+      "en": "What about our next phrase?",
+      "cn": "我们下一个短语呢？"
+    },
+    {
+      "id": 187,
+      "en": "You know nothing of the power of the obscure side.",
+      "cn": "你对模糊一方的力量一无所知。"
+    },
+    {
+      "id": 188,
+      "en": "Okay, you know nothing.",
+      "cn": "好的，你一无所知。"
+    },
+    {
+      "id": 189,
+      "en": "You know nothing of.",
+      "cn": "你对……一无所知。"
+    },
+    {
+      "id": 190,
+      "en": "So again, it's very poetic.",
+      "cn": "所以再次，这非常诗意。"
+    },
+    {
+      "id": 191,
+      "en": "Yeah, I think basically meaning you don't know about.",
+      "cn": "是的，我认为基本上意味着你不知道。"
+    },
+    {
+      "id": 192,
+      "en": "You don't know about.",
+      "cn": "你不知道。"
+    },
+    {
+      "id": 193,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 194,
+      "en": "So again, let's take a look at how you would use it.",
+      "cn": "所以再看看你如何使用它。"
+    },
+    {
+      "id": 195,
+      "en": "You know nothing of and then science fiction.",
+      "cn": "你对……一无所知，然后是科幻。"
+    },
+    {
+      "id": 196,
+      "en": "You know nothing of science fiction.",
+      "cn": "你对科幻小说一无所知。"
+    },
+    {
+      "id": 197,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 198,
+      "en": "So you would use a noun afterwards.",
+      "cn": "所以你会在后面使用一个名词。"
+    },
+    {
+      "id": 199,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 200,
+      "en": "Okay, so interesting phrases.",
+      "cn": "好的，所以有趣的短语。"
+    },
+    {
+      "id": 201,
+      "en": "Again, formal and probably quite often used in science fiction movies.",
+      "cn": "再次，正式的，可能在科幻电影中经常使用。"
+    },
+    {
+      "id": 202,
+      "en": "But now you can understand when they use some of these words that maybe are a little bit difficult and very common in these types of movies.",
+      "cn": "但现在你可以理解他们使用的一些可能有点困难且在这些类型的电影中非常常见的词。"
+    },
+    {
+      "id": 203,
+      "en": "Now let's go to our last phrase.",
+      "cn": "现在让我们来看最后一个短语。"
+    },
+    {
+      "id": 204,
+      "en": "Then this one actually can be used in many different circumstances.",
+      "cn": "这个实际上可以在许多不同的情况下使用。"
+    },
+    {
+      "id": 205,
+      "en": "Let's settle this once and for all.",
+      "cn": "让我们一次性解决这个问题。"
+    },
+    {
+      "id": 206,
+      "en": "Okay, so we saw the verb.",
+      "cn": "好的，所以我们看到了动词。"
+    },
+    {
+      "id": 207,
+      "en": "So we saw the word settle already.",
+      "cn": "所以我们已经看到了“解决”这个词。"
+    },
+    {
+      "id": 208,
+      "en": "Now let's settle this once and for all.",
+      "cn": "现在让我们一次性解决这个问题。"
+    },
+    {
+      "id": 209,
+      "en": "Once and for all.",
+      "cn": "一次性解决。"
+    },
+    {
+      "id": 210,
+      "en": "So what does that mean?",
+      "cn": "那这是什么意思？"
+    },
+    {
+      "id": 211,
+      "en": "Finally, that's right forever.",
+      "cn": "最终，这意味着永远。"
+    },
+    {
+      "id": 212,
+      "en": "Okay, so once and for all forever.",
+      "cn": "好的，所以一次性解决，永远。"
+    },
+    {
+      "id": 213,
+      "en": "So why don't we listen to some other examples of how we can use this phrase once and for all in different contexts.",
+      "cn": "那么我们为什么不听听其他一些例子，看看我们如何在不同的上下文中使用“一次性解决”这个短语。"
+    },
+    {
+      "id": 214,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 215,
+      "en": "I'm fed up with arguing about this.",
+      "cn": "我厌倦了争论这个。"
+    },
+    {
+      "id": 216,
+      "en": "Let's just settle the argument once and for all.",
+      "cn": "让我们一次性解决争论。"
+    },
+    {
+      "id": 217,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 218,
+      "en": "He claims his photographs prove once and for all that UFOs do exist.",
+      "cn": "他声称他的照片一次性证明了UFO确实存在。"
+    },
+    {
+      "id": 219,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 220,
+      "en": "I told him once and for all that I don't want to be his girlfriend anymore.",
+      "cn": "我一次性告诉他我不想再做他的女朋友了。"
+    },
+    {
+      "id": 221,
+      "en": "Okay, so now I think it's clear.",
+      "cn": "好的，所以现在我想很清楚了。"
+    },
+    {
+      "id": 222,
+      "en": "We've seen a lot of words.",
+      "cn": "我们看到了很多单词。"
+    },
+    {
+      "id": 223,
+      "en": "We've seen a lot of phrases.",
+      "cn": "我们看到了很多短语。"
+    },
+    {
+      "id": 224,
+      "en": "Let's listen to our dialogue one more time.",
+      "cn": "让我们再听一次我们的对话。"
+    },
+    {
+      "id": 225,
+      "en": "They are breaking through central blasters to full power.",
+      "cn": "他们正在突破中央炮塔，达到全功率。"
+    },
+    {
+      "id": 226,
+      "en": "Excellent job.",
+      "cn": "干得好。"
+    },
+    {
+      "id": 227,
+      "en": "Search the ship.",
+      "cn": "搜索这艘船。"
+    },
+    {
+      "id": 228,
+      "en": "She's got to be in here somewhere.",
+      "cn": "她一定在这里某个地方。"
+    },
+    {
+      "id": 229,
+      "en": "Bring her to me.",
+      "cn": "把她带给我。"
+    },
+    {
+      "id": 230,
+      "en": "We have a survivor here.",
+      "cn": "我们这里有一个幸存者。"
+    },
+    {
+      "id": 231,
+      "en": "Where is she?",
+      "cn": "她在哪里？"
+    },
+    {
+      "id": 232,
+      "en": "Don't make me destroy you.",
+      "cn": "别逼我毁了你。"
+    },
+    {
+      "id": 233,
+      "en": "Tell me where she is.",
+      "cn": "告诉我她在哪里。"
+    },
+    {
+      "id": 234,
+      "en": "Not so fast.",
+      "cn": "不要太快。"
+    },
+    {
+      "id": 235,
+      "en": "She will no longer be a prisoner.",
+      "cn": "她将不再是囚犯。"
+    },
+    {
+      "id": 236,
+      "en": "It's time you and I settled this once and for all.",
+      "cn": "是时候你我一次性解决这个问题了。"
+    },
+    {
+      "id": 237,
+      "en": "You are unwise to think you can defeat me.",
+      "cn": "你认为你能打败我是不明智的。"
+    },
+    {
+      "id": 238,
+      "en": "You know nothing of the power of the obscure side.",
+      "cn": "你对模糊一方的力量一无所知。"
+    },
+    {
+      "id": 239,
+      "en": "We will stop you.",
+      "cn": "我们会阻止你。"
+    },
+    {
+      "id": 240,
+      "en": "We have an unidentified spacecraft taking off from the rear dock.",
+      "cn": "我们有一艘不明飞行器从后方码头起飞。"
+    },
+    {
+      "id": 241,
+      "en": "They somehow managed to escape our tractor beam.",
+      "cn": "他们以某种方式逃脱了我们的拖船束缚。"
+    },
+    {
+      "id": 242,
+      "en": "After them.",
+      "cn": "追上他们。"
+    },
+    {
+      "id": 243,
+      "en": "They're accelerating towards the speed of light.",
+      "cn": "他们正在加速到光速。"
+    },
+    {
+      "id": 244,
+      "en": "We lost them,",
+      "cn": "我们失去了他们，"
+    },
+    {
+      "id": 245,
+      "en": "Okay, so are you a big Sci-Fi fan?",
+      "cn": "好的，你是个大科幻迷吗？"
+    },
+    {
+      "id": 246,
+      "en": "I think as you can tell, no.",
+      "cn": "我想你可以看出来，不是。"
+    },
+    {
+      "id": 247,
+      "en": "Actually, I've seen some of the Star Wars movies, but everyone that I've watched, I've fallen asleep in the middle of.",
+      "cn": "其实，我看过一些《星球大战》的电影，但我看过的每一部电影我都在中间睡着了。"
+    },
+    {
+      "id": 248,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 249,
+      "en": "Yeah, even in the movie theater.",
+      "cn": "是的，甚至在电影院里。"
+    },
+    {
+      "id": 250,
+      "en": "I fell asleep in the movie theater watching Star Wars.",
+      "cn": "我在电影院看《星球大战》时睡着了。"
+    },
+    {
+      "id": 251,
+      "en": "Wow, was it too boring?",
+      "cn": "哇，是不是太无聊了？"
+    },
+    {
+      "id": 252,
+      "en": "It was too boring.",
+      "cn": "太无聊了。"
+    },
+    {
+      "id": 253,
+      "en": "Oh, you're not you're not really into the fantasy.",
+      "cn": "哦，你并不真的喜欢幻想。"
+    },
+    {
+      "id": 254,
+      "en": "No, I just am the whole time I'm sitting there going this cannot happen.",
+      "cn": "不，我只是一直坐在那里想着这不可能发生。"
+    },
+    {
+      "id": 255,
+      "en": "Well, that's why it's called science fiction, right?",
+      "cn": "嗯，这就是为什么它叫科幻小说，对吧？"
+    },
+    {
+      "id": 256,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 257,
+      "en": "But it is interesting to some people and well, behind Star Wars, there is a huge culture.",
+      "cn": "但对一些人来说是有趣的，嗯，在《星球大战》背后有一个巨大的文化。"
+    },
+    {
+      "id": 258,
+      "en": "Even some people know some of the languages or symbols that are used in it or the names of some of some of the robots and models of spacecraft.",
+      "cn": "甚至有些人知道其中使用的一些语言或符号，或者一些机器人的名字和飞船的型号。"
+    },
+    {
+      "id": 259,
+      "en": "Well, maybe we'll have to come up with Star Wars pod.",
+      "cn": "嗯，也许我们得想出一个《星球大战》的播客。"
+    },
+    {
+      "id": 260,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 261,
+      "en": "Well, that's all for today, guys.",
+      "cn": "好吧，今天就到这里，大家。"
+    },
+    {
+      "id": 262,
+      "en": "I hope you enjoyed our lesson.",
+      "cn": "希望你们喜欢我们的课程。"
+    },
+    {
+      "id": 263,
+      "en": "And of course, if you have questions or comments, you can leave them in a comment section on our website, EnglishPod.com.",
+      "cn": "当然，如果你有问题或评论，可以在我们的网站EnglishPod.com的评论区留言。"
+    },
+    {
+      "id": 264,
+      "en": "Well, thanks for listening, you guys.",
+      "cn": "好吧，谢谢你们的收听。"
+    },
+    {
+      "id": 265,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见。"
+    }
+  ]
+}

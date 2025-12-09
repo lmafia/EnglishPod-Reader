@@ -80,7 +80,7 @@ const MOCK_BOOK_CONTENT: Record<string, BookData> = {
   }
 };
 
-const USE_REAL_API = false;
+const USE_REAL_API = true;
 
 export const fetchManifest = async (): Promise<LibraryItem[]> => {
   if (!USE_REAL_API) {

@@ -1,0 +1,1204 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0213",
+  "title": "EnglishPod 初级 英文播客 0213",
+  "totalSegments": 239,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we have a sad lesson for you.",
+      "cn": "今天我们有一个悲伤的课程要给你们。"
+    },
+    {
+      "id": 5,
+      "en": "This is an intermediate level lesson about what happens when a friend or family member dies.",
+      "cn": "这是一个关于朋友或家人去世时发生的事情的中级课程。"
+    },
+    {
+      "id": 6,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "So we have a lot of words that are related to all the preparations for when somebody dies and also some phrases that you can say to someone that maybe had a family member who recently passed away.",
+      "cn": "我们有很多与准备丧礼相关的词汇，还有一些可以对刚失去家人的人说的短语。"
+    },
+    {
+      "id": 8,
+      "en": "So before we get into all of this, we have a key word that we want to take a look at now in Vocabulary Preview.",
+      "cn": "在我们深入讨论之前，我们有一个关键词想现在在词汇预览中看看。"
+    },
+    {
+      "id": 9,
+      "en": "All right, so in Vocabulary Preview we have that one word and it's the title of our lesson also, funeral.",
+      "cn": "好的，在词汇预览中，我们有一个词，也是我们课程的标题，丧礼。"
+    },
+    {
+      "id": 10,
+      "en": "Funeral.",
+      "cn": "丧礼。"
+    },
+    {
+      "id": 11,
+      "en": "So funeral is an event.",
+      "cn": "所以丧礼是一个事件。"
+    },
+    {
+      "id": 12,
+      "en": "It's something that we have.",
+      "cn": "这是我们要举行的事情。"
+    },
+    {
+      "id": 13,
+      "en": "So basically a funeral is the time when we mourn someone who has died.",
+      "cn": "基本上，丧礼是我们哀悼去世者的时刻。"
+    },
+    {
+      "id": 14,
+      "en": "It's a celebration of their life.",
+      "cn": "这是对他们生命的庆祝。"
+    },
+    {
+      "id": 15,
+      "en": "Right, so it's kind of like a ceremony where you respect that person that passed away, right?",
+      "cn": "对，所以这有点像一个仪式，尊重那个去世的人，对吧？"
+    },
+    {
+      "id": 16,
+      "en": "Some people will talk about the person that passed away or maybe, you know, it's time to maybe honor that person to, as you say, mourn and remember that person.",
+      "cn": "有些人会谈论去世的人，或者，您知道，可能是时候去尊重那个人，哀悼并记住他们。"
+    },
+    {
+      "id": 17,
+      "en": "Right, so it's very common for people in different religions to have different traditions.",
+      "cn": "对，所以不同宗教的人有不同的传统是很常见的。"
+    },
+    {
+      "id": 18,
+      "en": "In some religions, like I think in Christianity, you have a priest who will say some things that are very traditional and then say some things about the person who died.",
+      "cn": "在一些宗教中，比如我认为基督教，您会有一个牧师说一些非常传统的话，然后谈论去世的人。"
+    },
+    {
+      "id": 19,
+      "en": "And other religions have different ceremonies.",
+      "cn": "其他宗教则有不同的仪式。"
+    },
+    {
+      "id": 20,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 21,
+      "en": "So today we're going to take a look at what happens in preparing a funeral.",
+      "cn": "所以今天我们将看看准备丧礼时发生了什么。"
+    },
+    {
+      "id": 22,
+      "en": "Hi, Daniel, how are you holding up?",
+      "cn": "嗨，Daniel，你还好吗？"
+    },
+    {
+      "id": 23,
+      "en": "I'm greatly sorry for your loss.",
+      "cn": "我对你的损失深感抱歉。"
+    },
+    {
+      "id": 24,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 25,
+      "en": "I'm doing much better.",
+      "cn": "我好多了。"
+    },
+    {
+      "id": 26,
+      "en": "I've begun organizing everything for the funeral.",
+      "cn": "我已经开始为丧礼组织一切。"
+    },
+    {
+      "id": 27,
+      "en": "How's that going?",
+      "cn": "进展如何？"
+    },
+    {
+      "id": 28,
+      "en": "It's a lot harder than I imagined.",
+      "cn": "比我想象的要难得多。"
+    },
+    {
+      "id": 29,
+      "en": "There are many things that you have to arrange.",
+      "cn": "有很多事情需要安排。"
+    },
+    {
+      "id": 30,
+      "en": "I booked a time and date with the funeral home, but I still have a lot of things to do.",
+      "cn": "我已经和殡仪馆预定了时间和日期，但我还有很多事情要做。"
+    },
+    {
+      "id": 31,
+      "en": "Have you bought a burial plot and a casket?",
+      "cn": "你买了墓地和棺材吗？"
+    },
+    {
+      "id": 32,
+      "en": "No, Wendy is being cremated.",
+      "cn": "没有，Wendy要火化。"
+    },
+    {
+      "id": 33,
+      "en": "She always talked about how she didn't want to be buried.",
+      "cn": "她总是说她不想被埋葬。"
+    },
+    {
+      "id": 34,
+      "en": "I already chose a cremation urn and we plan to spread the ashes in the ocean.",
+      "cn": "我已经选择了一个火化骨灰盒，我们计划把她的 ashes 撒在海里。"
+    },
+    {
+      "id": 35,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 36,
+      "en": "That sounds like something she would have really liked.",
+      "cn": "听起来像是她会非常喜欢的事情。"
+    },
+    {
+      "id": 37,
+      "en": "I'm sure the memorial service will be tasteful.",
+      "cn": "我相信追悼会会很得体。"
+    },
+    {
+      "id": 38,
+      "en": "You're doing a great job.",
+      "cn": "你做得很好。"
+    },
+    {
+      "id": 39,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 40,
+      "en": "It hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.",
+      "cn": "这并不容易，但幸运的是我们有寿险，Wendy留下了一份详细的遗嘱，可以处理其他法律事务。"
+    },
+    {
+      "id": 41,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 42,
+      "en": "So a pretty interesting dialogue and I'm sure you have a lot of questions regarding some of those words and phrases that you heard.",
+      "cn": "这是一个非常有趣的对话，我相信你们对听到的一些词汇和短语有很多问题。"
+    },
+    {
+      "id": 43,
+      "en": "So why don't we take a look at five key words on language takeaway.",
+      "cn": "那么我们来看看语言收获中的五个关键词吧。"
+    },
+    {
+      "id": 44,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 45,
+      "en": "So basically we have two friends in this dialogue who are discussing arrangements for a funeral and one friend is asking the other about his preparations and asks if he's bought a burial plot.",
+      "cn": "基本上，我们在这个对话中有两个朋友在讨论丧礼的安排，一个朋友在询问另一个的准备情况，并问他是否买了墓地。"
+    },
+    {
+      "id": 46,
+      "en": "Okay, burial plot.",
+      "cn": "好吧，墓地。"
+    },
+    {
+      "id": 47,
+      "en": "Now what is a burial plot and why would you buy one?",
+      "cn": "那么什么是墓地，为什么要买一个？"
+    },
+    {
+      "id": 48,
+      "en": "Well, a plot, P-L-O-T, plot is a piece of land.",
+      "cn": "嗯，墓地，P-L-O-T，墓地是一块土地。"
+    },
+    {
+      "id": 49,
+      "en": "So you can think about this logically, a burial plot, burial to Bury is a place, a space in the ground where we Bury a person.",
+      "cn": "所以你可以从逻辑上考虑，墓地是一个地方，埋葬一个人的地方。"
+    },
+    {
+      "id": 50,
+      "en": "Usually you buy one of these at a cemetery, right?",
+      "cn": "通常你在墓地购买一个，对吧？"
+    },
+    {
+      "id": 51,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 52,
+      "en": "So cemeteries have some, usually a lot of land and you can pay for a piece of land, a small portion, small portion.",
+      "cn": "所以墓地通常有很多土地，你可以为一小块土地付费。"
+    },
+    {
+      "id": 53,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 54,
+      "en": "And that's a burial plot.",
+      "cn": "这就是墓地。"
+    },
+    {
+      "id": 55,
+      "en": "Okay, good.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 56,
+      "en": "And well, our next word is related to what you put into this burial plot, right?",
+      "cn": "我们下一个词与您放入这个墓地的东西有关，对吧？"
+    },
+    {
+      "id": 57,
+      "en": "Somebody dies.",
+      "cn": "有人去世。"
+    },
+    {
+      "id": 58,
+      "en": "And what goes into this piece of land is a casket.",
+      "cn": "放入这块土地的东西是棺材。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "And I don't know if any of you are fans of the TV show Six Feet Under, but you'll know from this TV show that there are many different kinds of caskets.",
+      "cn": "我不知道你们中是否有人喜欢电视剧《六尺之下》，但你会知道这部电视剧中有许多不同种类的棺材。"
+    },
+    {
+      "id": 61,
+      "en": "So a casket is a box.",
+      "cn": "所以棺材是一个盒子。"
+    },
+    {
+      "id": 62,
+      "en": "You can have fancy caskets or you can have wooden caskets that are very simple, like pine.",
+      "cn": "你可以有华丽的棺材，也可以有非常简单的木棺，比如松木。"
+    },
+    {
+      "id": 63,
+      "en": "And basically this is the box that the person's body will go into when they're buried.",
+      "cn": "基本上，这是一个人身体埋入的盒子。"
+    },
+    {
+      "id": 64,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 65,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 66,
+      "en": "So that is called a casket.",
+      "cn": "所以这叫做棺材。"
+    },
+    {
+      "id": 67,
+      "en": "Well, moving on a new trend, I would say, and many countries and many people around the world don't want to be buried.",
+      "cn": "好吧，接下来是一个新趋势，我会说，许多国家和世界各地的人不想被埋葬。"
+    },
+    {
+      "id": 68,
+      "en": "So what happens you get cremated?",
+      "cn": "那么如果你被火化会发生什么？"
+    },
+    {
+      "id": 69,
+      "en": "Cremated.",
+      "cn": "火化。"
+    },
+    {
+      "id": 70,
+      "en": "So this is the option for people who are not buried.",
+      "cn": "所以这是不被埋葬的人的选择。"
+    },
+    {
+      "id": 71,
+      "en": "In some countries, China, for example, I don't think you can be buried, you have to be cremated because there's an issue of space.",
+      "cn": "在一些国家，比如中国，我认为你不能被埋葬，必须火化，因为空间问题。"
+    },
+    {
+      "id": 72,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 73,
+      "en": "And this is an option for most people where basically your friend or your loved one, their body is burned, and you can collect the remains afterwards.",
+      "cn": "这是大多数人的选择，基本上你的朋友或亲人的身体被火化，之后你可以收集遗骸。"
+    },
+    {
+      "id": 74,
+      "en": "They're very small, they're ashes.",
+      "cn": "它们非常小，是 ashes。"
+    },
+    {
+      "id": 75,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 76,
+      "en": "So it's like a burning process.",
+      "cn": "所以这就像一个燃烧的过程。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, interesting.",
+      "cn": "好的，有趣。"
+    },
+    {
+      "id": 78,
+      "en": "So the word is to be cremated to get cremated.",
+      "cn": "所以这个词是被火化。"
+    },
+    {
+      "id": 79,
+      "en": "Yeah, his body was cremated.",
+      "cn": "是的，他的身体被火化了。"
+    },
+    {
+      "id": 80,
+      "en": "And well, as you said, you take the ashes, and you can put them in a cremation urn or just an urn.",
+      "cn": "嗯，正如你所说，你拿走 ashes，可以把它们放在火化骨灰盒里或只是一个骨灰盒。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, urn, this might sound like a strange word to you.",
+      "cn": "好吧，骨灰盒，这可能对你来说是个奇怪的词。"
+    },
+    {
+      "id": 82,
+      "en": "But an urn is a special kind of pot, okay, or a vessel to hold things in.",
+      "cn": "但骨灰盒是一种特殊的容器，好的，或一个盛放东西的器皿。"
+    },
+    {
+      "id": 83,
+      "en": "So for example, in this case, we have a cremation urn that is a special pot, usually very beautiful.",
+      "cn": "例如，在这种情况下，我们有一个火化骨灰盒，是一个特殊的容器，通常非常美丽。"
+    },
+    {
+      "id": 84,
+      "en": "Sometimes there's a name on it with the deceased person's ashes, his or her remains.",
+      "cn": "有时上面会有去世者的名字和他的 ashes。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 86,
+      "en": "So as you said, it's kind of like a vase or a pot, something very nice and small where you have the person's ashes.",
+      "cn": "正如你所说，它就像一个花瓶或一个罐子，放置着去世者的 ashes。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, so now we know what happened during the funeral, we know what happens, how you maybe cremate the person or you put them in a casket.",
+      "cn": "好的，现在我们知道丧礼期间发生了什么，我们知道发生了什么，您可能会火化这个人或把他们放在棺材里。"
+    },
+    {
+      "id": 88,
+      "en": "And well, what happens afterwards?",
+      "cn": "那么，之后会发生什么？"
+    },
+    {
+      "id": 89,
+      "en": "Well, afterwards, you have a memorial service.",
+      "cn": "嗯，之后你会有一个追悼会。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, so many people want to know what's the difference between a funeral and a memorial service, right?",
+      "cn": "好的，很多人想知道丧礼和追悼会之间的区别，对吧？"
+    },
+    {
+      "id": 91,
+      "en": "In my mind, a funeral is very quiet and sad, and you have some respectful words, and you usually put the casket into the ground or have some kind of ceremony.",
+      "cn": "在我看来，丧礼是非常安静和悲伤的，你会有一些尊重的话，通常会把棺材放入地下或举行某种仪式。"
+    },
+    {
+      "id": 92,
+      "en": "But a memorial service is an opportunity to talk to friends and family to eat some food to have some drinks to talk about the person who died.",
+      "cn": "但追悼会是一个与朋友和家人交谈的机会，可以吃一些食物，喝一些饮料，谈论去世的人。"
+    },
+    {
+      "id": 93,
+      "en": "It's almost like the party if that makes sense.",
+      "cn": "这几乎就像一个聚会，如果这样说有道理的话。"
+    },
+    {
+      "id": 94,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 95,
+      "en": "It's a it's a get together of people who obviously are trying to give support to their friends or their family members who lost that person, but also to talk about that person in a good way and all the great memories they had.",
+      "cn": "这是一个聚会，显然是为了支持失去那个人的朋友或家人，但也是为了以好的方式谈论那个人和他们的美好回忆。"
+    },
+    {
+      "id": 96,
+      "en": "I guess that's why it's called a memorial service because you, you remember and you give out your memories about that person.",
+      "cn": "我想这就是为什么它被称为追悼会，因为你记住并分享关于那个人的回忆。"
+    },
+    {
+      "id": 97,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 99,
+      "en": "So a lot of interesting words there.",
+      "cn": "所以有很多有趣的词。"
+    },
+    {
+      "id": 100,
+      "en": "Very specific to this topic, but obviously, really important.",
+      "cn": "非常具体于这个主题，但显然非常重要。"
+    },
+    {
+      "id": 101,
+      "en": "So why don't we go back and listen to the dialogue again.",
+      "cn": "那我们为什么不回去再听一遍对话呢。"
+    },
+    {
+      "id": 102,
+      "en": "Hi, Daniel, how are you holding up?",
+      "cn": "嗨，丹尼尔，你还好吗？"
+    },
+    {
+      "id": 103,
+      "en": "I'm greatly sorry for your loss.",
+      "cn": "我对你的损失深感抱歉。"
+    },
+    {
+      "id": 104,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 105,
+      "en": "I'm doing much better.",
+      "cn": "我好多了。"
+    },
+    {
+      "id": 106,
+      "en": "I've begun organizing everything for the funeral.",
+      "cn": "我已经开始为葬礼整理一切。"
+    },
+    {
+      "id": 107,
+      "en": "How's that going?",
+      "cn": "进展如何？"
+    },
+    {
+      "id": 108,
+      "en": "It's a lot harder than I imagined.",
+      "cn": "比我想象的要难得多。"
+    },
+    {
+      "id": 109,
+      "en": "There are many things that you have to arrange.",
+      "cn": "有很多事情需要安排。"
+    },
+    {
+      "id": 110,
+      "en": "I booked a time and date with the funeral home, but I still have a lot of things to do.",
+      "cn": "我已经和殡仪馆预定了时间和日期，但我还有很多事情要做。"
+    },
+    {
+      "id": 111,
+      "en": "Have you bought a burial plot and a basket?",
+      "cn": "你买了墓地和棺材吗？"
+    },
+    {
+      "id": 112,
+      "en": "No, Wendy is being cremated.",
+      "cn": "没有，温迪要火化。"
+    },
+    {
+      "id": 113,
+      "en": "She was talked about how she didn't want to be buried.",
+      "cn": "她曾说过她不想被埋葬。"
+    },
+    {
+      "id": 114,
+      "en": "I already chose a cremation urn and we plan to spread the ashes in the ocean.",
+      "cn": "我已经选择了一个火化骨灰盒，我们计划把她的 ashes 撒在海里。"
+    },
+    {
+      "id": 115,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 116,
+      "en": "That sounds like something she would have really liked.",
+      "cn": "听起来像是她真的会喜欢的事情。"
+    },
+    {
+      "id": 117,
+      "en": "I'm sure the memorial service will be tasteful.",
+      "cn": "我相信追悼会会很得体。"
+    },
+    {
+      "id": 118,
+      "en": "You're doing a great job.",
+      "cn": "你做得很好。"
+    },
+    {
+      "id": 119,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 120,
+      "en": "It hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.",
+      "cn": "这并不容易，但幸运的是我们有寿险，温迪留下了一份详细的遗嘱，可以处理其他法律事务。"
+    },
+    {
+      "id": 121,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 122,
+      "en": "So we have a couple of phrases for, to be exact, um, that we want to take a look at now in fluency builder.",
+      "cn": "所以我们有几个短语，确切地说，嗯，我们现在想在流利度构建器中看看。"
+    },
+    {
+      "id": 123,
+      "en": "Fluency builder.",
+      "cn": "流利度构建器。"
+    },
+    {
+      "id": 124,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 125,
+      "en": "This first phrase is a very useful one.",
+      "cn": "第一个短语非常有用。"
+    },
+    {
+      "id": 126,
+      "en": "If you're trying to ask someone about, um, maybe the, how they're feeling or someone who's had some problems recently, you can ask them, um, how things are going.",
+      "cn": "如果你想问某人，嗯，也许他们的感觉如何，或者最近遇到了一些问题的人，你可以问他们，嗯，事情进展如何。"
+    },
+    {
+      "id": 127,
+      "en": "Uh, one person says to the other, hi, Daniel, how are you holding up?",
+      "cn": "嗯，一个人对另一个人说，嗨，丹尼尔，你还好吗？"
+    },
+    {
+      "id": 128,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 129,
+      "en": "How are you holding up?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 130,
+      "en": "Now you know that to hold up something means to have it in your hands, but in this case you're talking about how are things going?",
+      "cn": "现在你知道，支撑某物意味着把它放在手中，但在这种情况下你是在问事情进展如何？"
+    },
+    {
+      "id": 131,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 132,
+      "en": "But I wouldn't say, Hey, how are you holding up?",
+      "cn": "但我不会说，嘿，你还好吗？"
+    },
+    {
+      "id": 133,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 134,
+      "en": "You wouldn't say that to somebody, right?",
+      "cn": "你不会对某人这么说，对吧？"
+    },
+    {
+      "id": 135,
+      "en": "If a normal circumstance, not if Marco looks really happy, I won't ask him, but if someone has passed through a very difficult period, for example, if someone dies in their family or, um, perhaps if they've been very sick or, you know, there's some negative or difficult things that happen that you can say, how are you holding up?",
+      "cn": "如果是正常情况，不是如果马尔科看起来很开心，我不会问他，但如果某人经历了非常困难的时期，例如，如果他们家里有人去世，或者，嗯，也许他们生病了，或者，你知道，有一些负面或困难的事情发生，你可以说，你还好吗？"
+    },
+    {
+      "id": 136,
+      "en": "So it basically means how are you dealing with this difficult situation or how are you dealing with your illness?",
+      "cn": "所以这基本上意味着你如何应对这个困难的情况，或者你如何应对你的疾病？"
+    },
+    {
+      "id": 137,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 138,
+      "en": "How are you holding up or how are you holding up with your in-laws?",
+      "cn": "你还好吗，或者你和你的岳父岳母相处得怎么样？"
+    },
+    {
+      "id": 139,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 140,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 141,
+      "en": "How are you dealing with that difficult situation?",
+      "cn": "你如何应对那个困难的情况？"
+    },
+    {
+      "id": 142,
+      "en": "And then the person complemented this by saying, and this is a very good phrase.",
+      "cn": "然后那个人补充说，这是一句非常好的短语。"
+    },
+    {
+      "id": 143,
+      "en": "This whole sentence is very useful if you want to say something nice to a person that has recently lost someone.",
+      "cn": "如果你想对最近失去某人的人说些好话，这整句话非常有用。"
+    },
+    {
+      "id": 144,
+      "en": "You say, I am greatly sorry for your loss.",
+      "cn": "你可以说，我对你的损失深感抱歉。"
+    },
+    {
+      "id": 145,
+      "en": "Okay, so you might have heard the word loss before, lose, loss.",
+      "cn": "好的，所以你可能之前听过“损失”这个词，失去，损失。"
+    },
+    {
+      "id": 146,
+      "en": "Loss is a noun.",
+      "cn": "损失是一个名词。"
+    },
+    {
+      "id": 147,
+      "en": "It's a thing.",
+      "cn": "它是一个事物。"
+    },
+    {
+      "id": 148,
+      "en": "We normally say this about people who have died, because you don't want to say, I'm really sorry for your dead brother.",
+      "cn": "我们通常在谈论去世的人时说这个，因为你不想说，我真的很抱歉你的死去的兄弟。"
+    },
+    {
+      "id": 149,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 150,
+      "en": "You know, that's, it's sad.",
+      "cn": "你知道，这很悲伤。"
+    },
+    {
+      "id": 151,
+      "en": "Too direct.",
+      "cn": "太直接了。"
+    },
+    {
+      "id": 152,
+      "en": "It's very rude, too direct.",
+      "cn": "这非常粗鲁，太直接了。"
+    },
+    {
+      "id": 153,
+      "en": "So in English we say, I'm greatly sorry for your loss, for this part of your life that has been, you know, that has gone away.",
+      "cn": "所以在英语中我们说，我对你的损失深感抱歉，关于你生活中这一部分的损失，已经，嗯，消失了。"
+    },
+    {
+      "id": 154,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 155,
+      "en": "You can also say, I'm very sorry for your loss.",
+      "cn": "你也可以说，我对你的损失非常抱歉。"
+    },
+    {
+      "id": 156,
+      "en": "This is standard phrase for, this is a standard phrase for funerals and memorial services.",
+      "cn": "这是葬礼和追悼会的标准短语。"
+    },
+    {
+      "id": 157,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 158,
+      "en": "So if somebody's brother died, you go up to that person and you can say, I am greatly sorry for your loss.",
+      "cn": "所以如果某人的兄弟去世了，你可以走到那个人面前说，我对你的损失深感抱歉。"
+    },
+    {
+      "id": 159,
+      "en": "I am very sorry for your loss.",
+      "cn": "我对你的损失非常抱歉。"
+    },
+    {
+      "id": 160,
+      "en": "That's, that's what you say.",
+      "cn": "这就是你该说的。"
+    },
+    {
+      "id": 161,
+      "en": "And it's very respectful, and it's very nice to say.",
+      "cn": "这非常尊重，也非常好说。"
+    },
+    {
+      "id": 162,
+      "en": "Yes, it's very nice.",
+      "cn": "是的，这非常好。"
+    },
+    {
+      "id": 163,
+      "en": "All right, so now moving on, we've said that the person is sorry and everything, but then they were talking about the girl Wendy, and that she had life insurance, and that she also left behind a detailed will.",
+      "cn": "好的，所以现在继续，我们说那个人感到抱歉，但他们在谈论女孩温迪，她有寿险，并且她还留下了一份详细的遗嘱。"
+    },
+    {
+      "id": 164,
+      "en": "Does that mean she forgot it?",
+      "cn": "这是否意味着她忘记了？"
+    },
+    {
+      "id": 165,
+      "en": "She forgot it, but that can mean that, right?",
+      "cn": "她忘记了，但这可以意味着，对吧？"
+    },
+    {
+      "id": 166,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 167,
+      "en": "No, yeah, this is a phrase that has a couple different meanings, and so it's important to look at this one when we're talking about someone who has died, who left behind something.",
+      "cn": "不，是的，这个短语有几个不同的意思，所以在我们谈论某个去世的人时，重要的是要看这个。"
+    },
+    {
+      "id": 168,
+      "en": "It means that they have completed it, in this case, or it survives them.",
+      "cn": "这意味着他们已经完成了，在这种情况下，或者它在他们身后存活。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, so they left that for you, okay?",
+      "cn": "好的，所以他们为你留下了这个，好的？"
+    },
+    {
+      "id": 170,
+      "en": "Because, as you said, it has a couple of different meanings, like to leave behind can be to lose or to forget, but in this case, specifically, it's to leave for you.",
+      "cn": "因为，正如你所说，它有几个不同的意思，比如留下可以是失去或忘记，但在这种情况下，具体来说，是为你留下。"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, for example, you could say, he died and he left behind three children, okay?",
+      "cn": "是的，例如，你可以说，他去世了，留下了三个孩子，好的？"
+    },
+    {
+      "id": 172,
+      "en": "So that means that he had three children when he died, and they're still alive.",
+      "cn": "所以这意味着他去世时有三个孩子，他们仍然活着。"
+    },
+    {
+      "id": 173,
+      "en": "Right, okay, very interesting phrase, to leave something behind.",
+      "cn": "对，好的，非常有趣的短语，留下某物。"
+    },
+    {
+      "id": 174,
+      "en": "And so she left behind a detailed will, and that's going to sort out any other legal matters.",
+      "cn": "所以她留下了一份详细的遗嘱，这将处理其他法律事务。"
+    },
+    {
+      "id": 175,
+      "en": "To sort out, this is a great verb, this is a verbal phrase that we hear a lot with documents and wills and things like this.",
+      "cn": "处理，这是一个很好的动词，这是我们在文件和遗嘱等事情中经常听到的动词短语。"
+    },
+    {
+      "id": 176,
+      "en": "Basically, to sort out means to solve problems or to fix or to amend.",
+      "cn": "基本上，处理意味着解决问题或修复或修改。"
+    },
+    {
+      "id": 177,
+      "en": "For example, have you sorted out that problem you had with your plane tickets?",
+      "cn": "例如，你解决了你在机票上遇到的问题吗？"
+    },
+    {
+      "id": 178,
+      "en": "Okay, yeah, to sort out.",
+      "cn": "好的，是的，处理。"
+    },
+    {
+      "id": 179,
+      "en": "So have you fixed those problems or have you solved those problems that you had with your plane tickets?",
+      "cn": "所以你解决了那些问题，或者你解决了你在机票上遇到的问题吗？"
+    },
+    {
+      "id": 180,
+      "en": "To sort out, to fix, to make arrangements for.",
+      "cn": "处理，修复，安排。"
+    },
+    {
+      "id": 181,
+      "en": "Very, very useful phrase.",
+      "cn": "非常非常有用的短语。"
+    },
+    {
+      "id": 182,
+      "en": "Very useful phrase.",
+      "cn": "非常有用的短语。"
+    },
+    {
+      "id": 183,
+      "en": "Okay, so four key phrases there, really good ones.",
+      "cn": "好的，所以这里有四个关键短语，真的很好。"
+    },
+    {
+      "id": 184,
+      "en": "Why don't we go back, listen to the dialogue, and we'll be back to talk a little bit more.",
+      "cn": "我们为什么不回去，听听对话，然后我们再回来聊聊。"
+    },
+    {
+      "id": 185,
+      "en": "Hi, Daniel, how are you holding up?",
+      "cn": "嗨，丹尼尔，你还好吗？"
+    },
+    {
+      "id": 186,
+      "en": "I'm greatly sorry for your loss.",
+      "cn": "我对你的损失深感抱歉。"
+    },
+    {
+      "id": 187,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 188,
+      "en": "I'm doing much better.",
+      "cn": "我好多了。"
+    },
+    {
+      "id": 189,
+      "en": "I've begun organizing everything for the funeral.",
+      "cn": "我已经开始为葬礼整理一切。"
+    },
+    {
+      "id": 190,
+      "en": "How's that going?",
+      "cn": "进展如何？"
+    },
+    {
+      "id": 191,
+      "en": "It's a lot harder than I imagined.",
+      "cn": "比我想象的要难得多。"
+    },
+    {
+      "id": 192,
+      "en": "There are many things that you have to arrange.",
+      "cn": "有很多事情需要安排。"
+    },
+    {
+      "id": 193,
+      "en": "I booked a time and date with the funeral home, but I still have a lot of things to do.",
+      "cn": "我已经和殡仪馆预定了时间和日期，但我还有很多事情要做。"
+    },
+    {
+      "id": 194,
+      "en": "Have you bought a burial plot and a casket?",
+      "cn": "你买了墓地和棺材吗？"
+    },
+    {
+      "id": 195,
+      "en": "No, Wendy is being cremated.",
+      "cn": "没有，温迪要火化。"
+    },
+    {
+      "id": 196,
+      "en": "She always talked about how she didn't want to be buried.",
+      "cn": "她总是说她不想被埋葬。"
+    },
+    {
+      "id": 197,
+      "en": "I already chose a cremation urn and we plan to spread the ashes in the ocean.",
+      "cn": "我已经选择了一个火化骨灰盒，我们计划把她的 ashes 撒在海里。"
+    },
+    {
+      "id": 198,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 199,
+      "en": "That sounds like something she would have really liked.",
+      "cn": "听起来像是她会非常喜欢的事情。"
+    },
+    {
+      "id": 200,
+      "en": "I'm sure the memorial service will be tasteful.",
+      "cn": "我相信追悼会会很得体。"
+    },
+    {
+      "id": 201,
+      "en": "You're doing a great job.",
+      "cn": "你做得很好。"
+    },
+    {
+      "id": 202,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 203,
+      "en": "It hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.",
+      "cn": "这并不容易，但幸运的是我们有寿险，温迪留下了一份详细的遗嘱，可以处理其他法律事务。"
+    },
+    {
+      "id": 204,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 205,
+      "en": "So now talking about funerals, there's an interesting word.",
+      "cn": "现在谈到葬礼，有一个有趣的词。"
+    },
+    {
+      "id": 206,
+      "en": "What is it called when a person speaks at a funeral?",
+      "cn": "在葬礼上一个人发言叫什么？"
+    },
+    {
+      "id": 207,
+      "en": "Well, normally at a funeral, a loved one or friend will give a eulogy.",
+      "cn": "通常在葬礼上，亲人或朋友会发表悼词。"
+    },
+    {
+      "id": 208,
+      "en": "Eulogy?",
+      "cn": "悼词？"
+    },
+    {
+      "id": 209,
+      "en": "Eulogy.",
+      "cn": "悼词。"
+    },
+    {
+      "id": 210,
+      "en": "Okay, that's e-u, right?",
+      "cn": "好的，那是 e-u，对吗？"
+    },
+    {
+      "id": 211,
+      "en": "E-u.",
+      "cn": "E-u。"
+    },
+    {
+      "id": 212,
+      "en": "It looks like a funny word, but it's very important and it's something that you hear a lot.",
+      "cn": "这个词看起来很有趣，但它非常重要，而且你会经常听到。"
+    },
+    {
+      "id": 213,
+      "en": "Who will give the eulogy or his son will give the eulogy?",
+      "cn": "谁会发表悼词，还是他的儿子会发表悼词？"
+    },
+    {
+      "id": 214,
+      "en": "So this is maybe the keynote address in a funeral.",
+      "cn": "所以这可能是葬礼上的主题演讲。"
+    },
+    {
+      "id": 215,
+      "en": "This is the important speech where someone will discuss the person who has died and his or her contributions and life.",
+      "cn": "这是重要的演讲，讨论已故者的生活和贡献。"
+    },
+    {
+      "id": 216,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 217,
+      "en": "Okay, so that's called a eulogy.",
+      "cn": "好的，这叫做悼词。"
+    },
+    {
+      "id": 218,
+      "en": "That's really, really interesting because I don't know, it's kind of a word that you don't really use much and you wouldn't really know it.",
+      "cn": "这真的很有趣，因为我不知道，这个词你不常用，你可能不会知道。"
+    },
+    {
+      "id": 219,
+      "en": "I have, for example, I didn't really, really know about it until I saw it in a movie when he made a mistake.",
+      "cn": "例如，我直到在电影中看到它时才真正了解它，当时他犯了个错误。"
+    },
+    {
+      "id": 220,
+      "en": "He said Googleogy or something like that.",
+      "cn": "他说 Googleogy 或类似的东西。"
+    },
+    {
+      "id": 221,
+      "en": "Oh, really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 222,
+      "en": "Yeah, it was in a comedy.",
+      "cn": "是的，那是一部喜剧。"
+    },
+    {
+      "id": 223,
+      "en": "So, but very interesting words.",
+      "cn": "所以，这些词很有趣。"
+    },
+    {
+      "id": 224,
+      "en": "It's a sad topic, but it happens sometimes you have to deal with these things.",
+      "cn": "这是一个悲伤的话题，但有时你必须处理这些事情。"
+    },
+    {
+      "id": 225,
+      "en": "And so if you have to do it in English, well, what better way than to learn all of these things, which could come in handy sometimes.",
+      "cn": "所以如果你必须用英语来做，学习这些可能会在某些时候派上用场。"
+    },
+    {
+      "id": 226,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 227,
+      "en": "And you never know you're watching a movie or something and this comes up.",
+      "cn": "你永远不知道你在看电影或其他事情时会遇到这些。"
+    },
+    {
+      "id": 228,
+      "en": "There are a lot of comedies, like you said, we call them black comedies means they're very dark and strange.",
+      "cn": "有很多喜剧，正如你所说，我们称它们为黑色喜剧，意味着它们非常黑暗和奇怪。"
+    },
+    {
+      "id": 229,
+      "en": "And they like Four Weddings and a Funeral is a very famous English movie about this kind of thing.",
+      "cn": "像《四个婚礼和一个葬礼》是关于这种事情的一部非常著名的英语电影。"
+    },
+    {
+      "id": 230,
+      "en": "And so this is useful vocabulary and some useful phrases for those situations as well.",
+      "cn": "所以这是有用的词汇和一些有用的短语，适用于这些情况。"
+    },
+    {
+      "id": 231,
+      "en": "Exactly.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 232,
+      "en": "Even if you maybe meet somebody who I remember, I knew somebody who met a casket salesman really old caskets.",
+      "cn": "即使你可能遇到某人，我记得我认识一个人，他遇到过一个卖棺材的销售员，卖非常古老的棺材。"
+    },
+    {
+      "id": 233,
+      "en": "An interesting job.",
+      "cn": "一个有趣的工作。"
+    },
+    {
+      "id": 234,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 235,
+      "en": "So you never know.",
+      "cn": "所以你永远不知道。"
+    },
+    {
+      "id": 236,
+      "en": "You never know.",
+      "cn": "你永远不知道。"
+    },
+    {
+      "id": 237,
+      "en": "Well, hope you've enjoyed this lesson.",
+      "cn": "好吧，希望你喜欢这节课。"
+    },
+    {
+      "id": 238,
+      "en": "Not too dark for you, but please do remember to ask us any questions or practice some of your new words and phrases on our website, EnglishPod.com.",
+      "cn": "对你来说不太黑暗，但请记得在我们的网站 EnglishPod.com 上问我们任何问题或练习你的一些新单词和短语。"
+    },
+    {
+      "id": 239,
+      "en": "All right, we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0305",
+  "title": "Englishpod 初级 英文播客 0305",
+  "totalSegments": 173,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine and today we're going to be talking about a very fun game.",
+      "cn": "我叫Catherine，今天我们要谈论一个非常有趣的游戏。"
+    },
+    {
+      "id": 4,
+      "en": "That's right, today we're going bowling, a very popular sport amongst many people.",
+      "cn": "没错，今天我们要去保龄球，这是许多人非常喜欢的运动。"
+    },
+    {
+      "id": 5,
+      "en": "And so we're going to take a look at how you play this sport and all the vocab related to this great game.",
+      "cn": "所以我们将看看如何玩这个运动以及与这个伟大游戏相关的所有词汇。"
+    },
+    {
+      "id": 6,
+      "en": "Alright, so let's take a listen to our dialogue and we'll be right back.",
+      "cn": "好的，让我们听一下对话，稍后再回来。"
+    },
+    {
+      "id": 7,
+      "en": "Alright, so the first thing you need to know about bowling is that you should never cross that line where the Lane begins.",
+      "cn": "好的，关于保龄球你需要知道的第一件事是，你绝对不能跨越保龄球道开始的那条线。"
+    },
+    {
+      "id": 8,
+      "en": "Why not?",
+      "cn": "为什么不呢？"
+    },
+    {
+      "id": 9,
+      "en": "Because they Polish and oil it to make the ball slide down.",
+      "cn": "因为他们会抛光和上油，让球滑下来。"
+    },
+    {
+      "id": 10,
+      "en": "If you step there you'll slip and fall.",
+      "cn": "如果你踩到那里，你会滑倒。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, so I got my bowling shoes, my ball, our name's on the scorecard, so now how the heck do I play this?",
+      "cn": "好吧，我已经穿上保龄球鞋，拿上我的球，分数卡上有我们的名字，那么我到底该怎么打呢？"
+    },
+    {
+      "id": 12,
+      "en": "You throw the ball down the Lane and try to knock down all the pins.",
+      "cn": "你把球扔下保龄球道，试着击倒所有的瓶子。"
+    },
+    {
+      "id": 13,
+      "en": "If you do, that is called a strike.",
+      "cn": "如果你做到，那叫做“全中”。"
+    },
+    {
+      "id": 14,
+      "en": "If you don't knock them all down on the first try, then you get a chance to get the spare.",
+      "cn": "如果你第一次没有击倒所有瓶子，那么你有机会获得“补中”。"
+    },
+    {
+      "id": 15,
+      "en": "After 10 frames, we add up the points and see who has the most.",
+      "cn": "经过10局，我们加总分数，看看谁得分最高。"
+    },
+    {
+      "id": 16,
+      "en": "300 is a perfect score, but very hard to get.",
+      "cn": "300分是完美分数，但很难达到。"
+    },
+    {
+      "id": 17,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 18,
+      "en": "Okay, I'm going to give it a go.",
+      "cn": "好吧，我要试试。"
+    },
+    {
+      "id": 19,
+      "en": "Oh no, my ball went in the gutter.",
+      "cn": "哦不，我的球进沟了。"
+    },
+    {
+      "id": 20,
+      "en": "I told you, it's harder than you think.",
+      "cn": "我告诉过你，这比你想的要难。"
+    },
+    {
+      "id": 21,
+      "en": "Now let a pro show you how it's done.",
+      "cn": "现在让专业人士来给你示范一下。"
+    },
+    {
+      "id": 22,
+      "en": "Alright, we're back, so now let's take a look at some of that vocab on Language Takeaway.",
+      "cn": "好的，我们回来了，现在让我们看看一些语言要点。"
+    },
+    {
+      "id": 23,
+      "en": "So the first word we have today in Language Takeaway is Lane.",
+      "cn": "今天在语言要点中，我们的第一个词是“保龄球道”。"
+    },
+    {
+      "id": 24,
+      "en": "That's right, a bowling Lane.",
+      "cn": "没错，保龄球道。"
+    },
+    {
+      "id": 25,
+      "en": "So a Lane, that is where you actually play this game.",
+      "cn": "保龄球道就是你实际玩这个游戏的地方。"
+    },
+    {
+      "id": 26,
+      "en": "That's right, a Lane is also a word for like a road, a small narrow road.",
+      "cn": "没错，保龄球道也是指像小路那样的狭窄道路。"
+    },
+    {
+      "id": 27,
+      "en": "So in bowling, this is the flat surface, the floor that's long that you roll the ball down.",
+      "cn": "在保龄球中，这是你滚球的平坦表面，长长的地面。"
+    },
+    {
+      "id": 28,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 29,
+      "en": "Okay, so that's your Lane.",
+      "cn": "好的，这就是你的保龄球道。"
+    },
+    {
+      "id": 30,
+      "en": "So as you said, you roll the ball down the Lane and you try to knock down the pins that are at the end of the Lane.",
+      "cn": "正如你所说，你把球滚下保龄球道，试图击倒在保龄球道尽头的瓶子。"
+    },
+    {
+      "id": 31,
+      "en": "That's right, so pins are... they're a little bit heavy, they're usually white and they have...",
+      "cn": "没错，瓶子是……它们有点重，通常是白色的，"
+    },
+    {
+      "id": 32,
+      "en": "they're wide at the bottom and narrow at the top.",
+      "cn": "底部宽，顶部窄。"
+    },
+    {
+      "id": 33,
+      "en": "They almost look like wine bottles.",
+      "cn": "它们几乎看起来像酒瓶。"
+    },
+    {
+      "id": 34,
+      "en": "And the goal of the game is to knock these down to make them fall on the ground.",
+      "cn": "游戏的目标是击倒这些瓶子，让它们倒在地上。"
+    },
+    {
+      "id": 35,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so that's why you are using... that's why you are throwing the ball down the Lane to knock down these pins.",
+      "cn": "好的，这就是你为什么要把球扔下保龄球道以击倒这些瓶子的原因。"
+    },
+    {
+      "id": 37,
+      "en": "Now, if you knock all of them down on your first try, that's called a strike.",
+      "cn": "现在，如果你第一次就击倒了所有瓶子，那叫做“全中”。"
+    },
+    {
+      "id": 38,
+      "en": "A strike, that's right.",
+      "cn": "“全中”，没错。"
+    },
+    {
+      "id": 39,
+      "en": "So that means all ten pins fall down on your first try.",
+      "cn": "这意味着你第一次就击倒了所有十个瓶子。"
+    },
+    {
+      "id": 40,
+      "en": "But sometimes you don't get a strike, you maybe knock down eight pins, and then later on your second try, because every person gets two tries, on your second try you knock down the last two pins.",
+      "cn": "但有时你没有全中，可能击倒了八个瓶子，然后在第二次尝试时，因为每个人都有两次机会，在第二次尝试时你击倒了最后两个瓶子。"
+    },
+    {
+      "id": 41,
+      "en": "Now what's that called, Marco?",
+      "cn": "那么这叫什么，Marco？"
+    },
+    {
+      "id": 42,
+      "en": "So if you knock all of them down on your second try, that's called a spare.",
+      "cn": "如果你在第二次尝试时击倒了所有瓶子，那叫做“补中”。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, strike, usually you write it with an X, that's on the scorecard.",
+      "cn": "好的，“全中”通常用X表示，在分数卡上。"
+    },
+    {
+      "id": 44,
+      "en": "And a spare, which is two tries to get all ten pins, that's a slash.",
+      "cn": "而“补中”，即两次尝试击倒所有十个瓶子，用斜杠表示。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "And if you don't get all of the pins in two tries, you still get points.",
+      "cn": "如果你在两次尝试中没有击倒所有瓶子，你仍然可以得分。"
+    },
+    {
+      "id": 47,
+      "en": "So if you knock down eight pins, you get eight.",
+      "cn": "所以如果你击倒了八个瓶子，你得八分。"
+    },
+    {
+      "id": 48,
+      "en": "Or if you knock down four pins, you get four.",
+      "cn": "或者如果你击倒了四个瓶子，你得四分。"
+    },
+    {
+      "id": 49,
+      "en": "That's right, and you put your score on your scorecard, and now each player usually gets ten frames, or ten different opportunities to knock down all the pins.",
+      "cn": "没错，你把分数写在分数卡上，现在每个玩家通常有十局，或者十次不同的机会来击倒所有瓶子。"
+    },
+    {
+      "id": 50,
+      "en": "Alright, so usually these are boxes on the scorecard, and you can play ten frame bowling, or also five frame, but it's important to remember that each frame gives you the opportunity to bowl two times.",
+      "cn": "好的，通常这些是分数卡上的框，你可以玩十局保龄球，或者五局，但重要的是要记住每局给你两次投球的机会。"
+    },
+    {
+      "id": 51,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 52,
+      "en": "Alright, so you get those two tries, so really it's twenty total tries to knock down these pins.",
+      "cn": "好的，所以你有这两次尝试，所以实际上总共有二十次机会来击倒这些瓶子。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "And now if you did really well, and on every opportunity of each frame, you got a strike, that means that you would get a perfect score.",
+      "cn": "如果你表现得很好，在每局的每次机会中都全中，那就意味着你会得到完美分数。"
+    },
+    {
+      "id": 55,
+      "en": "That's right, a perfect score, that means that you made no mistakes, you knocked down all the pins on the first try.",
+      "cn": "没错，完美分数，意味着你没有犯错，第一次就击倒了所有瓶子。"
+    },
+    {
+      "id": 56,
+      "en": "And now obviously down the Lane, it's not as easy as it looks, because to the sides of your bowling Lane, you have this kind of a path that's to the bottom, so if your ball goes in there, you can't get it out.",
+      "cn": "现在显然在保龄球道上，这并不像看起来那么简单，因为在你的保龄球道两侧，有一种通道在底部，所以如果你的球掉进去，你就无法把它拿出来。"
+    },
+    {
+      "id": 57,
+      "en": "That's right, so remember like I said earlier, a Lane is also the name of a place where we can walk or drive, it's like a road.",
+      "cn": "没错，所以记住，正如我之前所说，保龄球道也是我们可以走或开车的地方的名称，就像一条路。"
+    },
+    {
+      "id": 58,
+      "en": "Well, we have gutters, which are on the sides of these roads, and also in bowling, gutters.",
+      "cn": "好吧，我们有沟，位于这些道路的两侧，在保龄球中也是沟。"
+    },
+    {
+      "id": 59,
+      "en": "They're lower, and normally on the streets they're for water, but in bowling, they're the places on the right or the left side where your ball will fall.",
+      "cn": "它们较低，通常在街道上是用来排水的，但在保龄球中，它们是你球会掉落的右侧或左侧的地方。"
+    },
+    {
+      "id": 60,
+      "en": "And if your ball falls into the gutter, or it rolls into the gutter, you will hit no pins.",
+      "cn": "如果你的球掉进沟里，或者滚进沟里，你将不会击倒任何瓶子。"
+    },
+    {
+      "id": 61,
+      "en": "Right, I think that's the main thing, if your ball goes in the gutter, you don't hit any pins at all, it just goes straight down and you don't hit anything.",
+      "cn": "对，我认为这就是主要问题，如果你的球进了沟，你根本不会击倒任何瓶子，它只是直接掉下去，你什么都没击倒。"
+    },
+    {
+      "id": 62,
+      "en": "That's right, so it's really sad when you bowl badly and you get a gutter ball, we call it.",
+      "cn": "没错，所以当你打得不好，得了一个沟球时，真的很伤心，我们称之为沟球。"
+    },
+    {
+      "id": 63,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 64,
+      "en": "Alright, so let's take a look at all this vocab again, let's listen to our dialogue, and we'll be back in a bit with Fluency Builder.",
+      "cn": "好的，让我们再看看所有这些词汇，听一下我们的对话，稍后我们将带来流利构建者。"
+    },
+    {
+      "id": 65,
+      "en": "Alright, so the first thing you need to know about bowling is that you should never cross that line where the Lane begins.",
+      "cn": "好的，关于保龄球你需要知道的第一件事是，你绝对不能跨越保龄球道开始的那条线。"
+    },
+    {
+      "id": 66,
+      "en": "Why not?",
+      "cn": "为什么不呢？"
+    },
+    {
+      "id": 67,
+      "en": "Because they Polish and oil it to make the ball slide down, if you step there you'll slip and fall.",
+      "cn": "因为他们会抛光和上油，让球滑下来，如果你踩到那里，你会滑倒。"
+    },
+    {
+      "id": 68,
+      "en": "Okay, so I got my bowling shoes, my ball, our name's on the scorecard, so now how the heck do I play this?",
+      "cn": "好吧，我已经穿上保龄球鞋，拿上我的球，分数卡上有我们的名字，那么我到底该怎么打呢？"
+    },
+    {
+      "id": 69,
+      "en": "You throw the ball down the Lane and try to knock down all the pins.",
+      "cn": "你把球扔下保龄球道，试着击倒所有的瓶子。"
+    },
+    {
+      "id": 70,
+      "en": "If you do, that is called a strike.",
+      "cn": "如果你做到，那叫做“全中”。"
+    },
+    {
+      "id": 71,
+      "en": "If you don't knock them all down on the first try, then you get a chance to get the spare.",
+      "cn": "如果你第一次没有击倒所有瓶子，那么你有机会获得“补中”。"
+    },
+    {
+      "id": 72,
+      "en": "After 10 frames, we add up the points and see who has the most.",
+      "cn": "经过10局，我们加总分数，看看谁得分最高。"
+    },
+    {
+      "id": 73,
+      "en": "300 is a perfect score, but very hard to get.",
+      "cn": "300分是完美分数，但很难达到。"
+    },
+    {
+      "id": 74,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 75,
+      "en": "Okay, I'm going to give it a go.",
+      "cn": "好吧，我要试试。"
+    },
+    {
+      "id": 76,
+      "en": "Oh no, my ball went in the gutter.",
+      "cn": "哦不，我的球进沟了。"
+    },
+    {
+      "id": 77,
+      "en": "I told you, it's harder than you think.",
+      "cn": "我告诉过你，这比你想的要难。"
+    },
+    {
+      "id": 78,
+      "en": "Now let a pro show you how it's done.",
+      "cn": "现在让专业人士来给你示范一下。"
+    },
+    {
+      "id": 79,
+      "en": "Alright, so we've picked out three different phrases for you.",
+      "cn": "好的，我们为你挑选了三个不同的短语。"
+    },
+    {
+      "id": 80,
+      "en": "Let's take a look at those now in Fluency Builder.",
+      "cn": "现在让我们在流利构建者中看看这些。"
+    },
+    {
+      "id": 81,
+      "en": "Fluency Builder.",
+      "cn": "流利构建者。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so the first phrase that we have today is something that you're going to hear a lot, although I want to remind everyone this is very informal.",
+      "cn": "好的，今天我们有的第一个短语是你会经常听到的，虽然我想提醒大家这非常非正式。"
+    },
+    {
+      "id": 83,
+      "en": "So, we heard someone say in the dialogue, so now how the heck do I play this?",
+      "cn": "所以，我们在对话中听到有人说，那么我到底该怎么打呢？"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so how the heck do I turn this computer on?",
+      "cn": "好吧，那么我到底该怎么开这个电脑呢？"
+    },
+    {
+      "id": 85,
+      "en": "Okay, so how do I turn this computer on means I don't know, please help me.",
+      "cn": "好吧，那么我怎么开这个电脑意味着我不知道，请帮我。"
+    },
+    {
+      "id": 86,
+      "en": "But how the heck means I really don't know, I really need your help.",
+      "cn": "但“那么我到底”意味着我真的不知道，我真的需要你的帮助。"
+    },
+    {
+      "id": 87,
+      "en": "That's right, I really don't understand what's going on, I need someone's help.",
+      "cn": "没错，我真的不明白发生了什么，我需要某人的帮助。"
+    },
+    {
+      "id": 88,
+      "en": "Like how the heck did this happen means I absolutely did not expect this to happen, I'm very surprised.",
+      "cn": "就像“这怎么会发生”意味着我绝对没有预料到会发生这种事，我非常惊讶。"
+    },
+    {
+      "id": 89,
+      "en": "That's right, it's actually a not very polite phrase to use, but at the same time it's not terribly impolite.",
+      "cn": "没错，这实际上不是一个非常礼貌的短语，但同时也不是特别不礼貌。"
+    },
+    {
+      "id": 90,
+      "en": "It's in the middle.",
+      "cn": "它在中间。"
+    },
+    {
+      "id": 91,
+      "en": "But it's very informal.",
+      "cn": "但它非常非正式。"
+    },
+    {
+      "id": 92,
+      "en": "Alright, so now the person understands how to bowl, how the game works, and he says, okay, got it.",
+      "cn": "好的，现在这个人明白了如何打保龄球，游戏是如何运作的，他说，好的，明白了。"
+    },
+    {
+      "id": 93,
+      "en": "I'm going, I'm gonna give it a go.",
+      "cn": "我去，我要试试。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, I'm gonna means I'm going to, and this is very informal.",
+      "cn": "好吧，我要试试意味着我将要，这非常非正式。"
+    },
+    {
+      "id": 95,
+      "en": "Gonna is a way to say going to, I will.",
+      "cn": "“要试试”是“将要”的一种说法，我会。"
+    },
+    {
+      "id": 96,
+      "en": "But the phrase here is give it a go.",
+      "cn": "但这里的短语是“试试”。"
+    },
+    {
+      "id": 97,
+      "en": "What does that mean, Marco?",
+      "cn": "这是什么意思，Marco？"
+    },
+    {
+      "id": 98,
+      "en": "Give it a go.",
+      "cn": "“试试”。"
+    },
+    {
+      "id": 99,
+      "en": "So if you're gonna give it a go, it means that you're going to try.",
+      "cn": "所以如果你要试试，这意味着你将要尝试。"
+    },
+    {
+      "id": 100,
+      "en": "Okay, so I'm gonna try.",
+      "cn": "好吧，所以我将要尝试。"
+    },
+    {
+      "id": 101,
+      "en": "So we can say this, now that we know how to play the game, let's give it a go.",
+      "cn": "现在我们知道怎么玩这个游戏了，我们就试试看吧。"
+    },
+    {
+      "id": 102,
+      "en": "Let's try to play, because we've been talking about it, but we haven't been doing it.",
+      "cn": "我们来试着玩，因为我们一直在谈论它，但还没有去做。"
+    },
+    {
+      "id": 103,
+      "en": "So to give it a go means to try to do something.",
+      "cn": "所以“试试看”意味着尝试做某事。"
+    },
+    {
+      "id": 104,
+      "en": "Exactly, and that's basically it.",
+      "cn": "正是如此，这基本上就是。"
+    },
+    {
+      "id": 105,
+      "en": "If maybe you're watching a game on the street and you want to try maybe a card game, you say, okay, I want to give it a go.",
+      "cn": "如果你在街上看比赛，想试试纸牌游戏，你会说，好的，我想试试看。"
+    },
+    {
+      "id": 106,
+      "en": "I want to give it a go.",
+      "cn": "我想试试看。"
+    },
+    {
+      "id": 107,
+      "en": "All right, and what about our last phrase?",
+      "cn": "好的，我们最后的短语呢？"
+    },
+    {
+      "id": 108,
+      "en": "Now the very last phrase is the last phrase of our dialogue.",
+      "cn": "现在最后一句是我们对话的最后一句。"
+    },
+    {
+      "id": 109,
+      "en": "The character says, now let a pro show you how it's done.",
+      "cn": "角色说，现在让专业人士给你展示怎么做。"
+    },
+    {
+      "id": 110,
+      "en": "All right, so how it's done, this let me show you how it's done, because this person is saying, I'm a pro, let me show you how it's done, is a very interesting way of saying something in English.",
+      "cn": "好的，怎么做，这让我给你展示怎么做，因为这个人说，我是专业人士，让我给你展示怎么做，这是一种非常有趣的表达方式。"
+    },
+    {
+      "id": 111,
+      "en": "What is the real meaning of this phrase?",
+      "cn": "这个短语的真正含义是什么？"
+    },
+    {
+      "id": 112,
+      "en": "He's basically saying, now let me show you how to do it.",
+      "cn": "他基本上是在说，现在让我给你展示怎么做。"
+    },
+    {
+      "id": 113,
+      "en": "Okay, the correct way.",
+      "cn": "好的，正确的方式。"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "So basically he's saying, you didn't do it very well, you didn't bowl very well, you're new.",
+      "cn": "所以基本上他是在说，你做得不好，你的保龄球打得不好，你是新手。"
+    },
+    {
+      "id": 116,
+      "en": "Let me show you how professional people bowl.",
+      "cn": "让我给你展示专业人士是怎么打保龄球的。"
+    },
+    {
+      "id": 117,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 118,
+      "en": "Let me give you an example.",
+      "cn": "让我给你一个例子。"
+    },
+    {
+      "id": 119,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 120,
+      "en": "Maybe you and your friend are making a cake and you don't really know what you're doing, so your friend says, move over, let me show you how it's done.",
+      "cn": "也许你和你的朋友在做蛋糕，你并不知道自己在做什么，所以你的朋友说，靠边，让我给你展示怎么做。"
+    },
+    {
+      "id": 121,
+      "en": "That means the proper way to do it, the correct way.",
+      "cn": "这意味着正确的做法，正确的方式。"
+    },
+    {
+      "id": 122,
+      "en": "So Marco, you're not doing it right, let me show you how it's done.",
+      "cn": "所以Marco，你做得不对，让我给你展示怎么做。"
+    },
+    {
+      "id": 123,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 124,
+      "en": "A very useful phrase, and actually it can seem a little bit confusing because you're using the verb there, done.",
+      "cn": "一个非常有用的短语，实际上它可能看起来有点困惑，因为你在使用动词“做”。"
+    },
+    {
+      "id": 125,
+      "en": "So it may seem a little bit weird, do, done.",
+      "cn": "所以它可能看起来有点奇怪，“做”，“做完”。"
+    },
+    {
+      "id": 126,
+      "en": "But don't worry about it, just take it as a phrase, let me show you how to do it, let me show you how it's done.",
+      "cn": "但别担心，把它当作一个短语，让我给你展示怎么做，让我给你展示怎么做。"
+    },
+    {
+      "id": 127,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 128,
+      "en": "So that's all we've got for Fluency Builder today.",
+      "cn": "所以今天的流利构建就到这里。"
+    },
+    {
+      "id": 129,
+      "en": "Let's take another listen to our dialogue and we'll be back in a second.",
+      "cn": "让我们再听一遍我们的对话，我们马上回来。"
+    },
+    {
+      "id": 130,
+      "en": "Alright, so the first thing you need to know about bowling is that you should never cross that line where the Lane begins.",
+      "cn": "好的，关于保龄球你需要知道的第一件事是，你绝对不能跨越那条道开始的线。"
+    },
+    {
+      "id": 131,
+      "en": "Why not?",
+      "cn": "为什么不？"
+    },
+    {
+      "id": 132,
+      "en": "Because they Polish and oil it to make the ball slide down.",
+      "cn": "因为他们会用抛光和油来让球滑下来。"
+    },
+    {
+      "id": 133,
+      "en": "If you step there, you'll slip and fall.",
+      "cn": "如果你踩到那里，你会滑倒。"
+    },
+    {
+      "id": 134,
+      "en": "Okay, so I got my bowling shoes, my ball, our name's on the scorecard, so now how the heck do I play this?",
+      "cn": "好的，我有我的保龄球鞋，我的球，我们的名字在记分卡上，那么我到底该怎么打？"
+    },
+    {
+      "id": 135,
+      "en": "You throw the ball down the Lane and try to knock down all the pins.",
+      "cn": "你把球扔到道上，试着击倒所有的瓶子。"
+    },
+    {
+      "id": 136,
+      "en": "If you do, that is called a strike.",
+      "cn": "如果你做到，那叫做“全中”。"
+    },
+    {
+      "id": 137,
+      "en": "If you don't knock them all down on the first try, then you get a chance to get the spare.",
+      "cn": "如果你第一次没有击倒所有的瓶子，那么你有机会获得“补中”。"
+    },
+    {
+      "id": 138,
+      "en": "After 10 frames, we add up the points and see who has the most.",
+      "cn": "经过10局，我们加总分数，看看谁得分最高。"
+    },
+    {
+      "id": 139,
+      "en": "300 is a perfect score, but very hard to get.",
+      "cn": "300分是完美分数，但很难达到。"
+    },
+    {
+      "id": 140,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 141,
+      "en": "Okay, I'm going to give it a go.",
+      "cn": "好的，我要试试看。"
+    },
+    {
+      "id": 142,
+      "en": "Oh no, my ball went in the gutter.",
+      "cn": "哦不，我的球进沟里了。"
+    },
+    {
+      "id": 143,
+      "en": "I told you, it's harder than you think.",
+      "cn": "我告诉过你，这比你想的要难。"
+    },
+    {
+      "id": 144,
+      "en": "Now let a pro show you how it's done.",
+      "cn": "现在让专业人士给你展示怎么做。"
+    },
+    {
+      "id": 145,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 146,
+      "en": "So bowling is actually kind of like a pastime in the United States.",
+      "cn": "所以保龄球实际上在美国算是一种消遣。"
+    },
+    {
+      "id": 147,
+      "en": "You get together with friends and you just go bowling.",
+      "cn": "你和朋友聚在一起，就去打保龄球。"
+    },
+    {
+      "id": 148,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 149,
+      "en": "I do believe it's also considered a sport.",
+      "cn": "我相信这也被认为是一项运动。"
+    },
+    {
+      "id": 150,
+      "en": "So many people play professionally or semi-professionally.",
+      "cn": "很多人是职业或半职业的选手。"
+    },
+    {
+      "id": 151,
+      "en": "But for me, it's always been a very social game.",
+      "cn": "但对我来说，这一直是一种非常社交的游戏。"
+    },
+    {
+      "id": 152,
+      "en": "Something you do with a group of friends, you go out, it's really fun.",
+      "cn": "是和一群朋友一起做的事情，出去玩，真的很有趣。"
+    },
+    {
+      "id": 153,
+      "en": "Yeah, especially because when you go bowling, many people can play, right?",
+      "cn": "是的，尤其是因为当你去打保龄球时，很多人可以一起玩，对吧？"
+    },
+    {
+      "id": 154,
+      "en": "Not obviously at the same time, but you take turns.",
+      "cn": "当然不是同时，但你们轮流。"
+    },
+    {
+      "id": 155,
+      "en": "And so while you're waiting, people are talking and eating.",
+      "cn": "所以在你等待的时候，人们在聊天和吃东西。"
+    },
+    {
+      "id": 156,
+      "en": "So it is a very social activity.",
+      "cn": "所以这是一项非常社交的活动。"
+    },
+    {
+      "id": 157,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 158,
+      "en": "So maybe a group of people will rent a Lane.",
+      "cn": "所以也许一群人会租一个道。"
+    },
+    {
+      "id": 159,
+      "en": "Remember we were talking earlier about a Lane being that one kind of strip of wood where you roll the ball.",
+      "cn": "记得我们之前谈到的道是那种木条，你在上面滚球。"
+    },
+    {
+      "id": 160,
+      "en": "Well, a group of friends can rent a Lane or two lanes.",
+      "cn": "一群朋友可以租一个或两个道。"
+    },
+    {
+      "id": 161,
+      "en": "And the four or the eight of you can play together, each person playing, you know, one frame at a time.",
+      "cn": "你们四个人或八个人可以一起玩，每个人一次玩一局。"
+    },
+    {
+      "id": 162,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 163,
+      "en": "And now actually, the other thing about it is it's very funny to see people trying to bowl, or maybe with the heavy ball, or maybe they pass the line that we said they shouldn't pass and they slip and fall.",
+      "cn": "现在实际上，关于这件事的另一件事是，看人们尝试打保龄球，或者用重球，或者他们越过了我们说的那条线，滑倒了，这真的很有趣。"
+    },
+    {
+      "id": 164,
+      "en": "So I guess that's what also makes it a little bit fun to play.",
+      "cn": "所以我想这也是让它变得有趣的原因。"
+    },
+    {
+      "id": 165,
+      "en": "Yes, it can be a little bit embarrassing if you're not... I'm not very good, so I'm a very embarrassing bowler.",
+      "cn": "是的，如果你不... 我不是很好，所以我是一个很尴尬的保龄球手，这可能会有点尴尬。"
+    },
+    {
+      "id": 166,
+      "en": "But it's also really fun because if you go and you just, you know, have a nice time, it's a very social game.",
+      "cn": "但这也真的很有趣，因为如果你去，你知道，玩得开心，这是一种非常社交的游戏。"
+    },
+    {
+      "id": 167,
+      "en": "Well, it is.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 168,
+      "en": "And actually, we are really curious to know if you've ever been bowling.",
+      "cn": "实际上，我们真的很想知道你是否曾经去过打保龄球。"
+    },
+    {
+      "id": 169,
+      "en": "I know many people who've never been bowling and they find it very, very fun.",
+      "cn": "我知道很多人从未去过打保龄球，他们觉得这非常有趣。"
+    },
+    {
+      "id": 170,
+      "en": "So why don't you come to our website, EnglishPod.com, and leave your questions and comments there as well.",
+      "cn": "所以为什么不来我们的网站，EnglishPod.com，留下你的问题和评论呢？"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, we hope to see you there.",
+      "cn": "是的，我们希望在那里见到你。"
+    },
+    {
+      "id": 172,
+      "en": "Until next time, guys.",
+      "cn": "下次见，大家。"
+    },
+    {
+      "id": 173,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

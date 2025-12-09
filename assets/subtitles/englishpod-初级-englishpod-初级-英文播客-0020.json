@@ -1,0 +1,959 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0020",
+  "title": "EnglishPod 初级 英文播客 0020",
+  "totalSegments": 190,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Well, hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name's Erica.",
+      "cn": "我叫Erica。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Marco.",
+      "cn": "我是Marco。"
+    },
+    {
+      "id": 4,
+      "en": "So Marco, how are you doing today?",
+      "cn": "Marco，今天你怎么样？"
+    },
+    {
+      "id": 5,
+      "en": "I'm doing great and I'm really looking forward to our lesson because we're going to the eye doctor today.",
+      "cn": "我很好，我非常期待我们的课程，因为我们今天要去看眼科医生。"
+    },
+    {
+      "id": 6,
+      "en": "Okay, so we've got an elementary lesson about going to the eye doctor.",
+      "cn": "好的，我们有一节关于去看眼科医生的基础课程。"
+    },
+    {
+      "id": 7,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 8,
+      "en": "Well, let's get started then with our vocabulary preview.",
+      "cn": "那么，让我们开始我们的词汇预览吧。"
+    },
+    {
+      "id": 9,
+      "en": "We have three words today in our vocabulary preview.",
+      "cn": "今天我们的词汇预览有三个单词。"
+    },
+    {
+      "id": 10,
+      "en": "All three words come from our dialogue.",
+      "cn": "这三个单词都来自我们的对话。"
+    },
+    {
+      "id": 11,
+      "en": "Our first word is struggle.",
+      "cn": "第一个单词是挣扎。"
+    },
+    {
+      "id": 12,
+      "en": "Struggle.",
+      "cn": "挣扎。"
+    },
+    {
+      "id": 13,
+      "en": "Struggle.",
+      "cn": "挣扎。"
+    },
+    {
+      "id": 14,
+      "en": "Struggle.",
+      "cn": "挣扎。"
+    },
+    {
+      "id": 15,
+      "en": "So Marco, when I struggle to do something, what does that mean?",
+      "cn": "Marco，当我挣扎去做某事时，这是什么意思？"
+    },
+    {
+      "id": 16,
+      "en": "It means it's difficult.",
+      "cn": "这意味着很困难。"
+    },
+    {
+      "id": 17,
+      "en": "It means that you have a hard time so you can't really do it very quickly.",
+      "cn": "这意味着你很难做到，所以你不能很快完成。"
+    },
+    {
+      "id": 18,
+      "en": "So you have to try really hard.",
+      "cn": "所以你必须非常努力。"
+    },
+    {
+      "id": 19,
+      "en": "You have to try really hard.",
+      "cn": "你必须非常努力。"
+    },
+    {
+      "id": 20,
+      "en": "Yeah, to do something that's difficult.",
+      "cn": "是的，做一些困难的事情。"
+    },
+    {
+      "id": 21,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 22,
+      "en": "Okay, our next word is blurry.",
+      "cn": "好的，下一个单词是模糊。"
+    },
+    {
+      "id": 23,
+      "en": "Blurry.",
+      "cn": "模糊。"
+    },
+    {
+      "id": 24,
+      "en": "Blurry.",
+      "cn": "模糊。"
+    },
+    {
+      "id": 25,
+      "en": "Blurry.",
+      "cn": "模糊。"
+    },
+    {
+      "id": 26,
+      "en": "B-L-U-R-R-Y.",
+      "cn": "B-L-U-R-R-Y。"
+    },
+    {
+      "id": 27,
+      "en": "Blurry.",
+      "cn": "模糊。"
+    },
+    {
+      "id": 28,
+      "en": "Whenever something is blurry, you can't really see it well.",
+      "cn": "当某物模糊时，你看不清楚。"
+    },
+    {
+      "id": 29,
+      "en": "It's not clear.",
+      "cn": "这不清楚。"
+    },
+    {
+      "id": 30,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 31,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 32,
+      "en": "Everything will be blurry.",
+      "cn": "一切都会模糊。"
+    },
+    {
+      "id": 33,
+      "en": "Okay, and our final word is prescription.",
+      "cn": "好的，最后一个单词是处方。"
+    },
+    {
+      "id": 34,
+      "en": "Prescription.",
+      "cn": "处方。"
+    },
+    {
+      "id": 35,
+      "en": "Prescription.",
+      "cn": "处方。"
+    },
+    {
+      "id": 36,
+      "en": "Often when you go to the doctor and you need some medicine, he writes out a prescription.",
+      "cn": "通常当你去看医生需要一些药物时，他会开处方。"
+    },
+    {
+      "id": 37,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 38,
+      "en": "A little paper that says all the medicine that you need and then you can go to the drugstore and buy it.",
+      "cn": "一张写着你需要的所有药物的小纸条，然后你可以去药店买。"
+    },
+    {
+      "id": 39,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 40,
+      "en": "Okay, so those three words you'll hear in today's dialogue.",
+      "cn": "好的，这三个单词你将在今天的对话中听到。"
+    },
+    {
+      "id": 41,
+      "en": "And I think it's time we listened to the dialogue.",
+      "cn": "我想是时候听对话了。"
+    },
+    {
+      "id": 42,
+      "en": "Hello, Arthur.",
+      "cn": "你好，Arthur。"
+    },
+    {
+      "id": 43,
+      "en": "What seems to be the problem?",
+      "cn": "什么问题？"
+    },
+    {
+      "id": 44,
+      "en": "Hey, Doc.",
+      "cn": "嘿，医生。"
+    },
+    {
+      "id": 45,
+      "en": "Well, I think I might need glasses.",
+      "cn": "我想我可能需要眼镜。"
+    },
+    {
+      "id": 46,
+      "en": "I'm getting headaches and I really struggle to see things that are far away.",
+      "cn": "我头痛，而且我真的很难看清远处的东西。"
+    },
+    {
+      "id": 47,
+      "en": "But I've always had 20-20 vision.",
+      "cn": "但我一直有20-20的视力。"
+    },
+    {
+      "id": 48,
+      "en": "Sounds like you might be farsighted.",
+      "cn": "听起来你可能是远视。"
+    },
+    {
+      "id": 49,
+      "en": "Okay then, cover your left eye and read the chart in front of you.",
+      "cn": "好吧，遮住你的左眼，读一下你面前的图表。"
+    },
+    {
+      "id": 50,
+      "en": "X-E-R-3?",
+      "cn": "X-E-R-3？"
+    },
+    {
+      "id": 51,
+      "en": "And I can't quite make out the other symbol, but I think it's the peace sign.",
+      "cn": "我看不太清楚另一个符号，但我想它是和平符号。"
+    },
+    {
+      "id": 52,
+      "en": "Well, Arthur, you're as blind as a bat.",
+      "cn": "好吧，Arthur，你的视力差得像只蝙蝠。"
+    },
+    {
+      "id": 53,
+      "en": "Yeah, I know.",
+      "cn": "是的，我知道。"
+    },
+    {
+      "id": 54,
+      "en": "My vision is really blurry at times.",
+      "cn": "我的视力有时真的很模糊。"
+    },
+    {
+      "id": 55,
+      "en": "Okay then, head over to the other room and pick out some frames while I fill out your prescription.",
+      "cn": "好吧，去另一个房间挑选一些框架，我会填写你的处方。"
+    },
+    {
+      "id": 56,
+      "en": "Thanks, Doc.",
+      "cn": "谢谢，医生。"
+    },
+    {
+      "id": 57,
+      "en": "Arthur, that's the bathroom.",
+      "cn": "Arthur，那是洗手间。"
+    },
+    {
+      "id": 58,
+      "en": "Well, this guy really has poor vision, hey?",
+      "cn": "哦，这家伙的视力真差，是吧？"
+    },
+    {
+      "id": 59,
+      "en": "Well, actually, you know what?",
+      "cn": "其实，你知道吗？"
+    },
+    {
+      "id": 60,
+      "en": "I've walked into the bathroom, the men's bathroom, actually, instead of the women's bathroom.",
+      "cn": "我走进了男洗手间，而不是女洗手间。"
+    },
+    {
+      "id": 61,
+      "en": "And that's not because I wasn't wearing my glasses.",
+      "cn": "这不是因为我没戴眼镜。"
+    },
+    {
+      "id": 62,
+      "en": "That's because you weren't paying attention.",
+      "cn": "是因为你没有注意。"
+    },
+    {
+      "id": 63,
+      "en": "That's true.",
+      "cn": "这倒是真的。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, let's take a look today at our language takeaway.",
+      "cn": "好的，今天我们来看看我们的语言要点。"
+    },
+    {
+      "id": 65,
+      "en": "The first word on our language takeaway for today is 20-20 vision.",
+      "cn": "今天的语言要点第一个单词是20-20视力。"
+    },
+    {
+      "id": 66,
+      "en": "If I have 20-20 vision... It means that you have perfect vision.",
+      "cn": "如果我有20-20视力……这意味着你有完美的视力。"
+    },
+    {
+      "id": 67,
+      "en": "Which I do not have.",
+      "cn": "而我并没有。"
+    },
+    {
+      "id": 68,
+      "en": "No, me neither.",
+      "cn": "不，我也没有。"
+    },
+    {
+      "id": 69,
+      "en": "So I usually wear glasses as well.",
+      "cn": "所以我通常也戴眼镜。"
+    },
+    {
+      "id": 70,
+      "en": "But yeah, people that have 20-20 vision don't need glasses.",
+      "cn": "但是，是的，拥有20-20视力的人不需要眼镜。"
+    },
+    {
+      "id": 71,
+      "en": "They can see clearly and perfectly.",
+      "cn": "他们可以清晰而完美地看见。"
+    },
+    {
+      "id": 72,
+      "en": "Next word is farsighted.",
+      "cn": "下一个单词是远视。"
+    },
+    {
+      "id": 73,
+      "en": "Farsighted.",
+      "cn": "远视。"
+    },
+    {
+      "id": 74,
+      "en": "Farsighted.",
+      "cn": "远视。"
+    },
+    {
+      "id": 75,
+      "en": "Farsighted.",
+      "cn": "远视。"
+    },
+    {
+      "id": 76,
+      "en": "So if I'm farsighted, I can't see very well, right?",
+      "cn": "所以如果我远视，我看得不太好，对吧？"
+    },
+    {
+      "id": 77,
+      "en": "So if you're farsighted, you can see things that are near.",
+      "cn": "所以如果你远视，你可以看清近处的东西。"
+    },
+    {
+      "id": 78,
+      "en": "So you can see things that are far away, but things that are close are blurred.",
+      "cn": "所以你可以看清远处的东西，但近处的东西是模糊的。"
+    },
+    {
+      "id": 79,
+      "en": "And the opposite would be?",
+      "cn": "反义词是什么？"
+    },
+    {
+      "id": 80,
+      "en": "Near sighted.",
+      "cn": "近视。"
+    },
+    {
+      "id": 81,
+      "en": "You can see things that are close well, but not far.",
+      "cn": "你可以看清近处的东西，但看不清远处的东西。"
+    },
+    {
+      "id": 82,
+      "en": "Far sighted and near sighted.",
+      "cn": "远视和近视。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, so our next word is make out.",
+      "cn": "好的，下一个单词是辨认。"
+    },
+    {
+      "id": 84,
+      "en": "Make out.",
+      "cn": "辨认。"
+    },
+    {
+      "id": 85,
+      "en": "Make out.",
+      "cn": "辨认。"
+    },
+    {
+      "id": 86,
+      "en": "Make out.",
+      "cn": "辨认。"
+    },
+    {
+      "id": 87,
+      "en": "That's kind of a funny little phrase.",
+      "cn": "这是个有趣的短语。"
+    },
+    {
+      "id": 88,
+      "en": "Let's listen to a few examples of this phrase so we can understand how it's used.",
+      "cn": "让我们听几个这个短语的例子，以便理解它的用法。"
+    },
+    {
+      "id": 89,
+      "en": "I can't make out what this says.",
+      "cn": "我看不清楚这上面写的是什么。"
+    },
+    {
+      "id": 90,
+      "en": "The writing is too small.",
+      "cn": "字体太小了。"
+    },
+    {
+      "id": 91,
+      "en": "If you look carefully, you can almost make out a few of the stars in the sky.",
+      "cn": "如果你仔细看，你几乎可以辨认出天空中的几颗星星。"
+    },
+    {
+      "id": 92,
+      "en": "Can you see what's written on the sign there?",
+      "cn": "你能看到那里的标志上写了什么吗？"
+    },
+    {
+      "id": 93,
+      "en": "No, I can't quite make it out.",
+      "cn": "不，我看不太清楚。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, so basically make out is to see clearly.",
+      "cn": "好的，基本上辨认就是看得清楚。"
+    },
+    {
+      "id": 95,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 96,
+      "en": "Make out.",
+      "cn": "辨认。"
+    },
+    {
+      "id": 97,
+      "en": "To see.",
+      "cn": "看。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, and our last word for language takeaway today is blind as a bat.",
+      "cn": "好的，今天我们语言要点的最后一个单词是像蝙蝠一样盲。"
+    },
+    {
+      "id": 99,
+      "en": "Blind as a bat.",
+      "cn": "像蝙蝠一样盲。"
+    },
+    {
+      "id": 100,
+      "en": "Blind as a bat.",
+      "cn": "像蝙蝠一样盲。"
+    },
+    {
+      "id": 101,
+      "en": "So this is a really funny sounding expression.",
+      "cn": "这是一个听起来很有趣的表达。"
+    },
+    {
+      "id": 102,
+      "en": "One of these weird English idioms.",
+      "cn": "这是一个奇怪的英语习语。"
+    },
+    {
+      "id": 103,
+      "en": "Yeah, it's a really common expression that just means that you can't see.",
+      "cn": "是的，这是一个非常常见的表达，意思是你看不见。"
+    },
+    {
+      "id": 104,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 105,
+      "en": "So it's not like you actually are blind, right?",
+      "cn": "所以并不是说你真的失明，对吧？"
+    },
+    {
+      "id": 106,
+      "en": "But you just really can't see very well.",
+      "cn": "但你确实看不太清楚。"
+    },
+    {
+      "id": 107,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 108,
+      "en": "Alright, we saw four great words today in our language takeaway.",
+      "cn": "好吧，今天我们在语言学习中看到四个很棒的词。"
+    },
+    {
+      "id": 109,
+      "en": "Now I think we can listen to our dialogue another time.",
+      "cn": "现在我想我们可以再听一次对话。"
+    },
+    {
+      "id": 110,
+      "en": "But this time it's going to be slower so we can pick up all these great words that we just talked about.",
+      "cn": "但这次会慢一点，这样我们可以记住刚才提到的所有好词。"
+    },
+    {
+      "id": 111,
+      "en": "Hello, Arthur.",
+      "cn": "你好，亚瑟。"
+    },
+    {
+      "id": 112,
+      "en": "What seems to be the problem?",
+      "cn": "什么问题？"
+    },
+    {
+      "id": 113,
+      "en": "Hey, Doc.",
+      "cn": "嘿，医生。"
+    },
+    {
+      "id": 114,
+      "en": "Well, I think I might need glasses.",
+      "cn": "嗯，我想我可能需要眼镜。"
+    },
+    {
+      "id": 115,
+      "en": "I'm getting headaches and I really struggle to see things that are far away.",
+      "cn": "我头痛，远处的东西看得很吃力。"
+    },
+    {
+      "id": 116,
+      "en": "But I've always had 20-20 vision.",
+      "cn": "但我一直视力正常。"
+    },
+    {
+      "id": 117,
+      "en": "Sounds like you may be farsighted.",
+      "cn": "听起来你可能是远视。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, then.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 119,
+      "en": "Cover your left eye and read the chart in front of you.",
+      "cn": "盖住你的左眼，读一下你面前的图表。"
+    },
+    {
+      "id": 120,
+      "en": "X-E-R-3?",
+      "cn": "X-E-R-3？"
+    },
+    {
+      "id": 121,
+      "en": "And I can't quite make out the other symbol, but I think it's a peace sign.",
+      "cn": "我看不太清楚另一个符号，但我想它是和平符号。"
+    },
+    {
+      "id": 122,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 123,
+      "en": "Arthur, you're as blind as a bat.",
+      "cn": "亚瑟，你真是像蝙蝠一样盲。"
+    },
+    {
+      "id": 124,
+      "en": "Yeah, I know.",
+      "cn": "是的，我知道。"
+    },
+    {
+      "id": 125,
+      "en": "My vision is really blurry at times.",
+      "cn": "我的视力有时真的很模糊。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, then.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 127,
+      "en": "Head on over to the other room and pick out some frames while I fill out your prescription.",
+      "cn": "走到另一个房间，挑选一些框架，我会填写你的处方。"
+    },
+    {
+      "id": 128,
+      "en": "Thanks, Doc.",
+      "cn": "谢谢，医生。"
+    },
+    {
+      "id": 129,
+      "en": "Arthur, that's the bathroom.",
+      "cn": "亚瑟，那是洗手间。"
+    },
+    {
+      "id": 130,
+      "en": "Alright, great stuff on our dialogue.",
+      "cn": "好吧，我们的对话很棒。"
+    },
+    {
+      "id": 131,
+      "en": "And with this we can start now with putting it together.",
+      "cn": "现在我们可以开始整合了。"
+    },
+    {
+      "id": 132,
+      "en": "Putting it together.",
+      "cn": "整合。"
+    },
+    {
+      "id": 133,
+      "en": "So we saw a couple useful phrases in this dialogue and I think we can show you how to use these phrases in a few different ways.",
+      "cn": "在这段对话中我们看到了一些有用的短语，我想我们可以展示如何以几种不同的方式使用这些短语。"
+    },
+    {
+      "id": 134,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 135,
+      "en": "The first one that we have today is what seems to be.",
+      "cn": "今天我们第一个短语是“似乎是什么”。"
+    },
+    {
+      "id": 136,
+      "en": "So we heard in the dialogue, the doctor said...",
+      "cn": "在对话中，医生说..."
+    },
+    {
+      "id": 137,
+      "en": "What seems to be the problem.",
+      "cn": "“似乎有什么问题”。"
+    },
+    {
+      "id": 138,
+      "en": "We can use this same expression in a number of different ways.",
+      "cn": "我们可以用这个表达的多种不同方式。"
+    },
+    {
+      "id": 139,
+      "en": "Let's listen.",
+      "cn": "让我们听听。"
+    },
+    {
+      "id": 140,
+      "en": "Example 1.",
+      "cn": "示例1。"
+    },
+    {
+      "id": 141,
+      "en": "What seems to be the problem.",
+      "cn": "似乎有什么问题。"
+    },
+    {
+      "id": 142,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 143,
+      "en": "What seems to be the matter.",
+      "cn": "似乎有什么事。"
+    },
+    {
+      "id": 144,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 145,
+      "en": "What seems to be the trouble.",
+      "cn": "似乎有什么麻烦。"
+    },
+    {
+      "id": 146,
+      "en": "Okay, so with these examples we can see how we can use the phrase what seems to be in many different ways.",
+      "cn": "好吧，通过这些例子我们可以看到如何以多种方式使用“似乎是什么”这个短语。"
+    },
+    {
+      "id": 147,
+      "en": "Yeah, it's a great way of asking what's the problem.",
+      "cn": "是的，这是询问问题的好方法。"
+    },
+    {
+      "id": 148,
+      "en": "So now let's take a look at another phrase.",
+      "cn": "现在让我们看看另一个短语。"
+    },
+    {
+      "id": 149,
+      "en": "We heard in the dialogue, the doctor said...",
+      "cn": "我们在对话中听到，医生说..."
+    },
+    {
+      "id": 150,
+      "en": "Head on over to the other room.",
+      "cn": "“走到另一个房间”。"
+    },
+    {
+      "id": 151,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 152,
+      "en": "And with this phrase, head on, we can combine it with other prepositions to indicate another place.",
+      "cn": "用这个短语“走到”，我们可以与其他介词结合，表示另一个地方。"
+    },
+    {
+      "id": 153,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 154,
+      "en": "Let's hear three examples.",
+      "cn": "让我们听三个例子。"
+    },
+    {
+      "id": 155,
+      "en": "Example 1.",
+      "cn": "示例1。"
+    },
+    {
+      "id": 156,
+      "en": "Head on in.",
+      "cn": "走进去。"
+    },
+    {
+      "id": 157,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 158,
+      "en": "Head on out.",
+      "cn": "走出去。"
+    },
+    {
+      "id": 159,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 160,
+      "en": "Head on up.",
+      "cn": "走上去。"
+    },
+    {
+      "id": 161,
+      "en": "Okay, so for example we can say, head on into the house, it's gonna rain soon.",
+      "cn": "好吧，例如我们可以说，走进屋里，马上要下雨了。"
+    },
+    {
+      "id": 162,
+      "en": "Or we can say, hey guys, let's head on out to the park.",
+      "cn": "或者我们可以说，嘿，大家，走出去公园吧。"
+    },
+    {
+      "id": 163,
+      "en": "Or I can also say, head on up to my room, I'll be there in a second.",
+      "cn": "或者我也可以说，走上我的房间，我马上就到。"
+    },
+    {
+      "id": 164,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 165,
+      "en": "Those are some cool phrases.",
+      "cn": "这些是很酷的短语。"
+    },
+    {
+      "id": 166,
+      "en": "Right, and they're really useful.",
+      "cn": "对，它们真的很有用。"
+    },
+    {
+      "id": 167,
+      "en": "So why don't we listen to our dialogue and maybe we'll hear them again.",
+      "cn": "那我们为什么不再听一次对话，也许我们会再次听到它们。"
+    },
+    {
+      "id": 168,
+      "en": "Hello Arthur, what seems to be the problem.",
+      "cn": "你好亚瑟，似乎有什么问题。"
+    },
+    {
+      "id": 169,
+      "en": "Well, I think I might need glasses.",
+      "cn": "嗯，我想我可能需要眼镜。"
+    },
+    {
+      "id": 170,
+      "en": "I'm getting headaches and I really struggle to see things that are far away.",
+      "cn": "我头痛，远处的东西看得很吃力。"
+    },
+    {
+      "id": 171,
+      "en": "But I've always had 20-20 vision.",
+      "cn": "但我一直视力正常。"
+    },
+    {
+      "id": 172,
+      "en": "Hmm, sounds like you might be far-sighted.",
+      "cn": "嗯，听起来你可能是远视。"
+    },
+    {
+      "id": 173,
+      "en": "Okay then, cover your left eye and read the chart in front of you.",
+      "cn": "好吧，盖住你的左眼，读一下你面前的图表。"
+    },
+    {
+      "id": 174,
+      "en": "Hmm... X, E, R, 3, uh, question Mark, and I can't quite make out the other symbol, but I think it's the peace sign.",
+      "cn": "嗯... X, E, R, 3，呃，问号，我看不太清楚另一个符号，但我想它是和平符号。"
+    },
+    {
+      "id": 175,
+      "en": "Wow, Arthur, you're as blind as a bat.",
+      "cn": "哇，亚瑟，你真是像蝙蝠一样盲。"
+    },
+    {
+      "id": 176,
+      "en": "Yeah, I know, my vision is really blurry at times.",
+      "cn": "是的，我知道，我的视力有时真的很模糊。"
+    },
+    {
+      "id": 177,
+      "en": "Okay then, head over to the other room and pick out some frames while I fill out your prescription.",
+      "cn": "好吧，走到另一个房间，挑选一些框架，我会填写你的处方。"
+    },
+    {
+      "id": 178,
+      "en": "Thanks doc.",
+      "cn": "谢谢医生。"
+    },
+    {
+      "id": 179,
+      "en": "Arthur, that's the bathroom.",
+      "cn": "亚瑟，那是洗手间。"
+    },
+    {
+      "id": 180,
+      "en": "Okay, so talking about going to the eye doctor today, I have a question for our listeners.",
+      "cn": "好吧，谈到今天去眼科医生，我有个问题要问我们的听众。"
+    },
+    {
+      "id": 181,
+      "en": "A challenge for our listeners.",
+      "cn": "给我们的听众一个挑战。"
+    },
+    {
+      "id": 182,
+      "en": "What's it called when you can't distinguish colors?",
+      "cn": "当你无法区分颜色时，这叫什么？"
+    },
+    {
+      "id": 183,
+      "en": "So like when you can't tell the difference between red and blue and green.",
+      "cn": "就是当你无法分辨红色、蓝色和绿色时。"
+    },
+    {
+      "id": 184,
+      "en": "Right, so what is that condition called?",
+      "cn": "对，所以这种情况叫什么？"
+    },
+    {
+      "id": 185,
+      "en": "There's like a technical term, we want the technical term.",
+      "cn": "有一个专业术语，我们想要专业术语。"
+    },
+    {
+      "id": 186,
+      "en": "We want the technical term.",
+      "cn": "我们想要专业术语。"
+    },
+    {
+      "id": 187,
+      "en": "So we'll be looking for it on our comments page and be sure to, if you know the answer, post it.",
+      "cn": "所以我们会在评论页面寻找，如果你知道答案，请务必发布。"
+    },
+    {
+      "id": 188,
+      "en": "At EnglishPod.com.",
+      "cn": "在EnglishPod.com。"
+    },
+    {
+      "id": 189,
+      "en": "Also, if you have questions about today's lesson or any other lesson, please come and visit our website and ask us.",
+      "cn": "此外，如果你对今天的课程或其他课程有任何问题，请来我们的网站询问。"
+    },
+    {
+      "id": 190,
+      "en": "Yeah, we hope to see you there, but until then it's... Goodbye!",
+      "cn": "是的，我们希望在那里见到你，但在此之前，祝你再见！"
+    }
+  ]
+}

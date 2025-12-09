@@ -1,0 +1,1334 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0235",
+  "title": "EnglishPod 初级 英文播客 0235",
+  "totalSegments": 265,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and today we have a very special lesson for you.",
+      "cn": "我叫Katherine，今天我们为你们准备了一节非常特别的课程。"
+    },
+    {
+      "id": 4,
+      "en": "This is actually the first in a series of lessons about interview skills.",
+      "cn": "这实际上是关于面试技巧系列课程的第一节。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "For 10 lessons that you will hear once a week for the next 10 weeks, we're going to take a look at an interview, a job interview, and we're going to take you step-by-step throughout the whole interview process, as well as teaching you some useful words and phrases that you can use next time you're at a job interview in English.",
+      "cn": "在接下来的10周里，我们每周会听到10节课，我们将逐步了解面试，工作面试，并教你一些有用的单词和短语，以便你下次在英语工作面试中使用。"
+    },
+    {
+      "id": 7,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 8,
+      "en": "So, pay attention.",
+      "cn": "所以，请注意。"
+    },
+    {
+      "id": 9,
+      "en": "Today is the first day we're going to be entering the office and we're going to learn some things that are important for talking to your future employer or meeting people in an interview.",
+      "cn": "今天是我们进入办公室的第一天，我们将学习一些与未来雇主交谈或在面试中见面时重要的内容。"
+    },
+    {
+      "id": 10,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 11,
+      "en": "Come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 12,
+      "en": "Mr. Parsons?",
+      "cn": "Parsons先生？"
+    },
+    {
+      "id": 13,
+      "en": "Ah, you must be Rebecca.",
+      "cn": "啊，你一定是Rebecca。"
+    },
+    {
+      "id": 14,
+      "en": "Please do come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 15,
+      "en": "Thank you for making some time to see me, Mr. Parsons.",
+      "cn": "谢谢你抽出时间见我，Parsons先生。"
+    },
+    {
+      "id": 16,
+      "en": "It's a pleasure to meet you, finally.",
+      "cn": "终于见到你，我很高兴。"
+    },
+    {
+      "id": 17,
+      "en": "The pleasure is all mine, Rebecca.",
+      "cn": "这是我的荣幸，Rebecca。"
+    },
+    {
+      "id": 18,
+      "en": "Have a seat, please.",
+      "cn": "请坐。"
+    },
+    {
+      "id": 19,
+      "en": "Now, would you like any refreshments, tea, or coffee?",
+      "cn": "现在，你想要喝点什么吗，茶还是咖啡？"
+    },
+    {
+      "id": 20,
+      "en": "A coffee would be lovely, thank you.",
+      "cn": "一杯咖啡就好，谢谢。"
+    },
+    {
+      "id": 21,
+      "en": "Black, no sugar.",
+      "cn": "黑咖啡，不加糖。"
+    },
+    {
+      "id": 22,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 23,
+      "en": "Sally, can we have two coffees, please?",
+      "cn": "Sally，我们可以来两杯咖啡吗？"
+    },
+    {
+      "id": 24,
+      "en": "One, no milk or sugar.",
+      "cn": "一杯，不加牛奶或糖。"
+    },
+    {
+      "id": 25,
+      "en": "Certainly, Mr. Parsons.",
+      "cn": "当然可以，Parsons先生。"
+    },
+    {
+      "id": 26,
+      "en": "So, Rebecca, I understand you had a first interview with Ms. Childs last week?",
+      "cn": "所以，Rebecca，我了解到你上周和Childs女士进行了第一次面试？"
+    },
+    {
+      "id": 27,
+      "en": "Yes, that's correct.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 28,
+      "en": "She filled me in on the details of the job on the telephone.",
+      "cn": "她在电话中告诉我工作的细节。"
+    },
+    {
+      "id": 29,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 30,
+      "en": "Well, I'm glad to say she recommended you for a second interview and here we are.",
+      "cn": "我很高兴地说，她推荐你进行第二次面试，我们就在这里。"
+    },
+    {
+      "id": 31,
+      "en": "Perhaps we can start by discussing your background and resume details a little.",
+      "cn": "也许我们可以先讨论一下你的背景和简历细节。"
+    },
+    {
+      "id": 32,
+      "en": "Yes, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 33,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 34,
+      "en": "So, now let's take a look at language takeaway.",
+      "cn": "现在让我们看看语言要点。"
+    },
+    {
+      "id": 35,
+      "en": "So, one of the first things that you're offered when you go to interview at a company is refreshments.",
+      "cn": "所以，当你去公司面试时，首先提供给你的就是饮料。"
+    },
+    {
+      "id": 36,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 37,
+      "en": "Would you like any refreshments?",
+      "cn": "你想要喝点什么吗？"
+    },
+    {
+      "id": 38,
+      "en": "This sounds complicated, but it's actually a very simple word for beverages or drinks.",
+      "cn": "这听起来复杂，但实际上是饮料的简单说法。"
+    },
+    {
+      "id": 39,
+      "en": "Right, so that's why he offered her tea or coffee.",
+      "cn": "对，所以他才给她提供茶或咖啡。"
+    },
+    {
+      "id": 40,
+      "en": "Right, so refreshments are cola, coffee, tea.",
+      "cn": "对，所以饮料包括可乐、咖啡、茶。"
+    },
+    {
+      "id": 41,
+      "en": "But how do you answer this?",
+      "cn": "但你怎么回答呢？"
+    },
+    {
+      "id": 42,
+      "en": "If I say, would you like any refreshments, Marco?",
+      "cn": "如果我说，Marco，你想要喝点什么吗？"
+    },
+    {
+      "id": 43,
+      "en": "You can say, yes, water would be fine, thank you.",
+      "cn": "你可以说，好的，水就好，谢谢。"
+    },
+    {
+      "id": 44,
+      "en": "Okay, water would be fine or I'd like a Coke.",
+      "cn": "好的，水就好，或者我想要一杯可乐。"
+    },
+    {
+      "id": 45,
+      "en": "Or I'd like a cup of coffee.",
+      "cn": "或者我想要一杯咖啡。"
+    },
+    {
+      "id": 46,
+      "en": "Cup of coffee, great.",
+      "cn": "一杯咖啡，太好了。"
+    },
+    {
+      "id": 47,
+      "en": "Refreshments are drinks.",
+      "cn": "饮料就是饮品。"
+    },
+    {
+      "id": 48,
+      "en": "And after that, the characters are talking about the details of the job.",
+      "cn": "然后，角色们在讨论工作的细节。"
+    },
+    {
+      "id": 49,
+      "en": "So, what are these details?",
+      "cn": "那么，这些细节是什么？"
+    },
+    {
+      "id": 50,
+      "en": "How are they different from the job itself?",
+      "cn": "它们与工作本身有什么不同？"
+    },
+    {
+      "id": 51,
+      "en": "Well, the details of the job are the specific points about the job.",
+      "cn": "工作的细节是关于工作的具体要点。"
+    },
+    {
+      "id": 52,
+      "en": "So, for example, if she applied for a job as a receptionist, the details of the job would be answering the phones, taking messages, receiving people at the office.",
+      "cn": "例如，如果她申请的是接待员的工作，工作的细节就是接听电话、留言、接待来访者。"
+    },
+    {
+      "id": 53,
+      "en": "Those are the main details of the job.",
+      "cn": "这些就是工作的主要细节。"
+    },
+    {
+      "id": 54,
+      "en": "Also, we need someone who works from 9 A.M.",
+      "cn": "此外，我们需要一个从早上9点到下午5点工作的人。"
+    },
+    {
+      "id": 55,
+      "en": "to 5 P.M.",
+      "cn": "每周工作五天。"
+    },
+    {
+      "id": 56,
+      "en": "Someone who is going to come five days a week.",
+      "cn": "所以，细节基本上是关于某事的更多信息。"
+    },
+    {
+      "id": 57,
+      "en": "So, the details are basically more information about something.",
+      "cn": "对，关于一个一般主题的具体信息。"
+    },
+    {
+      "id": 58,
+      "en": "Right, the specific information about a general topic.",
+      "cn": "而且不仅与工作相关，细节可以涉及许多事情。"
+    },
+    {
+      "id": 59,
+      "en": "And it's not only related to work, the details can be of many, many things.",
+      "cn": "对，所以如果我问你关于你的细节，Marco，你可以告诉我你的电话号码、地址。"
+    },
+    {
+      "id": 60,
+      "en": "Right, so if I ask you about your details, Marco, you could maybe tell me your phone number, your address.",
+      "cn": "我的全名。"
+    },
+    {
+      "id": 61,
+      "en": "My full name.",
+      "cn": "全名或生日。"
+    },
+    {
+      "id": 62,
+      "en": "Full name or birthday.",
+      "cn": "所以，这些就是细节。"
+    },
+    {
+      "id": 63,
+      "en": "So, these are details.",
+      "cn": "好的。"
+    },
+    {
+      "id": 64,
+      "en": "Okay.",
+      "cn": "然后，他们谈论了工作的细节。"
+    },
+    {
+      "id": 65,
+      "en": "And well, after they talked about the details of the job.",
+      "cn": "在她解释她通过电话收到了工作的细节后，Parsons先生说她被推荐进行第二次面试。"
+    },
+    {
+      "id": 66,
+      "en": "After she explained that she received the details of the job by phone, Mr. Parsons said that she was recommended for a second interview.",
+      "cn": "所以，Rebecca第二次来到办公室。"
+    },
+    {
+      "id": 67,
+      "en": "So, Rebecca is coming to the office for a second time.",
+      "cn": "她已经进行过一次面试，而她第一次交谈的女士推荐她进行第二次面试。"
+    },
+    {
+      "id": 68,
+      "en": "She already had one interview and the woman she talked to the first time recommended her for a second interview.",
+      "cn": "所以，这里的动词是推荐。"
+    },
+    {
+      "id": 69,
+      "en": "So, the verb here is to recommend.",
+      "cn": "对。"
+    },
+    {
+      "id": 70,
+      "en": "Right.",
+      "cn": "你可以推荐一个人、一个物体、一部电影。"
+    },
+    {
+      "id": 71,
+      "en": "And you can recommend a person, an object, a movie.",
+      "cn": "基本上就是你在说这是好的，值得一看、值得购买、值得面试。"
+    },
+    {
+      "id": 72,
+      "en": "And that's basically you are saying that this is good and that it's worth seeing, it's worth buying, it's worth interviewing.",
+      "cn": "例如，我真的很喜欢电影《阿凡达》。"
+    },
+    {
+      "id": 73,
+      "en": "For example, I really like the movie Avatar.",
+      "cn": "Marco，我推荐你去看。"
+    },
+    {
+      "id": 74,
+      "en": "Marco, I recommend you see it.",
+      "cn": "好的。"
+    },
+    {
+      "id": 75,
+      "en": "Okay.",
+      "cn": "或者我可以说，Catherine推荐了电影《阿凡达》。"
+    },
+    {
+      "id": 76,
+      "en": "Or I can say, Catherine recommended the movie Avatar.",
+      "cn": "好的。"
+    },
+    {
+      "id": 77,
+      "en": "Okay.",
+      "cn": "所以，Catherine喜欢它，Catherine决定，Catherine建议或告诉Marco这部电影会很好。"
+    },
+    {
+      "id": 78,
+      "en": "So, Catherine liked it, Catherine decided, Catherine suggested or told Marco it would be good.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "所以，推荐。"
+    },
+    {
+      "id": 80,
+      "en": "So, to recommend.",
+      "cn": "然后Parsons先生说他们将开始讨论她的背景。"
+    },
+    {
+      "id": 81,
+      "en": "And then Mr. Parsons said that they're going to start discussing her background.",
+      "cn": "好吧，背景，想想“后面”这个词。"
+    },
+    {
+      "id": 82,
+      "en": "Well, background, think of the word back, that means behind.",
+      "cn": "这通常指一个人在工作或多份工作中的历史，甚至是他们的教育背景。"
+    },
+    {
+      "id": 83,
+      "en": "This usually means a person's history at a job or at many jobs or even their educational background.",
+      "cn": "关于他们学习过的地方的信息。"
+    },
+    {
+      "id": 84,
+      "en": "Information about where they studied.",
+      "cn": "没错。"
+    },
+    {
+      "id": 85,
+      "en": "That's right.",
+      "cn": "所以，背景，可能一个人的背景就是你所说的，所有的历史。"
+    },
+    {
+      "id": 86,
+      "en": "So, the background, maybe a person's background is, as you said, all their history.",
+      "cn": "工作、学习、许多不同的事情。"
+    },
+    {
+      "id": 87,
+      "en": "Work, study, many, many different things.",
+      "cn": "甚至可能是他们参加的研讨会或课程。"
+    },
+    {
+      "id": 88,
+      "en": "Even maybe seminars or courses that they assisted.",
+      "cn": "或者只是他们的个人历史。"
+    },
+    {
+      "id": 89,
+      "en": "Or even just their personal history.",
+      "cn": "例如，Marco，你的英语说得像美国人。"
+    },
+    {
+      "id": 90,
+      "en": "For example, Marco, you speak English like an American.",
+      "cn": "你的背景是什么？"
+    },
+    {
+      "id": 91,
+      "en": "What's your background?",
+      "cn": "因为我知道你不是美国人。"
+    },
+    {
+      "id": 92,
+      "en": "Because I know you're not American.",
+      "cn": "对。"
+    },
+    {
+      "id": 93,
+      "en": "Right.",
+      "cn": "我来自厄瓜多尔。"
+    },
+    {
+      "id": 94,
+      "en": "I'm from Ecuador.",
+      "cn": "好的。"
+    },
+    {
+      "id": 95,
+      "en": "Okay.",
+      "cn": "背景。"
+    },
+    {
+      "id": 96,
+      "en": "Background.",
+      "cn": "所以，这意味着某人的个人历史。"
+    },
+    {
+      "id": 97,
+      "en": "So, that means someone's personal history.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "That's right.",
+      "cn": "与背景相关的是一张通常你发送给雇主以申请工作的纸。"
+    },
+    {
+      "id": 99,
+      "en": "And hand in hand with background, we have a piece of paper that usually you send into an employer to apply for a job.",
+      "cn": "这就是著名的简历。"
+    },
+    {
+      "id": 101,
+      "en": "Resume.",
+      "cn": "简历。"
+    },
+    {
+      "id": 102,
+      "en": "So, you're right, Marco.",
+      "cn": "所以，你说得对，Marco。"
+    },
+    {
+      "id": 103,
+      "en": "Resume is a document.",
+      "cn": "简历是一份文件。"
+    },
+    {
+      "id": 104,
+      "en": "In this case, it is a document that lists your work history, your working background.",
+      "cn": "在这种情况下，它是一份列出你工作历史和工作背景的文件。"
+    },
+    {
+      "id": 105,
+      "en": "And it's a very important part of applying for a job.",
+      "cn": "而且它是申请工作的一个非常重要的部分。"
+    },
+    {
+      "id": 106,
+      "en": "And usually, you send your resume before you go for the interview so that the employer can look and see, is this person qualified?",
+      "cn": "通常，你会在面试前发送简历，以便雇主可以查看，看看这个人是否合格？"
+    },
+    {
+      "id": 107,
+      "en": "How old are they?",
+      "cn": "他们多大了？"
+    },
+    {
+      "id": 108,
+      "en": "What's their work history?",
+      "cn": "他们的工作历史是什么？"
+    },
+    {
+      "id": 109,
+      "en": "And well, very similar to a resume, you may have heard a CV.",
+      "cn": "而且，和简历非常相似的，你可能听说过CV。"
+    },
+    {
+      "id": 110,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 111,
+      "en": "A CV is a lot like a resume.",
+      "cn": "CV和简历很像。"
+    },
+    {
+      "id": 112,
+      "en": "It stands for curriculum C, vitae V, CV.",
+      "cn": "它代表课程C，简历V，CV。"
+    },
+    {
+      "id": 113,
+      "en": "And it's more detailed.",
+      "cn": "而且它更详细。"
+    },
+    {
+      "id": 114,
+      "en": "It has more details about a person's academic or study history.",
+      "cn": "它包含有关一个人学术或学习历史的更多细节。"
+    },
+    {
+      "id": 115,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 116,
+      "en": "So, a resume, I guess it's very similar to a summary.",
+      "cn": "所以，简历，我想它很像一个摘要。"
+    },
+    {
+      "id": 117,
+      "en": "A summary of your work background, whereas a CV will have more details about your education, maybe more details about your work background, what did you do, objectives, etc.",
+      "cn": "你工作背景的摘要，而CV会有更多关于你教育的细节，也许还有更多关于你工作背景的细节，你做了什么，目标等等。"
+    },
+    {
+      "id": 118,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 119,
+      "en": "So maybe we should listen to today's dialogue one more time, and when we come back, we'll be talking about some of the interesting phrases we heard in today's dialogue.",
+      "cn": "所以，也许我们应该再听一遍今天的对话，当我们回来时，我们将讨论在今天的对话中听到的一些有趣的短语。"
+    },
+    {
+      "id": 120,
+      "en": "Come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 121,
+      "en": "Mr. Parsons?",
+      "cn": "Parsons先生？"
+    },
+    {
+      "id": 122,
+      "en": "Ah, you must be Rebecca.",
+      "cn": "啊，你一定是Rebecca。"
+    },
+    {
+      "id": 123,
+      "en": "Please do come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 124,
+      "en": "Thank you for making some time to see me, Mr. Parsons.",
+      "cn": "谢谢您抽出时间见我，Parsons先生。"
+    },
+    {
+      "id": 125,
+      "en": "It's a pleasure to meet you finally.",
+      "cn": "很高兴终于见到您。"
+    },
+    {
+      "id": 126,
+      "en": "The pleasure's all mine, Rebecca.",
+      "cn": "这是我的荣幸，Rebecca。"
+    },
+    {
+      "id": 127,
+      "en": "Have a seat, please.",
+      "cn": "请坐。"
+    },
+    {
+      "id": 128,
+      "en": "Now, would you like any refreshments, tea, or coffee?",
+      "cn": "现在，您想要一些饮料吗，茶或咖啡？"
+    },
+    {
+      "id": 129,
+      "en": "A coffee would be lovely, thank you.",
+      "cn": "一杯咖啡就好，谢谢。"
+    },
+    {
+      "id": 130,
+      "en": "Black, no sugar.",
+      "cn": "黑咖啡，不加糖。"
+    },
+    {
+      "id": 131,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 132,
+      "en": "Sally, can we have two coffees, please?",
+      "cn": "Sally，我们可以来两杯咖啡吗？"
+    },
+    {
+      "id": 133,
+      "en": "One, no milk or sugar.",
+      "cn": "一杯，不加牛奶或糖。"
+    },
+    {
+      "id": 134,
+      "en": "Certainly, Mr. Parsons.",
+      "cn": "当然可以，Parsons先生。"
+    },
+    {
+      "id": 135,
+      "en": "So, Rebecca, I understand you had a first interview with Ms. Childs last week?",
+      "cn": "所以，Rebecca，我了解到您上周与Childs女士进行了第一次面试？"
+    },
+    {
+      "id": 136,
+      "en": "Yes, that's correct.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 137,
+      "en": "She filled me in on the details of the job on the telephone.",
+      "cn": "她在电话中告诉我工作的细节。"
+    },
+    {
+      "id": 138,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 139,
+      "en": "Well, I'm glad to say she recommended you for a second interview, and here we are.",
+      "cn": "好吧，我很高兴地说她推荐您进行第二次面试，我们就在这里。"
+    },
+    {
+      "id": 140,
+      "en": "Perhaps we can start by discussing your background and resume details a little.",
+      "cn": "也许我们可以先讨论一下您的背景和简历的细节。"
+    },
+    {
+      "id": 141,
+      "en": "Yes, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 142,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 143,
+      "en": "So now we have three phrases that we're going to take a look at on Fluency Builder.",
+      "cn": "现在我们有三个短语要在流利度提升中查看。"
+    },
+    {
+      "id": 144,
+      "en": "Fluency Builder Alright, so when Rebecca arrived, Mr. Parsons said, Ah, you must be Rebecca.",
+      "cn": "流利度提升 好的，当Rebecca到达时，Parsons先生说，啊，你一定是Rebecca。"
+    },
+    {
+      "id": 145,
+      "en": "Please do come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 146,
+      "en": "Okay, so you could say, please come in.",
+      "cn": "好吧，你可以说，请进。"
+    },
+    {
+      "id": 147,
+      "en": "This means, please come into my office or come on in.",
+      "cn": "这意味着，请进我的办公室或请进来。"
+    },
+    {
+      "id": 148,
+      "en": "But here, the interesting thing about this is the word do.",
+      "cn": "但这里有趣的是这个词do。"
+    },
+    {
+      "id": 149,
+      "en": "Right, he's using the verb do, and it may sound wrong.",
+      "cn": "对，他使用了动词do，这听起来可能不对。"
+    },
+    {
+      "id": 150,
+      "en": "It may sound like it's unnecessary because you do have a phrasal verb there already, come in.",
+      "cn": "这听起来可能是多余的，因为你已经有一个短语动词，进来。"
+    },
+    {
+      "id": 151,
+      "en": "So you can just say, please come in.",
+      "cn": "所以你可以直接说，请进。"
+    },
+    {
+      "id": 152,
+      "en": "But when he says, please do come in, he is emphasizing on her to come in.",
+      "cn": "但当他说，请务必进来时，他是在强调她进来。"
+    },
+    {
+      "id": 153,
+      "en": "That's right, so this is a very polite way to invite someone inside.",
+      "cn": "没错，所以这是邀请某人进来的非常礼貌的方式。"
+    },
+    {
+      "id": 154,
+      "en": "You can also say, please do have a seat.",
+      "cn": "你也可以说，请务必坐下。"
+    },
+    {
+      "id": 155,
+      "en": "Alright, so again, you are emphasizing in a very polite way to please sit down.",
+      "cn": "好的，所以再次强调以非常礼貌的方式请坐。"
+    },
+    {
+      "id": 156,
+      "en": "That's right, please do come in.",
+      "cn": "没错，请务必进来。"
+    },
+    {
+      "id": 157,
+      "en": "So there are many other ways that you can use it.",
+      "cn": "所以还有很多其他方式可以使用它。"
+    },
+    {
+      "id": 158,
+      "en": "So for example, if you really want your friend to call you sometime next time you're in town, say, please do call me next time you're in town.",
+      "cn": "例如，如果你真的希望你的朋友下次在城里时给你打电话，可以说，下次在城里时请务必给我打电话。"
+    },
+    {
+      "id": 159,
+      "en": "Please do.",
+      "cn": "请务必。"
+    },
+    {
+      "id": 160,
+      "en": "You could even say it afterwards, simply please do for emphasis.",
+      "cn": "你甚至可以在后面简单地说请务必以强调。"
+    },
+    {
+      "id": 161,
+      "en": "Right, so if I say, hey Catherine, I'm going to call you next time I'm in Shanghai.",
+      "cn": "对，所以如果我说，嘿Catherine，下次我在上海时会给你打电话。"
+    },
+    {
+      "id": 162,
+      "en": "Please do.",
+      "cn": "请务必。"
+    },
+    {
+      "id": 163,
+      "en": "There we go.",
+      "cn": "就这样。"
+    },
+    {
+      "id": 164,
+      "en": "So that means, please do call.",
+      "cn": "所以这意味着，请务必打电话。"
+    },
+    {
+      "id": 165,
+      "en": "Alright, so please do come in, please do call.",
+      "cn": "好的，所以请务必进来，请务必打电话。"
+    },
+    {
+      "id": 166,
+      "en": "After that, Rebecca says, thank you for making some time to see me, Mr. Parsons.",
+      "cn": "之后，Rebecca说，谢谢您抽出时间见我，Parsons先生。"
+    },
+    {
+      "id": 167,
+      "en": "So she is happy that Mr. Parsons is available and wants to talk to her.",
+      "cn": "所以她很高兴Parsons先生有空并想和她交谈。"
+    },
+    {
+      "id": 168,
+      "en": "This is a very common phrase that means, thank you so much for interviewing me.",
+      "cn": "这是一个非常常见的短语，意味着，非常感谢您面试我。"
+    },
+    {
+      "id": 169,
+      "en": "Right, so I guess it's kind of a way of saying, look, I know that you're a busy person and that you don't have very much time, so thank you for making some time to see me.",
+      "cn": "没错，所以我想这是一种说法，看看，我知道您是个忙碌的人，您没有太多时间，所以谢谢您抽出时间见我。"
+    },
+    {
+      "id": 170,
+      "en": "Right, so this isn't just about interviews.",
+      "cn": "没错，这不仅仅是关于面试。"
+    },
+    {
+      "id": 171,
+      "en": "You could say this phrase for meeting with a client or meeting with even a friend.",
+      "cn": "你可以在与客户会面或甚至与朋友会面时说这个短语。"
+    },
+    {
+      "id": 172,
+      "en": "You could say, hey Marco, I know you were really busy last week, but thank you so much for making some time to see me.",
+      "cn": "你可以说，嘿Marco，我知道你上周真的很忙，但非常感谢你抽出时间见我。"
+    },
+    {
+      "id": 173,
+      "en": "Right, so you're just basically saying, I understand that you're very busy, but I appreciate that you made some time to see me.",
+      "cn": "没错，所以你基本上是在说，我理解你很忙，但我很感激你抽出时间见我。"
+    },
+    {
+      "id": 174,
+      "en": "Alright, and well, she said, you know what, it's a pleasure to meet you, but Mr. Parsons replied by saying, the pleasure is all mine.",
+      "cn": "好吧，她说，你知道吗，很高兴见到你，但Parsons先生回答说，荣幸全在我。"
+    },
+    {
+      "id": 175,
+      "en": "Alright, another very, very polite phrase that you hear a lot.",
+      "cn": "好吧，另一个非常非常礼貌的短语，你经常听到。"
+    },
+    {
+      "id": 176,
+      "en": "Maybe some of you have heard the phrase, it's a pleasure to meet you before, but the response, the answer is very interesting.",
+      "cn": "也许你们中的一些人之前听过这个短语，很高兴见到你，但回答，答案非常有趣。"
+    },
+    {
+      "id": 177,
+      "en": "The pleasure is all mine.",
+      "cn": "荣幸全在我。"
+    },
+    {
+      "id": 178,
+      "en": "So this stands for, the pleasure is all mine.",
+      "cn": "所以这代表，荣幸全在我。"
+    },
+    {
+      "id": 179,
+      "en": "Right, and I guess it's the most appropriate response if somebody says, it's a pleasure to meet you.",
+      "cn": "没错，我想这是最合适的回应，如果有人说，很高兴见到你。"
+    },
+    {
+      "id": 180,
+      "en": "Because if you don't say this, I think you may sound a little bit arrogant.",
+      "cn": "因为如果你不这样说，我认为你可能听起来有点傲慢。"
+    },
+    {
+      "id": 181,
+      "en": "Well, you could say, it's a pleasure to meet you too.",
+      "cn": "好吧，你可以说，很高兴见到你也是。"
+    },
+    {
+      "id": 182,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 183,
+      "en": "But this is another way to answer the person, because you don't always want to say, it's a pleasure to meet you.",
+      "cn": "但这是另一种回答对方的方式，因为你不总是想说，很高兴见到你。"
+    },
+    {
+      "id": 184,
+      "en": "It's a pleasure to meet you too.",
+      "cn": "我也很高兴见到你。"
+    },
+    {
+      "id": 185,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 186,
+      "en": "This is a way to say something different and to say, well, the pleasure is all mine.",
+      "cn": "这是一种说不同的方式，并且说，荣幸全在我。"
+    },
+    {
+      "id": 187,
+      "en": "Right, but it's very important to answer something, right?",
+      "cn": "没错，但回答一些内容是非常重要的，对吧？"
+    },
+    {
+      "id": 188,
+      "en": "Because if I say, it's a pleasure to meet you, and you say, thank you.",
+      "cn": "因为如果我说，很高兴见到你，而你说，谢谢。"
+    },
+    {
+      "id": 189,
+      "en": "It's like, no, that is a little bit arrogant.",
+      "cn": "这就像，不，这有点傲慢。"
+    },
+    {
+      "id": 190,
+      "en": "So you have to say something.",
+      "cn": "所以你必须说点什么。"
+    },
+    {
+      "id": 191,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 192,
+      "en": "And we recommend that you say this, or you just say the same thing back.",
+      "cn": "我们建议你说这个，或者你只是说同样的话。"
+    },
+    {
+      "id": 193,
+      "en": "So it's nice to meet you.",
+      "cn": "所以很高兴见到你。"
+    },
+    {
+      "id": 194,
+      "en": "Oh, it's nice to meet you too.",
+      "cn": "哦，我也很高兴见到你。"
+    },
+    {
+      "id": 195,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 196,
+      "en": "Okay, and our last phrase is actually when they were talking about, again, the details of the job, and she said that Ms. Childs filled her in on the details.",
+      "cn": "好的，我们最后一句话其实是他们再次谈论工作的细节时，她说查尔兹女士给她讲了细节。"
+    },
+    {
+      "id": 197,
+      "en": "She said, she filled me in on the details of the job on the telephone.",
+      "cn": "她说，她在电话中告诉我工作的细节。"
+    },
+    {
+      "id": 198,
+      "en": "Okay, so this is an interesting verb, to fill in, or in this case, to fill someone in, to fill me in, to fill you in.",
+      "cn": "好的，这个动词“填补”很有趣，或者在这种情况下，给某人填补，给我填补，给你填补。"
+    },
+    {
+      "id": 199,
+      "en": "This basically means to tell someone about something.",
+      "cn": "这基本上意味着告诉某人某事。"
+    },
+    {
+      "id": 200,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 201,
+      "en": "Or if I know a little bit of information, but not a lot of information about something, this way you're telling me more so I understand it better.",
+      "cn": "或者如果我知道一点信息，但不是很多信息，这样你告诉我更多，以便我更好地理解。"
+    },
+    {
+      "id": 202,
+      "en": "Right, I'm giving you all the information.",
+      "cn": "对，我给你所有的信息。"
+    },
+    {
+      "id": 203,
+      "en": "So maybe there is, somebody is talking about a rumor in the office, and you go and you say, hey, fill me in on the gossip.",
+      "cn": "所以也许有人在办公室谈论一个谣言，你去说，嘿，告诉我这个八卦。"
+    },
+    {
+      "id": 204,
+      "en": "Alright, so you want to know all about it.",
+      "cn": "好吧，所以你想知道所有的事情。"
+    },
+    {
+      "id": 205,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 206,
+      "en": "Or for example, Marco, we're having a party next Sunday, but I'll have to fill you in on the details around Friday.",
+      "cn": "或者例如，马尔科，我们下周日有个派对，但我得在周五给你讲讲细节。"
+    },
+    {
+      "id": 207,
+      "en": "Okay, because you don't have all the information right now.",
+      "cn": "好的，因为你现在没有所有的信息。"
+    },
+    {
+      "id": 208,
+      "en": "Yeah, I don't know yet what time or where.",
+      "cn": "是的，我还不知道时间或地点。"
+    },
+    {
+      "id": 209,
+      "en": "Okay, so to fill someone in is to give them all the information, or to give them more information.",
+      "cn": "好的，所以给某人填补就是给他们所有的信息，或者给他们更多的信息。"
+    },
+    {
+      "id": 210,
+      "en": "Fill me in.",
+      "cn": "告诉我。"
+    },
+    {
+      "id": 211,
+      "en": "Fill me in, alright.",
+      "cn": "告诉我，好吧。"
+    },
+    {
+      "id": 212,
+      "en": "Why don't we take a look at our dialogue for the last time, and we'll be back in a little bit.",
+      "cn": "我们最后再看看我们的对话，然后我们稍后再回来。"
+    },
+    {
+      "id": 213,
+      "en": "Come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 214,
+      "en": "Mr. Parsons?",
+      "cn": "帕森斯先生？"
+    },
+    {
+      "id": 215,
+      "en": "Ah, you must be Rebecca.",
+      "cn": "啊，你一定是丽贝卡。"
+    },
+    {
+      "id": 216,
+      "en": "Please do come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 217,
+      "en": "Thank you for making some time to see me, Mr. Parsons.",
+      "cn": "谢谢你抽时间见我，帕森斯先生。"
+    },
+    {
+      "id": 218,
+      "en": "It's a pleasure to meet you finally.",
+      "cn": "终于见到你很高兴。"
+    },
+    {
+      "id": 219,
+      "en": "The pleasure is all mine, Rebecca.",
+      "cn": "这是我的荣幸，丽贝卡。"
+    },
+    {
+      "id": 220,
+      "en": "Have a seat, please.",
+      "cn": "请坐。"
+    },
+    {
+      "id": 221,
+      "en": "Now, would you like any refreshments, tea, or coffee?",
+      "cn": "现在，你想要饮料吗，茶还是咖啡？"
+    },
+    {
+      "id": 222,
+      "en": "A coffee would be lovely, thank you.",
+      "cn": "一杯咖啡就好，谢谢。"
+    },
+    {
+      "id": 223,
+      "en": "Black, no sugar.",
+      "cn": "黑咖啡，不加糖。"
+    },
+    {
+      "id": 224,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 225,
+      "en": "Sally, can we have two coffees, please?",
+      "cn": "萨莉，我们可以来两杯咖啡吗？"
+    },
+    {
+      "id": 226,
+      "en": "One, no milk or sugar.",
+      "cn": "一杯，不加牛奶或糖。"
+    },
+    {
+      "id": 227,
+      "en": "Certainly, Mr. Parsons.",
+      "cn": "当然可以，帕森斯先生。"
+    },
+    {
+      "id": 228,
+      "en": "So, Rebecca, I understand you had a first interview with Miss Childs last week?",
+      "cn": "所以，丽贝卡，我知道你上周和查尔兹小姐进行了第一次面试？"
+    },
+    {
+      "id": 229,
+      "en": "Yes, that's correct.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 230,
+      "en": "She filled me in on the details of the job on the telephone.",
+      "cn": "她在电话中告诉我工作的细节。"
+    },
+    {
+      "id": 231,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 232,
+      "en": "Well, I'm glad to say she recommended you for a second interview, and here we are.",
+      "cn": "嗯，我很高兴地说她推荐你进行第二次面试，我们就在这里。"
+    },
+    {
+      "id": 233,
+      "en": "Perhaps we can start by discussing your background and resume details a little.",
+      "cn": "也许我们可以先讨论一下你的背景和简历细节。"
+    },
+    {
+      "id": 234,
+      "en": "Yes, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 235,
+      "en": "Alright, so as we mentioned, this is the first part of a ten-part series of the interview series.",
+      "cn": "好的，正如我们提到的，这是面试系列的第一部分，共十部分。"
+    },
+    {
+      "id": 236,
+      "en": "And this is going to be very, very helpful.",
+      "cn": "这将非常有帮助。"
+    },
+    {
+      "id": 237,
+      "en": "As you saw in this first part, we're just taking a look at some basic vocab and phrases that you can use when you're just introducing yourself, you're just getting started in the interview.",
+      "cn": "正如你在第一部分看到的，我们只是看看一些基本的词汇和短语，你可以在自我介绍时使用，刚开始面试时使用。"
+    },
+    {
+      "id": 238,
+      "en": "So, what we're going to be looking at later on is talking about yourself, answering questions.",
+      "cn": "所以，我们稍后要讨论的是谈论你自己，回答问题。"
+    },
+    {
+      "id": 239,
+      "en": "But many people don't realize that one of the most important parts of the interview is the very, very beginning.",
+      "cn": "但很多人没有意识到，面试中最重要的部分之一就是非常非常开始的部分。"
+    },
+    {
+      "id": 240,
+      "en": "Because some psychologists say that we make a decision about a person or how we like a person within the first, I think, what, 30 seconds of talking to them.",
+      "cn": "因为一些心理学家说，我们在与一个人交谈的前30秒内就会对这个人或我们对这个人的喜好做出决定。"
+    },
+    {
+      "id": 241,
+      "en": "So, it's important that you speak confidently and that you say some of these English phrases comfortably.",
+      "cn": "所以，重要的是你要自信地说话，并且舒适地说出这些英语短语。"
+    },
+    {
+      "id": 242,
+      "en": "You know, it's a pleasure to meet you.",
+      "cn": "你知道，很高兴见到你。"
+    },
+    {
+      "id": 243,
+      "en": "Oh, it's the pleasure's mine.",
+      "cn": "哦，荣幸是我的。"
+    },
+    {
+      "id": 244,
+      "en": "These little things will really help you.",
+      "cn": "这些小事真的会帮助你。"
+    },
+    {
+      "id": 245,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 246,
+      "en": "And I think, as talking about introductions and how this woman arrived to the office, I think one of the key things that we would recommend is to look that person in the eye and give a firm handshake.",
+      "cn": "我认为，谈到介绍和这个女人如何到达办公室时，我们建议的一个关键点是看着对方的眼睛并握一个坚定的手。"
+    },
+    {
+      "id": 247,
+      "en": "I don't know how many people actually realize how important this is.",
+      "cn": "我不知道有多少人真正意识到这有多重要。"
+    },
+    {
+      "id": 248,
+      "en": "It's very, very important because as an interviewer, the person or the manager who's interviewing you, I think you can tell a lot from a person if somebody gives you a very flimsy handshake or doesn't look you in the eye.",
+      "cn": "这非常非常重要，因为作为面试官，面试你的那个人或经理，我认为你可以从一个人那里看出很多，如果某人给你一个非常软弱的握手或不看你。"
+    },
+    {
+      "id": 249,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 250,
+      "en": "Well, I think, in many ways, people think, oh, this person is not confident or this person is uncomfortable or this person is hiding something.",
+      "cn": "嗯，我认为，在很多方面，人们会认为，哦，这个人没有自信，或者这个人感到不舒服，或者这个人隐藏了什么。"
+    },
+    {
+      "id": 251,
+      "en": "And so it's important really to be yourself, to smile, to look at a person in the eyes, especially in a lot of American companies or Canadian companies.",
+      "cn": "所以，真的很重要的是做自己，微笑，直视对方的眼睛，尤其是在很多美国公司或加拿大公司中。"
+    },
+    {
+      "id": 252,
+      "en": "I know in other parts of the world, smiling with a stranger is unusual or maybe unacceptable.",
+      "cn": "我知道在世界其他地方，和陌生人微笑是不寻常的，或者可能是不可接受的。"
+    },
+    {
+      "id": 253,
+      "en": "But in America, it means I'm confident.",
+      "cn": "但在美国，这意味着我很自信。"
+    },
+    {
+      "id": 254,
+      "en": "Here I am.",
+      "cn": "我在这里。"
+    },
+    {
+      "id": 255,
+      "en": "Here's my name.",
+      "cn": "这是我的名字。"
+    },
+    {
+      "id": 256,
+      "en": "Nice to meet you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 257,
+      "en": "It's a very important part of an introduction.",
+      "cn": "这是介绍中非常重要的一部分。"
+    },
+    {
+      "id": 258,
+      "en": "Yes, very true.",
+      "cn": "是的，非常正确。"
+    },
+    {
+      "id": 259,
+      "en": "So we actually want to hear what you think.",
+      "cn": "所以我们实际上想听听你的想法。"
+    },
+    {
+      "id": 260,
+      "en": "How important for you is a handshake, a firm handshake, looking someone in the eye, or how do interviews work in your country?",
+      "cn": "对你来说，握手、坚定的握手、直视对方的眼睛有多重要，或者在你的国家，面试是如何进行的？"
+    },
+    {
+      "id": 261,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 262,
+      "en": "And we hope that this is helpful for you in the future if you're looking for jobs or you just want to practice your English.",
+      "cn": "我们希望这对你未来找工作或练习英语有所帮助。"
+    },
+    {
+      "id": 263,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 264,
+      "en": "So if you have any other questions or doubts, we're at EnglishPod.com.",
+      "cn": "所以如果你有其他问题或疑虑，我们在EnglishPod.com。"
+    },
+    {
+      "id": 265,
+      "en": "We'll see everyone there.",
+      "cn": "我们在那里见大家。"
+    },
+    {
+      "id": 266,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

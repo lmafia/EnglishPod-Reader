@@ -1,0 +1,1079 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0191",
+  "title": "EnglishPod 初级 英文播客 0191",
+  "totalSegments": 214,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we're talking about something that has always been very confusing for me.",
+      "cn": "我叫Catherine，今天我们要谈论一些我一直感到困惑的事情。"
+    },
+    {
+      "id": 4,
+      "en": "For me as well.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 5,
+      "en": "I don't understand very well what this is about.",
+      "cn": "我不太明白这是什么。"
+    },
+    {
+      "id": 6,
+      "en": "We're going to be talking about time zones and a little bit about daylight savings time.",
+      "cn": "我们将讨论时区和夏令时的一些内容。"
+    },
+    {
+      "id": 7,
+      "en": "Before we get started, though, let's take a look at this phrase in today's vocabulary preview.",
+      "cn": "不过在开始之前，让我们先看看今天词汇预览中的这个短语。"
+    },
+    {
+      "id": 8,
+      "en": "Vocabulary Preview Alright, so the phrase is daylight savings time.",
+      "cn": "词汇预览 好的，这个短语是夏令时。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, so we're trying to save daylight, pretty much.",
+      "cn": "好吧，我们基本上是在节省日光。"
+    },
+    {
+      "id": 10,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 11,
+      "en": "So this is the time of year when we change our clocks.",
+      "cn": "所以这是我们调整时钟的季节。"
+    },
+    {
+      "id": 12,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 13,
+      "en": "That means in the fall, there's a special day, and everyone has it on their calendar, and we change the clocks.",
+      "cn": "这意味着在秋天，有一天是特别的，大家的日历上都有，我们会调整时钟。"
+    },
+    {
+      "id": 14,
+      "en": "We put them back one hour.",
+      "cn": "我们把时钟拨回一个小时。"
+    },
+    {
+      "id": 15,
+      "en": "So if it was eight o'clock, now it's seven o'clock.",
+      "cn": "所以如果是八点，现在是七点。"
+    },
+    {
+      "id": 16,
+      "en": "Okay, so everything is earlier, starts earlier.",
+      "cn": "好吧，所以一切都提前了，开始得早。"
+    },
+    {
+      "id": 17,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 18,
+      "en": "And that's basically to take advantage of the daylight, right?",
+      "cn": "这基本上是为了利用日光，对吧？"
+    },
+    {
+      "id": 19,
+      "en": "That's why it's called daylight savings time.",
+      "cn": "所以这就是为什么叫夏令时。"
+    },
+    {
+      "id": 20,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 21,
+      "en": "And so that's for the winter.",
+      "cn": "所以这是针对冬天的。"
+    },
+    {
+      "id": 22,
+      "en": "And then when the winter has passed, we change the clocks again.",
+      "cn": "然后当冬天过去时，我们再次调整时钟。"
+    },
+    {
+      "id": 23,
+      "en": "We have the spring daylight savings where we change our clocks ahead.",
+      "cn": "我们有春季夏令时，我们把时钟拨快。"
+    },
+    {
+      "id": 24,
+      "en": "Okay, so it sounds kind of complicated.",
+      "cn": "好吧，这听起来有点复杂。"
+    },
+    {
+      "id": 25,
+      "en": "Many countries don't have daylight savings time.",
+      "cn": "很多国家没有夏令时。"
+    },
+    {
+      "id": 26,
+      "en": "They don't change their clocks at all.",
+      "cn": "他们根本不调整时钟。"
+    },
+    {
+      "id": 27,
+      "en": "But we're going to be talking about this in a little bit more.",
+      "cn": "但我们稍后会详细讨论这个。"
+    },
+    {
+      "id": 28,
+      "en": "So why don't we listen to our dialogue for the first time?",
+      "cn": "那么我们为什么不先听一下我们的对话呢？"
+    },
+    {
+      "id": 29,
+      "en": "Did you set your clock forward for daylight savings time?",
+      "cn": "你把时钟拨快了吗？"
+    },
+    {
+      "id": 30,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 31,
+      "en": "Why do we have to do that?",
+      "cn": "我们为什么要这样做？"
+    },
+    {
+      "id": 32,
+      "en": "Well, at the start of the spring, we usually have more daylight in the mornings and less in the afternoon.",
+      "cn": "嗯，在春天开始时，我们通常早晨有更多的日光，下午则较少。"
+    },
+    {
+      "id": 33,
+      "en": "This is basically due to our position on the planet and the rotation of the Earth.",
+      "cn": "这基本上是由于我们在地球上的位置和地球的自转。"
+    },
+    {
+      "id": 34,
+      "en": "In any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.",
+      "cn": "无论如何，为了更好地利用可用的日光，我们通过将时钟拨快一个小时来补偿。"
+    },
+    {
+      "id": 35,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 36,
+      "en": "That's convenient.",
+      "cn": "这很方便。"
+    },
+    {
+      "id": 37,
+      "en": "I never understood things like this, such as GMT.",
+      "cn": "我从来不理解这样的事情，比如GMT。"
+    },
+    {
+      "id": 38,
+      "en": "I never know what time zone we are in or when to change my clock.",
+      "cn": "我从不知道我们处于哪个时区，或者什么时候该调整我的时钟。"
+    },
+    {
+      "id": 39,
+      "en": "That just stands for Greenwich Mean Time.",
+      "cn": "那只是格林威治标准时间的缩写。"
+    },
+    {
+      "id": 40,
+      "en": "Here in California, we're in Pacific Standard Time.",
+      "cn": "在加利福尼亚，我们处于太平洋标准时间。"
+    },
+    {
+      "id": 41,
+      "en": "That is eight time zones west of Greenwich.",
+      "cn": "这比格林威治晚八个时区。"
+    },
+    {
+      "id": 42,
+      "en": "Remember when we were in Beijing?",
+      "cn": "还记得我们在北京的时候吗？"
+    },
+    {
+      "id": 43,
+      "en": "Well then we were in China Standard Time, and that's eight time zones east of Greenwich.",
+      "cn": "那时我们在中国标准时间，那是比格林威治早八个时区。"
+    },
+    {
+      "id": 44,
+      "en": "That's why it was so weird traveling from Beijing to LA, because of the huge time difference.",
+      "cn": "这就是为什么从北京到洛杉矶旅行如此奇怪，因为巨大的时差。"
+    },
+    {
+      "id": 45,
+      "en": "Even though we left Beijing at noon and flew for more than eight hours, we still arrived in LA the same day at noon.",
+      "cn": "即使我们中午离开北京，飞了超过八个小时，我们仍然在同一天中午到达洛杉矶。"
+    },
+    {
+      "id": 46,
+      "en": "It's like we went back in time!",
+      "cn": "就像我们回到了过去！"
+    },
+    {
+      "id": 47,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 48,
+      "en": "So that was a pretty clear explanation of why we do these things.",
+      "cn": "所以这是一个相当清晰的解释，为什么我们要这样做。"
+    },
+    {
+      "id": 49,
+      "en": "But maybe there are a couple of words that you didn't understand, so let's take a look at those now in Language Takeaway.",
+      "cn": "但也许有几个词你不理解，所以让我们现在在语言收获中看看这些。"
+    },
+    {
+      "id": 50,
+      "en": "Language Takeaway Well, Marko, what you were hinting at before, this idea that we have shorter days in the winter and longer days in the summer, has to do with the rotation of the Earth.",
+      "cn": "语言收获 好吧，Marko，你之前提到的这个想法，即冬天白天短，夏天白天长，和地球的自转有关。"
+    },
+    {
+      "id": 51,
+      "en": "And so the rotation of the Earth is our first phrase.",
+      "cn": "所以地球的自转是我们的第一个短语。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, so the Earth rotates.",
+      "cn": "好吧，地球在自转。"
+    },
+    {
+      "id": 53,
+      "en": "What does that mean if it rotates?",
+      "cn": "如果它在自转，这意味着什么？"
+    },
+    {
+      "id": 54,
+      "en": "It means to spin around, but not just to spin around anywhere.",
+      "cn": "这意味着围绕某个中心旋转，但不仅仅是随便旋转。"
+    },
+    {
+      "id": 55,
+      "en": "It means that if you draw a line through the middle of something, it never leaves that line.",
+      "cn": "这意味着如果你在某物的中间画一条线，它永远不会离开那条线。"
+    },
+    {
+      "id": 56,
+      "en": "It just kind of turns.",
+      "cn": "它只是转动。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, so it's spinning... Like the wheels on a car, they rotate.",
+      "cn": "好吧，所以它在旋转……就像汽车的轮子，它们在旋转。"
+    },
+    {
+      "id": 58,
+      "en": "That means they go around, but they are fixed.",
+      "cn": "这意味着它们在转动，但它们是固定的。"
+    },
+    {
+      "id": 59,
+      "en": "To the car.",
+      "cn": "对于汽车。"
+    },
+    {
+      "id": 60,
+      "en": "To the car.",
+      "cn": "对于汽车。"
+    },
+    {
+      "id": 61,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 62,
+      "en": "So this is one of the reasons why we need to compensate our clocks, because of the rotation of the Earth.",
+      "cn": "所以这是我们需要调整时钟的原因之一，因为地球的自转。"
+    },
+    {
+      "id": 63,
+      "en": "And that's our next word, to compensate.",
+      "cn": "这就是我们的下一个词，补偿。"
+    },
+    {
+      "id": 64,
+      "en": "This is a verb, to compensate.",
+      "cn": "这是一个动词，补偿。"
+    },
+    {
+      "id": 65,
+      "en": "And it's often used with money, but it can be used with time as well, time or sunlight.",
+      "cn": "它通常与金钱一起使用，但也可以用于时间，时间或阳光。"
+    },
+    {
+      "id": 66,
+      "en": "So with money you'd say, I paid him $100, but I owed him $150, so I'm going to compensate him for the extra $50.",
+      "cn": "所以用金钱你会说，我给了他100美元，但我欠他150美元，所以我要补偿他多出的50美元。"
+    },
+    {
+      "id": 67,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 68,
+      "en": "It means I'm going to fix it.",
+      "cn": "这意味着我要修正它。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, so to compensate would be the verb, and compensation would be the noun.",
+      "cn": "好吧，所以补偿是动词，补偿则是名词。"
+    },
+    {
+      "id": 70,
+      "en": "Now, in this case we're talking about time, so how can we compensate time?",
+      "cn": "现在，在这种情况下我们谈论的是时间，那么我们如何补偿时间？"
+    },
+    {
+      "id": 71,
+      "en": "Well, that means that if we have lost an hour because we changed the clocks, we have to compensate.",
+      "cn": "嗯，这意味着如果我们因为调整时钟而失去了一小时，我们必须补偿。"
+    },
+    {
+      "id": 72,
+      "en": "We have to try and gain that hour back.",
+      "cn": "我们必须尝试找回那一小时。"
+    },
+    {
+      "id": 73,
+      "en": "And so that's why in the spring, after the days start to get longer and longer, we have to compensate for that by changing the clocks again.",
+      "cn": "所以这就是为什么在春天，随着白天越来越长，我们必须通过再次调整时钟来补偿。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, so we're compensating time.",
+      "cn": "好吧，所以我们在补偿时间。"
+    },
+    {
+      "id": 75,
+      "en": "Now, related to daylight savings and this whole time thing is time zones.",
+      "cn": "现在，与夏令时和整个时间相关的是时区。"
+    },
+    {
+      "id": 76,
+      "en": "We have time zones all over the Earth, and you've probably noticed this if you've traveled, you have to change your clocks, or many times you see in hotels what time it is in London, in Hong Kong, in Berlin, etc.",
+      "cn": "我们在地球上有时区，如果你旅行过，你可能注意到你必须调整时钟，或者很多时候你在酒店看到伦敦、香港、柏林等地的时间。"
+    },
+    {
+      "id": 77,
+      "en": "And this makes a lot of sense, because like we said, the Earth is rotating, and so if it's daylight in Moscow and it's nighttime in New York, obviously it's not the same time.",
+      "cn": "这很有道理，因为正如我们所说，地球在自转，所以如果莫斯科是白天，而纽约是夜晚，显然不是同一时间。"
+    },
+    {
+      "id": 78,
+      "en": "So to compensate for this difference, we have different time zones, and each time zone is pretty much an hour or so, you know, half an hour, different from the next one.",
+      "cn": "所以为了补偿这种差异，我们有不同的时区，每个时区大约相差一个小时，或者说半个小时。"
+    },
+    {
+      "id": 79,
+      "en": "Right, so most countries actually have different time zones throughout the country, unless they're small, that they don't really need to compensate any change, or for example China, just to unify everything.",
+      "cn": "对，所以大多数国家实际上在全国范围内有不同的时区，除非它们很小，不需要补偿任何变化，或者例如中国，为了统一一切。"
+    },
+    {
+      "id": 80,
+      "en": "It's a big country, but they have one time zone, China standard time.",
+      "cn": "这是一个大国，但他们有一个时区，中国标准时间。"
+    },
+    {
+      "id": 81,
+      "en": "Exactly, but in the United States, we have four time zones.",
+      "cn": "正是如此，但在美国，我们有四个时区。"
+    },
+    {
+      "id": 82,
+      "en": "Right, all right, so that's time zone, and now related to time zone is time difference.",
+      "cn": "对，好的，所以这就是时区，现在与时区相关的是时差。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, well think about math here.",
+      "cn": "好吧，想想数学。"
+    },
+    {
+      "id": 84,
+      "en": "Difference is a word that we use in math, and a time difference is the amount of time, that means how many hours there are between one time zone and another time zone.",
+      "cn": "差异是我们在数学中使用的一个词，时差是指两个时区之间的时间量，也就是有多少小时。"
+    },
+    {
+      "id": 85,
+      "en": "So for example, Beijing and New York City.",
+      "cn": "例如，北京和纽约市。"
+    },
+    {
+      "id": 86,
+      "en": "These are very very far away from each other.",
+      "cn": "这两个地方相距非常遥远。"
+    },
+    {
+      "id": 87,
+      "en": "If it's day in New York, it's night in Beijing.",
+      "cn": "如果纽约是白天，北京就是夜晚。"
+    },
+    {
+      "id": 88,
+      "en": "So that means if it's seven in the morning in Beijing, it's probably around seven at night in New York.",
+      "cn": "所以这意味着如果在北京是早上七点，纽约大约是晚上七点。"
+    },
+    {
+      "id": 89,
+      "en": "So the time difference would be more or less 12 hours.",
+      "cn": "所以时差大约是12小时。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly, but when it's daylight savings time, it's 13, so be careful.",
+      "cn": "正是如此，但当是夏令时时，就是13小时，所以要小心。"
+    },
+    {
+      "id": 91,
+      "en": "Right, okay, I think that's pretty clear.",
+      "cn": "对，好的，我觉得这很清楚。"
+    },
+    {
+      "id": 92,
+      "en": "I think we should go back and listen to our dialogue again, and we'll be back soon with Fluency Builder.",
+      "cn": "我觉得我们应该回去再听一次我们的对话，我们很快会回来进行流利度训练。"
+    },
+    {
+      "id": 93,
+      "en": "Did you set your clock forward for daylight savings time?",
+      "cn": "你把时钟拨快了吗？"
+    },
+    {
+      "id": 94,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 95,
+      "en": "Why do we have to do that?",
+      "cn": "我们为什么要这样做？"
+    },
+    {
+      "id": 96,
+      "en": "Well, at the start of the spring we usually have more daylight in the mornings and less in the afternoon.",
+      "cn": "嗯，在春天开始时，我们通常早晨有更多的日光，下午则较少。"
+    },
+    {
+      "id": 97,
+      "en": "This is basically due to our position on the planet and the rotation of the earth.",
+      "cn": "这基本上是由于我们在地球上的位置和地球的自转。"
+    },
+    {
+      "id": 98,
+      "en": "In any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.",
+      "cn": "无论如何，为了更好地利用可用的日光，我们通过将时钟拨快一个小时来补偿。"
+    },
+    {
+      "id": 99,
+      "en": "I see, that's convenient.",
+      "cn": "我明白了，这很方便。"
+    },
+    {
+      "id": 100,
+      "en": "I never understood things like this, such as GMT.",
+      "cn": "我从来不理解这样的事情，比如GMT。"
+    },
+    {
+      "id": 101,
+      "en": "I never know what time zone we are in or when to change my clock.",
+      "cn": "我从不知道我们处于哪个时区，或者什么时候该调整我的时钟。"
+    },
+    {
+      "id": 102,
+      "en": "That just stands for Greenwich Mean Time.",
+      "cn": "这只是格林威治标准时间的缩写。"
+    },
+    {
+      "id": 103,
+      "en": "Here in California we're in Pacific Standard Time, that is eight time zones west of Greenwich.",
+      "cn": "在加利福尼亚，我们处于太平洋标准时间，距离格林威治有八个时区。"
+    },
+    {
+      "id": 104,
+      "en": "Remember when we were in Beijing?",
+      "cn": "你还记得我们在北京的时候吗？"
+    },
+    {
+      "id": 105,
+      "en": "Well, then we were in China Standard Time and that's eight time zones east of Greenwich.",
+      "cn": "那时我们在中国标准时间，距离格林威治有八个时区。"
+    },
+    {
+      "id": 106,
+      "en": "That's why it was so weird traveling from Beijing to LA, because of the huge time difference.",
+      "cn": "这就是为什么从北京到洛杉矶旅行如此奇怪，因为巨大的时差。"
+    },
+    {
+      "id": 107,
+      "en": "Even though we left Beijing at noon and flew for more than eight hours, we still arrived in LA the same day at noon.",
+      "cn": "尽管我们中午离开北京，飞行超过八小时，但我们仍然在同一天中午到达洛杉矶。"
+    },
+    {
+      "id": 108,
+      "en": "It's like we went back in time.",
+      "cn": "就像我们回到了过去。"
+    },
+    {
+      "id": 109,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 110,
+      "en": "So now let's take a look at three key phrases in Fluency Builder.",
+      "cn": "现在让我们看看流利构建器中的三个关键短语。"
+    },
+    {
+      "id": 111,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 112,
+      "en": "Let's go back to the beginning of this dialogue.",
+      "cn": "让我们回到对话的开始。"
+    },
+    {
+      "id": 113,
+      "en": "The person who's explaining all of these interesting things is saying that, well, in any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.",
+      "cn": "解释这些有趣事情的人说，嗯，无论如何，为了更好地利用可用的日光，我们通过将时钟拨快一小时来补偿。"
+    },
+    {
+      "id": 114,
+      "en": "So this is an important phrase you could say to take better advantage of or to take advantage of.",
+      "cn": "所以这是一个重要的短语，你可以说“更好地利用”或“利用”。"
+    },
+    {
+      "id": 115,
+      "en": "Let's talk about this.",
+      "cn": "让我们谈谈这个。"
+    },
+    {
+      "id": 116,
+      "en": "To take advantage of something.",
+      "cn": "利用某事。"
+    },
+    {
+      "id": 117,
+      "en": "So to take advantage of something is to use it efficiently, right?",
+      "cn": "所以利用某事就是有效地使用它，对吗？"
+    },
+    {
+      "id": 118,
+      "en": "Or to take better advantage.",
+      "cn": "或者更好地利用。"
+    },
+    {
+      "id": 119,
+      "en": "So, for example, if you drive to work every day and your neighbor drives to work every day and you work at the same place, you could take better advantage of your car and the cost by sharing the same car to work.",
+      "cn": "例如，如果你每天开车上班，而你的邻居也每天开车上班，并且你们在同一个地方工作，你可以通过共享同一辆车上班来更好地利用你的车和费用。"
+    },
+    {
+      "id": 120,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 121,
+      "en": "Or when people started to use computers, you could say, well, they were taking better advantage of their time by speeding things up, by making things faster with the computers.",
+      "cn": "或者当人们开始使用电脑时，你可以说，他们通过加快速度，更快地使用电脑来更好地利用他们的时间。"
+    },
+    {
+      "id": 122,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 123,
+      "en": "Or many mothers say, take better advantage of your time and read something instead of playing those video games.",
+      "cn": "或者许多母亲会说，更好地利用你的时间，读点东西，而不是玩那些视频游戏。"
+    },
+    {
+      "id": 124,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 125,
+      "en": "So it means, it means, like you said, to be more efficient, to do useful or important things.",
+      "cn": "所以这意味着，正如你所说，更有效率，做有用或重要的事情。"
+    },
+    {
+      "id": 126,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 127,
+      "en": "And now when we talked about what daylight savings time means or GMT, what that stands for, this is an interesting phrase, it stands for.",
+      "cn": "现在当我们谈论夏令时的含义或GMT时，这个短语很有趣，它代表。"
+    },
+    {
+      "id": 128,
+      "en": "Well, think about it as a picture.",
+      "cn": "嗯，把它想象成一幅图画。"
+    },
+    {
+      "id": 129,
+      "en": "So if something stands for something else, that means the original thing, it's not there anymore.",
+      "cn": "如果某事代表其他事，那意味着原来的东西不再存在。"
+    },
+    {
+      "id": 130,
+      "en": "And so in words and phrases like GMT, GMT doesn't mean anything by itself, but the G stands for something, the M stands for... it's an acronym.",
+      "cn": "所以在像GMT这样的词和短语中，GMT本身并没有任何意义，但G代表某事，M代表……这是一个缩写。"
+    },
+    {
+      "id": 131,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 132,
+      "en": "So this is an acronym that stands for, that represents three big long words.",
+      "cn": "所以这是一个代表三个长单词的缩写。"
+    },
+    {
+      "id": 133,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 134,
+      "en": "Greenwich Mean Time.",
+      "cn": "格林威治标准时间。"
+    },
+    {
+      "id": 135,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 136,
+      "en": "So we use this a lot when we are defining words or when we are defining an acronym, like GMT stands for Greenwich Mean Time, or for example, USA stands for United States of America.",
+      "cn": "所以我们在定义单词或缩写时经常使用这个，比如GMT代表格林威治标准时间，或者例如，USA代表美利坚合众国。"
+    },
+    {
+      "id": 137,
+      "en": "Or we can even say someone's name stands for something.",
+      "cn": "或者我们甚至可以说某人的名字代表某事。"
+    },
+    {
+      "id": 138,
+      "en": "So Marco, what is the M in your last name stand for?",
+      "cn": "所以马尔科，你的姓中的M代表什么？"
+    },
+    {
+      "id": 139,
+      "en": "So your Marco M, what is the M stand for?",
+      "cn": "所以你的马尔科M，M代表什么？"
+    },
+    {
+      "id": 140,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 141,
+      "en": "And then I would say, well, it stands for Mejia.",
+      "cn": "然后我会说，嗯，它代表梅希亚。"
+    },
+    {
+      "id": 142,
+      "en": "Your last name.",
+      "cn": "你的姓。"
+    },
+    {
+      "id": 143,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 144,
+      "en": "So you can use this when you see things that you don't understand, maybe an acronym or an abbreviation, like does Kathy stand for Catherine?",
+      "cn": "所以当你看到你不理解的东西时，比如一个缩写或一个缩写词，你可以使用这个，比如凯西代表凯瑟琳吗？"
+    },
+    {
+      "id": 145,
+      "en": "Yes, Kathy stands for Catherine.",
+      "cn": "是的，凯西代表凯瑟琳。"
+    },
+    {
+      "id": 146,
+      "en": "It's a short version of Catherine.",
+      "cn": "它是凯瑟琳的简短版本。"
+    },
+    {
+      "id": 147,
+      "en": "Cool.",
+      "cn": "酷。"
+    },
+    {
+      "id": 148,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 149,
+      "en": "And well, now talking a little bit more about time, you've maybe seen the movie Back to the Future.",
+      "cn": "现在再多谈谈时间，你可能看过电影《回到未来》。"
+    },
+    {
+      "id": 150,
+      "en": "And this is what it's all about to go back in time.",
+      "cn": "这就是关于回到过去的。"
+    },
+    {
+      "id": 151,
+      "en": "To go back in time.",
+      "cn": "回到过去。"
+    },
+    {
+      "id": 152,
+      "en": "So we went back in time.",
+      "cn": "所以我们回到了过去。"
+    },
+    {
+      "id": 153,
+      "en": "This is what the person says about the flight from Beijing to LA.",
+      "cn": "这是那个人关于从北京到洛杉矶航班所说的。"
+    },
+    {
+      "id": 154,
+      "en": "What's interesting is that to go back in time is kind of a fixed phrase.",
+      "cn": "有趣的是，回到过去是一个固定短语。"
+    },
+    {
+      "id": 155,
+      "en": "We always say it like this.",
+      "cn": "我们总是这样说。"
+    },
+    {
+      "id": 156,
+      "en": "So we could say, if you went back in time, where would you go?",
+      "cn": "所以我们可以说，如果你回到过去，你会去哪里？"
+    },
+    {
+      "id": 157,
+      "en": "What time?",
+      "cn": "什么时间？"
+    },
+    {
+      "id": 158,
+      "en": "What what place?",
+      "cn": "什么地方？"
+    },
+    {
+      "id": 159,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 160,
+      "en": "So to go back in time, usually use it like this.",
+      "cn": "所以回到过去，通常是这样使用的。"
+    },
+    {
+      "id": 161,
+      "en": "Now, what if I wanted to say to go into the future?",
+      "cn": "现在，如果我想说进入未来呢？"
+    },
+    {
+      "id": 162,
+      "en": "Could you say, go forward in time?",
+      "cn": "你可以说，向前走吗？"
+    },
+    {
+      "id": 163,
+      "en": "You could go forward in time, or you could go into the future.",
+      "cn": "你可以向前走，或者你可以进入未来。"
+    },
+    {
+      "id": 164,
+      "en": "Right, go into the future.",
+      "cn": "对，进入未来。"
+    },
+    {
+      "id": 165,
+      "en": "So remember, if you want to talk about going back in time is usually traveling to the past.",
+      "cn": "所以记住，如果你想谈论回到过去，通常是指旅行到过去。"
+    },
+    {
+      "id": 166,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 167,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 168,
+      "en": "So that's all the phrases we have.",
+      "cn": "所以这就是我们所有的短语。"
+    },
+    {
+      "id": 169,
+      "en": "Why don't we listen to the dialogue for the very last time?",
+      "cn": "我们为什么不最后一次听听对话呢？"
+    },
+    {
+      "id": 170,
+      "en": "Did you set your clock forward for daylight savings time?",
+      "cn": "你把时钟拨快了吗？"
+    },
+    {
+      "id": 171,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 172,
+      "en": "Why do we have to do that?",
+      "cn": "我们为什么要这样做？"
+    },
+    {
+      "id": 173,
+      "en": "Well, at the start of the spring, we usually have more daylight in the mornings and less in the afternoon.",
+      "cn": "好吧，春天开始时，我们通常早晨有更多的日光，下午则较少。"
+    },
+    {
+      "id": 174,
+      "en": "This is basically due to our position on the planet and the rotation of the earth.",
+      "cn": "这基本上是由于我们在地球上的位置和地球的自转。"
+    },
+    {
+      "id": 175,
+      "en": "In any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.",
+      "cn": "无论如何，为了更好地利用可用的日光，我们通过将时钟拨快一小时来补偿。"
+    },
+    {
+      "id": 176,
+      "en": "I see that's convenient.",
+      "cn": "我明白了，这很方便。"
+    },
+    {
+      "id": 177,
+      "en": "I never understood things like this such as GMT.",
+      "cn": "我从来不理解这样的事情，比如GMT。"
+    },
+    {
+      "id": 178,
+      "en": "I never know what time zone we are in or when to change my clock.",
+      "cn": "我从不知道我们处于哪个时区，或者什么时候该调整我的时钟。"
+    },
+    {
+      "id": 179,
+      "en": "That just stands for Greenwich Mean Time.",
+      "cn": "这只是格林威治标准时间的缩写。"
+    },
+    {
+      "id": 180,
+      "en": "Here in California, we're in Pacific Standard Time, that is eight time zones west of Greenwich.",
+      "cn": "在加利福尼亚，我们处于太平洋标准时间，距离格林威治有八个时区。"
+    },
+    {
+      "id": 181,
+      "en": "Remember when we were in Beijing?",
+      "cn": "你还记得我们在北京的时候吗？"
+    },
+    {
+      "id": 182,
+      "en": "Well, then we were in China Standard Time, and that's eight time zones east of Greenwich.",
+      "cn": "那时我们在中国标准时间，距离格林威治有八个时区。"
+    },
+    {
+      "id": 183,
+      "en": "That's why it was so weird traveling from Beijing to LA because of the huge time difference.",
+      "cn": "这就是为什么从北京到洛杉矶旅行如此奇怪，因为巨大的时差。"
+    },
+    {
+      "id": 184,
+      "en": "Even though we left Beijing at noon and flew for more than eight hours, we still arrived in LA the same day at noon.",
+      "cn": "尽管我们中午离开北京，飞行超过八小时，但我们仍然在同一天中午到达洛杉矶。"
+    },
+    {
+      "id": 185,
+      "en": "It's like we went back in time.",
+      "cn": "就像我们回到了过去。"
+    },
+    {
+      "id": 186,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 187,
+      "en": "And now this is actually something that really does happen, right?",
+      "cn": "现在这实际上是确实发生的事情，对吗？"
+    },
+    {
+      "id": 188,
+      "en": "If you take off in an airplane from Beijing, you fly for a certain amount of hours and you reach California and it's still the same time.",
+      "cn": "如果你从北京起飞，飞行一定的小时数，你会到达加利福尼亚，而时间仍然是一样的。"
+    },
+    {
+      "id": 189,
+      "en": "You reach it in the same day.",
+      "cn": "你在同一天到达。"
+    },
+    {
+      "id": 190,
+      "en": "It's very strange.",
+      "cn": "这很奇怪。"
+    },
+    {
+      "id": 191,
+      "en": "The same thing happens to me when I go home.",
+      "cn": "我回家时也会发生同样的事情。"
+    },
+    {
+      "id": 192,
+      "en": "So I leave Shanghai and I arrive in Chicago and I arrive at the exact same time I left on the same day.",
+      "cn": "所以我离开上海，抵达芝加哥，抵达的时间和我离开的时间是一样的，还是在同一天。"
+    },
+    {
+      "id": 193,
+      "en": "So it's like if time never passed.",
+      "cn": "所以就像时间从未过去。"
+    },
+    {
+      "id": 194,
+      "en": "It's the longest day of your entire life because it's not 24 hours.",
+      "cn": "这是你一生中最长的一天，因为它不是24小时。"
+    },
+    {
+      "id": 195,
+      "en": "The flight is 14 hours.",
+      "cn": "飞行时间是14小时。"
+    },
+    {
+      "id": 196,
+      "en": "It's really 24, 38 hours long, right?",
+      "cn": "实际上是24、38小时，对吧？"
+    },
+    {
+      "id": 197,
+      "en": "So it's really intense and exhausting.",
+      "cn": "所以这真的很紧张和疲惫。"
+    },
+    {
+      "id": 198,
+      "en": "And then what happens is when you do the opposite, you go from Chicago to Shanghai, then you go into the future pretty much, right?",
+      "cn": "然后当你反过来，从芝加哥回到上海时，你几乎进入了未来，对吧？"
+    },
+    {
+      "id": 199,
+      "en": "Because you left on a Sunday, but you arrive on a Tuesday.",
+      "cn": "因为你在星期天离开，但你在星期二到达。"
+    },
+    {
+      "id": 200,
+      "en": "Or in my case, yeah, you leave on a Sunday and you'd arrive on a Monday and you lose half a day of your life, right?",
+      "cn": "或者在我的情况下，是的，你在星期天离开，星期一到达，你失去了半天的生命，对吧？"
+    },
+    {
+      "id": 201,
+      "en": "You're just sitting there and all of a sudden, it goes past you, right?",
+      "cn": "你只是坐在那里，突然间，它就过去了，对吧？"
+    },
+    {
+      "id": 202,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 203,
+      "en": "So it all evens out in the end.",
+      "cn": "所以最后一切都平衡了。"
+    },
+    {
+      "id": 204,
+      "en": "Right, right.",
+      "cn": "对，对。"
+    },
+    {
+      "id": 205,
+      "en": "So when you go back or when you come, it all evens out.",
+      "cn": "所以当你回去或来时，一切都平衡了。"
+    },
+    {
+      "id": 206,
+      "en": "You recover.",
+      "cn": "你恢复了。"
+    },
+    {
+      "id": 207,
+      "en": "You get those hours of your life back pretty much.",
+      "cn": "你几乎找回了那些生命中的小时。"
+    },
+    {
+      "id": 208,
+      "en": "They're not gone forever.",
+      "cn": "它们并没有永远消失。"
+    },
+    {
+      "id": 209,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 210,
+      "en": "So if you guys have any questions, any doubts, you can send us an email at EnglishPod at PraxisLanguage.com or come to our website, EnglishPod.com.",
+      "cn": "如果你们有任何问题或疑虑，可以给我们发邮件到 EnglishPod@PraxisLanguage.com，或者访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 211,
+      "en": "We hope to see you there.",
+      "cn": "我们希望在那里见到你。"
+    },
+    {
+      "id": 212,
+      "en": "Ask away.",
+      "cn": "尽管问吧。"
+    },
+    {
+      "id": 213,
+      "en": "And until next time, everyone.",
+      "cn": "下次见，大家。"
+    },
+    {
+      "id": 214,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0110",
+  "title": "EnglishPod 初级 英文播客 0110",
+  "totalSegments": 222,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another lesson with us here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一节课。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marko.",
+      "cn": "我叫Marko。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we have a lesson for all our university students out there.",
+      "cn": "今天我们为所有大学生准备了一节课。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're talking about registering for university.",
+      "cn": "我们在讨论大学注册。"
+    },
+    {
+      "id": 8,
+      "en": "Okay, so it's a difficult process sometimes, even in your own language.",
+      "cn": "好的，这有时是一个困难的过程，即使在你自己的语言中。"
+    },
+    {
+      "id": 9,
+      "en": "So we're going to try and make it a little bit easier by giving you some of the common words you would need to register at a university.",
+      "cn": "所以我们将尝试通过提供一些注册大学时需要的常用词汇来让它变得简单一些。"
+    },
+    {
+      "id": 10,
+      "en": "Alright, well I think it's time we get started by listening to the dialogue.",
+      "cn": "好吧，我想是时候开始听对话了。"
+    },
+    {
+      "id": 11,
+      "en": "And we're going to listen to a young female student as she tries to choose her classes.",
+      "cn": "我们将听一位年轻女学生选择课程的过程。"
+    },
+    {
+      "id": 12,
+      "en": "Excuse me, is this where I register?",
+      "cn": "请问，这是注册的地方吗？"
+    },
+    {
+      "id": 13,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "cn": "我想为下学期的课程注册。"
+    },
+    {
+      "id": 14,
+      "en": "Yes, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 15,
+      "en": "I need your student ID, please.",
+      "cn": "请给我你的学生证号码。"
+    },
+    {
+      "id": 16,
+      "en": "Here you are.",
+      "cn": "给你。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, Susan.",
+      "cn": "好的，Susan。"
+    },
+    {
+      "id": 18,
+      "en": "It says here that you are a business major and that you're in your second year.",
+      "cn": "这里写着你是商业专业，且你是二年级学生。"
+    },
+    {
+      "id": 19,
+      "en": "Is this information correct?",
+      "cn": "这些信息正确吗？"
+    },
+    {
+      "id": 20,
+      "en": "Yes, um, I do want to take some additional credits this year to get a minor in psychology.",
+      "cn": "是的，我确实想在今年修一些额外的学分，以获得心理学的辅修。"
+    },
+    {
+      "id": 21,
+      "en": "Sure, that's not a problem.",
+      "cn": "当然，这没问题。"
+    },
+    {
+      "id": 22,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "cn": "你有想在这个学期修的课程清单吗？"
+    },
+    {
+      "id": 23,
+      "en": "Yeah, here's my list.",
+      "cn": "有，这是我的清单。"
+    },
+    {
+      "id": 24,
+      "en": "I'm not sure if the class schedule will allow me to take all of them, though.",
+      "cn": "不过，我不确定课程安排是否允许我修完所有课程。"
+    },
+    {
+      "id": 25,
+      "en": "Yeah, that's perfect.",
+      "cn": "是的，这很好。"
+    },
+    {
+      "id": 26,
+      "en": "What about the subjects for your minor?",
+      "cn": "你的辅修科目呢？"
+    },
+    {
+      "id": 27,
+      "en": "Oh, yeah, I almost forgot.",
+      "cn": "哦，对，我差点忘了。"
+    },
+    {
+      "id": 28,
+      "en": "I need to take fundamental linguistics, consumer psychology, and neuroanatomy.",
+      "cn": "我需要修基础语言学、消费者心理学和神经解剖学。"
+    },
+    {
+      "id": 29,
+      "en": "Wow, you're going to be busy this semester.",
+      "cn": "哇，你这个学期会很忙。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, here you go.",
+      "cn": "好的，给你。"
+    },
+    {
+      "id": 31,
+      "en": "You're registered now.",
+      "cn": "你现在已经注册了。"
+    },
+    {
+      "id": 32,
+      "en": "You have to make your first tuition payment before classes start.",
+      "cn": "你必须在上课前支付第一笔学费。"
+    },
+    {
+      "id": 33,
+      "en": "Alright, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 34,
+      "en": "A very good student taking a lot of classes this semester.",
+      "cn": "一位非常优秀的学生，这个学期修了很多课程。"
+    },
+    {
+      "id": 35,
+      "en": "I know, and it sounds like some of them are pretty hard as well.",
+      "cn": "我知道，而且听起来有些课程也很难。"
+    },
+    {
+      "id": 36,
+      "en": "Yeah, they are.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 37,
+      "en": "Well, she used some of those very common phrases that we would need when we are registering at university, so let's take a look at them now in language takeaway.",
+      "cn": "她使用了一些我们在大学注册时需要的非常常见的短语，所以现在让我们在语言要点中看看它们。"
+    },
+    {
+      "id": 38,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 39,
+      "en": "Okay, so the first thing, I think we need to deal with this word to register.",
+      "cn": "好的，首先，我想我们需要处理这个词“注册”。"
+    },
+    {
+      "id": 40,
+      "en": "Mm-hmm, register.",
+      "cn": "嗯，注册。"
+    },
+    {
+      "id": 41,
+      "en": "So, register for university.",
+      "cn": "所以，注册大学。"
+    },
+    {
+      "id": 42,
+      "en": "Okay, so we've mentioned this word many times, so I think it would be a good idea to listen to some examples, and then we'll come back and explain it.",
+      "cn": "好的，我们提到这个词很多次，所以我认为听一些例子是个好主意，然后我们再回来解释。"
+    },
+    {
+      "id": 43,
+      "en": "It is necessary to register on our website before joining the conference.",
+      "cn": "在加入会议之前，必须在我们的网站上注册。"
+    },
+    {
+      "id": 44,
+      "en": "So, when you register for something, you put your name down on a list, right?",
+      "cn": "所以，当你注册某件事时，你把你的名字写在名单上，对吗？"
+    },
+    {
+      "id": 45,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 46,
+      "en": "So, in this case, when you register for university, you officially put your name on the list of students in that course.",
+      "cn": "所以，在这种情况下，当你注册大学时，你正式把你的名字放在该课程的学生名单上。"
+    },
+    {
+      "id": 47,
+      "en": "Okay, so you can register for university.",
+      "cn": "好的，所以你可以注册大学。"
+    },
+    {
+      "id": 48,
+      "en": "What else can you register for?",
+      "cn": "你还可以注册什么？"
+    },
+    {
+      "id": 49,
+      "en": "Register for a class, you can even register to vote.",
+      "cn": "注册一门课程，甚至可以注册投票。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so register.",
+      "cn": "好的，所以注册。"
+    },
+    {
+      "id": 51,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 52,
+      "en": "Now, she was registering for her classes, and we saw these words that we know already, but it's a good idea to take a look at them.",
+      "cn": "现在，她在注册她的课程，我们看到了这些我们已经知道的词，但看看它们是个好主意。"
+    },
+    {
+      "id": 53,
+      "en": "We heard that she is a business major.",
+      "cn": "我们听到她是商业专业。"
+    },
+    {
+      "id": 54,
+      "en": "So, a major.",
+      "cn": "所以，专业。"
+    },
+    {
+      "id": 55,
+      "en": "A major.",
+      "cn": "专业。"
+    },
+    {
+      "id": 56,
+      "en": "A business major.",
+      "cn": "商业专业。"
+    },
+    {
+      "id": 57,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 58,
+      "en": "And what is your major?",
+      "cn": "你的专业是什么？"
+    },
+    {
+      "id": 59,
+      "en": "The major is the major area that you study, the most important area that you study.",
+      "cn": "专业是你学习的主要领域，最重要的领域。"
+    },
+    {
+      "id": 60,
+      "en": "The area where you are specialized.",
+      "cn": "你专注的领域。"
+    },
+    {
+      "id": 61,
+      "en": "Yeah, the area that you focus on.",
+      "cn": "是的，你专注的领域。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, now we heard another one that's called a minor.",
+      "cn": "好的，现在我们听到另一个叫做辅修的词。"
+    },
+    {
+      "id": 63,
+      "en": "So, this is another area that you study, but it is less important than your major.",
+      "cn": "这是你学习的另一个领域，但它比你的专业重要性低。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, so major and your minor.",
+      "cn": "好的，所以专业和辅修。"
+    },
+    {
+      "id": 65,
+      "en": "So, let's give an example.",
+      "cn": "那么，举个例子。"
+    },
+    {
+      "id": 66,
+      "en": "Imagine you must take 100 classes to graduate from university.",
+      "cn": "想象一下，你必须修100门课程才能从大学毕业。"
+    },
+    {
+      "id": 67,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 68,
+      "en": "Maybe you have to take 50 for your major, and maybe 30 for your minor.",
+      "cn": "也许你必须修50门专业课程，30门辅修课程。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 70,
+      "en": "And now, on your degree, on your title, does it say what is your major and minor?",
+      "cn": "现在，在你的学位上，你的头衔上，是否写着你的专业和辅修？"
+    },
+    {
+      "id": 71,
+      "en": "Well, I think it depends on the university, but in my case, yes.",
+      "cn": "嗯，我认为这取决于大学，但在我这里是的。"
+    },
+    {
+      "id": 72,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 73,
+      "en": "So, major and minor.",
+      "cn": "所以，专业和辅修。"
+    },
+    {
+      "id": 74,
+      "en": "Now, related to this and what you were saying about your classes, it takes us to our next word, which is credits.",
+      "cn": "现在，关于这个以及你所说的课程，这引出了我们的下一个词，学分。"
+    },
+    {
+      "id": 75,
+      "en": "Credits.",
+      "cn": "学分。"
+    },
+    {
+      "id": 76,
+      "en": "Credits.",
+      "cn": "学分。"
+    },
+    {
+      "id": 77,
+      "en": "Now, this is easily confused with classes sometimes.",
+      "cn": "现在，这有时容易与课程混淆。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "Well, a credit is kind of a point.",
+      "cn": "学分是一种点数。"
+    },
+    {
+      "id": 80,
+      "en": "So, like maybe...",
+      "cn": "所以，比如说..."
+    },
+    {
+      "id": 81,
+      "en": "So, in university, you need a certain number of credits or points to graduate.",
+      "cn": "在大学，你需要一定数量的学分或点数才能毕业。"
+    },
+    {
+      "id": 82,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 83,
+      "en": "So, suppose you need 100 credits to graduate.",
+      "cn": "所以，假设你需要100个学分才能毕业。"
+    },
+    {
+      "id": 84,
+      "en": "So, that's not 100 courses, because each course might be worth four or six or eight credits, depending on how important it is.",
+      "cn": "所以，这不是100门课程，因为每门课程可能值四、六或八个学分，具体取决于它的重要性。"
+    },
+    {
+      "id": 85,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 86,
+      "en": "So, maybe the classes that are part of your major will have more credits.",
+      "cn": "所以，也许你专业的课程会有更多的学分。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 88,
+      "en": "So, and now we have our last word in this dialogue, and it was tuition.",
+      "cn": "现在我们在这个对话中有最后一个词，那就是学费。"
+    },
+    {
+      "id": 89,
+      "en": "Tuition.",
+      "cn": "学费。"
+    },
+    {
+      "id": 90,
+      "en": "She had to pay her tuition.",
+      "cn": "她必须支付她的学费。"
+    },
+    {
+      "id": 91,
+      "en": "So, tuition is the money that you must pay for education.",
+      "cn": "所以，学费是你必须为教育支付的钱。"
+    },
+    {
+      "id": 92,
+      "en": "Okay, only for education.",
+      "cn": "好的，仅仅是为了教育。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "So, university tuition, private school tuition, or even language course tuition.",
+      "cn": "所以，大学学费、私立学校学费，甚至语言课程学费。"
+    },
+    {
+      "id": 95,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 96,
+      "en": "So, tuition is the money you must pay for school only.",
+      "cn": "所以，学费是你必须为学校支付的钱。"
+    },
+    {
+      "id": 97,
+      "en": "So, we've seen a lot of great words used for registering at university.",
+      "cn": "所以，我们看到了很多用于大学注册的好词汇。"
+    },
+    {
+      "id": 98,
+      "en": "So, I think it's time to listen to the dialogue for the second time a little bit slower, and then we'll come back and take a look at some phrases.",
+      "cn": "我想是时候慢慢再听一次对话，然后我们再回来看看一些短语。"
+    },
+    {
+      "id": 99,
+      "en": "Excuse me.",
+      "cn": "请问。"
+    },
+    {
+      "id": 100,
+      "en": "Is this where I register?",
+      "cn": "这是注册的地方吗？"
+    },
+    {
+      "id": 101,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "cn": "我想为下学期的课程注册。"
+    },
+    {
+      "id": 102,
+      "en": "Yes, of course.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 103,
+      "en": "I need your student ID, please.",
+      "cn": "请给我你的学生证。"
+    },
+    {
+      "id": 104,
+      "en": "Here you are.",
+      "cn": "给你。"
+    },
+    {
+      "id": 105,
+      "en": "Okay, Susan.",
+      "cn": "好的，苏珊。"
+    },
+    {
+      "id": 106,
+      "en": "It says here that you are a business major, and that you're in your second year.",
+      "cn": "这里写着你是商科专业，且你是二年级。"
+    },
+    {
+      "id": 107,
+      "en": "Is this information correct?",
+      "cn": "这个信息正确吗？"
+    },
+    {
+      "id": 108,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 109,
+      "en": "I do want to take some additional credits this year to get a minor in psychology.",
+      "cn": "我确实想在今年修一些额外的学分以获得心理学的辅修。"
+    },
+    {
+      "id": 110,
+      "en": "Sure.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 111,
+      "en": "That's not a problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 112,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "cn": "你有想在这个学期修的课程清单吗？"
+    },
+    {
+      "id": 113,
+      "en": "Yeah.",
+      "cn": "有的。"
+    },
+    {
+      "id": 114,
+      "en": "Here's my list.",
+      "cn": "这是我的清单。"
+    },
+    {
+      "id": 115,
+      "en": "I'm not sure if the class schedule will allow me to take all of them, though.",
+      "cn": "不过我不确定课程安排是否允许我修完所有课程。"
+    },
+    {
+      "id": 116,
+      "en": "Yeah, that's perfect.",
+      "cn": "是的，太完美了。"
+    },
+    {
+      "id": 117,
+      "en": "What about the subjects for your minor?",
+      "cn": "你的辅修科目呢？"
+    },
+    {
+      "id": 118,
+      "en": "Oh, yeah.",
+      "cn": "哦，对。"
+    },
+    {
+      "id": 119,
+      "en": "I almost forgot.",
+      "cn": "我差点忘了。"
+    },
+    {
+      "id": 120,
+      "en": "I need to take fundamental linguistics, consumer psychology, and neuroanatomy.",
+      "cn": "我需要修基础语言学、消费者心理学和神经解剖学。"
+    },
+    {
+      "id": 121,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 122,
+      "en": "You're going to be busy this semester.",
+      "cn": "你这个学期会很忙。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, here you go.",
+      "cn": "好的，给你。"
+    },
+    {
+      "id": 124,
+      "en": "You're registered now.",
+      "cn": "你现在已经注册了。"
+    },
+    {
+      "id": 125,
+      "en": "You have to make your first tuition payment before classes start.",
+      "cn": "你必须在上课前支付第一笔学费。"
+    },
+    {
+      "id": 126,
+      "en": "Alright, so it's time for putting it together.",
+      "cn": "好吧，现在是时候把它整理一下了。"
+    },
+    {
+      "id": 127,
+      "en": "And we're going to look at some phrases here that we can use to talk about education and university, and we can use them in different ways.",
+      "cn": "我们将看看一些可以用来谈论教育和大学的短语，并且可以以不同的方式使用它们。"
+    },
+    {
+      "id": 128,
+      "en": "Alright, and our first phrase is actually very similar to register.",
+      "cn": "好的，我们的第一个短语实际上与注册非常相似。"
+    },
+    {
+      "id": 129,
+      "en": "To sign up for something.",
+      "cn": "报名参加某事。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, I want to sign up for.",
+      "cn": "好的，我想报名参加。"
+    },
+    {
+      "id": 131,
+      "en": "I'd like to sign up for my courses.",
+      "cn": "我想为我的课程注册。"
+    },
+    {
+      "id": 132,
+      "en": "I think it would be a good idea if we'd listen to some examples of how we can use this phrase.",
+      "cn": "我认为听一些如何使用这个短语的例子会是个好主意。"
+    },
+    {
+      "id": 133,
+      "en": "I hate signing up for things online because they just send you spam emails.",
+      "cn": "我讨厌在线注册，因为他们只会给你发垃圾邮件。"
+    },
+    {
+      "id": 134,
+      "en": "Okay, so I can see that to sign up for something is to agree to take part in it.",
+      "cn": "好的，所以我可以看到，报名参加某事就是同意参与其中。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, so it's a little bit more informal than register.",
+      "cn": "好的，所以这比注册稍微非正式一点。"
+    },
+    {
+      "id": 136,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 137,
+      "en": "Less formal.",
+      "cn": "更不正式。"
+    },
+    {
+      "id": 138,
+      "en": "Alright, so moving on to our second phrase.",
+      "cn": "好的，接下来是我们的第二个短语。"
+    },
+    {
+      "id": 139,
+      "en": "This is very important because it's often used improperly, right?",
+      "cn": "这非常重要，因为它常常被错误使用，对吧？"
+    },
+    {
+      "id": 140,
+      "en": "Yeah, people often make mistakes with this phrase.",
+      "cn": "是的，人们常常在这个短语上犯错误。"
+    },
+    {
+      "id": 141,
+      "en": "Alright, so let's look at this phrase, second year.",
+      "cn": "好的，我们来看这个短语，二年级。"
+    },
+    {
+      "id": 142,
+      "en": "So she is in her second year.",
+      "cn": "她现在是二年级。"
+    },
+    {
+      "id": 143,
+      "en": "Now it seems very simple, so why are we explaining this?",
+      "cn": "现在看起来很简单，那我们为什么要解释这个呢？"
+    },
+    {
+      "id": 144,
+      "en": "Well, it often gets confused with grade.",
+      "cn": "因为它常常与年级混淆。"
+    },
+    {
+      "id": 145,
+      "en": "So when we talk about university, we talk about first year, second year, third year, fourth year.",
+      "cn": "所以当我们谈论大学时，我们说一年级、二年级、三年级、四年级。"
+    },
+    {
+      "id": 146,
+      "en": "We cannot say grade one, grade two, grade three, grade four.",
+      "cn": "我们不能说一年级、二年级、三年级、四年级。"
+    },
+    {
+      "id": 147,
+      "en": "Or year one, year two.",
+      "cn": "或者说第一年、第二年。"
+    },
+    {
+      "id": 148,
+      "en": "No, it's always first year, second year, third year, fourth year.",
+      "cn": "不，总是说一年级、二年级、三年级、四年级。"
+    },
+    {
+      "id": 149,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 150,
+      "en": "Or last year.",
+      "cn": "或者最后一年。"
+    },
+    {
+      "id": 151,
+      "en": "Yeah, last year.",
+      "cn": "是的，最后一年。"
+    },
+    {
+      "id": 152,
+      "en": "My last year of college.",
+      "cn": "我大学的最后一年。"
+    },
+    {
+      "id": 153,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 154,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 155,
+      "en": "So now you know how you can explain to someone what year of college or university you're in.",
+      "cn": "现在你知道如何向别人解释你在大学的哪一年了。"
+    },
+    {
+      "id": 156,
+      "en": "Yes, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 157,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 158,
+      "en": "And we have one more phrase to you.",
+      "cn": "我们还有一个短语。"
+    },
+    {
+      "id": 159,
+      "en": "And it was when she was getting her class schedule.",
+      "cn": "这是她获取课程安排时的短语。"
+    },
+    {
+      "id": 160,
+      "en": "So class schedule.",
+      "cn": "所以课程安排。"
+    },
+    {
+      "id": 161,
+      "en": "Class schedule.",
+      "cn": "课程安排。"
+    },
+    {
+      "id": 162,
+      "en": "Now a schedule is the list of things you do at what time.",
+      "cn": "现在，安排是你在什么时间做什么的清单。"
+    },
+    {
+      "id": 163,
+      "en": "Right, so it's the timetable of your day or your week.",
+      "cn": "对，所以这是你一天或一周的时间表。"
+    },
+    {
+      "id": 164,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 165,
+      "en": "Alright, and your class schedule will say all the classes that you have and what time they're at.",
+      "cn": "好的，你的课程安排会列出你所有的课程及其时间。"
+    },
+    {
+      "id": 166,
+      "en": "So what other types of schedules can we have?",
+      "cn": "那么我们还有什么其他类型的安排呢？"
+    },
+    {
+      "id": 167,
+      "en": "You also have maybe a gym schedule.",
+      "cn": "你也许还有健身房的安排。"
+    },
+    {
+      "id": 168,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 169,
+      "en": "Or even a work schedule.",
+      "cn": "甚至还有工作安排。"
+    },
+    {
+      "id": 170,
+      "en": "Right, so we have different types of schedules and you can use it depending on what you are doing.",
+      "cn": "对，所以我们有不同类型的安排，你可以根据你正在做的事情来使用它。"
+    },
+    {
+      "id": 171,
+      "en": "Those are all the phrases we have for putting it together today.",
+      "cn": "这些就是我们今天整理的所有短语。"
+    },
+    {
+      "id": 172,
+      "en": "And now let's listen to the dialogue for the last time and then we'll come back.",
+      "cn": "现在让我们最后一次听对话，然后我们再回来。"
+    },
+    {
+      "id": 173,
+      "en": "Excuse me, is this where I register?",
+      "cn": "劳驾，这里是我注册的地方吗？"
+    },
+    {
+      "id": 174,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "cn": "我想为下学期的课程注册。"
+    },
+    {
+      "id": 175,
+      "en": "Yes, of course.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 176,
+      "en": "I need your student ID, please.",
+      "cn": "请给我你的学生证。"
+    },
+    {
+      "id": 177,
+      "en": "Here you are.",
+      "cn": "给你。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, Susan.",
+      "cn": "好的，苏珊。"
+    },
+    {
+      "id": 179,
+      "en": "It says here that you are a business major and that you're in your second year.",
+      "cn": "这里写着你是商科专业，且你是二年级。"
+    },
+    {
+      "id": 180,
+      "en": "Is this information correct?",
+      "cn": "这个信息正确吗？"
+    },
+    {
+      "id": 181,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 182,
+      "en": "I do want to take some additional credits this year to get a minor in psychology.",
+      "cn": "我确实想在今年修一些额外的学分以获得心理学的辅修。"
+    },
+    {
+      "id": 183,
+      "en": "Sure, that's not a problem.",
+      "cn": "当然，没问题。"
+    },
+    {
+      "id": 184,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "cn": "你有想在这个学期修的课程清单吗？"
+    },
+    {
+      "id": 185,
+      "en": "Yeah, here's my list.",
+      "cn": "有的，这是我的清单。"
+    },
+    {
+      "id": 186,
+      "en": "I'm not sure if the class schedule will allow me to take all of them, though.",
+      "cn": "不过我不确定课程安排是否允许我修完所有课程。"
+    },
+    {
+      "id": 187,
+      "en": "Yeah, that's perfect.",
+      "cn": "是的，太完美了。"
+    },
+    {
+      "id": 188,
+      "en": "What about the subjects for your minor?",
+      "cn": "你的辅修科目呢？"
+    },
+    {
+      "id": 189,
+      "en": "Oh yeah, I almost forgot.",
+      "cn": "哦，对，我差点忘了。"
+    },
+    {
+      "id": 190,
+      "en": "I need to take fundamental linguistics, consumer psychology, and neuroanatomy.",
+      "cn": "我需要修基础语言学、消费者心理学和神经解剖学。"
+    },
+    {
+      "id": 191,
+      "en": "Wow, you're going to be busy this semester.",
+      "cn": "哇，你这个学期会很忙。"
+    },
+    {
+      "id": 192,
+      "en": "Okay, here you go.",
+      "cn": "好的，给你。"
+    },
+    {
+      "id": 193,
+      "en": "You're registered now.",
+      "cn": "你现在已经注册了。"
+    },
+    {
+      "id": 194,
+      "en": "You have to make your first tuition payment before classes start.",
+      "cn": "你必须在上课前支付第一笔学费。"
+    },
+    {
+      "id": 195,
+      "en": "Alright, so we were talking about second year, first year, third year, etc.",
+      "cn": "好吧，我们刚才在谈论二年级、一年级、三年级等等。"
+    },
+    {
+      "id": 196,
+      "en": "Now, there are also other names that we give to each year, both for high school and university.",
+      "cn": "现在，我们还给每个年级起了其他名字，适用于高中和大学。"
+    },
+    {
+      "id": 197,
+      "en": "And I think this is only for America, like in the United States.",
+      "cn": "我认为这仅适用于美国，比如在美国。"
+    },
+    {
+      "id": 198,
+      "en": "We don't do this in Canada, and I always get so confused.",
+      "cn": "我们在加拿大不这样做，我总是感到困惑。"
+    },
+    {
+      "id": 199,
+      "en": "So Marco, what is the name you give to first year students?",
+      "cn": "所以Marco，你们给一年级学生的名字是什么？"
+    },
+    {
+      "id": 200,
+      "en": "Okay, so first year students are called freshmen.",
+      "cn": "好的，一年级学生叫新生。"
+    },
+    {
+      "id": 201,
+      "en": "Okay, because they're fresh.",
+      "cn": "好的，因为他们是新来的。"
+    },
+    {
+      "id": 202,
+      "en": "Because they're fresh, yeah.",
+      "cn": "因为他们是新来的，是的。"
+    },
+    {
+      "id": 203,
+      "en": "They just came from middle school, they just came from high school.",
+      "cn": "他们刚从初中或高中过来。"
+    },
+    {
+      "id": 204,
+      "en": "Alright, and what about the second year students?",
+      "cn": "好的，二年级学生呢？"
+    },
+    {
+      "id": 205,
+      "en": "They're called sophomores.",
+      "cn": "他们叫大二学生。"
+    },
+    {
+      "id": 206,
+      "en": "Okay, because they're soft?",
+      "cn": "好的，因为他们软吗？"
+    },
+    {
+      "id": 207,
+      "en": "Well, it's not soft, it's sophomore, like S-O-P-H.",
+      "cn": "其实不是软，是大二，像S-O-P-H。"
+    },
+    {
+      "id": 208,
+      "en": "Sophomore.",
+      "cn": "大二。"
+    },
+    {
+      "id": 209,
+      "en": "Sophomore.",
+      "cn": "大二。"
+    },
+    {
+      "id": 210,
+      "en": "And then third year students are called juniors.",
+      "cn": "然后三年级学生叫大三学生。"
+    },
+    {
+      "id": 211,
+      "en": "Okay, because they're almost the junior manager.",
+      "cn": "好的，因为他们快要成为助理经理了。"
+    },
+    {
+      "id": 212,
+      "en": "Exactly, because then last year students are called seniors.",
+      "cn": "正是如此，最后一年学生叫大四学生。"
+    },
+    {
+      "id": 213,
+      "en": "So they're the oldest guys in the school.",
+      "cn": "所以他们是学校里年纪最大的。"
+    },
+    {
+      "id": 214,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 215,
+      "en": "So you can say, yeah, I'm a sophomore at Arizona State University.",
+      "cn": "所以你可以说，是的，我是亚利桑那州立大学的大二学生。"
+    },
+    {
+      "id": 216,
+      "en": "Okay, so we only use this in America, though, right?",
+      "cn": "好的，所以这仅在美国使用，对吗？"
+    },
+    {
+      "id": 217,
+      "en": "Yes, yes, it's very... and not only for university, but also for high school.",
+      "cn": "是的，是的，这非常... 不仅适用于大学，也适用于高中。"
+    },
+    {
+      "id": 218,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 219,
+      "en": "Alright guys, that's all the time we have for today.",
+      "cn": "好吧，大家，今天的时间就到这里。"
+    },
+    {
+      "id": 220,
+      "en": "I hope you enjoyed this lesson, and if you have any questions or comments, or you want to share with us your experiences in high school or university, please come to the website at EnglishPod.com.",
+      "cn": "希望你们喜欢这节课，如果你们有任何问题或评论，或者想与我们分享你们在高中或大学的经历，请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 221,
+      "en": "That's right, so Marco and I are there to answer your questions, and until next time, thanks for listening, and goodbye!",
+      "cn": "没错，Marco和我会在那里回答你们的问题，直到下次，谢谢收听，再见！"
+    },
+    {
+      "id": 222,
+      "en": "Bye!",
+      "cn": "再见！"
+    }
+  ]
+}

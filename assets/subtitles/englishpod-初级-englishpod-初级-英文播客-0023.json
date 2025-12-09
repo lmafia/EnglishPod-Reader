@@ -1,0 +1,1004 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0023",
+  "title": "EnglishPod 初级 英文播客 0023",
+  "totalSegments": 199,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome to another great lesson with EnglishPod.",
+      "cn": "欢迎来到另一个精彩的EnglishPod课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "So, Erica, how are you today?",
+      "cn": "所以，Erica，你今天怎么样？"
+    },
+    {
+      "id": 6,
+      "en": "I'm doing pretty well.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 7,
+      "en": "And I think we've got a good lesson today, a really helpful lesson.",
+      "cn": "我觉得今天的课程很不错，非常有帮助。"
+    },
+    {
+      "id": 8,
+      "en": "What are we talking about today?",
+      "cn": "我们今天要谈什么？"
+    },
+    {
+      "id": 9,
+      "en": "We have an elementary lesson about making an appointment.",
+      "cn": "我们有一节关于预约的基础课程。"
+    },
+    {
+      "id": 10,
+      "en": "All right, making an appointment.",
+      "cn": "好的，预约。"
+    },
+    {
+      "id": 11,
+      "en": "Yeah, that's really helpful.",
+      "cn": "是的，这真的很有帮助。"
+    },
+    {
+      "id": 12,
+      "en": "I guess you have to make appointments for the doctor or... At work, maybe.",
+      "cn": "我想你得为看医生或... 在工作中预约。"
+    },
+    {
+      "id": 13,
+      "en": "At work, personal.",
+      "cn": "在工作中，个人。"
+    },
+    {
+      "id": 14,
+      "en": "Or with your friends, yeah.",
+      "cn": "或者和朋友约会，是的。"
+    },
+    {
+      "id": 15,
+      "en": "So this is language that you can use every day to make appointments.",
+      "cn": "所以这是你每天都可以用来预约的语言。"
+    },
+    {
+      "id": 16,
+      "en": "Great, well, so why don't we take a look at our vocabulary preview.",
+      "cn": "很好，那么我们来看看我们的词汇预览。"
+    },
+    {
+      "id": 17,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 18,
+      "en": "We only have one word today which you need to know to understand this dialogue.",
+      "cn": "今天我们只有一个你需要知道的单词来理解这个对话。"
+    },
+    {
+      "id": 19,
+      "en": "And it is financial advisor.",
+      "cn": "那就是财务顾问。"
+    },
+    {
+      "id": 20,
+      "en": "Financial advisor.",
+      "cn": "财务顾问。"
+    },
+    {
+      "id": 21,
+      "en": "Financial advisor.",
+      "cn": "财务顾问。"
+    },
+    {
+      "id": 22,
+      "en": "So what is a financial advisor?",
+      "cn": "那么什么是财务顾问？"
+    },
+    {
+      "id": 23,
+      "en": "A financial advisor is a person who gives suggestions or recommendations about investing money.",
+      "cn": "财务顾问是提供投资建议或推荐的人。"
+    },
+    {
+      "id": 24,
+      "en": "Someone who wants you to put money in the stock market.",
+      "cn": "想让你把钱投入股市的人。"
+    },
+    {
+      "id": 25,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 26,
+      "en": "I guess we're ready now to listen to our dialogue for the first time.",
+      "cn": "我想我们现在准备好第一次听我们的对话了。"
+    },
+    {
+      "id": 27,
+      "en": "And as always, it's gonna be at a normal speed, but you don't have to worry about it because we'll come back and teach you all the important words.",
+      "cn": "和往常一样，速度正常，但你不必担心，因为我们会回来教你所有重要的单词。"
+    },
+    {
+      "id": 28,
+      "en": "Hello, Fairbrook Consulting.",
+      "cn": "你好，Fairbrook咨询。"
+    },
+    {
+      "id": 29,
+      "en": "How may I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 30,
+      "en": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNeely.",
+      "cn": "是的，我是Julianne Horton，我打电话是为了安排与McNeely女士的预约。"
+    },
+    {
+      "id": 31,
+      "en": "Certainly, what day were you thinking of?",
+      "cn": "当然，你想要哪一天？"
+    },
+    {
+      "id": 32,
+      "en": "How's Thursday?",
+      "cn": "星期四怎么样？"
+    },
+    {
+      "id": 33,
+      "en": "Does she have any time available then?",
+      "cn": "她那时有空吗？"
+    },
+    {
+      "id": 34,
+      "en": "Let me double check.",
+      "cn": "让我再确认一下。"
+    },
+    {
+      "id": 35,
+      "en": "Unfortunately, she's booked solid on Thursday.",
+      "cn": "不幸的是，她星期四已经排满了。"
+    },
+    {
+      "id": 36,
+      "en": "How does next Monday work for you?",
+      "cn": "下星期一对你来说怎么样？"
+    },
+    {
+      "id": 37,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "cn": "其实，我星期一有安排。"
+    },
+    {
+      "id": 38,
+      "en": "Can't you do Tuesday?",
+      "cn": "你不能星期二吗？"
+    },
+    {
+      "id": 39,
+      "en": "Sure, Tuesday's perfect.",
+      "cn": "当然，星期二很好。"
+    },
+    {
+      "id": 40,
+      "en": "May I ask where you're calling from?",
+      "cn": "我可以问一下你从哪里打电话吗？"
+    },
+    {
+      "id": 41,
+      "en": "Sure, Merton Financial Advisors.",
+      "cn": "当然，Merton财务顾问。"
+    },
+    {
+      "id": 42,
+      "en": "Oh, actually Tuesday's no good.",
+      "cn": "哦，实际上星期二不行。"
+    },
+    {
+      "id": 43,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 44,
+      "en": "Well, I guess Ms. McNeely does not want to speak to any financial advisors.",
+      "cn": "好吧，我想McNeely女士不想和任何财务顾问交谈。"
+    },
+    {
+      "id": 45,
+      "en": "Yeah, I guess she doesn't really want to invest in the stock market.",
+      "cn": "是的，我想她真的不想投资股市。"
+    },
+    {
+      "id": 46,
+      "en": "Or maybe she just gets too many phone calls from them.",
+      "cn": "或者她可能只是接到太多这样的电话。"
+    },
+    {
+      "id": 47,
+      "en": "If you have money, I guess you'll get phone calls from people like that.",
+      "cn": "如果你有钱，我想你会接到这样的电话。"
+    },
+    {
+      "id": 48,
+      "en": "I guess we don't have that problem, hey?",
+      "cn": "我想我们没有这个问题，是吧？"
+    },
+    {
+      "id": 49,
+      "en": "No, we don't.",
+      "cn": "不，我们没有。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, let's start with our language takeaway for today.",
+      "cn": "好的，让我们开始今天的语言要点。"
+    },
+    {
+      "id": 51,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 52,
+      "en": "So four words today.",
+      "cn": "今天有四个单词。"
+    },
+    {
+      "id": 53,
+      "en": "The first one is available.",
+      "cn": "第一个是可用的。"
+    },
+    {
+      "id": 54,
+      "en": "Available.",
+      "cn": "可用的。"
+    },
+    {
+      "id": 55,
+      "en": "Available.",
+      "cn": "可用的。"
+    },
+    {
+      "id": 56,
+      "en": "Available.",
+      "cn": "可用的。"
+    },
+    {
+      "id": 57,
+      "en": "Meaning?",
+      "cn": "意思是什么？"
+    },
+    {
+      "id": 58,
+      "en": "That you are not busy.",
+      "cn": "你没有忙。"
+    },
+    {
+      "id": 59,
+      "en": "That you're free.",
+      "cn": "你是空闲的。"
+    },
+    {
+      "id": 60,
+      "en": "You're free.",
+      "cn": "你是空闲的。"
+    },
+    {
+      "id": 61,
+      "en": "You're not busy.",
+      "cn": "你没有忙。"
+    },
+    {
+      "id": 62,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 63,
+      "en": "Let's move to our next word.",
+      "cn": "让我们进入下一个单词。"
+    },
+    {
+      "id": 64,
+      "en": "Double check.",
+      "cn": "再次确认。"
+    },
+    {
+      "id": 65,
+      "en": "Double check.",
+      "cn": "再次确认。"
+    },
+    {
+      "id": 66,
+      "en": "Double check.",
+      "cn": "再次确认。"
+    },
+    {
+      "id": 67,
+      "en": "Double check.",
+      "cn": "再次确认。"
+    },
+    {
+      "id": 68,
+      "en": "I think we've got some examples of this phrase.",
+      "cn": "我想我们有一些这个短语的例子。"
+    },
+    {
+      "id": 69,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 70,
+      "en": "Do you have the tickets?",
+      "cn": "你有票吗？"
+    },
+    {
+      "id": 71,
+      "en": "I think so, but let me just double check.",
+      "cn": "我想有，但让我再确认一下。"
+    },
+    {
+      "id": 72,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 73,
+      "en": "I thought I sent that email already, but let me double check.",
+      "cn": "我以为我已经发了那封邮件，但让我再确认一下。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, so double check basically means to check something twice.",
+      "cn": "好的，所以再次确认基本上意味着检查两次。"
+    },
+    {
+      "id": 75,
+      "en": "Exactly, to check it again.",
+      "cn": "正是，再次检查。"
+    },
+    {
+      "id": 76,
+      "en": "Check it again.",
+      "cn": "再次检查。"
+    },
+    {
+      "id": 77,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 78,
+      "en": "Our third word for language takeaway today is scheduled.",
+      "cn": "今天的第三个语言要点是安排。"
+    },
+    {
+      "id": 79,
+      "en": "Scheduled.",
+      "cn": "安排。"
+    },
+    {
+      "id": 80,
+      "en": "Scheduled.",
+      "cn": "安排。"
+    },
+    {
+      "id": 81,
+      "en": "Scheduled.",
+      "cn": "安排。"
+    },
+    {
+      "id": 82,
+      "en": "S-C-H-E-D-U-L-E-D.",
+      "cn": "S-C-H-E-D-U-L-E-D。"
+    },
+    {
+      "id": 83,
+      "en": "Scheduled.",
+      "cn": "安排。"
+    },
+    {
+      "id": 84,
+      "en": "Scheduled.",
+      "cn": "安排。"
+    },
+    {
+      "id": 85,
+      "en": "So when you have something scheduled it means that you have something...",
+      "cn": "所以当你有安排时，意味着你有..."
+    },
+    {
+      "id": 86,
+      "en": "Planned, right?",
+      "cn": "计划，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "Yeah, or booked at that time.",
+      "cn": "是的，或者在那个时间预定。"
+    },
+    {
+      "id": 88,
+      "en": "Booked at that time.",
+      "cn": "在那个时间预定。"
+    },
+    {
+      "id": 89,
+      "en": "Yeah, we've got a lunch scheduled this afternoon, don't we?",
+      "cn": "是的，我们今天下午有个午餐安排，是吧？"
+    },
+    {
+      "id": 90,
+      "en": "Yes, we do.",
+      "cn": "是的，我们有。"
+    },
+    {
+      "id": 91,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 92,
+      "en": "A great lunch.",
+      "cn": "一顿美好的午餐。"
+    },
+    {
+      "id": 93,
+      "en": "Looking forward to it.",
+      "cn": "期待着。"
+    },
+    {
+      "id": 94,
+      "en": "And our last word for today is booked solid.",
+      "cn": "今天的最后一个单词是完全预定。"
+    },
+    {
+      "id": 95,
+      "en": "Booked solid.",
+      "cn": "完全预定。"
+    },
+    {
+      "id": 96,
+      "en": "Booked solid.",
+      "cn": "完全预定。"
+    },
+    {
+      "id": 97,
+      "en": "B-O-O-K-E-D.",
+      "cn": "B-O-O-K-E-D。"
+    },
+    {
+      "id": 98,
+      "en": "Booked solid.",
+      "cn": "完全预定。"
+    },
+    {
+      "id": 99,
+      "en": "So we have some great examples on how you can use this great phrase.",
+      "cn": "所以我们有一些很好的例子，说明你如何使用这个很好的短语。"
+    },
+    {
+      "id": 100,
+      "en": "Booked solid and you can understand what it means.",
+      "cn": "完全预定，你可以理解它的意思。"
+    },
+    {
+      "id": 101,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 102,
+      "en": "I can't get a hotel room.",
+      "cn": "我无法找到酒店房间。"
+    },
+    {
+      "id": 103,
+      "en": "They're booked solid until after the new year.",
+      "cn": "他们已经预订满了，直到新年之后。"
+    },
+    {
+      "id": 104,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 105,
+      "en": "I'm sorry, there are no seats available on this flight.",
+      "cn": "对不起，这个航班没有座位。"
+    },
+    {
+      "id": 106,
+      "en": "We booked solid over the Christmas holidays.",
+      "cn": "我们在圣诞假期期间已经预订满了。"
+    },
+    {
+      "id": 107,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 108,
+      "en": "Example four.",
+      "cn": "示例四。"
+    },
+    {
+      "id": 109,
+      "en": "Sorry, I can't meet with you today.",
+      "cn": "对不起，我今天无法见你。"
+    },
+    {
+      "id": 110,
+      "en": "I'm booked solid.",
+      "cn": "我已经排满了。"
+    },
+    {
+      "id": 111,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 112,
+      "en": "So booked solid basically is?",
+      "cn": "所以“排满”基本上是？"
+    },
+    {
+      "id": 113,
+      "en": "You have no free time, no available time.",
+      "cn": "你没有空闲时间，没有可用时间。"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "So you've got appointments scheduled all day.",
+      "cn": "所以你整天都有约会。"
+    },
+    {
+      "id": 116,
+      "en": "All day, great.",
+      "cn": "整天，太好了。"
+    },
+    {
+      "id": 117,
+      "en": "So with this in mind, now we can listen to our dialogue a second time.",
+      "cn": "所以考虑到这一点，现在我们可以再听一次对话。"
+    },
+    {
+      "id": 118,
+      "en": "This time it's going to be slow so we can... Understand a little bit better.",
+      "cn": "这次会慢一点，以便我们... 更好地理解。"
+    },
+    {
+      "id": 119,
+      "en": "Hello, Fairbrook Consulting.",
+      "cn": "你好，Fairbrook咨询公司。"
+    },
+    {
+      "id": 120,
+      "en": "How may I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 121,
+      "en": "Yes, this is Julianne Horton and I'm calling to arrange an appointment with Ms. McNeely.",
+      "cn": "是的，我是Julianne Horton，我打电话是为了安排与McNeely女士的约会。"
+    },
+    {
+      "id": 122,
+      "en": "Certainly.",
+      "cn": "当然。"
+    },
+    {
+      "id": 123,
+      "en": "What date were you thinking of?",
+      "cn": "你想要哪个日期？"
+    },
+    {
+      "id": 124,
+      "en": "How's Thursday?",
+      "cn": "星期四怎么样？"
+    },
+    {
+      "id": 125,
+      "en": "Does she have any time available then?",
+      "cn": "她那时有空吗？"
+    },
+    {
+      "id": 126,
+      "en": "Um, let me double check.",
+      "cn": "嗯，让我再确认一下。"
+    },
+    {
+      "id": 127,
+      "en": "No, unfortunately she's booked solid on Thursday.",
+      "cn": "不幸的是，她星期四已经排满了。"
+    },
+    {
+      "id": 128,
+      "en": "How does next Monday work for you?",
+      "cn": "下星期一怎么样？"
+    },
+    {
+      "id": 129,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "cn": "其实，我星期一有安排。"
+    },
+    {
+      "id": 130,
+      "en": "Can she do Tuesday?",
+      "cn": "她可以星期二吗？"
+    },
+    {
+      "id": 131,
+      "en": "Sure, Tuesday's perfect.",
+      "cn": "当然，星期二很好。"
+    },
+    {
+      "id": 132,
+      "en": "May I ask where you're calling from?",
+      "cn": "请问你从哪里打来的？"
+    },
+    {
+      "id": 133,
+      "en": "Sure, Merton Financial Advisors.",
+      "cn": "当然，Merton金融顾问。"
+    },
+    {
+      "id": 134,
+      "en": "Oh, actually Tuesday's no good.",
+      "cn": "哦，实际上星期二也不行。"
+    },
+    {
+      "id": 135,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, so now it's a little bit more clear and with this we can start with putting it together.",
+      "cn": "好的，现在更清楚了，我们可以开始整理一下。"
+    },
+    {
+      "id": 137,
+      "en": "Putting it together.",
+      "cn": "整理一下。"
+    },
+    {
+      "id": 138,
+      "en": "There's some great examples in this dialogue of phrases you can use when you need to schedule an appointment.",
+      "cn": "在这个对话中有一些很好的例子，关于你在需要安排约会时可以使用的短语。"
+    },
+    {
+      "id": 139,
+      "en": "And we're going to look at those today.",
+      "cn": "我们今天要看看这些。"
+    },
+    {
+      "id": 140,
+      "en": "In the dialogue, we heard Julianne ask about making an appointment and she said this...",
+      "cn": "在对话中，我们听到Julianne询问如何预约，她说..."
+    },
+    {
+      "id": 141,
+      "en": "I'm calling to arrange an appointment with Ms. McNeely.",
+      "cn": "我打电话是为了安排与McNeely女士的约会。"
+    },
+    {
+      "id": 142,
+      "en": "I'm calling to arrange an appointment with Ms. McNeely.",
+      "cn": "我打电话是为了安排与McNeely女士的约会。"
+    },
+    {
+      "id": 143,
+      "en": "So this is a great way to schedule an appointment to ask for some time from somebody else.",
+      "cn": "这是一个很好的方式来请求与他人约会。"
+    },
+    {
+      "id": 144,
+      "en": "Yeah, and we have some more examples of this phrase.",
+      "cn": "是的，我们还有更多这个短语的例子。"
+    },
+    {
+      "id": 145,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 146,
+      "en": "Please book an appointment for next week.",
+      "cn": "请为下周预约一个时间。"
+    },
+    {
+      "id": 147,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 148,
+      "en": "Please schedule an appointment for next week.",
+      "cn": "请为下周安排一个约会。"
+    },
+    {
+      "id": 149,
+      "en": "Great, so after that when you're scheduling an appointment, you need to suggest a day when maybe that person has time.",
+      "cn": "很好，所以在安排约会时，你需要建议一个那个人可能有空的日期。"
+    },
+    {
+      "id": 150,
+      "en": "Yes, let's listen to what they said in the dialogue.",
+      "cn": "是的，让我们听听他们在对话中说了什么。"
+    },
+    {
+      "id": 151,
+      "en": "How's Thursday?",
+      "cn": "星期四怎么样？"
+    },
+    {
+      "id": 152,
+      "en": "Does she have any time available then?",
+      "cn": "她那时有空吗？"
+    },
+    {
+      "id": 153,
+      "en": "How's Thursday?",
+      "cn": "星期四怎么样？"
+    },
+    {
+      "id": 154,
+      "en": "Does she have any time available then?",
+      "cn": "她那时有空吗？"
+    },
+    {
+      "id": 155,
+      "en": "You say, well, how's Thursday or how's Tuesday?",
+      "cn": "你可以说，星期四怎么样，或者星期二怎么样？"
+    },
+    {
+      "id": 156,
+      "en": "And maybe that person doesn't have time that day, so they'll say something like this.",
+      "cn": "也许那个人那天没有时间，所以他们会说类似这样的话。"
+    },
+    {
+      "id": 157,
+      "en": "Can she do Tuesday?",
+      "cn": "她可以星期二吗？"
+    },
+    {
+      "id": 158,
+      "en": "Can she do Tuesday?",
+      "cn": "她可以星期二吗？"
+    },
+    {
+      "id": 159,
+      "en": "Okay, Erika, so if I want to have a meeting with you, I would say, How's Monday sound or how's Monday?",
+      "cn": "好的，Erika，如果我想和你开会，我会说，星期一怎么样，或者星期一怎么样？"
+    },
+    {
+      "id": 160,
+      "en": "Monday's no good.",
+      "cn": "星期一不行。"
+    },
+    {
+      "id": 161,
+      "en": "I'm busy all day.",
+      "cn": "我整天都很忙。"
+    },
+    {
+      "id": 162,
+      "en": "How's Tuesday?",
+      "cn": "星期二怎么样？"
+    },
+    {
+      "id": 163,
+      "en": "Sorry, Tuesday's no good either.",
+      "cn": "对不起，星期二也不行。"
+    },
+    {
+      "id": 164,
+      "en": "What about Wednesday?",
+      "cn": "星期三怎么样？"
+    },
+    {
+      "id": 165,
+      "en": "Okay, Wednesday works.",
+      "cn": "好的，星期三可以。"
+    },
+    {
+      "id": 166,
+      "en": "All right, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 167,
+      "en": "Wednesday's perfect.",
+      "cn": "星期三完美。"
+    },
+    {
+      "id": 168,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 169,
+      "en": "So we have a meeting on Wednesday.",
+      "cn": "所以我们星期三有个会议。"
+    },
+    {
+      "id": 170,
+      "en": "Okay, yeah, those are some great phrases, hey, for scheduling an appointment.",
+      "cn": "好的，是的，这些都是很好的短语，用于安排约会。"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, they're really good.",
+      "cn": "是的，它们真的很好。"
+    },
+    {
+      "id": 172,
+      "en": "Okay, so now we can listen to our dialogue a third time and we're ready to understand everything that we've just talked about.",
+      "cn": "好的，现在我们可以第三次听我们的对话，准备理解我们刚刚讨论的一切。"
+    },
+    {
+      "id": 173,
+      "en": "Hello, Fairbrook Consulting.",
+      "cn": "你好，Fairbrook咨询公司。"
+    },
+    {
+      "id": 174,
+      "en": "How may I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 175,
+      "en": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNeely.",
+      "cn": "是的，我是Julianne Horton，我打电话是为了安排与McNeely女士的约会。"
+    },
+    {
+      "id": 176,
+      "en": "Certainly.",
+      "cn": "当然。"
+    },
+    {
+      "id": 177,
+      "en": "What day were you thinking of?",
+      "cn": "你想要哪个日期？"
+    },
+    {
+      "id": 178,
+      "en": "How's Thursday?",
+      "cn": "星期四怎么样？"
+    },
+    {
+      "id": 179,
+      "en": "Does she have any time available then?",
+      "cn": "她那时有空吗？"
+    },
+    {
+      "id": 180,
+      "en": "Um, let me double check.",
+      "cn": "嗯，让我再确认一下。"
+    },
+    {
+      "id": 181,
+      "en": "Unfortunately, she's booked solid on Thursday.",
+      "cn": "不幸的是，她星期四已经排满了。"
+    },
+    {
+      "id": 182,
+      "en": "How does next Monday work for you?",
+      "cn": "下星期一怎么样？"
+    },
+    {
+      "id": 183,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "cn": "实际上，我星期一有安排。"
+    },
+    {
+      "id": 184,
+      "en": "Can she do Tuesday?",
+      "cn": "她可以星期二吗？"
+    },
+    {
+      "id": 185,
+      "en": "Sure, Tuesday's perfect.",
+      "cn": "当然，星期二很好。"
+    },
+    {
+      "id": 186,
+      "en": "May I ask where you're calling from?",
+      "cn": "请问你从哪里打来的？"
+    },
+    {
+      "id": 187,
+      "en": "Sure, Merton Financial Advisors.",
+      "cn": "当然，Merton金融顾问。"
+    },
+    {
+      "id": 188,
+      "en": "Oh, actually, Tuesday's no good.",
+      "cn": "哦，实际上星期二也不行。"
+    },
+    {
+      "id": 189,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 190,
+      "en": "The language in this dialogue is really useful, isn't it, Marco?",
+      "cn": "这个对话中的语言真的很有用，不是吗，Marco？"
+    },
+    {
+      "id": 191,
+      "en": "Yeah, it's from an everyday situation.",
+      "cn": "是的，这是来自日常情况。"
+    },
+    {
+      "id": 192,
+      "en": "You always have to make appointments at some point.",
+      "cn": "你总是需要在某个时候预约。"
+    },
+    {
+      "id": 193,
+      "en": "Yes, and like we said earlier, it's language you can use when you need to talk about work with your boss, maybe, or when you need to do daily things like go to the doctor, or even when you're planning something with your friends.",
+      "cn": "是的，正如我们之前所说的，这是你在需要与老板谈工作时可以使用的语言，或者在你需要做日常事情时，比如去看医生，甚至在你和朋友计划事情时。"
+    },
+    {
+      "id": 194,
+      "en": "You can use this in all those situations.",
+      "cn": "你可以在所有这些情况下使用。"
+    },
+    {
+      "id": 195,
+      "en": "Great, well, we're out of time now, but I hope you enjoyed our lesson and found it useful.",
+      "cn": "很好，嗯，我们现在没时间了，但我希望你喜欢我们的课程并觉得它有用。"
+    },
+    {
+      "id": 196,
+      "en": "And if you have any questions or comments, please go to our website at EnglishPod.com where we'll be there to answer everything.",
+      "cn": "如果你有任何问题或评论，请访问我们的网站EnglishPod.com，我们会在那里回答所有问题。"
+    },
+    {
+      "id": 197,
+      "en": "Yes, we will.",
+      "cn": "是的，我们会的。"
+    },
+    {
+      "id": 198,
+      "en": "So thanks for listening, guys.",
+      "cn": "所以谢谢大家的收听。"
+    },
+    {
+      "id": 199,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见。"
+    }
+  ]
+}

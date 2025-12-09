@@ -1,0 +1,839 @@
+{
+  "type": "book",
+  "id": "englishpod-初级-englishpod-初级-英文播客-0176",
+  "title": "EnglishPod 初级 英文播客 0176",
+  "totalSegments": 166,
+  "seriesId": "englishpod-初级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we have a cold lesson.",
+      "cn": "今天我们有一个关于寒冷的课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "It's the winter season, and of course, it gets cold in a lot of different places around the world, and so we're going to talk about heating.",
+      "cn": "现在是冬季，当然，世界上很多地方都很冷，所以我们要谈谈取暖。"
+    },
+    {
+      "id": 7,
+      "en": "Okay, this is very important, but before we do get started, we have a very important word to preview in Vocabulary Preview.",
+      "cn": "好的，这非常重要，但在开始之前，我们有一个非常重要的单词要在词汇预览中预览。"
+    },
+    {
+      "id": 8,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 9,
+      "en": "All right, so we're going to preview the word freezing.",
+      "cn": "好的，我们要预览的单词是“冰冻”。"
+    },
+    {
+      "id": 10,
+      "en": "It is freezing today, by the way, so this is very appropriate.",
+      "cn": "顺便说一下，今天很冷，所以这非常合适。"
+    },
+    {
+      "id": 11,
+      "en": "Freezing means very, very, very cold.",
+      "cn": "冰冻意味着非常非常冷。"
+    },
+    {
+      "id": 12,
+      "en": "Okay, it is freezing.",
+      "cn": "好的，今天很冷。"
+    },
+    {
+      "id": 13,
+      "en": "Okay, so it's very cold.",
+      "cn": "好的，所以非常冷。"
+    },
+    {
+      "id": 14,
+      "en": "It's freezing today.",
+      "cn": "今天冰冻。"
+    },
+    {
+      "id": 15,
+      "en": "It's so cold, in fact, you can't have water outside because the water will become ice.",
+      "cn": "事实上，太冷了，你不能把水放在外面，因为水会变成冰。"
+    },
+    {
+      "id": 16,
+      "en": "It will freeze.",
+      "cn": "它会冰冻。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, great word.",
+      "cn": "好的，很好的单词。"
+    },
+    {
+      "id": 18,
+      "en": "So let's listen to our dialogue for the very first time.",
+      "cn": "那么让我们第一次听听我们的对话。"
+    },
+    {
+      "id": 19,
+      "en": "It's freezing in here.",
+      "cn": "这里面很冷。"
+    },
+    {
+      "id": 20,
+      "en": "Can I turn up the heat?",
+      "cn": "我可以把暖气调高吗？"
+    },
+    {
+      "id": 21,
+      "en": "Don't touch that thermostat.",
+      "cn": "不要碰那个温控器。"
+    },
+    {
+      "id": 22,
+      "en": "You don't pay the bills around here.",
+      "cn": "你在这里不付账单。"
+    },
+    {
+      "id": 23,
+      "en": "Dad, are you serious?",
+      "cn": "爸，您是认真的吗？"
+    },
+    {
+      "id": 24,
+      "en": "What's the point of having central heating if we can't use it?",
+      "cn": "如果我们不能使用中央供暖，那有什么意义呢？"
+    },
+    {
+      "id": 25,
+      "en": "Look, I can see my breath.",
+      "cn": "看，我能看到我的呼吸。"
+    },
+    {
+      "id": 26,
+      "en": "Put on a sweater.",
+      "cn": "穿上毛衣。"
+    },
+    {
+      "id": 27,
+      "en": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "cn": "我不想让你因为有点冷而增加我的取暖费用。"
+    },
+    {
+      "id": 28,
+      "en": "Dad, I'm going to catch a cold.",
+      "cn": "爸，我会感冒的。"
+    },
+    {
+      "id": 29,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "cn": "在我你这个年纪的时候，我的父母没有像你们这样有中央供暖。"
+    },
+    {
+      "id": 30,
+      "en": "We had a furnace in the center of the living room and that was it.",
+      "cn": "我们在客厅中间有一个炉子，仅此而已。"
+    },
+    {
+      "id": 31,
+      "en": "We used it to cook, heat the house, and even dry our clothes.",
+      "cn": "我们用它来做饭、加热房子，甚至晾干衣服。"
+    },
+    {
+      "id": 32,
+      "en": "We never caught a cold.",
+      "cn": "我们从来没有感冒过。"
+    },
+    {
+      "id": 33,
+      "en": "You should be grateful.",
+      "cn": "你应该感恩。"
+    },
+    {
+      "id": 34,
+      "en": "Alright, we're back and this is actually what a lot of dads are like, I think, around the world.",
+      "cn": "好吧，我们回来了，我认为这实际上是很多父亲在世界各地的样子。"
+    },
+    {
+      "id": 35,
+      "en": "Yep, my dad definitely liked to keep the heat low.",
+      "cn": "是的，我的父亲确实喜欢把暖气调低。"
+    },
+    {
+      "id": 36,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 37,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 38,
+      "en": "Alright, so we'll talk about that a little bit later, but let's take a look at some four words on Language Takeaway today.",
+      "cn": "好吧，我们稍后会谈谈这个，但让我们看看今天的语言要点中的四个单词。"
+    },
+    {
+      "id": 39,
+      "en": "Language Takeaway Well, this first word is important for anyone who has a home with heating.",
+      "cn": "语言要点。好吧，第一个单词对任何有供暖的家庭都很重要。"
+    },
+    {
+      "id": 40,
+      "en": "It's called a thermostat.",
+      "cn": "它叫做温控器。"
+    },
+    {
+      "id": 41,
+      "en": "Alright, a thermostat.",
+      "cn": "好的，温控器。"
+    },
+    {
+      "id": 42,
+      "en": "What is a thermostat?",
+      "cn": "什么是温控器？"
+    },
+    {
+      "id": 43,
+      "en": "A thermostat is a dial or like a device on the wall that tells you how hot or how cold the house is.",
+      "cn": "温控器是墙上的一个旋钮或设备，告诉你房子的温度有多热或多冷。"
+    },
+    {
+      "id": 44,
+      "en": "It's like a thermometer for your house.",
+      "cn": "它就像你房子的温度计。"
+    },
+    {
+      "id": 45,
+      "en": "Okay, so you can move the thermostat, the temperature, to make the house warmer or colder, right?",
+      "cn": "好的，所以你可以移动温控器，调节温度，使房子更暖或更冷，对吗？"
+    },
+    {
+      "id": 46,
+      "en": "Right, so if it says it's 20 degrees and I think that's too cold, I can turn the thermostat up to 23 degrees.",
+      "cn": "对，所以如果它显示20度，我觉得太冷了，我可以把温控器调到23度。"
+    },
+    {
+      "id": 47,
+      "en": "Alright, and very much related to a thermostat and what this device does is our next word, central heating.",
+      "cn": "好的，与温控器及其功能密切相关的下一个词是中央供暖。"
+    },
+    {
+      "id": 48,
+      "en": "Right, so if you have central heating, you have a thermostat.",
+      "cn": "对，所以如果你有中央供暖，你就有一个温控器。"
+    },
+    {
+      "id": 49,
+      "en": "That's the way to control the heat.",
+      "cn": "这是控制热量的方式。"
+    },
+    {
+      "id": 50,
+      "en": "And central heating means that you have one heater for the whole house.",
+      "cn": "中央供暖意味着你有一个加热器为整个房子供暖。"
+    },
+    {
+      "id": 51,
+      "en": "And so the air comes into all the different rooms.",
+      "cn": "所以空气会进入所有不同的房间。"
+    },
+    {
+      "id": 52,
+      "en": "So, not many places in China have this, but for example in the United States and Canada, it is very common.",
+      "cn": "在中国并不是很多地方有这个，但例如在美国和加拿大，这非常普遍。"
+    },
+    {
+      "id": 53,
+      "en": "Okay, so your house or your apartment building will have central heating and then you can control how cold or warm the house is with thermostats.",
+      "cn": "好的，所以你的房子或公寓大楼会有中央供暖，然后你可以通过温控器控制房子的冷暖。"
+    },
+    {
+      "id": 54,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 55,
+      "en": "Very good, and well, our next word is related to temperature and it's chilly.",
+      "cn": "非常好，接下来我们的下一个词与温度有关，它是“寒冷”。"
+    },
+    {
+      "id": 56,
+      "en": "Chilly, okay, so there's a big difference between chilly and freezing.",
+      "cn": "寒冷，好吧，寒冷和冰冻之间有很大的区别。"
+    },
+    {
+      "id": 57,
+      "en": "Freezing means very, very, very cold.",
+      "cn": "冰冻意味着非常非常冷。"
+    },
+    {
+      "id": 58,
+      "en": "Chilly means a little cold.",
+      "cn": "寒冷意味着有点冷。"
+    },
+    {
+      "id": 59,
+      "en": "Right, so it's a little cold.",
+      "cn": "对，所以有点冷。"
+    },
+    {
+      "id": 60,
+      "en": "It's a bit chilly.",
+      "cn": "有点寒冷。"
+    },
+    {
+      "id": 61,
+      "en": "Right, so it's a bit chilly today.",
+      "cn": "对，所以今天有点寒冷。"
+    },
+    {
+      "id": 62,
+      "en": "I'm going to wear a hat.",
+      "cn": "我打算戴上帽子。"
+    },
+    {
+      "id": 63,
+      "en": "Okay, if it's freezing, I'm going to wear a hat.",
+      "cn": "好的，如果很冷，我会戴上帽子。"
+    },
+    {
+      "id": 64,
+      "en": "A hat and mittens and a scarf and coat and boots.",
+      "cn": "帽子、手套、围巾、外套和靴子。"
+    },
+    {
+      "id": 65,
+      "en": "Alright, so if it's a bit chilly, it's not very cold.",
+      "cn": "好吧，如果有点寒冷，那就不是很冷。"
+    },
+    {
+      "id": 66,
+      "en": "And well, moving on, the dad mentioned about him having a furnace when he was young.",
+      "cn": "好吧，继续，爸爸提到他年轻时有一个炉子。"
+    },
+    {
+      "id": 67,
+      "en": "That's right, the dad had a furnace in his house and the furnace is a way to heat your house.",
+      "cn": "没错，爸爸家里有一个炉子，炉子是加热房子的一种方式。"
+    },
+    {
+      "id": 68,
+      "en": "It's like a stove.",
+      "cn": "它就像一个炉子。"
+    },
+    {
+      "id": 69,
+      "en": "So yeah, just consider it like a big oven, right?",
+      "cn": "所以是的，可以把它看作一个大烤箱，对吧？"
+    },
+    {
+      "id": 70,
+      "en": "Maybe you've seen it in the old movies where you would have to throw firewood into the furnace to make it heat up the house.",
+      "cn": "也许你在老电影中见过，你必须把木柴扔进炉子里才能让它加热房子。"
+    },
+    {
+      "id": 71,
+      "en": "Exactly, and so this is very common in older homes and not very common in apartments.",
+      "cn": "没错，这在老房子中非常常见，而在公寓中并不常见。"
+    },
+    {
+      "id": 72,
+      "en": "Right, and well, that's all the words we have for language takeaway today.",
+      "cn": "对的，今天的语言要点就到这里。"
+    },
+    {
+      "id": 73,
+      "en": "Why don't we listen to this chilly dialogue again.",
+      "cn": "我们再听一遍这个寒冷的对话吧。"
+    },
+    {
+      "id": 74,
+      "en": "It's freezing in here.",
+      "cn": "这里面很冷。"
+    },
+    {
+      "id": 75,
+      "en": "Can I turn up the heat?",
+      "cn": "我可以把暖气调高吗？"
+    },
+    {
+      "id": 76,
+      "en": "Don't touch that thermostat.",
+      "cn": "不要碰那个温控器。"
+    },
+    {
+      "id": 77,
+      "en": "You don't pay the bills around here.",
+      "cn": "你在这里不付账单。"
+    },
+    {
+      "id": 78,
+      "en": "Dad, are you serious?",
+      "cn": "爸，您是认真的吗？"
+    },
+    {
+      "id": 79,
+      "en": "What's the point of having central heating if we can't use it?",
+      "cn": "如果我们不能使用中央供暖，那有什么意义呢？"
+    },
+    {
+      "id": 80,
+      "en": "Look, I can see my breath.",
+      "cn": "看，我能看到我的呼吸。"
+    },
+    {
+      "id": 81,
+      "en": "Put on a sweater.",
+      "cn": "穿上毛衣。"
+    },
+    {
+      "id": 82,
+      "en": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "cn": "我不想让你因为有点冷而增加我的取暖费用。"
+    },
+    {
+      "id": 83,
+      "en": "Dad, I'm going to catch a cold.",
+      "cn": "爸，我会感冒的。"
+    },
+    {
+      "id": 84,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "cn": "在我你这个年纪的时候，我的父母没有像你们这样有中央供暖。"
+    },
+    {
+      "id": 85,
+      "en": "We had a furnace in the center of the living room, and that was it.",
+      "cn": "我们在客厅中间有一个炉子，仅此而已。"
+    },
+    {
+      "id": 86,
+      "en": "We used it to cook, heat the house, and even dry our clothes.",
+      "cn": "我们用它来做饭、加热房子，甚至晾干衣服。"
+    },
+    {
+      "id": 87,
+      "en": "We never caught a cold.",
+      "cn": "我们从来没有感冒过。"
+    },
+    {
+      "id": 88,
+      "en": "You should be grateful.",
+      "cn": "你应该感恩。"
+    },
+    {
+      "id": 89,
+      "en": "Alright, we're back, so now we have prepared for you three key phrases on Fluency Builder.",
+      "cn": "好吧，我们回来了，现在我们为您准备了三个关键短语在流利表达中。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, so this first phrase is related to thermostat.",
+      "cn": "好的，第一个短语与温控器有关。"
+    },
+    {
+      "id": 91,
+      "en": "So a thermostat, like we said, is like a thermometer, but we can control the temperature.",
+      "cn": "所以温控器，正如我们所说，就像一个温度计，但我们可以控制温度。"
+    },
+    {
+      "id": 92,
+      "en": "So if we want to make the temperature hotter, we turn up the thermostat.",
+      "cn": "所以如果我们想让温度更高，我们就把温控器调高。"
+    },
+    {
+      "id": 93,
+      "en": "So this is a phrasal verb, to turn up the heat.",
+      "cn": "这是一个短语动词，调高热量。"
+    },
+    {
+      "id": 94,
+      "en": "You could say this about heat, you could say this about noise too.",
+      "cn": "你可以这样说热量，也可以这样说噪音。"
+    },
+    {
+      "id": 95,
+      "en": "Can you turn up the radio?",
+      "cn": "你能把收音机调高吗？"
+    },
+    {
+      "id": 96,
+      "en": "Turn up the volume.",
+      "cn": "调高音量。"
+    },
+    {
+      "id": 97,
+      "en": "So it's to increase.",
+      "cn": "所以是增加。"
+    },
+    {
+      "id": 98,
+      "en": "To increase, to make bigger or warmer or louder.",
+      "cn": "增加，使更大或更暖或更响。"
+    },
+    {
+      "id": 99,
+      "en": "Alright, and if we wanted to decrease the temperature in the thermostat, you would say... Turn down.",
+      "cn": "好吧，如果我们想降低温控器的温度，你可以说... 调低。"
+    },
+    {
+      "id": 100,
+      "en": "Turn down the heat.",
+      "cn": "调低热量。"
+    },
+    {
+      "id": 101,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 102,
+      "en": "So, it's too hot in here.",
+      "cn": "所以，这里太热了。"
+    },
+    {
+      "id": 103,
+      "en": "Can you please turn down the heat?",
+      "cn": "你能把热量调低吗？"
+    },
+    {
+      "id": 104,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 105,
+      "en": "And our next phrase is, well, the dad was talking about the bills and how expensive it is to use the thermostat, and he said, I'm not going to let you run up my heating bill.",
+      "cn": "我们下一个短语是，爸爸在谈论账单以及使用恒温器的费用，他说，我不想让你增加我的取暖账单。"
+    },
+    {
+      "id": 106,
+      "en": "Okay, so a bill is like, you know, something that you pay.",
+      "cn": "好的，账单就像你知道的，支付的东西。"
+    },
+    {
+      "id": 107,
+      "en": "It's money.",
+      "cn": "是钱。"
+    },
+    {
+      "id": 108,
+      "en": "And so in this case, I don't want you to run up the bill.",
+      "cn": "所以在这种情况下，我不想让你增加账单。"
+    },
+    {
+      "id": 109,
+      "en": "Well, that means to increase the amount of money I have to spend.",
+      "cn": "这意味着增加我必须花费的金额。"
+    },
+    {
+      "id": 110,
+      "en": "So maybe if you leave your television on all night, you're running up your electricity bill.",
+      "cn": "所以也许如果你整晚开着电视，你就在增加电费。"
+    },
+    {
+      "id": 111,
+      "en": "Exactly, or if you talk on the phone ten hours a day, you run up the phone bill and your mother kills you.",
+      "cn": "正确，或者如果你每天打电话十个小时，你就增加了电话费，你妈妈会杀了你。"
+    },
+    {
+      "id": 112,
+      "en": "Alright, and well, the daughter was complaining about her catching a cold.",
+      "cn": "好的，女儿在抱怨她感冒了。"
+    },
+    {
+      "id": 113,
+      "en": "To catch a cold.",
+      "cn": "感冒。"
+    },
+    {
+      "id": 114,
+      "en": "Alright, so remember this, a cold is when you have maybe a runny nose and a cough and a sore throat.",
+      "cn": "好的，记住这一点，感冒是指你可能有流鼻涕、咳嗽和喉咙痛。"
+    },
+    {
+      "id": 115,
+      "en": "It usually happens when the weather changes, but we don't get a cold.",
+      "cn": "通常在天气变化时发生，但我们不会感冒。"
+    },
+    {
+      "id": 116,
+      "en": "You catch a cold.",
+      "cn": "你感冒了。"
+    },
+    {
+      "id": 117,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 118,
+      "en": "Remember like in baseball, you throw and catch.",
+      "cn": "记住像在棒球中，你投球和接球。"
+    },
+    {
+      "id": 119,
+      "en": "It's something that's fast.",
+      "cn": "这是快速的东西。"
+    },
+    {
+      "id": 120,
+      "en": "Alright, so you catch a cold.",
+      "cn": "好的，所以你感冒了。"
+    },
+    {
+      "id": 121,
+      "en": "What about the flu?",
+      "cn": "流感呢？"
+    },
+    {
+      "id": 122,
+      "en": "Do you get the flu or catch the flu?",
+      "cn": "你得流感还是感冒？"
+    },
+    {
+      "id": 123,
+      "en": "So you can't catch a flu, but you can't catch a cold.",
+      "cn": "所以你不能得流感，但你可以感冒。"
+    },
+    {
+      "id": 124,
+      "en": "Just remember this phrase, to catch a cold.",
+      "cn": "只需记住这个短语，感冒。"
+    },
+    {
+      "id": 125,
+      "en": "I caught the cold.",
+      "cn": "我感冒了。"
+    },
+    {
+      "id": 126,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 127,
+      "en": "To catch a cold, or I caught a cold.",
+      "cn": "感冒，或者我感冒了。"
+    },
+    {
+      "id": 128,
+      "en": "It's almost like if I have it, I can throw it to you Marco, and you catch it.",
+      "cn": "几乎就像如果我有它，我可以把它扔给你，马尔科，你接住它。"
+    },
+    {
+      "id": 129,
+      "en": "Right, because it's in the air, the virus.",
+      "cn": "对，因为它在空气中，病毒。"
+    },
+    {
+      "id": 130,
+      "en": "It passes very quickly.",
+      "cn": "它传播得很快。"
+    },
+    {
+      "id": 131,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 132,
+      "en": "So an interesting dialogue.",
+      "cn": "所以这是一个有趣的对话。"
+    },
+    {
+      "id": 133,
+      "en": "Let's listen to it one last time.",
+      "cn": "让我们最后再听一遍。"
+    },
+    {
+      "id": 134,
+      "en": "It's freezing in here.",
+      "cn": "这里太冷了。"
+    },
+    {
+      "id": 135,
+      "en": "Can I turn up the heat?",
+      "cn": "我可以调高热量吗？"
+    },
+    {
+      "id": 136,
+      "en": "Don't touch that thermostat.",
+      "cn": "不要碰那个恒温器。"
+    },
+    {
+      "id": 137,
+      "en": "You don't pay the bills around here.",
+      "cn": "你不支付这里的账单。"
+    },
+    {
+      "id": 138,
+      "en": "Dad, are you serious?",
+      "cn": "爸爸，你是认真的吗？"
+    },
+    {
+      "id": 139,
+      "en": "What's the point of having central heating if we can't use it?",
+      "cn": "如果我们不能使用中央供暖，那有什么意义？"
+    },
+    {
+      "id": 140,
+      "en": "Look, I can see my breath.",
+      "cn": "看，我能看到我的呼吸。"
+    },
+    {
+      "id": 141,
+      "en": "Put on a sweater.",
+      "cn": "穿上毛衣。"
+    },
+    {
+      "id": 142,
+      "en": "I'm not going to let you run up my heating bill, just because it's a bit chilly.",
+      "cn": "我不想让你增加我的取暖账单，仅仅因为有点冷。"
+    },
+    {
+      "id": 143,
+      "en": "Dad, I'm going to catch a cold.",
+      "cn": "爸爸，我要感冒了。"
+    },
+    {
+      "id": 144,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "cn": "当我和你同龄时，我的父母没有像你们那样的中央供暖。"
+    },
+    {
+      "id": 145,
+      "en": "We had a furnace in the center of the living room, and that was it.",
+      "cn": "我们在客厅中间有一个炉子，仅此而已。"
+    },
+    {
+      "id": 146,
+      "en": "We used it to cook, heat the house, and even dry our clothes.",
+      "cn": "我们用它来做饭、加热房子，甚至晾衣服。"
+    },
+    {
+      "id": 147,
+      "en": "We never caught a cold.",
+      "cn": "我们从未感冒。"
+    },
+    {
+      "id": 148,
+      "en": "You should be grateful.",
+      "cn": "你应该感恩。"
+    },
+    {
+      "id": 149,
+      "en": "Alright, we're back, and well you mentioned about thermostat and your dad actually controlling the heating at home.",
+      "cn": "好的，我们回来了，你提到了恒温器，你爸爸实际上在家里控制供暖。"
+    },
+    {
+      "id": 150,
+      "en": "Was this the case like this, in this scenario?",
+      "cn": "在这种情况下是这样吗？"
+    },
+    {
+      "id": 151,
+      "en": "It was sometimes we'd have to wear more clothes because we didn't want to run up the bill.",
+      "cn": "有时我们不得不穿更多的衣服，因为我们不想增加账单。"
+    },
+    {
+      "id": 152,
+      "en": "But we had a special situation in my house because I'm from Chicago and it's very cold in the winters in Chicago, but we had a fireplace.",
+      "cn": "但我们家有特殊情况，因为我来自芝加哥，芝加哥的冬天非常冷，但我们有一个壁炉。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, so even if it was very cold, we always had firewood, and we could put on the fire in the fireplace to keep warm so everyone would stay in the living room and read and listen to music and just, you know, relax.",
+      "cn": "好的，即使很冷，我们总是有木柴，我们可以在壁炉里生火取暖，所以大家都会待在客厅里看书、听音乐，放松一下。"
+    },
+    {
+      "id": 154,
+      "en": "Now I heard that because when you're burning wood, it causes some pollution.",
+      "cn": "现在我听说因为燃烧木材会造成一些污染。"
+    },
+    {
+      "id": 155,
+      "en": "In some cities it's banned, right?",
+      "cn": "在一些城市是禁止的，对吗？"
+    },
+    {
+      "id": 156,
+      "en": "To actually turn on or to have a fireplace.",
+      "cn": "实际上开启或拥有壁炉。"
+    },
+    {
+      "id": 157,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 158,
+      "en": "But in Chicago you can still do it.",
+      "cn": "但在芝加哥你仍然可以这样做。"
+    },
+    {
+      "id": 159,
+      "en": "Absolutely, and in most of the states you can.",
+      "cn": "绝对可以，在大多数州也是可以的。"
+    },
+    {
+      "id": 160,
+      "en": "Although a lot of people in new houses, they don't have real fireplaces, they have electric fireplaces.",
+      "cn": "尽管很多新房子没有真正的壁炉，他们有电壁炉。"
+    },
+    {
+      "id": 161,
+      "en": "And so you can use a light switch to turn on your fire.",
+      "cn": "所以你可以用开关来点燃你的火。"
+    },
+    {
+      "id": 162,
+      "en": "It's not a real fire, it's just a glowing light.",
+      "cn": "这不是一个真正的火，只是一个发光的灯。"
+    },
+    {
+      "id": 163,
+      "en": "Alright, well, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 164,
+      "en": "This is an interesting lesson, especially because the winter season is coming up and, well, everyone is cold, so we hope you enjoyed it, and if you have any questions, any doubts, you can come to our website, EnglishPod.com.",
+      "cn": "这是一个有趣的课程，特别是因为冬季即将来临，大家都很冷，所以我们希望你喜欢，如果你有任何问题或疑虑，可以访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 165,
+      "en": "We hope to see you there, happy studies, and stay warm!",
+      "cn": "我们希望在那见到你，祝你学习愉快，保持温暖！"
+    },
+    {
+      "id": 166,
+      "en": "Bye everyone!",
+      "cn": "大家再见！"
+    }
+  ]
+}
