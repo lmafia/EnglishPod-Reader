@@ -1,0 +1,1579 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0043",
+  "title": "EnglishPod 中级 0043",
+  "totalSegments": 314,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be talking about a very special topic.",
+      "cn": "今天我们要讨论一个非常特别的话题。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "This topic was actually suggested by one of our listeners.",
+      "cn": "这个话题实际上是由我们的听众建议的。"
+    },
+    {
+      "id": 8,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 9,
+      "en": "So keep those comments coming because we want to create lessons that you need, that you want.",
+      "cn": "所以请继续发送评论，因为我们想创建你们需要和想要的课程。"
+    },
+    {
+      "id": 10,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 11,
+      "en": "So what are we talking about today?",
+      "cn": "那么今天我们要讨论什么呢？"
+    },
+    {
+      "id": 12,
+      "en": "Today's lesson is about applying for a visa.",
+      "cn": "今天的课程是关于申请签证的。"
+    },
+    {
+      "id": 13,
+      "en": "A very, very important topic.",
+      "cn": "一个非常非常重要的话题。"
+    },
+    {
+      "id": 14,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 15,
+      "en": "And specifically it's about a visa interview.",
+      "cn": "具体来说是关于签证面试。"
+    },
+    {
+      "id": 16,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 17,
+      "en": "As you all probably know, when you apply for a visa, especially for the U.S., you have an interview.",
+      "cn": "正如你们可能知道的，当你申请签证时，特别是美国的签证，你会有一个面试。"
+    },
+    {
+      "id": 18,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 19,
+      "en": "Where you have to answer some questions.",
+      "cn": "你需要回答一些问题。"
+    },
+    {
+      "id": 20,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 21,
+      "en": "And that's what we're going to be talking about today.",
+      "cn": "这就是我们今天要讨论的内容。"
+    },
+    {
+      "id": 22,
+      "en": "So before we jump into the dialogue, let's take a look at vocabulary preview.",
+      "cn": "所以在我们进入对话之前，让我们先看看词汇预览。"
+    },
+    {
+      "id": 23,
+      "en": "Okay, so let's talk about visa.",
+      "cn": "好的，我们来谈谈签证。"
+    },
+    {
+      "id": 24,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 25,
+      "en": "A visa, it's not a credit card.",
+      "cn": "签证，不是信用卡。"
+    },
+    {
+      "id": 26,
+      "en": "No, not visa or MasterCard.",
+      "cn": "不是Visa或MasterCard。"
+    },
+    {
+      "id": 27,
+      "en": "No.",
+      "cn": "不是。"
+    },
+    {
+      "id": 28,
+      "en": "So a visa is an official document that you get in your passport that allows you to travel legally to a country.",
+      "cn": "签证是你在护照中获得的官方文件，允许你合法地前往一个国家。"
+    },
+    {
+      "id": 29,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 30,
+      "en": "So with this document, you can go into a country.",
+      "cn": "有了这个文件，你可以进入一个国家。"
+    },
+    {
+      "id": 31,
+      "en": "Okay, so we have different types of visas.",
+      "cn": "好的，我们有不同类型的签证。"
+    },
+    {
+      "id": 32,
+      "en": "Today we're going to be talking about a B2 visa.",
+      "cn": "今天我们要讨论的是B2签证。"
+    },
+    {
+      "id": 33,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 34,
+      "en": "A B2 visa is a tourist visa.",
+      "cn": "B2签证是旅游签证。"
+    },
+    {
+      "id": 35,
+      "en": "Tourist visa.",
+      "cn": "旅游签证。"
+    },
+    {
+      "id": 36,
+      "en": "This is only for the United States.",
+      "cn": "这仅适用于美国。"
+    },
+    {
+      "id": 37,
+      "en": "Other countries may have different classifications for their visas, but B2 is for the United States.",
+      "cn": "其他国家可能对他们的签证有不同的分类，但B2是针对美国的。"
+    },
+    {
+      "id": 38,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 39,
+      "en": "So Marco, we use a tourist visa when we want to be a tourist and just travel in the U.S.",
+      "cn": "所以Marco，我们在想成为游客并在美国旅行时使用旅游签证。"
+    },
+    {
+      "id": 40,
+      "en": "What about a resident visa?",
+      "cn": "那么居民签证呢？"
+    },
+    {
+      "id": 41,
+      "en": "Well, you can have a temporary resident visa.",
+      "cn": "嗯，你可以拥有临时居民签证。"
+    },
+    {
+      "id": 42,
+      "en": "Like for example, an F1.",
+      "cn": "比如说，F1签证。"
+    },
+    {
+      "id": 43,
+      "en": "An F1 is for foreign exchange students who go and live in the States maybe for a year or do a MBA for two years or three years.",
+      "cn": "F1签证是给去美国生活的外国交换学生，可能是一年，或者读MBA两年或三年。"
+    },
+    {
+      "id": 44,
+      "en": "So that's an F1 visa.",
+      "cn": "所以这就是F1签证。"
+    },
+    {
+      "id": 45,
+      "en": "You can also get a J1 visa, which is a temporary exchange visitor.",
+      "cn": "你还可以获得J1签证，这是临时交流访问者签证。"
+    },
+    {
+      "id": 46,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 47,
+      "en": "So it could be to maybe do some temporary work for two or three months and then go back to your country.",
+      "cn": "所以这可能是做一些临时工作两三个月，然后回到你的国家。"
+    },
+    {
+      "id": 48,
+      "en": "So basically, a resident visa allows you to live in that country.",
+      "cn": "所以基本上，居民签证允许你在那个国家生活。"
+    },
+    {
+      "id": 49,
+      "en": "Yeah, you can live in that country legally for a determined time.",
+      "cn": "是的，你可以在那个国家合法地生活一段时间。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so let's listen to our dialogue.",
+      "cn": "好的，让我们来听听我们的对话。"
+    },
+    {
+      "id": 51,
+      "en": "Where are we going to be exactly?",
+      "cn": "我们将在哪里？"
+    },
+    {
+      "id": 52,
+      "en": "In this dialogue, we're going to hear two people.",
+      "cn": "在这个对话中，我们将听到两个人。"
+    },
+    {
+      "id": 53,
+      "en": "A visa officer and a person who's applying for the visa.",
+      "cn": "一位签证官和一位申请签证的人。"
+    },
+    {
+      "id": 54,
+      "en": "Now, the person who's applying for the visa has an accent, right?",
+      "cn": "现在，申请签证的人有口音，对吗？"
+    },
+    {
+      "id": 55,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 56,
+      "en": "But this is really good practice for helping you to understand people with different accents.",
+      "cn": "但这实际上是很好的练习，帮助你理解不同口音的人。"
+    },
+    {
+      "id": 57,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 58,
+      "en": "So let's listen to the dialogue and then we'll come back and explain all the great vocabulary.",
+      "cn": "所以让我们听听对话，然后我们会回来解释所有的好词汇。"
+    },
+    {
+      "id": 59,
+      "en": "So you're applying for a B2 visa.",
+      "cn": "所以你正在申请B2签证。"
+    },
+    {
+      "id": 60,
+      "en": "Where's your final destination and what's the purpose of your trip to the United States?",
+      "cn": "你的最终目的地在哪里，你去美国的目的是什么？"
+    },
+    {
+      "id": 61,
+      "en": "I'm going to visit my brother.",
+      "cn": "我去看我的兄弟。"
+    },
+    {
+      "id": 62,
+      "en": "He's just had a baby.",
+      "cn": "他刚刚有了一个宝宝。"
+    },
+    {
+      "id": 63,
+      "en": "He lives in Minneapolis.",
+      "cn": "他住在明尼阿波利斯。"
+    },
+    {
+      "id": 64,
+      "en": "And how long do you plan to remain in the United States?",
+      "cn": "你计划在美国待多久？"
+    },
+    {
+      "id": 65,
+      "en": "I'll be here for approximately three weeks.",
+      "cn": "我将在这里大约三周。"
+    },
+    {
+      "id": 66,
+      "en": "So here's my return ticket for the 26th of March.",
+      "cn": "这是我3月26日的返程票。"
+    },
+    {
+      "id": 67,
+      "en": "And who's sponsoring your trip?",
+      "cn": "谁赞助你的旅行？"
+    },
+    {
+      "id": 68,
+      "en": "My brother.",
+      "cn": "我兄弟。"
+    },
+    {
+      "id": 69,
+      "en": "Here.",
+      "cn": "这是他的邀请信。"
+    },
+    {
+      "id": 70,
+      "en": "This is an invitation letter from him.",
+      "cn": "我会和他及他的家人在他们的家里住。"
+    },
+    {
+      "id": 71,
+      "en": "I will stay with him and his family in their home.",
+      "cn": "好吧，告诉我关于房子的事。"
+    },
+    {
+      "id": 72,
+      "en": "Alright, tell me about the house.",
+      "cn": "实际上，我把我的狗留在邻居那里。"
+    },
+    {
+      "id": 73,
+      "en": "Actually, I'm leaving my dog there with my neighbors.",
+      "cn": "我家有一辆车。"
+    },
+    {
+      "id": 74,
+      "en": "I have a car at home.",
+      "cn": "我知道我的工作。"
+    },
+    {
+      "id": 75,
+      "en": "I know my job.",
+      "cn": "我在Tornel工作，担任工程师。"
+    },
+    {
+      "id": 76,
+      "en": "I'm employed by Tornel as an engineer.",
+      "cn": "实际上，我只有三周的假期。"
+    },
+    {
+      "id": 77,
+      "en": "Actually, I only have three week vacation.",
+      "cn": "所以我必须在三月底回去工作。"
+    },
+    {
+      "id": 78,
+      "en": "So I have to go back to work at the end of March.",
+      "cn": "你有什么证据证明你经济独立？"
+    },
+    {
+      "id": 79,
+      "en": "And what evidence do you have that you are financially independent?",
+      "cn": "嗯，我在我的国家有资产。"
+    },
+    {
+      "id": 80,
+      "en": "Well, I do have assets in my country.",
+      "cn": "就像我说的，我拥有一栋房子，看看，这是显示我的投资和银行余额的银行对账单。"
+    },
+    {
+      "id": 81,
+      "en": "Like I said, I own a house and see, here's a bank statement showing my investments and my bank balance.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 82,
+      "en": "I'm sorry, sir.",
+      "cn": "我们现在无法授予你B2签证。"
+    },
+    {
+      "id": 83,
+      "en": "We cannot Grant you a B2 visa at this time.",
+      "cn": "相反，你获得了居民签证！"
+    },
+    {
+      "id": 84,
+      "en": "Instead, you are granted a resident visa!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 85,
+      "en": "Congratulations!",
+      "cn": "你是第百万个申请签证的人！"
+    },
+    {
+      "id": 86,
+      "en": "You are the millionth person to apply for a visa!",
+      "cn": "你赢了！"
+    },
+    {
+      "id": 87,
+      "en": "You win!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 88,
+      "en": "Congratulations!",
+      "cn": "好吧，真是个幸运的人。"
+    },
+    {
+      "id": 89,
+      "en": "Alright, what a lucky guy.",
+      "cn": "他申请了旅游签证，现在得到了居民签证。"
+    },
+    {
+      "id": 90,
+      "en": "He applied for a tourist visa and now he's getting a resident visa.",
+      "cn": "是的，太好了。"
+    },
+    {
+      "id": 91,
+      "en": "Yeah, that's great.",
+      "cn": "但这真的会发生吗？"
+    },
+    {
+      "id": 92,
+      "en": "But does this really happen?",
+      "cn": "不。"
+    },
+    {
+      "id": 93,
+      "en": "No.",
+      "cn": "不，不，这在领事馆是绝对不会发生的。"
+    },
+    {
+      "id": 94,
+      "en": "No, no, that would never happen at a consulate.",
+      "cn": "好吧，我们可以梦想这可能会发生在我们身上。"
+    },
+    {
+      "id": 95,
+      "en": "Okay, well, we can dream that this might happen for us.",
+      "cn": "是的，确切地说。"
+    },
+    {
+      "id": 96,
+      "en": "Yeah, exactly.",
+      "cn": "好吧，让我们看看今天的语言收获中的单词。"
+    },
+    {
+      "id": 97,
+      "en": "Alright, let's take a look at the words in language takeaway today.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 98,
+      "en": "Language takeaway.",
+      "cn": "好吧，在语言收获中我们有赞助。"
+    },
+    {
+      "id": 99,
+      "en": "Alright, on language takeaway we have sponsoring.",
+      "cn": "赞助。"
+    },
+    {
+      "id": 101,
+      "en": "Sponsoring.",
+      "cn": "赞助。"
+    },
+    {
+      "id": 102,
+      "en": "Sponsoring.",
+      "cn": "赞助。"
+    },
+    {
+      "id": 103,
+      "en": "So Erica, what does it mean to sponsor somebody?",
+      "cn": "所以，Erica，赞助某人是什么意思？"
+    },
+    {
+      "id": 104,
+      "en": "When you sponsor somebody for a visa, you take care of them and make sure they have enough money.",
+      "cn": "当你为某人申请签证时，你要照顾他们并确保他们有足够的钱。"
+    },
+    {
+      "id": 105,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 106,
+      "en": "So you are the one who's responsible for all of their expenses and making sure they just have enough money.",
+      "cn": "所以你是负责他们所有费用的人，确保他们有足够的钱。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, so for example, when I was 16, I made a trip to another country and my parents were my sponsors.",
+      "cn": "好的，比如说，当我16岁时，我去另一个国家旅行，我的父母是我的赞助人。"
+    },
+    {
+      "id": 108,
+      "en": "So they took responsibility for your money.",
+      "cn": "所以他们对你的钱负责。"
+    },
+    {
+      "id": 109,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 110,
+      "en": "Okay, let's look at our next word.",
+      "cn": "好的，让我们看看下一个词。"
+    },
+    {
+      "id": 111,
+      "en": "Invitation letter.",
+      "cn": "邀请信。"
+    },
+    {
+      "id": 112,
+      "en": "Invitation letter.",
+      "cn": "邀请信。"
+    },
+    {
+      "id": 113,
+      "en": "Invitation letter.",
+      "cn": "邀请信。"
+    },
+    {
+      "id": 114,
+      "en": "Invitation letter.",
+      "cn": "邀请信。"
+    },
+    {
+      "id": 115,
+      "en": "Now this is a really important part for a visa application.",
+      "cn": "这是签证申请中非常重要的一部分。"
+    },
+    {
+      "id": 116,
+      "en": "Yes, very important.",
+      "cn": "是的，非常重要。"
+    },
+    {
+      "id": 117,
+      "en": "What is an invitation letter?",
+      "cn": "什么是邀请信？"
+    },
+    {
+      "id": 118,
+      "en": "Well, an invitation letter is a formal letter that a friend or a relative or maybe a business writes to ask you to come to their country.",
+      "cn": "邀请信是朋友、亲戚或商业伙伴写的正式信件，邀请你来他们的国家。"
+    },
+    {
+      "id": 119,
+      "en": "Exactly, so you are being invited for a specific purpose to the United States.",
+      "cn": "正是如此，你是为了特定目的被邀请到美国的。"
+    },
+    {
+      "id": 120,
+      "en": "Yeah, and you have to give this letter to the visa officer.",
+      "cn": "是的，你必须把这封信交给签证官。"
+    },
+    {
+      "id": 121,
+      "en": "Okay, invitation letter.",
+      "cn": "好的，邀请信。"
+    },
+    {
+      "id": 122,
+      "en": "Our next word, ties.",
+      "cn": "我们下一个词，联系。"
+    },
+    {
+      "id": 123,
+      "en": "Ties.",
+      "cn": "联系。"
+    },
+    {
+      "id": 124,
+      "en": "Ties.",
+      "cn": "联系。"
+    },
+    {
+      "id": 125,
+      "en": "Ties.",
+      "cn": "联系。"
+    },
+    {
+      "id": 126,
+      "en": "Looks exactly like tie, like the one you wear in your suit.",
+      "cn": "看起来就像你在西装上穿的领带。"
+    },
+    {
+      "id": 127,
+      "en": "Not quite the same though.",
+      "cn": "但不完全一样。"
+    },
+    {
+      "id": 128,
+      "en": "Alright, so what are ties?",
+      "cn": "好吧，联系是什么？"
+    },
+    {
+      "id": 129,
+      "en": "The ties you have to your country are the things that keep you attached to your country.",
+      "cn": "你与自己国家的联系是让你与国家保持联系的事物。"
+    },
+    {
+      "id": 130,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 131,
+      "en": "That make sure that you will return to your country.",
+      "cn": "确保你会回到自己的国家。"
+    },
+    {
+      "id": 132,
+      "en": "Okay, so what are some examples of ties?",
+      "cn": "好的，那么联系的例子有哪些？"
+    },
+    {
+      "id": 133,
+      "en": "Like maybe a house or a wife or a child or maybe some money in your bank account.",
+      "cn": "比如说，房子、妻子、孩子，或者银行账户里的钱。"
+    },
+    {
+      "id": 134,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 135,
+      "en": "Or a job even.",
+      "cn": "甚至是工作。"
+    },
+    {
+      "id": 136,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 137,
+      "en": "Okay, perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 138,
+      "en": "Yeah, a good way to think of this is imagine like a rope that's attached to you and tying you to your country, to your house, to your job, to your kids.",
+      "cn": "是的，想象一下有一根绳子把你绑在你的国家、房子、工作和孩子上。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so you can't run away.",
+      "cn": "好的，所以你不能逃跑。"
+    },
+    {
+      "id": 140,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 141,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 142,
+      "en": "Okay, that was clear but let's listen to some more examples of how we would use ties.",
+      "cn": "好的，这很清楚，但让我们听听更多关于如何使用联系的例子。"
+    },
+    {
+      "id": 143,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 144,
+      "en": "I sold my house and closed my bank account.",
+      "cn": "我卖掉了我的房子，关闭了我的银行账户。"
+    },
+    {
+      "id": 145,
+      "en": "I don't have any more ties to my home country.",
+      "cn": "我与我的祖国没有任何联系。"
+    },
+    {
+      "id": 146,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 147,
+      "en": "Alvin enjoyed being single.",
+      "cn": "Alvin享受单身生活。"
+    },
+    {
+      "id": 148,
+      "en": "He wasn't ready for the ties of family life.",
+      "cn": "他还没有准备好承担家庭生活的联系。"
+    },
+    {
+      "id": 149,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 150,
+      "en": "Diplomatic relations have improved and the ties between the two countries are stronger.",
+      "cn": "外交关系改善，两国之间的联系更强。"
+    },
+    {
+      "id": 151,
+      "en": "Alright, it's clear now.",
+      "cn": "好吧，现在很清楚了。"
+    },
+    {
+      "id": 152,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 153,
+      "en": "Let's look at our next word.",
+      "cn": "让我们看看下一个词。"
+    },
+    {
+      "id": 154,
+      "en": "Financially independent.",
+      "cn": "财务独立。"
+    },
+    {
+      "id": 155,
+      "en": "Financially independent.",
+      "cn": "财务独立。"
+    },
+    {
+      "id": 156,
+      "en": "Financially independent.",
+      "cn": "财务独立。"
+    },
+    {
+      "id": 157,
+      "en": "Financially independent.",
+      "cn": "财务独立。"
+    },
+    {
+      "id": 158,
+      "en": "So that means that you don't need anyone.",
+      "cn": "这意味着你不需要任何人。"
+    },
+    {
+      "id": 159,
+      "en": "That you have enough money.",
+      "cn": "你有足够的钱。"
+    },
+    {
+      "id": 160,
+      "en": "You have enough money for yourself.",
+      "cn": "你有足够的钱供自己使用。"
+    },
+    {
+      "id": 161,
+      "en": "Right, so you don't have to ask your parents to pay for your ticket or pay for your food or whatever.",
+      "cn": "对，所以你不必问父母为你的机票、食物或其他费用买单。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, and our last word for today.",
+      "cn": "好的，今天的最后一个词。"
+    },
+    {
+      "id": 163,
+      "en": "Assets.",
+      "cn": "资产。"
+    },
+    {
+      "id": 164,
+      "en": "Assets.",
+      "cn": "资产。"
+    },
+    {
+      "id": 165,
+      "en": "Assets.",
+      "cn": "资产。"
+    },
+    {
+      "id": 166,
+      "en": "Assets.",
+      "cn": "资产。"
+    },
+    {
+      "id": 167,
+      "en": "Okay, so your assets are kind of like your ties.",
+      "cn": "好的，你的资产有点像你的联系。"
+    },
+    {
+      "id": 168,
+      "en": "Right, there are things of value that you own.",
+      "cn": "对，它们是你拥有的有价值的东西。"
+    },
+    {
+      "id": 169,
+      "en": "Things that are expensive that you own in your home country.",
+      "cn": "你在祖国拥有的昂贵物品。"
+    },
+    {
+      "id": 170,
+      "en": "So it would be a house.",
+      "cn": "比如一栋房子。"
+    },
+    {
+      "id": 171,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 172,
+      "en": "A car.",
+      "cn": "一辆车。"
+    },
+    {
+      "id": 173,
+      "en": "Yep, maybe stocks.",
+      "cn": "是的，也许是股票。"
+    },
+    {
+      "id": 174,
+      "en": "Stocks.",
+      "cn": "股票。"
+    },
+    {
+      "id": 175,
+      "en": "Or investments.",
+      "cn": "或投资。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, so all of those things are your assets.",
+      "cn": "好的，这些都是你的资产。"
+    },
+    {
+      "id": 177,
+      "en": "Okay, so we've seen a lot of great words and I think it's time for us to listen to our dialogue again.",
+      "cn": "好的，我们已经看到了很多很棒的词，我想是时候再听一遍我们的对话了。"
+    },
+    {
+      "id": 178,
+      "en": "We're gonna slow it down for you.",
+      "cn": "我们会为你放慢速度。"
+    },
+    {
+      "id": 179,
+      "en": "Yeah, this will help you understand it a little bit better.",
+      "cn": "是的，这会帮助你更好地理解。"
+    },
+    {
+      "id": 180,
+      "en": "So you're applying for a B-2 visa.",
+      "cn": "所以你正在申请B-2签证。"
+    },
+    {
+      "id": 181,
+      "en": "Where is your final destination and what is the purpose of your trip to the United States?",
+      "cn": "你的最终目的地是哪里，去美国的目的是什么？"
+    },
+    {
+      "id": 182,
+      "en": "I'm going to visit my brother.",
+      "cn": "我去看我的兄弟。"
+    },
+    {
+      "id": 183,
+      "en": "He's just had a baby.",
+      "cn": "他刚刚有了一个宝宝。"
+    },
+    {
+      "id": 184,
+      "en": "He lives in Minneapolis.",
+      "cn": "他住在明尼阿波利斯。"
+    },
+    {
+      "id": 185,
+      "en": "And how long do you plan to remain in the United States?",
+      "cn": "你计划在美国待多久？"
+    },
+    {
+      "id": 186,
+      "en": "I'll be here for approximately three weeks.",
+      "cn": "我将在这里待大约三周。"
+    },
+    {
+      "id": 187,
+      "en": "See, here's my return ticket for the 26th of This is an invitation letter from him.",
+      "cn": "看，这里是我26号的返程票。这是他的邀请信。"
+    },
+    {
+      "id": 188,
+      "en": "I'll stay with him and his family in their home.",
+      "cn": "我会和他及他的家人在他们的家里住。"
+    },
+    {
+      "id": 189,
+      "en": "All right, tell me about the ties you have to your home country.",
+      "cn": "好的，告诉我你与祖国的联系。"
+    },
+    {
+      "id": 190,
+      "en": "Well, I own a house.",
+      "cn": "嗯，我拥有一栋房子。"
+    },
+    {
+      "id": 191,
+      "en": "Actually, I'm leaving my dog there with my neighbors.",
+      "cn": "实际上，我把我的狗留在那儿，和我的邻居在一起。"
+    },
+    {
+      "id": 192,
+      "en": "I have a car at home and, oh, my job.",
+      "cn": "我在家有一辆车，还有，我的工作。"
+    },
+    {
+      "id": 193,
+      "en": "I'm employed by Cornell as an engineer.",
+      "cn": "我在康奈尔大学担任工程师。"
+    },
+    {
+      "id": 194,
+      "en": "Actually, I only have three weeks vacation, so I have to go back to work at the end of March.",
+      "cn": "实际上，我只有三周的假期，所以我必须在三月底回去工作。"
+    },
+    {
+      "id": 195,
+      "en": "And what evidence do you have that you are financially independent?",
+      "cn": "你有什么证据证明你是财务独立的？"
+    },
+    {
+      "id": 196,
+      "en": "Well, I do have assets in my country.",
+      "cn": "嗯，我在我的国家有资产。"
+    },
+    {
+      "id": 197,
+      "en": "Like I said, I own a house.",
+      "cn": "就像我说的，我拥有一栋房子。"
+    },
+    {
+      "id": 198,
+      "en": "And see, here's a bank statement showing my investments and my bank balance.",
+      "cn": "你看，这里有一份银行对账单，显示我的投资和银行余额。"
+    },
+    {
+      "id": 199,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 200,
+      "en": "We cannot Grant you a B-2 visa at this time.",
+      "cn": "我们目前无法授予你B-2签证。"
+    },
+    {
+      "id": 201,
+      "en": "Instead, you are granted a resident visa!",
+      "cn": "相反，您获得了居民签证！"
+    },
+    {
+      "id": 202,
+      "en": "Congratulations!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 203,
+      "en": "You are the millionth person to apply for a visa!",
+      "cn": "您是第百万个申请签证的人！"
+    },
+    {
+      "id": 204,
+      "en": "You win!",
+      "cn": "您赢了！"
+    },
+    {
+      "id": 205,
+      "en": "Congratulations!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 206,
+      "en": "Yayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.",
+      "cn": "耶！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！"
+    },
+    {
+      "id": 207,
+      "en": "Okay, today we're not going to do our regular toolkit like Fluency Builder or putting it together.",
+      "cn": "好吧，今天我们不打算做常规的工具包，比如流利构建或组合。"
+    },
+    {
+      "id": 208,
+      "en": "No, we're going to do something a little bit different today.",
+      "cn": "不，我们今天要做一些不同的事情。"
+    },
+    {
+      "id": 209,
+      "en": "We're going to talk about the questions you will probably be asked at an interview for a U.S.",
+      "cn": "我们将讨论您在美国签证面试中可能被问到的问题。"
+    },
+    {
+      "id": 210,
+      "en": "visa.",
+      "cn": "是的。"
+    },
+    {
+      "id": 211,
+      "en": "Yes.",
+      "cn": "以及您可以用来很好地回答这些问题的有用语言。"
+    },
+    {
+      "id": 212,
+      "en": "And the useful language that you can use to answer these questions in a good way.",
+      "cn": "好吧，让我们看看第一个问题。"
+    },
+    {
+      "id": 214,
+      "en": "Where is your final destination and what is the purpose of your trip to the United States?",
+      "cn": "您的最终目的地在哪里，您去美国的目的是什么？"
+    },
+    {
+      "id": 215,
+      "en": "Where is your final destination and what is the purpose of your trip to the United States?",
+      "cn": "您的最终目的地在哪里，您去美国的目的是什么？"
+    },
+    {
+      "id": 216,
+      "en": "So this is probably going to be the first question the interviewer is going to ask you.",
+      "cn": "所以这可能是面试官问的第一个问题。"
+    },
+    {
+      "id": 217,
+      "en": "Yeah, so Marco, I know you have a lot of experience with U.S.",
+      "cn": "是的，Marco，我知道你在美国签证方面有很多经验。"
+    },
+    {
+      "id": 218,
+      "en": "visas.",
+      "cn": "我们应该如何回答这个问题？"
+    },
+    {
+      "id": 219,
+      "en": "How should we answer this question?",
+      "cn": "嗯，这取决于你在做什么，对吧？"
+    },
+    {
+      "id": 220,
+      "en": "Well, it depends on what you're doing, right?",
+      "cn": "对。"
+    },
+    {
+      "id": 222,
+      "en": "So if you're a tourist, you would say, I'm going on vacation to New York or anywhere.",
+      "cn": "所以如果你是游客，你会说，我要去纽约或其他地方度假。"
+    },
+    {
+      "id": 223,
+      "en": "Also, if you're visiting a family member, like in our dialogue, you would say, oh, I'm going to visit my sister or my brother or my cousin.",
+      "cn": "另外，如果你是去看家人，就像我们对话中提到的，你会说，哦，我要去看我的姐姐、兄弟或表亲。"
+    },
+    {
+      "id": 224,
+      "en": "If you're applying for a business visa, then you would say, oh, I'm going to visit a company or etc.",
+      "cn": "如果你申请的是商务签证，那么你会说，哦，我要去拜访一家公司等等。"
+    },
+    {
+      "id": 225,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 226,
+      "en": "So you just have to say why you are going to the states.",
+      "cn": "所以你只需要说你去美国的原因。"
+    },
+    {
+      "id": 227,
+      "en": "Now, is it important to be really specific?",
+      "cn": "现在，具体说明重要吗？"
+    },
+    {
+      "id": 228,
+      "en": "Yeah, the more specific you are, it's probably better.",
+      "cn": "是的，你越具体，可能会更好。"
+    },
+    {
+      "id": 229,
+      "en": "So if you can name the state and the city where you're going, it's much better.",
+      "cn": "所以如果你能说出你要去的州和城市，那就更好了。"
+    },
+    {
+      "id": 230,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 231,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 232,
+      "en": "Well, let's listen to our next question.",
+      "cn": "那么，让我们听听下一个问题。"
+    },
+    {
+      "id": 233,
+      "en": "How long do you plan to remain in the United States?",
+      "cn": "您计划在美国停留多久？"
+    },
+    {
+      "id": 234,
+      "en": "How long do you plan to remain in the United States?",
+      "cn": "您计划在美国停留多久？"
+    },
+    {
+      "id": 235,
+      "en": "Okay, so this is a really important question also, because in your application, you have to put how long you plan to stay in the US.",
+      "cn": "好吧，这也是一个非常重要的问题，因为在您的申请中，您必须填写计划在美国停留的时间。"
+    },
+    {
+      "id": 236,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 237,
+      "en": "It's a pretty straightforward answer.",
+      "cn": "这是一个相当直接的回答。"
+    },
+    {
+      "id": 238,
+      "en": "You know, two months, one month, three weeks.",
+      "cn": "你知道，两个月，一个月，三周。"
+    },
+    {
+      "id": 239,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 240,
+      "en": "But you just have to make sure that your answer matches what's written in your application form.",
+      "cn": "但你只需确保你的回答与申请表中所写的内容一致。"
+    },
+    {
+      "id": 241,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 242,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 243,
+      "en": "Okay, now let's take a look at our last question.",
+      "cn": "好吧，现在让我们看看最后一个问题。"
+    },
+    {
+      "id": 244,
+      "en": "Tell me about the ties you have to your home country.",
+      "cn": "请告诉我您与祖国的联系。"
+    },
+    {
+      "id": 245,
+      "en": "Tell me about the ties you have to your home country.",
+      "cn": "请告诉我您与祖国的联系。"
+    },
+    {
+      "id": 246,
+      "en": "Well, I think this is maybe the most important question that they'll ask you, right?",
+      "cn": "嗯，我认为这可能是他们问的最重要的问题，对吧？"
+    },
+    {
+      "id": 247,
+      "en": "Yeah, this is the most important question.",
+      "cn": "是的，这是最重要的问题。"
+    },
+    {
+      "id": 248,
+      "en": "This is what the interviewer is most interested in.",
+      "cn": "这是面试官最感兴趣的。"
+    },
+    {
+      "id": 249,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 250,
+      "en": "So why is he interested in this?",
+      "cn": "那么他为什么对此感兴趣？"
+    },
+    {
+      "id": 251,
+      "en": "Because he has to be sure that you will not become an illegal immigrant to the United States.",
+      "cn": "因为他必须确保你不会成为美国的非法移民。"
+    },
+    {
+      "id": 252,
+      "en": "So that you will return to your home country.",
+      "cn": "以便你会返回你的祖国。"
+    },
+    {
+      "id": 253,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 254,
+      "en": "He or she has to be convinced that you're going to return to your home country.",
+      "cn": "他或她必须确信你会返回你的祖国。"
+    },
+    {
+      "id": 255,
+      "en": "So how can you convince him?",
+      "cn": "那么你如何说服他呢？"
+    },
+    {
+      "id": 256,
+      "en": "Basically by demonstrating your ties.",
+      "cn": "基本上是通过展示你的联系。"
+    },
+    {
+      "id": 257,
+      "en": "So showing the things that will pull you back to your home country.",
+      "cn": "所以展示那些会把你拉回祖国的东西。"
+    },
+    {
+      "id": 258,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 259,
+      "en": "So if you take documents to support this, bank statements, maybe a copy of your mortgage.",
+      "cn": "所以如果你带上支持这一点的文件，银行对账单，也许是你的抵押贷款副本。"
+    },
+    {
+      "id": 260,
+      "en": "Yep, like maybe your wedding certificate.",
+      "cn": "是的，比如你的结婚证。"
+    },
+    {
+      "id": 261,
+      "en": "Wedding certificate.",
+      "cn": "结婚证。"
+    },
+    {
+      "id": 262,
+      "en": "I don't know, even a letter from your office, from your job.",
+      "cn": "我不知道，甚至是你办公室的信件，来自你的工作的信件。"
+    },
+    {
+      "id": 263,
+      "en": "So that shows that you have to return to your work.",
+      "cn": "这样可以表明你必须返回工作。"
+    },
+    {
+      "id": 264,
+      "en": "The more things you bring, the better.",
+      "cn": "你带的东西越多，越好。"
+    },
+    {
+      "id": 265,
+      "en": "Even though the interviewer might not ask for the documents.",
+      "cn": "即使面试官可能不会要求查看这些文件。"
+    },
+    {
+      "id": 266,
+      "en": "Okay, it's just it's better to be safe, right?",
+      "cn": "好吧，最好是安全一点，对吧？"
+    },
+    {
+      "id": 267,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 268,
+      "en": "So come with a huge file full of things.",
+      "cn": "所以带上一个装满东西的大文件夹。"
+    },
+    {
+      "id": 269,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 270,
+      "en": "I've had friends who've arrived to the embassy with a huge file of documents and weren't asked to show any of the documents.",
+      "cn": "我有朋友带着一大堆文件到大使馆，但没有被要求出示任何文件。"
+    },
+    {
+      "id": 271,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 272,
+      "en": "But other interviewers will maybe ask for it.",
+      "cn": "但其他面试官可能会要求。"
+    },
+    {
+      "id": 273,
+      "en": "Okay, so now let's listen to the dialogue again.",
+      "cn": "好吧，现在让我们再听一遍对话。"
+    },
+    {
+      "id": 274,
+      "en": "And you'll hear how our traveler answers these questions.",
+      "cn": "你将听到我们的旅行者如何回答这些问题。"
+    },
+    {
+      "id": 275,
+      "en": "So you're applying for a B2 visa.",
+      "cn": "所以你正在申请B2签证。"
+    },
+    {
+      "id": 276,
+      "en": "Where's your final destination and what's the purpose of your trip to the United States?",
+      "cn": "您的最终目的地在哪里，您去美国的目的是什么？"
+    },
+    {
+      "id": 277,
+      "en": "I'm going to visit my brother.",
+      "cn": "我去看我的兄弟。"
+    },
+    {
+      "id": 278,
+      "en": "He's just had a baby.",
+      "cn": "他刚刚有了一个宝宝。"
+    },
+    {
+      "id": 279,
+      "en": "He lives in Minneapolis.",
+      "cn": "他住在明尼阿波利斯。"
+    },
+    {
+      "id": 280,
+      "en": "And how long do you plan to remain in the United States?",
+      "cn": "您计划在美国停留多久？"
+    },
+    {
+      "id": 281,
+      "en": "I'll be here for approximately three weeks.",
+      "cn": "我将在这里大约三周。"
+    },
+    {
+      "id": 282,
+      "en": "So here's my return ticket for the 26th of March.",
+      "cn": "这是我3月26日的返程票。"
+    },
+    {
+      "id": 283,
+      "en": "And who's sponsoring your trip?",
+      "cn": "谁在赞助您的旅行？"
+    },
+    {
+      "id": 284,
+      "en": "My brother.",
+      "cn": "我兄弟。"
+    },
+    {
+      "id": 285,
+      "en": "Here.",
+      "cn": "这是他的邀请信。"
+    },
+    {
+      "id": 286,
+      "en": "This is an invitation letter from him.",
+      "cn": "我将和他及他的家人在他们的家中住。"
+    },
+    {
+      "id": 287,
+      "en": "I will stay with him and his family in their home.",
+      "cn": "好吧，请告诉我您与祖国的联系。"
+    },
+    {
+      "id": 289,
+      "en": "Well, I own a house.",
+      "cn": "嗯，我拥有一栋房子。"
+    },
+    {
+      "id": 290,
+      "en": "Actually, I'm leaving my dog there with my neighbors.",
+      "cn": "实际上，我把我的狗留在那儿，和我的邻居在一起。"
+    },
+    {
+      "id": 291,
+      "en": "I have a car at home.",
+      "cn": "我在家有一辆车。"
+    },
+    {
+      "id": 292,
+      "en": "I know my job.",
+      "cn": "我知道我的工作。"
+    },
+    {
+      "id": 293,
+      "en": "I'm employed by Tornel as an engineer.",
+      "cn": "我在Tornel担任工程师。"
+    },
+    {
+      "id": 294,
+      "en": "Actually, I only have three weeks vacation.",
+      "cn": "实际上，我只有三周的假期。"
+    },
+    {
+      "id": 295,
+      "en": "So I have to go back to work at the end of March.",
+      "cn": "所以我必须在三月底之前回去工作。"
+    },
+    {
+      "id": 296,
+      "en": "And what evidence do you have that you are financially independent?",
+      "cn": "你有什么证据证明你经济独立？"
+    },
+    {
+      "id": 297,
+      "en": "Well, I do have assets in my country.",
+      "cn": "嗯，我在我的国家有资产。"
+    },
+    {
+      "id": 298,
+      "en": "Like I said, I own a house.",
+      "cn": "就像我说的，我拥有一栋房子。"
+    },
+    {
+      "id": 299,
+      "en": "And see, here's a bank statement showing my investments and my bank balance.",
+      "cn": "你看，这里有一份银行对账单，显示我的投资和银行余额。"
+    },
+    {
+      "id": 300,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 301,
+      "en": "We cannot Grant you a B2 visa at this time.",
+      "cn": "我们目前无法给您发放B2签证。"
+    },
+    {
+      "id": 302,
+      "en": "Instead, you are granted a resident visa.",
+      "cn": "相反，您获得了居留签证。"
+    },
+    {
+      "id": 303,
+      "en": "Congratulations.",
+      "cn": "恭喜。"
+    },
+    {
+      "id": 304,
+      "en": "You are the millionth person to apply for a visa.",
+      "cn": "您是第百万个申请签证的人。"
+    },
+    {
+      "id": 305,
+      "en": "You win.",
+      "cn": "您赢了。"
+    },
+    {
+      "id": 306,
+      "en": "Congratulations.",
+      "cn": "恭喜。"
+    },
+    {
+      "id": 307,
+      "en": "Well, I hope this was a useful lesson for all of our listeners, because I'm sure that in one point or another, in the future, you're going to apply for a visa.",
+      "cn": "嗯，我希望这对我们所有的听众来说是一个有用的课程，因为我相信在未来的某个时刻，你们会申请签证。"
+    },
+    {
+      "id": 308,
+      "en": "So now you know all the language that you need to more or less answer all these questions that you're going to be asked.",
+      "cn": "所以现在你知道了回答这些问题所需的所有语言。"
+    },
+    {
+      "id": 309,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 310,
+      "en": "And Marco, I'm sure that people have already applied for visas for the US, right?",
+      "cn": "马尔科，我相信人们已经申请了美国的签证，对吧？"
+    },
+    {
+      "id": 311,
+      "en": "Probably, yeah.",
+      "cn": "可能是的。"
+    },
+    {
+      "id": 312,
+      "en": "And I want to hear from our users any stories that they have about applying for a visa.",
+      "cn": "我想听听我们的用户关于申请签证的故事。"
+    },
+    {
+      "id": 313,
+      "en": "Yeah, that would be great.",
+      "cn": "是的，那太好了。"
+    },
+    {
+      "id": 314,
+      "en": "I know that I have some stories to share on the comments board.",
+      "cn": "我知道我有一些故事可以在评论区分享。"
+    },
+    {
+      "id": 315,
+      "en": "And we want to hear your questions and comments and any suggestions.",
+      "cn": "我们想听听你的问题、评论和任何建议。"
+    },
+    {
+      "id": 316,
+      "en": "So visit our website at EnglishPod.com and Marco and I will be there to respond to you and answer your questions.",
+      "cn": "所以请访问我们的网站EnglishPod.com，马尔科和我会在那里回应你并回答你的问题。"
+    },
+    {
+      "id": 317,
+      "en": "Well, everyone, thanks for listening.",
+      "cn": "好吧，大家，谢谢你们的收听。"
+    },
+    {
+      "id": 318,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见， goodbye."
+    }
+  ]
+}

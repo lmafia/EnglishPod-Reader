@@ -1,0 +1,1224 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0201",
+  "title": "EnglishPod 中级 0201",
+  "totalSegments": 243,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine and welcome everyone.",
+      "cn": "我叫Catherine，欢迎大家。"
+    },
+    {
+      "id": 4,
+      "en": "Today we've got an elementary level lesson for you.",
+      "cn": "今天我们为你们准备了一节初级课程。"
+    },
+    {
+      "id": 5,
+      "en": "It's all about sending things through the mail.",
+      "cn": "主题是通过邮件发送物品。"
+    },
+    {
+      "id": 6,
+      "en": "That's right, so maybe gifts, maybe letters.",
+      "cn": "没错，可能是礼物，也可能是信件。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to the post office, so why don't we jump right into this dialogue.",
+      "cn": "我们要去邮局，所以我们直接进入对话吧。"
+    },
+    {
+      "id": 8,
+      "en": "Let's listen to it for the first time and we'll be right back.",
+      "cn": "让我们第一次听听，然后马上回来。"
+    },
+    {
+      "id": 9,
+      "en": "Hi, I would like to send this package to China and these postcards as well.",
+      "cn": "嗨，我想把这个包裹寄到中国，还有这些明信片。"
+    },
+    {
+      "id": 10,
+      "en": "Very well.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 11,
+      "en": "You will need some stamps for the postcards and I need to weigh that package too.",
+      "cn": "你需要一些明信片的邮票，我还需要称一下这个包裹。"
+    },
+    {
+      "id": 12,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 13,
+      "en": "How much is this going to cost?",
+      "cn": "这要多少钱？"
+    },
+    {
+      "id": 14,
+      "en": "Well, it depends.",
+      "cn": "嗯，这要看情况。"
+    },
+    {
+      "id": 15,
+      "en": "Do you want to send it via priority, express or standard mail?",
+      "cn": "你想通过优先、快递还是标准邮件寄送？"
+    },
+    {
+      "id": 16,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 17,
+      "en": "Well, standard mail can take up to 15 working days.",
+      "cn": "嗯，标准邮件可能需要15个工作日。"
+    },
+    {
+      "id": 18,
+      "en": "Priority is a bit faster and will arrive in about 5 to 8 working days.",
+      "cn": "优先邮件稍快，大约5到8个工作日到达。"
+    },
+    {
+      "id": 19,
+      "en": "Express is the fastest but it's also the most expensive.",
+      "cn": "快递是最快的，但也是最贵的。"
+    },
+    {
+      "id": 20,
+      "en": "It only takes 3 days and you can track your package on time.",
+      "cn": "只需3天，你可以实时追踪包裹。"
+    },
+    {
+      "id": 21,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 22,
+      "en": "Well, there's no rush.",
+      "cn": "嗯，不着急。"
+    },
+    {
+      "id": 23,
+      "en": "Please send it via priority mail.",
+      "cn": "请通过优先邮件寄送。"
+    },
+    {
+      "id": 24,
+      "en": "Please be extra careful.",
+      "cn": "请特别小心。"
+    },
+    {
+      "id": 25,
+      "en": "The contents of the package are fragile.",
+      "cn": "包裹内容很脆弱。"
+    },
+    {
+      "id": 26,
+      "en": "A postcard.",
+      "cn": "一张明信片。"
+    },
+    {
+      "id": 27,
+      "en": "Okay, so very popular among people who are traveling and they want to send a postcard back home.",
+      "cn": "好的，这在旅行的人中非常受欢迎，他们想寄一张明信片回家。"
+    },
+    {
+      "id": 28,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 29,
+      "en": "So a postcard is something that you usually buy at a tourist destination like Walt Disney World, for example, and it has a picture on the front and some words on the back.",
+      "cn": "所以明信片通常是在旅游目的地购买的，比如迪士尼乐园，正面有图片，背面有文字。"
+    },
+    {
+      "id": 30,
+      "en": "So you can write a letter on the back of this picture.",
+      "cn": "所以你可以在这张图片的背面写信。"
+    },
+    {
+      "id": 31,
+      "en": "So it's very simple.",
+      "cn": "所以这很简单。"
+    },
+    {
+      "id": 32,
+      "en": "It's not really a letter.",
+      "cn": "这并不是真正的信件。"
+    },
+    {
+      "id": 33,
+      "en": "You don't put it in an envelope.",
+      "cn": "你不需要把它放在信封里。"
+    },
+    {
+      "id": 34,
+      "en": "You just write whatever you want on the back of the postcard but you do have to put a stamp on it in order to send it.",
+      "cn": "你只需在明信片的背面写下你想写的内容，但你必须贴上邮票才能寄送。"
+    },
+    {
+      "id": 35,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 36,
+      "en": "So stamp is our next word.",
+      "cn": "所以邮票是我们的下一个词。"
+    },
+    {
+      "id": 37,
+      "en": "A stamp comes in different price ranges.",
+      "cn": "邮票有不同的价格范围。"
+    },
+    {
+      "id": 38,
+      "en": "That means that some stamps are more expensive than other stamps.",
+      "cn": "这意味着有些邮票比其他邮票贵。"
+    },
+    {
+      "id": 39,
+      "en": "This is like money for the mail.",
+      "cn": "这就像是邮寄的费用。"
+    },
+    {
+      "id": 40,
+      "en": "So you have to buy the stamps and in order to prove that you have paid for the letter that you want to send, you must place the stamps on the letter on the envelope or on the postcard.",
+      "cn": "所以你必须购买邮票，为了证明你已经支付了要寄送的信件，你必须把邮票贴在信件、信封或明信片上。"
+    },
+    {
+      "id": 41,
+      "en": "So depending on the size and weight, it costs more.",
+      "cn": "所以根据大小和重量，费用会更高。"
+    },
+    {
+      "id": 42,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 43,
+      "en": "And usually you lick a stamp to place it on the card so it doesn't fall off.",
+      "cn": "通常你需要舔一下邮票才能把它贴在卡片上，这样它才不会掉。"
+    },
+    {
+      "id": 44,
+      "en": "True.",
+      "cn": "确实。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "You got to lick it.",
+      "cn": "你得舔一下。"
+    },
+    {
+      "id": 47,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 48,
+      "en": "So as we talked about, a package can be a letter, a postcard.",
+      "cn": "正如我们所说，包裹可以是信件、明信片。"
+    },
+    {
+      "id": 49,
+      "en": "You place stamps on it and we need to weigh the package to know how much money we have to pay.",
+      "cn": "你在上面贴邮票，我们需要称一下包裹以知道要支付多少钱。"
+    },
+    {
+      "id": 50,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 51,
+      "en": "So sometimes a package is very heavy if it's filled with books, for example.",
+      "cn": "所以有时候包裹很重，比如装满书籍。"
+    },
+    {
+      "id": 52,
+      "en": "Sometimes it's very light if it's filled with clothes or feathers.",
+      "cn": "有时候很轻，比如装满衣服或羽毛。"
+    },
+    {
+      "id": 53,
+      "en": "And so to find out how much something weighs, we have to weigh it.",
+      "cn": "所以要找出某物的重量，我们必须称一下。"
+    },
+    {
+      "id": 54,
+      "en": "This is a verb.",
+      "cn": "这是一个动词。"
+    },
+    {
+      "id": 55,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 56,
+      "en": "So this is a verb, right?",
+      "cn": "所以这是一个动词，对吧？"
+    },
+    {
+      "id": 57,
+      "en": "To weigh.",
+      "cn": "称重。"
+    },
+    {
+      "id": 58,
+      "en": "So you want to know how many kilos or how many pounds this item has.",
+      "cn": "所以你想知道这个物品有多少公斤或多少磅。"
+    },
+    {
+      "id": 59,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 60,
+      "en": "So we could say, it weighs a lot.",
+      "cn": "所以我们可以说，它很重。"
+    },
+    {
+      "id": 61,
+      "en": "Or, how much do you weigh?",
+      "cn": "或者，你体重多少？"
+    },
+    {
+      "id": 62,
+      "en": "Things like this.",
+      "cn": "这样的事情。"
+    },
+    {
+      "id": 63,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 64,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 65,
+      "en": "Moving on, we have the different types of mailing speeds, I guess.",
+      "cn": "接下来，我们有不同类型的邮寄速度，我想。"
+    },
+    {
+      "id": 66,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 67,
+      "en": "So we saw three.",
+      "cn": "所以我们看到了三种。"
+    },
+    {
+      "id": 68,
+      "en": "Via priority mail, express mail, or standard mail.",
+      "cn": "通过优先邮件、快递邮件或标准邮件。"
+    },
+    {
+      "id": 69,
+      "en": "So let's go in parts.",
+      "cn": "所以我们分开来讲。"
+    },
+    {
+      "id": 70,
+      "en": "Let's go with the first one.",
+      "cn": "我们先讲第一个。"
+    },
+    {
+      "id": 71,
+      "en": "Via priority mail.",
+      "cn": "通过优先邮件。"
+    },
+    {
+      "id": 72,
+      "en": "Priority is fast.",
+      "cn": "优先邮件很快。"
+    },
+    {
+      "id": 73,
+      "en": "It means, priority is something that's important.",
+      "cn": "这意味着，优先是重要的事情。"
+    },
+    {
+      "id": 74,
+      "en": "So I have many priorities at work.",
+      "cn": "所以我在工作中有很多优先事项。"
+    },
+    {
+      "id": 75,
+      "en": "This means they're important.",
+      "cn": "这意味着它们很重要。"
+    },
+    {
+      "id": 76,
+      "en": "Very important.",
+      "cn": "非常重要。"
+    },
+    {
+      "id": 77,
+      "en": "So this letter has a certain importance.",
+      "cn": "所以这封信有一定的重要性。"
+    },
+    {
+      "id": 78,
+      "en": "It's a little bit more important than, for example, the other letters.",
+      "cn": "它比其他信件稍微重要一些。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "But express is the most important, the fastest.",
+      "cn": "但快递是最重要的，最快的。"
+    },
+    {
+      "id": 81,
+      "en": "So something that's expressed is fast.",
+      "cn": "所以被称为快递的东西是快速的。"
+    },
+    {
+      "id": 82,
+      "en": "Like an expressway is the fast highway.",
+      "cn": "就像快车道是快速的高速公路。"
+    },
+    {
+      "id": 83,
+      "en": "Express mail.",
+      "cn": "快递邮件。"
+    },
+    {
+      "id": 84,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 85,
+      "en": "So express mail is the fastest.",
+      "cn": "所以快递邮件是最快的。"
+    },
+    {
+      "id": 86,
+      "en": "And now the normal, cheapest mail is standard mail.",
+      "cn": "现在普通的、最便宜的邮件是标准邮件。"
+    },
+    {
+      "id": 87,
+      "en": "Standard.",
+      "cn": "标准。"
+    },
+    {
+      "id": 88,
+      "en": "So the word standard usually means the average or the normal mail.",
+      "cn": "所以标准这个词通常意味着平均或普通邮件。"
+    },
+    {
+      "id": 89,
+      "en": "And in this case, it usually takes the longest.",
+      "cn": "在这种情况下，通常需要最长的时间。"
+    },
+    {
+      "id": 90,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 91,
+      "en": "So obviously, standard mail is the cheapest.",
+      "cn": "所以显然，标准邮件是最便宜的。"
+    },
+    {
+      "id": 92,
+      "en": "Express mail is the most expensive because it's the fastest.",
+      "cn": "快递邮件是最贵的，因为它是最快的。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "So we've got all of those speeds now.",
+      "cn": "所以我们现在有了所有这些速度。"
+    },
+    {
+      "id": 95,
+      "en": "Let's listen again to today's dialogue and try and listen for the words we just talked about.",
+      "cn": "让我们再听一遍今天的对话，试着听听我们刚刚讨论的词汇。"
+    },
+    {
+      "id": 96,
+      "en": "And we'll be back in a moment to talk about some important phrases.",
+      "cn": "我们马上回来讨论一些重要的短语。"
+    },
+    {
+      "id": 97,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 98,
+      "en": "How much is this going to cost?",
+      "cn": "这要多少钱？"
+    },
+    {
+      "id": 99,
+      "en": "Well, it depends.",
+      "cn": "嗯，这要看情况。"
+    },
+    {
+      "id": 100,
+      "en": "Do you want to send it via priority, express, or standard mail?",
+      "cn": "你想通过优先、快递还是标准邮件寄送？"
+    },
+    {
+      "id": 101,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 102,
+      "en": "Well, standard mail can take up to 15 working days.",
+      "cn": "嗯，标准邮件可能需要15个工作日。"
+    },
+    {
+      "id": 103,
+      "en": "Priority is a bit faster and will arrive in about five to eight working days.",
+      "cn": "优先邮件稍快，大约五到八个工作日到达。"
+    },
+    {
+      "id": 104,
+      "en": "Express is the fastest, but it's also the most expensive.",
+      "cn": "快递是最快的，但也是最贵的。"
+    },
+    {
+      "id": 105,
+      "en": "It only takes three days and you can track your package online.",
+      "cn": "只需三天，你可以在线追踪包裹。"
+    },
+    {
+      "id": 106,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 107,
+      "en": "Well, there's no rush.",
+      "cn": "嗯，不着急。"
+    },
+    {
+      "id": 108,
+      "en": "Please send it via priority mail.",
+      "cn": "请通过优先邮件发送。"
+    },
+    {
+      "id": 109,
+      "en": "Please be extra careful.",
+      "cn": "请特别小心。"
+    },
+    {
+      "id": 110,
+      "en": "The contents of the package are fragile.",
+      "cn": "包裹内容很脆弱。"
+    },
+    {
+      "id": 111,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 112,
+      "en": "We're back.",
+      "cn": "我们回来了。"
+    },
+    {
+      "id": 113,
+      "en": "So now let's take a look at three key phrases on Fluency Builder.",
+      "cn": "现在让我们看看流利构建器上的三个关键短语。"
+    },
+    {
+      "id": 114,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 115,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 116,
+      "en": "So the first phrase today is one that I like to use a lot.",
+      "cn": "今天的第一个短语是我经常使用的。"
+    },
+    {
+      "id": 117,
+      "en": "We say, it's depends.",
+      "cn": "我们说，这要看情况。"
+    },
+    {
+      "id": 118,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 119,
+      "en": "How much is this going to cost?",
+      "cn": "这要花多少钱？"
+    },
+    {
+      "id": 120,
+      "en": "Well, it depends.",
+      "cn": "嗯，这要看情况。"
+    },
+    {
+      "id": 121,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 122,
+      "en": "So the phrase could be, it depends.",
+      "cn": "所以这个短语可以是，这要看情况。"
+    },
+    {
+      "id": 123,
+      "en": "So it depends.",
+      "cn": "所以这要看情况。"
+    },
+    {
+      "id": 124,
+      "en": "When do you usually use this?",
+      "cn": "你通常什么时候使用这个？"
+    },
+    {
+      "id": 125,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 126,
+      "en": "If you ask me a question, I can have one answer, but maybe there's another possible answer.",
+      "cn": "如果你问我一个问题，我可能有一个答案，但也许还有另一个可能的答案。"
+    },
+    {
+      "id": 127,
+      "en": "For example, what are you going to wear tomorrow, Marco?",
+      "cn": "例如，明天你打算穿什么，马尔科？"
+    },
+    {
+      "id": 128,
+      "en": "It depends if it rains or not.",
+      "cn": "这要看天气是否下雨。"
+    },
+    {
+      "id": 129,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 130,
+      "en": "It depends.",
+      "cn": "这要看情况。"
+    },
+    {
+      "id": 131,
+      "en": "If it rains, I will wear a raincoat.",
+      "cn": "如果下雨，我会穿雨衣。"
+    },
+    {
+      "id": 132,
+      "en": "If it's sunny, I will wear a normal coat.",
+      "cn": "如果天气晴朗，我会穿普通外套。"
+    },
+    {
+      "id": 133,
+      "en": "So it depends means there is a situation or a circumstance that might change.",
+      "cn": "所以这要看情况意味着有一种情况或环境可能会改变。"
+    },
+    {
+      "id": 134,
+      "en": "And if it does, my answer will change.",
+      "cn": "如果发生变化，我的答案也会改变。"
+    },
+    {
+      "id": 135,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 136,
+      "en": "So it is a conditional, it depends.",
+      "cn": "所以这是一个条件，这要看情况。"
+    },
+    {
+      "id": 137,
+      "en": "For example, I can ask you, what are you going to eat tonight?",
+      "cn": "例如，我可以问你，今晚你打算吃什么？"
+    },
+    {
+      "id": 138,
+      "en": "It depends.",
+      "cn": "这要看情况。"
+    },
+    {
+      "id": 139,
+      "en": "If I exercise, I'm going to have a hamburger.",
+      "cn": "如果我锻炼，我会吃汉堡。"
+    },
+    {
+      "id": 140,
+      "en": "And if I don't exercise, I'll have a salad.",
+      "cn": "如果我不锻炼，我会吃沙拉。"
+    },
+    {
+      "id": 141,
+      "en": "Nice.",
+      "cn": "不错。"
+    },
+    {
+      "id": 142,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 143,
+      "en": "So it depends.",
+      "cn": "所以这要看情况。"
+    },
+    {
+      "id": 144,
+      "en": "Now we have another phrase.",
+      "cn": "现在我们有另一个短语。"
+    },
+    {
+      "id": 145,
+      "en": "When they were talking about how long it's going to take to mail something, he said, standard mail can take up to 15 working days.",
+      "cn": "当他们谈论邮寄某物需要多长时间时，他说，标准邮件可能需要15个工作日。"
+    },
+    {
+      "id": 146,
+      "en": "So we have this little phrase there, up to.",
+      "cn": "所以我们有这个小短语，最多。"
+    },
+    {
+      "id": 147,
+      "en": "Up to.",
+      "cn": "最多。"
+    },
+    {
+      "id": 148,
+      "en": "So up to, when you hear this, these two words together, that's an indication, it's a sign that we're talking about the maximum, the most.",
+      "cn": "所以当你听到这两个词在一起时，这是一个指示，表示我们在谈论最大值，最多。"
+    },
+    {
+      "id": 149,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 150,
+      "en": "So tomorrow the temperature might go up to 24 degrees Celsius.",
+      "cn": "所以明天温度可能升高到24摄氏度。"
+    },
+    {
+      "id": 151,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 152,
+      "en": "So the temperature maximum will reach 24.",
+      "cn": "所以温度的最高值将达到24。"
+    },
+    {
+      "id": 153,
+      "en": "It could be maybe 22, 21.",
+      "cn": "可能是22、21。"
+    },
+    {
+      "id": 154,
+      "en": "But not 25.",
+      "cn": "但不会是25。"
+    },
+    {
+      "id": 155,
+      "en": "No, because up to means the top.",
+      "cn": "不，因为最多意味着顶点。"
+    },
+    {
+      "id": 156,
+      "en": "So you're usually dealing with numbers, right?",
+      "cn": "所以你通常是在处理数字，对吧？"
+    },
+    {
+      "id": 157,
+      "en": "For example, this coat can cost up to $150.",
+      "cn": "例如，这件外套最多可以花150美元。"
+    },
+    {
+      "id": 158,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 159,
+      "en": "So the most I will spend is $150.",
+      "cn": "所以我最多花费150美元。"
+    },
+    {
+      "id": 160,
+      "en": "So sometimes you have a number like this when we're talking about sending a package.",
+      "cn": "所以有时在谈论发送包裹时，你会有这样的数字。"
+    },
+    {
+      "id": 161,
+      "en": "We can send packages that weigh up to 10 kilos.",
+      "cn": "我们可以发送重量最多为10公斤的包裹。"
+    },
+    {
+      "id": 162,
+      "en": "Not more than 10 kilos, though.",
+      "cn": "但不能超过10公斤。"
+    },
+    {
+      "id": 163,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 164,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 165,
+      "en": "And now for our last phrase, to close off the dialogue, the guy said, well, you know what?",
+      "cn": "现在是我们最后一个短语，结束对话时，这个人说，嗯，你知道吗？"
+    },
+    {
+      "id": 166,
+      "en": "There's no rush.",
+      "cn": "不着急。"
+    },
+    {
+      "id": 167,
+      "en": "No rush.",
+      "cn": "不着急。"
+    },
+    {
+      "id": 168,
+      "en": "There's no rush.",
+      "cn": "不着急。"
+    },
+    {
+      "id": 169,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 170,
+      "en": "Well, the first word we want to look at here is the word rush.",
+      "cn": "好的，我们想要看的第一个词是rush。"
+    },
+    {
+      "id": 171,
+      "en": "And in this case, we're talking about sending a package and the postcard, right?",
+      "cn": "在这种情况下，我们在谈论发送包裹和明信片，对吧？"
+    },
+    {
+      "id": 172,
+      "en": "So does this person want it to arrive fast?",
+      "cn": "所以这个人想要它快点到达吗？"
+    },
+    {
+      "id": 173,
+      "en": "He says no.",
+      "cn": "他说不。"
+    },
+    {
+      "id": 174,
+      "en": "No, there's no rush.",
+      "cn": "不，不着急。"
+    },
+    {
+      "id": 175,
+      "en": "Let's send it standard.",
+      "cn": "我们就用标准邮件发送吧。"
+    },
+    {
+      "id": 176,
+      "en": "It's cheaper.",
+      "cn": "这样更便宜。"
+    },
+    {
+      "id": 177,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 178,
+      "en": "So maybe your friend is like, come on, we're going to be late.",
+      "cn": "所以也许你的朋友会说，快点，我们要迟到了。"
+    },
+    {
+      "id": 179,
+      "en": "And you're like, no, there's no rush.",
+      "cn": "而你会说，不，不着急。"
+    },
+    {
+      "id": 180,
+      "en": "There's no rush.",
+      "cn": "不着急。"
+    },
+    {
+      "id": 181,
+      "en": "We have one hour before the movie starts.",
+      "cn": "我们在电影开始前还有一个小时。"
+    },
+    {
+      "id": 182,
+      "en": "Calm down.",
+      "cn": "冷静点。"
+    },
+    {
+      "id": 183,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 184,
+      "en": "So you're not in a hurry.",
+      "cn": "所以你并不着急。"
+    },
+    {
+      "id": 185,
+      "en": "No, there's no rush.",
+      "cn": "不，不着急。"
+    },
+    {
+      "id": 186,
+      "en": "Slow down.",
+      "cn": "放慢脚步。"
+    },
+    {
+      "id": 187,
+      "en": "It's okay.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 188,
+      "en": "This is a good one to talk about with friends.",
+      "cn": "这是一个和朋友谈论的好短语。"
+    },
+    {
+      "id": 189,
+      "en": "If you're, or if you're working on a project at work, you say, listen, there's no rush.",
+      "cn": "如果你在工作上做项目，你会说，听着，不着急。"
+    },
+    {
+      "id": 190,
+      "en": "Take your time.",
+      "cn": "慢慢来。"
+    },
+    {
+      "id": 191,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 192,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 193,
+      "en": "So let's go back to our dialogue.",
+      "cn": "让我们回到对话中。"
+    },
+    {
+      "id": 194,
+      "en": "Let's listen to it for the very last time.",
+      "cn": "让我们最后听一次。"
+    },
+    {
+      "id": 195,
+      "en": "And we'll be back in a bit.",
+      "cn": "我们马上回来。"
+    },
+    {
+      "id": 196,
+      "en": "Hi, I would like to send this package to China and these postcards as well.",
+      "cn": "嗨，我想把这个包裹和这些明信片寄到中国。"
+    },
+    {
+      "id": 197,
+      "en": "Very well.",
+      "cn": "很好。"
+    },
+    {
+      "id": 198,
+      "en": "You will need some stamps for the postcards and I need to weigh that package too.",
+      "cn": "你需要一些明信片的邮票，我也需要称一下这个包裹。"
+    },
+    {
+      "id": 199,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 200,
+      "en": "How much is this going to cost?",
+      "cn": "这要多少钱？"
+    },
+    {
+      "id": 201,
+      "en": "Well, it depends.",
+      "cn": "嗯，这要看情况。"
+    },
+    {
+      "id": 202,
+      "en": "Do you want to send it via priority, express or standard mail?",
+      "cn": "你想通过优先、快递还是标准邮件寄送？"
+    },
+    {
+      "id": 203,
+      "en": "What's the difference?",
+      "cn": "有什么区别？"
+    },
+    {
+      "id": 204,
+      "en": "Well, standard mail can take up to 15 working days.",
+      "cn": "嗯，标准邮件可能需要15个工作日。"
+    },
+    {
+      "id": 205,
+      "en": "Priority is a bit faster and will arrive in about five to eight working days.",
+      "cn": "优先邮件稍快，大约五到八个工作日到达。"
+    },
+    {
+      "id": 206,
+      "en": "Express is the fastest, but it's also the most expensive.",
+      "cn": "快递是最快的，但也是最贵的。"
+    },
+    {
+      "id": 207,
+      "en": "It only takes three days and you can track your package online.",
+      "cn": "只需三天，你可以在线追踪你的包裹。"
+    },
+    {
+      "id": 208,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 209,
+      "en": "Well, there's no rush.",
+      "cn": "嗯，不着急。"
+    },
+    {
+      "id": 210,
+      "en": "Please send it via priority mail.",
+      "cn": "请通过优先邮件寄送。"
+    },
+    {
+      "id": 211,
+      "en": "Please be extra careful.",
+      "cn": "请特别小心。"
+    },
+    {
+      "id": 212,
+      "en": "The contents of the package are fragile.",
+      "cn": "包裹的内容很脆弱。"
+    },
+    {
+      "id": 213,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 214,
+      "en": "So now, Catherine, do you usually send postcards when you are abroad, when you travel?",
+      "cn": "所以现在，凯瑟琳，你通常在国外旅行时会寄明信片吗？"
+    },
+    {
+      "id": 215,
+      "en": "Yes, I love postcards.",
+      "cn": "是的，我喜欢明信片。"
+    },
+    {
+      "id": 216,
+      "en": "And actually, I have some friends who have an amazing postcard collection.",
+      "cn": "其实，我有一些朋友有一个惊人的明信片收藏。"
+    },
+    {
+      "id": 217,
+      "en": "Oh, really?",
+      "cn": "哦，真的吗？"
+    },
+    {
+      "id": 218,
+      "en": "But it's not normal postcards.",
+      "cn": "但不是普通的明信片。"
+    },
+    {
+      "id": 219,
+      "en": "They find the most ugly postcards and they buy them and they write silly notes and they send them to themselves.",
+      "cn": "他们找到最丑的明信片，买下它们，写一些傻乎乎的便条，然后寄给自己。"
+    },
+    {
+      "id": 220,
+      "en": "Oh, really?",
+      "cn": "哦，真的吗？"
+    },
+    {
+      "id": 221,
+      "en": "I have the tradition of always sending my parents and my grandparents a postcard when I'm abroad.",
+      "cn": "我有一个传统，每当我在国外时，总是给我的父母和祖父母寄一张明信片。"
+    },
+    {
+      "id": 222,
+      "en": "That's so sweet.",
+      "cn": "真甜。"
+    },
+    {
+      "id": 223,
+      "en": "So they have a collection of all the places you've been.",
+      "cn": "所以他们有你去过的所有地方的收藏。"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, so all the time, wherever I am, the first thing that I try to do if I'm in a cool place, I send them a postcard.",
+      "cn": "是的，所以无论我在哪里，如果我在一个很酷的地方，我尝试做的第一件事就是给他们寄一张明信片。"
+    },
+    {
+      "id": 225,
+      "en": "And sometimes if I'm in a country in various cities and there are some nice things in, for example, two or three cities, I'll send them three postcards.",
+      "cn": "有时如果我在一个国家的不同城市，如果有一些不错的东西，比如在两个或三个城市，我会寄三张明信片。"
+    },
+    {
+      "id": 226,
+      "en": "That's awesome.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 227,
+      "en": "So do they have a book at home with all these postcards?",
+      "cn": "所以他们家有一本书，里面有所有这些明信片吗？"
+    },
+    {
+      "id": 228,
+      "en": "Yeah, they do.",
+      "cn": "是的，他们有。"
+    },
+    {
+      "id": 229,
+      "en": "So, you know, I just send them a little thing, how I'm doing and how great it is, and wish you could be here, you know, little notes, and then they have all the collection.",
+      "cn": "所以，你知道，我只是给他们寄一点东西，告诉他们我过得怎么样，那里有多好，真希望你们能在这里，知道的小便条，然后他们就有了整个收藏。"
+    },
+    {
+      "id": 230,
+      "en": "It's really cool because that way I've actually kept track a little bit of what year and what date I was in certain places.",
+      "cn": "这真的很酷，因为这样我实际上可以稍微跟踪一下我在哪些地方的年份和日期。"
+    },
+    {
+      "id": 231,
+      "en": "Oh, wow.",
+      "cn": "哦，哇。"
+    },
+    {
+      "id": 232,
+      "en": "Well, it's also nice because postcards, you don't need to write a very long note.",
+      "cn": "嗯，这也很好，因为明信片，你不需要写很长的便条。"
+    },
+    {
+      "id": 233,
+      "en": "There's no space.",
+      "cn": "没有空间。"
+    },
+    {
+      "id": 234,
+      "en": "You just write a short note, you say, hi, how's the weather, miss you, wish you were here.",
+      "cn": "你只需写一个简短的便条，问候一下，天气怎么样，想你，真希望你在这里。"
+    },
+    {
+      "id": 235,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 236,
+      "en": "Okay, so that's all the time we have for today, but let us know if you've had any inconveniences at the post office.",
+      "cn": "好的，今天的时间就到这里，但如果你在邮局遇到任何不便，请告诉我们。"
+    },
+    {
+      "id": 237,
+      "en": "I actually had one once.",
+      "cn": "我实际上曾经遇到过一次。"
+    },
+    {
+      "id": 238,
+      "en": "I couldn't send batteries through the mail because they have acid apparently.",
+      "cn": "我不能通过邮件寄电池，因为它们显然有酸。"
+    },
+    {
+      "id": 239,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 240,
+      "en": "So it's very difficult to send.",
+      "cn": "所以寄送非常困难。"
+    },
+    {
+      "id": 241,
+      "en": "So maybe you've had a situation like this before, let us know, EnglishPod.com.",
+      "cn": "所以如果你之前遇到过类似的情况，请告诉我们，EnglishPod.com。"
+    },
+    {
+      "id": 242,
+      "en": "We'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 243,
+      "en": "Bye, everyone.",
+      "cn": "再见，大家。"
+    }
+  ]
+}

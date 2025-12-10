@@ -1,0 +1,1464 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0257",
+  "title": "EnglishPod 中级 0257",
+  "totalSegments": 291,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everybody, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and we hope by now you're very excited about football or soccer.",
+      "cn": "我叫Catherine，我们希望到现在你们对足球或美式足球感到非常兴奋。"
+    },
+    {
+      "id": 4,
+      "en": "This is the World Cup time of year, so this comes every four years, actually, and we've got a lesson all about it.",
+      "cn": "这是世界杯的时间，每四年举办一次，实际上我们有一节关于它的课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "So as everyone may or may not have heard, we are actually in the middle of the year, and soccer is only used in the United States.",
+      "cn": "所以大家可能听说过，我们实际上正处于这一年中，而足球这个词只在美国使用。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "It's used in the United States, although football can be confusing in a place like Australia, where they have two different games that are called football.",
+      "cn": "它在美国使用，尽管在澳大利亚这样的地方，足球可能会让人困惑，因为他们有两种不同的游戏都叫足球。"
+    },
+    {
+      "id": 9,
+      "en": "That's right, so it's a little bit difficult at times to tell someone that you play football and they think you play American football or Australian football or soccer, so it's a little bit confusing.",
+      "cn": "没错，所以有时候告诉别人你踢足球，他们可能会认为你踢的是美式足球或澳式足球或足球，这有点困惑。"
+    },
+    {
+      "id": 10,
+      "en": "It can be, yeah.",
+      "cn": "确实是这样。"
+    },
+    {
+      "id": 11,
+      "en": "All right, so we have a great lesson all about the World Cup.",
+      "cn": "好吧，我们有一节关于世界杯的精彩课程。"
+    },
+    {
+      "id": 12,
+      "en": "We're going to explain a little bit, and so let's listen to the dialogue for the very first time.",
+      "cn": "我们将稍微解释一下，所以让我们第一次听听对话。"
+    },
+    {
+      "id": 13,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 14,
+      "en": "What am I doing?",
+      "cn": "我在做什么？"
+    },
+    {
+      "id": 15,
+      "en": "What am I doing?",
+      "cn": "我在做什么？"
+    },
+    {
+      "id": 16,
+      "en": "Don't you know what day it is?",
+      "cn": "你不知道今天是什么日子吗？"
+    },
+    {
+      "id": 17,
+      "en": "Um, no.",
+      "cn": "嗯，不知道。"
+    },
+    {
+      "id": 18,
+      "en": "It's only the day when the world's biggest sporting event is kicking off.",
+      "cn": "今天是世界上最大的体育赛事开始的日子。"
+    },
+    {
+      "id": 19,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 20,
+      "en": "The World Cup, the first match is today.",
+      "cn": "世界杯，第一场比赛是今天。"
+    },
+    {
+      "id": 21,
+      "en": "It's Mexico versus South Africa.",
+      "cn": "是墨西哥对南非。"
+    },
+    {
+      "id": 22,
+      "en": "It's going to be a really good match.",
+      "cn": "这将是一场非常精彩的比赛。"
+    },
+    {
+      "id": 23,
+      "en": "Both teams have a very strong offense and have skilled players.",
+      "cn": "两队都有非常强的进攻和技术娴熟的球员。"
+    },
+    {
+      "id": 24,
+      "en": "I think that South Africa will probably dominate the first half since they are the host country and all.",
+      "cn": "我认为南非可能会主导上半场，因为他们是东道主。"
+    },
+    {
+      "id": 25,
+      "en": "I have no idea what you're talking about.",
+      "cn": "我完全不知道你在说什么。"
+    },
+    {
+      "id": 26,
+      "en": "The only sporting event we watch at home is the Super Bowl.",
+      "cn": "我们在家里观看的唯一体育赛事是超级碗。"
+    },
+    {
+      "id": 27,
+      "en": "This is bigger than the Super Bowl, man!",
+      "cn": "这比超级碗还要大，伙计！"
+    },
+    {
+      "id": 28,
+      "en": "Teams from 32 countries compete against each other every four years and fight to win that trophy.",
+      "cn": "来自32个国家的球队每四年竞争一次，争夺那个奖杯。"
+    },
+    {
+      "id": 29,
+      "en": "They first start in a group stage with eight groups, each group having four teams.",
+      "cn": "他们首先在小组赛中开始，分为八个小组，每个小组有四支球队。"
+    },
+    {
+      "id": 30,
+      "en": "The top two teams pass on to an elimination stage before going on to the semi-finals and the quarter-finals.",
+      "cn": "前两名球队晋级淘汰赛，然后进入半决赛和四分之一决赛。"
+    },
+    {
+      "id": 31,
+      "en": "Sounds interesting, but soccer doesn't really appeal to me.",
+      "cn": "听起来很有趣，但足球对我来说并不吸引人。"
+    },
+    {
+      "id": 32,
+      "en": "Are you kidding?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 33,
+      "en": "Over 700 million people watch the final match of the 2006 World Cup.",
+      "cn": "超过7亿人观看了2006年世界杯的决赛。"
+    },
+    {
+      "id": 34,
+      "en": "It's a very exciting and nerve-wracking sport.",
+      "cn": "这是一项非常激动人心且紧张的运动。"
+    },
+    {
+      "id": 35,
+      "en": "Each nation is cheering on their team, hoping they will become the next champion.",
+      "cn": "每个国家都在为他们的球队加油，希望他们能成为下一个冠军。"
+    },
+    {
+      "id": 36,
+      "en": "So far, Brazil is the team with the most titles under their belt.",
+      "cn": "到目前为止，巴西是获得最多冠军的球队。"
+    },
+    {
+      "id": 37,
+      "en": "They're really good.",
+      "cn": "他们真的很强。"
+    },
+    {
+      "id": 38,
+      "en": "All I know about soccer is that you can't use your hands and that players are always falling down trying to get a free kick or penalty kick.",
+      "cn": "我对足球的了解就是不能用手，球员总是摔倒试图获得任意球或点球。"
+    },
+    {
+      "id": 39,
+      "en": "It seems like a sissy sport to me.",
+      "cn": "在我看来，这似乎是一项娘们运动。"
+    },
+    {
+      "id": 40,
+      "en": "Whatever.",
+      "cn": "随便吧。"
+    },
+    {
+      "id": 41,
+      "en": "I'm going to go watch the opening match.",
+      "cn": "我要去看开幕赛。"
+    },
+    {
+      "id": 42,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 43,
+      "en": "So obviously two people discussing or fighting over the World Cup and soccer.",
+      "cn": "显然是两个人在讨论或争论世界杯和足球。"
+    },
+    {
+      "id": 44,
+      "en": "One of them doesn't really like it.",
+      "cn": "其中一个人并不喜欢它。"
+    },
+    {
+      "id": 45,
+      "en": "But he came up with some really interesting points and explained a couple of interesting things.",
+      "cn": "但他提出了一些非常有趣的观点，并解释了一些有趣的事情。"
+    },
+    {
+      "id": 46,
+      "en": "So let's take a look at some of that vocab on Language Takeaway.",
+      "cn": "所以让我们看看Language Takeaway中的一些词汇。"
+    },
+    {
+      "id": 47,
+      "en": "So okay, the very first phrase here is a very important one.",
+      "cn": "好吧，第一个短语是一个非常重要的短语。"
+    },
+    {
+      "id": 48,
+      "en": "We're talking about sports.",
+      "cn": "我们在谈论体育。"
+    },
+    {
+      "id": 49,
+      "en": "This game is called a sporting event.",
+      "cn": "这个比赛叫做体育赛事。"
+    },
+    {
+      "id": 50,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 51,
+      "en": "So a sporting event is an event, I guess you would say is a performance or something that happens occasionally but related to sports.",
+      "cn": "所以体育赛事是一个事件，我想你可以说是一个表演或偶尔发生的事情，但与体育相关。"
+    },
+    {
+      "id": 52,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 53,
+      "en": "So an event can be a game itself or a tournament.",
+      "cn": "所以一个事件可以是比赛本身或一个锦标赛。"
+    },
+    {
+      "id": 54,
+      "en": "You've heard maybe of well, the UEFA Cup.",
+      "cn": "你可能听说过，嗯，欧洲足球协会杯。"
+    },
+    {
+      "id": 55,
+      "en": "That's the European Federation of Football or whatever it is.",
+      "cn": "那是欧洲足球联合会或其他什么。"
+    },
+    {
+      "id": 56,
+      "en": "So basically you have this tournament for European soccer teams.",
+      "cn": "所以基本上你有这个欧洲足球队的锦标赛。"
+    },
+    {
+      "id": 57,
+      "en": "But World Cup is also an event and a very important game could also be an event.",
+      "cn": "但世界杯也是一个事件，一个非常重要的比赛也可以是一个事件。"
+    },
+    {
+      "id": 58,
+      "en": "So this basically means a sporting match or a sporting competition.",
+      "cn": "所以这基本上意味着一场体育比赛或体育竞赛。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "Now it may sound confusing as to why you put the ING in sport.",
+      "cn": "现在可能听起来有点困惑，为什么你要在sport中加上ING。"
+    },
+    {
+      "id": 61,
+      "en": "It should be maybe sports event or sport event.",
+      "cn": "可能应该是sports event或sport event。"
+    },
+    {
+      "id": 62,
+      "en": "But I'm not really sure why we add the gerund to sporting event.",
+      "cn": "但我不太确定为什么我们要在体育赛事中加上动名词。"
+    },
+    {
+      "id": 63,
+      "en": "We always just say it this way.",
+      "cn": "我们总是这样说。"
+    },
+    {
+      "id": 64,
+      "en": "It's a set phrase.",
+      "cn": "这是一个固定短语。"
+    },
+    {
+      "id": 65,
+      "en": "So let's remember that it's sporting event.",
+      "cn": "所以让我们记住这是体育赛事。"
+    },
+    {
+      "id": 66,
+      "en": "This is the world's most important sporting event, for example.",
+      "cn": "这是世界上最重要的体育赛事，例如。"
+    },
+    {
+      "id": 67,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 68,
+      "en": "Now we went and we talked about the first match, Mexico versus South Africa.",
+      "cn": "现在我们谈到了第一场比赛，墨西哥对南非。"
+    },
+    {
+      "id": 69,
+      "en": "And they're talking about the teams and how they both have a very strong offense.",
+      "cn": "他们在谈论球队以及他们都有非常强的进攻。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, so offense is a part of the team.",
+      "cn": "好吧，进攻是球队的一部分。"
+    },
+    {
+      "id": 71,
+      "en": "Basically it's a group of players who are trying to score.",
+      "cn": "基本上是一组试图得分的球员。"
+    },
+    {
+      "id": 72,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 73,
+      "en": "So when you're good at offense, it means you're good at scoring.",
+      "cn": "所以当你擅长进攻时，意味着你擅长得分。"
+    },
+    {
+      "id": 74,
+      "en": "And the opposite of offense is what?",
+      "cn": "进攻的反义词是什么？"
+    },
+    {
+      "id": 75,
+      "en": "Defense.",
+      "cn": "防守。"
+    },
+    {
+      "id": 76,
+      "en": "So offense, defense.",
+      "cn": "所以进攻，防守。"
+    },
+    {
+      "id": 77,
+      "en": "You can say they have a very strong defense.",
+      "cn": "你可以说他们有非常强的防守。"
+    },
+    {
+      "id": 78,
+      "en": "That means that it's very hard to score against them because their defenders, their goalies, they're all very strong.",
+      "cn": "这意味着很难对他们得分，因为他们的后卫、守门员都很强。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "So we're talking about an offense and a defense.",
+      "cn": "所以我们在谈论进攻和防守。"
+    },
+    {
+      "id": 81,
+      "en": "Both are very important parts of a team.",
+      "cn": "两者都是球队非常重要的部分。"
+    },
+    {
+      "id": 82,
+      "en": "And so the guy continued and made a little bit of a prediction saying that South Africa will probably dominate the first half.",
+      "cn": "然后那个人继续做了一些预测，说南非可能会主导上半场。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, so you know that football matches are split into halves.",
+      "cn": "好吧，你知道足球比赛分为上下半场。"
+    },
+    {
+      "id": 84,
+      "en": "You have first half and second half.",
+      "cn": "你有上半场和下半场。"
+    },
+    {
+      "id": 85,
+      "en": "To dominate here means to be stronger than someone else.",
+      "cn": "主导在这里意味着比其他人更强。"
+    },
+    {
+      "id": 86,
+      "en": "So to control the ball or to have possession or to be the one that is the strongest team on the field.",
+      "cn": "所以控制球或拥有球权，或者是场上最强的球队。"
+    },
+    {
+      "id": 87,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 88,
+      "en": "So you can dominate by having a very strong defense or you can dominate by having a very strong offense or both.",
+      "cn": "所以你可以通过拥有非常强的防守来主导，或者通过拥有非常强的进攻，或者两者兼而有之。"
+    },
+    {
+      "id": 89,
+      "en": "Dominate means be stronger than.",
+      "cn": "主导意味着比……更强。"
+    },
+    {
+      "id": 90,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, now let's move on to the other guy who doesn't really like soccer.",
+      "cn": "好吧，现在让我们转到另一个不太喜欢足球的人。"
+    },
+    {
+      "id": 92,
+      "en": "And he says, I have no idea what you're talking about.",
+      "cn": "他说，我完全不知道你在说什么。"
+    },
+    {
+      "id": 93,
+      "en": "All I know is that I watch the Super Bowl.",
+      "cn": "我只知道我看超级碗。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, now this is a very American thing.",
+      "cn": "好吧，这是一件非常美国的事情。"
+    },
+    {
+      "id": 95,
+      "en": "The Super Bowl.",
+      "cn": "超级碗。"
+    },
+    {
+      "id": 96,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 97,
+      "en": "We mentioned earlier that in America most people call the game soccer, not football.",
+      "cn": "我们之前提到，在美国大多数人称这场比赛为足球，而不是美式足球。"
+    },
+    {
+      "id": 98,
+      "en": "Well that's because in America we have a different game called football.",
+      "cn": "这就是因为在美国我们有一种不同的游戏叫做美式足球。"
+    },
+    {
+      "id": 99,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 100,
+      "en": "And so the Super Bowl is like the most important game in the football world.",
+      "cn": "所以超级碗就像是美式足球界最重要的比赛。"
+    },
+    {
+      "id": 101,
+      "en": "It's the game that happens every year at the very end of the season.",
+      "cn": "这是每年赛季结束时举行的比赛。"
+    },
+    {
+      "id": 102,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 103,
+      "en": "So this is what we usually call American football.",
+      "cn": "所以这就是我们通常所说的美式足球。"
+    },
+    {
+      "id": 104,
+      "en": "So you've probably seen it on TV as well.",
+      "cn": "你可能在电视上也见过。"
+    },
+    {
+      "id": 105,
+      "en": "And the Super Bowl is basically the name of the final sporting event of American football.",
+      "cn": "超级碗基本上是美式足球的最终赛事名称。"
+    },
+    {
+      "id": 106,
+      "en": "Just like we have World Cup, we have the Super Bowl.",
+      "cn": "就像我们有世界杯，我们也有超级碗。"
+    },
+    {
+      "id": 107,
+      "en": "And the winner of the Super Bowl is the best team that year.",
+      "cn": "超级碗的获胜者是那一年的最佳球队。"
+    },
+    {
+      "id": 108,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 109,
+      "en": "Alright, so now let's go on to explain a little bit about how the World Cup works.",
+      "cn": "好的，现在让我们来解释一下世界杯是如何运作的。"
+    },
+    {
+      "id": 110,
+      "en": "The guy went on to explain that there are 32 countries competing.",
+      "cn": "那个人接着解释说有32个国家参赛。"
+    },
+    {
+      "id": 111,
+      "en": "And basically we have three parts.",
+      "cn": "基本上我们有三个部分。"
+    },
+    {
+      "id": 112,
+      "en": "An elimination stage, a semi-finals, and quarter-finals.",
+      "cn": "淘汰赛、半决赛和四分之一决赛。"
+    },
+    {
+      "id": 113,
+      "en": "Okay, so basically this describes the different levels.",
+      "cn": "好的，这基本上描述了不同的级别。"
+    },
+    {
+      "id": 114,
+      "en": "Because obviously 32 teams can't compete for one trophy at first.",
+      "cn": "因为显然32支球队不能一开始就争夺一个奖杯。"
+    },
+    {
+      "id": 115,
+      "en": "You have to make the numbers smaller.",
+      "cn": "你必须减少数量。"
+    },
+    {
+      "id": 116,
+      "en": "So 32 becomes 16, becomes 8, becomes 4, becomes 2.",
+      "cn": "所以32变成16，变成8，变成4，变成2。"
+    },
+    {
+      "id": 117,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 118,
+      "en": "And so we have different groups for these.",
+      "cn": "所以我们为这些设定了不同的组。"
+    },
+    {
+      "id": 119,
+      "en": "The first one is the elimination stage, when some teams lose and they go home.",
+      "cn": "第一个是淘汰赛阶段，一些球队输掉比赛就回家了。"
+    },
+    {
+      "id": 120,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 121,
+      "en": "And after that then we have a quarter-finals.",
+      "cn": "然后我们有四分之一决赛。"
+    },
+    {
+      "id": 122,
+      "en": "So what is quarter-finals?",
+      "cn": "那四分之一决赛是什么？"
+    },
+    {
+      "id": 123,
+      "en": "The quarter-finals are when you have eight teams that are basically the top eight teams of the competition.",
+      "cn": "四分之一决赛是八支球队，基本上是比赛中排名前八的球队。"
+    },
+    {
+      "id": 124,
+      "en": "And they will play against one other opponent.",
+      "cn": "他们将与其他对手比赛。"
+    },
+    {
+      "id": 125,
+      "en": "So the winner passes on to the next stage, which would be the semi-finals.",
+      "cn": "所以获胜者将进入下一阶段，即半决赛。"
+    },
+    {
+      "id": 126,
+      "en": "Well the math makes sense, because quarter has to do with four, right?",
+      "cn": "嗯，数学是有道理的，因为四分之一与四有关，对吧？"
+    },
+    {
+      "id": 127,
+      "en": "So in the quarter-finals, eight teams become four.",
+      "cn": "所以在四分之一决赛中，八支球队变成四支。"
+    },
+    {
+      "id": 128,
+      "en": "And in the semi-finals, four teams become two.",
+      "cn": "在半决赛中，四支球队变成两支。"
+    },
+    {
+      "id": 129,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 130,
+      "en": "And then what happens after the semi-finals?",
+      "cn": "那么半决赛后发生什么？"
+    },
+    {
+      "id": 131,
+      "en": "And then we have the final, where basically the two top teams will compete against each other and there will be one champion.",
+      "cn": "然后我们有决赛，基本上是两支顶级球队相互竞争，最终会有一个冠军。"
+    },
+    {
+      "id": 132,
+      "en": "USA!",
+      "cn": "美国！"
+    },
+    {
+      "id": 133,
+      "en": "USA!",
+      "cn": "美国！"
+    },
+    {
+      "id": 134,
+      "en": "And this is when it gets very nationalistic.",
+      "cn": "这时就变得非常民族主义。"
+    },
+    {
+      "id": 135,
+      "en": "People are very proud of their countries.",
+      "cn": "人们对自己的国家感到非常自豪。"
+    },
+    {
+      "id": 136,
+      "en": "Of course, of course.",
+      "cn": "当然，当然。"
+    },
+    {
+      "id": 137,
+      "en": "And so this basically is what happens and how we get our champion.",
+      "cn": "所以这基本上就是发生的事情，以及我们如何获得冠军。"
+    },
+    {
+      "id": 138,
+      "en": "And well, now let's explain a little bit very quickly about two things that happen in the game during gameplay when we have a free kick and a penalty kick.",
+      "cn": "现在让我们快速解释一下比赛中发生的两件事：任意球和点球。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so a kick, you know, you just kick the ball.",
+      "cn": "好的，踢球，你知道的，就是踢球。"
+    },
+    {
+      "id": 140,
+      "en": "But sometimes when the ball goes out of bounds or when a player is injured or there's a foul, then that player or his teammate can take a special kick.",
+      "cn": "但有时当球出界或球员受伤或犯规时，那个球员或他的队友可以进行特殊的踢球。"
+    },
+    {
+      "id": 141,
+      "en": "Alright?",
+      "cn": "好吗？"
+    },
+    {
+      "id": 142,
+      "en": "And so a free kick is... it's just a kick from anywhere, right?",
+      "cn": "所以任意球是……就是从任何地方踢球，对吧？"
+    },
+    {
+      "id": 143,
+      "en": "A free kick is a kick that you get basically according to the referee who says, okay, stop the game.",
+      "cn": "任意球是根据裁判的决定，裁判说，好的，停止比赛。"
+    },
+    {
+      "id": 144,
+      "en": "He's going to kick from inside the lines.",
+      "cn": "他将从界线内踢球。"
+    },
+    {
+      "id": 145,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 146,
+      "en": "So wherever you are fouled, wherever somebody maybe hit you wrong or something happened, from that position you will kick freely towards the goal or wherever you want.",
+      "cn": "所以无论你在哪里被犯规，无论有人可能错误地撞到你或发生了什么，从那个位置你可以自由地朝球门或你想要的地方踢。"
+    },
+    {
+      "id": 147,
+      "en": "You can pass to your other players as well.",
+      "cn": "你也可以传球给其他队员。"
+    },
+    {
+      "id": 148,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 149,
+      "en": "But a penalty kick is a bit different because you have to be in a special place when you do it.",
+      "cn": "但点球有点不同，因为你必须在一个特殊的地方进行。"
+    },
+    {
+      "id": 150,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 151,
+      "en": "A penalty kick is when you are fouled inside the box, what they call it, in the area very close to the goalie.",
+      "cn": "点球是当你在禁区内被犯规时，所谓的禁区，离守门员非常近的区域。"
+    },
+    {
+      "id": 152,
+      "en": "So if you commit a foul there, then the other player will receive a penalty kick and it will just be him against the goalie and he must kick the ball.",
+      "cn": "所以如果你在那儿犯规，另一名球员将获得点球，只有他和守门员对峙，他必须踢球。"
+    },
+    {
+      "id": 153,
+      "en": "I think it's approximately ten meters, if I'm not mistaken.",
+      "cn": "我想大约是十米，如果我没记错的话。"
+    },
+    {
+      "id": 154,
+      "en": "Yes, and this is why it's very dangerous because you're so close to the goalie and no one can stop you.",
+      "cn": "是的，这就是为什么这非常危险，因为你离守门员太近，没有人可以阻止你。"
+    },
+    {
+      "id": 155,
+      "en": "And so when fouls happen inside that special box, it's usually bad news for the goalie.",
+      "cn": "所以当犯规发生在那个特殊的禁区内时，通常对守门员来说是坏消息。"
+    },
+    {
+      "id": 156,
+      "en": "Yeah, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 157,
+      "en": "So this is what happens during a penalty kick and well, basically you have no defenders, so it's just you, the goalie, and it can get, as you said, very complicated for the goalie.",
+      "cn": "所以这就是点球发生时的情况，基本上你没有防守者，所以只有你和守门员，这对守门员来说可能会变得非常复杂。"
+    },
+    {
+      "id": 158,
+      "en": "Alright, so we've taken a look at a lot of things on Language Takeaway.",
+      "cn": "好的，我们已经看了很多关于语言的内容。"
+    },
+    {
+      "id": 159,
+      "en": "Let's move on now to three phrases on Fluency Builder.",
+      "cn": "现在让我们转到流利构建器的三个短语。"
+    },
+    {
+      "id": 160,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 161,
+      "en": "Okay, so this is a great word to describe how I felt last week when I watched the England vs.",
+      "cn": "好的，这个词很好地描述了我上周观看英格兰对美国比赛时的感受。"
+    },
+    {
+      "id": 162,
+      "en": "America match.",
+      "cn": "我觉得这是一场紧张的比赛。"
+    },
+    {
+      "id": 163,
+      "en": "I thought it was a nerve-wracking game.",
+      "cn": "没错。"
+    },
+    {
+      "id": 164,
+      "en": "That's right.",
+      "cn": "我们在对话中听到了这个，对吧？"
+    },
+    {
+      "id": 165,
+      "en": "And we heard this in the dialogue, right?",
+      "cn": "是的，你说这是一场非常紧张的比赛，或者在对话中那个人说这是一个非常激动人心和紧张的运动。"
+    },
+    {
+      "id": 166,
+      "en": "Yeah, you said it was a very nerve-wracking game, or in the dialogue the guy said it's a very exciting and nerve-wracking sport.",
+      "cn": "所以如果某事让人紧张，这是什么意思？"
+    },
+    {
+      "id": 167,
+      "en": "So if something is nerve-wracking, what does it mean?",
+      "cn": "嗯，基本上如果你分解一下，神经是你身体里、皮肤中的东西，让你感受到。"
+    },
+    {
+      "id": 168,
+      "en": "Well, basically if you break it down, nerves are those things in your body, in your skin, that make you feel.",
+      "cn": "所以如果某事伤害了你，你会因为你的神经而感受到。"
+    },
+    {
+      "id": 169,
+      "en": "So if something hurts you, you feel it because of your nerves.",
+      "cn": "所以让人紧张的事情会让你感到紧张、焦虑，让你感到非常敏感。"
+    },
+    {
+      "id": 170,
+      "en": "So something that is nerve-wracking makes you nervous, it makes you anxious, it makes you feel very sensitive.",
+      "cn": "没错。"
+    },
+    {
+      "id": 171,
+      "en": "That's right.",
+      "cn": "所以当然，体育赛事是如此激动人心，你担心你的国家或球队会输，以至于你非常紧张、非常兴奋、非常焦虑，很多事情在发生。"
+    },
+    {
+      "id": 172,
+      "en": "So of course the sporting event is so exciting and you're worried that your country or your team will lose that you're very nervous and you're very excited, you're very anxious, a lot of things are going on.",
+      "cn": "也许你在出汗，也许你喝了很多水，你不想看到你的球队输，所以你变得非常紧张。"
+    },
+    {
+      "id": 173,
+      "en": "Maybe you're sweating, maybe you're drinking a lot, you don't want to see your team lose, and so you get very nervous.",
+      "cn": "没错。"
+    },
+    {
+      "id": 174,
+      "en": "That's right.",
+      "cn": "当然，如果你的球队在世界杯中，你会为你的球队加油，或者你在为他们加油。"
+    },
+    {
+      "id": 175,
+      "en": "And now of course if your team is in the World Cup you are cheering on for your team, or you're cheering them on.",
+      "cn": "好的，这个短语很有趣，因为也许你听过“加油”这个词。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, so this is an interesting phrase because maybe you've heard the word to cheer before.",
+      "cn": "加油，球队！"
+    },
+    {
+      "id": 177,
+      "en": "Go team!",
+      "cn": "加油，球队！"
+    },
+    {
+      "id": 178,
+      "en": "Go team!",
+      "cn": "这就是加油。"
+    },
+    {
+      "id": 180,
+      "en": "But we often say, I want to cheer him on.",
+      "cn": "但我们常常说，我想为他加油。"
+    },
+    {
+      "id": 181,
+      "en": "So this on to me means like, I want to cheer him on to victory, I want to push them towards some goal.",
+      "cn": "所以“加油”对我来说意味着，我想为他加油取得胜利，我想推动他们朝着某个目标前进。"
+    },
+    {
+      "id": 182,
+      "en": "And so you hear this a lot.",
+      "cn": "所以你经常听到这个。"
+    },
+    {
+      "id": 183,
+      "en": "Let's cheer them on.",
+      "cn": "让我们为他们加油。"
+    },
+    {
+      "id": 184,
+      "en": "Or, he was really cheering me on.",
+      "cn": "或者，他真的在为我加油。"
+    },
+    {
+      "id": 185,
+      "en": "Made me feel good.",
+      "cn": "让我感觉很好。"
+    },
+    {
+      "id": 186,
+      "en": "Motivating you.",
+      "cn": "激励你。"
+    },
+    {
+      "id": 187,
+      "en": "So to cheer someone on.",
+      "cn": "所以为某人加油。"
+    },
+    {
+      "id": 188,
+      "en": "Cheer them on.",
+      "cn": "为他们加油。"
+    },
+    {
+      "id": 189,
+      "en": "Alright, so obviously this is why we have cheerleaders, right?",
+      "cn": "好的，显然这就是我们有拉拉队员的原因，对吧？"
+    },
+    {
+      "id": 190,
+      "en": "Mmhmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 191,
+      "en": "Give me an A.",
+      "cn": "给我一个A。"
+    },
+    {
+      "id": 192,
+      "en": "Give me a B.",
+      "cn": "给我一个B。"
+    },
+    {
+      "id": 193,
+      "en": "These are the girls, or the group of girls that cheer teams on.",
+      "cn": "这些是为球队加油的女孩，或者一群女孩。"
+    },
+    {
+      "id": 194,
+      "en": "Or men too.",
+      "cn": "也有男孩。"
+    },
+    {
+      "id": 195,
+      "en": "I've seen male cheerleaders.",
+      "cn": "我见过男拉拉队员。"
+    },
+    {
+      "id": 196,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 197,
+      "en": "Alright, and now when we talked about Brazil, they are the team with the most titles under their belt.",
+      "cn": "好的，当我们谈到巴西时，他们是获得最多冠军的球队。"
+    },
+    {
+      "id": 198,
+      "en": "Okay, we're not talking about a real belt here, are we?",
+      "cn": "好吧，我们不是在谈论真正的腰带，对吧？"
+    },
+    {
+      "id": 199,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 200,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 201,
+      "en": "Under your belt, or under their belt in this case means that in their history they have the most titles.",
+      "cn": "在这里说的“腰带”是指他们历史上获得的最多冠军。"
+    },
+    {
+      "id": 202,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 203,
+      "en": "I think it may come from boxing or one of those sports where you actually wear a belt that says your title.",
+      "cn": "我想这可能源于拳击或那些实际上佩戴着显示你头衔的腰带的运动。"
+    },
+    {
+      "id": 204,
+      "en": "And I think, if I'm not mistaken, sometimes a boxing belt will have various titles on the belt.",
+      "cn": "而且我认为，如果我没记错的话，有时拳击腰带上会有多个头衔。"
+    },
+    {
+      "id": 205,
+      "en": "Right, the championship belts.",
+      "cn": "对，冠军腰带。"
+    },
+    {
+      "id": 206,
+      "en": "Because they wear it afterwards.",
+      "cn": "因为他们之后会佩戴它。"
+    },
+    {
+      "id": 207,
+      "en": "I've never heard that before, but it does make sense.",
+      "cn": "我以前从未听说过，但这确实有道理。"
+    },
+    {
+      "id": 208,
+      "en": "But the important thing to remember here is that it's not just sports.",
+      "cn": "但这里要记住的重要一点是，这不仅仅是体育。"
+    },
+    {
+      "id": 209,
+      "en": "You could say he has 10 years of experience in marketing under his belt.",
+      "cn": "你可以说他在市场营销方面有10年的经验。"
+    },
+    {
+      "id": 210,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 211,
+      "en": "That means he's experienced at marketing.",
+      "cn": "这意味着他在市场营销方面很有经验。"
+    },
+    {
+      "id": 212,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 213,
+      "en": "So that's right.",
+      "cn": "所以没错。"
+    },
+    {
+      "id": 214,
+      "en": "As you said, you can use it for work experience, you can use it for titles in work, or maybe in education you can say he's got three master's degrees under his belt.",
+      "cn": "正如你所说的，你可以用它来描述工作经验，或者在工作中获得的头衔，或者在教育中说他有三个硕士学位。"
+    },
+    {
+      "id": 215,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 216,
+      "en": "Alright, so a lot of great stuff there.",
+      "cn": "好吧，这里有很多很棒的内容。"
+    },
+    {
+      "id": 217,
+      "en": "We've taken a look at a lot of vocabs, so I think we should listen to our dialogue again and we'll be back to talk a little bit more.",
+      "cn": "我们已经看了很多词汇，所以我想我们应该再听一遍对话，然后我们会回来再聊一聊。"
+    },
+    {
+      "id": 218,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 219,
+      "en": "What am I doing?",
+      "cn": "我在做什么？"
+    },
+    {
+      "id": 220,
+      "en": "What am I doing?",
+      "cn": "我在做什么？"
+    },
+    {
+      "id": 221,
+      "en": "Don't you know what day it is?",
+      "cn": "你不知道今天是什么日子吗？"
+    },
+    {
+      "id": 222,
+      "en": "Um... no.",
+      "cn": "嗯……不知道。"
+    },
+    {
+      "id": 223,
+      "en": "It's only the day when the world's biggest sporting event is kicking off.",
+      "cn": "今天是世界上最大的体育赛事开始的日子。"
+    },
+    {
+      "id": 224,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 225,
+      "en": "The World Cup.",
+      "cn": "世界杯。"
+    },
+    {
+      "id": 226,
+      "en": "The first match is today.",
+      "cn": "第一场比赛是今天。"
+    },
+    {
+      "id": 227,
+      "en": "It's Mexico vs.",
+      "cn": "墨西哥对南非。"
+    },
+    {
+      "id": 228,
+      "en": "South Africa.",
+      "cn": "这将是一场非常精彩的比赛。"
+    },
+    {
+      "id": 229,
+      "en": "It's going to be a really good match.",
+      "cn": "两队都有很强的进攻和技术娴熟的球员。"
+    },
+    {
+      "id": 230,
+      "en": "Both teams have a very strong offense and have skilled players.",
+      "cn": "我认为南非可能会主导上半场，因为他们是东道主。"
+    },
+    {
+      "id": 231,
+      "en": "I think that South Africa will probably dominate the first half since they are the host country and all.",
+      "cn": "我不知道你在说什么。"
+    },
+    {
+      "id": 232,
+      "en": "I have no idea what you're talking about.",
+      "cn": "我们在家里观看的唯一体育赛事是超级碗。"
+    },
+    {
+      "id": 233,
+      "en": "The only sporting event we watch at home is the Super Bowl.",
+      "cn": "这比超级碗还要大，伙计！"
+    },
+    {
+      "id": 235,
+      "en": "Teams from 32 countries compete against each other every four years and fight to win that trophy.",
+      "cn": "来自32个国家的球队每四年竞争一次，争夺那个奖杯。"
+    },
+    {
+      "id": 236,
+      "en": "They first start in a group stage with eight groups, each group having four teams.",
+      "cn": "他们首先在小组赛中开始，有八个小组，每个小组有四支球队。"
+    },
+    {
+      "id": 237,
+      "en": "The top two teams pass on to an elimination stage before going on to the semi-finals and the quarter-finals.",
+      "cn": "前两名球队晋级淘汰赛，然后进入半决赛和四分之一决赛。"
+    },
+    {
+      "id": 238,
+      "en": "Sounds interesting, but soccer doesn't really appeal to me.",
+      "cn": "听起来很有趣，但足球对我来说并不吸引人。"
+    },
+    {
+      "id": 239,
+      "en": "Are you kidding?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 240,
+      "en": "Over 700 million people watch the final match of the 2006 World Cup.",
+      "cn": "超过7亿人观看了2006年世界杯的决赛。"
+    },
+    {
+      "id": 241,
+      "en": "It's a very exciting and nerve-wracking sport.",
+      "cn": "这是一项非常激动人心和紧张的运动。"
+    },
+    {
+      "id": 242,
+      "en": "Each nation is cheering on their team, hoping they will become the next champion.",
+      "cn": "每个国家都在为他们的球队加油，希望他们能成为下一个冠军。"
+    },
+    {
+      "id": 243,
+      "en": "So far, Brazil is the team with the most titles under their belt.",
+      "cn": "到目前为止，巴西是获得最多冠军的球队。"
+    },
+    {
+      "id": 244,
+      "en": "They're really good.",
+      "cn": "他们真的很厉害。"
+    },
+    {
+      "id": 245,
+      "en": "All I know about soccer is that you can't use your hands and that players are always falling down trying to get a free kick or penalty kick.",
+      "cn": "我对足球了解的只有你不能用手，球员总是摔倒试图获得任意球或点球。"
+    },
+    {
+      "id": 246,
+      "en": "It seems like a sissy sport to me.",
+      "cn": "在我看来，这似乎是一项娘娘腔的运动。"
+    },
+    {
+      "id": 247,
+      "en": "Whatever.",
+      "cn": "随便。"
+    },
+    {
+      "id": 248,
+      "en": "I'm going to go watch the opening match.",
+      "cn": "我要去看揭幕战。"
+    },
+    {
+      "id": 249,
+      "en": "Alright, so the World Cup, as we said, it gathers over 100 million people to watch the final in 2006.",
+      "cn": "好吧，正如我们所说，世界杯在2006年吸引了超过1亿人观看决赛。"
+    },
+    {
+      "id": 250,
+      "en": "Now, this sport is not very popular in North America.",
+      "cn": "现在，这项运动在北美并不太受欢迎。"
+    },
+    {
+      "id": 251,
+      "en": "It's not, well, that's not totally true because Mexicans really follow football.",
+      "cn": "这并不完全正确，因为墨西哥人真的很关注足球。"
+    },
+    {
+      "id": 252,
+      "en": "That's right, that's right.",
+      "cn": "没错，没错。"
+    },
+    {
+      "id": 253,
+      "en": "But I think in America, in the United States, it is one of the less popular sports.",
+      "cn": "但我认为在美国，它是较不受欢迎的运动之一。"
+    },
+    {
+      "id": 254,
+      "en": "I was thinking the other day, maybe number five on our list of popular sports.",
+      "cn": "我前几天在想，也许在我们受欢迎的运动中排第五。"
+    },
+    {
+      "id": 255,
+      "en": "Maybe, because you have American football, the NFL, you have Major League Baseball, you have the NBA, you have the NHL, and I think maybe before soccer you probably either have golf or tennis before soccer.",
+      "cn": "也许，因为你有美式足球、NFL、职业棒球大联盟、NBA、NHL，我认为在足球之前可能还有高尔夫或网球。"
+    },
+    {
+      "id": 256,
+      "en": "Even though the United States does have its own Major League Soccer.",
+      "cn": "尽管美国确实有自己的职业足球大联盟。"
+    },
+    {
+      "id": 257,
+      "en": "Yep, MLS, Major League Soccer, and my hometown team is Chicago Fire, pretty good team.",
+      "cn": "是的，MLS，职业足球大联盟，我的家乡球队是芝加哥火焰队，挺不错的球队。"
+    },
+    {
+      "id": 258,
+      "en": "I heard they're very good.",
+      "cn": "我听说他们很厉害。"
+    },
+    {
+      "id": 259,
+      "en": "And the L.A.",
+      "cn": "还有洛杉矶银河队，我认为是美国的另一支最佳球队。"
+    },
+    {
+      "id": 260,
+      "en": "Galaxy, I think, is the other best team in the States.",
+      "cn": "没错。"
+    },
+    {
+      "id": 261,
+      "en": "That's right.",
+      "cn": "现在，美国确实在1994年举办了世界杯，我认为这就是更多兴趣开始出现的地方，我认为职业足球大联盟是在美国世界杯之前成立的。"
+    },
+    {
+      "id": 262,
+      "en": "Now, the United States did host the 1994 World Cup, and I think this is where a little bit of more interest started to come up, and I think Major League Soccer was formed prior to the World Cup in the United States.",
+      "cn": "没错。"
+    },
+    {
+      "id": 263,
+      "en": "That's right.",
+      "cn": "还有另一部分。"
+    },
+    {
+      "id": 265,
+      "en": "I mean, as young people, as children, we almost all played soccer.",
+      "cn": "我是说，作为年轻人，作为孩子，我们几乎都踢过足球。"
+    },
+    {
+      "id": 266,
+      "en": "I played soccer.",
+      "cn": "我踢过足球。"
+    },
+    {
+      "id": 267,
+      "en": "I know a lot of my friends did as well.",
+      "cn": "我知道我的很多朋友也踢过。"
+    },
+    {
+      "id": 268,
+      "en": "It's not popular everywhere, but a lot of people play it and there's not really an audience for soccer in America once you're in the professional realm.",
+      "cn": "这并不是在所有地方都受欢迎，但很多人都在踢，而且在美国一旦进入职业领域，就没有真正的观众。"
+    },
+    {
+      "id": 269,
+      "en": "And so the problem is when you pass college, you don't think of it as the NBA, for example, because there's not as big of an audience, and so people just end up doing their normal jobs as opposed to being professional soccer players.",
+      "cn": "所以问题是，当你大学毕业后，你不会像NBA那样考虑它，因为观众没有那么多，所以人们最终只是做他们正常的工作，而不是成为职业足球运动员。"
+    },
+    {
+      "id": 270,
+      "en": "I think that has a big... something to do with it is the fact that there is not as much money in this sport professionally as, for example, the NBA.",
+      "cn": "我认为这与这项运动的职业收入没有那么多钱有很大关系，比如NBA。"
+    },
+    {
+      "id": 271,
+      "en": "Or prestige.",
+      "cn": "或者声望。"
+    },
+    {
+      "id": 272,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 273,
+      "en": "Although this is the... on the other hand, these players that do make it and they really want to play, they go abroad and they go play in the European leagues or something like that.",
+      "cn": "尽管另一方面，这些真正想踢球的球员会去国外，在欧洲联赛或其他地方踢球。"
+    },
+    {
+      "id": 274,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 275,
+      "en": "I think a lot of the American players who were playing the other day against England were playing against their teammates because so many of the American national team play in the English Premier League.",
+      "cn": "我认为很多前几天对阵英格兰的美国球员都是在和他们的队友比赛，因为美国国家队的很多球员都在英超联赛踢球。"
+    },
+    {
+      "id": 276,
+      "en": "It was really awkward.",
+      "cn": "这真的很尴尬。"
+    },
+    {
+      "id": 277,
+      "en": "Well, it's a really great sport.",
+      "cn": "嗯，这是一项非常棒的运动。"
+    },
+    {
+      "id": 278,
+      "en": "I think it's one of the most popular sports in many other countries as well because it's so easy.",
+      "cn": "我认为它是许多其他国家中最受欢迎的运动之一，因为它非常简单。"
+    },
+    {
+      "id": 279,
+      "en": "All you need is a ball, you need a group of people, you put two rocks and you have a goal and you start playing.",
+      "cn": "你只需要一个球，一群人，放两个石头就有了一个球门，然后开始踢。"
+    },
+    {
+      "id": 280,
+      "en": "And that's probably why it's the most international sport because it's very easy to set up, people all over the world love it and hopefully one day the United States will kind of push it.",
+      "cn": "这可能就是为什么它是最国际化的运动，因为它很容易组织，世界各地的人都喜欢它，希望有一天美国能推动它。"
+    },
+    {
+      "id": 281,
+      "en": "Become champion.",
+      "cn": "成为冠军。"
+    },
+    {
+      "id": 282,
+      "en": "Well, I hope this year they'll become champions but my fingers are definitely crossed because who knows.",
+      "cn": "嗯，我希望今年他们能成为冠军，但我真的很期待，因为谁知道呢。"
+    },
+    {
+      "id": 283,
+      "en": "Alright, so it's a really great topic.",
+      "cn": "好吧，这是一个非常好的话题。"
+    },
+    {
+      "id": 284,
+      "en": "We want to know if your country is in the World Cup.",
+      "cn": "我们想知道你的国家是否参加世界杯。"
+    },
+    {
+      "id": 285,
+      "en": "Have you ever qualified for a World Cup?",
+      "cn": "你曾经有资格参加世界杯吗？"
+    },
+    {
+      "id": 286,
+      "en": "There are still many countries who haven't made it.",
+      "cn": "仍然有很多国家没有进入。"
+    },
+    {
+      "id": 287,
+      "en": "Of course, it's a very small pool.",
+      "cn": "当然，这个池子非常小。"
+    },
+    {
+      "id": 288,
+      "en": "198, 199 countries compete to qualify for the World Cup and only 32 make it.",
+      "cn": "198、199个国家竞争以获得世界杯资格，只有32个能进入。"
+    },
+    {
+      "id": 289,
+      "en": "And you can also tell us who you're supporting.",
+      "cn": "你也可以告诉我们你支持谁。"
+    },
+    {
+      "id": 290,
+      "en": "We won't judge.",
+      "cn": "我们不会评判。"
+    },
+    {
+      "id": 291,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 292,
+      "en": "So we're waiting for your comments at EnglishPod.com.",
+      "cn": "所以我们在等待你们的评论，地址是EnglishPod.com。"
+    },
+    {
+      "id": 293,
+      "en": "We'll see everyone there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 294,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

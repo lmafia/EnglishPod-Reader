@@ -1,0 +1,769 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0349",
+  "title": "EnglishPod 中级 0349",
+  "totalSegments": 152,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and today we have a very advanced lesson for you all about medicine.",
+      "cn": "我叫Katherine，今天我们有一节关于医学的高级课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're going to take a look at what is very widely known as Chinese traditional medicine.",
+      "cn": "今天我们将讨论广为人知的中医。"
+    },
+    {
+      "id": 6,
+      "en": "So a very interesting topic in general.",
+      "cn": "这是一个非常有趣的话题。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "And for people who use this, they might call it TCM, Traditional Chinese Medicine.",
+      "cn": "使用这个的人可能称之为TCM，传统中医。"
+    },
+    {
+      "id": 9,
+      "en": "So remember that there's that acronym as well.",
+      "cn": "所以记住这个缩写。"
+    },
+    {
+      "id": 10,
+      "en": "But let's take a listen to today's dialogue, and when we come back we'll be discussing some of the important words and phrases in the dialogue.",
+      "cn": "但让我们先听听今天的对话，回来后我们将讨论对话中的一些重要单词和短语。"
+    },
+    {
+      "id": 11,
+      "en": "What's wrong?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 12,
+      "en": "I have a headache.",
+      "cn": "我头疼。"
+    },
+    {
+      "id": 13,
+      "en": "These past few days I've been living off painkillers.",
+      "cn": "这几天我一直在靠止痛药过活。"
+    },
+    {
+      "id": 14,
+      "en": "Man, I feel like my head is going to explode.",
+      "cn": "我感觉我的头要爆炸了。"
+    },
+    {
+      "id": 15,
+      "en": "You should get acupuncture treatment.",
+      "cn": "你应该去针灸。"
+    },
+    {
+      "id": 16,
+      "en": "My mom was always having headache issues, and it was acupuncture that cured her.",
+      "cn": "我妈妈总是头疼，针灸治好了她。"
+    },
+    {
+      "id": 17,
+      "en": "The results are too slow.",
+      "cn": "效果太慢了。"
+    },
+    {
+      "id": 18,
+      "en": "On top of that, just the thought of smoking needles poking into my flesh frightens me.",
+      "cn": "而且，光是想象针扎进我肉里的感觉就让我害怕。"
+    },
+    {
+      "id": 19,
+      "en": "They don't just randomly stick you.",
+      "cn": "他们不会随便扎你。"
+    },
+    {
+      "id": 20,
+      "en": "They find your pressure points.",
+      "cn": "他们会找到你的腧穴。"
+    },
+    {
+      "id": 21,
+      "en": "The heat allows the body to immediately respond to the treatment, restoring the body's chi.",
+      "cn": "热量使身体立即对治疗作出反应，恢复身体的气。"
+    },
+    {
+      "id": 22,
+      "en": "But I get scared the moment I see a needle.",
+      "cn": "但我一看到针就害怕。"
+    },
+    {
+      "id": 23,
+      "en": "How could I stand having needles in my body for hours on end?",
+      "cn": "我怎么能忍受针在我身体里待几个小时？"
+    },
+    {
+      "id": 24,
+      "en": "The needles are very thin, and as long as the doctor's technique is good and the patient himself is relaxed, it won't hurt.",
+      "cn": "针很细，只要医生的技术好，病人放松，就不会疼。"
+    },
+    {
+      "id": 25,
+      "en": "On the contrary, it will actually alleviate pain.",
+      "cn": "相反，实际上会缓解疼痛。"
+    },
+    {
+      "id": 26,
+      "en": "Now there are high-tech needles that are micro-thin.",
+      "cn": "现在有高科技的微细针。"
+    },
+    {
+      "id": 27,
+      "en": "They don't hurt at all.",
+      "cn": "它们根本不疼。"
+    },
+    {
+      "id": 28,
+      "en": "However, if you are really scared of acupuncture, scraping or cupping are also options.",
+      "cn": "不过，如果你真的害怕针灸，刮痧或拔罐也是选择。"
+    },
+    {
+      "id": 29,
+      "en": "Scraping is too terrifying.",
+      "cn": "刮痧太可怕了。"
+    },
+    {
+      "id": 30,
+      "en": "When they finish scraping, your body is all red, as if you were just tortured.",
+      "cn": "刮完后，你的身体全是红的，像是刚被折磨过。"
+    },
+    {
+      "id": 31,
+      "en": "Cupping is the same.",
+      "cn": "拔罐也是一样。"
+    },
+    {
+      "id": 32,
+      "en": "Your body ends up with red circles all over it.",
+      "cn": "你的身体上到处都是红圈。"
+    },
+    {
+      "id": 33,
+      "en": "It looks like someone beat you up.",
+      "cn": "看起来像是被人打了一样。"
+    },
+    {
+      "id": 34,
+      "en": "This only signifies that the toxins have left the body.",
+      "cn": "这只是表示毒素已经离开身体。"
+    },
+    {
+      "id": 35,
+      "en": "Actually, there is only discomfort during the treatment process.",
+      "cn": "实际上，治疗过程中只有不适。"
+    },
+    {
+      "id": 36,
+      "en": "Once it's over, you'll feel very comfortable.",
+      "cn": "一旦结束，你会感到非常舒适。"
+    },
+    {
+      "id": 37,
+      "en": "Chinese medicine is strange.",
+      "cn": "中医很奇怪。"
+    },
+    {
+      "id": 38,
+      "en": "The patients are already ill, and then the doctor makes them suffer more.",
+      "cn": "病人已经生病了，医生却让他们更痛苦。"
+    },
+    {
+      "id": 39,
+      "en": "This is the only way to get at the problem.",
+      "cn": "这是解决问题的唯一方法。"
+    },
+    {
+      "id": 40,
+      "en": "Anyway, if you want to relieve the pain, you are just going to have to be tough and do it.",
+      "cn": "不管怎样，如果你想缓解疼痛，你就得坚强，去做。"
+    },
+    {
+      "id": 41,
+      "en": "Forget it.",
+      "cn": "算了。"
+    },
+    {
+      "id": 42,
+      "en": "I don't want to inflict any more pain on myself.",
+      "cn": "我不想再给自己带来痛苦。"
+    },
+    {
+      "id": 43,
+      "en": "In a little while, I'll go and buy some more painkillers and take a nap.",
+      "cn": "一会儿我去买些止痛药，睡个觉。"
+    },
+    {
+      "id": 44,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 45,
+      "en": "So now obviously, we are talking about what is commonly known as alternative medicine because, well, we know that traditional medicine nowadays is doctors, you know, you have antibiotics, that sort of thing.",
+      "cn": "所以现在显然，我们在谈论通常所称的替代医学，因为我们知道，现代的传统医学是医生，你知道的，有抗生素之类的。"
+    },
+    {
+      "id": 46,
+      "en": "And here, you're actually using these techniques and these different ways of curing someone.",
+      "cn": "而在这里，你实际上是在使用这些技术和不同的治愈方法。"
+    },
+    {
+      "id": 47,
+      "en": "So the first thing that comes to mind here is acupuncture.",
+      "cn": "所以首先想到的就是针灸。"
+    },
+    {
+      "id": 48,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 49,
+      "en": "So acupuncture is usually considered a part of Chinese medicine, and it's a kind of medicine that uses needles in different parts of the body.",
+      "cn": "针灸通常被认为是中医的一部分，它是一种在身体不同部位使用针的医学。"
+    },
+    {
+      "id": 50,
+      "en": "So it might look really scary because you see people lying on their stomachs with needles coming out of their backs.",
+      "cn": "所以它可能看起来很可怕，因为你看到人们趴着，背上插着针。"
+    },
+    {
+      "id": 51,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 52,
+      "en": "And those, the places where they put the needles in, they're called pressure points, right?",
+      "cn": "他们放针的地方叫腧穴，对吧？"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "And pressure points are things that we talk about with massages as well.",
+      "cn": "腧穴也是我们在按摩时讨论的内容。"
+    },
+    {
+      "id": 55,
+      "en": "So a good masseuse, a person who does a massage, will also look for these pressure points, which are key points on the body.",
+      "cn": "所以一个好的按摩师，会寻找这些腧穴，这些是身体上的关键点。"
+    },
+    {
+      "id": 56,
+      "en": "And in acupuncture, they'll put these needles into those points as well, because each point relates to a different part of the body, like the liver or the kidneys.",
+      "cn": "在针灸中，他们也会将针放入这些点，因为每个点与身体的不同部分相关，如肝脏或肾脏。"
+    },
+    {
+      "id": 57,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 58,
+      "en": "So it's actually very interesting, the fact that by sticking a needle in one of these pressure points, they are curing or alleviating the pain of maybe, like you say, your kidney or your liver or something like this.",
+      "cn": "所以实际上很有趣的是，通过在这些腧穴中扎针，他们正在治愈或缓解你肾脏或肝脏的疼痛。"
+    },
+    {
+      "id": 59,
+      "en": "This is a really great word though, Mark, or the one, the word that you just used to alleviate pain.",
+      "cn": "这是一个很好的词，Mark，或者说你刚才用的那个词，缓解疼痛。"
+    },
+    {
+      "id": 60,
+      "en": "Now, to alleviate pain means to make the pain go away.",
+      "cn": "现在，缓解疼痛意味着让疼痛消失。"
+    },
+    {
+      "id": 61,
+      "en": "So what's, we heard the opposite of that as well, also at the very end of today's dialogue.",
+      "cn": "所以我们也听到了它的反义词，在今天对话的最后。"
+    },
+    {
+      "id": 62,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 63,
+      "en": "So the opposite of alleviate would be to inflict pain.",
+      "cn": "所以缓解的反义词是施加痛苦。"
+    },
+    {
+      "id": 64,
+      "en": "This is to do pain to yourself or to someone else.",
+      "cn": "这是对自己或他人造成痛苦。"
+    },
+    {
+      "id": 65,
+      "en": "To cause pain.",
+      "cn": "造成痛苦。"
+    },
+    {
+      "id": 66,
+      "en": "To cause pain.",
+      "cn": "造成痛苦。"
+    },
+    {
+      "id": 67,
+      "en": "So to alleviate is to take it away, and to inflict is to cause.",
+      "cn": "所以缓解是去掉，而施加是造成。"
+    },
+    {
+      "id": 68,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 69,
+      "en": "So now acupuncture is very popular, sticking needles in people's pressure points.",
+      "cn": "所以现在针灸非常流行，把针扎在人的腧穴上。"
+    },
+    {
+      "id": 70,
+      "en": "It does seem like it would hurt, but there are other ones that maybe are not as widely known.",
+      "cn": "这似乎会很疼，但还有其他可能不那么广为人知的。"
+    },
+    {
+      "id": 71,
+      "en": "The next one that we're going to talk about is scraping.",
+      "cn": "接下来我们要谈的是刮痧。"
+    },
+    {
+      "id": 72,
+      "en": "Scraping.",
+      "cn": "刮痧。"
+    },
+    {
+      "id": 73,
+      "en": "So to scrape is a verb, and you can scrape the bottom of your plate with your spoon, or you can scrape on, you know, sometimes cats like to scrape on the furniture.",
+      "cn": "所以刮痧是一个动词，你可以用勺子刮盘子的底部，或者有时猫喜欢在家具上刮。"
+    },
+    {
+      "id": 74,
+      "en": "They use their claws and make that sound.",
+      "cn": "它们用爪子发出那种声音。"
+    },
+    {
+      "id": 75,
+      "en": "But in this case, scraping is a little bit more maybe painful sounding.",
+      "cn": "但在这种情况下，刮痧听起来可能更痛。"
+    },
+    {
+      "id": 76,
+      "en": "What do they do in scraping?",
+      "cn": "刮痧是怎么做的？"
+    },
+    {
+      "id": 77,
+      "en": "So basically it's the same thing.",
+      "cn": "基本上是一样的。"
+    },
+    {
+      "id": 78,
+      "en": "They use different tools, and they scrape your body.",
+      "cn": "他们使用不同的工具，刮你的身体。"
+    },
+    {
+      "id": 79,
+      "en": "They just, I don't know, basically what I understand from it is that they are extracting the illness by taking it out of your skin.",
+      "cn": "我不知道，基本上我理解的是，他们通过从你的皮肤中提取疾病来治愈你。"
+    },
+    {
+      "id": 80,
+      "en": "So they use what looks like a small knife, or like a flat kind of sharp blade, and they actually kind of take off the top layer of your skin.",
+      "cn": "所以他们使用看起来像小刀的工具，或者像平的锋利刀片，实际上是去掉你皮肤的表层。"
+    },
+    {
+      "id": 81,
+      "en": "They scrape it away.",
+      "cn": "他们刮掉它。"
+    },
+    {
+      "id": 82,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 83,
+      "en": "It's very, very painful from what I've heard.",
+      "cn": "听说这非常非常疼。"
+    },
+    {
+      "id": 84,
+      "en": "I've never done it myself.",
+      "cn": "我自己从未尝试过。"
+    },
+    {
+      "id": 85,
+      "en": "But as we see in the dialogue, it does look very... it looks like you've been hit or treated poorly at a prison or something, because your skin is red and almost bleeding.",
+      "cn": "但正如我们在对话中看到的，确实看起来很像... 看起来像是你在监狱里被打或受到虐待，因为你的皮肤是红色的，几乎在流血。"
+    },
+    {
+      "id": 86,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 87,
+      "en": "And another one that actually looks quite painful when you see someone after they've done it is called cupping.",
+      "cn": "还有一种看起来相当疼的，叫做拔罐。"
+    },
+    {
+      "id": 88,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 89,
+      "en": "Now this one you might have seen even in the last Karate Kid movie.",
+      "cn": "你可能在最后一部《功夫熊猫》电影中见过这个。"
+    },
+    {
+      "id": 90,
+      "en": "Basically it's a little round bulb, or a little round glass cup, and the doctor, the Chinese doctor, will light a piece of cotton and will put the cup over it.",
+      "cn": "基本上是一个小圆球，或者一个小圆玻璃杯，医生，那个中医，会点燃一块棉花，然后把杯子放在上面。"
+    },
+    {
+      "id": 91,
+      "en": "And the suction effect that by putting out the fire and it sucks up all the oxygen and everything causes the cup to suck onto your skin really, really tight.",
+      "cn": "通过熄灭火焰产生的吸力，使杯子紧紧吸附在你的皮肤上。"
+    },
+    {
+      "id": 92,
+      "en": "Yeah, it's like you put it onto your skin so it creates a vacuum, right?",
+      "cn": "是的，就像把它放在你的皮肤上，形成一个真空，对吧？"
+    },
+    {
+      "id": 93,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 94,
+      "en": "There's no air coming in.",
+      "cn": "没有空气进入。"
+    },
+    {
+      "id": 95,
+      "en": "And that way the cup that there's no air in has to pull out all those chemicals and those toxins and that oil from your skin and take it away.",
+      "cn": "这样杯子里没有空气，就必须把所有的化学物质、毒素和油从你的皮肤中抽出来。"
+    },
+    {
+      "id": 96,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 97,
+      "en": "Right, so it's actually pulling at your skin.",
+      "cn": "对，所以实际上是在拉扯你的皮肤。"
+    },
+    {
+      "id": 98,
+      "en": "Yeah, and well that's the thing with the vacuum effect is so great and pulling it out with such force that you are actually left with a big purple or red circle on your skin from I guess the blood clot type thing, the effect that is caused by it.",
+      "cn": "是的，真空效果非常强大，拉扯得如此用力，以至于你会在皮肤上留下一个大紫色或红色的圆圈，我想是由血块造成的效果。"
+    },
+    {
+      "id": 99,
+      "en": "So you will see a person's back maybe and they have... Bruises.",
+      "cn": "所以你会看到一个人的背上可能有... 淤青。"
+    },
+    {
+      "id": 100,
+      "en": "Bruises, yeah, like six, seven, ten bruises on their backs.",
+      "cn": "淤青，是的，背上有六、七、十个淤青。"
+    },
+    {
+      "id": 101,
+      "en": "Although I am told that even though it's very painful and it looks even more painful, the effect is that it does help your circulation, it helps the blood in your body move around more freely.",
+      "cn": "虽然我听说即使这很痛，看起来更痛，但效果是它确实有助于你的血液循环，帮助你体内的血液更自由地流动。"
+    },
+    {
+      "id": 102,
+      "en": "Yeah, I've heard the same thing and even though that it looks painful and it may be painful while they are doing it, I've heard that after it's done, even though it looks like it should hurt, it looks like a bruise, it doesn't hurt like a bruise.",
+      "cn": "是的，我也听说过同样的事情，尽管看起来很痛，做的时候可能会痛，但我听说完成后，尽管看起来像淤伤，但并不像淤伤那样痛。"
+    },
+    {
+      "id": 103,
+      "en": "So people don't actually say, oh, you know, don't touch my back, it really hurts.",
+      "cn": "所以人们并不会说，哦，你知道，不要碰我的背，真的很痛。"
+    },
+    {
+      "id": 104,
+      "en": "It doesn't really seem that way.",
+      "cn": "似乎并不是这样。"
+    },
+    {
+      "id": 105,
+      "en": "Well, there's an interesting line in the dialogue that is related to this.",
+      "cn": "嗯，关于这个对话中有一句有趣的话。"
+    },
+    {
+      "id": 106,
+      "en": "It's about scraping actually, but you can say it about cupping as well.",
+      "cn": "其实是关于刮痧的，但你也可以说是关于拔罐的。"
+    },
+    {
+      "id": 107,
+      "en": "Your body is all red as if you were just tortured.",
+      "cn": "你的身体全是红色，就像刚被折磨过一样。"
+    },
+    {
+      "id": 108,
+      "en": "Now, as if you were tortured, or we could say, as if you were beaten up.",
+      "cn": "现在，就像你被折磨过，或者我们可以说，就像你被打了一样。"
+    },
+    {
+      "id": 109,
+      "en": "And in this case, was the person tortured?",
+      "cn": "在这种情况下，这个人被折磨了吗？"
+    },
+    {
+      "id": 110,
+      "en": "No.",
+      "cn": "没有。"
+    },
+    {
+      "id": 111,
+      "en": "So it's basically a relation or making that relation that your skin is so, let's say, bloody that it looks as if you were tortured.",
+      "cn": "所以基本上是说你的皮肤是如此，让我们说，血淋淋的，看起来就像你被折磨过。"
+    },
+    {
+      "id": 112,
+      "en": "So it seems like somebody hit you with a whip or something.",
+      "cn": "所以看起来像是有人用鞭子打了你或什么的。"
+    },
+    {
+      "id": 113,
+      "en": "It looks like you were tortured, but you weren't.",
+      "cn": "看起来你被折磨过，但其实没有。"
+    },
+    {
+      "id": 114,
+      "en": "So as if is a way for us to make a comparison or an analogy.",
+      "cn": "所以“就像”是我们进行比较或类比的一种方式。"
+    },
+    {
+      "id": 115,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 116,
+      "en": "I think you can see it in maybe books.",
+      "cn": "我想你可以在书中看到。"
+    },
+    {
+      "id": 117,
+      "en": "So maybe you would describe a guy saying, oh, he was really angry as if he had rabies.",
+      "cn": "所以你可能会描述一个家伙说，哦，他真的很生气，就像他得了狂犬病一样。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, it's as if he had rabies.",
+      "cn": "是的，就像他得了狂犬病。"
+    },
+    {
+      "id": 119,
+      "en": "Like he doesn't, but he's acting like he does.",
+      "cn": "就像他没有，但他的表现就像他得了。"
+    },
+    {
+      "id": 120,
+      "en": "Or maybe you run into the kitchen and eat so much food as if you hadn't eaten in days.",
+      "cn": "或者你可能跑进厨房，吃了很多食物，就像你几天没吃东西一样。"
+    },
+    {
+      "id": 121,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 122,
+      "en": "So you have, obviously, but you're acting like someone who is starving.",
+      "cn": "所以你显然是吃过的，但你表现得像一个饥饿的人。"
+    },
+    {
+      "id": 123,
+      "en": "So yeah, that is an interesting way to describe or to make a connection between two different things.",
+      "cn": "所以是的，这是一种有趣的方式来描述或在两件不同的事情之间建立联系。"
+    },
+    {
+      "id": 124,
+      "en": "And well, Chinese traditional medicine as well.",
+      "cn": "而且，中国传统医学也是如此。"
+    },
+    {
+      "id": 125,
+      "en": "Very interesting and historical form of treating illnesses.",
+      "cn": "非常有趣且历史悠久的治疗疾病的方式。"
+    },
+    {
+      "id": 126,
+      "en": "Now, I'm told that it does work, even though some people are very skeptical about it.",
+      "cn": "现在，我听说它确实有效，尽管有些人对此非常怀疑。"
+    },
+    {
+      "id": 127,
+      "en": "And I don't think it's accepted in the international medical field.",
+      "cn": "而且我认为它在国际医学界并不被接受。"
+    },
+    {
+      "id": 128,
+      "en": "Well, I think that there's a Western medicine which has its benefits.",
+      "cn": "嗯，我认为西方医学有其好处。"
+    },
+    {
+      "id": 129,
+      "en": "You know, you have penicillin and all of these different antibiotics to help us combat different diseases and bacteria.",
+      "cn": "你知道，你有青霉素和所有这些不同的抗生素来帮助我们对抗不同的疾病和细菌。"
+    },
+    {
+      "id": 130,
+      "en": "But also, traditional Chinese medicine kind of helps other things.",
+      "cn": "但传统中医也有助于其他方面。"
+    },
+    {
+      "id": 131,
+      "en": "I think there is a spirituality, this idea that we have a chi.",
+      "cn": "我认为有一种灵性，这种我们有气的想法。"
+    },
+    {
+      "id": 132,
+      "en": "There are positive and negative forces in our bodies.",
+      "cn": "我们体内有正负能量。"
+    },
+    {
+      "id": 133,
+      "en": "And sometimes trauma or big events will make that chi kind of, well, it'll affect it in a bad way so that chi is unbalanced.",
+      "cn": "有时创伤或重大事件会使气受到影响，导致气失衡。"
+    },
+    {
+      "id": 134,
+      "en": "And so a lot of this is about rebalancing your system.",
+      "cn": "所以很多事情都是关于重新平衡你的系统。"
+    },
+    {
+      "id": 135,
+      "en": "And if you believe that and you really understand that, you know, there are certain forces inside your body, then I'm sure this kind of medicine has a positive effect on you.",
+      "cn": "如果你相信这一点，并且真正理解你体内有某种力量，那么我相信这种医学对你有积极的影响。"
+    },
+    {
+      "id": 136,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 137,
+      "en": "I believe that it does have its ups and downs.",
+      "cn": "我相信它确实有好有坏。"
+    },
+    {
+      "id": 138,
+      "en": "I was very skeptical about it.",
+      "cn": "我曾经对此非常怀疑。"
+    },
+    {
+      "id": 139,
+      "en": "Until once, actually, I had a very, very, very bad headache and somebody took and pushed a pressure point on my finger, on my thumb, for about maybe one or two minutes and the headache was gone.",
+      "cn": "直到有一次，我真的头痛得很厉害，有人按了我手指上的一个压力点，大约一两分钟，头痛就消失了。"
+    },
+    {
+      "id": 140,
+      "en": "So it was very, I was very much amazed.",
+      "cn": "所以我非常惊讶。"
+    },
+    {
+      "id": 141,
+      "en": "But at the same time, when people are treated maybe for, you know, maybe they can't conceive a baby and they're doing these rituals or giving them ginger or different roots to drink and eat and stuff, I don't know if that really does help or what evidence there is that it actually does work.",
+      "cn": "但同时，当人们可能因为无法怀孕而接受治疗，进行这些仪式或给他们生姜或不同的根来喝和吃时，我不知道这是否真的有帮助，或者有什么证据表明它确实有效。"
+    },
+    {
+      "id": 142,
+      "en": "Well, I think that's something that also is important to look at on an individual basis.",
+      "cn": "嗯，我认为这也是需要根据个体情况来看待的。"
+    },
+    {
+      "id": 143,
+      "en": "You know, I don't think even some Western medicines help all the time if you're not in a place where you believe that it will work.",
+      "cn": "你知道，我认为即使是一些西方药物，如果你不相信它会有效，也不一定总是有效。"
+    },
+    {
+      "id": 144,
+      "en": "But the interesting aspect of it is, of course, so many years ago, we're talking about hundreds or thousands of years ago, when there was no Western medicine and then people were being cured and treated by these techniques, which actually worked.",
+      "cn": "但有趣的是，当然，很多年前，我们谈论的是几百或几千年前，当时没有西方医学，人们通过这些技术得到了治愈和治疗，实际上是有效的。"
+    },
+    {
+      "id": 145,
+      "en": "So there is a very interesting aspect that maybe even Western medicine can learn from traditional medicine like this.",
+      "cn": "所以有一个非常有趣的方面，也许西方医学甚至可以从这样的传统医学中学习。"
+    },
+    {
+      "id": 146,
+      "en": "Definitely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 147,
+      "en": "So it's an interesting topic, Oriental medicine, Western medicine, but we want to know what you think about it.",
+      "cn": "所以这是一个有趣的话题，东方医学，西方医学，但我们想知道你对此的看法。"
+    },
+    {
+      "id": 148,
+      "en": "We also want to know in your home country, do you have a traditional kind of medicine or any medical alternatives to Western medicine?",
+      "cn": "我们还想知道在你的祖国，是否有传统医学或任何替代西方医学的医疗方式？"
+    },
+    {
+      "id": 149,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 150,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 151,
+      "en": "All right, we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 152,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

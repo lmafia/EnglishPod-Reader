@@ -1,0 +1,1264 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0171",
+  "title": "EnglishPod 高级 0171",
+  "totalSegments": 251,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "So, Marco, what are we talking about here today?",
+      "cn": "所以，Marco，今天我们要谈什么？"
+    },
+    {
+      "id": 5,
+      "en": "Today we're going shopping again.",
+      "cn": "今天我们要去购物。"
+    },
+    {
+      "id": 6,
+      "en": "We go shopping a lot here at EnglishPod, but this is an upper intermediate level lesson, so we've got some very specific terminology to cover.",
+      "cn": "我们在EnglishPod经常购物，但这是一个中高级水平的课程，所以我们有一些非常具体的术语要讨论。"
+    },
+    {
+      "id": 7,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "We're going shopping for a digital camera, so we're going to be talking about very specific, maybe a little bit technical vocab related to this very fascinating and expensive product.",
+      "cn": "我们要买一台数码相机，所以我们将讨论一些与这个非常迷人且昂贵的产品相关的特定、可能有点技术性的词汇。"
+    },
+    {
+      "id": 9,
+      "en": "Alright, I'm very excited.",
+      "cn": "好的，我很兴奋。"
+    },
+    {
+      "id": 10,
+      "en": "I recently purchased a camera, but we won't talk about that yet.",
+      "cn": "我最近买了一台相机，但我们暂时不谈这个。"
+    },
+    {
+      "id": 11,
+      "en": "Let's take a listen to the dialogue for the first time, and when we come back we can talk about some of the really interesting details.",
+      "cn": "让我们先听听对话，然后回来讨论一些非常有趣的细节。"
+    },
+    {
+      "id": 12,
+      "en": "Hello, ma'am.",
+      "cn": "你好，女士。"
+    },
+    {
+      "id": 13,
+      "en": "Can I help you find something?",
+      "cn": "我可以帮你找些什么吗？"
+    },
+    {
+      "id": 14,
+      "en": "Yes, actually.",
+      "cn": "是的，实际上。"
+    },
+    {
+      "id": 15,
+      "en": "I'm looking to buy a camera.",
+      "cn": "我想买一台相机。"
+    },
+    {
+      "id": 16,
+      "en": "We've got a wide selection.",
+      "cn": "我们有很多选择。"
+    },
+    {
+      "id": 17,
+      "en": "Do you know if you'd like a point-and-shoot or something a little fancier?",
+      "cn": "你知道你想要一台傻瓜相机还是更高级一点的相机吗？"
+    },
+    {
+      "id": 18,
+      "en": "Are you shopping for yourself or for someone else?",
+      "cn": "你是为自己购物还是为别人？"
+    },
+    {
+      "id": 19,
+      "en": "Actually, I'm buying a camera for my husband.",
+      "cn": "实际上，我是为我丈夫买相机。"
+    },
+    {
+      "id": 20,
+      "en": "Ah, well then I'd recommend a nice entry-level digital SLR.",
+      "cn": "啊，那我推荐一款不错的入门级数码单反相机。"
+    },
+    {
+      "id": 21,
+      "en": "Yeah?",
+      "cn": "是吗？"
+    },
+    {
+      "id": 22,
+      "en": "Can I take a look at the SLRs you carry?",
+      "cn": "我可以看看你们的单反相机吗？"
+    },
+    {
+      "id": 23,
+      "en": "Sure thing.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 24,
+      "en": "Follow me.",
+      "cn": "跟我来。"
+    },
+    {
+      "id": 25,
+      "en": "This here is the... The Canon EOS.",
+      "cn": "这就是……佳能EOS。"
+    },
+    {
+      "id": 26,
+      "en": "Yeah, it's okay, but I'm looking for something that performs better in low light, has a better display panel and longer battery life.",
+      "cn": "是的，挺好的，但我想要一台在低光环境下表现更好的相机，显示屏更好，电池续航更长。"
+    },
+    {
+      "id": 27,
+      "en": "Oh, ah, the Nikon D60 is a nice option?",
+      "cn": "哦，尼康D60是个不错的选择？"
+    },
+    {
+      "id": 28,
+      "en": "Yeah, but what kit lens does this camera come with?",
+      "cn": "是的，但这台相机配什么镜头？"
+    },
+    {
+      "id": 29,
+      "en": "I don't want some bulky telephoto lens.",
+      "cn": "我不想要笨重的长焦镜头。"
+    },
+    {
+      "id": 30,
+      "en": "Ah, well, this one has the... Looks to me like an 18-55mm lens.",
+      "cn": "啊，这个配的是……看起来是18-55mm的镜头。"
+    },
+    {
+      "id": 31,
+      "en": "Pretty standard.",
+      "cn": "相当标准。"
+    },
+    {
+      "id": 32,
+      "en": "That'll do.",
+      "cn": "这样就可以了。"
+    },
+    {
+      "id": 33,
+      "en": "Not like my husband will be stalking celebrities or anything.",
+      "cn": "反正我丈夫不会去跟踪名人。"
+    },
+    {
+      "id": 34,
+      "en": "So, um, can I interest you in any accessories?",
+      "cn": "那么，嗯，我可以为你推荐一些配件吗？"
+    },
+    {
+      "id": 35,
+      "en": "Do you carry polarizing filters?",
+      "cn": "你们有偏振滤镜吗？"
+    },
+    {
+      "id": 36,
+      "en": "Polarizing filters?",
+      "cn": "偏振滤镜？"
+    },
+    {
+      "id": 37,
+      "en": "Um, we should.",
+      "cn": "嗯，我们应该有。"
+    },
+    {
+      "id": 38,
+      "en": "I'm sorry, ma'am.",
+      "cn": "对不起，女士。"
+    },
+    {
+      "id": 39,
+      "en": "Looks like we're sold out.",
+      "cn": "看起来我们卖完了。"
+    },
+    {
+      "id": 40,
+      "en": "No, you're not.",
+      "cn": "不，你们没有。"
+    },
+    {
+      "id": 41,
+      "en": "There's some right here.",
+      "cn": "这里有一些。"
+    },
+    {
+      "id": 42,
+      "en": "Oh, well, would you look at that?",
+      "cn": "哦，真是的？"
+    },
+    {
+      "id": 43,
+      "en": "Polarizing filters.",
+      "cn": "偏振滤镜。"
+    },
+    {
+      "id": 44,
+      "en": "Thanks for your help, Ralph.",
+      "cn": "谢谢你的帮助，Ralph。"
+    },
+    {
+      "id": 45,
+      "en": "No problem, ma'am.",
+      "cn": "没问题，女士。"
+    },
+    {
+      "id": 46,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 47,
+      "en": "So apparently this girl knew more than the salesman about these things.",
+      "cn": "显然这个女孩对这些东西比销售员了解得多。"
+    },
+    {
+      "id": 48,
+      "en": "Is this from her life experience?",
+      "cn": "这是她的生活经验吗？"
+    },
+    {
+      "id": 49,
+      "en": "Maybe.",
+      "cn": "也许吧。"
+    },
+    {
+      "id": 50,
+      "en": "Well, we can get to that later, like I said, but there are some very important words that anyone who wants to buy a camera should know before they go into the store, and these are common across the board.",
+      "cn": "嗯，正如我所说，我们稍后可以讨论这个，但有一些非常重要的词汇是任何想买相机的人在进店之前应该知道的，这些词汇是普遍适用的。"
+    },
+    {
+      "id": 51,
+      "en": "So let's take a look at these in today's language takeaway.",
+      "cn": "所以让我们在今天的语言要点中看看这些。"
+    },
+    {
+      "id": 52,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 53,
+      "en": "All right, so in language takeaway today we have our first difference.",
+      "cn": "好的，所以在今天的语言要点中，我们有第一个区别。"
+    },
+    {
+      "id": 54,
+      "en": "Now, it's very important to know the difference between point-and-shoot camera and the digital SLR.",
+      "cn": "现在，了解傻瓜相机和数码单反相机之间的区别非常重要。"
+    },
+    {
+      "id": 55,
+      "en": "Okay, so digital, everyone knows digital now, right?",
+      "cn": "好的，大家现在都知道数码相机吧？"
+    },
+    {
+      "id": 56,
+      "en": "That's the kind of photography we have.",
+      "cn": "这就是我们现在的摄影方式。"
+    },
+    {
+      "id": 57,
+      "en": "You don't use film, okay?",
+      "cn": "你不使用胶卷，好的？"
+    },
+    {
+      "id": 58,
+      "en": "It uses a memory card to record digital images, but point-and-takes a picture.",
+      "cn": "它使用存储卡来记录数字图像，但傻瓜相机只拍照。"
+    },
+    {
+      "id": 59,
+      "en": "There's no lens, a special, there's no additional lens, there's no special add-ons.",
+      "cn": "没有镜头，没有特殊的，没有额外的镜头，没有特殊的附加设备。"
+    },
+    {
+      "id": 60,
+      "en": "It's a small rectangle, and you just take normal pictures.",
+      "cn": "它是一个小矩形，你只需拍普通照片。"
+    },
+    {
+      "id": 61,
+      "en": "And that's the kind of camera that like my mom uses, and like I have it in my purse and whatever.",
+      "cn": "这就是我妈妈使用的相机，我的包里也有。"
+    },
+    {
+      "id": 62,
+      "en": "It's easy to use.",
+      "cn": "它很容易使用。"
+    },
+    {
+      "id": 63,
+      "en": "But the digital SLR is a kind of camera that's like the old SLR where you have an like an attachment of a, you have a body, and you have a lens, and they're much fancier, and you have to do a lot more on your own to make a nice picture.",
+      "cn": "但数码单反相机是一种相机，就像旧的单反相机一样，你有一个机身和一个镜头，它们更复杂，你需要自己做更多的事情才能拍出好照片。"
+    },
+    {
+      "id": 64,
+      "en": "Now, SLR, that's an acronym.",
+      "cn": "现在，SLR是一个缩写。"
+    },
+    {
+      "id": 65,
+      "en": "Do you know what it stands for?",
+      "cn": "你知道它代表什么吗？"
+    },
+    {
+      "id": 66,
+      "en": "So an SLR is a single lens reflex camera.",
+      "cn": "所以SLR是单镜头反射相机。"
+    },
+    {
+      "id": 67,
+      "en": "And that means that there's a lot more you have to do as the photographer to make sure that the picture comes out well.",
+      "cn": "这意味着作为摄影师，你需要做更多的事情来确保照片拍得好。"
+    },
+    {
+      "id": 68,
+      "en": "Right, so it's really interesting because you can actually play with the lens, like the focus and you know how much light you want to allow it to go in.",
+      "cn": "对，所以这很有趣，因为你可以实际调整镜头，比如焦距和你想让多少光线进入。"
+    },
+    {
+      "id": 69,
+      "en": "And there's a lot of really, you know, sometimes a little bit difficult things that not many people understand.",
+      "cn": "还有很多有时有点困难的事情，不是很多人能理解。"
+    },
+    {
+      "id": 70,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 71,
+      "en": "And so I think that's why it's good to do some research before you buy one, because there's so many differences across the different cameras.",
+      "cn": "所以我认为在购买之前做一些研究是很好的，因为不同相机之间有很多差异。"
+    },
+    {
+      "id": 72,
+      "en": "Okay, now both on digital SLRs and on point and shoot cameras, you have something that's called a display panel.",
+      "cn": "好的，现在在数码单反相机和傻瓜相机上，你都有一个叫做显示面板的东西。"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "So a display panel is usually covered in plastic.",
+      "cn": "所以显示面板通常是用塑料覆盖的。"
+    },
+    {
+      "id": 75,
+      "en": "And it's the area that tells you how many pictures you've taken, how many pictures you can take, if the flash is on, if you're doing an automatic setting.",
+      "cn": "它是告诉你拍了多少张照片、还能拍多少张、闪光灯是否开启、是否在自动设置的区域。"
+    },
+    {
+      "id": 76,
+      "en": "So it's like the little computer monitor that tells you what's going on with the camera.",
+      "cn": "所以它就像是一个小电脑显示器，告诉你相机的情况。"
+    },
+    {
+      "id": 77,
+      "en": "Usually after you take a picture, you can also see how it came out right in that moment.",
+      "cn": "通常在你拍完照片后，你也可以立即看到照片的效果。"
+    },
+    {
+      "id": 78,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "And so a lot of times with these fancy cameras, you want to know if the how big the display panel is, and how good the quality is in the display panel.",
+      "cn": "所以很多时候，对于这些高级相机，你想知道显示面板的大小，以及显示面板的质量。"
+    },
+    {
+      "id": 80,
+      "en": "Because obviously, if you take a picture and it shows up bad in the display panel, you want to take a new one, right?",
+      "cn": "因为显然，如果你拍了一张照片，显示面板上显示得不好，你想重新拍一张，对吧？"
+    },
+    {
+      "id": 81,
+      "en": "What if it's the display panel that's broken?",
+      "cn": "如果是显示面板坏了呢？"
+    },
+    {
+      "id": 82,
+      "en": "Right, right.",
+      "cn": "对，对。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 84,
+      "en": "And that's actually one of the great advantages of digital cameras that you can actually see how your picture looks like.",
+      "cn": "这实际上是数码相机的一个很大优势，你可以看到你的照片是什么样子的。"
+    },
+    {
+      "id": 85,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 86,
+      "en": "In that moment, instant gratification.",
+      "cn": "在那一刻，瞬间满足。"
+    },
+    {
+      "id": 87,
+      "en": "Nice.",
+      "cn": "不错。"
+    },
+    {
+      "id": 88,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 89,
+      "en": "Now, when she was looking to buy this digital SLR, she mentioned something about a kit lens.",
+      "cn": "现在，当她想买这台数码单反相机时，她提到了一个关于套件镜头的事情。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, this is fancy camera terminology, right?",
+      "cn": "好的，这是高级相机术语，对吧？"
+    },
+    {
+      "id": 91,
+      "en": "Because if you buy a point and shoot, there's no lens, it's just the camera.",
+      "cn": "因为如果你买一台傻瓜相机，就没有镜头，只有相机。"
+    },
+    {
+      "id": 92,
+      "en": "But if you're buying a fancy digital SLR, you can buy the body, which means the the machine, but there's no lens.",
+      "cn": "但如果你买一台高级数码单反相机，你可以购买机身，也就是机器，但没有镜头。"
+    },
+    {
+      "id": 93,
+      "en": "So normally, people will sell stores will sell cameras with a kit lens.",
+      "cn": "所以通常，商店会出售带有套件镜头的相机。"
+    },
+    {
+      "id": 94,
+      "en": "That means they make a kit or they make a combination for you.",
+      "cn": "这意味着他们为你制作一个套件或组合。"
+    },
+    {
+      "id": 95,
+      "en": "So it's the body and the lens exactly.",
+      "cn": "所以就是机身和镜头的组合。"
+    },
+    {
+      "id": 96,
+      "en": "But if you want, you can buy the body and the lens separate.",
+      "cn": "但如果你愿意，你可以单独购买机身和镜头。"
+    },
+    {
+      "id": 97,
+      "en": "Maybe you want a really fancy lens.",
+      "cn": "也许你想要一个非常高级的镜头。"
+    },
+    {
+      "id": 98,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 99,
+      "en": "So what's the kind of fancy lens we might buy a telephoto lens?",
+      "cn": "那么我们可能会购买的高级镜头是什么？长焦镜头？"
+    },
+    {
+      "id": 100,
+      "en": "Oh, so these are the really big lenses for super close up shots from a distance, right?",
+      "cn": "哦，这些是用于从远处拍摄超近距离照片的非常大镜头，对吧？"
+    },
+    {
+      "id": 101,
+      "en": "So you think of maybe professional photographers or photojournalists who had these kind of lenses, they're big, and they're bulky, and they're not for traveling.",
+      "cn": "所以你可能想到专业摄影师或新闻摄影师，他们有这种大而笨重的镜头，不适合旅行。"
+    },
+    {
+      "id": 102,
+      "en": "Usually, you see them in like sporting events, right?",
+      "cn": "通常你会在体育赛事中看到他们，对吧？"
+    },
+    {
+      "id": 103,
+      "en": "They're on the side of the field, and they have these big white, usually white lenses on their cameras.",
+      "cn": "他们在场边，镜头通常是大白色的。"
+    },
+    {
+      "id": 104,
+      "en": "So you can actually take a very close picture of the action is far away.",
+      "cn": "所以你可以拍到远处动作的特写。"
+    },
+    {
+      "id": 105,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 106,
+      "en": "And it's really good for those kind of things where you have action or where you're trying to get close ups.",
+      "cn": "这对于有动作或需要特写的场合非常好。"
+    },
+    {
+      "id": 107,
+      "en": "And now if one of these accessories that could go well with a telephoto lens or any digital SLR is a polarizing filter.",
+      "cn": "现在，如果有一种配件可以与长焦镜头或任何数码单反相机搭配，那就是偏振滤镜。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, so filter is something that takes certain elements out of something else.",
+      "cn": "好的，滤镜是用来去除某些元素的东西。"
+    },
+    {
+      "id": 109,
+      "en": "So we can filter coffee, for example, and it takes the coffee grounds out and leaves the water.",
+      "cn": "比如我们可以过滤咖啡，去掉咖啡渣，留下水。"
+    },
+    {
+      "id": 110,
+      "en": "But in a camera, a polarizing filter is something we put onto the glass of the lens to change the way that light goes into the lens.",
+      "cn": "但在相机中，偏振滤镜是我们放在镜头玻璃上的东西，用来改变光线进入镜头的方式。"
+    },
+    {
+      "id": 111,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 112,
+      "en": "So in this way, you take a picture maybe of a very sunny day and it will look differently if you didn't have this filter.",
+      "cn": "这样的话，你拍摄一个非常阳光明媚的日子，如果没有这个滤镜，效果会不同。"
+    },
+    {
+      "id": 113,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 114,
+      "en": "And you can also have a UV filter, which does similar things with UV rays in the sunlight.",
+      "cn": "你还可以使用UV滤镜，它对阳光中的紫外线有类似的作用。"
+    },
+    {
+      "id": 115,
+      "en": "And these are just filters or things you put on the camera and polarizing means that you're splitting up, right, the kind of light that goes in.",
+      "cn": "这些只是你放在相机上的滤镜，偏振意味着你在分离光线，对吧？"
+    },
+    {
+      "id": 116,
+      "en": "Okay, very good, very technical terms.",
+      "cn": "好的，非常好，非常专业的术语。"
+    },
+    {
+      "id": 117,
+      "en": "And but they're very useful, especially if you're looking to buy one of these cameras and you're not very familiar with the terms.",
+      "cn": "但它们非常有用，尤其是如果你打算购买这些相机而不太熟悉这些术语。"
+    },
+    {
+      "id": 118,
+      "en": "But why don't we move on now to some very interesting phrases that we saw in the dialogue on Fluency Builder.",
+      "cn": "但我们现在为什么不继续讨论一下在流利表达中看到的一些非常有趣的短语呢？"
+    },
+    {
+      "id": 119,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 120,
+      "en": "All right, so on Fluency Builder, our first phrase today is entry level.",
+      "cn": "好的，在流利表达中，我们今天的第一个短语是入门级。"
+    },
+    {
+      "id": 121,
+      "en": "What's an entry level digital SLR?",
+      "cn": "什么是入门级数码单反？"
+    },
+    {
+      "id": 122,
+      "en": "Okay, well, entry level is something that we can use for any kind of purchase.",
+      "cn": "好的，入门级是我们可以用来描述任何购买的东西。"
+    },
+    {
+      "id": 123,
+      "en": "So any kind of thing that we buy in the case of a camera, an entry level is not for an expert or professional.",
+      "cn": "在相机的情况下，入门级并不是给专家或专业人士的。"
+    },
+    {
+      "id": 124,
+      "en": "It's something for someone who's buying one for the first time.",
+      "cn": "它是给第一次购买的人。"
+    },
+    {
+      "id": 125,
+      "en": "Like beginners.",
+      "cn": "比如初学者。"
+    },
+    {
+      "id": 126,
+      "en": "For beginners.",
+      "cn": "对初学者。"
+    },
+    {
+      "id": 127,
+      "en": "So entry level is like entry, beginning, starting.",
+      "cn": "所以入门级就像是入门、开始、起步。"
+    },
+    {
+      "id": 128,
+      "en": "We can have an entry level job where you don't need training or experience, right?",
+      "cn": "我们可以有一个入门级的工作，不需要培训或经验，对吧？"
+    },
+    {
+      "id": 129,
+      "en": "An entry level camera where you don't need long experience with fancy cameras.",
+      "cn": "一个入门级相机，你不需要对高级相机有长时间的经验。"
+    },
+    {
+      "id": 130,
+      "en": "Or training.",
+      "cn": "或者培训。"
+    },
+    {
+      "id": 131,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 132,
+      "en": "To know how to use it.",
+      "cn": "知道如何使用它。"
+    },
+    {
+      "id": 133,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 134,
+      "en": "So that's an entry level camera, but as you mentioned, we can also use it for the job, an entry level job position.",
+      "cn": "所以这就是入门级相机，但正如你提到的，我们也可以用它来描述工作，入门级职位。"
+    },
+    {
+      "id": 135,
+      "en": "All right, what about our second phrase?",
+      "cn": "好的，我们的第二个短语是什么？"
+    },
+    {
+      "id": 136,
+      "en": "Okay, so this one goes with the telephoto lens, right?",
+      "cn": "好的，这个与长焦镜头有关，对吧？"
+    },
+    {
+      "id": 137,
+      "en": "She says, I don't need a telephoto lens.",
+      "cn": "她说，我不需要长焦镜头。"
+    },
+    {
+      "id": 138,
+      "en": "My husband doesn't need a telephoto lens.",
+      "cn": "我丈夫不需要长焦镜头。"
+    },
+    {
+      "id": 139,
+      "en": "It's not like he's going to be stalking celebrities.",
+      "cn": "他可不是要跟踪名人。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, so we have this verb here, to stock.",
+      "cn": "好的，所以我们这里有一个动词，跟踪。"
+    },
+    {
+      "id": 141,
+      "en": "To stock.",
+      "cn": "跟踪。"
+    },
+    {
+      "id": 142,
+      "en": "That means to follow someone around and to look at them and to watch them and to not leave them alone.",
+      "cn": "这意味着跟着某人，观察他们，不让他们独处。"
+    },
+    {
+      "id": 143,
+      "en": "Now she mentioned this because this is a very interesting and closely associated topic with photographers.",
+      "cn": "她提到这个是因为这是一个与摄影师密切相关的话题。"
+    },
+    {
+      "id": 144,
+      "en": "You know, you have the paparazzi who follow celebrities and they have these big telephoto lens so they can take pictures of celebrities without them knowing.",
+      "cn": "你知道，狗仔队跟踪名人，他们有这些大长焦镜头，可以在名人不知道的情况下拍照。"
+    },
+    {
+      "id": 145,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 146,
+      "en": "And so you imagine someone in a tree with a big telephoto lens taking a photo of someone famous who's half a mile away.",
+      "cn": "所以你可以想象有人在树上用大长焦镜头拍摄半英里外的名人。"
+    },
+    {
+      "id": 147,
+      "en": "And stalking celebrities is something that's a bad thing, right?",
+      "cn": "跟踪名人是件坏事，对吧？"
+    },
+    {
+      "id": 148,
+      "en": "Yeah, it's bad.",
+      "cn": "是的，坏事。"
+    },
+    {
+      "id": 149,
+      "en": "But it's very illegal.",
+      "cn": "但这非常非法。"
+    },
+    {
+      "id": 150,
+      "en": "And I think it's illegal.",
+      "cn": "我认为这是非法的。"
+    },
+    {
+      "id": 151,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 152,
+      "en": "And what about our last phrase?",
+      "cn": "我们最后一个短语是什么？"
+    },
+    {
+      "id": 153,
+      "en": "Would you look at that?",
+      "cn": "你看看这个？"
+    },
+    {
+      "id": 154,
+      "en": "Well, he said it in a very surprised tone, right?",
+      "cn": "嗯，他用非常惊讶的语气说的，对吧？"
+    },
+    {
+      "id": 155,
+      "en": "Kind of like he didn't really expect to find the polarizing filters.",
+      "cn": "有点像他没想到会找到偏振滤镜。"
+    },
+    {
+      "id": 156,
+      "en": "Right, so he's embarrassed, okay?",
+      "cn": "对，所以他感到尴尬，好吗？"
+    },
+    {
+      "id": 157,
+      "en": "Would you look at that means, oh wow, I'm surprised.",
+      "cn": "你看看这个意味着，哦哇，我很惊讶。"
+    },
+    {
+      "id": 158,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 159,
+      "en": "So it's awkward, right?",
+      "cn": "所以这很尴尬，对吧？"
+    },
+    {
+      "id": 160,
+      "en": "So you could say, Marco, you got a little bit of food on your shirt.",
+      "cn": "所以你可以说，马尔科，你的衬衫上有一点食物。"
+    },
+    {
+      "id": 161,
+      "en": "You've had it for like an hour.",
+      "cn": "你已经有一个小时了。"
+    },
+    {
+      "id": 162,
+      "en": "Oh my god, would you look at that?",
+      "cn": "哦我的天，看看这个？"
+    },
+    {
+      "id": 163,
+      "en": "Oh, that's really embarrassing.",
+      "cn": "哦，这真的很尴尬。"
+    },
+    {
+      "id": 164,
+      "en": "I've got food on my shirt.",
+      "cn": "我衬衫上有食物。"
+    },
+    {
+      "id": 165,
+      "en": "So this man, this man who works at the store, he's embarrassed because he didn't know something he should know.",
+      "cn": "所以这个人，这个在商店工作的人，他感到尴尬，因为他不知道他应该知道的事情。"
+    },
+    {
+      "id": 166,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 167,
+      "en": "And so he says, oh, would you look at that?",
+      "cn": "所以他说，哦，看看这个？"
+    },
+    {
+      "id": 168,
+      "en": "How funny.",
+      "cn": "多有趣。"
+    },
+    {
+      "id": 169,
+      "en": "I didn't see those.",
+      "cn": "我没看到那些。"
+    },
+    {
+      "id": 170,
+      "en": "Now we can also maybe use it in a sarcastic tone, right?",
+      "cn": "现在我们也可以用讽刺的语气来使用它，对吧？"
+    },
+    {
+      "id": 171,
+      "en": "If I tell somebody, can you bring me my glasses that are on the table?",
+      "cn": "如果我告诉某人，可以把我在桌子上的眼镜拿给我吗？"
+    },
+    {
+      "id": 172,
+      "en": "And they're like, I can't find them.",
+      "cn": "他们说，我找不到它们。"
+    },
+    {
+      "id": 173,
+      "en": "They're not here.",
+      "cn": "它们不在这里。"
+    },
+    {
+      "id": 174,
+      "en": "And then I find them.",
+      "cn": "然后我找到了它们。"
+    },
+    {
+      "id": 175,
+      "en": "Would you look at that?",
+      "cn": "你看看这个？"
+    },
+    {
+      "id": 176,
+      "en": "Here they are.",
+      "cn": "在你头上整整一段时间。"
+    },
+    {
+      "id": 177,
+      "en": "Right on your head the whole time.",
+      "cn": "那是我妈妈。"
+    },
+    {
+      "id": 178,
+      "en": "That's my mom.",
+      "cn": "你看看这个？"
+    },
+    {
+      "id": 180,
+      "en": "I was wearing my glasses the whole time.",
+      "cn": "我一直戴着眼镜。"
+    },
+    {
+      "id": 181,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 182,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 183,
+      "en": "So why don't we listen to the dialogue for the last time and we'll be back to talk about digital SLRs.",
+      "cn": "所以我们为什么不最后再听一次对话，然后我们会回来讨论数码单反相机。"
+    },
+    {
+      "id": 184,
+      "en": "Hello, ma'am.",
+      "cn": "你好，女士。"
+    },
+    {
+      "id": 185,
+      "en": "Can I help you find something?",
+      "cn": "我可以帮你找点什么吗？"
+    },
+    {
+      "id": 186,
+      "en": "Yes, actually, I'm looking to buy a camera.",
+      "cn": "是的，实际上，我想买一台相机。"
+    },
+    {
+      "id": 187,
+      "en": "We've got a wide selection.",
+      "cn": "我们有很多选择。"
+    },
+    {
+      "id": 188,
+      "en": "Do you know if you'd like a point-and-shoot or something a little fancier?",
+      "cn": "你知道你想要一台傻瓜相机还是稍微高级一点的？"
+    },
+    {
+      "id": 189,
+      "en": "Are you shopping for yourself or for someone else?",
+      "cn": "你是在为自己购物还是为别人？"
+    },
+    {
+      "id": 190,
+      "en": "Actually, I'm buying a camera for my husband.",
+      "cn": "实际上，我是为我丈夫买相机。"
+    },
+    {
+      "id": 191,
+      "en": "Ah, well then I'd recommend a nice entry-level digital SLR.",
+      "cn": "啊，那么我推荐一台不错的入门级数码单反。"
+    },
+    {
+      "id": 192,
+      "en": "Yeah?",
+      "cn": "是吗？"
+    },
+    {
+      "id": 193,
+      "en": "Can I take a look at the SLRs you carry?",
+      "cn": "我可以看看你们的单反相机吗？"
+    },
+    {
+      "id": 194,
+      "en": "Sure thing.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 195,
+      "en": "Follow me.",
+      "cn": "跟我来。"
+    },
+    {
+      "id": 196,
+      "en": "This here is the... The Canon EOS.",
+      "cn": "这就是……佳能EOS。"
+    },
+    {
+      "id": 197,
+      "en": "Yeah, it's okay, but I'm looking for something that performs better in low light, has a better display panel and longer battery life.",
+      "cn": "是的，可以，但我在找一台在低光环境下表现更好的相机，显示面板更好，电池寿命更长。"
+    },
+    {
+      "id": 198,
+      "en": "Oh, the Nikon D60 is a nice option?",
+      "cn": "哦，尼康D60是个不错的选择？"
+    },
+    {
+      "id": 199,
+      "en": "Yeah, but what kit lens does this camera come with?",
+      "cn": "是的，但这台相机配什么套件镜头？"
+    },
+    {
+      "id": 200,
+      "en": "I don't want some bulky telephoto lens.",
+      "cn": "我不想要一些笨重的长焦镜头。"
+    },
+    {
+      "id": 201,
+      "en": "Ah, well this one has the... Looks to me like an 18 to 55 millimeter lens.",
+      "cn": "啊，这个... 看起来像是18到55毫米的镜头。"
+    },
+    {
+      "id": 202,
+      "en": "Pretty standard.",
+      "cn": "相当标准。"
+    },
+    {
+      "id": 203,
+      "en": "That'll do.",
+      "cn": "这样就可以了。"
+    },
+    {
+      "id": 204,
+      "en": "Not like my husband will be stalking celebrities or anything.",
+      "cn": "反正我丈夫也不会去跟踪名人。"
+    },
+    {
+      "id": 205,
+      "en": "So, can I interest you in any accessories?",
+      "cn": "那么，我可以为您推荐一些配件吗？"
+    },
+    {
+      "id": 206,
+      "en": "Do you carry polarizing filters?",
+      "cn": "你们有偏振滤镜吗？"
+    },
+    {
+      "id": 207,
+      "en": "Polarizing filters.",
+      "cn": "偏振滤镜。"
+    },
+    {
+      "id": 208,
+      "en": "Um, we should.",
+      "cn": "嗯，我们应该有。"
+    },
+    {
+      "id": 209,
+      "en": "I'm sorry, ma'am.",
+      "cn": "对不起，女士。"
+    },
+    {
+      "id": 210,
+      "en": "Looks like we're sold out.",
+      "cn": "看起来我们卖完了。"
+    },
+    {
+      "id": 211,
+      "en": "No, you're not.",
+      "cn": "不，你们没有。"
+    },
+    {
+      "id": 212,
+      "en": "There's some right here.",
+      "cn": "这里有一些。"
+    },
+    {
+      "id": 213,
+      "en": "Oh, well, would you look at that.",
+      "cn": "哦，看看这个。"
+    },
+    {
+      "id": 214,
+      "en": "Polarizing filters.",
+      "cn": "偏振滤镜。"
+    },
+    {
+      "id": 215,
+      "en": "Thanks for your help, Ralph.",
+      "cn": "谢谢你的帮助，拉尔夫。"
+    },
+    {
+      "id": 216,
+      "en": "No problem, ma'am.",
+      "cn": "没问题，女士。"
+    },
+    {
+      "id": 217,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 218,
+      "en": "So you mentioned you recently bought a digital SLR camera.",
+      "cn": "你提到你最近买了一台数码单反相机。"
+    },
+    {
+      "id": 219,
+      "en": "How's that working out?",
+      "cn": "使用得怎么样？"
+    },
+    {
+      "id": 220,
+      "en": "I'm loving it.",
+      "cn": "我很喜欢。"
+    },
+    {
+      "id": 221,
+      "en": "I have to actually train myself on how to use it because I used to have an old film camera that had... it was actually a Nikon as well.",
+      "cn": "我得自己训练如何使用它，因为我以前有一台旧胶卷相机... 其实也是尼康。"
+    },
+    {
+      "id": 222,
+      "en": "And it's different using a digital SLR.",
+      "cn": "使用数码单反相机是不同的。"
+    },
+    {
+      "id": 223,
+      "en": "There's a lot of things you can do that are very fancy because you actually... there's a computer inside, essentially.",
+      "cn": "有很多你可以做的事情非常复杂，因为实际上... 里面有一台电脑。"
+    },
+    {
+      "id": 224,
+      "en": "So it's... I'm getting used to it.",
+      "cn": "所以我在适应中。"
+    },
+    {
+      "id": 225,
+      "en": "It's fine.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 226,
+      "en": "And what about the difference in pictures, like from a point-and-shoot to a digital SLR?",
+      "cn": "那么从傻瓜相机到数码单反相机，照片有什么区别？"
+    },
+    {
+      "id": 227,
+      "en": "Does it really make a great difference?",
+      "cn": "真的有很大区别吗？"
+    },
+    {
+      "id": 228,
+      "en": "Are you very happy with it?",
+      "cn": "你对此很满意吗？"
+    },
+    {
+      "id": 229,
+      "en": "There is a big difference.",
+      "cn": "有很大区别。"
+    },
+    {
+      "id": 230,
+      "en": "And part of the difference is that you can control every aspect of the photo, okay?",
+      "cn": "区别的一部分是你可以控制照片的每个方面，明白吗？"
+    },
+    {
+      "id": 231,
+      "en": "So my digital camera was a small little Canon, you know, the little... what are they called?",
+      "cn": "我的小数码相机是个小佳能，你知道的，那个... 它叫什么来着？"
+    },
+    {
+      "id": 232,
+      "en": "The power shoot.",
+      "cn": "电源拍摄。"
+    },
+    {
+      "id": 233,
+      "en": "And it made... it took great pictures because, you know, these cameras have amazing pixel quality, right?",
+      "cn": "它拍的照片很棒，因为这些相机的像素质量惊人，对吧？"
+    },
+    {
+      "id": 234,
+      "en": "They have like 7.1 megapixels or like 9.1 megapixels.",
+      "cn": "它们有7.1百万像素或9.1百万像素。"
+    },
+    {
+      "id": 235,
+      "en": "So the quality is really good, but everything looks the same.",
+      "cn": "所以质量真的很好，但所有东西看起来都一样。"
+    },
+    {
+      "id": 236,
+      "en": "If I have my digital camera, my digital SLR, I can frame a shot and I can focus on one person but make everyone else, you know, blurry.",
+      "cn": "如果我用我的数码单反相机，我可以构图并专注于一个人，但让其他人模糊。"
+    },
+    {
+      "id": 237,
+      "en": "I can really make more artistic photos, whereas the point-and-shoot is great for parties and for... Just like everyday stuff.",
+      "cn": "我可以拍出更具艺术感的照片，而傻瓜相机适合聚会和... 就像日常的东西。"
+    },
+    {
+      "id": 238,
+      "en": "Everyday stuff, exactly.",
+      "cn": "日常的东西，没错。"
+    },
+    {
+      "id": 239,
+      "en": "Now what about traveling?",
+      "cn": "那旅行呢？"
+    },
+    {
+      "id": 240,
+      "en": "You have a dilemma there, right?",
+      "cn": "你在这方面有困扰，对吧？"
+    },
+    {
+      "id": 241,
+      "en": "Because you visit very beautiful places where you would love to take very nice pictures with a digital SLR, but at the same time the inconvenience of it, actually, because they're pretty big, all of them are pretty big.",
+      "cn": "因为你去的地方都很美，你想用数码单反拍很好的照片，但同时它的麻烦在于，毕竟它们都很大。"
+    },
+    {
+      "id": 242,
+      "en": "So where would you go on that?",
+      "cn": "那你会怎么选择？"
+    },
+    {
+      "id": 243,
+      "en": "Would you use the point-and-shoot or the digital SLR?",
+      "cn": "你会用傻瓜相机还是数码单反？"
+    },
+    {
+      "id": 244,
+      "en": "Well, that's a good question.",
+      "cn": "嗯，这是个好问题。"
+    },
+    {
+      "id": 245,
+      "en": "One of the reasons that I picked the lens that I did is because it's not immense, but I really want to be able to do some like landscape photography and I travel a lot.",
+      "cn": "我选择的镜头之一就是因为它不大，但我真的想拍一些风景照片，而且我旅行很多。"
+    },
+    {
+      "id": 246,
+      "en": "So I think it's worthwhile to suck it up and just take the camera because otherwise why did you buy it, right?",
+      "cn": "所以我觉得值得忍耐一下，带上相机，因为否则你买它干嘛，对吧？"
+    },
+    {
+      "id": 247,
+      "en": "Yeah, that's true.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 248,
+      "en": "All right, so an interesting topic here on EnglishPod, and I'm sure a lot of our users travel around like to take pictures or maybe are experts on digital photography.",
+      "cn": "好吧，这是一个有趣的话题，在EnglishPod上，我相信很多用户都喜欢旅行拍照，或者可能是数码摄影的专家。"
+    },
+    {
+      "id": 249,
+      "en": "So why don't you come to the website EnglishPod.com.",
+      "cn": "所以为什么不来我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 250,
+      "en": "We'll see you there and until next time.",
+      "cn": "我们在那里见，直到下次。"
+    },
+    {
+      "id": 251,
+      "en": "Bye, everyone.",
+      "cn": "大家再见。"
+    },
+    {
+      "id": 252,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

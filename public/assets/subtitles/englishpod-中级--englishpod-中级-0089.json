@@ -1,0 +1,1379 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0089",
+  "title": "EnglishPod 中级 0089",
+  "totalSegments": 274,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be taking you to the airport.",
+      "cn": "今天我们将带你去机场。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to listen as a man checks in at the airport and deals with his luggage.",
+      "cn": "我们将听一个男人在机场办理登机手续并处理他的行李。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So we're going to be looking at a lot of great stuff that can help you the next time you are at the airport at the check-in counter.",
+      "cn": "所以我们将看到很多有用的内容，帮助你下次在机场办理登机手续时。"
+    },
+    {
+      "id": 10,
+      "en": "So why don't we take a look at one word that we're going to preview today in Vocabulary Preview.",
+      "cn": "那么我们先来看一个今天在词汇预览中要预习的单词。"
+    },
+    {
+      "id": 11,
+      "en": "We're going to hear this guy say, I'd like to check three pieces.",
+      "cn": "我们将听到这个人说，我想托运三件行李。"
+    },
+    {
+      "id": 12,
+      "en": "He's going to check three pieces of what?",
+      "cn": "他要托运三件什么？"
+    },
+    {
+      "id": 13,
+      "en": "Pieces of luggage.",
+      "cn": "行李。"
+    },
+    {
+      "id": 14,
+      "en": "So when we talk about luggage, we can say pieces of luggage.",
+      "cn": "所以当我们谈论行李时，可以说行李件数。"
+    },
+    {
+      "id": 15,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 16,
+      "en": "Luggage is a non-count noun.",
+      "cn": "行李是不可数名词。"
+    },
+    {
+      "id": 17,
+      "en": "So you can't say one luggage, two luggages, three luggages.",
+      "cn": "所以你不能说一件行李，两件行李，三件行李。"
+    },
+    {
+      "id": 18,
+      "en": "That's wrong.",
+      "cn": "这是错误的。"
+    },
+    {
+      "id": 19,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 20,
+      "en": "So we use pieces of luggage.",
+      "cn": "所以我们用行李件数。"
+    },
+    {
+      "id": 21,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 22,
+      "en": "So three pieces of luggage.",
+      "cn": "所以三件行李。"
+    },
+    {
+      "id": 23,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 24,
+      "en": "Let's listen to our dialogue for the first time.",
+      "cn": "让我们第一次听我们的对话。"
+    },
+    {
+      "id": 25,
+      "en": "We're going to see what happens with this guy at the airport and with his pieces of luggage.",
+      "cn": "我们将看看这个人在机场和他的行李发生了什么。"
+    },
+    {
+      "id": 26,
+      "en": "Next, please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 27,
+      "en": "Hello, sir.",
+      "cn": "你好，先生。"
+    },
+    {
+      "id": 28,
+      "en": "May I see your passport, please?",
+      "cn": "请让我看看你的护照。"
+    },
+    {
+      "id": 29,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 30,
+      "en": "Here you go.",
+      "cn": "给你。"
+    },
+    {
+      "id": 31,
+      "en": "Will you be checking any bags today?",
+      "cn": "今天你会托运行李吗？"
+    },
+    {
+      "id": 32,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 33,
+      "en": "I'd like to check three pieces.",
+      "cn": "我想托运三件行李。"
+    },
+    {
+      "id": 34,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 35,
+      "en": "Airline policy only allows two pieces of check luggage at 20 kilograms each plus one piece of carry-on luggage.",
+      "cn": "航空公司政策只允许托运两件行李，每件20公斤，加上一件随身行李。"
+    },
+    {
+      "id": 36,
+      "en": "I will have to charge you extra for the additional suitcase.",
+      "cn": "我必须对额外的行李收取额外费用。"
+    },
+    {
+      "id": 37,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 38,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 39,
+      "en": "I'm taking an intercontinental flight.",
+      "cn": "我正在乘坐国际航班。"
+    },
+    {
+      "id": 40,
+      "en": "I'm flying 16,000 kilometers.",
+      "cn": "我飞行16000公里。"
+    },
+    {
+      "id": 41,
+      "en": "How am I supposed to take only two 20 kilo bags?",
+      "cn": "我怎么可能只带两件20公斤的行李？"
+    },
+    {
+      "id": 42,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 43,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 44,
+      "en": "There's nothing I can do.",
+      "cn": "我无能为力。"
+    },
+    {
+      "id": 45,
+      "en": "You cannot board the flight with that large bag either.",
+      "cn": "你也不能带那件大行李登机。"
+    },
+    {
+      "id": 46,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "cn": "随身行李必须放在头顶行李舱或你的座位下。"
+    },
+    {
+      "id": 47,
+      "en": "That bag is clearly too big.",
+      "cn": "那个包显然太大了。"
+    },
+    {
+      "id": 48,
+      "en": "Now I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 49,
+      "en": "You charge next to nothing for an international ticket.",
+      "cn": "你们的国际票价几乎不收费。"
+    },
+    {
+      "id": 50,
+      "en": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+      "cn": "但在收取其他小费用时，你们却要价不菲。"
+    },
+    {
+      "id": 51,
+      "en": "So tell me, miss, how much will I have to pay for all of this?",
+      "cn": "那么告诉我，小姐，我需要为这一切支付多少？"
+    },
+    {
+      "id": 52,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 53,
+      "en": "625 US dollars.",
+      "cn": "625美元。"
+    },
+    {
+      "id": 54,
+      "en": "That's more than my round-trip ticket!",
+      "cn": "这比我的往返票还贵！"
+    },
+    {
+      "id": 55,
+      "en": "All right, well, that's a whole lot of money, isn't it?",
+      "cn": "好吧，这真是一大笔钱，不是吗？"
+    },
+    {
+      "id": 56,
+      "en": "Well, I think it's a very common situation.",
+      "cn": "我认为这是一种非常常见的情况。"
+    },
+    {
+      "id": 57,
+      "en": "I'm sure many of our listeners can relate to this situation.",
+      "cn": "我相信我们的许多听众都能理解这种情况。"
+    },
+    {
+      "id": 58,
+      "en": "Overweight charges are pretty expensive.",
+      "cn": "超重费用非常昂贵。"
+    },
+    {
+      "id": 59,
+      "en": "Very high.",
+      "cn": "非常高。"
+    },
+    {
+      "id": 60,
+      "en": "I know from personal experience, but that's not what we want to talk about now.",
+      "cn": "我从个人经验中知道，但这不是我们现在想谈的。"
+    },
+    {
+      "id": 61,
+      "en": "We want to talk about some really useful vocabulary in language takeaway.",
+      "cn": "我们想谈谈一些非常有用的词汇在语言收获中。"
+    },
+    {
+      "id": 62,
+      "en": "All right, on language takeaway today, we have five words.",
+      "cn": "好的，今天的语言收获中，我们有五个单词。"
+    },
+    {
+      "id": 63,
+      "en": "So why don't we start with the first one?",
+      "cn": "那么我们为什么不从第一个开始呢？"
+    },
+    {
+      "id": 64,
+      "en": "So the woman asked, will you be checking any bags today?",
+      "cn": "所以那个女人问，你今天会托运行李吗？"
+    },
+    {
+      "id": 65,
+      "en": "Will you be checking any bags today?",
+      "cn": "你今天会托运行李吗？"
+    },
+    {
+      "id": 66,
+      "en": "To check bags.",
+      "cn": "托运行李。"
+    },
+    {
+      "id": 67,
+      "en": "Right, so the verb to check.",
+      "cn": "对，所以动词托运。"
+    },
+    {
+      "id": 68,
+      "en": "It means to give your bags to the airline, to register them.",
+      "cn": "它的意思是把你的行李交给航空公司，进行登记。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, so that's what happens with your luggage.",
+      "cn": "好的，这就是你的行李的处理方式。"
+    },
+    {
+      "id": 70,
+      "en": "You check them, so basically they become responsible for your bags.",
+      "cn": "你托运它们，所以基本上它们就成了航空公司负责的行李。"
+    },
+    {
+      "id": 71,
+      "en": "Right, it reminds me of checking into a hotel.",
+      "cn": "对，这让我想起了办理酒店入住。"
+    },
+    {
+      "id": 72,
+      "en": "Right, very similar.",
+      "cn": "对，非常相似。"
+    },
+    {
+      "id": 73,
+      "en": "When you go to a hotel, you register at the hotel, you check in.",
+      "cn": "当你去酒店时，你在酒店登记，办理入住。"
+    },
+    {
+      "id": 74,
+      "en": "In this case, you just check your luggage.",
+      "cn": "在这种情况下，你只是托运你的行李。"
+    },
+    {
+      "id": 75,
+      "en": "You don't check in your luggage.",
+      "cn": "你不需要办理行李入住。"
+    },
+    {
+      "id": 76,
+      "en": "Okay, so check luggage.",
+      "cn": "好的，所以托运行李。"
+    },
+    {
+      "id": 77,
+      "en": "So he wanted to check three pieces of luggage, and he also had carry on luggage.",
+      "cn": "所以他想托运三件行李，他还有随身行李。"
+    },
+    {
+      "id": 78,
+      "en": "Carry on luggage.",
+      "cn": "随身行李。"
+    },
+    {
+      "id": 79,
+      "en": "Carry on.",
+      "cn": "随身行李。"
+    },
+    {
+      "id": 80,
+      "en": "So carry on luggage, it's pretty simple.",
+      "cn": "所以随身行李，这很简单。"
+    },
+    {
+      "id": 81,
+      "en": "That's right, you carry it on yourself.",
+      "cn": "没错，你自己携带上飞机。"
+    },
+    {
+      "id": 82,
+      "en": "Exactly, you carry it onto the plane.",
+      "cn": "正是如此，你把它带上飞机。"
+    },
+    {
+      "id": 83,
+      "en": "Now we can talk about carry on luggage, right?",
+      "cn": "现在我们可以谈谈随身行李，对吗？"
+    },
+    {
+      "id": 84,
+      "en": "Or carry on bag.",
+      "cn": "或者随身包。"
+    },
+    {
+      "id": 85,
+      "en": "Right, or a carry on suitcase.",
+      "cn": "对，或者随身行李箱。"
+    },
+    {
+      "id": 86,
+      "en": "A very small suitcase that can fit under your seat.",
+      "cn": "一个非常小的行李箱，可以放在你的座位下。"
+    },
+    {
+      "id": 87,
+      "en": "All right, so carry on luggage.",
+      "cn": "好的，所以随身行李。"
+    },
+    {
+      "id": 88,
+      "en": "Now he was traveling on an intercontinental flight.",
+      "cn": "现在他正在乘坐国际航班。"
+    },
+    {
+      "id": 89,
+      "en": "Intercontinental.",
+      "cn": "国际航班。"
+    },
+    {
+      "id": 90,
+      "en": "Intercontinental.",
+      "cn": "国际航班。"
+    },
+    {
+      "id": 91,
+      "en": "We have two words there, inter.",
+      "cn": "我们有两个词，国际。"
+    },
+    {
+      "id": 92,
+      "en": "Between.",
+      "cn": "之间。"
+    },
+    {
+      "id": 93,
+      "en": "Between, right?",
+      "cn": "之间，对吗？"
+    },
+    {
+      "id": 94,
+      "en": "And continental.",
+      "cn": "和大陆。"
+    },
+    {
+      "id": 95,
+      "en": "So this sounds like continent.",
+      "cn": "所以这听起来像大陆。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so he's traveling maybe from Asia to North America.",
+      "cn": "好的，所以他可能是从亚洲飞往北美。"
+    },
+    {
+      "id": 97,
+      "en": "Okay, intercontinental.",
+      "cn": "好的，国际航班。"
+    },
+    {
+      "id": 98,
+      "en": "He's trying to board this intercontinental flight.",
+      "cn": "他试图登上这趟国际航班。"
+    },
+    {
+      "id": 99,
+      "en": "So to board a flight.",
+      "cn": "所以登机。"
+    },
+    {
+      "id": 100,
+      "en": "Board a plane.",
+      "cn": "登机。"
+    },
+    {
+      "id": 101,
+      "en": "Board a train.",
+      "cn": "登上火车。"
+    },
+    {
+      "id": 102,
+      "en": "All right, so basically it means to... To get on.",
+      "cn": "好的，基本上这意味着... 上车。"
+    },
+    {
+      "id": 103,
+      "en": "To get on.",
+      "cn": "上车。"
+    },
+    {
+      "id": 104,
+      "en": "To get on a vehicle.",
+      "cn": "上交通工具。"
+    },
+    {
+      "id": 105,
+      "en": "Okay, so I can say board the ship.",
+      "cn": "好的，我可以说登上船。"
+    },
+    {
+      "id": 106,
+      "en": "Board the car.",
+      "cn": "登上车。"
+    },
+    {
+      "id": 107,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 108,
+      "en": "No?",
+      "cn": "不？"
+    },
+    {
+      "id": 109,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 110,
+      "en": "But board the train.",
+      "cn": "但是登上火车。"
+    },
+    {
+      "id": 111,
+      "en": "Board the train.",
+      "cn": "登上火车。"
+    },
+    {
+      "id": 112,
+      "en": "Board the bus.",
+      "cn": "登上公交车。"
+    },
+    {
+      "id": 113,
+      "en": "All aboard.",
+      "cn": "所有人上车。"
+    },
+    {
+      "id": 114,
+      "en": "That's right, that's why in movies you see that somebody will yell all aboard.",
+      "cn": "没错，这就是为什么在电影中你会看到有人喊“所有人上车”。"
+    },
+    {
+      "id": 115,
+      "en": "In the train station, right?",
+      "cn": "在火车站，对吧？"
+    },
+    {
+      "id": 116,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 117,
+      "en": "All aboard.",
+      "cn": "所有人上车。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, so board a vehicle.",
+      "cn": "好的，所以登上交通工具。"
+    },
+    {
+      "id": 119,
+      "en": "And our last phrase for today.",
+      "cn": "今天的最后一句话。"
+    },
+    {
+      "id": 120,
+      "en": "Overhead compartment.",
+      "cn": "顶部行李舱。"
+    },
+    {
+      "id": 121,
+      "en": "Overhead compartment.",
+      "cn": "顶部行李舱。"
+    },
+    {
+      "id": 122,
+      "en": "Overhead compartment.",
+      "cn": "顶部行李舱。"
+    },
+    {
+      "id": 123,
+      "en": "All right, let's break this phrase down.",
+      "cn": "好的，让我们分解一下这个短语。"
+    },
+    {
+      "id": 124,
+      "en": "Overhead.",
+      "cn": "顶部。"
+    },
+    {
+      "id": 125,
+      "en": "So that's on top of your head, right?",
+      "cn": "所以那是在你头顶上，对吧？"
+    },
+    {
+      "id": 126,
+      "en": "Exactly, yeah.",
+      "cn": "正是如此，是的。"
+    },
+    {
+      "id": 127,
+      "en": "Above you.",
+      "cn": "在你上方。"
+    },
+    {
+      "id": 128,
+      "en": "Yeah, and the compartment is a place where you can put something and store it.",
+      "cn": "是的，舱是一个可以放东西和存储的地方。"
+    },
+    {
+      "id": 129,
+      "en": "Kind of like a box.",
+      "cn": "有点像一个盒子。"
+    },
+    {
+      "id": 130,
+      "en": "Right, so you have an overhead compartment, that big box where you put your bags and your purse or whatever on an airplane.",
+      "cn": "对，所以你有一个顶部行李舱，就是你在飞机上放包和钱包的那个大盒子。"
+    },
+    {
+      "id": 131,
+      "en": "Very similar to, for example, an overhead projector.",
+      "cn": "非常类似于，例如，一个顶投影仪。"
+    },
+    {
+      "id": 132,
+      "en": "Right, so that's the machine that puts an image or a picture on a wall, like sometimes you see them in meetings.",
+      "cn": "对，所以那是把图像或图片投射到墙上的机器，有时你会在会议中看到它们。"
+    },
+    {
+      "id": 133,
+      "en": "Right, so because the image is over your head and it's big, it's called an overhead projector.",
+      "cn": "对，所以因为图像在你头上并且很大，所以叫做顶投影仪。"
+    },
+    {
+      "id": 134,
+      "en": "Okay, so some great language.",
+      "cn": "好的，所以一些很好的语言。"
+    },
+    {
+      "id": 135,
+      "en": "Why don't we hear it again in context by listening to the dialogue for the second time?",
+      "cn": "我们再听一遍对话，看看上下文。"
+    },
+    {
+      "id": 136,
+      "en": "Next, please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 137,
+      "en": "Hello, sir.",
+      "cn": "你好，先生。"
+    },
+    {
+      "id": 138,
+      "en": "May I see your passport, please?",
+      "cn": "请让我看看你的护照。"
+    },
+    {
+      "id": 139,
+      "en": "Yes, here you go.",
+      "cn": "是的，给你。"
+    },
+    {
+      "id": 140,
+      "en": "Will you be checking any bags today?",
+      "cn": "今天你会托运行李吗？"
+    },
+    {
+      "id": 141,
+      "en": "Yes, I'd like to check three pieces.",
+      "cn": "是的，我想托运三件。"
+    },
+    {
+      "id": 142,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 143,
+      "en": "Airline policy allows only two pieces of checked luggage at 20 kilograms each, plus one piece of carry-on luggage.",
+      "cn": "航空公司政策只允许托运两件行李，每件20公斤，外加一件随身行李。"
+    },
+    {
+      "id": 144,
+      "en": "I will have to charge you extra for the additional suitcase.",
+      "cn": "我必须对额外的行李收费。"
+    },
+    {
+      "id": 145,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 146,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 147,
+      "en": "I'm taking an intercontinental flight.",
+      "cn": "我正在乘坐洲际航班。"
+    },
+    {
+      "id": 148,
+      "en": "I'm flying 16,000 kilometers.",
+      "cn": "我飞行16000公里。"
+    },
+    {
+      "id": 149,
+      "en": "How am I supposed to take only two 20 kilo bags?",
+      "cn": "我怎么可能只带两件20公斤的行李？"
+    },
+    {
+      "id": 150,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 151,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 152,
+      "en": "There's nothing I can do.",
+      "cn": "我无能为力。"
+    },
+    {
+      "id": 153,
+      "en": "You cannot board the flight with that large bag either.",
+      "cn": "你也不能带那个大包上飞机。"
+    },
+    {
+      "id": 154,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "cn": "随身行李必须放在顶部行李舱或你座位下。"
+    },
+    {
+      "id": 155,
+      "en": "That bag is clearly too big.",
+      "cn": "那个包显然太大了。"
+    },
+    {
+      "id": 156,
+      "en": "Now I see.",
+      "cn": "现在我明白了。"
+    },
+    {
+      "id": 157,
+      "en": "You charge next to nothing for an international ticket.",
+      "cn": "你们对国际机票几乎不收费。"
+    },
+    {
+      "id": 158,
+      "en": "But when it comes to charging for any other small thing, you charge an arm and a leg.",
+      "cn": "但在收费其他小东西时，你们却要价不菲。"
+    },
+    {
+      "id": 159,
+      "en": "So tell me, miss, how much will I have to pay for all this?",
+      "cn": "所以告诉我，小姐，我需要为这一切支付多少？"
+    },
+    {
+      "id": 160,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 161,
+      "en": "625 US dollars.",
+      "cn": "625美元。"
+    },
+    {
+      "id": 162,
+      "en": "That's more than my round-trip ticket.",
+      "cn": "这比我的往返票还贵。"
+    },
+    {
+      "id": 163,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 164,
+      "en": "So I think it's a little bit more clear now.",
+      "cn": "所以我想现在更清楚了。"
+    },
+    {
+      "id": 165,
+      "en": "And with this, it's time for us to take a look at some great phrases in putting it together.",
+      "cn": "现在是时候看看一些很好的短语来整合它了。"
+    },
+    {
+      "id": 166,
+      "en": "Putting it together.",
+      "cn": "整合。"
+    },
+    {
+      "id": 167,
+      "en": "So this guy was pretty angry about this airline policy, and he said, how am I supposed to?",
+      "cn": "所以这个人对航空公司政策非常生气，他说，我该怎么做？"
+    },
+    {
+      "id": 168,
+      "en": "How am I supposed to?",
+      "cn": "我该怎么做？"
+    },
+    {
+      "id": 169,
+      "en": "How am I supposed to?",
+      "cn": "我该怎么做？"
+    },
+    {
+      "id": 170,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 171,
+      "en": "So before we get into explaining this, why don't we listen to a couple of examples so we can try and understand what it means?",
+      "cn": "在我们解释之前，为什么不听几个例子，以便我们尝试理解它的意思？"
+    },
+    {
+      "id": 172,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 173,
+      "en": "How am I supposed to fit the dog in the car?",
+      "cn": "我该怎么把狗放进车里？"
+    },
+    {
+      "id": 174,
+      "en": "There are 10 people in there already.",
+      "cn": "里面已经有10个人了。"
+    },
+    {
+      "id": 175,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 176,
+      "en": "How is she supposed to get to work if her car's in the shop?",
+      "cn": "如果她的车在修理店，她该怎么去上班？"
+    },
+    {
+      "id": 177,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 178,
+      "en": "How are we supposed to know the answer to that?",
+      "cn": "我们该怎么知道答案？"
+    },
+    {
+      "id": 179,
+      "en": "It's impossible.",
+      "cn": "这不可能。"
+    },
+    {
+      "id": 180,
+      "en": "Okay, so I can understand that it means how can I do this?",
+      "cn": "好的，所以我可以理解这意味着我该怎么做？"
+    },
+    {
+      "id": 181,
+      "en": "How do you expect me to do this?",
+      "cn": "你怎么期望我做到这一点？"
+    },
+    {
+      "id": 182,
+      "en": "How is it possible for me to do this?",
+      "cn": "我怎么可能做到这一点？"
+    },
+    {
+      "id": 183,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 184,
+      "en": "It's a phrase you use when you're frustrated, right?",
+      "cn": "这是你在感到沮丧时使用的短语，对吧？"
+    },
+    {
+      "id": 185,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 186,
+      "en": "You're maybe a little bit frustrated, or you're maybe nervous of something that you can't do or don't know how.",
+      "cn": "你可能有点沮丧，或者你可能对某些你无法做到或不知道怎么做的事情感到紧张。"
+    },
+    {
+      "id": 187,
+      "en": "Yeah, this phrase, it's not impolite, but it sort of gives the idea that you're challenging the other person a little bit.",
+      "cn": "是的，这个短语并不失礼，但它有点挑战对方的意思。"
+    },
+    {
+      "id": 188,
+      "en": "Maybe, yeah.",
+      "cn": "也许是的。"
+    },
+    {
+      "id": 189,
+      "en": "Okay, so a good phrase that you can use in different situations, and you can try and mix it up with different verbs, right?",
+      "cn": "好的，所以这是一个你可以在不同情况下使用的好短语，你可以尝试用不同的动词来混合使用，对吧？"
+    },
+    {
+      "id": 190,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 191,
+      "en": "All right, now let's take a look at our next phrase.",
+      "cn": "好的，现在让我们看看下一个短语。"
+    },
+    {
+      "id": 192,
+      "en": "I'm sorry, sir, there's nothing I can do.",
+      "cn": "对不起，先生，我无能为力。"
+    },
+    {
+      "id": 193,
+      "en": "There's nothing I can do.",
+      "cn": "我无能为力。"
+    },
+    {
+      "id": 194,
+      "en": "There's nothing I can do.",
+      "cn": "我无能为力。"
+    },
+    {
+      "id": 195,
+      "en": "There's nothing I can do.",
+      "cn": "我无能为力。"
+    },
+    {
+      "id": 196,
+      "en": "So basically the woman can't help the man, even though he's insisting and he's pushing that he wants another solution, right?",
+      "cn": "所以基本上这个女人无法帮助这个男人，即使他坚持要另一个解决方案，对吧？"
+    },
+    {
+      "id": 197,
+      "en": "So finally she says, I'm sorry, there's nothing I can do.",
+      "cn": "所以最后她说，对不起，我无能为力。"
+    },
+    {
+      "id": 198,
+      "en": "So we use this phrase when someone's pushing you too much, right?",
+      "cn": "所以我们在某人过于强求时使用这个短语，对吧？"
+    },
+    {
+      "id": 199,
+      "en": "Right, and you would use it only in that situation towards the end, because it is a little bit... It's strong.",
+      "cn": "对，只有在那种情况下你才会在最后使用，因为这有点... 这很强烈。"
+    },
+    {
+      "id": 200,
+      "en": "It's not impolite, but it's just, you're saying, you know what, I'm sorry, I can't do anything about it.",
+      "cn": "这并不失礼，但你是在说，抱歉，我无能为力。"
+    },
+    {
+      "id": 201,
+      "en": "Now let's move on to our third phrase.",
+      "cn": "现在让我们继续我们的第三个短语。"
+    },
+    {
+      "id": 202,
+      "en": "You charge next to nothing.",
+      "cn": "你收费几乎为零。"
+    },
+    {
+      "id": 203,
+      "en": "Next to nothing.",
+      "cn": "几乎为零。"
+    },
+    {
+      "id": 204,
+      "en": "Next to nothing.",
+      "cn": "几乎为零。"
+    },
+    {
+      "id": 205,
+      "en": "Next to nothing.",
+      "cn": "几乎为零。"
+    },
+    {
+      "id": 206,
+      "en": "All right, so we're talking about charging, we're talking about money.",
+      "cn": "好吧，我们在谈论收费，我们在谈论钱。"
+    },
+    {
+      "id": 207,
+      "en": "Why don't we listen to some examples of what this next to nothing phrase means.",
+      "cn": "为什么我们不听一些这个“几乎为零”短语的例子呢。"
+    },
+    {
+      "id": 208,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 209,
+      "en": "Do you like my new house?",
+      "cn": "你喜欢我的新房子吗？"
+    },
+    {
+      "id": 210,
+      "en": "It was so cheap that it almost cost next to nothing.",
+      "cn": "它便宜得几乎没有成本。"
+    },
+    {
+      "id": 211,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 212,
+      "en": "Let's go to Thailand.",
+      "cn": "我们去泰国吧。"
+    },
+    {
+      "id": 213,
+      "en": "Tickets cost next to nothing right now.",
+      "cn": "现在票价几乎为零。"
+    },
+    {
+      "id": 214,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 215,
+      "en": "The real estate agent charged me next to nothing for his commission, so I got a really good deal.",
+      "cn": "房地产经纪人收取我几乎为零的佣金，所以我得到了一个很好的交易。"
+    },
+    {
+      "id": 216,
+      "en": "So when something costs next to nothing, it's really cheap, right?",
+      "cn": "所以当某物几乎为零时，它真的很便宜，对吗？"
+    },
+    {
+      "id": 217,
+      "en": "It's really cheap, or you consider it to be cheap.",
+      "cn": "它真的很便宜，或者你认为它便宜。"
+    },
+    {
+      "id": 218,
+      "en": "And now for our last phrase, it's the complete opposite of next to nothing.",
+      "cn": "现在我们的最后一个短语，正好与“几乎为零”相反。"
+    },
+    {
+      "id": 219,
+      "en": "Right, charge an arm and a leg.",
+      "cn": "对，收费昂贵得离谱。"
+    },
+    {
+      "id": 220,
+      "en": "An arm and a leg.",
+      "cn": "昂贵得离谱。"
+    },
+    {
+      "id": 221,
+      "en": "An arm and a leg.",
+      "cn": "昂贵得离谱。"
+    },
+    {
+      "id": 222,
+      "en": "All right, so this means it's really expensive.",
+      "cn": "好吧，这意味着它真的很贵。"
+    },
+    {
+      "id": 223,
+      "en": "It's so expensive, it's like giving your arm and your leg.",
+      "cn": "它贵得就像给你自己的手臂和腿。"
+    },
+    {
+      "id": 224,
+      "en": "Right, to pay for it.",
+      "cn": "对，为了支付它。"
+    },
+    {
+      "id": 225,
+      "en": "Very good, so next to nothing, really cheap.",
+      "cn": "非常好，所以“几乎为零”，真的很便宜。"
+    },
+    {
+      "id": 226,
+      "en": "An arm and a leg, really expensive.",
+      "cn": "“昂贵得离谱”，真的很贵。"
+    },
+    {
+      "id": 227,
+      "en": "Can we look at the use here?",
+      "cn": "我们可以看看这里的用法吗？"
+    },
+    {
+      "id": 228,
+      "en": "All right, so in the dialogue we heard, you charge an arm and a leg, but we can also say it costs an arm and a leg.",
+      "cn": "好吧，在我们听到的对话中，你收费昂贵得离谱，但我们也可以说它的成本昂贵得离谱。"
+    },
+    {
+      "id": 229,
+      "en": "Right, because we are referring to money, right?",
+      "cn": "对，因为我们是在谈论钱，对吗？"
+    },
+    {
+      "id": 230,
+      "en": "All right, so some great phrases here.",
+      "cn": "好吧，这里有一些很好的短语。"
+    },
+    {
+      "id": 231,
+      "en": "Now I think it's time we listen to our dialogue one more time.",
+      "cn": "现在我觉得是时候再听一次我们的对话了。"
+    },
+    {
+      "id": 232,
+      "en": "Next, please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 233,
+      "en": "Hello, sir, may I see your passport, please?",
+      "cn": "你好，先生，我可以看一下你的护照吗？"
+    },
+    {
+      "id": 234,
+      "en": "Yes, here you go.",
+      "cn": "是的，给你。"
+    },
+    {
+      "id": 235,
+      "en": "Will you be checking any bags today?",
+      "cn": "今天你会检查行李吗？"
+    },
+    {
+      "id": 236,
+      "en": "Yes, I'd like to check three pieces.",
+      "cn": "是的，我想检查三件行李。"
+    },
+    {
+      "id": 237,
+      "en": "I'm sorry, sir, airline policy only allows two pieces of check luggage at 20 kilograms each plus one piece of carry-on luggage.",
+      "cn": "对不起，先生，航空公司政策只允许每人检查两件行李，每件20公斤，加上一件随身行李。"
+    },
+    {
+      "id": 238,
+      "en": "I will have to charge you extra for the additional suitcase.",
+      "cn": "我必须对额外的行李收费。"
+    },
+    {
+      "id": 239,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 240,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 241,
+      "en": "I'm taking an intercontinental flight.",
+      "cn": "我正在乘坐国际航班。"
+    },
+    {
+      "id": 242,
+      "en": "I'm flying 16,000 kilometers.",
+      "cn": "我飞行16000公里。"
+    },
+    {
+      "id": 243,
+      "en": "How am I supposed to take only two 20 kilo bags?",
+      "cn": "我怎么可能只带两件20公斤的行李？"
+    },
+    {
+      "id": 244,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 245,
+      "en": "I'm sorry, sir, there's nothing I can do.",
+      "cn": "对不起，先生，我无能为力。"
+    },
+    {
+      "id": 246,
+      "en": "You cannot board the flight with that large bag either.",
+      "cn": "你也不能带那件大行李登机。"
+    },
+    {
+      "id": 247,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "cn": "随身行李必须放在头顶行李舱或你的座位下。"
+    },
+    {
+      "id": 248,
+      "en": "That bag is clearly too big.",
+      "cn": "那个包显然太大了。"
+    },
+    {
+      "id": 249,
+      "en": "Now I see.",
+      "cn": "现在我明白了。"
+    },
+    {
+      "id": 250,
+      "en": "You charge next to nothing for an international ticket.",
+      "cn": "你对国际机票几乎不收费。"
+    },
+    {
+      "id": 251,
+      "en": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+      "cn": "但在收费其他小东西时，你却收费昂贵得离谱。"
+    },
+    {
+      "id": 252,
+      "en": "So tell me, miss, how much will I have to pay for all of this?",
+      "cn": "所以告诉我，小姐，我需要为这一切支付多少？"
+    },
+    {
+      "id": 253,
+      "en": "Let's see... 625 US dollars.",
+      "cn": "让我们看看……625美元。"
+    },
+    {
+      "id": 254,
+      "en": "That's more than my round trip ticket!",
+      "cn": "这比我的往返票还贵！"
+    },
+    {
+      "id": 255,
+      "en": "Okay, so airline policies, luggage, it's always a problem, right?",
+      "cn": "好吧，所以航空公司政策、行李，总是个问题，对吗？"
+    },
+    {
+      "id": 256,
+      "en": "Most of the time you always end up paying overweight when you travel.",
+      "cn": "大多数时候你旅行时总是要支付超重费。"
+    },
+    {
+      "id": 257,
+      "en": "Yeah, I know that this happened to me once and it was really expensive.",
+      "cn": "是的，我知道这曾经发生在我身上，真的很贵。"
+    },
+    {
+      "id": 258,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 259,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 260,
+      "en": "I was flying on an intercontinental flight from India back to Europe.",
+      "cn": "我从印度飞回欧洲的国际航班。"
+    },
+    {
+      "id": 261,
+      "en": "And I had too many extra bags, but I really needed to bring them.",
+      "cn": "我有太多额外的行李，但我真的需要带它们。"
+    },
+    {
+      "id": 262,
+      "en": "And so it cost me 6,000 dollars!",
+      "cn": "所以我花了6000美元！"
+    },
+    {
+      "id": 263,
+      "en": "6,000 dollars!",
+      "cn": "6000美元！"
+    },
+    {
+      "id": 264,
+      "en": "Wow!",
+      "cn": "哇！"
+    },
+    {
+      "id": 265,
+      "en": "So my credit card was pretty maxed out after that.",
+      "cn": "所以我的信用卡在那之后几乎用满了。"
+    },
+    {
+      "id": 266,
+      "en": "That's incredible.",
+      "cn": "这太不可思议了。"
+    },
+    {
+      "id": 267,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 268,
+      "en": "Well, I'm sure many of our users probably suffered similar experiences like this.",
+      "cn": "好吧，我相信我们的许多用户可能经历过类似的事情。"
+    },
+    {
+      "id": 269,
+      "en": "So please come to our website and share it with us at EnglishPod.com.",
+      "cn": "所以请访问我们的网站，与我们分享你的经历，网址是EnglishPod.com。"
+    },
+    {
+      "id": 270,
+      "en": "That's right, Marco and I are always around to answer your questions.",
+      "cn": "没错，马尔科和我总是在这里回答你的问题。"
+    },
+    {
+      "id": 271,
+      "en": "So please check us out.",
+      "cn": "所以请查看我们。"
+    },
+    {
+      "id": 272,
+      "en": "And thanks for downloading, you guys.",
+      "cn": "感谢你们的下载。"
+    },
+    {
+      "id": 273,
+      "en": "Until next time.",
+      "cn": "下次再见。"
+    },
+    {
+      "id": 274,
+      "en": "Goodbye!",
+      "cn": "再见！"
+    }
+  ]
+}

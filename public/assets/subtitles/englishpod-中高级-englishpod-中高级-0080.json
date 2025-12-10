@@ -1,0 +1,1484 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0080",
+  "title": "EnglishPod 中高级 0080",
+  "totalSegments": 295,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you, again, our romantic, dramatic suspense series, I'm Sorry, I Love You, Part 7.",
+      "cn": "今天我们再次为您带来我们的浪漫戏剧悬疑系列《对不起，我爱你》第7部分。"
+    },
+    {
+      "id": 6,
+      "en": "So we're going to find out what's happening with Steven and Veronica.",
+      "cn": "所以我们要看看Steven和Veronica发生了什么。"
+    },
+    {
+      "id": 7,
+      "en": "Right, in the last episode, Veronica was at the doctor's, she was pregnant.",
+      "cn": "对，在上一集，Veronica在看医生，她怀孕了。"
+    },
+    {
+      "id": 8,
+      "en": "But then the doctor told her it was a lie, and he made it up, and she wasn't even pregnant.",
+      "cn": "但医生告诉她那是谎言，他编造的，她根本没有怀孕。"
+    },
+    {
+      "id": 9,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 10,
+      "en": "So now let's see what Veronica and Steven are going to say to each other.",
+      "cn": "现在让我们看看Veronica和Steven会对彼此说什么。"
+    },
+    {
+      "id": 11,
+      "en": "Maybe they will break up?",
+      "cn": "也许他们会分手？"
+    },
+    {
+      "id": 12,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 13,
+      "en": "I don't think so.",
+      "cn": "我不这样认为。"
+    },
+    {
+      "id": 14,
+      "en": "But let's listen.",
+      "cn": "但让我们听听。"
+    },
+    {
+      "id": 15,
+      "en": "Thank God you showed up when you did.",
+      "cn": "感谢上帝你及时出现。"
+    },
+    {
+      "id": 16,
+      "en": "He's insane.",
+      "cn": "他疯了。"
+    },
+    {
+      "id": 17,
+      "en": "Do you think we should call the police?",
+      "cn": "你觉得我们应该报警吗？"
+    },
+    {
+      "id": 18,
+      "en": "Don't worry about it.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 19,
+      "en": "I'll call my friend and have him take care of it.",
+      "cn": "我会打电话给我的朋友，让他来处理。"
+    },
+    {
+      "id": 20,
+      "en": "I can't believe he was stalking you all these years.",
+      "cn": "我真不敢相信他这些年一直在跟踪你。"
+    },
+    {
+      "id": 21,
+      "en": "What a nutjob.",
+      "cn": "真是个疯子。"
+    },
+    {
+      "id": 22,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 23,
+      "en": "Well, he said I'm not pregnant.",
+      "cn": "好吧，他说我没有怀孕。"
+    },
+    {
+      "id": 24,
+      "en": "I'm sorry if I got you all worked up over nothing.",
+      "cn": "如果我让你为此紧张，我很抱歉。"
+    },
+    {
+      "id": 25,
+      "en": "I want you to know that I didn't do it on purpose.",
+      "cn": "我想让你知道我不是故意的。"
+    },
+    {
+      "id": 26,
+      "en": "Don't apologize.",
+      "cn": "别道歉。"
+    },
+    {
+      "id": 27,
+      "en": "From the moment I met you, not a day has gone by when I haven't thought of you.",
+      "cn": "从我见到你的那一刻起，没有一天我没有想过你。"
+    },
+    {
+      "id": 28,
+      "en": "And now that I'm with you again, I'm just I'm just scared, Veronica.",
+      "cn": "现在我又和你在一起，我只是，我只是害怕，Veronica。"
+    },
+    {
+      "id": 29,
+      "en": "The closer I get to you, the worse it gets.",
+      "cn": "我越接近你，情况就越糟。"
+    },
+    {
+      "id": 30,
+      "en": "The thought of not being with you.",
+      "cn": "不和你在一起的想法。"
+    },
+    {
+      "id": 31,
+      "en": "I mean, I just can't handle it.",
+      "cn": "我的意思是，我真的无法承受。"
+    },
+    {
+      "id": 32,
+      "en": "We were made for each other, Veronica.",
+      "cn": "我们是天造地设的一对，Veronica。"
+    },
+    {
+      "id": 33,
+      "en": "You're my everything.",
+      "cn": "你是我的一切。"
+    },
+    {
+      "id": 34,
+      "en": "My soulmate.",
+      "cn": "我的灵魂伴侣。"
+    },
+    {
+      "id": 35,
+      "en": "What can I do?",
+      "cn": "我该怎么办？"
+    },
+    {
+      "id": 36,
+      "en": "Just hold me.",
+      "cn": "只要抱着我。"
+    },
+    {
+      "id": 37,
+      "en": "I'll always be here for you no matter what.",
+      "cn": "无论发生什么，我都会一直在你身边。"
+    },
+    {
+      "id": 38,
+      "en": "And together, we can tackle whatever life throws at us.",
+      "cn": "我们可以一起应对生活中的一切挑战。"
+    },
+    {
+      "id": 39,
+      "en": "I believe in us, Steven.",
+      "cn": "我相信我们，Steven。"
+    },
+    {
+      "id": 40,
+      "en": "I'm so happy to hear that.",
+      "cn": "听到这个我很高兴。"
+    },
+    {
+      "id": 41,
+      "en": "I know we belong together.",
+      "cn": "我知道我们是天生一对。"
+    },
+    {
+      "id": 42,
+      "en": "I love you so much.",
+      "cn": "我非常爱你。"
+    },
+    {
+      "id": 43,
+      "en": "Oh, it was such a romantic moment.",
+      "cn": "哦，那是如此浪漫的时刻。"
+    },
+    {
+      "id": 44,
+      "en": "And now what happened?",
+      "cn": "现在发生了什么？"
+    },
+    {
+      "id": 45,
+      "en": "Somebody got shot.",
+      "cn": "有人被枪击了。"
+    },
+    {
+      "id": 46,
+      "en": "Oh, my God, I don't know.",
+      "cn": "哦，我的天，我不知道。"
+    },
+    {
+      "id": 47,
+      "en": "This is like so big.",
+      "cn": "这太大了。"
+    },
+    {
+      "id": 48,
+      "en": "I can't believe this is happening.",
+      "cn": "我无法相信这正在发生。"
+    },
+    {
+      "id": 49,
+      "en": "Well, it's a very intense drama.",
+      "cn": "好吧，这是一部非常紧张的戏剧。"
+    },
+    {
+      "id": 50,
+      "en": "But we saw some great words and a lot of great phrases in there when Steven was telling her all these beautiful words, right?",
+      "cn": "但我们看到了一些很棒的词汇和很多美丽的短语，当Steven对她说这些美丽的话时，对吧？"
+    },
+    {
+      "id": 51,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 52,
+      "en": "So why don't we look at some of these words now in Language Takeaway?",
+      "cn": "那么我们现在来看看这些词汇在语言收获中。"
+    },
+    {
+      "id": 53,
+      "en": "Language Takeaway Veronica was glad or wish she was very happy that Steven showed up.",
+      "cn": "语言收获，Veronica很高兴，或者说她非常高兴Steven出现了。"
+    },
+    {
+      "id": 54,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 55,
+      "en": "Showed up.",
+      "cn": "出现。"
+    },
+    {
+      "id": 56,
+      "en": "So to show up.",
+      "cn": "所以出现。"
+    },
+    {
+      "id": 57,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 58,
+      "en": "To come to a place.",
+      "cn": "到达一个地方。"
+    },
+    {
+      "id": 59,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 60,
+      "en": "Or to arrive.",
+      "cn": "或者到达。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "So let's listen to some examples of how we can use show up in different contexts.",
+      "cn": "那么让我们听听一些如何在不同语境中使用“出现”的例子。"
+    },
+    {
+      "id": 63,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 64,
+      "en": "We were waiting for you like an hour and you never showed up.",
+      "cn": "我们等了你一个小时，你却从未出现。"
+    },
+    {
+      "id": 65,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 66,
+      "en": "I didn't invite him to the party.",
+      "cn": "我没有邀请他参加派对。"
+    },
+    {
+      "id": 67,
+      "en": "He just simply showed up uninvited.",
+      "cn": "他只是未经邀请就出现了。"
+    },
+    {
+      "id": 68,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 69,
+      "en": "After months of being lost, my dog finally showed up with a family.",
+      "cn": "经过几个月的迷路，我的狗终于和一个家庭一起出现了。"
+    },
+    {
+      "id": 70,
+      "en": "All right, so I think it's pretty clear now the verb show up.",
+      "cn": "好吧，所以我想现在动词“出现”很清楚了。"
+    },
+    {
+      "id": 71,
+      "en": "And I think this verb is a little bit informal, isn't it?",
+      "cn": "我认为这个动词有点非正式，不是吗？"
+    },
+    {
+      "id": 72,
+      "en": "Yes, you wouldn't really tell your boss, hey, I'm waiting for you to show up.",
+      "cn": "是的，你不会真的告诉你的老板，嘿，我在等你出现。"
+    },
+    {
+      "id": 73,
+      "en": "It's a bit too informal.",
+      "cn": "这有点太非正式了。"
+    },
+    {
+      "id": 74,
+      "en": "As you know, the doctor, he was stalking Veronica.",
+      "cn": "正如你所知，医生一直在跟踪Veronica。"
+    },
+    {
+      "id": 75,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 76,
+      "en": "So that's our next word.",
+      "cn": "所以这是我们的下一个词。"
+    },
+    {
+      "id": 77,
+      "en": "Stock.",
+      "cn": "跟踪。"
+    },
+    {
+      "id": 78,
+      "en": "To stalk somebody.",
+      "cn": "跟踪某人。"
+    },
+    {
+      "id": 79,
+      "en": "S -T-A-L-K.",
+      "cn": "S-T-A-L-K。"
+    },
+    {
+      "id": 80,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 81,
+      "en": "Stock.",
+      "cn": "跟踪。"
+    },
+    {
+      "id": 82,
+      "en": "Now, this isn't a good thing, right?",
+      "cn": "这可不是好事，对吧？"
+    },
+    {
+      "id": 83,
+      "en": "No, this is bad.",
+      "cn": "不，这很糟糕。"
+    },
+    {
+      "id": 84,
+      "en": "So what happens when you stalk someone?",
+      "cn": "那么当你跟踪某人时会发生什么？"
+    },
+    {
+      "id": 85,
+      "en": "You follow them secretly for a long time.",
+      "cn": "你秘密地跟随他们很长时间。"
+    },
+    {
+      "id": 86,
+      "en": "And then maybe you watch them and...",
+      "cn": "然后也许你观察他们，..."
+    },
+    {
+      "id": 87,
+      "en": "You're standing outside their window watching them get undressed or something.",
+      "cn": "你站在他们窗外看他们脱衣服或其他什么。"
+    },
+    {
+      "id": 88,
+      "en": "Okay, so many famous people have stalkers, right?",
+      "cn": "好吧，许多名人都有跟踪者，对吧？"
+    },
+    {
+      "id": 89,
+      "en": "Yeah, which is the noun.",
+      "cn": "是的，这就是名词。"
+    },
+    {
+      "id": 90,
+      "en": "The noun form, exactly.",
+      "cn": "名词形式，没错。"
+    },
+    {
+      "id": 91,
+      "en": "So if I am stalking somebody, I am considered to be a stalker.",
+      "cn": "所以如果我在跟踪某人，我就被认为是一个跟踪者。"
+    },
+    {
+      "id": 92,
+      "en": "Yes, so to stalk.",
+      "cn": "是的，所以跟踪。"
+    },
+    {
+      "id": 93,
+      "en": "So don't do this.",
+      "cn": "所以不要这样做。"
+    },
+    {
+      "id": 94,
+      "en": "So Stephen described this stalker as a nut job.",
+      "cn": "所以Stephen把这个跟踪者形容为疯子。"
+    },
+    {
+      "id": 95,
+      "en": "A nut job.",
+      "cn": "疯子。"
+    },
+    {
+      "id": 96,
+      "en": "Nut job.",
+      "cn": "疯子。"
+    },
+    {
+      "id": 97,
+      "en": "A nut job.",
+      "cn": "疯子。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, very, very informal and it doesn't really mean anything literally, but it's crazy.",
+      "cn": "好吧，非常非常非正式，实际上并没有什么字面意思，但它是疯狂的。"
+    },
+    {
+      "id": 99,
+      "en": "Yes, it means a crazy person.",
+      "cn": "是的，它意味着一个疯狂的人。"
+    },
+    {
+      "id": 100,
+      "en": "A crazy person.",
+      "cn": "一个疯狂的人。"
+    },
+    {
+      "id": 101,
+      "en": "What a nut job.",
+      "cn": "真是个疯子。"
+    },
+    {
+      "id": 102,
+      "en": "He's a nut job.",
+      "cn": "他是个疯子。"
+    },
+    {
+      "id": 103,
+      "en": "Okay, so would you really call this to someone, like, to their face?",
+      "cn": "好吧，你真的会当面对某人这样说吗？"
+    },
+    {
+      "id": 104,
+      "en": "No, no, definitely not.",
+      "cn": "不，不，绝对不会。"
+    },
+    {
+      "id": 105,
+      "en": "It's definitely impolite.",
+      "cn": "这绝对是不礼貌的。"
+    },
+    {
+      "id": 106,
+      "en": "Right, you can't say to someone, oh, you're a nut job.",
+      "cn": "对，你不能对某人说，哦，你是个疯子。"
+    },
+    {
+      "id": 107,
+      "en": "Yeah, but it's not a swear word.",
+      "cn": "是的，但这不是脏话。"
+    },
+    {
+      "id": 108,
+      "en": "No, but it's a little bit insulting, right?",
+      "cn": "不，但这有点侮辱，对吧？"
+    },
+    {
+      "id": 109,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 110,
+      "en": "It's like saying you're crazy, but stronger.",
+      "cn": "就像说你疯了，但更强烈。"
+    },
+    {
+      "id": 111,
+      "en": "Well, the doctor was a nut job, he was stalking her, and she apologized to Stephen for getting him worked up.",
+      "cn": "嗯，那个医生是个疯子，他在跟踪她，她为让斯蒂芬激动而道歉。"
+    },
+    {
+      "id": 112,
+      "en": "Worked up.",
+      "cn": "激动。"
+    },
+    {
+      "id": 113,
+      "en": "So work up.",
+      "cn": "所以激动。"
+    },
+    {
+      "id": 114,
+      "en": "To be worked up.",
+      "cn": "被激动。"
+    },
+    {
+      "id": 115,
+      "en": "When you get worked up, what happens?",
+      "cn": "当你激动时，会发生什么？"
+    },
+    {
+      "id": 116,
+      "en": "You get really emotional and usually angry or sad or upset, but a negative emotion.",
+      "cn": "你会变得非常情绪化，通常是生气、伤心或不安，但都是负面情绪。"
+    },
+    {
+      "id": 117,
+      "en": "Okay, so you got worked up.",
+      "cn": "好吧，所以你激动了。"
+    },
+    {
+      "id": 118,
+      "en": "So it's always used with the verb to get, so to get worked up.",
+      "cn": "所以它总是与动词“变得”一起使用，所以变得激动。"
+    },
+    {
+      "id": 119,
+      "en": "Okay, you get worked up.",
+      "cn": "好吧，你变得激动。"
+    },
+    {
+      "id": 120,
+      "en": "You got worked up.",
+      "cn": "你激动了。"
+    },
+    {
+      "id": 121,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 122,
+      "en": "And well, Stephen got worked up over nothing, but he didn't mind.",
+      "cn": "而且，斯蒂芬对无事激动，但他并不介意。"
+    },
+    {
+      "id": 123,
+      "en": "He said she is his love, and he called her his soulmate.",
+      "cn": "他说她是他的爱，他称她为他的灵魂伴侣。"
+    },
+    {
+      "id": 124,
+      "en": "His soulmate.",
+      "cn": "他的灵魂伴侣。"
+    },
+    {
+      "id": 125,
+      "en": "Soulmate.",
+      "cn": "灵魂伴侣。"
+    },
+    {
+      "id": 126,
+      "en": "That's right, a very romantic word, meaning the perfect person for you.",
+      "cn": "没错，非常浪漫的词，意味着你完美的人。"
+    },
+    {
+      "id": 127,
+      "en": "Right, your other half.",
+      "cn": "对，你的另一半。"
+    },
+    {
+      "id": 128,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 129,
+      "en": "Okay, so your soulmate is that perfect compliment for you.",
+      "cn": "好吧，所以你的灵魂伴侣是那个完美的补充。"
+    },
+    {
+      "id": 130,
+      "en": "And it's usually romantic, right?",
+      "cn": "而且通常是浪漫的，对吧？"
+    },
+    {
+      "id": 131,
+      "en": "Usually romantic, but sometimes you might use it with your very, very, very best friend.",
+      "cn": "通常是浪漫的，但有时你可能会用它来形容你非常非常好的朋友。"
+    },
+    {
+      "id": 132,
+      "en": "Because you understand each other.",
+      "cn": "因为你们彼此理解。"
+    },
+    {
+      "id": 133,
+      "en": "Yeah, you know what the other one's thinking.",
+      "cn": "是的，你知道对方在想什么。"
+    },
+    {
+      "id": 134,
+      "en": "You're the perfect fit together.",
+      "cn": "你们是完美的搭配。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, soulmate.",
+      "cn": "好吧，灵魂伴侣。"
+    },
+    {
+      "id": 136,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 137,
+      "en": "Well, we've seen some really interesting words, so why don't we listen to our dialogue again, and then we'll come back and look at some of the phrases that were used.",
+      "cn": "嗯，我们看到了一些非常有趣的词，所以我们再听一遍对话，然后再回来看看使用的一些短语。"
+    },
+    {
+      "id": 138,
+      "en": "Thank God you showed up when you did.",
+      "cn": "感谢上帝你及时出现。"
+    },
+    {
+      "id": 139,
+      "en": "He's insane.",
+      "cn": "他疯了。"
+    },
+    {
+      "id": 140,
+      "en": "Do you think we should call the police?",
+      "cn": "你认为我们应该报警吗？"
+    },
+    {
+      "id": 141,
+      "en": "Don't worry about it.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 142,
+      "en": "I'll call my friend and have him take care of it.",
+      "cn": "我会打电话给我的朋友，让他来处理。"
+    },
+    {
+      "id": 143,
+      "en": "I can't believe he was stalking you all these years.",
+      "cn": "我真不敢相信他这些年一直在跟踪你。"
+    },
+    {
+      "id": 144,
+      "en": "What a nut job.",
+      "cn": "真是个疯子。"
+    },
+    {
+      "id": 145,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 146,
+      "en": "Well, he said I'm not pregnant.",
+      "cn": "嗯，他说我没有怀孕。"
+    },
+    {
+      "id": 147,
+      "en": "I'm sorry if I got you all worked up over nothing.",
+      "cn": "如果我让你无缘无故激动，我很抱歉。"
+    },
+    {
+      "id": 148,
+      "en": "I want you to know that I didn't do it on purpose.",
+      "cn": "我想让你知道我不是故意的。"
+    },
+    {
+      "id": 149,
+      "en": "Don't apologize.",
+      "cn": "别道歉。"
+    },
+    {
+      "id": 150,
+      "en": "From the moment I met you, not a day has gone by when I haven't thought of you.",
+      "cn": "从我见到你的那一刻起，没有一天我没有想过你。"
+    },
+    {
+      "id": 151,
+      "en": "And now that I'm with you again, I'm just, I'm just scared, Veronica.",
+      "cn": "现在我又和你在一起，我只是，我只是害怕，维罗妮卡。"
+    },
+    {
+      "id": 152,
+      "en": "The closer I get to you, the worse it gets.",
+      "cn": "我越接近你，情况就越糟。"
+    },
+    {
+      "id": 153,
+      "en": "The thought of not being with you.",
+      "cn": "不和你在一起的想法。"
+    },
+    {
+      "id": 154,
+      "en": "I mean, I just can't handle it.",
+      "cn": "我的意思是，我真的无法承受。"
+    },
+    {
+      "id": 155,
+      "en": "We were made for each other, Veronica.",
+      "cn": "我们是天造地设的一对，维罗妮卡。"
+    },
+    {
+      "id": 156,
+      "en": "You're my everything.",
+      "cn": "你是我的一切。"
+    },
+    {
+      "id": 157,
+      "en": "My soulmate.",
+      "cn": "我的灵魂伴侣。"
+    },
+    {
+      "id": 158,
+      "en": "What can I do?",
+      "cn": "我能做什么？"
+    },
+    {
+      "id": 159,
+      "en": "Just hold me.",
+      "cn": "只要抱着我。"
+    },
+    {
+      "id": 160,
+      "en": "I'll always be here for you, no matter what.",
+      "cn": "无论如何，我会一直在你身边。"
+    },
+    {
+      "id": 161,
+      "en": "And together, we can tackle whatever life throws at us.",
+      "cn": "我们可以一起应对生活中的一切。"
+    },
+    {
+      "id": 162,
+      "en": "I believe in us, Steven.",
+      "cn": "我相信我们，斯蒂芬。"
+    },
+    {
+      "id": 163,
+      "en": "I'm so happy to hear that.",
+      "cn": "听到这个我很高兴。"
+    },
+    {
+      "id": 164,
+      "en": "I know we belong together.",
+      "cn": "我知道我们是天生一对。"
+    },
+    {
+      "id": 165,
+      "en": "I love you so much.",
+      "cn": "我非常爱你。"
+    },
+    {
+      "id": 166,
+      "en": "That was a little bit more clear this time.",
+      "cn": "这次说得清楚多了。"
+    },
+    {
+      "id": 167,
+      "en": "But now I want to look at some phrases in the dialogue and see how they can be put together.",
+      "cn": "但现在我想看看对话中的一些短语，看看它们如何组合在一起。"
+    },
+    {
+      "id": 168,
+      "en": "Putting it together.",
+      "cn": "组合在一起。"
+    },
+    {
+      "id": 169,
+      "en": "So Veronica apologized to Steven for getting him worked up over nothing.",
+      "cn": "所以维罗妮卡为让斯蒂芬无缘无故激动而道歉。"
+    },
+    {
+      "id": 170,
+      "en": "Over nothing.",
+      "cn": "无缘无故。"
+    },
+    {
+      "id": 171,
+      "en": "Over nothing.",
+      "cn": "无缘无故。"
+    },
+    {
+      "id": 172,
+      "en": "Now it's the complete sentence.",
+      "cn": "现在是完整的句子。"
+    },
+    {
+      "id": 173,
+      "en": "I'm sorry for getting you worked up over nothing.",
+      "cn": "我为让你无缘无故激动而感到抱歉。"
+    },
+    {
+      "id": 174,
+      "en": "So over nothing means for no reason, right?",
+      "cn": "所以无缘无故意味着没有理由，对吧？"
+    },
+    {
+      "id": 175,
+      "en": "Right, exactly.",
+      "cn": "对，没错。"
+    },
+    {
+      "id": 176,
+      "en": "So why don't we listen to some other examples of how we can use over nothing?",
+      "cn": "那么我们为什么不听听其他一些如何使用无缘无故的例子呢？"
+    },
+    {
+      "id": 177,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 178,
+      "en": "You always get angry over nothing.",
+      "cn": "你总是无缘无故生气。"
+    },
+    {
+      "id": 179,
+      "en": "You have such a bad temper.",
+      "cn": "你脾气真差。"
+    },
+    {
+      "id": 180,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 181,
+      "en": "I called the police last night over nothing.",
+      "cn": "我昨晚无缘无故报警。"
+    },
+    {
+      "id": 182,
+      "en": "I thought I had a thief in my house.",
+      "cn": "我以为我家里有小偷。"
+    },
+    {
+      "id": 183,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 184,
+      "en": "Let's not fight over nothing.",
+      "cn": "我们别无缘无故争吵。"
+    },
+    {
+      "id": 185,
+      "en": "Let's just have dinner and peace.",
+      "cn": "我们就吃晚餐，享受平静吧。"
+    },
+    {
+      "id": 186,
+      "en": "Okay, so we see you can use many different verbs together with over nothing.",
+      "cn": "好吧，所以我们看到你可以与无缘无故搭配许多不同的动词。"
+    },
+    {
+      "id": 187,
+      "en": "So get excited over nothing.",
+      "cn": "所以无缘无故激动。"
+    },
+    {
+      "id": 188,
+      "en": "Get angry over nothing.",
+      "cn": "无缘无故生气。"
+    },
+    {
+      "id": 189,
+      "en": "Get upset over nothing.",
+      "cn": "无缘无故不安。"
+    },
+    {
+      "id": 190,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 191,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 192,
+      "en": "So over nothing.",
+      "cn": "所以无缘无故。"
+    },
+    {
+      "id": 193,
+      "en": "And now for our next phrase.",
+      "cn": "现在是我们的下一个短语。"
+    },
+    {
+      "id": 194,
+      "en": "So when Steven was telling Veronica how much he loved her, he told her not a day has gone by when I haven't thought of you.",
+      "cn": "所以当斯蒂芬告诉维罗妮卡他有多爱她时，他告诉她没有一天过去我没有想过你。"
+    },
+    {
+      "id": 195,
+      "en": "So not a day has gone by.",
+      "cn": "所以没有一天过去。"
+    },
+    {
+      "id": 196,
+      "en": "So that part of the sentence, not a day has gone by, what does he mean by that?",
+      "cn": "句子的那部分，没有一天过去，他是什么意思？"
+    },
+    {
+      "id": 197,
+      "en": "He means basically every day I think of you.",
+      "cn": "他基本上是说我每天都在想你。"
+    },
+    {
+      "id": 198,
+      "en": "There hasn't been a moment where I haven't thought of you.",
+      "cn": "没有一刻我没有想过你。"
+    },
+    {
+      "id": 199,
+      "en": "Now, how can we change it a little bit?",
+      "cn": "现在，我们怎么能稍微改变一下呢？"
+    },
+    {
+      "id": 200,
+      "en": "What can we change within this phrase?",
+      "cn": "我们可以在这个短语中改变什么？"
+    },
+    {
+      "id": 201,
+      "en": "Well, you can put in different times.",
+      "cn": "嗯，你可以放入不同的时间。"
+    },
+    {
+      "id": 202,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 203,
+      "en": "So not a day has gone by.",
+      "cn": "所以没有一天过去。"
+    },
+    {
+      "id": 204,
+      "en": "Not an hour has gone by.",
+      "cn": "没有一个小时过去。"
+    },
+    {
+      "id": 205,
+      "en": "Not a moment has gone by.",
+      "cn": "没有一刻过去。"
+    },
+    {
+      "id": 206,
+      "en": "Not a month, not a year.",
+      "cn": "没有一个月，没有一年。"
+    },
+    {
+      "id": 207,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 208,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 209,
+      "en": "So you can use different times in that phrase.",
+      "cn": "所以你可以在那个短语中使用不同的时间。"
+    },
+    {
+      "id": 210,
+      "en": "But an important thing is that the compliment is always negative, right?",
+      "cn": "但一个重要的事情是，赞美总是带有否定，对吗？"
+    },
+    {
+      "id": 211,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 212,
+      "en": "So it's always followed by a negative.",
+      "cn": "所以它总是跟着一个否定。"
+    },
+    {
+      "id": 213,
+      "en": "Not a day has gone by that I haven't wished you were here.",
+      "cn": "没有一天过去我没有希望你在这里。"
+    },
+    {
+      "id": 214,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 215,
+      "en": "So it's followed by a negative.",
+      "cn": "所以它跟着一个否定。"
+    },
+    {
+      "id": 216,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 217,
+      "en": "Maybe one more.",
+      "cn": "也许再来一个。"
+    },
+    {
+      "id": 218,
+      "en": "Not a second has gone by that I haven't missed you.",
+      "cn": "没有一秒过去我没有想念你。"
+    },
+    {
+      "id": 219,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 220,
+      "en": "Very good examples.",
+      "cn": "非常好的例子。"
+    },
+    {
+      "id": 221,
+      "en": "Very romantic.",
+      "cn": "非常浪漫。"
+    },
+    {
+      "id": 222,
+      "en": "Oh, Marco.",
+      "cn": "哦，马尔科。"
+    },
+    {
+      "id": 223,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 224,
+      "en": "And now our last phrase.",
+      "cn": "现在是我们的最后一个短语。"
+    },
+    {
+      "id": 225,
+      "en": "He told her, I'll always be here for you no matter what.",
+      "cn": "他告诉她，无论如何我都会在你身边。"
+    },
+    {
+      "id": 226,
+      "en": "No matter what.",
+      "cn": "无论如何。"
+    },
+    {
+      "id": 227,
+      "en": "No matter what.",
+      "cn": "无论如何。"
+    },
+    {
+      "id": 228,
+      "en": "So no matter what.",
+      "cn": "所以无论如何。"
+    },
+    {
+      "id": 229,
+      "en": "What does he mean by that?",
+      "cn": "他是什么意思？"
+    },
+    {
+      "id": 230,
+      "en": "Well, regardless of or, you know, nothing's going to stop me.",
+      "cn": "嗯，无论如何，或者，你知道，没有什么能阻止我。"
+    },
+    {
+      "id": 231,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 232,
+      "en": "So if I want to get that job, I'm going to get it no matter what.",
+      "cn": "所以如果我想得到那份工作，我会无论如何得到它。"
+    },
+    {
+      "id": 233,
+      "en": "So nothing's going to stop you.",
+      "cn": "所以没有什么能阻止你。"
+    },
+    {
+      "id": 234,
+      "en": "Now we can change the WH word what at the end, right?",
+      "cn": "现在我们可以改变最后的WH词“什么”，对吗？"
+    },
+    {
+      "id": 235,
+      "en": "Other ones.",
+      "cn": "其他的。"
+    },
+    {
+      "id": 236,
+      "en": "So no matter where, no matter where you are, I will find you.",
+      "cn": "所以无论在哪里，无论你在哪里，我都会找到你。"
+    },
+    {
+      "id": 237,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 238,
+      "en": "No matter when, no matter when your birthday is, I will be there.",
+      "cn": "无论何时，无论你的生日是什么时候，我都会在那儿。"
+    },
+    {
+      "id": 239,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 240,
+      "en": "You can see how you can use different WH words here.",
+      "cn": "你可以看到你可以在这里使用不同的WH词。"
+    },
+    {
+      "id": 241,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 242,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 243,
+      "en": "And it's a very common phrase, right?",
+      "cn": "这是一个非常常见的短语，对吗？"
+    },
+    {
+      "id": 244,
+      "en": "No matter what, no matter where, no matter when, no matter why, no matter how.",
+      "cn": "无论如何，无论在哪里，无论何时，无论为什么，无论如何。"
+    },
+    {
+      "id": 245,
+      "en": "No matter how.",
+      "cn": "无论如何。"
+    },
+    {
+      "id": 246,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 247,
+      "en": "So those were some really great phrases and I think you can play with them a little bit, change some things, and then you can use them in your everyday life.",
+      "cn": "所以这些都是一些非常好的短语，我认为你可以稍微玩一下，改变一些东西，然后在日常生活中使用它们。"
+    },
+    {
+      "id": 248,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 249,
+      "en": "But why don't we hear them again one more time in context with the dialogue.",
+      "cn": "但我们为什么不再在对话中听一遍呢？"
+    },
+    {
+      "id": 250,
+      "en": "Thank God you showed up when you did.",
+      "cn": "感谢上帝你及时出现。"
+    },
+    {
+      "id": 251,
+      "en": "He's insane.",
+      "cn": "他疯了。"
+    },
+    {
+      "id": 252,
+      "en": "Do you think we should call the police?",
+      "cn": "你认为我们应该报警吗？"
+    },
+    {
+      "id": 253,
+      "en": "Don't worry about it.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 254,
+      "en": "I'll call my friend and have him take care of it.",
+      "cn": "我会打电话给我的朋友，让他来处理。"
+    },
+    {
+      "id": 255,
+      "en": "I can't believe he was stalking you all these years.",
+      "cn": "我真不敢相信他这些年一直在跟踪你。"
+    },
+    {
+      "id": 256,
+      "en": "What a nut job.",
+      "cn": "真是个疯子。"
+    },
+    {
+      "id": 257,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 258,
+      "en": "Well, he said I'm not pregnant.",
+      "cn": "好吧，他说我没有怀孕。"
+    },
+    {
+      "id": 259,
+      "en": "I'm sorry if I got you all worked up over nothing.",
+      "cn": "如果我让你为一些小事紧张，我很抱歉。"
+    },
+    {
+      "id": 260,
+      "en": "I want you to know that I didn't do it on purpose.",
+      "cn": "我想让你知道我不是故意的。"
+    },
+    {
+      "id": 261,
+      "en": "Don't apologize.",
+      "cn": "别道歉。"
+    },
+    {
+      "id": 262,
+      "en": "From the moment I met you, not a day has gone by when I haven't thought of you.",
+      "cn": "从我见到你的那一刻起，没有一天过去我没有想过你。"
+    },
+    {
+      "id": 263,
+      "en": "And now that I'm with you again, I'm just scared, Veronica.",
+      "cn": "现在我又和你在一起，我只是害怕，维罗妮卡。"
+    },
+    {
+      "id": 264,
+      "en": "The closer I get to you, the worse it gets.",
+      "cn": "我越接近你，情况就越糟。"
+    },
+    {
+      "id": 265,
+      "en": "The thought of not being with you, I mean, I just can't handle it.",
+      "cn": "不和你在一起的想法，我是说，我真的无法承受。"
+    },
+    {
+      "id": 266,
+      "en": "We were made for each other, Veronica.",
+      "cn": "我们是天造地设的一对，维罗妮卡。"
+    },
+    {
+      "id": 267,
+      "en": "You're my everything, my soulmate.",
+      "cn": "你是我的一切，我的灵魂伴侣。"
+    },
+    {
+      "id": 268,
+      "en": "What can I do?",
+      "cn": "我能做什么？"
+    },
+    {
+      "id": 269,
+      "en": "Just hold me.",
+      "cn": "只要抱紧我。"
+    },
+    {
+      "id": 270,
+      "en": "I'll always be here for you, no matter what.",
+      "cn": "无论如何我都会在你身边。"
+    },
+    {
+      "id": 271,
+      "en": "And together, we can tackle whatever life throws at us.",
+      "cn": "我们可以一起应对生活给我们的任何挑战。"
+    },
+    {
+      "id": 272,
+      "en": "I believe in us, Steven.",
+      "cn": "我相信我们，史蒂文。"
+    },
+    {
+      "id": 273,
+      "en": "I'm so happy to hear that.",
+      "cn": "听到这个我很高兴。"
+    },
+    {
+      "id": 274,
+      "en": "I know we belong together.",
+      "cn": "我知道我们注定在一起。"
+    },
+    {
+      "id": 275,
+      "en": "I love you so much.",
+      "cn": "我非常爱你。"
+    },
+    {
+      "id": 276,
+      "en": "Okay, Erika, so who do you think got shot?",
+      "cn": "好的，埃里卡，你认为谁被枪击了？"
+    },
+    {
+      "id": 277,
+      "en": "I don't know, but I'm starting to think this story is becoming a soap opera.",
+      "cn": "我不知道，但我开始觉得这个故事变成了肥皂剧。"
+    },
+    {
+      "id": 278,
+      "en": "Well, it certainly is.",
+      "cn": "嗯，确实如此。"
+    },
+    {
+      "id": 279,
+      "en": "And well, what do you guys think happened?",
+      "cn": "那么，你们认为发生了什么？"
+    },
+    {
+      "id": 280,
+      "en": "Or who do you think got shot?",
+      "cn": "或者你们认为谁被枪击了？"
+    },
+    {
+      "id": 281,
+      "en": "Who did the shooting?",
+      "cn": "谁开了枪？"
+    },
+    {
+      "id": 282,
+      "en": "Who shot who?",
+      "cn": "谁打了谁？"
+    },
+    {
+      "id": 283,
+      "en": "Was it even a gunshot?",
+      "cn": "甚至是枪声吗？"
+    },
+    {
+      "id": 284,
+      "en": "Maybe it was just the car.",
+      "cn": "也许只是车子。"
+    },
+    {
+      "id": 285,
+      "en": "The tire could have popped.",
+      "cn": "轮胎可能爆了。"
+    },
+    {
+      "id": 286,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 287,
+      "en": "So well, come to our website, tell us what you think happens or what you would like to happen.",
+      "cn": "所以，来我们的网站，告诉我们你认为发生了什么或你希望发生什么。"
+    },
+    {
+      "id": 288,
+      "en": "Because I know many people are expecting a little bit more romance, maybe, and less drama.",
+      "cn": "因为我知道很多人期待更多的浪漫，也许少一点戏剧。"
+    },
+    {
+      "id": 289,
+      "en": "But if you have any questions about the language in this lesson, please visit the website at EnglishPod.com.",
+      "cn": "但如果你对本课的语言有任何问题，请访问网站 EnglishPod.com。"
+    },
+    {
+      "id": 290,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 291,
+      "en": "Erika and I are always there to answer your questions and well, anything you guys need.",
+      "cn": "Erika 和我总是在这里回答你们的问题，以及你们需要的任何东西。"
+    },
+    {
+      "id": 292,
+      "en": "Anything?",
+      "cn": "任何东西？"
+    },
+    {
+      "id": 293,
+      "en": "Anything.",
+      "cn": "任何东西。"
+    },
+    {
+      "id": 294,
+      "en": "Well, thanks for listening to this lesson.",
+      "cn": "好吧，感谢你收听这节课。"
+    },
+    {
+      "id": 295,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见， goodbye."
+    }
+  ]
+}

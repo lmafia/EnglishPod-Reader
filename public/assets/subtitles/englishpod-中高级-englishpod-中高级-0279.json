@@ -1,0 +1,1279 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0279",
+  "title": "EnglishPod 中高级 0279",
+  "totalSegments": 254,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we've got a lesson for you that's about an unusual topic, something we've never talked about here on EnglishPod.",
+      "cn": "今天我们有一节课要给你们，主题是一个不寻常的话题，这是我们在EnglishPod从未讨论过的。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "As you know, in EnglishPod, we like to talk about all sorts of topics, especially topics that are real-life topics, so probably a lot of things that you won't find in your normal English notebooks or English learning books.",
+      "cn": "正如你所知，在EnglishPod，我们喜欢讨论各种话题，尤其是现实生活中的话题，所以可能有很多内容你在普通的英语笔记本或英语学习书中找不到。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "So we want to tell you in advance, today's lesson is about drugs.",
+      "cn": "所以我们想提前告诉你，今天的课程是关于毒品的。"
+    },
+    {
+      "id": 9,
+      "en": "So if you're a younger user or you have kids, maybe they shouldn't listen to today's lesson, but you're going to learn a lot of the names for drugs and also how to turn down an offer of drugs.",
+      "cn": "如果你是年轻用户或者有孩子，可能他们不应该听今天的课程，但你会学到很多毒品的名称，以及如何拒绝毒品的提议。"
+    },
+    {
+      "id": 10,
+      "en": "So let's check out today's dialogue, and we'll be back in a moment to talk about the things that you've heard.",
+      "cn": "让我们来看看今天的对话，稍后我们会回来讨论你听到的内容。"
+    },
+    {
+      "id": 11,
+      "en": "Hey, man, you want to buy some weed?",
+      "cn": "嘿，兄弟，你想买点大麻吗？"
+    },
+    {
+      "id": 12,
+      "en": "Some what?",
+      "cn": "什么？"
+    },
+    {
+      "id": 13,
+      "en": "Weed.",
+      "cn": "大麻。"
+    },
+    {
+      "id": 14,
+      "en": "You know, pot, ganja, Mary Jane, some chronic.",
+      "cn": "你知道的，草，甘蔗，玛丽·简，慢性。"
+    },
+    {
+      "id": 15,
+      "en": "Oh, uh, no thanks.",
+      "cn": "哦，呃，不用了。"
+    },
+    {
+      "id": 16,
+      "en": "I also have blow if you prefer to do a few lines.",
+      "cn": "如果你喜欢，我还有可卡因。"
+    },
+    {
+      "id": 17,
+      "en": "No, I'm okay.",
+      "cn": "不，我没事。"
+    },
+    {
+      "id": 18,
+      "en": "Really.",
+      "cn": "真的。"
+    },
+    {
+      "id": 19,
+      "en": "Come on, man.",
+      "cn": "来吧，兄弟。"
+    },
+    {
+      "id": 20,
+      "en": "I even got dope and acid.",
+      "cn": "我甚至还有毒品和迷幻药。"
+    },
+    {
+      "id": 21,
+      "en": "Try some.",
+      "cn": "试试吧。"
+    },
+    {
+      "id": 22,
+      "en": "Do you really have all of these drugs?",
+      "cn": "你真的有这些毒品吗？"
+    },
+    {
+      "id": 23,
+      "en": "Where do you get them from?",
+      "cn": "你从哪里弄来的？"
+    },
+    {
+      "id": 24,
+      "en": "I got my connections.",
+      "cn": "我有我的关系。"
+    },
+    {
+      "id": 25,
+      "en": "Just tell me what you want, and I'll even give you an ounce for free.",
+      "cn": "只要告诉我你想要什么，我甚至可以给你一盎司的免费。"
+    },
+    {
+      "id": 26,
+      "en": "Hmm, sounds good.",
+      "cn": "嗯，听起来不错。"
+    },
+    {
+      "id": 27,
+      "en": "Let's see.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 28,
+      "en": "I want... Yeah?",
+      "cn": "我想要……是吗？"
+    },
+    {
+      "id": 29,
+      "en": "I want you to put your hands behind your head.",
+      "cn": "我想让你把手放在头后面。"
+    },
+    {
+      "id": 30,
+      "en": "You are under arrest.",
+      "cn": "你被逮捕了。"
+    },
+    {
+      "id": 31,
+      "en": "Dope!",
+      "cn": "哇！"
+    },
+    {
+      "id": 32,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 33,
+      "en": "So as Catherine mentioned, obviously, everywhere in the world, maybe most likely you've been offered drugs.",
+      "cn": "正如Catherine提到的，显然，在世界各地，你可能都被提供过毒品。"
+    },
+    {
+      "id": 34,
+      "en": "So we're not only going to talk about drugs, but we're also going to give you some vocab in English how to reject or turn down the offer of drugs.",
+      "cn": "所以我们不仅会讨论毒品，还会给你一些英语词汇，教你如何拒绝或拒绝毒品的提议。"
+    },
+    {
+      "id": 35,
+      "en": "And now what we're going to take a look at, let's start in Language Takeaway with some of the names of these drugs in English.",
+      "cn": "现在我们要看看的是，让我们在语言收获中开始一些这些毒品的英语名称。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so we're in Language Takeaway here, and I want to warn you, some of these words are slang.",
+      "cn": "好的，我们在语言收获中，我想警告你，这些词有些是俚语。"
+    },
+    {
+      "id": 37,
+      "en": "That means they're not words from like a dictionary.",
+      "cn": "这意味着它们不是字典中的词。"
+    },
+    {
+      "id": 38,
+      "en": "These are words people use when they're talking to each other in daily life, or words that you hear on the street.",
+      "cn": "这些是人们在日常生活中互相交流时使用的词，或者是你在街上听到的词。"
+    },
+    {
+      "id": 39,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 40,
+      "en": "You may even hear them a lot in movies as well.",
+      "cn": "你甚至可能在电影中听到它们。"
+    },
+    {
+      "id": 41,
+      "en": "Movies and TV.",
+      "cn": "电影和电视。"
+    },
+    {
+      "id": 42,
+      "en": "So this first one, weed, is something... there's even a TV show called Weeds.",
+      "cn": "所以第一个，草，是……甚至有一部叫《杂草》的电视剧。"
+    },
+    {
+      "id": 43,
+      "en": "That's right, that talks about this topic.",
+      "cn": "没错，谈论这个话题。"
+    },
+    {
+      "id": 44,
+      "en": "So weed is the street name or the most common name for the drug marijuana.",
+      "cn": "所以草是毒品大麻的街头名称或最常见的名称。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "Marijuana is the drug name, but there are many, many, many other names in English that you'll hear.",
+      "cn": "大麻是药物名称，但在英语中还有很多其他名称你会听到。"
+    },
+    {
+      "id": 47,
+      "en": "So weed is one of them.",
+      "cn": "所以草是其中之一。"
+    },
+    {
+      "id": 48,
+      "en": "A weed is a kind of thing that grows, like grass or a flower that you cut because you don't want it.",
+      "cn": "草是一种生长的东西，比如你因为不想要而割掉的草或花。"
+    },
+    {
+      "id": 49,
+      "en": "It's bad, it smells bad.",
+      "cn": "它是坏的，闻起来很糟糕。"
+    },
+    {
+      "id": 50,
+      "en": "That's right, that's exactly right.",
+      "cn": "没错，完全正确。"
+    },
+    {
+      "id": 51,
+      "en": "So the colloquial name for marijuana is weed, and obviously the person that's being offered these drugs doesn't understand what that means.",
+      "cn": "所以大麻的口语名称是草，显然被提供这些毒品的人并不理解这是什么意思。"
+    },
+    {
+      "id": 52,
+      "en": "So he goes on and he gives a couple of different other street names for the same drug.",
+      "cn": "所以他继续给出几个其他的同类毒品的街头名称。"
+    },
+    {
+      "id": 53,
+      "en": "So the first one... so the next one is pot.",
+      "cn": "所以第一个……下一个是锅。"
+    },
+    {
+      "id": 54,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 55,
+      "en": "So he says pot or ganja or Mary Jane or even chronic.",
+      "cn": "所以他说锅或甘蔗或玛丽·简或甚至慢性。"
+    },
+    {
+      "id": 56,
+      "en": "So all of these are synonyms.",
+      "cn": "所以这些都是同义词。"
+    },
+    {
+      "id": 57,
+      "en": "They mean exactly the same thing.",
+      "cn": "它们的意思完全相同。"
+    },
+    {
+      "id": 58,
+      "en": "They all mean marijuana.",
+      "cn": "它们都意味着大麻。"
+    },
+    {
+      "id": 59,
+      "en": "Okay, but then after that, the drug dealer offers other kinds of drugs.",
+      "cn": "好的，但之后，毒贩提供了其他种类的毒品。"
+    },
+    {
+      "id": 60,
+      "en": "He says blow.",
+      "cn": "他说可卡因。"
+    },
+    {
+      "id": 61,
+      "en": "So now we may know the verb to blow, right?",
+      "cn": "所以我们可能知道动词“吹”，对吧？"
+    },
+    {
+      "id": 62,
+      "en": "That's right, to blow air.",
+      "cn": "没错，吹气。"
+    },
+    {
+      "id": 63,
+      "en": "But in this case, it's a noun.",
+      "cn": "但在这种情况下，它是一个名词。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, so he says, I have blow.",
+      "cn": "好的，所以他说，我有可卡因。"
+    },
+    {
+      "id": 65,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 66,
+      "en": "So he's offering this drug called blow.",
+      "cn": "所以他在提供这种叫做可卡因的毒品。"
+    },
+    {
+      "id": 67,
+      "en": "And what is blow?",
+      "cn": "可卡因是什么？"
+    },
+    {
+      "id": 68,
+      "en": "Blow is the street name for cocaine.",
+      "cn": "可卡因是可卡因的街头名称。"
+    },
+    {
+      "id": 69,
+      "en": "So there's a very famous movie called Blow, and it was about selling cocaine.",
+      "cn": "所以有一部非常著名的电影叫《可卡因》，讲的是贩卖可卡因。"
+    },
+    {
+      "id": 70,
+      "en": "Now, so after he talks about having blow, he also says, if you want to do a few lines.",
+      "cn": "现在，在他谈到有可卡因之后，他还说，如果你想吸几条线。"
+    },
+    {
+      "id": 71,
+      "en": "And so this is what you'll commonly hear people saying how they do this drug.",
+      "cn": "这就是你常听到人们说他们如何使用这种毒品。"
+    },
+    {
+      "id": 72,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 73,
+      "en": "So for example, you may know that many drugs, they're consumed in different ways.",
+      "cn": "例如，你可能知道许多毒品以不同的方式消费。"
+    },
+    {
+      "id": 74,
+      "en": "For example, weed.",
+      "cn": "例如，草。"
+    },
+    {
+      "id": 75,
+      "en": "People smoke it, right?",
+      "cn": "人们吸食它，对吧？"
+    },
+    {
+      "id": 76,
+      "en": "In this case, when we're talking about cocaine or blow, then that's why he refers to do a few lines.",
+      "cn": "在这种情况下，当我们谈论可卡因或可卡因时，这就是为什么他提到吸几条线。"
+    },
+    {
+      "id": 77,
+      "en": "All right, because people breathe it in through their nose.",
+      "cn": "好的，因为人们通过鼻子吸入它。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "So that's the colloquial way of saying of how you say that how you consume this drug.",
+      "cn": "所以这就是口语中说你如何消费这种毒品的方式。"
+    },
+    {
+      "id": 80,
+      "en": "Okay, so moving along, there's two more drugs that got mentioned in today's dialogue.",
+      "cn": "好的，继续，今天的对话中提到了另外两种毒品。"
+    },
+    {
+      "id": 81,
+      "en": "They're dope and acid.",
+      "cn": "它们是毒品和迷幻药。"
+    },
+    {
+      "id": 82,
+      "en": "Now dope can mean two different things.",
+      "cn": "现在毒品可以有两种不同的意思。"
+    },
+    {
+      "id": 83,
+      "en": "Sometimes it means marijuana, like some of those other words we heard earlier.",
+      "cn": "有时它指的是大麻，就像我们之前听到的一些其他词。"
+    },
+    {
+      "id": 84,
+      "en": "But sometimes it also means a very, very serious drug called crack cocaine.",
+      "cn": "但有时它也指一种非常严重的毒品，叫做裂解可卡因。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, and that's something that people breathe in.",
+      "cn": "好的，这是一种人们吸入的东西。"
+    },
+    {
+      "id": 86,
+      "en": "And it's very, very addictive.",
+      "cn": "而且它是非常非常上瘾的。"
+    },
+    {
+      "id": 87,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 88,
+      "en": "And also the other word that we have there or the other drug acid, you may know the word acid is a very harmful substance.",
+      "cn": "还有我们提到的另一个词或另一种毒品迷幻药，你可能知道迷幻药是非常有害的物质。"
+    },
+    {
+      "id": 89,
+      "en": "Like, for example, batteries.",
+      "cn": "例如，电池。"
+    },
+    {
+      "id": 90,
+      "en": "They have a certain type of acid that, for example, will melt metal or if it gets on your skin, it will burn you.",
+      "cn": "它们有一种特定类型的酸，例如，可以融化金属，或者如果它接触到你的皮肤，会烧伤你。"
+    },
+    {
+      "id": 91,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 92,
+      "en": "But acid, when it's a drug, means LSD.",
+      "cn": "但当迷幻药作为一种毒品时，指的是LSD。"
+    },
+    {
+      "id": 93,
+      "en": "And that is a drug that people take that makes them see things.",
+      "cn": "这是一种人们服用的药物，会让他们看到东西。"
+    },
+    {
+      "id": 94,
+      "en": "So it's called a hallucinogenic.",
+      "cn": "所以它被称为致幻剂。"
+    },
+    {
+      "id": 95,
+      "en": "It makes you see crazy things and it was very, very popular in the 1970s.",
+      "cn": "它让你看到疯狂的东西，在1970年代非常流行。"
+    },
+    {
+      "id": 96,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 97,
+      "en": "So that's acid or LSD.",
+      "cn": "所以这就是迷幻药或LSD。"
+    },
+    {
+      "id": 98,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 99,
+      "en": "So we've taken a look at a lot of vocab here, specifically all the drugs.",
+      "cn": "我们已经看了很多词汇，特别是所有的毒品。"
+    },
+    {
+      "id": 100,
+      "en": "Why don't we go back to our dialogue?",
+      "cn": "我们为什么不回到我们的对话中呢？"
+    },
+    {
+      "id": 101,
+      "en": "Let's take another listen and we'll be back to talk a little bit more.",
+      "cn": "让我们再听一遍，然后再回来聊聊。"
+    },
+    {
+      "id": 102,
+      "en": "Oh, uh, no thanks.",
+      "cn": "哦，呃，不用了。"
+    },
+    {
+      "id": 103,
+      "en": "I also have blow if you prefer to do a few lines.",
+      "cn": "如果你想吸几条，我也有可卡因。"
+    },
+    {
+      "id": 104,
+      "en": "No, I'm okay.",
+      "cn": "不，我没事。"
+    },
+    {
+      "id": 105,
+      "en": "Really.",
+      "cn": "真的。"
+    },
+    {
+      "id": 106,
+      "en": "Come on, man.",
+      "cn": "来吧，兄弟。"
+    },
+    {
+      "id": 107,
+      "en": "I even got dope and acid.",
+      "cn": "我甚至还有毒品和酸。"
+    },
+    {
+      "id": 108,
+      "en": "Try some.",
+      "cn": "试试吧。"
+    },
+    {
+      "id": 109,
+      "en": "Do you really have all of these drugs?",
+      "cn": "你真的有这些药物吗？"
+    },
+    {
+      "id": 110,
+      "en": "Where do you get them from?",
+      "cn": "你从哪里弄来的？"
+    },
+    {
+      "id": 111,
+      "en": "I got my connections.",
+      "cn": "我有我的关系。"
+    },
+    {
+      "id": 112,
+      "en": "Just tell me what you want and I'll even give you an ounce for free.",
+      "cn": "只要告诉我你想要什么，我甚至可以给你一盎司免费。"
+    },
+    {
+      "id": 113,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 114,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 115,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 116,
+      "en": "I want... Yeah?",
+      "cn": "我想要……是吗？"
+    },
+    {
+      "id": 117,
+      "en": "I want you to put your hands behind your head.",
+      "cn": "我想让你把手放在头后面。"
+    },
+    {
+      "id": 118,
+      "en": "You are under arrest.",
+      "cn": "你被逮捕了。"
+    },
+    {
+      "id": 119,
+      "en": "Don't!",
+      "cn": "不要！"
+    },
+    {
+      "id": 120,
+      "en": "Okay, so now in Fluency Builder, we've got a couple of phrases for you about the other side of things.",
+      "cn": "好的，现在在流利构建器中，我们有几个短语关于事情的另一面。"
+    },
+    {
+      "id": 121,
+      "en": "How to say no to drugs and what you might hear from a police officer like we hear in today's dialogue.",
+      "cn": "如何对毒品说不，以及你可能会听到的警察说的话，就像我们在今天的对话中听到的。"
+    },
+    {
+      "id": 122,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 123,
+      "en": "So let's take a look at these phrases in Fluency Builder.",
+      "cn": "所以让我们看看流利构建器中的这些短语。"
+    },
+    {
+      "id": 124,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 125,
+      "en": "So the first one we hear is no thanks.",
+      "cn": "我们听到的第一个是“不用了”。"
+    },
+    {
+      "id": 126,
+      "en": "So the guy says no thanks.",
+      "cn": "所以那个人说“不用了”。"
+    },
+    {
+      "id": 127,
+      "en": "He doesn't want the drugs.",
+      "cn": "他不想要毒品。"
+    },
+    {
+      "id": 128,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 129,
+      "en": "So obviously you're being offered something that you don't like.",
+      "cn": "所以显然你被提供了你不喜欢的东西。"
+    },
+    {
+      "id": 130,
+      "en": "Let's take into consideration drugs or maybe somebody wants to offer you a drink or somebody wants to take you on a date.",
+      "cn": "让我们考虑毒品，或者也许有人想请你喝一杯，或者有人想约你。"
+    },
+    {
+      "id": 131,
+      "en": "You can say no thanks.",
+      "cn": "你可以说“不用了”。"
+    },
+    {
+      "id": 132,
+      "en": "No thanks.",
+      "cn": "不用了。"
+    },
+    {
+      "id": 133,
+      "en": "So, hey Marco, you want a drink?",
+      "cn": "所以，嘿，马尔科，你想喝一杯吗？"
+    },
+    {
+      "id": 134,
+      "en": "I'm gonna go right now.",
+      "cn": "我现在就要走。"
+    },
+    {
+      "id": 135,
+      "en": "It's only like two o'clock, but you know we could go for a drink.",
+      "cn": "现在才两点，但你知道我们可以去喝一杯。"
+    },
+    {
+      "id": 136,
+      "en": "No thanks.",
+      "cn": "不用了。"
+    },
+    {
+      "id": 137,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 138,
+      "en": "Oh, okay.",
+      "cn": "哦，好吧。"
+    },
+    {
+      "id": 139,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 140,
+      "en": "And now we also have another phrase.",
+      "cn": "现在我们还有另一个短语。"
+    },
+    {
+      "id": 141,
+      "en": "If a person insists, the person is continually insisting like, oh, come on, come on.",
+      "cn": "如果一个人坚持，那个人人不断坚持，比如，哦，来吧，来吧。"
+    },
+    {
+      "id": 142,
+      "en": "Come on, Marco.",
+      "cn": "来吧，马尔科。"
+    },
+    {
+      "id": 143,
+      "en": "Let's go for a drink.",
+      "cn": "我们去喝一杯吧。"
+    },
+    {
+      "id": 144,
+      "en": "I really want a drink.",
+      "cn": "我真的想喝一杯。"
+    },
+    {
+      "id": 145,
+      "en": "Come with me.",
+      "cn": "跟我来。"
+    },
+    {
+      "id": 146,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 147,
+      "en": "And you can say, no, I'm okay.",
+      "cn": "你可以说，不，我没事。"
+    },
+    {
+      "id": 148,
+      "en": "Really.",
+      "cn": "真的。"
+    },
+    {
+      "id": 149,
+      "en": "So it may sound confusing.",
+      "cn": "所以这可能听起来令人困惑。"
+    },
+    {
+      "id": 150,
+      "en": "I am okay.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 151,
+      "en": "Because that would mean you're in good health.",
+      "cn": "因为这意味着你身体健康。"
+    },
+    {
+      "id": 152,
+      "en": "I feel good.",
+      "cn": "我感觉很好。"
+    },
+    {
+      "id": 153,
+      "en": "I feel good.",
+      "cn": "我感觉很好。"
+    },
+    {
+      "id": 154,
+      "en": "But in this case, when you say to someone, no, I'm okay, you're saying, no, I'm fine the way I am.",
+      "cn": "但在这种情况下，当你对某人说“不，我没事”，你是在说，不，我现在很好。"
+    },
+    {
+      "id": 155,
+      "en": "I don't really need to do anything.",
+      "cn": "我不需要做任何事情。"
+    },
+    {
+      "id": 156,
+      "en": "I don't need it.",
+      "cn": "我不需要它。"
+    },
+    {
+      "id": 157,
+      "en": "So I'm okay means I don't need it.",
+      "cn": "所以我没事意味着我不需要它。"
+    },
+    {
+      "id": 158,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 159,
+      "en": "And this is a great way to really say, listen, no, I don't want it.",
+      "cn": "这是一个很好的方式来真正说，听着，不，我不想要。"
+    },
+    {
+      "id": 160,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 161,
+      "en": "So those are the two ways that we have in which you can say no.",
+      "cn": "所以这是我们可以说不的两种方式。"
+    },
+    {
+      "id": 162,
+      "en": "We're going to give you a couple of more towards the end of the lesson.",
+      "cn": "我们将在课程结束时给你几个更多的短语。"
+    },
+    {
+      "id": 163,
+      "en": "But let's take a look very quickly at our next phrase.",
+      "cn": "但让我们快速看看下一个短语。"
+    },
+    {
+      "id": 164,
+      "en": "When the police officer said, you are under arrest.",
+      "cn": "当警察说，你被逮捕了。"
+    },
+    {
+      "id": 165,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 166,
+      "en": "So the man didn't know the person didn't know this was a police officer.",
+      "cn": "所以那个人不知道这是警察。"
+    },
+    {
+      "id": 167,
+      "en": "And finally, in the end, he says, you are under arrest.",
+      "cn": "最后，他说，你被逮捕了。"
+    },
+    {
+      "id": 168,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 169,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 170,
+      "en": "So this is something you hear in the movies when they put the handcuffs on somebody.",
+      "cn": "所以这是你在电影中听到的，当他们给某人戴上手铐时。"
+    },
+    {
+      "id": 171,
+      "en": "The preposition is under.",
+      "cn": "介词是“被”。"
+    },
+    {
+      "id": 172,
+      "en": "It's strange, but you just have to remember this as a phrase.",
+      "cn": "这很奇怪，但你只需记住这个短语。"
+    },
+    {
+      "id": 173,
+      "en": "You are under arrest.",
+      "cn": "你被逮捕了。"
+    },
+    {
+      "id": 174,
+      "en": "I am arresting you.",
+      "cn": "我正在逮捕你。"
+    },
+    {
+      "id": 175,
+      "en": "That means you are going to the police station with me.",
+      "cn": "这意味着你要和我去警察局。"
+    },
+    {
+      "id": 176,
+      "en": "You broke the law.",
+      "cn": "你违反了法律。"
+    },
+    {
+      "id": 177,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 178,
+      "en": "Or you can say, Oh, Tim is under arrest.",
+      "cn": "或者你可以说，哦，蒂姆被逮捕了。"
+    },
+    {
+      "id": 179,
+      "en": "He's at the police station right now.",
+      "cn": "他现在在警察局。"
+    },
+    {
+      "id": 180,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 181,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 182,
+      "en": "So we've taken a look at a couple of phrases and a couple of different things.",
+      "cn": "所以我们看了一些短语和不同的内容。"
+    },
+    {
+      "id": 183,
+      "en": "Why don't we take another short break?",
+      "cn": "我们为什么不再休息一下？"
+    },
+    {
+      "id": 184,
+      "en": "Let's listen to our dialogue and we'll be back in a moment.",
+      "cn": "让我们听听我们的对话，稍后再回来。"
+    },
+    {
+      "id": 185,
+      "en": "Hey, man, you want to buy some weed?",
+      "cn": "嘿，兄弟，你想买点大麻吗？"
+    },
+    {
+      "id": 186,
+      "en": "Some what?",
+      "cn": "什么？"
+    },
+    {
+      "id": 187,
+      "en": "Weed.",
+      "cn": "大麻。"
+    },
+    {
+      "id": 188,
+      "en": "You know, pot, ganja, Mary Jane, some chronic.",
+      "cn": "你知道，草，甘草，玛丽·简，一些慢性药物。"
+    },
+    {
+      "id": 189,
+      "en": "Oh, uh, no thanks.",
+      "cn": "哦，呃，不用了。"
+    },
+    {
+      "id": 190,
+      "en": "I also have blow if you prefer to do a few lines.",
+      "cn": "如果你想吸几条，我也有可卡因。"
+    },
+    {
+      "id": 191,
+      "en": "No, I'm okay, really.",
+      "cn": "不，我没事，真的。"
+    },
+    {
+      "id": 192,
+      "en": "Come on, man.",
+      "cn": "来吧，兄弟。"
+    },
+    {
+      "id": 193,
+      "en": "I even got dope and acid.",
+      "cn": "我甚至还有毒品和酸。"
+    },
+    {
+      "id": 194,
+      "en": "Try some.",
+      "cn": "试试吧。"
+    },
+    {
+      "id": 195,
+      "en": "Do you really have all of these drugs?",
+      "cn": "你真的有所有这些药物吗？"
+    },
+    {
+      "id": 196,
+      "en": "Where do you get them from?",
+      "cn": "你从哪里弄来的？"
+    },
+    {
+      "id": 197,
+      "en": "I got my connections.",
+      "cn": "我有我的关系。"
+    },
+    {
+      "id": 198,
+      "en": "Just tell me what you want and I'll even give you a nouns for free.",
+      "cn": "只要告诉我你想要什么，我甚至可以免费给你一些名词。"
+    },
+    {
+      "id": 199,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 200,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 201,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 202,
+      "en": "I want.",
+      "cn": "我想要。"
+    },
+    {
+      "id": 203,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 204,
+      "en": "I want you to put your hands behind your head.",
+      "cn": "我想让你把手放在头后面。"
+    },
+    {
+      "id": 205,
+      "en": "You are under arrest.",
+      "cn": "你被逮捕了。"
+    },
+    {
+      "id": 206,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 207,
+      "en": "So obviously a very serious topic, but at the same time, I think very necessary because it may happen or you may hear it in a movie and it's part of the English language.",
+      "cn": "这显然是一个非常严肃的话题，但同时我认为非常必要，因为这可能会发生，或者你可能在电影中听到，这是英语的一部分。"
+    },
+    {
+      "id": 208,
+      "en": "Now, obviously we are not advocating or saying that drugs are good or anything.",
+      "cn": "现在，显然我们并不是在提倡或说毒品是好的。"
+    },
+    {
+      "id": 209,
+      "en": "We are saying we are giving you the tools so you know how to recognize when somebody is offering you a drug and the way that you can say no.",
+      "cn": "我们是说我们给你工具，让你知道如何识别有人在给你提供毒品，以及你可以如何拒绝。"
+    },
+    {
+      "id": 210,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 211,
+      "en": "So remember that these are things that you might hear when you're in a country like America or England or Australia.",
+      "cn": "所以记住，这些是你在美国、英国或澳大利亚这样的国家可能会听到的事情。"
+    },
+    {
+      "id": 212,
+      "en": "We hope that you don't have to worry about this, but if you do hear it or you hear it in a movie, you will understand it.",
+      "cn": "我们希望你不必担心这个，但如果你听到它，或者在电影中听到，你会理解。"
+    },
+    {
+      "id": 213,
+      "en": "But Marker, we had some other ways to say no to drugs, right?",
+      "cn": "但是Marker，我们还有其他拒绝毒品的方法，对吧？"
+    },
+    {
+      "id": 214,
+      "en": "To say no to something, to refuse.",
+      "cn": "拒绝某事。"
+    },
+    {
+      "id": 215,
+      "en": "So we heard no thanks and I'm okay.",
+      "cn": "我们听到“不，谢谢”和“我没事”。"
+    },
+    {
+      "id": 216,
+      "en": "But what are some other ways to say no?",
+      "cn": "但还有什么其他拒绝的方法？"
+    },
+    {
+      "id": 217,
+      "en": "Well, for example, if the person also persists or insists, you can say no, I'm good.",
+      "cn": "嗯，例如，如果那个人还在坚持，你可以说“不，我很好”。"
+    },
+    {
+      "id": 218,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 219,
+      "en": "I'm good.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 220,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 221,
+      "en": "So it doesn't really make sense because you're saying I'm good.",
+      "cn": "所以这并不太合理，因为你在说“我很好”。"
+    },
+    {
+      "id": 222,
+      "en": "What does that exactly mean?",
+      "cn": "那到底是什么意思？"
+    },
+    {
+      "id": 223,
+      "en": "So like Marco, you want a cigarette?",
+      "cn": "比如Marco，你想要一根烟吗？"
+    },
+    {
+      "id": 224,
+      "en": "No, I'm good.",
+      "cn": "不，我很好。"
+    },
+    {
+      "id": 225,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 226,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 227,
+      "en": "So that's a way of saying no thanks.",
+      "cn": "所以这是一种拒绝的方式。"
+    },
+    {
+      "id": 228,
+      "en": "No, thanks.",
+      "cn": "不，谢谢。"
+    },
+    {
+      "id": 229,
+      "en": "I'm also I'm cool.",
+      "cn": "我也很好。"
+    },
+    {
+      "id": 230,
+      "en": "Not saying like, I'm really cool, right?",
+      "cn": "不是说，我真的很好，对吧？"
+    },
+    {
+      "id": 231,
+      "en": "It's like saying no, I'm good.",
+      "cn": "这就像是在说“不，我很好”。"
+    },
+    {
+      "id": 232,
+      "en": "I'm cool.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 233,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 234,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 235,
+      "en": "I'm cool.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 236,
+      "en": "I'm thank you.",
+      "cn": "我谢谢你。"
+    },
+    {
+      "id": 237,
+      "en": "No, thank you.",
+      "cn": "不，谢谢你。"
+    },
+    {
+      "id": 238,
+      "en": "Or as well, you can also just say no, thank you.",
+      "cn": "或者你也可以直接说“不，谢谢”。"
+    },
+    {
+      "id": 239,
+      "en": "I think the most clear is no, I don't smoke or no, I don't do drugs.",
+      "cn": "我认为最清楚的是“不，我不抽烟”或“不，我不吸毒”。"
+    },
+    {
+      "id": 240,
+      "en": "Yes, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 241,
+      "en": "That's the, that's the verb that we use when referring to drugs.",
+      "cn": "这就是我们在提到毒品时使用的动词。"
+    },
+    {
+      "id": 242,
+      "en": "You do drugs.",
+      "cn": "你吸毒。"
+    },
+    {
+      "id": 243,
+      "en": "You don't do drugs.",
+      "cn": "你不吸毒。"
+    },
+    {
+      "id": 244,
+      "en": "So he does drugs or don't do drugs.",
+      "cn": "所以他吸毒或不吸毒。"
+    },
+    {
+      "id": 245,
+      "en": "You often hear this phrase, so you can say, listen, no, no, thank you.",
+      "cn": "你经常听到这个短语，所以你可以说，听着，不，不，谢谢。"
+    },
+    {
+      "id": 246,
+      "en": "I'm cool.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 247,
+      "en": "I don't do drugs.",
+      "cn": "我不吸毒。"
+    },
+    {
+      "id": 248,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 249,
+      "en": "So, as we said, this is all the kind of street slaying or colloquial, very common ways of referring to drugs in English.",
+      "cn": "所以，正如我们所说，这都是街头俚语或口语中非常常见的提到毒品的方式。"
+    },
+    {
+      "id": 250,
+      "en": "So you can keep an eye out for that.",
+      "cn": "所以你可以留意一下。"
+    },
+    {
+      "id": 251,
+      "en": "If you hear that in movies now, you know more or less what they're referring to.",
+      "cn": "如果你在电影中听到这些，现在你大致知道他们在指什么。"
+    },
+    {
+      "id": 252,
+      "en": "And also, of course, if you have any questions, any comments or any suggestions, we are always available on our website, EnglishPod.com.",
+      "cn": "当然，如果你有任何问题、评论或建议，我们始终在我们的网站EnglishPod.com上提供帮助。"
+    },
+    {
+      "id": 253,
+      "en": "We hope to see you guys there.",
+      "cn": "我们希望在那儿见到你们。"
+    },
+    {
+      "id": 254,
+      "en": "And until next time, bye.",
+      "cn": "下次再见，拜。"
+    }
+  ]
+}

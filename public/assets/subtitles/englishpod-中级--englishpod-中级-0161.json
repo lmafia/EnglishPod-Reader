@@ -1,0 +1,1199 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0161",
+  "title": "EnglishPod 中级 0161",
+  "totalSegments": 238,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Katherine.",
+      "cn": "我叫Katherine。"
+    },
+    {
+      "id": 5,
+      "en": "And today, Marco, we're talking about something that I know you're a big fan of.",
+      "cn": "今天，Marco，我们要谈论一些我知道你非常喜欢的东西。"
+    },
+    {
+      "id": 6,
+      "en": "I am.",
+      "cn": "我是的。"
+    },
+    {
+      "id": 7,
+      "en": "We're talking about computer games, video games.",
+      "cn": "我们要谈论电脑游戏和视频游戏。"
+    },
+    {
+      "id": 8,
+      "en": "Woohoo!",
+      "cn": "哇哦！"
+    },
+    {
+      "id": 9,
+      "en": "Woohoo!",
+      "cn": "哇哦！"
+    },
+    {
+      "id": 10,
+      "en": "So yeah, we're going to be looking at some vocabulary and phrases related to computer games and video games.",
+      "cn": "所以是的，我们将查看一些与电脑游戏和视频游戏相关的词汇和短语。"
+    },
+    {
+      "id": 11,
+      "en": "And this is actually a request from one of our users.",
+      "cn": "这实际上是我们用户的请求。"
+    },
+    {
+      "id": 12,
+      "en": "Awesome.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 13,
+      "en": "So, before we get started, we do have the name of the game that we're going to look at.",
+      "cn": "在开始之前，我们确实有我们要查看的游戏名称。"
+    },
+    {
+      "id": 14,
+      "en": "So let's listen to that in today's vocabulary preview.",
+      "cn": "所以让我们在今天的词汇预览中听一下。"
+    },
+    {
+      "id": 15,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 16,
+      "en": "Alright, so the game that we're going to preview today is called Counter-Strike.",
+      "cn": "好的，今天我们要预览的游戏叫做反恐精英。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, so first you have a strike, or an attack, and then you have a counter-strike.",
+      "cn": "好的，首先你有一次攻击，然后你有一次反击。"
+    },
+    {
+      "id": 18,
+      "en": "So that's an opposite attack or something like that, right?",
+      "cn": "所以这是一个相反的攻击，对吧？"
+    },
+    {
+      "id": 19,
+      "en": "So it's a reaction to the first thing that happens.",
+      "cn": "这是对第一次发生的事情的反应。"
+    },
+    {
+      "id": 20,
+      "en": "So you hit me and my counter-strike is I hit you back.",
+      "cn": "所以你打了我，我的反击是我打你。"
+    },
+    {
+      "id": 21,
+      "en": "And this game is actually very, very popular all over the world because many players are able to compete at the same time.",
+      "cn": "这个游戏在全世界都非常受欢迎，因为许多玩家可以同时竞争。"
+    },
+    {
+      "id": 22,
+      "en": "So it's a shooting game, you shoot each other.",
+      "cn": "所以这是一个射击游戏，你们互相射击。"
+    },
+    {
+      "id": 23,
+      "en": "You are the terrorist and then the other team is like the police or the army or whatever.",
+      "cn": "你是恐怖分子，另一队就像警察或军队。"
+    },
+    {
+      "id": 24,
+      "en": "Wow, sounds really exciting.",
+      "cn": "哇，听起来真的很刺激。"
+    },
+    {
+      "id": 25,
+      "en": "Well, we're going to learn more about the specific vocab that goes with computer games and video games in a minute.",
+      "cn": "好吧，我们马上就会学习与电脑游戏和视频游戏相关的具体词汇。"
+    },
+    {
+      "id": 26,
+      "en": "But first, let's take a listen to our dialogue.",
+      "cn": "但首先，让我们听一下我们的对话。"
+    },
+    {
+      "id": 27,
+      "en": "Mark, where have you been?",
+      "cn": "Mark，你去哪儿了？"
+    },
+    {
+      "id": 28,
+      "en": "I've been calling you all morning.",
+      "cn": "我整个早上都在打电话给你。"
+    },
+    {
+      "id": 29,
+      "en": "I've been playing computer games.",
+      "cn": "我在玩电脑游戏。"
+    },
+    {
+      "id": 30,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 31,
+      "en": "So you blew me off yesterday and today over a stupid video game.",
+      "cn": "所以你昨天和今天都因为一个愚蠢的视频游戏而不理我。"
+    },
+    {
+      "id": 32,
+      "en": "What game is so important that you have no time for me anymore?",
+      "cn": "什么游戏这么重要，以至于你没有时间陪我？"
+    },
+    {
+      "id": 33,
+      "en": "What are you playing?",
+      "cn": "你在玩什么？"
+    },
+    {
+      "id": 34,
+      "en": "It's called Counter-Strike.",
+      "cn": "叫反恐精英。"
+    },
+    {
+      "id": 35,
+      "en": "It's a first-person shooter game.",
+      "cn": "这是一个第一人称射击游戏。"
+    },
+    {
+      "id": 36,
+      "en": "It's awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 37,
+      "en": "It's a multi-player game where you can go online and compete against players from all over the world.",
+      "cn": "这是一个多人游戏，你可以在线与来自世界各地的玩家竞争。"
+    },
+    {
+      "id": 38,
+      "en": "You've been wasting your time on this?",
+      "cn": "你在浪费时间在这个上面？"
+    },
+    {
+      "id": 39,
+      "en": "I can't believe it.",
+      "cn": "我简直不敢相信。"
+    },
+    {
+      "id": 40,
+      "en": "It doesn't even look fun or challenging.",
+      "cn": "这看起来一点都不有趣或具有挑战性。"
+    },
+    {
+      "id": 41,
+      "en": "My laptop is on my bed.",
+      "cn": "我的笔记本电脑在我的床上。"
+    },
+    {
+      "id": 42,
+      "en": "If you think it's so easy, then get online and try to beat me.",
+      "cn": "如果你觉得这么简单，那就上网试着打败我。"
+    },
+    {
+      "id": 43,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 44,
+      "en": "How are you killing me with a single shot?",
+      "cn": "你怎么能一枪就杀了我？"
+    },
+    {
+      "id": 45,
+      "en": "It's not fair!",
+      "cn": "这不公平！"
+    },
+    {
+      "id": 46,
+      "en": "I don't want to play anymore!",
+      "cn": "我不想再玩了！"
+    },
+    {
+      "id": 47,
+      "en": "Let's go get something to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 48,
+      "en": "Can you bring me something?",
+      "cn": "你能给我带点东西吗？"
+    },
+    {
+      "id": 49,
+      "en": "I'm totally hooked on this game.",
+      "cn": "我完全沉迷于这个游戏。"
+    },
+    {
+      "id": 50,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 51,
+      "en": "So there was some really interesting vocab here.",
+      "cn": "这里有一些非常有趣的词汇。"
+    },
+    {
+      "id": 52,
+      "en": "So let's look at it now in Language Takeaway.",
+      "cn": "现在让我们在语言收获中看看。"
+    },
+    {
+      "id": 53,
+      "en": "Okay, so what kind of a game was this, Marco?",
+      "cn": "好的，这个游戏是什么类型的，Marco？"
+    },
+    {
+      "id": 54,
+      "en": "Alright, this game was a FPS or also in the dialogue we heard a first-person shooter game.",
+      "cn": "好的，这个游戏是一个FPS，或者在对话中我们听到的第一人称射击游戏。"
+    },
+    {
+      "id": 55,
+      "en": "So our users might have heard this phrase first-person before because it's a grammar term in many ways.",
+      "cn": "我们的用户可能之前听过这个短语第一人称，因为在很多方面它是一个语法术语。"
+    },
+    {
+      "id": 56,
+      "en": "We talk about I.",
+      "cn": "我们谈论的是我。"
+    },
+    {
+      "id": 57,
+      "en": "I do this.",
+      "cn": "我做这个。"
+    },
+    {
+      "id": 58,
+      "en": "I can sing.",
+      "cn": "我会唱歌。"
+    },
+    {
+      "id": 59,
+      "en": "That's the first person.",
+      "cn": "这就是第一人称。"
+    },
+    {
+      "id": 60,
+      "en": "But when we're talking about games, first-person shooter means that what you do, you're doing as if you were the character in the game.",
+      "cn": "但当我们谈论游戏时，第一人称射击意味着你所做的事情，就像你是游戏中的角色一样。"
+    },
+    {
+      "id": 61,
+      "en": "Right, so even the way that you're looking at the game, it seems like you're looking through the eyes of the character.",
+      "cn": "对，所以即使你看游戏的方式，似乎你是通过角色的眼睛在看。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, so you don't see the body.",
+      "cn": "好的，所以你看不到身体。"
+    },
+    {
+      "id": 63,
+      "en": "You are the body of the person.",
+      "cn": "你就是那个人的身体。"
+    },
+    {
+      "id": 64,
+      "en": "So first-person shooter.",
+      "cn": "所以第一人称射击。"
+    },
+    {
+      "id": 65,
+      "en": "So shooter obviously means that this is a shooting game.",
+      "cn": "所以射击显然意味着这是一个射击游戏。"
+    },
+    {
+      "id": 66,
+      "en": "What you do is you pull the trigger and shoot people.",
+      "cn": "你所做的就是扣动扳机射击人。"
+    },
+    {
+      "id": 67,
+      "en": "And as we mentioned, a lot of players are able to compete against each other.",
+      "cn": "正如我们提到的，很多玩家能够相互竞争。"
+    },
+    {
+      "id": 68,
+      "en": "So it's called a multiplayer game.",
+      "cn": "所以这叫做多人游戏。"
+    },
+    {
+      "id": 69,
+      "en": "So multi is a prefix.",
+      "cn": "所以multi是一个前缀。"
+    },
+    {
+      "id": 70,
+      "en": "It goes at the beginning of a word.",
+      "cn": "它位于单词的开头。"
+    },
+    {
+      "id": 71,
+      "en": "In English that means many.",
+      "cn": "在英语中，这意味着许多。"
+    },
+    {
+      "id": 72,
+      "en": "So you could hear multicolored or multiethnic.",
+      "cn": "所以你可能会听到多色或多民族。"
+    },
+    {
+      "id": 73,
+      "en": "And the meaning of this is that there are many different colors or many different ethnicities.",
+      "cn": "这意味着有许多不同的颜色或许多不同的民族。"
+    },
+    {
+      "id": 74,
+      "en": "Or in this case, multiplayer, many different players at the same time.",
+      "cn": "或者在这种情况下，多人游戏，许多不同的玩家同时。"
+    },
+    {
+      "id": 75,
+      "en": "Exactly, so in this game many players can play whether it's in a local area network or online over the Internet.",
+      "cn": "正是如此，所以在这个游戏中，许多玩家可以玩，无论是在局域网还是在线通过互联网。"
+    },
+    {
+      "id": 76,
+      "en": "Cool, so you actually have to have the Internet right when you're doing this because you're using many different computers so they have to be connected to each other.",
+      "cn": "酷，所以你实际上必须在做这个的时候有互联网，因为你使用许多不同的计算机，所以它们必须相互连接。"
+    },
+    {
+      "id": 77,
+      "en": "Right, and that's our next word.",
+      "cn": "对，这就是我们的下一个词。"
+    },
+    {
+      "id": 78,
+      "en": "You go online in order to play.",
+      "cn": "你上网以便玩。"
+    },
+    {
+      "id": 79,
+      "en": "Okay, so online you've heard before.",
+      "cn": "好的，所以你之前听过在线。"
+    },
+    {
+      "id": 80,
+      "en": "Online means on the Internet.",
+      "cn": "在线意味着在互联网上。"
+    },
+    {
+      "id": 81,
+      "en": "But in this case, the action of using the Internet is called going online.",
+      "cn": "但在这种情况下，使用互联网的行为称为上网。"
+    },
+    {
+      "id": 82,
+      "en": "So I want to go online to read my email.",
+      "cn": "所以我想上网查看我的电子邮件。"
+    },
+    {
+      "id": 83,
+      "en": "Right, or I can't go online.",
+      "cn": "对，或者我无法上网。"
+    },
+    {
+      "id": 84,
+      "en": "I don't have a connection.",
+      "cn": "我没有连接。"
+    },
+    {
+      "id": 85,
+      "en": "My mom won't let me go online.",
+      "cn": "我妈妈不让我上网。"
+    },
+    {
+      "id": 86,
+      "en": "I'm in trouble.",
+      "cn": "我有麻烦了。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, so this is the way that you use it.",
+      "cn": "好吧，这就是你使用它的方式。"
+    },
+    {
+      "id": 88,
+      "en": "You go online.",
+      "cn": "你上网。"
+    },
+    {
+      "id": 89,
+      "en": "In order to use the Internet, you go online.",
+      "cn": "为了使用互联网，你上网。"
+    },
+    {
+      "id": 90,
+      "en": "Very interesting.",
+      "cn": "非常有趣。"
+    },
+    {
+      "id": 91,
+      "en": "Well, the last word we've got here in language takeaway is a very important one when we talk about video games because many people are in this situation.",
+      "cn": "好吧，我们在语言收获中最后一个词是一个非常重要的词，当我们谈论视频游戏时，因为许多人处于这种情况。"
+    },
+    {
+      "id": 92,
+      "en": "They're hooked on video games.",
+      "cn": "他们沉迷于视频游戏。"
+    },
+    {
+      "id": 93,
+      "en": "Right, so if you are hooked on a video game or you are hooked on anything it means you're kind of addicted or you're very, very interested in something.",
+      "cn": "对，所以如果你沉迷于一个视频游戏或任何东西，这意味着你有点上瘾或对某事非常感兴趣。"
+    },
+    {
+      "id": 94,
+      "en": "Exactly, so I'm hooked on the TV show True Blood.",
+      "cn": "正是如此，所以我沉迷于电视剧《真血》。"
+    },
+    {
+      "id": 95,
+      "en": "I love to watch it and I love... Every day I run home so I can watch it.",
+      "cn": "我喜欢看它，我每天都跑回家看。"
+    },
+    {
+      "id": 96,
+      "en": "But is there a game that you're hooked on, Marco?",
+      "cn": "但Marco，你有沉迷于的游戏吗？"
+    },
+    {
+      "id": 97,
+      "en": "Currently, I am hooked on a game called Guitar Hero Metallica.",
+      "cn": "目前，我沉迷于一个叫做《吉他英雄：金属乐队》的游戏。"
+    },
+    {
+      "id": 98,
+      "en": "Ooh, fun.",
+      "cn": "哦，真有趣。"
+    },
+    {
+      "id": 99,
+      "en": "Yeah, it's really fun.",
+      "cn": "是的，真的很有趣。"
+    },
+    {
+      "id": 100,
+      "en": "When I borrowed your PS3, I was hooked on Bad Company.",
+      "cn": "当我借用你的PS3时，我沉迷于《坏公司》。"
+    },
+    {
+      "id": 101,
+      "en": "They're great games.",
+      "cn": "这些都是很棒的游戏。"
+    },
+    {
+      "id": 102,
+      "en": "It's very easy to get hooked on video games.",
+      "cn": "很容易就会迷上视频游戏。"
+    },
+    {
+      "id": 103,
+      "en": "Too easy.",
+      "cn": "太容易了。"
+    },
+    {
+      "id": 104,
+      "en": "Alright, so that's all the words we have for language takeaway.",
+      "cn": "好吧，这就是我们要分享的语言内容。"
+    },
+    {
+      "id": 105,
+      "en": "Why don't we listen to our dialogue again and we'll be back in a bit.",
+      "cn": "我们再听一遍对话，稍后再回来。"
+    },
+    {
+      "id": 106,
+      "en": "Mark, where have you been?",
+      "cn": "马克，你去哪儿了？"
+    },
+    {
+      "id": 107,
+      "en": "I've been calling you all morning.",
+      "cn": "我今天早上一直在打电话给你。"
+    },
+    {
+      "id": 108,
+      "en": "I've been playing computer games.",
+      "cn": "我在玩电脑游戏。"
+    },
+    {
+      "id": 109,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 110,
+      "en": "So you blew me off yesterday and today over a stupid video game.",
+      "cn": "所以你昨天和今天都因为一个愚蠢的视频游戏而不理我。"
+    },
+    {
+      "id": 111,
+      "en": "What game is so important that you have no time for me anymore?",
+      "cn": "什么游戏重要到你没有时间理我？"
+    },
+    {
+      "id": 112,
+      "en": "What are you playing?",
+      "cn": "你在玩什么？"
+    },
+    {
+      "id": 113,
+      "en": "It's called Counter-Strike.",
+      "cn": "叫《反恐精英》。"
+    },
+    {
+      "id": 114,
+      "en": "It's a first-person shooter game.",
+      "cn": "这是一款第一人称射击游戏。"
+    },
+    {
+      "id": 115,
+      "en": "It's awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 116,
+      "en": "It's a multiplayer game where you can go online and compete against players from all over the world.",
+      "cn": "这是一个多人游戏，你可以在线与来自世界各地的玩家竞争。"
+    },
+    {
+      "id": 117,
+      "en": "You've been wasting your time on this?",
+      "cn": "你在浪费时间玩这个？"
+    },
+    {
+      "id": 118,
+      "en": "I can't believe it.",
+      "cn": "我简直不敢相信。"
+    },
+    {
+      "id": 119,
+      "en": "It doesn't even look fun or challenging.",
+      "cn": "这看起来一点都不有趣或具有挑战性。"
+    },
+    {
+      "id": 120,
+      "en": "My laptop is on my bed.",
+      "cn": "我的笔记本电脑在床上。"
+    },
+    {
+      "id": 121,
+      "en": "If you think it's so easy, then get online and try to beat me.",
+      "cn": "如果你觉得这么简单，那就上网试着打败我。"
+    },
+    {
+      "id": 122,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 123,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 124,
+      "en": "How are you killing me with a single shot?",
+      "cn": "你怎么能一枪就杀了我？"
+    },
+    {
+      "id": 125,
+      "en": "It's not fair!",
+      "cn": "这不公平！"
+    },
+    {
+      "id": 126,
+      "en": "I don't want to play anymore.",
+      "cn": "我不想再玩了。"
+    },
+    {
+      "id": 127,
+      "en": "Let's go get something to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 128,
+      "en": "Can you bring me something?",
+      "cn": "你能给我带点东西吗？"
+    },
+    {
+      "id": 129,
+      "en": "I'm totally hooked on this game.",
+      "cn": "我完全迷上了这个游戏。"
+    },
+    {
+      "id": 130,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 131,
+      "en": "And we have a couple of phrases that we want to look at.",
+      "cn": "我们有几个短语想要讨论。"
+    },
+    {
+      "id": 132,
+      "en": "Specifically two phrases.",
+      "cn": "特别是两个短语。"
+    },
+    {
+      "id": 133,
+      "en": "So let's look at those now in Fluency Builder.",
+      "cn": "现在让我们在流利度构建器中看看这些。"
+    },
+    {
+      "id": 134,
+      "en": "Fluency Builder So what's the deal?",
+      "cn": "流利度构建器 那么，怎么回事？"
+    },
+    {
+      "id": 135,
+      "en": "You blew me off yesterday and now you're not even going to say sorry?",
+      "cn": "你昨天不理我，现在连个对不起都不说？"
+    },
+    {
+      "id": 136,
+      "en": "Alright, so blew me off.",
+      "cn": "好吧，\"不理我\"。"
+    },
+    {
+      "id": 137,
+      "en": "What do you mean when you say you blew me off yesterday?",
+      "cn": "你说你昨天不理我是什么意思？"
+    },
+    {
+      "id": 138,
+      "en": "Okay, so let's take a look at the infinitive version of this phrase.",
+      "cn": "好的，让我们看看这个短语的动词不定式版本。"
+    },
+    {
+      "id": 139,
+      "en": "So to blow someone off.",
+      "cn": "就是“放鸽子”。"
+    },
+    {
+      "id": 140,
+      "en": "And they all go together.",
+      "cn": "它们是连在一起的。"
+    },
+    {
+      "id": 141,
+      "en": "It's a fixed phrase.",
+      "cn": "这是一个固定短语。"
+    },
+    {
+      "id": 142,
+      "en": "And this means to have an appointment with someone, but to not go.",
+      "cn": "这意味着和某人有约，但不去。"
+    },
+    {
+      "id": 143,
+      "en": "So we had a date planned, but he blew me off.",
+      "cn": "所以我们有一个约会，但他放了我鸽子。"
+    },
+    {
+      "id": 144,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 145,
+      "en": "What a jerk.",
+      "cn": "真是个混蛋。"
+    },
+    {
+      "id": 146,
+      "en": "He didn't go.",
+      "cn": "他没去。"
+    },
+    {
+      "id": 147,
+      "en": "I went.",
+      "cn": "我去了。"
+    },
+    {
+      "id": 148,
+      "en": "Did he tell you that he wasn't going to go?",
+      "cn": "他告诉你他不去吗？"
+    },
+    {
+      "id": 149,
+      "en": "No.",
+      "cn": "没有。"
+    },
+    {
+      "id": 150,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 151,
+      "en": "No, so it's a surprise.",
+      "cn": "不，所以这是个惊喜。"
+    },
+    {
+      "id": 152,
+      "en": "It's like you expect someone to come meet you or do something with you, but they don't say anything and they don't go.",
+      "cn": "就像你期待某人来见你或和你做某事，但他们什么都不说，也不去。"
+    },
+    {
+      "id": 153,
+      "en": "So there's another word very similar to this one and it's to stand someone up, right?",
+      "cn": "所以还有一个与这个非常相似的词，就是“放你鸽子”，对吧？"
+    },
+    {
+      "id": 154,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 155,
+      "en": "So he stood me up.",
+      "cn": "所以他放了我鸽子。"
+    },
+    {
+      "id": 156,
+      "en": "He didn't come.",
+      "cn": "他没来。"
+    },
+    {
+      "id": 157,
+      "en": "He blew me off.",
+      "cn": "他不理我。"
+    },
+    {
+      "id": 158,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 159,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 160,
+      "en": "Alright, and what's our next phrase?",
+      "cn": "好的，下一个短语是什么？"
+    },
+    {
+      "id": 161,
+      "en": "To waste your time.",
+      "cn": "浪费时间。"
+    },
+    {
+      "id": 162,
+      "en": "Alright, so the girlfriend in this case was like, you're wasting your time on these video games.",
+      "cn": "好的，所以在这种情况下，女朋友说，你在这些视频游戏上浪费时间。"
+    },
+    {
+      "id": 163,
+      "en": "That means you're not getting anything out of this.",
+      "cn": "这意味着你没有从中获得任何东西。"
+    },
+    {
+      "id": 164,
+      "en": "You're not benefiting.",
+      "cn": "你没有受益。"
+    },
+    {
+      "id": 165,
+      "en": "It means that you could spend your time doing other things.",
+      "cn": "这意味着你可以把时间花在其他事情上。"
+    },
+    {
+      "id": 166,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 167,
+      "en": "So if you're wasting your time on video games, you're not being productive.",
+      "cn": "所以如果你在玩视频游戏上浪费时间，你就没有生产力。"
+    },
+    {
+      "id": 168,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 169,
+      "en": "You're not learning anything.",
+      "cn": "你没有学到任何东西。"
+    },
+    {
+      "id": 170,
+      "en": "So your mother might say to you when you're a kid, don't waste your time on games.",
+      "cn": "所以你妈妈可能会在你小时候对你说，不要在游戏上浪费时间。"
+    },
+    {
+      "id": 171,
+      "en": "You should be studying.",
+      "cn": "你应该学习。"
+    },
+    {
+      "id": 172,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 173,
+      "en": "Or he wastes a lot of time watching TV.",
+      "cn": "或者他浪费了很多时间看电视。"
+    },
+    {
+      "id": 174,
+      "en": "That's a common problem.",
+      "cn": "这是个常见问题。"
+    },
+    {
+      "id": 175,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 176,
+      "en": "So let's listen to this dialogue again real fast and we'll be back in a bit.",
+      "cn": "那么我们再快速听一遍这个对话，稍后再回来。"
+    },
+    {
+      "id": 177,
+      "en": "Terrorists win.",
+      "cn": "恐怖分子胜利。"
+    },
+    {
+      "id": 178,
+      "en": "Mark, where have you been?",
+      "cn": "马克，你去哪儿了？"
+    },
+    {
+      "id": 179,
+      "en": "I've been calling you all morning.",
+      "cn": "我今天早上一直在打电话给你。"
+    },
+    {
+      "id": 180,
+      "en": "I've been playing computer games.",
+      "cn": "我在玩电脑游戏。"
+    },
+    {
+      "id": 181,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 182,
+      "en": "So you blew me off yesterday and today over a stupid video game.",
+      "cn": "所以你昨天和今天都因为一个愚蠢的视频游戏而不理我。"
+    },
+    {
+      "id": 183,
+      "en": "What game is so important that you have no time for me anymore?",
+      "cn": "什么游戏重要到你没有时间理我？"
+    },
+    {
+      "id": 184,
+      "en": "What are you playing?",
+      "cn": "你在玩什么？"
+    },
+    {
+      "id": 185,
+      "en": "It's called Counter Strike.",
+      "cn": "叫《反恐精英》。"
+    },
+    {
+      "id": 186,
+      "en": "It's a first person shooter game.",
+      "cn": "这是一款第一人称射击游戏。"
+    },
+    {
+      "id": 187,
+      "en": "It's awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 188,
+      "en": "It's a multiplayer game where you can go online and compete against players from all over the world.",
+      "cn": "这是一个多人游戏，你可以在线与来自世界各地的玩家竞争。"
+    },
+    {
+      "id": 189,
+      "en": "You've been wasting your time on this?",
+      "cn": "你在浪费时间玩这个？"
+    },
+    {
+      "id": 190,
+      "en": "I can't believe it.",
+      "cn": "我简直不敢相信。"
+    },
+    {
+      "id": 191,
+      "en": "It doesn't even look fun or challenging.",
+      "cn": "这看起来一点都不有趣或具有挑战性。"
+    },
+    {
+      "id": 192,
+      "en": "My laptop is on my bed.",
+      "cn": "我的笔记本电脑在床上。"
+    },
+    {
+      "id": 193,
+      "en": "If you think it's so easy then get online and try to beat me.",
+      "cn": "如果你觉得这么简单，那就上网试着打败我。"
+    },
+    {
+      "id": 194,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 195,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 196,
+      "en": "How are you killing me with a single shot?",
+      "cn": "你怎么能一枪就杀了我？"
+    },
+    {
+      "id": 197,
+      "en": "It's not fair.",
+      "cn": "这不公平。"
+    },
+    {
+      "id": 198,
+      "en": "I don't want to play anymore.",
+      "cn": "我不想再玩了。"
+    },
+    {
+      "id": 199,
+      "en": "Let's go get something to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 200,
+      "en": "Can you bring me something?",
+      "cn": "你能给我带点东西吗？"
+    },
+    {
+      "id": 201,
+      "en": "I'm totally hooked on this game.",
+      "cn": "我完全沉迷于这个游戏。"
+    },
+    {
+      "id": 202,
+      "en": "Alright, so we talked about, you know, being hooked on TV shows and video games.",
+      "cn": "好吧，我们谈到了沉迷于电视节目和视频游戏。"
+    },
+    {
+      "id": 203,
+      "en": "But this is actually a very big problem in some Asian countries specifically, right?",
+      "cn": "但这在一些亚洲国家确实是个大问题，对吧？"
+    },
+    {
+      "id": 204,
+      "en": "I've heard that.",
+      "cn": "我听说过。"
+    },
+    {
+      "id": 205,
+      "en": "Actually I've heard that in Japan, Korea and China specifically there are psychological treatment centers for kids who are addicted to gaming.",
+      "cn": "其实我听说在日本、韩国和中国，专门有心理治疗中心帮助沉迷于游戏的孩子。"
+    },
+    {
+      "id": 206,
+      "en": "And so there's a big thing in the news in China recently where there were parents who were sending their kids to this treatment center.",
+      "cn": "最近中国的新闻中有个大事件，父母把孩子送到这个治疗中心。"
+    },
+    {
+      "id": 207,
+      "en": "Rehab.",
+      "cn": "康复。"
+    },
+    {
+      "id": 208,
+      "en": "Rehab for games.",
+      "cn": "游戏康复。"
+    },
+    {
+      "id": 209,
+      "en": "And that actually they found out that the rehab center didn't know what they were doing and they were giving the kids electroshock therapy to get them off games.",
+      "cn": "他们发现康复中心根本不知道自己在做什么，还给孩子们进行电击治疗来让他们戒掉游戏。"
+    },
+    {
+      "id": 210,
+      "en": "Wow, really?",
+      "cn": "哇，真的？"
+    },
+    {
+      "id": 211,
+      "en": "So the parents took their kids back.",
+      "cn": "所以父母把孩子带回来了。"
+    },
+    {
+      "id": 212,
+      "en": "That's scary.",
+      "cn": "这太可怕了。"
+    },
+    {
+      "id": 213,
+      "en": "It is scary.",
+      "cn": "确实可怕。"
+    },
+    {
+      "id": 214,
+      "en": "I guess it's a very popular thing in Asian countries specifically, right?",
+      "cn": "我想这在亚洲国家确实很流行，对吧？"
+    },
+    {
+      "id": 215,
+      "en": "To play online, to go online.",
+      "cn": "在线玩，去网上。"
+    },
+    {
+      "id": 216,
+      "en": "There's a lot of other factors that influence this.",
+      "cn": "还有很多其他因素影响着这一点。"
+    },
+    {
+      "id": 217,
+      "en": "But I think it is, like everything in excess is dangerous.",
+      "cn": "但我认为，过度的事情都是危险的。"
+    },
+    {
+      "id": 218,
+      "en": "This is true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 219,
+      "en": "And actually some people have been using this addiction to be a productive use of their time.",
+      "cn": "其实有些人利用这种上瘾来有效利用他们的时间。"
+    },
+    {
+      "id": 220,
+      "en": "So you have some people who play a game called World of Warcraft.",
+      "cn": "所以有些人玩一个叫《魔兽世界》的游戏。"
+    },
+    {
+      "id": 221,
+      "en": "And they win money.",
+      "cn": "他们赢得了钱。"
+    },
+    {
+      "id": 222,
+      "en": "And they win money and they sell things to other players all over the world.",
+      "cn": "他们赢得了钱，并且把东西卖给世界各地的其他玩家。"
+    },
+    {
+      "id": 223,
+      "en": "And so you have these kids in America buying toys and like shields and gold from kids in, for example, Indonesia.",
+      "cn": "所以你有这些美国的孩子从印尼的孩子那里买玩具、盾牌和金币。"
+    },
+    {
+      "id": 224,
+      "en": "And the kid in Indonesia is making money.",
+      "cn": "而印尼的孩子在赚钱。"
+    },
+    {
+      "id": 225,
+      "en": "Right, right, right.",
+      "cn": "对，对，对。"
+    },
+    {
+      "id": 226,
+      "en": "And also, if they're really good, they go on to become professional gamers.",
+      "cn": "如果他们真的很优秀，他们会成为职业玩家。"
+    },
+    {
+      "id": 227,
+      "en": "And compete in world competitions and also test out new video games.",
+      "cn": "参加世界比赛，还测试新的视频游戏。"
+    },
+    {
+      "id": 228,
+      "en": "So yeah, it has its advantages as well.",
+      "cn": "所以，是的，这也有它的优势。"
+    },
+    {
+      "id": 229,
+      "en": "Can you imagine what your business card would look like?",
+      "cn": "你能想象你的名片会是什么样子吗？"
+    },
+    {
+      "id": 230,
+      "en": "Professional gamer.",
+      "cn": "职业玩家。"
+    },
+    {
+      "id": 231,
+      "en": "Professional gamer.",
+      "cn": "职业玩家。"
+    },
+    {
+      "id": 232,
+      "en": "Alright, that's all the time we have for today.",
+      "cn": "好吧，今天的时间就到这里。"
+    },
+    {
+      "id": 233,
+      "en": "We hope you enjoyed this lesson.",
+      "cn": "希望你们喜欢这节课。"
+    },
+    {
+      "id": 234,
+      "en": "And of course, if you have any questions, comments or doubts, please come to our website, EnglishPod.com.",
+      "cn": "当然，如果你有任何问题、评论或疑虑，请访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 235,
+      "en": "And we'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 236,
+      "en": "Until next time, everyone.",
+      "cn": "下次再见，大家。"
+    },
+    {
+      "id": 237,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 238,
+      "en": "You.",
+      "cn": "你。"
+    }
+  ]
+}

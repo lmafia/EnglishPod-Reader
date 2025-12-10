@@ -1,0 +1,1106 @@
+﻿1
+Hello, everyone, and welcome to EnglishPod.
+大家好，欢迎来到EnglishPod。
+
+2
+My name is Marco.
+我叫Marco。
+
+3
+My name is Katherine, and today we have an elementary-level lesson for you all about computers.
+我叫Katherine，今天我们有一节关于计算机的初级课程。
+
+4
+That's right.
+没错。
+
+5
+So we are going to take a look at some of the basic parts of a computer and also about bad programs that could affect your computer and make it not work.
+所以我们将看看计算机的一些基本部件，以及可能影响计算机并使其无法工作的坏程序。
+
+6
+That's right.
+没错。
+
+7
+So before we get going, we have a verb for you that we're going to look at in Vocabulary Preview.
+在开始之前，我们有一个动词要在词汇预览中讨论。
+
+8
+Alright, so today on Vocabulary Preview, we have a verb, as you said, and it's to crash.
+好的，今天的词汇预览中，我们有一个动词，就是崩溃。
+
+9
+To crash.
+崩溃。
+
+10
+Okay, this has a couple of different meanings, but in today's dialogue, this means for your computer to shut down or to freeze or to stop working.
+好的，这有几种不同的意思，但在今天的对话中，这意味着你的计算机关闭、冻结或停止工作。
+
+11
+Right, because maybe you heard of a car crash, right, when two cars, bam, hit each other.
+对，因为你可能听说过车祸，对吧，当两辆车，砰，撞在一起。
+
+12
+In this case, your computer is just not working anymore.
+在这种情况下，你的计算机就是不再工作了。
+
+13
+It stopped working.
+它停止工作。
+
+14
+It freezes.
+它冻结了。
+
+15
+That's right.
+没错。
+
+16
+So you can't use it.
+所以你不能使用它。
+
+17
+So my computer crashed is a way to say, my computer stopped working.
+所以“我的计算机崩溃了”就是在说“我的计算机停止工作”。
+
+18
+Okay, so that's a word that we're going to listen in our dialogue today.
+好的，这就是我们今天在对话中要听到的一个词。
+
+19
+Why don't we jump right into it, and we'll be back shortly.
+我们直接开始吧，稍后再见。
+
+20
+Hello, thanks for calling 123 Tech Help.
+你好，感谢拨打123技术帮助热线。
+
+21
+I'm Todd.
+我是Todd。
+
+22
+How can I help you?
+我能帮你什么？
+
+23
+Hello?
+你好？
+
+24
+Can you help me?
+你能帮我吗？
+
+25
+My computer.
+我的计算机。
+
+26
+Oh, man.
+哦，天哪。
+
+27
+It's okay, sir.
+没事，先生。
+
+28
+Calm down.
+冷静点。
+
+29
+What happened?
+发生了什么？
+
+30
+I turned on my laptop and it broke.
+我打开我的笔记本电脑，它坏了。
+
+31
+I mean, the monitor went black.
+我的意思是，显示器变黑了。
+
+32
+Okay, sir.
+好的，先生。
+
+33
+It sounds like you might have a virus.
+听起来你可能有病毒。
+
+34
+I don't feel sick.
+我没有生病。
+
+35
+Let me check.
+让我检查一下。
+
+36
+Nope, no fever.
+不，没发烧。
+
+37
+I'm fine.
+我很好。
+
+38
+No, your computer might have a virus.
+不，你的计算机可能有病毒。
+
+39
+I mean, it has a bad program on it.
+我的意思是，它上面有一个坏程序。
+
+40
+Maybe that's why it crashed.
+也许这就是它崩溃的原因。
+
+41
+I recommend that you run an anti-virus program in order to safely remove any unwanted spyware or Trojans.
+我建议你运行一个防病毒程序，以安全地删除任何不需要的间谍软件或木马。
+
+42
+Phew.
+呼。
+
+43
+Wait a minute.
+等一下。
+
+44
+Crash.
+崩溃。
+
+45
+Spyware.
+间谍软件。
+
+46
+Trojans.
+木马。
+
+47
+What?
+什么？
+
+48
+Where?
+哪里？
+
+49
+When?
+什么时候？
+
+50
+All right, so lots of great technology words today.
+好的，今天有很多很棒的科技词汇。
+
+51
+Let's take a look at a few of them in Language Takeaway.
+让我们在语言收获中看看其中的一些。
+
+52
+Language Takeaway.
+语言收获。
+
+53
+All right, so let's start off with our first word.
+好的，让我们从第一个词开始。
+
+54
+You've probably heard it before, but let's go over it just in case.
+你可能以前听过，但我们再复习一下以防万一。
+
+55
+A laptop.
+笔记本电脑。
+
+56
+Laptop.
+笔记本电脑。
+
+57
+A laptop is a kind of computer.
+笔记本电脑是一种计算机。
+
+58
+We have desktop, laptop.
+我们有台式机、笔记本电脑。
+
+59
+Right.
+对。
+
+60
+So your lap is the top part of your legs.
+所以你的腿的上部是大腿。
+
+61
+So a laptop computer is a small portable computer that you can take with you anywhere.
+所以笔记本电脑是一种小型便携式计算机，你可以随身携带。
+
+62
+That's right.
+没错。
+
+63
+A lot of students have laptops and businessmen as well.
+很多学生和商人都有笔记本电脑。
+
+64
+So you mentioned the opposite would be a desktop.
+你提到的相反的就是台式机。
+
+65
+Right, so it sits on top of a desk.
+对，所以它放在桌子上。
+
+66
+Okay, so both a desktop and a laptop have monitors, a computer monitor.
+好的，台式机和笔记本电脑都有显示器，计算机显示器。
+
+67
+So a monitor is like a TV for your computer.
+所以显示器就像是你计算机的电视。
+
+68
+It's where you can see what you're doing.
+你可以看到你在做什么。
+
+69
+Okay, so it's called a monitor or a screen maybe.
+好的，所以它叫做显示器或屏幕。
+
+70
+You can also use the word screen, but monitor is the technical word for usually a box, like a TV that goes with the desktop computer.
+你也可以使用“屏幕”这个词，但显示器通常是与台式计算机配套的技术词。
+
+71
+Okay, very good.
+好的，非常好。
+
+72
+So Todd, the computer guy, said, Hey, I think your computer might have a virus.
+所以Todd，计算机专家说，嘿，我觉得你的计算机可能有病毒。
+
+73
+Ooh, that doesn't sound good.
+哦，那听起来不好。
+
+74
+Yeah, a virus.
+是的，病毒。
+
+75
+So I guess you know what a virus is when you get sick, right?
+所以我想你知道生病时的病毒，对吧？
+
+76
+You get the flu or the cold.
+你得了流感或感冒。
+
+77
+That's right, you can say, I have a virus.
+没错，你可以说，我有病毒。
+
+78
+But how can a computer have a virus?
+但计算机怎么会有病毒呢？
+
+79
+This means... It's a program that is designed to hurt your computer.
+这意味着……这是一个旨在伤害你的计算机的程序。
+
+80
+All right, so it's like your computer is sick and it doesn't work.
+好的，所以就像你的计算机生病了，无法工作。
+
+81
+So a virus might make your computer crash.
+所以病毒可能会使你的计算机崩溃。
+
+82
+Exactly.
+正是如此。
+
+83
+So in order to avoid this, what we need is an antivirus program.
+为了避免这种情况，我们需要一个防病毒程序。
+
+84
+Okay, so virus is a bad thing.
+好的，所以病毒是坏事。
+
+85
+Antivirus is a good thing.
+防病毒是好事。
+
+86
+An antivirus program is a program that protects your computer from viruses.
+防病毒程序是保护你的计算机免受病毒侵害的程序。
+
+87
+So you would say antivirus.
+所以你会说防病毒。
+
+88
+You might have heard of a very famous program called Norton Antivirus or McAfee Antivirus.
+你可能听说过一个非常著名的程序叫做Norton Antivirus或McAfee Antivirus。
+
+89
+These are brands.
+这些是品牌。
+
+90
+Okay, very good.
+好的，非常好。
+
+91
+So those are some of the main technical terms that we have on Language Takeaway.
+所以这些是我们在语言收获中提到的一些主要技术术语。
+
+92
+Why don't we listen to our dialogue quickly one sec... no.
+我们为什么不快速再听一遍我们的对话，然后再回到流利度提升。
+
+93
+Why don't we listen to our dialogue quickly again and we'll be back with Fluency Builder.
+你好，感谢拨打123技术帮助热线。
+
+94
+Hello, thanks for calling 123 Tech Help.
+我是Todd。
+
+95
+I'm Todd.
+我能帮你什么？
+
+96
+How can I help you?
+你好？
+
+97
+Hello?
+你能帮我吗？
+
+98
+Can you help me?
+我的计算机。
+
+99
+My computer.
+哦，天哪。
+
+100
+Oh man.
+
+101
+It's okay, sir.
+没关系，先生。
+
+102
+Calm down.
+冷静点。
+
+103
+What happened?
+发生了什么？
+
+104
+I turned on my laptop and it broke.
+我打开我的笔记本电脑，它坏了。
+
+105
+I mean, the monitor went black.
+我的意思是，显示器变黑了。
+
+106
+Okay, sir.
+好的，先生。
+
+107
+It sounds like you might have a virus.
+听起来你可能有病毒。
+
+108
+I don't feel sick.
+我没有生病。
+
+109
+Let me check.
+让我检查一下。
+
+110
+Nope, no fever.
+不，没有发烧。
+
+111
+I'm fine.
+我很好。
+
+112
+No, your computer might have a virus.
+不，你的电脑可能有病毒。
+
+113
+I mean, it has a bad program on it.
+我的意思是，它上面有个坏程序。
+
+114
+Maybe that's why it crashed.
+也许这就是它崩溃的原因。
+
+115
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
+我建议你运行一个杀毒程序，以安全地删除任何不需要的间谍软件或木马。
+
+116
+Phew.
+哦。
+
+117
+Wait a minute.
+等一下。
+
+118
+Crash?
+崩溃？
+
+119
+Spyware?
+间谍软件？
+
+120
+Trojans?
+木马？
+
+121
+What?
+什么？
+
+122
+Where?
+哪里？
+
+123
+When?
+什么时候？
+
+124
+Alright, we're back.
+好吧，我们回来了。
+
+125
+So now let's start off with three key phrases on Fluency Builder.
+现在让我们开始三个关键短语的流利构建。
+
+126
+This first phrase is one that I know you use a lot.
+第一个短语是我知道你经常使用的。
+
+127
+I use it too.
+我也用它。
+
+128
+We say, oh man.
+我们说，哦，天哪。
+
+129
+Oh man.
+哦，天哪。
+
+130
+So now, depending on the tone, it can mean different things, right?
+所以现在，根据语气，它可以意味着不同的事情，对吧？
+
+131
+So in this case, what does it mean?
+那么在这种情况下，它是什么意思？
+
+132
+So the man who's having problems with his computer says, my computer.
+所以那个遇到电脑问题的人说，我的电脑。
+
+133
+Oh man.
+哦，天哪。
+
+134
+Right.
+对。
+
+135
+He seems a little bit anguished.
+他似乎有点痛苦。
+
+136
+Disappointed.
+失望。
+
+137
+Yeah.
+是的。
+
+138
+Oh man.
+哦，天哪。
+
+139
+So it's an interjection.
+所以这是一个感叹词。
+
+140
+That's right.
+没错。
+
+141
+So you can say, oh man, my computer crashed.
+所以你可以说，哦，天哪，我的电脑崩溃了。
+
+142
+Right.
+对。
+
+143
+Oh man, you're always late.
+哦，天哪，你总是迟到。
+
+144
+Now you can also say it for maybe surprise like, oh man.
+现在你也可以用它来表示惊讶，比如，哦，天哪。
+
+145
+So when you're excited about something, oh man, this computer game is awesome.
+所以当你对某事感到兴奋时，哦，天哪，这个电脑游戏太棒了。
+
+146
+Okay.
+好的。
+
+147
+So it's just a way of expressing maybe disappointment or in some cases excitement.
+所以这只是表达失望或在某些情况下兴奋的一种方式。
+
+148
+That's right.
+没错。
+
+149
+So think about the way that you say it.
+所以想想你说的方式。
+
+150
+Oh man.
+哦，天哪。
+
+151
+Oh man.
+哦，天哪。
+
+152
+Okay.
+好的。
+
+153
+So now the guy, Todd, he tells him, hey, sir, it's okay.
+所以现在这个人，托德，他告诉他，嘿，先生，没关系。
+
+154
+Calm down.
+冷静点。
+
+155
+Right?
+对吧？
+
+156
+Okay.
+好的。
+
+157
+So this might be funny sounding because we say calm.
+所以这可能听起来有点好笑，因为我们说冷静。
+
+158
+So be calm.
+所以要冷静。
+
+159
+Calm down.
+冷静点。
+
+160
+This is a phrase.
+这是一个短语。
+
+161
+It's almost like you're so upset and you're standing up.
+几乎就像你非常生气并且站着。
+
+162
+Calm down.
+冷静点。
+
+163
+Calm down.
+冷静点。
+
+164
+Cool it.
+放松。
+
+165
+Okay.
+好的。
+
+166
+So you tell someone to calm down.
+所以你告诉某人冷静点。
+
+167
+That's right.
+没错。
+
+168
+So you might hear a parent say about their child.
+所以你可能会听到父母对他们的孩子说。
+
+169
+The child won't calm down.
+孩子不冷静。
+
+170
+What do I do?
+我该怎么办？
+
+171
+Okay.
+好的。
+
+172
+So it's a phrase.
+所以这是一个短语。
+
+173
+Let's use it together.
+让我们一起用它。
+
+174
+Calm down.
+冷静点。
+
+175
+Calm down.
+冷静点。
+
+176
+To calm down.
+冷静下来。
+
+177
+All right.
+好吧。
+
+178
+And now for our third phrase.
+现在是我们的第三个短语。
+
+179
+I mean...
+我的意思是...
+
+180
+I mean... Okay.
+我的意思是... 好的。
+
+181
+So this is also an interjection and it's very, very, very common.
+所以这也是一个感叹词，非常非常常见。
+
+182
+Okay?
+好吗？
+
+183
+So you'll probably hear people when they're talking, they're like, oh, I went over there.
+所以你可能会听到人们在说话时，他们会说，哦，我去了那里。
+
+184
+I mean, we went to this place.
+我的意思是，我们去了这个地方。
+
+185
+It's an interjection.
+这是一个感叹词。
+
+186
+That's right.
+没错。
+
+187
+And usually we say this when we want to correct what we just said.
+通常我们在想要纠正我们刚才所说的内容时会说这个。
+
+188
+For example, your computer might have a virus.
+例如，你的电脑可能有病毒。
+
+189
+I mean, it has a bad program on it.
+我的意思是，它上面有个坏程序。
+
+190
+Okay?
+好吗？
+
+191
+So the computer support man, Todd, he understands maybe this person doesn't know what a virus is.
+所以电脑支持人员托德，他明白这个人可能不知道什么是病毒。
+
+192
+So, I mean, he's changing what he just said.
+所以，我的意思是，他在改变他刚才所说的。
+
+193
+We could say, oh, Saturday I'm going to the movies.
+我们可以说，哦，星期六我要去看电影。
+
+194
+I mean, Sunday I'm going to the movies.
+我的意思是，星期天我要去看电影。
+
+195
+Okay.
+好的。
+
+196
+What are you doing on Sunday?
+你星期天要做什么？
+
+197
+All right.
+好吧。
+
+198
+So you use it to correct yourself or maybe further explain something because maybe you are talking about a topic and maybe the person is not understanding you so you want to make it more clear.
+所以你用它来纠正自己，或者进一步解释一些事情，因为也许你在谈论一个话题，而那个人可能不理解你，所以你想让它更清楚。
+
+199
+That's right.
+没错。
+
+200
+I mean... Right.
+我的意思是……对。
+
+201
+Like, she was very angry at me.
+就像，她对我非常生气。
+
+202
+I mean, of course she was because I did something wrong.
+我的意思是，当然她生气，因为我做错了事。
+
+203
+Right.
+对。
+
+204
+So it's a way to offer an explanation.
+所以这是一种提供解释的方式。
+
+205
+All right.
+好吧。
+
+206
+So try and use that one in your speech this week.
+所以这周试着在你的演讲中使用这个。
+
+207
+It's a really, really great, common English phrase.
+这是一个非常非常好的常用英语短语。
+
+208
+All right.
+好吧。
+
+209
+So why don't we listen to our dialogue for the last time and we'll be back to talk a little bit more.
+所以我们为什么不最后一次听我们的对话，然后我们会回来再聊一聊。
+
+210
+Hello.
+你好。
+
+211
+Thanks for calling 123 Tech Help.
+感谢拨打123技术支持。
+
+212
+I'm Todd.
+我是托德。
+
+213
+How can I help you?
+我能帮你什么？
+
+214
+Hello?
+你好？
+
+215
+Can you help me on my computer?
+你能帮我解决我的电脑问题吗？
+
+216
+Oh, man.
+哦，天哪。
+
+217
+It's okay, sir.
+没关系，先生。
+
+218
+Calm down.
+冷静点。
+
+219
+What happened?
+发生了什么？
+
+220
+I turned on my laptop and it broke.
+我打开我的笔记本电脑，它坏了。
+
+221
+I mean, the monitor went black.
+我的意思是，显示器变黑了。
+
+222
+Okay, sir.
+好的，先生。
+
+223
+It sounds like you might have a virus.
+听起来你可能有病毒。
+
+224
+I don't feel sick.
+我没有生病。
+
+225
+Let me check.
+让我检查一下。
+
+226
+Nope.
+不。
+
+227
+No fever.
+没有发烧。
+
+228
+I'm fine.
+我很好。
+
+229
+No.
+不。
+
+230
+Your computer might have a virus.
+你的电脑可能有病毒。
+
+231
+I mean, it has a bad program on it.
+我的意思是，它上面有一个坏程序。
+
+232
+Maybe that's why it crashed.
+也许这就是它崩溃的原因。
+
+233
+I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
+我建议你运行一个杀毒程序，以安全地删除任何不需要的间谍软件或木马。
+
+234
+Wait a minute.
+等一下。
+
+235
+Crash.
+崩溃。
+
+236
+Spyware.
+间谍软件。
+
+237
+Trojans.
+木马。
+
+238
+What?
+什么？
+
+239
+Where?
+哪里？
+
+240
+When?
+什么时候？
+
+241
+All right.
+好吧。
+
+242
+So, Marco, in today's dialogue, we heard a couple of strange words about computer viruses.
+所以，马尔科，在今天的对话中，我们听到了几个关于电脑病毒的奇怪词汇。
+
+243
+One of them you might be familiar with from Greek stories and fables.
+其中一个你可能在希腊故事和寓言中听说过。
+
+244
+A Trojan.
+木马。
+
+245
+All right.
+好吧。
+
+246
+A Trojan.
+木马。
+
+247
+So it's a kind of bad software that will hurt your computer.
+所以这是一种会伤害你电脑的坏软件。
+
+248
+Yeah, it's a type of virus that comes in and it's supposed to be a good program or not harm your computer.
+是的，它是一种病毒，伪装成一个好的程序，或者不会伤害你的电脑。
+
+249
+But it's really just a lie.
+但这实际上只是一个谎言。
+
+250
+It's disguised as something else and then it starts to really ruin your computer.
+它伪装成其他东西，然后开始真正破坏你的电脑。
+
+251
+They're very, very dangerous.
+它们非常非常危险。
+
+252
+Yeah, so why do you think it's called a Trojan?
+是的，那你觉得为什么叫木马？
+
+253
+I don't know.
+我不知道。
+
+254
+Probably because of Troy something because it's very difficult like a Trojan.
+可能是因为特洛伊的某些事情，因为它很难像木马一样。
+
+255
+Well, think about the story of the Trojan horse, right?
+好吧，想想特洛伊木马的故事，对吧？
+
+256
+You know that story.
+你知道那个故事。
+
+257
+So back in ancient Greece, there was a war happening and Troy wanted to defeat its enemy and they didn't know how to do it.
+所以在古希腊，有一场战争正在进行，特洛伊想要打败敌人，但他们不知道怎么做。
+
+258
+So they thought and thought and thought and they came up with an idea.
+所以他们想了又想，想出了一个主意。
+
+259
+They would build a horse and they would give it as a gift.
+他们会建造一匹马，并把它作为礼物送出去。
+
+260
+But inside the horse would be warriors, fighters.
+但马里面会有战士，战斗者。
+
+261
+So when the city opened its doors to this wonderful gift, they would receive a horrible gift, an attack.
+所以当城市向这个美妙的礼物敞开大门时，他们会收到一个可怕的礼物，一次攻击。
+
+262
+And so Trojan is like that.
+所以木马就是这样。
+
+263
+It's like software that you think is safe, but then it attacks your computer by surprise.
+它就像你认为是安全的软件，但然后它会突然攻击你的电脑。
+
+264
+They're very dangerous.
+它们非常危险。
+
+265
+And now things have come up like Trojans and worms and a lot of different names for them.
+现在出现了像木马和蠕虫这样的东西，还有很多不同的名称。
+
+266
+But it's crazy now, although I hear Mac users don't have these problems.
+但现在很疯狂，尽管我听说Mac用户没有这些问题。
+
+267
+We do not.
+我们没有。
+
+268
+If you use a Macintosh computer, you probably have very few problems with viruses and things like that.
+如果你使用Macintosh电脑，你可能几乎没有病毒和这些问题。
+
+269
+Wow, that's one point in favor for Mac users.
+哇，这对Mac用户来说是一个优点。
+
+270
+Absolutely.
+绝对是。
+
+271
+So let us know, have you had problems with a virus on your computer?
+所以让我们知道，你的电脑上有没有病毒问题？
+
+272
+Have you ever called tech support?
+你曾经拨打过技术支持吗？
+
+273
+Our website is EnglishPod.com.
+我们的网站是EnglishPod.com。
+
+274
+We hope to see you there.
+我们希望在那里见到你。
+
+275
+All right.
+好吧。
+
+276
+Bye everyone.
+大家再见。
+
+277
+Bye.
+再见。

@@ -1,0 +1,1374 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0132",
+  "title": "EnglishPod 中高级 0132",
+  "totalSegments": 273,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're talking about being on the road.",
+      "cn": "今天我们要谈论在路上的事情。"
+    },
+    {
+      "id": 6,
+      "en": "Yeah, we're gonna be on the road, but we're gonna encounter a little bit of car problems.",
+      "cn": "是的，我们要在路上，但会遇到一些汽车问题。"
+    },
+    {
+      "id": 7,
+      "en": "My favorite kind.",
+      "cn": "我最喜欢的那种。"
+    },
+    {
+      "id": 8,
+      "en": "I think it's happened to everyone.",
+      "cn": "我想这发生在每个人身上。"
+    },
+    {
+      "id": 9,
+      "en": "You're on the road or maybe you're coming back from work.",
+      "cn": "你在路上，或者可能刚下班。"
+    },
+    {
+      "id": 10,
+      "en": "You get a flat tire or something happens to your car, right?",
+      "cn": "你轮胎爆了，或者你的车出了什么事，对吧？"
+    },
+    {
+      "id": 11,
+      "en": "And it's always when you're in a rush.",
+      "cn": "而且总是在你赶时间的时候。"
+    },
+    {
+      "id": 12,
+      "en": "And so, all of the circumstances definitely, well, they don't help, let's just say.",
+      "cn": "所以，所有的情况肯定，嗯，没什么帮助，简单来说。"
+    },
+    {
+      "id": 13,
+      "en": "Alright, so before we listen to this dialogue, let's take a look at some of the words in today's vocabulary preview.",
+      "cn": "好吧，在我们听这个对话之前，先看看今天词汇预览中的一些单词。"
+    },
+    {
+      "id": 14,
+      "en": "Alright, so we're gonna take a look at two words.",
+      "cn": "好吧，我们要看两个单词。"
+    },
+    {
+      "id": 15,
+      "en": "They're kind of strange, I don't know, kind of difficult to understand, so that's where we're gonna explain them.",
+      "cn": "它们有点奇怪，我不知道，有点难以理解，所以我们会解释一下。"
+    },
+    {
+      "id": 16,
+      "en": "The first one is to spew.",
+      "cn": "第一个是“喷出”。"
+    },
+    {
+      "id": 17,
+      "en": "It's a verb, okay?",
+      "cn": "这是一个动词，好的？"
+    },
+    {
+      "id": 18,
+      "en": "To spew.",
+      "cn": "喷出。"
+    },
+    {
+      "id": 19,
+      "en": "Well, what can spew?",
+      "cn": "那么，什么可以喷出呢？"
+    },
+    {
+      "id": 20,
+      "en": "A volcano can spew.",
+      "cn": "火山可以喷出。"
+    },
+    {
+      "id": 21,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 22,
+      "en": "An engine can spew.",
+      "cn": "引擎可以喷出。"
+    },
+    {
+      "id": 23,
+      "en": "A person can spew.",
+      "cn": "人也可以喷出。"
+    },
+    {
+      "id": 24,
+      "en": "Yeah, that's not very nice.",
+      "cn": "是的，这可不太好。"
+    },
+    {
+      "id": 25,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 26,
+      "en": "So basically, it's to like expel or to... Shoot out.",
+      "cn": "所以基本上，它是像排出或... 喷出。"
+    },
+    {
+      "id": 27,
+      "en": "Shoot out from your mouth or something liquid.",
+      "cn": "从你的嘴里或某种液体喷出。"
+    },
+    {
+      "id": 28,
+      "en": "So in the case of a person, right?",
+      "cn": "所以在一个人的情况下，对吧？"
+    },
+    {
+      "id": 29,
+      "en": "So if a person spews, it means a person throws up, but it's usually very forceful.",
+      "cn": "如果一个人喷出，意味着一个人呕吐，但通常是非常猛烈的。"
+    },
+    {
+      "id": 30,
+      "en": "Alright, it's very messy.",
+      "cn": "好吧，这很麻烦。"
+    },
+    {
+      "id": 31,
+      "en": "A volcano can spew lava.",
+      "cn": "火山可以喷出熔岩。"
+    },
+    {
+      "id": 32,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 33,
+      "en": "So, a volcano is spewing lava.",
+      "cn": "所以，火山正在喷出熔岩。"
+    },
+    {
+      "id": 34,
+      "en": "Now, for the next word that we have, it's an informal way of saying that something is broken.",
+      "cn": "现在，接下来的单词是一个非正式的说法，表示某物坏了。"
+    },
+    {
+      "id": 35,
+      "en": "It's busted.",
+      "cn": "它坏了。"
+    },
+    {
+      "id": 36,
+      "en": "It's busted.",
+      "cn": "它坏了。"
+    },
+    {
+      "id": 37,
+      "en": "My DVD player is busted.",
+      "cn": "我的DVD播放器坏了。"
+    },
+    {
+      "id": 38,
+      "en": "Man, my phone is busted.",
+      "cn": "哥们，我的手机坏了。"
+    },
+    {
+      "id": 39,
+      "en": "So it's an informal way, very popular, very common, I would say, to describe that something is not working.",
+      "cn": "所以这是一种非正式的说法，非常流行，我会说，描述某物不工作的状态。"
+    },
+    {
+      "id": 40,
+      "en": "I don't think many people actually say, well, it's broken or it's damaged.",
+      "cn": "我觉得很多人其实不会说，嗯，它坏了或者它损坏了。"
+    },
+    {
+      "id": 41,
+      "en": "Yeah, they're pretty much mixed, I think, but you will definitely hear busted if you're talking to native English speakers.",
+      "cn": "是的，我认为它们基本上是混合的，但如果你和以英语为母语的人交谈，你肯定会听到“坏了”。"
+    },
+    {
+      "id": 42,
+      "en": "Or even like, for example, your arm.",
+      "cn": "或者甚至，比如说，你的手臂。"
+    },
+    {
+      "id": 43,
+      "en": "Oh, he's got a busted arm.",
+      "cn": "哦，他的手臂坏了。"
+    },
+    {
+      "id": 44,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 45,
+      "en": "So busted.",
+      "cn": "所以坏了。"
+    },
+    {
+      "id": 46,
+      "en": "All right, so let's listen to our dialogue for the first time.",
+      "cn": "好吧，让我们第一次听听我们的对话。"
+    },
+    {
+      "id": 47,
+      "en": "Let's see what's going on with this car trouble, and then we'll come back and explain some things.",
+      "cn": "让我们看看这次汽车故障发生了什么，然后我们再回来解释一些事情。"
+    },
+    {
+      "id": 48,
+      "en": "Howdy.",
+      "cn": "嗨。"
+    },
+    {
+      "id": 49,
+      "en": "Nice car.",
+      "cn": "好车。"
+    },
+    {
+      "id": 50,
+      "en": "What seems to be the problem?",
+      "cn": "什么问题？"
+    },
+    {
+      "id": 51,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 52,
+      "en": "The stupid old car started being white smoke and it just died on me.",
+      "cn": "这辆愚蠢的老车开始冒白烟，然后就死了。"
+    },
+    {
+      "id": 53,
+      "en": "Luckily, I managed to start it up and drive it here.",
+      "cn": "幸运的是，我设法把它启动并开到这里。"
+    },
+    {
+      "id": 54,
+      "en": "What do you think it is?",
+      "cn": "你觉得是什么问题？"
+    },
+    {
+      "id": 55,
+      "en": "Not sure yet.",
+      "cn": "还不确定。"
+    },
+    {
+      "id": 56,
+      "en": "How about you pop the hood and we can take a look.",
+      "cn": "你把引擎盖打开，我们可以看看。"
+    },
+    {
+      "id": 57,
+      "en": "Mm, doesn't look good.",
+      "cn": "嗯，看起来不太好。"
+    },
+    {
+      "id": 58,
+      "en": "What do you mean?",
+      "cn": "你什么意思？"
+    },
+    {
+      "id": 59,
+      "en": "My daddy gave me this car for my birthday last month.",
+      "cn": "我爸爸上个月给我买了这辆车作为生日礼物。"
+    },
+    {
+      "id": 60,
+      "en": "It's brand new.",
+      "cn": "它是全新的。"
+    },
+    {
+      "id": 61,
+      "en": "Well, Missy, the white smoke that you saw is steam from the radiator.",
+      "cn": "好吧，小姑娘，你看到的白烟是散热器的蒸汽。"
+    },
+    {
+      "id": 62,
+      "en": "You overheated your engine, so now the pistons are busted and so is your transmission.",
+      "cn": "你的引擎过热了，所以活塞坏了，变速箱也坏了。"
+    },
+    {
+      "id": 63,
+      "en": "You should have called us and we could have told you over here when your car died.",
+      "cn": "你应该打电话给我们，我们可以在你的车坏掉时告诉你。"
+    },
+    {
+      "id": 64,
+      "en": "So how long is this gonna take?",
+      "cn": "那这要多久？"
+    },
+    {
+      "id": 65,
+      "en": "An hour?",
+      "cn": "一个小时？"
+    },
+    {
+      "id": 66,
+      "en": "I'm afraid a bit more than that.",
+      "cn": "恐怕要多一点。"
+    },
+    {
+      "id": 67,
+      "en": "We need to order the spare parts, take apart your electrical system, fuel pump and engine, and then put it back together again.",
+      "cn": "我们需要订购备件，拆卸你的电气系统、燃油泵和引擎，然后再组装起来。"
+    },
+    {
+      "id": 68,
+      "en": "You're gonna have to leave it here for at least two weeks.",
+      "cn": "你得把它留在这里至少两周。"
+    },
+    {
+      "id": 69,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 70,
+      "en": "How am I supposed to go to school or go shopping?",
+      "cn": "我该怎么去上学或购物？"
+    },
+    {
+      "id": 71,
+      "en": "This is not happening.",
+      "cn": "这不可能发生。"
+    },
+    {
+      "id": 72,
+      "en": "So if I were the mechanic, I would not be very happy to be dealing with someone like this girl.",
+      "cn": "所以如果我是机械师，我不会很高兴和这样的女孩打交道。"
+    },
+    {
+      "id": 73,
+      "en": "Well, maybe it's a little bit stereotypical that we put it as a girl because guys and girls, so many people don't know anything about cars or mechanics.",
+      "cn": "嗯，也许把它设定为女孩有点刻板印象，因为男孩和女孩，很多人对汽车或机械一无所知。"
+    },
+    {
+      "id": 74,
+      "en": "And in the States, there's a lot of female mechanics too, so it's mixed.",
+      "cn": "在美国，也有很多女性机械师，所以这是混合的。"
+    },
+    {
+      "id": 75,
+      "en": "But definitely it's something that happens all the time and probably the mechanic will overcharge her as well because apparently she doesn't know what she's doing.",
+      "cn": "但这绝对是经常发生的事情，可能机械师也会多收她的钱，因为显然她不知道自己在做什么。"
+    },
+    {
+      "id": 76,
+      "en": "And that's one of the reasons we want to give you the vocabulary to deal with these situations.",
+      "cn": "这也是我们想给你提供词汇以应对这些情况的原因之一。"
+    },
+    {
+      "id": 77,
+      "en": "So let's look at some of those car words in today's language take away.",
+      "cn": "所以让我们看看今天语言学习中的一些汽车词汇。"
+    },
+    {
+      "id": 78,
+      "en": "Alright, so we're gonna take a look at very specific words related to cars and the engines and everything.",
+      "cn": "好吧，我们要看一些与汽车和引擎及其他相关的非常具体的单词。"
+    },
+    {
+      "id": 79,
+      "en": "So let's start with the first one.",
+      "cn": "所以让我们从第一个开始。"
+    },
+    {
+      "id": 80,
+      "en": "Radiator.",
+      "cn": "散热器。"
+    },
+    {
+      "id": 81,
+      "en": "Radiator.",
+      "cn": "散热器。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so the radiator of the car.",
+      "cn": "好吧，汽车的散热器。"
+    },
+    {
+      "id": 83,
+      "en": "So radiator is something that you normally find in the front of the car near the engine.",
+      "cn": "散热器通常位于汽车前部靠近引擎的位置。"
+    },
+    {
+      "id": 84,
+      "en": "It usually gets very, very hot, right?",
+      "cn": "它通常会变得非常非常热，对吧？"
+    },
+    {
+      "id": 85,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 86,
+      "en": "So one of the big issues is radiators getting too hot because there's no way to cool them down.",
+      "cn": "所以一个大问题是散热器过热，因为没有办法让它冷却下来。"
+    },
+    {
+      "id": 87,
+      "en": "So if you live in a place that's very hot, the radiator keeps your engine cool because it has water in it.",
+      "cn": "所以如果你住在一个非常热的地方，散热器可以保持你的引擎冷却，因为里面有水。"
+    },
+    {
+      "id": 88,
+      "en": "So if it overheats, or maybe you didn't put enough water in there, then it'll start spewing steam like in this dialogue.",
+      "cn": "所以如果它过热，或者你可能没有放足够的水进去，那么它就会开始像在这个对话中那样喷出蒸汽。"
+    },
+    {
+      "id": 89,
+      "en": "And if you have a problem with your radiator, you could actually do a lot of damage to your engine, which is why this is important.",
+      "cn": "如果你的散热器有问题，你实际上可能会对你的引擎造成很大的损害，这就是为什么这很重要。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 91,
+      "en": "And that's what happened in this dialogue.",
+      "cn": "这就是在这个对话中发生的事情。"
+    },
+    {
+      "id": 92,
+      "en": "So a radiator now because the radiator wasn't working well, it overheated the engine, and he said they had some busted pistons.",
+      "cn": "所以散热器现在因为散热器工作不良，导致引擎过热，他说他们有一些坏掉的活塞。"
+    },
+    {
+      "id": 93,
+      "en": "So broken pistons, pistons are important because they're kind of like valves that go up and down.",
+      "cn": "所以坏掉的活塞，活塞很重要，因为它们就像上下移动的阀门。"
+    },
+    {
+      "id": 94,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 95,
+      "en": "So inside your engine, you have mini explosions, and the pistons move up and down.",
+      "cn": "所以在你的引擎内部，你有微型爆炸，活塞上下移动。"
+    },
+    {
+      "id": 96,
+      "en": "And that's what actually moves your car.",
+      "cn": "这实际上是推动你的车的动力。"
+    },
+    {
+      "id": 97,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 98,
+      "en": "And so pistons in general are things in mechanics.",
+      "cn": "所以活塞通常是机械中的东西。"
+    },
+    {
+      "id": 99,
+      "en": "So like a trumpet has pistons, things that go up and down, and that allow for the flow of air or something like that.",
+      "cn": "所以像小号有活塞，东西上下移动，允许空气或其他东西的流动。"
+    },
+    {
+      "id": 100,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 101,
+      "en": "So that's a piston.",
+      "cn": "所以这就是活塞。"
+    },
+    {
+      "id": 102,
+      "en": "And well, another very common mechanic term is the transmission.",
+      "cn": "还有一个非常常见的机械术语是变速器。"
+    },
+    {
+      "id": 103,
+      "en": "Alright, so the transmission, what happens if your transmission dies?",
+      "cn": "好吧，如果你的变速器坏了，会发生什么？"
+    },
+    {
+      "id": 104,
+      "en": "Can you still drive?",
+      "cn": "你还能开车吗？"
+    },
+    {
+      "id": 105,
+      "en": "You basically can't move, or maybe you only have one gear or two gears.",
+      "cn": "基本上你不能移动，或者你可能只有一个档或两个档。"
+    },
+    {
+      "id": 106,
+      "en": "Alright, so think about transmission as coming from the word to transmit.",
+      "cn": "好吧，把变速器想象成来自“传输”这个词。"
+    },
+    {
+      "id": 107,
+      "en": "That means to transfer.",
+      "cn": "这意味着转移。"
+    },
+    {
+      "id": 108,
+      "en": "So this is the part of the car that transfers energy or the power to actually move the car.",
+      "cn": "所以这是汽车中转移能量或动力以实际移动汽车的部分。"
+    },
+    {
+      "id": 109,
+      "en": "So the transmission.",
+      "cn": "所以是变速器。"
+    },
+    {
+      "id": 110,
+      "en": "And we've got the mechanic who says, well, we've got to order you some spare parts.",
+      "cn": "我们有机械师说，我们得为你订购一些备件。"
+    },
+    {
+      "id": 111,
+      "en": "So first, let's look at the word spare.",
+      "cn": "首先，让我们看看“备件”这个词。"
+    },
+    {
+      "id": 112,
+      "en": "What's another word for spare?",
+      "cn": "备件的另一个词是什么？"
+    },
+    {
+      "id": 113,
+      "en": "Additional, maybe extra.",
+      "cn": "额外的，可能是多余的。"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "So spare means extra parts are, well, pieces.",
+      "cn": "所以备件意味着额外的部分，就是，嗯，零件。"
+    },
+    {
+      "id": 116,
+      "en": "So he's talking about ordering a new transmission, new pistons, things to replace the broken things.",
+      "cn": "所以他在谈论订购新的变速器、新的活塞，替换坏掉的东西。"
+    },
+    {
+      "id": 117,
+      "en": "Spare parts.",
+      "cn": "备件。"
+    },
+    {
+      "id": 118,
+      "en": "So this is where you go to the mechanic to get some spare parts and get them installed.",
+      "cn": "所以这是你去机械师那里获取一些备件并安装它们的地方。"
+    },
+    {
+      "id": 119,
+      "en": "You probably don't have many spare parts at home, right?",
+      "cn": "你家里可能没有很多备件，对吧？"
+    },
+    {
+      "id": 120,
+      "en": "You got a transmission lying around.",
+      "cn": "你有变速器闲置吗？"
+    },
+    {
+      "id": 121,
+      "en": "Yeah, so spare parts.",
+      "cn": "是的，所以备件。"
+    },
+    {
+      "id": 122,
+      "en": "And the last word that we're going to take a look at is a fuel pump.",
+      "cn": "我们要看的最后一个词是燃油泵。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, so a pump is, you could have a bike pump, a water pump, water pump.",
+      "cn": "好吧，泵是，你可以有一个自行车泵，一个水泵，水泵。"
+    },
+    {
+      "id": 124,
+      "en": "So these are something, these are some things that we use very, very often, but a fuel pump is something that allows gas gasoline to get into your engine.",
+      "cn": "这些是我们非常非常常用的东西，但燃油泵是允许汽油进入发动机的东西。"
+    },
+    {
+      "id": 125,
+      "en": "So it's basically a device that pushes gasoline into the engine so you can start.",
+      "cn": "所以它基本上是一个将汽油推入发动机的装置，以便你可以启动。"
+    },
+    {
+      "id": 126,
+      "en": "And that's the same thing with the water pump.",
+      "cn": "水泵也是同样的事情。"
+    },
+    {
+      "id": 127,
+      "en": "It's a device that pushes water.",
+      "cn": "它是一个推水的装置。"
+    },
+    {
+      "id": 128,
+      "en": "Or an air pump is something that pushes air into your tires and your bicycle.",
+      "cn": "或者空气泵是将空气推入你的轮胎和自行车的东西。"
+    },
+    {
+      "id": 129,
+      "en": "Exactly, so a fuel pump, water pump, etc.",
+      "cn": "正是如此，所以燃油泵、水泵等等。"
+    },
+    {
+      "id": 130,
+      "en": "Wow, I feel like we know a lot about cars.",
+      "cn": "哇，我觉得我们对汽车了解很多。"
+    },
+    {
+      "id": 131,
+      "en": "Apparently we do, see?",
+      "cn": "显然我们知道，看到吗？"
+    },
+    {
+      "id": 132,
+      "en": "Alright, so now that we've taken a look at all of these great words, let's move on to a couple of phrases in Fluency Builder.",
+      "cn": "好吧，现在我们已经看过所有这些很棒的词汇，让我们继续学习一些流利构建中的短语。"
+    },
+    {
+      "id": 133,
+      "en": "Alright, these are phrases that you hear sometimes when you're talking about electronics, but in today's lesson, we're also talking about specific car phrases, so you're going to hear these all the time at the mechanics.",
+      "cn": "好吧，这些是你在谈论电子产品时有时会听到的短语，但在今天的课程中，我们也在谈论特定的汽车短语，所以你会在机械师那里经常听到这些。"
+    },
+    {
+      "id": 134,
+      "en": "Right, and the first one is, the car suddenly died on me.",
+      "cn": "对，第一句是，汽车突然坏了。"
+    },
+    {
+      "id": 135,
+      "en": "Alright, to die on.",
+      "cn": "好吧，坏掉。"
+    },
+    {
+      "id": 136,
+      "en": "So we keep these two words together, die on.",
+      "cn": "所以我们把这两个词放在一起，坏掉。"
+    },
+    {
+      "id": 137,
+      "en": "Oh man, so while you were driving, your car died.",
+      "cn": "哦，天哪，所以当你开车时，你的车坏了。"
+    },
+    {
+      "id": 138,
+      "en": "It stopped moving.",
+      "cn": "它停止移动。"
+    },
+    {
+      "id": 139,
+      "en": "So that means that it doesn't work anymore.",
+      "cn": "所以这意味着它不再工作。"
+    },
+    {
+      "id": 140,
+      "en": "And it's not only for cars, right?",
+      "cn": "而且这不仅仅是汽车，对吧？"
+    },
+    {
+      "id": 141,
+      "en": "You can say my MP3 player died on me today.",
+      "cn": "你可以说我的MP3播放器今天坏了。"
+    },
+    {
+      "id": 142,
+      "en": "Exactly, and what it means is, it's not like you left it and you forgot about it and you tried it again and it didn't work.",
+      "cn": "正是如此，它的意思是，不是你把它放下忘记了，然后再试一次它不工作。"
+    },
+    {
+      "id": 143,
+      "en": "It means while you're using it, it dies.",
+      "cn": "这意味着在你使用它时，它坏了。"
+    },
+    {
+      "id": 144,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 145,
+      "en": "It doesn't work.",
+      "cn": "它不工作。"
+    },
+    {
+      "id": 146,
+      "en": "So I think this phrase is a good one to give some other examples, so let's listen.",
+      "cn": "所以我认为这个短语是一个很好的例子，给出一些其他例子，所以让我们听听。"
+    },
+    {
+      "id": 147,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 148,
+      "en": "Get that medicine over here fast or this guy's gonna die on me.",
+      "cn": "快把那药拿过来，否则这个家伙要死了。"
+    },
+    {
+      "id": 149,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 150,
+      "en": "I forgot to charge my mobile phone.",
+      "cn": "我忘了给我的手机充电。"
+    },
+    {
+      "id": 151,
+      "en": "It's gonna die on me soon.",
+      "cn": "它快要没电了。"
+    },
+    {
+      "id": 152,
+      "en": "And so this next one is a phrase you hear, the first thing you hear maybe, when you tell someone you have a car problem.",
+      "cn": "所以下一个是你听到的短语，也许是你告诉某人你有汽车问题时听到的第一件事。"
+    },
+    {
+      "id": 153,
+      "en": "Right, you tell them to pop the hood.",
+      "cn": "对，你告诉他们打开引擎盖。"
+    },
+    {
+      "id": 154,
+      "en": "Or let's pop the hood.",
+      "cn": "或者让我们打开引擎盖。"
+    },
+    {
+      "id": 155,
+      "en": "This means let's open the front part of the car, the hood, to look at the engine, transmission, all those parts.",
+      "cn": "这意味着让我们打开汽车的前面部分，引擎盖，看看发动机、变速器，所有那些部分。"
+    },
+    {
+      "id": 156,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 157,
+      "en": "So you can say open the hood, but the most common one is pop the hood.",
+      "cn": "所以你可以说打开引擎盖，但最常见的是打开引擎盖。"
+    },
+    {
+      "id": 158,
+      "en": "So the reason is because there's a little spring, and you have to pull inside the car and it goes pop, and there's a little jump.",
+      "cn": "原因是因为有一个小弹簧，你必须在车内拉动，它会“啪”的一声跳起来。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 160,
+      "en": "So it's literally popping.",
+      "cn": "所以它字面上是弹开的。"
+    },
+    {
+      "id": 161,
+      "en": "Right, or you can also say the trunk, right, the back part of the car.",
+      "cn": "对，或者你也可以说后备箱，对吧，汽车的后面部分。"
+    },
+    {
+      "id": 162,
+      "en": "Hey, can you pop the trunk for me?",
+      "cn": "嘿，你能帮我打开后备箱吗？"
+    },
+    {
+      "id": 163,
+      "en": "I've got to put some stuff inside.",
+      "cn": "我得把一些东西放进去。"
+    },
+    {
+      "id": 164,
+      "en": "Exactly, so pop the hood, pop the trunk.",
+      "cn": "正是如此，所以打开引擎盖，打开后备箱。"
+    },
+    {
+      "id": 165,
+      "en": "And on the next we've got this this girl actually who's talking about her car because she just got this car.",
+      "cn": "接下来我们有这个女孩在谈论她的车，因为她刚买了这辆车。"
+    },
+    {
+      "id": 166,
+      "en": "So it's another way to say it's a new car.",
+      "cn": "所以这是另一种说法，表示这是辆新车。"
+    },
+    {
+      "id": 167,
+      "en": "It's brand new.",
+      "cn": "它是全新的。"
+    },
+    {
+      "id": 168,
+      "en": "Is that more new than new?",
+      "cn": "这比新更新吗？"
+    },
+    {
+      "id": 169,
+      "en": "It's like newer, newer than you.",
+      "cn": "就像是更新，比你更新。"
+    },
+    {
+      "id": 170,
+      "en": "All right, so brand, you think about brands like Ford or Gucci.",
+      "cn": "好吧，所以品牌，你想到的品牌像福特或古驰。"
+    },
+    {
+      "id": 171,
+      "en": "These are brands, but brand new means she maybe got it like today.",
+      "cn": "这些是品牌，但全新意味着她可能今天刚得到它。"
+    },
+    {
+      "id": 172,
+      "en": "So it's brand new.",
+      "cn": "所以它是全新的。"
+    },
+    {
+      "id": 173,
+      "en": "It's very, very new.",
+      "cn": "它非常非常新。"
+    },
+    {
+      "id": 174,
+      "en": "Did you see my brand new watch?",
+      "cn": "你看到我全新的手表了吗？"
+    },
+    {
+      "id": 175,
+      "en": "Wow, it is nice.",
+      "cn": "哇，真不错。"
+    },
+    {
+      "id": 176,
+      "en": "All right, so brand new.",
+      "cn": "好吧，所以全新。"
+    },
+    {
+      "id": 177,
+      "en": "And well, the last phrase that we have for you today is to take apart something.",
+      "cn": "最后我们今天要讲的短语是拆解某物。"
+    },
+    {
+      "id": 178,
+      "en": "All right, so this is very popular with young children.",
+      "cn": "好吧，这在小孩子中非常流行。"
+    },
+    {
+      "id": 179,
+      "en": "Like they like to take things apart so they can find out how they work.",
+      "cn": "他们喜欢拆解东西，以便找出它们是如何工作的。"
+    },
+    {
+      "id": 180,
+      "en": "But to take apart means to take all the pieces and to pull them out.",
+      "cn": "但拆解意味着把所有的零件取出。"
+    },
+    {
+      "id": 181,
+      "en": "Yeah, I used to do that a lot when I was a kid.",
+      "cn": "是的，我小时候经常这样做。"
+    },
+    {
+      "id": 182,
+      "en": "I used to take apart any, any electronic device to kind of see how it works.",
+      "cn": "我曾经拆解任何电子设备，看看它是如何工作的。"
+    },
+    {
+      "id": 183,
+      "en": "And then I would try to put it back together again.",
+      "cn": "然后我会尝试把它重新组装起来。"
+    },
+    {
+      "id": 184,
+      "en": "That's why you're so smart.",
+      "cn": "这就是你这么聪明的原因。"
+    },
+    {
+      "id": 185,
+      "en": "Well, it never really worked.",
+      "cn": "嗯，这从来没有真正成功过。"
+    },
+    {
+      "id": 186,
+      "en": "It works half the time.",
+      "cn": "它一半的时间能工作。"
+    },
+    {
+      "id": 187,
+      "en": "So the problem is always putting them back together again, right?",
+      "cn": "所以问题总是重新组装它们，对吧？"
+    },
+    {
+      "id": 188,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 189,
+      "en": "So you can take it apart, but then you put it back together and there's always a screw missing or a screw that's extra or two or three parts.",
+      "cn": "所以你可以拆解它，但然后你重新组装时，总是缺少一个螺丝或多一个螺丝，或者两三个零件。"
+    },
+    {
+      "id": 190,
+      "en": "Not a good sign.",
+      "cn": "这不是一个好兆头。"
+    },
+    {
+      "id": 191,
+      "en": "All right, so we've taken a look at a lot of great words and phrases.",
+      "cn": "好吧，我们已经看过很多很棒的词汇和短语。"
+    },
+    {
+      "id": 192,
+      "en": "So let's listen to this dialogue for the last time.",
+      "cn": "所以让我们最后再听一次这个对话。"
+    },
+    {
+      "id": 193,
+      "en": "Howdy, nice car.",
+      "cn": "嗨，漂亮的车。"
+    },
+    {
+      "id": 194,
+      "en": "What seems to be the problem?",
+      "cn": "什么问题？"
+    },
+    {
+      "id": 195,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 196,
+      "en": "The stupid old car started being white smoke and it just died on me.",
+      "cn": "这辆愚蠢的老车开始冒白烟，然后就死了。"
+    },
+    {
+      "id": 197,
+      "en": "Luckily, I managed to start it up and drive it here.",
+      "cn": "幸运的是，我设法把它启动并开到这里。"
+    },
+    {
+      "id": 198,
+      "en": "What do you think it is?",
+      "cn": "你觉得是什么问题？"
+    },
+    {
+      "id": 199,
+      "en": "Not sure yet.",
+      "cn": "还不确定。"
+    },
+    {
+      "id": 200,
+      "en": "How about you pop the hood and we can take a look.",
+      "cn": "不如你打开引擎盖，我们看看。"
+    },
+    {
+      "id": 201,
+      "en": "Doesn't look good.",
+      "cn": "看起来不太好。"
+    },
+    {
+      "id": 202,
+      "en": "What do you mean?",
+      "cn": "你什么意思？"
+    },
+    {
+      "id": 203,
+      "en": "My daddy gave me this car for my birthday last month.",
+      "cn": "我爸爸上个月给我买了这辆车作为生日礼物。"
+    },
+    {
+      "id": 204,
+      "en": "It's brand new.",
+      "cn": "它是全新的。"
+    },
+    {
+      "id": 205,
+      "en": "Well, Missy, the white smoke that you saw is steam from the radiator.",
+      "cn": "嗯，小姐，你看到的白烟是散热器的蒸汽。"
+    },
+    {
+      "id": 206,
+      "en": "You overheated your engine, so now the pistons are busted and so is your transmission.",
+      "cn": "你的引擎过热了，所以活塞坏了，变速箱也坏了。"
+    },
+    {
+      "id": 207,
+      "en": "You should have called us and we could have told you over here when your car died.",
+      "cn": "你应该打电话给我们，我们可以在你的车坏了时告诉你过来。"
+    },
+    {
+      "id": 208,
+      "en": "So how long is this going to take?",
+      "cn": "那这要花多长时间？"
+    },
+    {
+      "id": 209,
+      "en": "An hour?",
+      "cn": "一个小时？"
+    },
+    {
+      "id": 210,
+      "en": "I'm afraid a bit more than that.",
+      "cn": "恐怕要多一点。"
+    },
+    {
+      "id": 211,
+      "en": "We need to order the spare parts, take apart your electrical system, fuel pump and engine, and then put it back together again.",
+      "cn": "我们需要订购备件，拆卸你的电气系统、燃油泵和引擎，然后再组装回去。"
+    },
+    {
+      "id": 212,
+      "en": "You were going to have to leave it here for at least two weeks.",
+      "cn": "你得把它留在这里至少两周。"
+    },
+    {
+      "id": 213,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 214,
+      "en": "How am I supposed to go to school or go shopping?",
+      "cn": "我怎么去上学或购物？"
+    },
+    {
+      "id": 215,
+      "en": "This is not happening.",
+      "cn": "这不可能发生。"
+    },
+    {
+      "id": 216,
+      "en": "All right, so car trouble.",
+      "cn": "好吧，车子出问题了。"
+    },
+    {
+      "id": 217,
+      "en": "Have you ever had like any very serious car trouble or like something weird happen to your car?",
+      "cn": "你有没有遇到过非常严重的车子问题，或者车子发生过奇怪的事情？"
+    },
+    {
+      "id": 218,
+      "en": "Actually, the week before I decided to leave Chicago, I had this 1991 Honda Civic hatchback.",
+      "cn": "实际上，在我决定离开芝加哥的前一周，我有一辆1991年的本田思域掀背车。"
+    },
+    {
+      "id": 219,
+      "en": "So only two doors.",
+      "cn": "只有两个门。"
+    },
+    {
+      "id": 220,
+      "en": "Nice.",
+      "cn": "不错。"
+    },
+    {
+      "id": 221,
+      "en": "And I was driving home from work.",
+      "cn": "我在下班回家的路上。"
+    },
+    {
+      "id": 222,
+      "en": "I was on the highway, had the radio on, the windows open, and then it died.",
+      "cn": "我在高速公路上，收音机开着，窗户开着，然后它就死了。"
+    },
+    {
+      "id": 223,
+      "en": "It died in the middle of the highway during rush hour, right?",
+      "cn": "它在高峰时段的高速公路中间死了，对吧？"
+    },
+    {
+      "id": 224,
+      "en": "So that's when there's tons of cars.",
+      "cn": "那时车很多。"
+    },
+    {
+      "id": 225,
+      "en": "And I didn't know what to do.",
+      "cn": "我不知道该怎么办。"
+    },
+    {
+      "id": 226,
+      "en": "Some calling people.",
+      "cn": "有人打电话。"
+    },
+    {
+      "id": 227,
+      "en": "And then all of a sudden I see someone tapping on my window and there's cars everywhere.",
+      "cn": "然后突然我看到有人在敲我的窗户，周围都是车。"
+    },
+    {
+      "id": 228,
+      "en": "And it's this guy.",
+      "cn": "是个男的。"
+    },
+    {
+      "id": 229,
+      "en": "And he's like, listen, do you need a hand?",
+      "cn": "他问我，听着，你需要帮忙吗？"
+    },
+    {
+      "id": 230,
+      "en": "I said, yes.",
+      "cn": "我说，是的。"
+    },
+    {
+      "id": 231,
+      "en": "So I put the car in neutral so that there's no break.",
+      "cn": "所以我把车挂在空挡上，这样就没有刹车。"
+    },
+    {
+      "id": 232,
+      "en": "And he pushed it to a side road and gave me a right home.",
+      "cn": "他把车推到一条旁边的路上，给我送回家。"
+    },
+    {
+      "id": 233,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 234,
+      "en": "He was the coolest guy.",
+      "cn": "他是个很酷的家伙。"
+    },
+    {
+      "id": 235,
+      "en": "He was so nice.",
+      "cn": "他非常好。"
+    },
+    {
+      "id": 236,
+      "en": "And he was just there with his truck.",
+      "cn": "他就开着他的卡车在那儿。"
+    },
+    {
+      "id": 237,
+      "en": "He's a gardener and just gave me a right home.",
+      "cn": "他是个园丁，给我送回家。"
+    },
+    {
+      "id": 238,
+      "en": "It was super, super cool.",
+      "cn": "这真是太酷了。"
+    },
+    {
+      "id": 239,
+      "en": "And so it turns out my engine died.",
+      "cn": "结果我的引擎坏了。"
+    },
+    {
+      "id": 240,
+      "en": "No, the engine was new.",
+      "cn": "不，引擎是新的。"
+    },
+    {
+      "id": 241,
+      "en": "It was the transmission.",
+      "cn": "是变速箱坏了。"
+    },
+    {
+      "id": 242,
+      "en": "It was shot.",
+      "cn": "它坏了。"
+    },
+    {
+      "id": 243,
+      "en": "It was totally broken.",
+      "cn": "完全坏了。"
+    },
+    {
+      "id": 244,
+      "en": "But I was very lucky to have such a kind person.",
+      "cn": "但我很幸运有这样一个好人。"
+    },
+    {
+      "id": 245,
+      "en": "Yeah, that's a good story because usually people are too afraid or maybe a little bit reluctant to stop and see if you're okay or if you need a ride or something because you can't really trust people these days.",
+      "cn": "是的，这是个好故事，因为通常人们太害怕或者有点不情愿停下来看看你是否还好，或者你是否需要搭便车，因为现在你真的不能信任别人。"
+    },
+    {
+      "id": 246,
+      "en": "So, but it's good.",
+      "cn": "不过这很好。"
+    },
+    {
+      "id": 247,
+      "en": "Once I saw somebody on the side of the road, it had a flat tire.",
+      "cn": "有一次我看到路边有人，轮胎漏气了。"
+    },
+    {
+      "id": 248,
+      "en": "It was two girls and they didn't know what to do.",
+      "cn": "是两个女孩，她们不知道该怎么办。"
+    },
+    {
+      "id": 249,
+      "en": "So I was like passing by.",
+      "cn": "我路过的时候。"
+    },
+    {
+      "id": 250,
+      "en": "It was actually raining.",
+      "cn": "其实在下雨。"
+    },
+    {
+      "id": 251,
+      "en": "And I was like, hey, do you guys need a hand?",
+      "cn": "我就问，嘿，你们需要帮忙吗？"
+    },
+    {
+      "id": 252,
+      "en": "And they're like, yeah, please.",
+      "cn": "她们说，是的，拜托。"
+    },
+    {
+      "id": 253,
+      "en": "And we can't, we can't locate my dad or whatever.",
+      "cn": "我们找不到我爸爸或者其他什么的。"
+    },
+    {
+      "id": 254,
+      "en": "So I was like changing the tire.",
+      "cn": "所以我在换轮胎。"
+    },
+    {
+      "id": 255,
+      "en": "It's not a big deal, right?",
+      "cn": "这没什么大不了的，对吧？"
+    },
+    {
+      "id": 256,
+      "en": "And then they're like, oh, I think, and they wanted to tip me.",
+      "cn": "然后她们说，哦，我想，她们想给我小费。"
+    },
+    {
+      "id": 257,
+      "en": "They wanted to give me some money.",
+      "cn": "她们想给我一些钱。"
+    },
+    {
+      "id": 258,
+      "en": "They're like, oh, please say this.",
+      "cn": "她们说，哦，请接受这个。"
+    },
+    {
+      "id": 259,
+      "en": "You're so kind.",
+      "cn": "你真好。"
+    },
+    {
+      "id": 260,
+      "en": "You're time and you're all wet.",
+      "cn": "你花了时间，还全身湿透。"
+    },
+    {
+      "id": 261,
+      "en": "And I'm like,",
+      "cn": "我说，"
+    },
+    {
+      "id": 262,
+      "en": "or if you can offer someone a lift.",
+      "cn": "或者如果你能给某人搭个便车。"
+    },
+    {
+      "id": 263,
+      "en": "I know it's not terribly safe to ride with strangers, but this guy totally helped me out.",
+      "cn": "我知道和陌生人一起搭车不是很安全，但这个家伙真的帮了我。"
+    },
+    {
+      "id": 264,
+      "en": "So nice.",
+      "cn": "真好。"
+    },
+    {
+      "id": 265,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 266,
+      "en": "Well, maybe you guys have some cool or maybe some interesting stories of what's happened with your cars, or maybe you've helped somebody out.",
+      "cn": "也许你们有一些很酷或者有趣的故事，关于你们的车发生了什么，或者你们帮助过某人。"
+    },
+    {
+      "id": 267,
+      "en": "So come to our website at EnglishPod.com and let us know.",
+      "cn": "所以请访问我们的网站 EnglishPod.com，告诉我们。"
+    },
+    {
+      "id": 268,
+      "en": "And of course, if you have any questions about the vocabulary phrases that you heard today, please ask away.",
+      "cn": "当然，如果你对今天听到的词汇短语有任何问题，请随时问。"
+    },
+    {
+      "id": 269,
+      "en": "Don't hesitate.",
+      "cn": "不要犹豫。"
+    },
+    {
+      "id": 270,
+      "en": "And well, again, we hope to see you on the website.",
+      "cn": "再次希望在网站上见到你。"
+    },
+    {
+      "id": 271,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 272,
+      "en": "We'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 273,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

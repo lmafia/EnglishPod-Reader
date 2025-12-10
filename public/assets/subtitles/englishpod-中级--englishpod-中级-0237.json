@@ -1,0 +1,1714 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0237",
+  "title": "EnglishPod 中级 0237",
+  "totalSegments": 341,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we've got a very special lesson for you all about time.",
+      "cn": "我叫Catherine，今天我们有一节关于时间的特别课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We're going to concentrate a little bit on some specific points of grammar this time, and we're going to talk about the morning routine, what you do in the mornings.",
+      "cn": "这次我们将专注于一些特定的语法点，并讨论早晨的日常活动。"
+    },
+    {
+      "id": 6,
+      "en": "Well, let's take a look first at the word routine.",
+      "cn": "首先，让我们看看“日常”这个词。"
+    },
+    {
+      "id": 7,
+      "en": "This is our vocabulary preview for today.",
+      "cn": "这是我们今天的词汇预览。"
+    },
+    {
+      "id": 8,
+      "en": "Vocabulary Preview Alright, so a routine, or the morning routine.",
+      "cn": "词汇预览 好的，日常，或者说早晨的日常。"
+    },
+    {
+      "id": 9,
+      "en": "What is a routine?",
+      "cn": "什么是日常？"
+    },
+    {
+      "id": 10,
+      "en": "A routine is basically your habit for a certain period of time.",
+      "cn": "日常基本上是你在某段时间内的习惯。"
+    },
+    {
+      "id": 11,
+      "en": "So, for example, your routine in the morning is what you do when you wake up, get breakfast, and go to work.",
+      "cn": "例如，你早上的日常是你醒来、吃早餐和上班时所做的事情。"
+    },
+    {
+      "id": 12,
+      "en": "You can also have an evening routine.",
+      "cn": "你也可以有一个晚间日常。"
+    },
+    {
+      "id": 13,
+      "en": "It's what you always do before you go to bed.",
+      "cn": "这是你在上床睡觉前总是做的事情。"
+    },
+    {
+      "id": 14,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 15,
+      "en": "So, everyone has a routine, what they do in the mornings, maybe what you do at night before going to bed.",
+      "cn": "所以，每个人都有自己的日常，早上做的事情，或者晚上上床前做的事情。"
+    },
+    {
+      "id": 16,
+      "en": "So, that's what we're going to talk about today.",
+      "cn": "这就是我们今天要讨论的内容。"
+    },
+    {
+      "id": 17,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 18,
+      "en": "You can also have an exercise routine.",
+      "cn": "你也可以有一个锻炼日常。"
+    },
+    {
+      "id": 19,
+      "en": "So, basically anything with steps.",
+      "cn": "基本上，任何有步骤的事情。"
+    },
+    {
+      "id": 20,
+      "en": "One, two, three, four, five, that you always do the same way.",
+      "cn": "一、二、三、四、五，总是以相同的方式进行。"
+    },
+    {
+      "id": 21,
+      "en": "That's the routine.",
+      "cn": "这就是日常。"
+    },
+    {
+      "id": 22,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 23,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 24,
+      "en": "So, that's what we're going to take a look at today.",
+      "cn": "所以，这就是我们今天要看的内容。"
+    },
+    {
+      "id": 25,
+      "en": "Why don't we jump right into our dialogue and listen to Stephanie's routine.",
+      "cn": "我们为什么不直接进入对话，听听Stephanie的日常。"
+    },
+    {
+      "id": 26,
+      "en": "Stephanie, did you just get to school?",
+      "cn": "Stephanie，你刚到学校吗？"
+    },
+    {
+      "id": 27,
+      "en": "But you were up and about when I left the dorm this morning.",
+      "cn": "但我早上离开宿舍时你已经在忙了。"
+    },
+    {
+      "id": 28,
+      "en": "That was about an hour and a half ago.",
+      "cn": "那是大约一个半小时前。"
+    },
+    {
+      "id": 29,
+      "en": "This happens all the time.",
+      "cn": "这种情况经常发生。"
+    },
+    {
+      "id": 30,
+      "en": "Why do you always take so long to get ready in the mornings?",
+      "cn": "你为什么早上总是花这么长时间准备？"
+    },
+    {
+      "id": 31,
+      "en": "It's a skill.",
+      "cn": "这是一种技能。"
+    },
+    {
+      "id": 32,
+      "en": "What can I say?",
+      "cn": "我能说什么呢？"
+    },
+    {
+      "id": 33,
+      "en": "I don't know why.",
+      "cn": "我不知道为什么。"
+    },
+    {
+      "id": 34,
+      "en": "I just have a long routine.",
+      "cn": "我只是有一个很长的日常。"
+    },
+    {
+      "id": 35,
+      "en": "Please explain because it makes no sense to me.",
+      "cn": "请解释一下，因为我完全不理解。"
+    },
+    {
+      "id": 36,
+      "en": "How can a girl's routine be so complicated?",
+      "cn": "女孩的日常怎么会这么复杂？"
+    },
+    {
+      "id": 37,
+      "en": "You get up, you shower, you get dressed, you brush your teeth, you're out the door.",
+      "cn": "你起床，洗澡，穿衣服，刷牙，出门。"
+    },
+    {
+      "id": 38,
+      "en": "Half an hour tops.",
+      "cn": "最多半小时。"
+    },
+    {
+      "id": 39,
+      "en": "Jacob, you have the luxury of having a haircut that rarely needs styling.",
+      "cn": "Jacob，你有一个几乎不需要打理的发型的奢侈。"
+    },
+    {
+      "id": 40,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 41,
+      "en": "I have to set aside about an hour and a half to get ready in the mornings.",
+      "cn": "我早上需要留出大约一个半小时来准备。"
+    },
+    {
+      "id": 42,
+      "en": "Every day, I wake up and head straight for the shower.",
+      "cn": "每天，我醒来后直接去洗澡。"
+    },
+    {
+      "id": 43,
+      "en": "Every second day, I wash my hair.",
+      "cn": "每隔一天，我洗一次头。"
+    },
+    {
+      "id": 44,
+      "en": "If it's a hair washing day, I frequently need to wash my hair twice because it gets really oily.",
+      "cn": "如果是洗头的日子，我通常需要洗两次，因为头发会变得很油。"
+    },
+    {
+      "id": 45,
+      "en": "Then, I usually put in a conditioner and have to rinse that out too.",
+      "cn": "然后，我通常会涂上护发素，还得冲洗掉。"
+    },
+    {
+      "id": 46,
+      "en": "Because my hair is so long, I seldom manage to take a shower in under 20 minutes.",
+      "cn": "因为我的头发很长，我很少能在20分钟内洗完澡。"
+    },
+    {
+      "id": 47,
+      "en": "Afterwards, I often put on a pot of coffee and get dressed while I wait for it to brew.",
+      "cn": "之后，我通常会煮一壶咖啡，同时穿衣服，等它煮好。"
+    },
+    {
+      "id": 48,
+      "en": "I take a long time to get dressed in the morning.",
+      "cn": "我早上穿衣服花的时间很长。"
+    },
+    {
+      "id": 49,
+      "en": "Every now and then, I remember to choose my outfit the night before, but usually, I do it in the morning.",
+      "cn": "偶尔我会记得前一天晚上选择好衣服，但通常是在早上做的。"
+    },
+    {
+      "id": 50,
+      "en": "In all, getting dressed takes about half an hour, at which time my hair is now semi-dry, so then I have to style my hair.",
+      "cn": "总的来说，穿衣服大约需要半小时，这时我的头发已经半干了，所以我得打理头发。"
+    },
+    {
+      "id": 51,
+      "en": "From time to time, I'll put my hair up, but oftentimes, I blow dry it straight.",
+      "cn": "有时我会把头发扎起来，但通常我会把它吹直。"
+    },
+    {
+      "id": 52,
+      "en": "And then, because of the texture of my hair, I regularly have to flat iron it to keep it from frizzing.",
+      "cn": "然后，由于我头发的质地，我经常需要用平板夹来防止毛躁。"
+    },
+    {
+      "id": 53,
+      "en": "That's another 20 minutes or so.",
+      "cn": "这又要花大约20分钟。"
+    },
+    {
+      "id": 54,
+      "en": "After that, I have my daily makeup routine.",
+      "cn": "之后，我有我的日常化妆程序。"
+    },
+    {
+      "id": 55,
+      "en": "True.",
+      "cn": "确实。"
+    },
+    {
+      "id": 56,
+      "en": "I hardly ever see you without your hair done and your makeup on, even when you show up to class in sweat pants.",
+      "cn": "我几乎从不见你不打理头发和化妆，即使你穿着运动裤来上课。"
+    },
+    {
+      "id": 57,
+      "en": "Tell me, how long does it take you to choose that outfit in the morning?",
+      "cn": "告诉我，早上选择那套衣服要花多长时间？"
+    },
+    {
+      "id": 58,
+      "en": "Not funny.",
+      "cn": "不好笑。"
+    },
+    {
+      "id": 59,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 60,
+      "en": "So obviously, she has a very complicated routine.",
+      "cn": "显然，她的日常非常复杂。"
+    },
+    {
+      "id": 61,
+      "en": "I don't know if all girls are like this.",
+      "cn": "我不知道所有女孩都是这样吗。"
+    },
+    {
+      "id": 62,
+      "en": "I'm not like this, but I think a lot of girls, and some guys are.",
+      "cn": "我不是这样，但我认为很多女孩，甚至一些男孩是。"
+    },
+    {
+      "id": 63,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 64,
+      "en": "I don't want to be sexist here.",
+      "cn": "我不想性别歧视。"
+    },
+    {
+      "id": 65,
+      "en": "I know some guys who take their time in the morning and are very, very particular about the way that they look.",
+      "cn": "我知道一些男孩早上也很花时间，对自己的外表非常讲究。"
+    },
+    {
+      "id": 66,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 67,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 68,
+      "en": "Well, yeah, I imagine everyone has their morning routine in different ways, and it was interesting to see how she described it.",
+      "cn": "嗯，是的，我想每个人的早晨日常都不一样，看到她的描述很有趣。"
+    },
+    {
+      "id": 69,
+      "en": "So, why don't we take a look at language takeaway?",
+      "cn": "那么，我们来看看语言要点吧。"
+    },
+    {
+      "id": 70,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 71,
+      "en": "So, today's language takeaway, like I said at the beginning of the podcast, is all about time.",
+      "cn": "所以，今天的语言要点，正如我在播客开始时所说，都是关于时间的。"
+    },
+    {
+      "id": 72,
+      "en": "So, we're going to look at some of these important time adverbs.",
+      "cn": "所以，我们将看看一些重要的时间副词。"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "These are called adverbs of frequency, and basically, they are telling us how we do things.",
+      "cn": "这些被称为频率副词，基本上是告诉我们我们做事情的频率。"
+    },
+    {
+      "id": 75,
+      "en": "If we do something all the time, or if we never do something.",
+      "cn": "如果我们总是做某事，或者从不做某事。"
+    },
+    {
+      "id": 76,
+      "en": "Or everything in between.",
+      "cn": "或者介于两者之间的所有情况。"
+    },
+    {
+      "id": 77,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 78,
+      "en": "So, the first couple we have today are very, very common words.",
+      "cn": "所以，今天我们有的前几个是非常常见的词。"
+    },
+    {
+      "id": 79,
+      "en": "You're going to hear these a lot.",
+      "cn": "你会经常听到这些。"
+    },
+    {
+      "id": 80,
+      "en": "The first one is frequently.",
+      "cn": "第一个是“经常”。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, frequently.",
+      "cn": "好的，频繁。"
+    },
+    {
+      "id": 82,
+      "en": "So, if you do something frequently, consider it to be about 75% of the time.",
+      "cn": "所以，如果你经常做某事，可以认为是大约75%的时间。"
+    },
+    {
+      "id": 83,
+      "en": "Maybe a little bit more, almost 85% of the time.",
+      "cn": "也许稍微多一点，几乎85%的时间。"
+    },
+    {
+      "id": 84,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 85,
+      "en": "So, it's not always, but it's very often.",
+      "cn": "所以，这不是总是，但很常见。"
+    },
+    {
+      "id": 86,
+      "en": "So, for example, so, I frequently forget to take my keys when I'm leaving the house, which is a very big problem.",
+      "cn": "例如，我经常忘记在离开家时带上钥匙，这个问题很大。"
+    },
+    {
+      "id": 87,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 88,
+      "en": "So, considering out of seven days, maybe you forget your keys five days.",
+      "cn": "所以，考虑到七天中，也许你有五天忘记了钥匙。"
+    },
+    {
+      "id": 89,
+      "en": "Not so good.",
+      "cn": "这可不好。"
+    },
+    {
+      "id": 90,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 91,
+      "en": "So, that's frequently.",
+      "cn": "所以，这就是“经常”。"
+    },
+    {
+      "id": 92,
+      "en": "Now, let's move on to another one that's actually a lot less.",
+      "cn": "现在，让我们继续另一个实际上少得多的。"
+    },
+    {
+      "id": 93,
+      "en": "We talk about seldom.",
+      "cn": "我们谈谈“很少”。"
+    },
+    {
+      "id": 94,
+      "en": "Well, Marco has told me that he seldom forgets his keys.",
+      "cn": "嗯，Marco告诉我他很少忘记钥匙。"
+    },
+    {
+      "id": 95,
+      "en": "That means he almost always remembers them.",
+      "cn": "这意味着他几乎总是记得。"
+    },
+    {
+      "id": 96,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 97,
+      "en": "So, seldom is a negative adverb.",
+      "cn": "所以，“很少”是一个否定副词。"
+    },
+    {
+      "id": 98,
+      "en": "It's saying that almost never.",
+      "cn": "它表示几乎从不。"
+    },
+    {
+      "id": 99,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 100,
+      "en": "So, if I say, for example, I seldom go to the movies.",
+      "cn": "所以，如果我说，例如，我很少去看电影。"
+    },
+    {
+      "id": 101,
+      "en": "That's too bad.",
+      "cn": "真可惜。"
+    },
+    {
+      "id": 102,
+      "en": "I like the movies.",
+      "cn": "我喜欢看电影。"
+    },
+    {
+      "id": 103,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 104,
+      "en": "Well, that means that I maybe go to the movie theater once a month.",
+      "cn": "那么，我可能每个月去一次电影院。"
+    },
+    {
+      "id": 105,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 106,
+      "en": "Not very often.",
+      "cn": "不太常去。"
+    },
+    {
+      "id": 107,
+      "en": "Seldom.",
+      "cn": "很少。"
+    },
+    {
+      "id": 108,
+      "en": "Not very often.",
+      "cn": "不太常去。"
+    },
+    {
+      "id": 109,
+      "en": "Seldom.",
+      "cn": "很少。"
+    },
+    {
+      "id": 110,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 111,
+      "en": "Now, going back to a positive adverb of frequency, we have often.",
+      "cn": "现在，回到一个积极的频率副词，我们有“经常”。"
+    },
+    {
+      "id": 112,
+      "en": "You described frequently as very often.",
+      "cn": "你把“频繁”描述为“非常经常”。"
+    },
+    {
+      "id": 113,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 114,
+      "en": "So, I could also say, I often forget my keys.",
+      "cn": "所以，我也可以说，我经常忘记我的钥匙。"
+    },
+    {
+      "id": 115,
+      "en": "Or, it often rains in tropical places.",
+      "cn": "或者，热带地区经常下雨。"
+    },
+    {
+      "id": 116,
+      "en": "This means this is a common thing.",
+      "cn": "这意味着这是一个常见的事情。"
+    },
+    {
+      "id": 117,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 118,
+      "en": "So, again, let's consider it to be about 70 to 80 percent of the time.",
+      "cn": "所以，再次考虑一下，大约70%到80%的时间。"
+    },
+    {
+      "id": 119,
+      "en": "Now, with pronunciation, some people like to pronounce often, right?",
+      "cn": "现在，在发音方面，有些人喜欢发音“often”，对吧？"
+    },
+    {
+      "id": 120,
+      "en": "They kind of leave out the strong T sound, while other people say often.",
+      "cn": "他们有点省略了强烈的T音，而其他人则说“often”。"
+    },
+    {
+      "id": 121,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 122,
+      "en": "Both forms are correct, right?",
+      "cn": "两种形式都是正确的，对吧？"
+    },
+    {
+      "id": 123,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 124,
+      "en": "They're both correct.",
+      "cn": "它们都是正确的。"
+    },
+    {
+      "id": 125,
+      "en": "So, you're safe using either of these.",
+      "cn": "所以，使用这两种都没问题。"
+    },
+    {
+      "id": 126,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 127,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 128,
+      "en": "And our fourth adverb of frequency is also a positive one, and we say usually.",
+      "cn": "我们的第四个频率副词也是一个积极的，我们说“通常”。"
+    },
+    {
+      "id": 129,
+      "en": "Usually means this is something that you do pretty consistently.",
+      "cn": "“通常”意味着这是你做得相当一致的事情。"
+    },
+    {
+      "id": 130,
+      "en": "I usually brush my hair before I go to sleep.",
+      "cn": "我通常在睡觉前梳理头发。"
+    },
+    {
+      "id": 131,
+      "en": "That means not always, but almost every day.",
+      "cn": "这意味着不是每次，但几乎每天。"
+    },
+    {
+      "id": 132,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 133,
+      "en": "So, let's consider that of seven days, you do it six times.",
+      "cn": "所以，假设在七天中，你做六次。"
+    },
+    {
+      "id": 134,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 135,
+      "en": "I usually do this.",
+      "cn": "我通常这样做。"
+    },
+    {
+      "id": 136,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 137,
+      "en": "So, usually is, again, very, very common.",
+      "cn": "所以，“通常”是非常非常常见的。"
+    },
+    {
+      "id": 138,
+      "en": "And something in between, maybe 60 percent of the time, 50 percent of the time, we say regularly.",
+      "cn": "而在两者之间，可能60%的时间，50%的时间，我们说“定期”。"
+    },
+    {
+      "id": 139,
+      "en": "Well, I think of the word regularly as being very closely related to regular.",
+      "cn": "我认为“定期”这个词与“规律”非常相关。"
+    },
+    {
+      "id": 140,
+      "en": "So, basically, if I have a schedule, I do the same thing every day.",
+      "cn": "所以，基本上，如果我有一个日程，我每天做同样的事情。"
+    },
+    {
+      "id": 141,
+      "en": "I do it regularly.",
+      "cn": "我是定期做的。"
+    },
+    {
+      "id": 142,
+      "en": "But sometimes there's a special occasion.",
+      "cn": "但有时会有特殊的场合。"
+    },
+    {
+      "id": 143,
+      "en": "For example, I regularly run five kilometers after work when I go to the gym.",
+      "cn": "例如，我在下班后去健身房时，定期跑五公里。"
+    },
+    {
+      "id": 144,
+      "en": "But sometimes when I want to go out with my friends, I don't run.",
+      "cn": "但有时当我想和朋友出去时，我就不跑。"
+    },
+    {
+      "id": 145,
+      "en": "So, it's not always, but it is pretty regular.",
+      "cn": "所以，这不是每次，但确实相当规律。"
+    },
+    {
+      "id": 146,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 147,
+      "en": "So, regularly means you do it very often, but there are some exceptions.",
+      "cn": "所以，“定期”意味着你做得非常频繁，但有一些例外。"
+    },
+    {
+      "id": 148,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 149,
+      "en": "Now, those are our adverbs of frequency, but we have a couple of other phrases that are very similar.",
+      "cn": "现在，这些是我们的频率副词，但我们还有几个非常相似的短语。"
+    },
+    {
+      "id": 150,
+      "en": "So, we want to take a look at those as well.",
+      "cn": "所以，我们也想看看这些。"
+    },
+    {
+      "id": 151,
+      "en": "Let's go back to the beginning of Stephanie's routine when she said that every day I wake up.",
+      "cn": "让我们回到斯蒂芬妮的日常生活开始时，她说每天我都醒来。"
+    },
+    {
+      "id": 152,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 153,
+      "en": "So, every day means 100 percent of the time every single day.",
+      "cn": "所以，每天意味着100%的时间，每一天。"
+    },
+    {
+      "id": 154,
+      "en": "Monday to Sunday.",
+      "cn": "从周一到周日。"
+    },
+    {
+      "id": 155,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 156,
+      "en": "So, obviously, you wake up every day.",
+      "cn": "所以，显然，你每天都醒来。"
+    },
+    {
+      "id": 157,
+      "en": "Or I brush my teeth twice every day.",
+      "cn": "或者我每天刷两次牙。"
+    },
+    {
+      "id": 158,
+      "en": "So, that's 100 percent of the time.",
+      "cn": "所以，这就是100%的时间。"
+    },
+    {
+      "id": 159,
+      "en": "Now, if we say every second day, what does that mean?",
+      "cn": "现在，如果我们说“每隔一天”，那是什么意思？"
+    },
+    {
+      "id": 160,
+      "en": "That means Monday yes, Tuesday no, Wednesday yes, Thursday no, or any day.",
+      "cn": "那意味着周一是，周二不是，周三是，周四不是，或任何一天。"
+    },
+    {
+      "id": 161,
+      "en": "So, basically, she says I wash my hair every second day.",
+      "cn": "所以，基本上，她说我每隔一天洗一次头。"
+    },
+    {
+      "id": 162,
+      "en": "That means one day I wash my hair, but the next day I don't.",
+      "cn": "这意味着一天我洗头，第二天我不洗。"
+    },
+    {
+      "id": 163,
+      "en": "The day after that, though, I wash it again.",
+      "cn": "但接下来的一天，我又洗一次。"
+    },
+    {
+      "id": 164,
+      "en": "Every second day.",
+      "cn": "每隔一天。"
+    },
+    {
+      "id": 165,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 166,
+      "en": "So, you can say every second day, and I think you can also say every other day.",
+      "cn": "所以，你可以说每隔一天，我认为你也可以说“每其他一天”。"
+    },
+    {
+      "id": 167,
+      "en": "Every other day.",
+      "cn": "每其他一天。"
+    },
+    {
+      "id": 168,
+      "en": "So, every other day or every second day.",
+      "cn": "所以，每其他一天或每隔一天。"
+    },
+    {
+      "id": 169,
+      "en": "He calls his mother every other day.",
+      "cn": "他每隔一天给母亲打电话。"
+    },
+    {
+      "id": 170,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 171,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 172,
+      "en": "And she also said that every now and then I remember to choose my outfit.",
+      "cn": "她还说，每隔一段时间我记得选择我的服装。"
+    },
+    {
+      "id": 173,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 174,
+      "en": "Well, this one's interesting.",
+      "cn": "这个有趣。"
+    },
+    {
+      "id": 175,
+      "en": "This is not very frequent.",
+      "cn": "这不是很频繁。"
+    },
+    {
+      "id": 176,
+      "en": "This is basically saying sometimes.",
+      "cn": "这基本上是在说有时。"
+    },
+    {
+      "id": 177,
+      "en": "Sometimes.",
+      "cn": "有时。"
+    },
+    {
+      "id": 178,
+      "en": "So, now and then.",
+      "cn": "所以，偶尔。"
+    },
+    {
+      "id": 179,
+      "en": "Every now and then means I sometimes do it, I sometimes don't do it.",
+      "cn": "每隔一段时间意味着我有时这样做，有时不这样做。"
+    },
+    {
+      "id": 180,
+      "en": "Every now and then I really want to eat chocolate, so I buy a candy bar.",
+      "cn": "每隔一段时间我真的想吃巧克力，所以我买了一块糖。"
+    },
+    {
+      "id": 181,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 182,
+      "en": "So, maybe you want to eat chocolate twice in a month.",
+      "cn": "所以，也许你一个月想吃巧克力两次。"
+    },
+    {
+      "id": 183,
+      "en": "Yeah, not very often.",
+      "cn": "是的，不太常见。"
+    },
+    {
+      "id": 184,
+      "en": "Not very often.",
+      "cn": "不太常见。"
+    },
+    {
+      "id": 185,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 186,
+      "en": "And another one that's very similar is from time to time.",
+      "cn": "另一个非常相似的是“时不时”。"
+    },
+    {
+      "id": 187,
+      "en": "So, Marco said that he doesn't go to the movies very frequently, so he goes from time to time.",
+      "cn": "所以，马尔科说他不经常去看电影，所以他时不时去。"
+    },
+    {
+      "id": 188,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 189,
+      "en": "So, I can say, I seldom go to the movies or I can say, I like to go to the movies from time to time.",
+      "cn": "所以，我可以说，我很少去看电影，或者我可以说，我喜欢时不时去看电影。"
+    },
+    {
+      "id": 190,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 191,
+      "en": "Or this girl is describing her appearance.",
+      "cn": "或者这个女孩在描述她的外貌。"
+    },
+    {
+      "id": 192,
+      "en": "She says, from time to time I put my hair up.",
+      "cn": "她说，时不时我会把头发扎起来。"
+    },
+    {
+      "id": 193,
+      "en": "So, that means most of the time.",
+      "cn": "所以，这意味着大部分时间。"
+    },
+    {
+      "id": 194,
+      "en": "That means sometimes it's down, sometimes it's up.",
+      "cn": "这意味着有时是放下的，有时是扎起来的。"
+    },
+    {
+      "id": 195,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 196,
+      "en": "So, as you can see, there are many different ways of describing the frequency or how many times you do certain actions or your routine, right?",
+      "cn": "所以，正如你所看到的，有很多不同的方式来描述频率或你做某些动作或日常的次数，对吧？"
+    },
+    {
+      "id": 197,
+      "en": "So, you can use this with a lot of things when you're describing.",
+      "cn": "所以，当你描述时，你可以用很多东西。"
+    },
+    {
+      "id": 198,
+      "en": "And we encourage you to try some of these new ones because a lot of English learners use the same time adverbs whenever they speak.",
+      "cn": "我们鼓励你尝试一些新的，因为很多英语学习者在说话时使用相同的时间副词。"
+    },
+    {
+      "id": 199,
+      "en": "So, try and really use some of these and challenge yourself.",
+      "cn": "所以，尝试并真正使用一些这些，挑战自己。"
+    },
+    {
+      "id": 200,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 201,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 202,
+      "en": "So, that's all we have for language takeaway.",
+      "cn": "所以，这就是我们语言学习的要点。"
+    },
+    {
+      "id": 203,
+      "en": "Why don't we move on now to fluency builder?",
+      "cn": "我们现在为什么不继续进行流利度训练呢？"
+    },
+    {
+      "id": 204,
+      "en": "Fluency builder.",
+      "cn": "流利度训练。"
+    },
+    {
+      "id": 205,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 206,
+      "en": "So, using some of these adverbs, I could say, I can say, I regularly make a pot of coffee in the morning.",
+      "cn": "所以，使用一些这些副词，我可以说，我每天早上定期煮一壶咖啡。"
+    },
+    {
+      "id": 207,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 208,
+      "en": "So, a pot of coffee.",
+      "cn": "所以，一壶咖啡。"
+    },
+    {
+      "id": 209,
+      "en": "You regularly make a pot of coffee.",
+      "cn": "你定期煮一壶咖啡。"
+    },
+    {
+      "id": 210,
+      "en": "That means you like to drink coffee every day.",
+      "cn": "这意味着你每天都喜欢喝咖啡。"
+    },
+    {
+      "id": 211,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 212,
+      "en": "I always need my cup of coffee in the morning.",
+      "cn": "我早上总是需要我的一杯咖啡。"
+    },
+    {
+      "id": 213,
+      "en": "So, I usually make it first thing.",
+      "cn": "所以，我通常第一件事就是煮咖啡。"
+    },
+    {
+      "id": 214,
+      "en": "So, a pot of coffee, we know what a cup of coffee is, but a pot of coffee, what is a pot?",
+      "cn": "所以，一壶咖啡，我们知道一杯咖啡是什么，但一壶咖啡，什么是一壶？"
+    },
+    {
+      "id": 215,
+      "en": "A pot is basically the container that you use when you brew coffee, when you make it.",
+      "cn": "一壶基本上是你在冲泡咖啡时使用的容器。"
+    },
+    {
+      "id": 216,
+      "en": "So, you put the coffee beans in the machine, and instead of having a cup underneath, you have a bigger container that's a pot.",
+      "cn": "所以，你把咖啡豆放进机器里，而不是在下面放一杯，而是有一个更大的容器，就是一壶。"
+    },
+    {
+      "id": 217,
+      "en": "You can also have a pot of tea.",
+      "cn": "你也可以有一壶茶。"
+    },
+    {
+      "id": 218,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 219,
+      "en": "It's many cups, usually eight or ten cups.",
+      "cn": "通常是八到十杯。"
+    },
+    {
+      "id": 220,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 221,
+      "en": "And remember that verb, to brew coffee.",
+      "cn": "记住那个动词，冲泡咖啡。"
+    },
+    {
+      "id": 222,
+      "en": "I think it's a very nice kind of fancy way of saying making coffee.",
+      "cn": "我觉得这是一个很好的说法，意味着制作咖啡。"
+    },
+    {
+      "id": 223,
+      "en": "Brew a pot of coffee.",
+      "cn": "冲泡一壶咖啡。"
+    },
+    {
+      "id": 224,
+      "en": "I'm brewing some coffee.",
+      "cn": "我正在冲泡咖啡。"
+    },
+    {
+      "id": 225,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 226,
+      "en": "So, apart from coffee and all of these things, let's take a look at some of the specific phrases that she used when she was talking about her hair, because I think her hair is very complicated.",
+      "cn": "除了咖啡和这些东西，让我们看看她在谈论她的头发时使用的一些具体短语，因为我觉得她的头发很复杂。"
+    },
+    {
+      "id": 227,
+      "en": "It is very complicated.",
+      "cn": "确实很复杂。"
+    },
+    {
+      "id": 228,
+      "en": "Sometimes she washes her hair, sometimes she doesn't wash her hair, sometimes she blow dries it straight.",
+      "cn": "有时她洗头，有时不洗，有时她把头发吹直。"
+    },
+    {
+      "id": 229,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 230,
+      "en": "So, to blow dry means that you use a blow dryer.",
+      "cn": "所以，吹干意味着你使用吹风机。"
+    },
+    {
+      "id": 231,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 232,
+      "en": "This is a machine that uses electricity to blow hot air on your hair so that your hair will dry quickly.",
+      "cn": "这是一种使用电力将热空气吹到你头发上的机器，以便你的头发能快速干燥。"
+    },
+    {
+      "id": 233,
+      "en": "But you can blow dry your hair in many ways.",
+      "cn": "但你可以用很多方式吹干头发。"
+    },
+    {
+      "id": 234,
+      "en": "Some people have curly hair, and they have special tools for making their hair curly.",
+      "cn": "有些人有卷发，他们有特殊的工具来让头发卷曲。"
+    },
+    {
+      "id": 235,
+      "en": "But she says she blow dries it straight.",
+      "cn": "但她说她把头发吹直。"
+    },
+    {
+      "id": 236,
+      "en": "That means she makes it straight with the hot air.",
+      "cn": "这意味着她用热空气把头发弄直。"
+    },
+    {
+      "id": 237,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 238,
+      "en": "So, I think the way you do this is you take the blow dryer and a brush, and you brush while you blow dry, right?",
+      "cn": "所以，我认为你这样做的方法是你拿着吹风机和一把刷子，同时吹干和刷头发，对吧？"
+    },
+    {
+      "id": 239,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 240,
+      "en": "Making lines.",
+      "cn": "制造线条。"
+    },
+    {
+      "id": 241,
+      "en": "See, I know a little bit about this.",
+      "cn": "看，我对这个有一点了解。"
+    },
+    {
+      "id": 242,
+      "en": "Even though I don't have long enough hair for this.",
+      "cn": "尽管我没有足够长的头发。"
+    },
+    {
+      "id": 243,
+      "en": "No, I guess... Well, maybe you are secretly one of those guys who has a routine like this woman.",
+      "cn": "不，我想... 好吧，也许你秘密地是那种有像这个女人一样的日常的人。"
+    },
+    {
+      "id": 244,
+      "en": "I don't think I can take this much time in the shower and brushing my hair.",
+      "cn": "我觉得我不能在洗澡和梳头发上花这么多时间。"
+    },
+    {
+      "id": 245,
+      "en": "But moving on, actually, I also know this next phrase.",
+      "cn": "但继续，实际上，我也知道下一个短语。"
+    },
+    {
+      "id": 246,
+      "en": "To flat iron your hair.",
+      "cn": "拉直头发。"
+    },
+    {
+      "id": 247,
+      "en": "Okay, so flat iron is a noun and a verb.",
+      "cn": "好的，所以拉直是名词也是动词。"
+    },
+    {
+      "id": 248,
+      "en": "So I use a flat iron or I can flat iron my hair.",
+      "cn": "所以我使用拉直器，或者我可以拉直我的头发。"
+    },
+    {
+      "id": 249,
+      "en": "This is a tool that we use that's very, very hot.",
+      "cn": "这是我们使用的一个非常非常热的工具。"
+    },
+    {
+      "id": 250,
+      "en": "Think of an iron.",
+      "cn": "想想熨斗。"
+    },
+    {
+      "id": 251,
+      "en": "It's very, very hot.",
+      "cn": "它非常非常热。"
+    },
+    {
+      "id": 252,
+      "en": "And it basically presses my hair and makes it very, very, very thin and flat and straight.",
+      "cn": "它基本上压平我的头发，使其非常非常薄、平坦和直。"
+    },
+    {
+      "id": 253,
+      "en": "Right, so I think people that have straight hair don't need to really flat iron their hair.",
+      "cn": "对，所以我认为有直发的人不需要真的拉直他们的头发。"
+    },
+    {
+      "id": 254,
+      "en": "Nah, but if you have very curly hair, then you need it.",
+      "cn": "不，但如果你有非常卷曲的头发，那你就需要。"
+    },
+    {
+      "id": 255,
+      "en": "So what's the difference?",
+      "cn": "那么有什么区别？"
+    },
+    {
+      "id": 256,
+      "en": "Give us the insight here.",
+      "cn": "给我们一些见解。"
+    },
+    {
+      "id": 257,
+      "en": "Why wouldn't you just blow dry it straight?",
+      "cn": "为什么你不直接吹干它？"
+    },
+    {
+      "id": 258,
+      "en": "Why do you need to flat iron it?",
+      "cn": "为什么你需要拉直它？"
+    },
+    {
+      "id": 259,
+      "en": "Because a flat iron makes it more flat.",
+      "cn": "因为拉直器使它更平。"
+    },
+    {
+      "id": 260,
+      "en": "It makes your hair stick together more and it's much, much, much hotter than a blow dryer.",
+      "cn": "它使你的头发更紧密，温度比吹风机高得多。"
+    },
+    {
+      "id": 261,
+      "en": "Okay, so I guess if you use a blow dryer, then you have puffy hair.",
+      "cn": "好的，所以我想如果你使用吹风机，你的头发就会蓬松。"
+    },
+    {
+      "id": 262,
+      "en": "Or like the next word that she described, frizzy hair.",
+      "cn": "或者像她描述的下一个词，毛躁的头发。"
+    },
+    {
+      "id": 263,
+      "en": "Okay, so the adjective to describe this kind of hair is frizzy.",
+      "cn": "好的，所以形容这种头发的形容词是毛躁的。"
+    },
+    {
+      "id": 264,
+      "en": "For example, when it's very rainy, my hair is frizzy.",
+      "cn": "例如，当天气非常潮湿时，我的头发是毛躁的。"
+    },
+    {
+      "id": 265,
+      "en": "That means that it sticks out.",
+      "cn": "这意味着它会翘起来。"
+    },
+    {
+      "id": 266,
+      "en": "It's very thick and not straight.",
+      "cn": "它非常厚，不直。"
+    },
+    {
+      "id": 267,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 268,
+      "en": "It's not curly, but it's, you know, it's messy.",
+      "cn": "它不是卷曲的，但它是，嗯，有点乱。"
+    },
+    {
+      "id": 269,
+      "en": "It kind of inflates.",
+      "cn": "它有点膨胀。"
+    },
+    {
+      "id": 270,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 271,
+      "en": "It's like a little balloon.",
+      "cn": "就像一个小气球。"
+    },
+    {
+      "id": 272,
+      "en": "But the verb here is to frizz.",
+      "cn": "但这里的动词是毛躁。"
+    },
+    {
+      "id": 273,
+      "en": "So my hair is frizzing.",
+      "cn": "所以我的头发在毛躁。"
+    },
+    {
+      "id": 274,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 275,
+      "en": "And that means that it's getting like this, bigger or inflated.",
+      "cn": "这意味着它变得像这样，更大或膨胀。"
+    },
+    {
+      "id": 276,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 277,
+      "en": "So usually girls who have this problem have it worse during very humid or rainy days.",
+      "cn": "所以通常有这个问题的女孩在非常潮湿或下雨的日子里会更严重。"
+    },
+    {
+      "id": 278,
+      "en": "Not so bad when it's dry.",
+      "cn": "干燥时就没那么糟。"
+    },
+    {
+      "id": 279,
+      "en": "Okay, so I actually have a little bit of frizzy hair.",
+      "cn": "好的，所以我实际上有一点毛躁的头发。"
+    },
+    {
+      "id": 280,
+      "en": "That's why I have to use some sort of hair gel or mousse.",
+      "cn": "这就是为什么我必须使用某种发胶或摩丝。"
+    },
+    {
+      "id": 281,
+      "en": "See, it's not because I'm vain.",
+      "cn": "看，这不是因为我爱美。"
+    },
+    {
+      "id": 282,
+      "en": "It's just because if I don't use this, I'll come in looking like a lion.",
+      "cn": "只是因为如果我不使用这个，我会像狮子一样出现。"
+    },
+    {
+      "id": 283,
+      "en": "And I don't think... I think I might have to insist that that happens sometime soon.",
+      "cn": "我觉得... 我想我可能得坚持一下，看看什么时候会发生。"
+    },
+    {
+      "id": 284,
+      "en": "We can take a picture and put it on our website Englishbot.com.",
+      "cn": "我们可以拍张照片放在我们的网站 Englishbot.com 上。"
+    },
+    {
+      "id": 285,
+      "en": "For sure, for sure.",
+      "cn": "当然，当然。"
+    },
+    {
+      "id": 286,
+      "en": "All right, so why don't we go back and listen to the dialogue one last time.",
+      "cn": "好的，所以我们为什么不回去再听一次对话。"
+    },
+    {
+      "id": 287,
+      "en": "Stephanie, did you just get to school?",
+      "cn": "斯蒂芬妮，你刚到学校吗？"
+    },
+    {
+      "id": 288,
+      "en": "But you were up and about when I left the dorm this morning.",
+      "cn": "但你早上我离开宿舍时已经在外面了。"
+    },
+    {
+      "id": 289,
+      "en": "That was about an hour and a half ago.",
+      "cn": "那大约是一个半小时前。"
+    },
+    {
+      "id": 290,
+      "en": "This happens all the time.",
+      "cn": "这种情况经常发生。"
+    },
+    {
+      "id": 291,
+      "en": "Why do you always take so long to get ready in the mornings?",
+      "cn": "你为什么总是花这么长时间准备？"
+    },
+    {
+      "id": 292,
+      "en": "It's a skill.",
+      "cn": "这是一种技能。"
+    },
+    {
+      "id": 293,
+      "en": "What can I say?",
+      "cn": "我能说什么呢？"
+    },
+    {
+      "id": 294,
+      "en": "I don't know why.",
+      "cn": "我不知道为什么。"
+    },
+    {
+      "id": 295,
+      "en": "I just have a long routine.",
+      "cn": "我只是有一个很长的日常。"
+    },
+    {
+      "id": 296,
+      "en": "Please explain because it makes no sense to me.",
+      "cn": "请解释一下，因为我觉得这没有意义。"
+    },
+    {
+      "id": 297,
+      "en": "How can a girl's routine be so complicated?",
+      "cn": "女孩的日常怎么会这么复杂？"
+    },
+    {
+      "id": 298,
+      "en": "You get up, you shower, you get dressed, you brush your teeth, you're out the door.",
+      "cn": "你起床，洗澡，穿衣服，刷牙，出门。"
+    },
+    {
+      "id": 299,
+      "en": "Half an hour tops.",
+      "cn": "最多半小时。"
+    },
+    {
+      "id": 300,
+      "en": "Jacob, you have the luxury of having a haircut that rarely needs styling.",
+      "cn": "雅各布，你有一个几乎不需要打理的发型。"
+    },
+    {
+      "id": 301,
+      "en": "I don't.",
+      "cn": "我没有。"
+    },
+    {
+      "id": 302,
+      "en": "I have to set aside about an hour and a half to get ready in the mornings.",
+      "cn": "我早上需要留出大约一个半小时来准备。"
+    },
+    {
+      "id": 303,
+      "en": "Every day, I wake up and head straight for the shower.",
+      "cn": "每天，我醒来后直接去洗澡。"
+    },
+    {
+      "id": 304,
+      "en": "Every second day, I wash my hair.",
+      "cn": "每隔一天，我洗一次头发。"
+    },
+    {
+      "id": 305,
+      "en": "If it's a hair washing day, I frequently need to wash my hair twice because it gets really oily.",
+      "cn": "如果是洗头的日子，我通常需要洗两次，因为头发会很油。"
+    },
+    {
+      "id": 306,
+      "en": "Then I usually put in a conditioner and have to rinse that out too.",
+      "cn": "然后我通常会用护发素，还得冲洗掉。"
+    },
+    {
+      "id": 307,
+      "en": "Because my hair is so long, I seldom manage to take a shower in under 20 minutes.",
+      "cn": "因为我的头发很长，我很少能在20分钟内洗完澡。"
+    },
+    {
+      "id": 308,
+      "en": "Afterwards, I often put on a pot of coffee and get dressed while I wait for it to brew.",
+      "cn": "之后，我通常会煮一壶咖啡，同时穿衣服，等咖啡煮好。"
+    },
+    {
+      "id": 309,
+      "en": "I take a long time to get dressed in the morning.",
+      "cn": "我早上穿衣服花的时间很长。"
+    },
+    {
+      "id": 310,
+      "en": "Every now and then I remember to choose my outfit the night before, but usually I do it in the morning.",
+      "cn": "偶尔我会记得前一天晚上选择好衣服，但通常是在早上。"
+    },
+    {
+      "id": 311,
+      "en": "In all, getting dressed takes about half an hour, at which time my hair is now semi-dry, so then I have to style my hair.",
+      "cn": "总的来说，穿衣服大约需要半小时，这时我的头发已经半干了，所以我还得打理头发。"
+    },
+    {
+      "id": 312,
+      "en": "From time to time, I'll put my hair up, but oftentimes I blow dry it straight.",
+      "cn": "有时我会把头发扎起来，但通常我会把它吹直。"
+    },
+    {
+      "id": 313,
+      "en": "And then, because of the texture of my hair, I regularly have to flat iron it to keep it from frizzing.",
+      "cn": "然后，由于我头发的质地，我经常需要用平板夹来防止毛躁。"
+    },
+    {
+      "id": 314,
+      "en": "That's another 20 minutes or so.",
+      "cn": "这又要花20分钟左右。"
+    },
+    {
+      "id": 315,
+      "en": "After that, I have my daily makeup routine.",
+      "cn": "之后，我有我的日常化妆程序。"
+    },
+    {
+      "id": 316,
+      "en": "True, I hardly ever see you without your hair done and your makeup on, even when you show up to class in sweatpants.",
+      "cn": "说实话，我几乎从不见你不打理头发和化妆，即使你穿着运动裤来上课。"
+    },
+    {
+      "id": 317,
+      "en": "Tell me, how long does it take you to choose that outfit in the morning?",
+      "cn": "告诉我，早上选择那套衣服需要多长时间？"
+    },
+    {
+      "id": 318,
+      "en": "Not funny.",
+      "cn": "不好笑。"
+    },
+    {
+      "id": 319,
+      "en": "Alright, so actually talking about morning routines, and we've given you so many tools, I think it would be a great idea if our users came to our site, EnglishPod.com, and posted a part of their morning routine, trying to use as many adverbs of frequency as possible.",
+      "cn": "好吧，实际上谈谈早晨的日常，我们给了你这么多工具，我觉得如果我们的用户来我们的网站，EnglishPod.com，发布他们的一部分早晨日常，尽量使用尽可能多的频率副词，会是个好主意。"
+    },
+    {
+      "id": 320,
+      "en": "That's a great suggestion, and to get you all started, I could give you a little bit of my routine.",
+      "cn": "这是个好建议，为了让大家开始，我可以给你一点我的日常。"
+    },
+    {
+      "id": 321,
+      "en": "Alright, let's hear it.",
+      "cn": "好吧，听听。"
+    },
+    {
+      "id": 322,
+      "en": "Every morning when I wake up, I turn off the alarm, which is very loud, and I take a shower.",
+      "cn": "每天早上我醒来时，我关掉很大的闹钟，然后去洗澡。"
+    },
+    {
+      "id": 323,
+      "en": "I always brush my teeth, and I usually brew a pot of coffee, although sometimes I don't have time to brew my coffee, and I wait until I arrive at my office.",
+      "cn": "我总是刷牙，通常会煮一壶咖啡，虽然有时我没有时间煮咖啡，就等到到达办公室再喝。"
+    },
+    {
+      "id": 324,
+      "en": "I seldom choose the clothes I will wear the night before.",
+      "cn": "我很少在前一天晚上选择要穿的衣服。"
+    },
+    {
+      "id": 325,
+      "en": "I almost always choose them in the morning, and generally I ride my bike to work, but not always.",
+      "cn": "我几乎总是在早上选择，通常我骑自行车上班，但并不总是。"
+    },
+    {
+      "id": 326,
+      "en": "Okay, I think in the winter you seldom ride your bike to work.",
+      "cn": "好吧，我觉得冬天你很少骑自行车上班。"
+    },
+    {
+      "id": 327,
+      "en": "Every once in a while I would.",
+      "cn": "偶尔我会。"
+    },
+    {
+      "id": 328,
+      "en": "Every now and then.",
+      "cn": "有时。"
+    },
+    {
+      "id": 329,
+      "en": "Alright, see?",
+      "cn": "好吧，看到没？"
+    },
+    {
+      "id": 330,
+      "en": "You have a perfect example there of more or less what we expect, but also it would be interesting to see if you have any other type of routine.",
+      "cn": "你有一个完美的例子，基本上是我们所期待的，但如果你有其他类型的日常也会很有趣。"
+    },
+    {
+      "id": 331,
+      "en": "I know some people wake up in the morning, and the first thing they do, they always walk their dog, for example.",
+      "cn": "我知道有些人早上醒来，第一件事就是总是遛狗，比如说。"
+    },
+    {
+      "id": 332,
+      "en": "Oh, that's very nice.",
+      "cn": "哦，那很好。"
+    },
+    {
+      "id": 333,
+      "en": "Other people are very hungry, so they almost always eat right when they wake up.",
+      "cn": "其他人很饿，所以他们几乎总是在醒来时吃东西。"
+    },
+    {
+      "id": 334,
+      "en": "I eat before I brush my teeth.",
+      "cn": "我在刷牙之前吃东西。"
+    },
+    {
+      "id": 335,
+      "en": "Smart, actually.",
+      "cn": "其实很聪明。"
+    },
+    {
+      "id": 336,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 337,
+      "en": "Alright, so we want to hear from you guys.",
+      "cn": "好吧，我们想听听你们的。"
+    },
+    {
+      "id": 338,
+      "en": "Come to EnglishPod.com.",
+      "cn": "来到EnglishPod.com。"
+    },
+    {
+      "id": 339,
+      "en": "We'll see everyone there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 340,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 341,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

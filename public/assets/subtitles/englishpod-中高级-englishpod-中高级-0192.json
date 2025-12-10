@@ -1,0 +1,1219 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0192",
+  "title": "EnglishPod 中高级 0192",
+  "totalSegments": 242,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine.",
+      "cn": "我叫Katherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we have a very weather-focused lesson.",
+      "cn": "今天我们有一节非常关注天气的课程。"
+    },
+    {
+      "id": 5,
+      "en": "It's all about all the horrible things that can happen to you with the weather.",
+      "cn": "这节课讲的是天气可能带来的各种可怕事情。"
+    },
+    {
+      "id": 6,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "So as you know, there are many different types of weather, and not only rain or sunshine, but many other phenomena.",
+      "cn": "正如你所知，天气有很多种类型，不仅仅是雨或阳光，还有许多其他现象。"
+    },
+    {
+      "id": 8,
+      "en": "So we're going to take a look at some of those, but before we go into it, let's take a look at one word on Vocabulary Preview.",
+      "cn": "我们将看看其中一些，但在此之前，让我们先看一个词汇预览。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, so we're talking about extreme weather today.",
+      "cn": "好的，今天我们讨论极端天气。"
+    },
+    {
+      "id": 10,
+      "en": "That's not rain, or drizzle, or sunshine.",
+      "cn": "这不是雨、细雨或阳光。"
+    },
+    {
+      "id": 11,
+      "en": "We're talking about really interesting, unique, and sometimes devastating things that can happen.",
+      "cn": "我们在谈论一些非常有趣、独特，有时甚至是毁灭性的事情。"
+    },
+    {
+      "id": 12,
+      "en": "So today's vocabulary word is armageddon.",
+      "cn": "所以今天的词汇是“末日”。"
+    },
+    {
+      "id": 13,
+      "en": "Alright, so armageddon.",
+      "cn": "好吧，末日。"
+    },
+    {
+      "id": 14,
+      "en": "Now, you've probably seen the movie, Armageddon, so what does this word mean?",
+      "cn": "你可能看过电影《末日》，那么这个词是什么意思呢？"
+    },
+    {
+      "id": 15,
+      "en": "Okay, so this word is a reference to the end of the world.",
+      "cn": "这个词指的是世界的终结。"
+    },
+    {
+      "id": 16,
+      "en": "It means the time when the world will end because of a great catastrophe or a great disaster.",
+      "cn": "它意味着世界因重大灾难而结束的时刻。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, so everyone talks about armageddon.",
+      "cn": "好吧，大家都在谈论末日。"
+    },
+    {
+      "id": 18,
+      "en": "It's mentioned in the Bible, and as you say, it's when the world stops existing.",
+      "cn": "它在《圣经》中提到，正如你所说的，那是世界停止存在的时候。"
+    },
+    {
+      "id": 19,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 20,
+      "en": "So think about that one as we listen to today's dialogue.",
+      "cn": "在我们听今天的对话时，请考虑这一点。"
+    },
+    {
+      "id": 21,
+      "en": "We will be back in a minute to talk about what's going on.",
+      "cn": "我们会在一分钟后回来讨论发生了什么。"
+    },
+    {
+      "id": 22,
+      "en": "Those are the headlines for today, and now for the International Weather Report with Mike Sanderson.",
+      "cn": "这是今天的头条新闻，现在请听Mike Sanderson的国际天气报告。"
+    },
+    {
+      "id": 23,
+      "en": "Thank you, Bob.",
+      "cn": "谢谢你，Bob。"
+    },
+    {
+      "id": 24,
+      "en": "This past week has been the beginning of armageddon for many, as a series of unprecedented meteorological events occurred around the world.",
+      "cn": "上周对许多人来说是末日的开始，因为一系列前所未有的气象事件在全球发生。"
+    },
+    {
+      "id": 25,
+      "en": "In Switzerland, a major avalanche was reported in the Alps.",
+      "cn": "在瑞士，阿尔卑斯山报告了一场重大雪崩。"
+    },
+    {
+      "id": 26,
+      "en": "Fortunately, no one was injured.",
+      "cn": "幸运的是，没有人受伤。"
+    },
+    {
+      "id": 27,
+      "en": "Due to the extreme cold this winter, a blizzard has struck the U.S.",
+      "cn": "由于今年冬天的极端寒冷，美国中西部发生了暴风雪，导致学校和大学的课程暂时取消。"
+    },
+    {
+      "id": 28,
+      "en": "Midwest, causing classes in schools and universities to be temporarily canceled.",
+      "cn": "接下来是拉丁美洲，厄瓜多尔经历了六个月的干旱，这不仅影响了农业，还迫使为整个国家提供电力的水电站关闭。"
+    },
+    {
+      "id": 30,
+      "en": "In Chile, a major earthquake that registered 7.5 on the Richter scale struck the southern region.",
+      "cn": "在智利，一场里氏7.5级的大地震袭击了南部地区。"
+    },
+    {
+      "id": 31,
+      "en": "Losses are reported to be in the billions.",
+      "cn": "损失据报道达数十亿。"
+    },
+    {
+      "id": 32,
+      "en": "Authorities have not yet released an official statement.",
+      "cn": "当局尚未发布官方声明。"
+    },
+    {
+      "id": 33,
+      "en": "Not a great week for the world.",
+      "cn": "这对世界来说不是一个好周。"
+    },
+    {
+      "id": 34,
+      "en": "Any good news?",
+      "cn": "有什么好消息吗？"
+    },
+    {
+      "id": 35,
+      "en": "I'm afraid not, Bob.",
+      "cn": "恐怕没有，Bob。"
+    },
+    {
+      "id": 36,
+      "en": "One of the major volcanoes in Mexico has erupted, causing major floods and landslides in the region.",
+      "cn": "墨西哥的一座主要火山爆发，导致该地区发生严重洪水和山体滑坡。"
+    },
+    {
+      "id": 37,
+      "en": "Meanwhile, Mexico's coast has been hit by Hurricane Liliana, and officials say that all the seismic activity leads them to believe that a Tsunami made hit Central America, affecting Honduras, Guatemala, and Panama.",
+      "cn": "与此同时，墨西哥海岸遭遇了飓风Liliana，官员表示所有的地震活动让他们相信海啸可能袭击中美洲，影响洪都拉斯、危地马拉和巴拿马。"
+    },
+    {
+      "id": 38,
+      "en": "That's all the news we have for today, but stay tuned for updates on the 6 o'clock news.",
+      "cn": "这就是我们今天的所有新闻，但请继续关注六点钟的新闻更新。"
+    },
+    {
+      "id": 39,
+      "en": "Back to you, Bob.",
+      "cn": "回到你那儿，Bob。"
+    },
+    {
+      "id": 40,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 41,
+      "en": "And well, this weather report is not really far from the truth.",
+      "cn": "这个天气报告与事实并不远。"
+    },
+    {
+      "id": 42,
+      "en": "I mean, this kind of stuff happens every day all over the world, right?",
+      "cn": "我是说，这种事情每天都在世界各地发生，对吧？"
+    },
+    {
+      "id": 43,
+      "en": "That's correct.",
+      "cn": "没错。"
+    },
+    {
+      "id": 44,
+      "en": "And unfortunately, it's been happening very frequently in the past couple months.",
+      "cn": "不幸的是，在过去几个月里，这种情况发生得非常频繁。"
+    },
+    {
+      "id": 45,
+      "en": "We've heard of a lot of earthquakes and volcanoes and things like that.",
+      "cn": "我们听说了很多地震和火山等事情。"
+    },
+    {
+      "id": 46,
+      "en": "So this is very valuable stuff when you're trying to talk about current events as well.",
+      "cn": "所以当你试图谈论时事时，这些信息非常有价值。"
+    },
+    {
+      "id": 47,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 48,
+      "en": "So why don't we start now analyzing a couple of different words and phrases on language takeaway.",
+      "cn": "那么我们现在开始分析几个不同的单词和短语吧。"
+    },
+    {
+      "id": 49,
+      "en": "Well, the first vocabulary item we have here is meteorological event.",
+      "cn": "首先我们有的词汇是气象事件。"
+    },
+    {
+      "id": 50,
+      "en": "It's a real mouthful.",
+      "cn": "这真是个舌头的挑战。"
+    },
+    {
+      "id": 51,
+      "en": "It's a long word.",
+      "cn": "这是个长词。"
+    },
+    {
+      "id": 52,
+      "en": "Meteorological.",
+      "cn": "气象的。"
+    },
+    {
+      "id": 53,
+      "en": "So, for example, meteorological means having to do with the weather, something that's related to the weather.",
+      "cn": "例如，气象是指与天气有关的东西。"
+    },
+    {
+      "id": 54,
+      "en": "So, a meteorological event could be rain, snow.",
+      "cn": "所以，气象事件可以是雨、雪。"
+    },
+    {
+      "id": 55,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 56,
+      "en": "So it has to do with meteorology.",
+      "cn": "所以它与气象学有关。"
+    },
+    {
+      "id": 57,
+      "en": "Meteorology is the study of the weather.",
+      "cn": "气象学是研究天气的学科。"
+    },
+    {
+      "id": 58,
+      "en": "And someone who does this is a meteorologist.",
+      "cn": "从事这项工作的人是气象学家。"
+    },
+    {
+      "id": 59,
+      "en": "So usually the weathermen that you see on TV, they're meteorologists.",
+      "cn": "所以通常你在电视上看到的气象员，他们是气象学家。"
+    },
+    {
+      "id": 60,
+      "en": "So let's go now to Marco, our resident meteorologist.",
+      "cn": "现在让我们去找Marco，我们的驻地气象学家。"
+    },
+    {
+      "id": 61,
+      "en": "There we go.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 62,
+      "en": "Our resident meteorologist.",
+      "cn": "我们的驻地气象学家。"
+    },
+    {
+      "id": 63,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 64,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 65,
+      "en": "So meteorological events.",
+      "cn": "所以气象事件。"
+    },
+    {
+      "id": 66,
+      "en": "Now moving on, one of the first events that we're going to look at is an avalanche.",
+      "cn": "现在继续，我们要看的第一个事件是雪崩。"
+    },
+    {
+      "id": 67,
+      "en": "Avalanche.",
+      "cn": "雪崩。"
+    },
+    {
+      "id": 68,
+      "en": "An avalanche has to do with snow.",
+      "cn": "雪崩与雪有关。"
+    },
+    {
+      "id": 69,
+      "en": "This means that when a mountain that has a lot of snow on it, maybe part of that snow breaks off and starts to roll down.",
+      "cn": "这意味着当一座山上有很多雪时，可能有一部分雪脱落并开始滚下山。"
+    },
+    {
+      "id": 70,
+      "en": "You have a wall of snow that comes down.",
+      "cn": "你会看到一堵雪墙下来。"
+    },
+    {
+      "id": 71,
+      "en": "That's an avalanche.",
+      "cn": "这就是雪崩。"
+    },
+    {
+      "id": 72,
+      "en": "That's an avalanche.",
+      "cn": "这就是雪崩。"
+    },
+    {
+      "id": 73,
+      "en": "So you could say, avalanche, when the snow comes down.",
+      "cn": "所以你可以说，雪崩，就是雪下来的时候。"
+    },
+    {
+      "id": 74,
+      "en": "And it's actually very dangerous because people can get buried under the snow.",
+      "cn": "这实际上是非常危险的，因为人们可能会被埋在雪下。"
+    },
+    {
+      "id": 75,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 76,
+      "en": "Alright, so another event that has to do with snow is a blizzard.",
+      "cn": "好的，另一个与雪有关的事件是暴风雪。"
+    },
+    {
+      "id": 77,
+      "en": "Okay, a blizzard is different from an avalanche because an avalanche, maybe it's not snowing, the snow just falls.",
+      "cn": "好的，暴风雪与雪崩不同，因为雪崩可能并不是在下雪，雪只是掉下来。"
+    },
+    {
+      "id": 78,
+      "en": "But in a blizzard, you're talking about a storm of snow.",
+      "cn": "但在暴风雪中，你是在谈论一场雪的风暴。"
+    },
+    {
+      "id": 79,
+      "en": "But it's like a lot of snow coming down from the sky.",
+      "cn": "就是从天空中降下大量的雪。"
+    },
+    {
+      "id": 80,
+      "en": "So much snow that you probably can't see anything.",
+      "cn": "雪下得如此之多，以至于你可能什么也看不见。"
+    },
+    {
+      "id": 81,
+      "en": "There's just white everywhere.",
+      "cn": "到处都是白色。"
+    },
+    {
+      "id": 82,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 83,
+      "en": "Alright, so that's a blizzard.",
+      "cn": "好的，这就是暴风雪。"
+    },
+    {
+      "id": 84,
+      "en": "A lot of, lot of snow coming down from the sky.",
+      "cn": "从天空中降下大量的雪。"
+    },
+    {
+      "id": 85,
+      "en": "Now moving on, the opposite of snow and things being wet is we have a drought.",
+      "cn": "现在继续，雪和潮湿的反面是干旱。"
+    },
+    {
+      "id": 86,
+      "en": "Yeah, this is the opposite of wet, actually.",
+      "cn": "是的，这实际上是潮湿的反面。"
+    },
+    {
+      "id": 87,
+      "en": "So there's no rain in a drought.",
+      "cn": "干旱时没有雨。"
+    },
+    {
+      "id": 88,
+      "en": "A drought means that things are very dry.",
+      "cn": "干旱意味着东西非常干燥。"
+    },
+    {
+      "id": 89,
+      "en": "The land is very dry.",
+      "cn": "土地非常干燥。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, so it's a period of time that there's no snow, there's no water, there's no rain, there's nothing.",
+      "cn": "好的，所以这是一个没有雪、没有水、没有雨、什么都没有的时期。"
+    },
+    {
+      "id": 91,
+      "en": "It's very, very dry.",
+      "cn": "非常非常干燥。"
+    },
+    {
+      "id": 92,
+      "en": "We're going through a drought.",
+      "cn": "我们正在经历干旱。"
+    },
+    {
+      "id": 93,
+      "en": "Correct.",
+      "cn": "正确。"
+    },
+    {
+      "id": 94,
+      "en": "And the problem with a drought is very dangerous is because people cannot grow food in a drought.",
+      "cn": "干旱的问题非常危险，因为人们在干旱中无法种植食物。"
+    },
+    {
+      "id": 95,
+      "en": "And so lots of people starve when this happens.",
+      "cn": "所以当这种情况发生时，很多人会饿死。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so you gotta watch out for a drought.",
+      "cn": "好的，所以你得小心干旱。"
+    },
+    {
+      "id": 97,
+      "en": "Now in this case it not only affected farming, but also we have a hydroelectric power plant that can't work, obviously, because there's no water.",
+      "cn": "在这种情况下，它不仅影响了农业，还有一个水电站显然无法运作，因为没有水。"
+    },
+    {
+      "id": 98,
+      "en": "So hydro means water.",
+      "cn": "所以水电是指水。"
+    },
+    {
+      "id": 99,
+      "en": "Hydroelectric means electricity that is generated by flowing water.",
+      "cn": "水电是指由流动水产生的电力。"
+    },
+    {
+      "id": 100,
+      "en": "And so, for example, a mill, something that turns water on a river is a way to get power from water.",
+      "cn": "例如，水车，利用河水转动的东西，是从水中获取电力的一种方式。"
+    },
+    {
+      "id": 101,
+      "en": "But a hydroelectric project that can give you electricity is maybe like a dam or an electric mill.",
+      "cn": "但是一个可以给你提供电力的水电项目可能就像一个大坝或电厂。"
+    },
+    {
+      "id": 102,
+      "en": "Right, so usually you have these rivers and they just take advantage of the flowing of water to turn some huge turbines and generate power.",
+      "cn": "对，所以通常你会有这些河流，它们利用水流来转动一些巨大的涡轮机并发电。"
+    },
+    {
+      "id": 103,
+      "en": "So that's all we have for now.",
+      "cn": "所以这就是我们现在所拥有的一切。"
+    },
+    {
+      "id": 104,
+      "en": "Why don't we listen to the dialogue again and we'll be back shortly to take a look at some more words.",
+      "cn": "我们为什么不再听一次对话，我们很快会回来看看更多的单词。"
+    },
+    {
+      "id": 105,
+      "en": "Those are the headlines for today.",
+      "cn": "这些是今天的头条新闻。"
+    },
+    {
+      "id": 106,
+      "en": "And now for the International Weather Report with Mike Sanderson.",
+      "cn": "现在是国际天气报告，由迈克·桑德森为您播报。"
+    },
+    {
+      "id": 107,
+      "en": "Thank you, Bob.",
+      "cn": "谢谢你，鲍勃。"
+    },
+    {
+      "id": 108,
+      "en": "This past week has been the beginning of Armageddon for many, as a series of unprecedented meteorological events occurred around the world.",
+      "cn": "上周对许多人来说是世界末日的开始，因为一系列前所未有的气象事件在全球发生。"
+    },
+    {
+      "id": 109,
+      "en": "In Switzerland, a major avalanche was reported in the Alps.",
+      "cn": "在瑞士，阿尔卑斯山报告了一场重大雪崩。"
+    },
+    {
+      "id": 110,
+      "en": "Fortunately, no one was injured.",
+      "cn": "幸运的是，没有人受伤。"
+    },
+    {
+      "id": 111,
+      "en": "Due to the extreme cold this winter, a blizzard has struck the U.S.",
+      "cn": "由于这个冬天的极端寒冷，美国中西部发生了暴风雪，导致学校和大学的课程暂时取消。"
+    },
+    {
+      "id": 112,
+      "en": "Midwest, causing classes in schools and universities to be temporarily canceled.",
+      "cn": "继续谈到拉丁美洲，厄瓜多尔经历了六个月的干旱，这不仅影响了农业，还迫使提供全国电力的水电站关闭。"
+    },
+    {
+      "id": 113,
+      "en": "Moving on to Latin America, Ecuador has suffered a six-month drought that has not only affected farming, but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country.",
+      "cn": "在智利，一场里氏7.5级的大地震袭击了南部地区。"
+    },
+    {
+      "id": 114,
+      "en": "In Chile, a major earthquake that registered 7.5 on the Richter scale struck the southern region.",
+      "cn": "损失据报道达数十亿。"
+    },
+    {
+      "id": 115,
+      "en": "Losses are reported to be in the billions.",
+      "cn": "当局尚未发布官方声明。"
+    },
+    {
+      "id": 116,
+      "en": "Authorities have not yet released an official statement.",
+      "cn": "对世界来说，这不是一个好周。"
+    },
+    {
+      "id": 117,
+      "en": "Not a great week for the world.",
+      "cn": "有什么好消息吗？"
+    },
+    {
+      "id": 118,
+      "en": "Any good news?",
+      "cn": "恐怕没有，鲍勃。"
+    },
+    {
+      "id": 119,
+      "en": "I'm afraid not, Bob.",
+      "cn": "墨西哥的一座主要火山爆发，导致该地区发生重大洪水和山体滑坡。"
+    },
+    {
+      "id": 120,
+      "en": "One of the major volcanoes in Mexico has erupted, causing major floods and landslides in the region.",
+      "cn": "与此同时，墨西哥海岸遭遇了莉莉安娜飓风，官员表示所有的地震活动使他们相信海啸可能袭击中美洲，影响洪都拉斯、危地马拉和巴拿马。"
+    },
+    {
+      "id": 121,
+      "en": "Meanwhile, Mexico's coast has been hit by Hurricane Liliana, and officials say that all the seismic activity leads them to believe that a Tsunami made hit Central America, affecting Honduras, Guatemala, and Panama.",
+      "cn": "这就是我们今天的所有新闻，但请继续关注六点钟的新闻更新。"
+    },
+    {
+      "id": 122,
+      "en": "That's all the news we have for today, but stay tuned for updates on the 6 o'clock news.",
+      "cn": "回到你那儿，鲍勃。"
+    },
+    {
+      "id": 123,
+      "en": "Back to you, Bob.",
+      "cn": "好吧，许多人不幸熟悉的一个词是里氏，或里氏震级。"
+    },
+    {
+      "id": 124,
+      "en": "Well, a word that many people are unfortunately familiar with is Richter, or Richter scale.",
+      "cn": "现在这是很多人正在谈论的事情，因为去年中国四川的地震和最近海地的地震。"
+    },
+    {
+      "id": 125,
+      "en": "And now this is something that a lot of people are talking about right now because of the earthquake in Sichuan, China last year, and the earthquake in Haiti very recently.",
+      "cn": "所以里氏震级，那个大写的R因为它是一个专有名词，是我们用来确定地震的严重程度和大小的一种方式。"
+    },
+    {
+      "id": 126,
+      "en": "And so the Richter scale, that's a big R because it's a proper name, is a way for us to determine how severe, how big the earthquake was.",
+      "cn": "对，所以人们谈论6.0、7.1，这就是在里氏震级上。"
+    },
+    {
+      "id": 127,
+      "en": "Right, so people talk about a 6.0, a 7.1, so that's on the Richter scale.",
+      "cn": "最低是0，最高是10，对吗？"
+    },
+    {
+      "id": 128,
+      "en": "The lowest is 0 and the highest is 10, correct?",
+      "cn": "对，但10似乎是不可能的。"
+    },
+    {
+      "id": 130,
+      "en": "Apparently, and a lot of them are actually underwater, but the very serious ones are maybe 8.0, 7.0.",
+      "cn": "显然，很多地震实际上发生在水下，但非常严重的地震可能是8.0、7.0。"
+    },
+    {
+      "id": 131,
+      "en": "Alright, so Richter scale.",
+      "cn": "好吧，所以里氏震级。"
+    },
+    {
+      "id": 132,
+      "en": "Now, we talked about earthquakes, we talked about snowing.",
+      "cn": "现在，我们谈到了地震，我们谈到了下雪。"
+    },
+    {
+      "id": 133,
+      "en": "Now, let's talk about a volcano.",
+      "cn": "现在，让我们谈谈火山。"
+    },
+    {
+      "id": 134,
+      "en": "A volcano in Mexico has erupted.",
+      "cn": "墨西哥的一座火山爆发了。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, so we've got two words here, volcano.",
+      "cn": "好吧，我们这里有两个词，火山。"
+    },
+    {
+      "id": 136,
+      "en": "A volcano is a mountain that has an opening in the center where lava from the middle of the earth, the center of the earth, can come out.",
+      "cn": "火山是一个中间有开口的山，来自地球中心的熔岩可以从那里喷出。"
+    },
+    {
+      "id": 137,
+      "en": "So it's very dangerous, obviously, because it's very hot.",
+      "cn": "所以这显然是非常危险的，因为它非常热。"
+    },
+    {
+      "id": 138,
+      "en": "But a volcano doesn't open, it erupts.",
+      "cn": "但火山不是打开，而是喷发。"
+    },
+    {
+      "id": 139,
+      "en": "So the verb here that we use with a volcano is to erupt.",
+      "cn": "所以我们用来描述火山的动词是喷发。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, so it doesn't explode, a volcano erupts.",
+      "cn": "好吧，所以它不是爆炸，火山是喷发的。"
+    },
+    {
+      "id": 141,
+      "en": "That means to open violently, very quickly.",
+      "cn": "这意味着剧烈、快速地打开。"
+    },
+    {
+      "id": 142,
+      "en": "Okay, so when this happens, obviously, you have a lot of lava, you have maybe snow that melts, and you have floods and landslides.",
+      "cn": "好吧，所以当这种情况发生时，显然你会有很多熔岩，可能还有融化的雪，以及洪水和山体滑坡。"
+    },
+    {
+      "id": 143,
+      "en": "Okay, landslides.",
+      "cn": "好吧，山体滑坡。"
+    },
+    {
+      "id": 144,
+      "en": "A landslide is one word, but it's made up of two words that you probably already know.",
+      "cn": "山体滑坡是一个词，但它由你可能已经知道的两个词组成。"
+    },
+    {
+      "id": 145,
+      "en": "So land, obviously, it's the ground and things like that, the earth.",
+      "cn": "所以土地，显然是地面和类似的东西，地球。"
+    },
+    {
+      "id": 146,
+      "en": "But a slide is to move down across the ground.",
+      "cn": "但滑动是指在地面上向下移动。"
+    },
+    {
+      "id": 147,
+      "en": "And so a landslide happens when you've got something like lava or water that's pushing all of the earth, all of the ground, down.",
+      "cn": "所以当你有像熔岩或水这样的东西推动所有的土壤、所有的地面向下时，就会发生山体滑坡。"
+    },
+    {
+      "id": 148,
+      "en": "And it's destroying houses and trees and land, and it's very, very destructive.",
+      "cn": "它正在摧毁房屋、树木和土地，非常具有破坏性。"
+    },
+    {
+      "id": 149,
+      "en": "Right, so you usually see this that happens on the side of mountains or on the side of hills where all that land starts to slide down or to go down.",
+      "cn": "对，所以你通常会看到这种情况发生在山的侧面或山丘的侧面，所有的土地开始滑下或向下移动。"
+    },
+    {
+      "id": 150,
+      "en": "And it's very similar to an avalanche, right?",
+      "cn": "这与雪崩非常相似，对吗？"
+    },
+    {
+      "id": 151,
+      "en": "But instead of snow falling down, it's a land.",
+      "cn": "但不是雪在下，而是土地。"
+    },
+    {
+      "id": 152,
+      "en": "Mud and land.",
+      "cn": "泥土和土地。"
+    },
+    {
+      "id": 153,
+      "en": "All right, so we have a landslide.",
+      "cn": "好吧，所以我们有一个山体滑坡。"
+    },
+    {
+      "id": 154,
+      "en": "And because of all the eruptions and the earthquakes, they said that they have a lot of seismic activity.",
+      "cn": "由于所有的喷发和地震，他们说他们有很多地震活动。"
+    },
+    {
+      "id": 155,
+      "en": "This word seismic is something that I've heard a lot recently in movies, like 2012.",
+      "cn": "这个词地震是我最近在电影中听到的很多，比如《2012》。"
+    },
+    {
+      "id": 156,
+      "en": "So seismic means having to do with the movement of the plates under the earth's crust.",
+      "cn": "所以地震是指与地壳下的板块运动有关的。"
+    },
+    {
+      "id": 157,
+      "en": "So, you know, the earth is not everything that we see.",
+      "cn": "所以，你知道，地球并不是我们所看到的一切。"
+    },
+    {
+      "id": 158,
+      "en": "It's also activity, things happening underneath the ground.",
+      "cn": "它还有活动，地下发生的事情。"
+    },
+    {
+      "id": 159,
+      "en": "And so underneath the ground, we have these big plates.",
+      "cn": "所以在地下，我们有这些大板块。"
+    },
+    {
+      "id": 160,
+      "en": "And seismic activity is what happens when these kind of things start to move.",
+      "cn": "地震活动是指这些东西开始移动时发生的事情。"
+    },
+    {
+      "id": 161,
+      "en": "Activity is movement.",
+      "cn": "活动是运动。"
+    },
+    {
+      "id": 162,
+      "en": "And so seismic activity refers to earthquakes and volcanoes, things that are changing under the ground that will affect us.",
+      "cn": "所以地震活动指的是地震和火山，地下发生的变化会影响我们。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, so that's seismic activity.",
+      "cn": "好吧，所以这就是地震活动。"
+    },
+    {
+      "id": 164,
+      "en": "It's pronounced seismic, right?",
+      "cn": "发音是地震，对吗？"
+    },
+    {
+      "id": 165,
+      "en": "Seismic, that's correct.",
+      "cn": "地震，没错。"
+    },
+    {
+      "id": 166,
+      "en": "Seismic.",
+      "cn": "地震。"
+    },
+    {
+      "id": 167,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 168,
+      "en": "And because of all this activity, people say that they may have a Tsunami.",
+      "cn": "由于所有这些活动，人们说他们可能会有海啸。"
+    },
+    {
+      "id": 169,
+      "en": "Well, this doesn't sound very English, does it?",
+      "cn": "嗯，这听起来不太像英语，对吗？"
+    },
+    {
+      "id": 170,
+      "en": "I know, Tsunami.",
+      "cn": "我知道，海啸。"
+    },
+    {
+      "id": 171,
+      "en": "And actually, if you see the spelling, it's with a T, TS.",
+      "cn": "实际上，如果你看到拼写，它是以T、TS开头的。"
+    },
+    {
+      "id": 172,
+      "en": "Right, I think it's a Japanese word, but I'm not positive.",
+      "cn": "对，我认为这是一个日语词，但我不确定。"
+    },
+    {
+      "id": 173,
+      "en": "I think so, too.",
+      "cn": "我也这样认为。"
+    },
+    {
+      "id": 174,
+      "en": "Tsunami is the name that we give to a giant tidal wave.",
+      "cn": "海啸是我们给巨型潮汐波的名称。"
+    },
+    {
+      "id": 175,
+      "en": "So that's a wave of water in the ocean that's very, very dangerous because it can get to 100, 200 feet tall.",
+      "cn": "所以那是海洋中非常危险的水波，可以达到100、200英尺高。"
+    },
+    {
+      "id": 176,
+      "en": "And this means that when it comes down, it can destroy houses, cities, cars, things like that.",
+      "cn": "这意味着当它下来时，它可以摧毁房屋、城市、汽车等。"
+    },
+    {
+      "id": 177,
+      "en": "And there was a very, very famous Tsunami in Southeast Asia in 2004.",
+      "cn": "2004年在东南亚发生了一场非常著名的海啸。"
+    },
+    {
+      "id": 178,
+      "en": "Do you remember that?",
+      "cn": "你还记得吗？"
+    },
+    {
+      "id": 179,
+      "en": "Yeah, in Indonesia, right?",
+      "cn": "是的，在印度尼西亚，对吗？"
+    },
+    {
+      "id": 180,
+      "en": "That's right, in Indonesia and Thailand and Vietnam.",
+      "cn": "没错，在印度尼西亚、泰国和越南。"
+    },
+    {
+      "id": 181,
+      "en": "Yeah, it was intense.",
+      "cn": "是的，真是太强烈了。"
+    },
+    {
+      "id": 182,
+      "en": "It was big.",
+      "cn": "非常大。"
+    },
+    {
+      "id": 183,
+      "en": "And it was also because of an earthquake, right?",
+      "cn": "这也是因为地震，对吗？"
+    },
+    {
+      "id": 184,
+      "en": "I think so.",
+      "cn": "我想是的。"
+    },
+    {
+      "id": 185,
+      "en": "All these earthquakes, they move the earth around, and then all of a sudden, the reaction is that there's water that moves.",
+      "cn": "所有这些地震，它们移动地球，然后突然反应是水开始移动。"
+    },
+    {
+      "id": 186,
+      "en": "It's a huge wave.",
+      "cn": "形成了一个巨大的波。"
+    },
+    {
+      "id": 187,
+      "en": "Yeah, it turned into a wave.",
+      "cn": "是的，变成了一个波。"
+    },
+    {
+      "id": 188,
+      "en": "Yeah, just imagine what happens if you have a bucket of water, and then you start moving the bucket just a little bit, and you see how water starts to splat all over the place.",
+      "cn": "是的，想象一下如果你有一桶水，然后你稍微移动一下桶，你会看到水开始四处飞溅。"
+    },
+    {
+      "id": 189,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 190,
+      "en": "Alright, so Tsunami was our last word for today.",
+      "cn": "好吧，海啸是我们今天的最后一个词。"
+    },
+    {
+      "id": 191,
+      "en": "Why don't we listen to our dialogue again, and we'll be back shortly.",
+      "cn": "我们再听一次对话，然后我们很快会回来。"
+    },
+    {
+      "id": 192,
+      "en": "Those are the headlines for today, and now for the International Weather Report with Mike Sanderson.",
+      "cn": "这些是今天的头条新闻，现在是国际天气报告，由迈克·桑德森为您播报。"
+    },
+    {
+      "id": 193,
+      "en": "Thank you, Bob.",
+      "cn": "谢谢你，鲍勃。"
+    },
+    {
+      "id": 194,
+      "en": "This past week has been the beginning of Armageddon for many, as a series of unprecedented meteorological events occurred around the world.",
+      "cn": "上周对许多人来说是世界末日的开始，因为一系列前所未有的气象事件在全球发生。"
+    },
+    {
+      "id": 195,
+      "en": "In Switzerland, a major avalanche was reported in the Alps.",
+      "cn": "在瑞士，阿尔卑斯山报告了一场重大雪崩。"
+    },
+    {
+      "id": 196,
+      "en": "Fortunately, no one was injured.",
+      "cn": "幸运的是，没有人受伤。"
+    },
+    {
+      "id": 197,
+      "en": "Due to the extreme cold this winter, a blizzard has struck the U.S.",
+      "cn": "由于这个冬天的极端寒冷，美国中西部发生了暴风雪，导致学校和大学的课程暂时取消。"
+    },
+    {
+      "id": 198,
+      "en": "Midwest, causing classes in schools and universities to be temporarily canceled.",
+      "cn": "继续谈到拉丁美洲，厄瓜多尔经历了六个月的干旱，这不仅影响了农业，还迫使提供全国电力的水电站关闭。"
+    },
+    {
+      "id": 199,
+      "en": "Moving on to Latin America, Ecuador has suffered a six-month drought that has not only affected farming, but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country.",
+      "cn": "在智利，一场里氏7.5级的大地震袭击了南部地区。"
+    },
+    {
+      "id": 201,
+      "en": "Losses are reported to be in the billions.",
+      "cn": "损失据报道达数十亿。"
+    },
+    {
+      "id": 202,
+      "en": "Authorities have not yet released an official statement.",
+      "cn": "当局尚未发布官方声明。"
+    },
+    {
+      "id": 203,
+      "en": "Not a great week for the world.",
+      "cn": "这对世界来说不是一个好周。"
+    },
+    {
+      "id": 204,
+      "en": "Any good news?",
+      "cn": "有什么好消息吗？"
+    },
+    {
+      "id": 205,
+      "en": "I'm afraid not, Bob.",
+      "cn": "恐怕没有，鲍勃。"
+    },
+    {
+      "id": 206,
+      "en": "One of the major volcanoes in Mexico has erupted, causing major floods and landslides in the region.",
+      "cn": "墨西哥的一座主要火山爆发，导致该地区发生严重洪水和山体滑坡。"
+    },
+    {
+      "id": 207,
+      "en": "Meanwhile, Mexico's coast has been hit by Hurricane Liliana, and officials say that all the seismic activity leads them to believe that a Tsunami made hit Central America, affecting Honduras, Guatemala, and Panama.",
+      "cn": "与此同时，墨西哥海岸遭遇了莉莉安飓风，官员表示所有的地震活动让他们相信海啸可能袭击中美洲，影响洪都拉斯、危地马拉和巴拿马。"
+    },
+    {
+      "id": 208,
+      "en": "That's all the news we have for today, but stay tuned for updates on the 6 o'clock news.",
+      "cn": "今天的新闻就到这里，但请继续关注六点钟的新闻更新。"
+    },
+    {
+      "id": 209,
+      "en": "Back to you, Bob.",
+      "cn": "回到你那儿，鲍勃。"
+    },
+    {
+      "id": 210,
+      "en": "Marco, these are all pretty terrifying.",
+      "cn": "马尔科，这些都很可怕。"
+    },
+    {
+      "id": 211,
+      "en": "Have you ever experienced a meteorological event like one of the ones that we talked about today?",
+      "cn": "你曾经历过我们今天谈论的气象事件吗？"
+    },
+    {
+      "id": 212,
+      "en": "I've actually lived through three earthquakes.",
+      "cn": "我实际上经历过三次地震。"
+    },
+    {
+      "id": 213,
+      "en": "Like, pretty big ones.",
+      "cn": "像是相当大的地震。"
+    },
+    {
+      "id": 214,
+      "en": "That's because you used to live in Los Angeles.",
+      "cn": "那是因为你曾住在洛杉矶。"
+    },
+    {
+      "id": 215,
+      "en": "So we get them all the time in LA.",
+      "cn": "所以我们在洛杉矶经常会遇到。"
+    },
+    {
+      "id": 216,
+      "en": "Apart from that, I've seen a volcano erupt a couple of times because Ecuador is part of the volcano alley.",
+      "cn": "除此之外，我还见过几次火山爆发，因为厄瓜多尔位于火山走廊。"
+    },
+    {
+      "id": 217,
+      "en": "It's all the Andes Mountains, and it's part of the circle of fire, what they call it.",
+      "cn": "这都是安第斯山脉的一部分，属于所谓的火环。"
+    },
+    {
+      "id": 218,
+      "en": "So we have a couple of different active volcanoes, and from time to time they will start to smoke or spew some lava, but nothing major.",
+      "cn": "所以我们有几座活火山，偶尔会冒烟或喷出一些熔岩，但没有什么大事。"
+    },
+    {
+      "id": 219,
+      "en": "There hasn't been a major catastrophe with the volcanoes.",
+      "cn": "火山没有发生过重大灾难。"
+    },
+    {
+      "id": 220,
+      "en": "Hopefully it won't either.",
+      "cn": "希望也不会有。"
+    },
+    {
+      "id": 221,
+      "en": "Well, and these days they have a lot of equipment, seismic equipment and meteorological equipment, that can help meteorologists to determine when things will happen.",
+      "cn": "嗯，如今他们有很多设备，地震设备和气象设备，可以帮助气象学家判断事情何时会发生。"
+    },
+    {
+      "id": 222,
+      "en": "Like, when a volcano will erupt, or if there will be an earthquake, because they can study the tremors in the ground.",
+      "cn": "比如，火山何时会爆发，或者是否会发生地震，因为他们可以研究地面的震动。"
+    },
+    {
+      "id": 223,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, and I think probably the most famous volcano is... I think it was in Italy, right?",
+      "cn": "是的，我认为最著名的火山是……我想是在意大利，对吧？"
+    },
+    {
+      "id": 225,
+      "en": "Mount Vesuvius.",
+      "cn": "维苏威火山。"
+    },
+    {
+      "id": 226,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 227,
+      "en": "So you've got Mount Vesuvius in Naples, which famously destroyed a number of cities in this ancient civilization, an ancient Roman time.",
+      "cn": "所以你有位于那不勒斯的维苏威火山，它以摧毁古代文明中的多个城市而闻名，古罗马时期。"
+    },
+    {
+      "id": 228,
+      "en": "It was, and what's amazing is that they still have a lot of the buildings, underground, right?",
+      "cn": "是的，令人惊讶的是，他们仍然保留了很多建筑，埋在地下，对吧？"
+    },
+    {
+      "id": 229,
+      "en": "under the ash.",
+      "cn": "在灰烬下。"
+    },
+    {
+      "id": 230,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 231,
+      "en": "Because when all the ash settled, it preserved the bodies like a mummy.",
+      "cn": "因为当所有的灰烬沉淀时，它像木乃伊一样保存了尸体。"
+    },
+    {
+      "id": 232,
+      "en": "That's crazy.",
+      "cn": "真疯狂。"
+    },
+    {
+      "id": 233,
+      "en": "And so you can see the bodies and the things that they, you know, their jewelry and their money, and it's fascinating because it's this horrible, horrible natural disaster, actually helped us in the future learn about this old civilization.",
+      "cn": "所以你可以看到尸体和他们的珠宝、钱财，这很迷人，因为这场可怕的自然灾害实际上帮助我们在未来了解这个古老的文明。"
+    },
+    {
+      "id": 234,
+      "en": "Civilization.",
+      "cn": "文明。"
+    },
+    {
+      "id": 235,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 236,
+      "en": "It's crazy, actually, in Ecuador you can see a huge hole that has like a lake in the middle.",
+      "cn": "其实在厄瓜多尔你可以看到一个巨大的洞，中间有一个湖。"
+    },
+    {
+      "id": 237,
+      "en": "And you're like, oh wow, that's beautiful.",
+      "cn": "你会觉得，哦哇，那真美。"
+    },
+    {
+      "id": 238,
+      "en": "But that's actually caused because the entire mountain just kind of blew the top off, like the cone, because of this major eruption.",
+      "cn": "但那实际上是因为整个山顶被爆炸掉了，就像锥体一样，因为这次重大喷发。"
+    },
+    {
+      "id": 239,
+      "en": "So you can just imagine how powerful these eruptions are.",
+      "cn": "所以你可以想象这些喷发是多么强大。"
+    },
+    {
+      "id": 240,
+      "en": "I can just imagine what it would have been like, Mount Vesuvius.",
+      "cn": "我可以想象维苏威火山的样子。"
+    },
+    {
+      "id": 241,
+      "en": "But anyway, on a brighter note, if you have any questions, any comments, or any stories of your own, maybe you've lived through a typhoon, a hurricane, a tornado, you can come to our website, EnglishPod.com.",
+      "cn": "不过，换个话题，如果你有任何问题、评论或自己的故事，或许你经历过台风、飓风、龙卷风，可以来我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 242,
+      "en": "We hope to see you there.",
+      "cn": "我们希望在那里见到你。"
+    },
+    {
+      "id": 243,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 244,
+      "en": "Bye guys.",
+      "cn": "再见，大家。"
+    },
+    {
+      "id": 245,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

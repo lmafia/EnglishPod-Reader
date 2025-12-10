@@ -1,0 +1,1199 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0117",
+  "title": "EnglishPod 中高级 0117",
+  "totalSegments": 238,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you part 9 of our romantic drama suspense action series, I'm Sorry I Love You.",
+      "cn": "今天我们为您带来浪漫剧悬疑动作系列《对不起，我爱你》的第9部分。"
+    },
+    {
+      "id": 6,
+      "en": "This is actually our penultimate lesson.",
+      "cn": "这实际上是我们的倒数第二课。"
+    },
+    {
+      "id": 7,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 8,
+      "en": "This story will end in part 10, so we're almost done.",
+      "cn": "故事将在第10部分结束，所以我们快要完成了。"
+    },
+    {
+      "id": 9,
+      "en": "What's happening?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 10,
+      "en": "Well, I am pretty excited to find out, so why don't we go straight into the dialogue and catch up with Steven and Veronica.",
+      "cn": "嗯，我很期待知道，所以我们直接进入对话，看看Steven和Veronica的情况。"
+    },
+    {
+      "id": 11,
+      "en": "Veronica, wait.",
+      "cn": "Veronica，等一下。"
+    },
+    {
+      "id": 12,
+      "en": "Come on, honey, get back in the car.",
+      "cn": "来吧，亲爱的，回到车里。"
+    },
+    {
+      "id": 13,
+      "en": "Let's tug it over, okay?",
+      "cn": "我们把事情解决好，好吗？"
+    },
+    {
+      "id": 14,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 15,
+      "en": "I'm tired of your lies.",
+      "cn": "我厌倦了你的谎言。"
+    },
+    {
+      "id": 16,
+      "en": "I don't know who you are anymore.",
+      "cn": "我不知道你现在是谁了。"
+    },
+    {
+      "id": 17,
+      "en": "Veronica, it's me, the man that has and always will love you.",
+      "cn": "Veronica，是我，那个爱你并将永远爱你的人。"
+    },
+    {
+      "id": 18,
+      "en": "I'm sorry that I've lied to you, believe me.",
+      "cn": "对不起，我对你撒谎了，相信我。"
+    },
+    {
+      "id": 19,
+      "en": "It's been hard for me as well, and time and again I've thought of coming clean.",
+      "cn": "这对我也很难，我一次又一次地想要坦白。"
+    },
+    {
+      "id": 20,
+      "en": "But I couldn't put you or my mission at risk.",
+      "cn": "但我不能让你或我的任务处于危险之中。"
+    },
+    {
+      "id": 21,
+      "en": "It's all over now.",
+      "cn": "一切都结束了。"
+    },
+    {
+      "id": 22,
+      "en": "My assignment is complete, and now I have to go back to India.",
+      "cn": "我的任务完成了，现在我必须回到印度。"
+    },
+    {
+      "id": 23,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 24,
+      "en": "Are you kidding?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 25,
+      "en": "Is there anything else I should know before I never see you again?",
+      "cn": "在我再也见不到你之前，还有什么我应该知道的吗？"
+    },
+    {
+      "id": 26,
+      "en": "How could you deceive me like that?",
+      "cn": "你怎么能这样欺骗我？"
+    },
+    {
+      "id": 27,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 28,
+      "en": "Veronica, I know that this isn't the best time, and you probably hate me right now, but I want to be completely forthright with you.",
+      "cn": "Veronica，我知道这不是最好的时机，你现在可能恨我，但我想对你完全坦诚。"
+    },
+    {
+      "id": 29,
+      "en": "I know deep in my heart that you are the best thing that has ever happened to me.",
+      "cn": "我心里深知，你是我生命中发生的最美好的事情。"
+    },
+    {
+      "id": 30,
+      "en": "Veronica, will you marry me?",
+      "cn": "Veronica，你愿意嫁给我吗？"
+    },
+    {
+      "id": 31,
+      "en": "Come with me to India, baby.",
+      "cn": "跟我一起去印度，宝贝。"
+    },
+    {
+      "id": 32,
+      "en": "I can't make it for everything that's happened, but I can promise you my undying love.",
+      "cn": "我无法弥补发生的一切，但我可以向你承诺我不灭的爱。"
+    },
+    {
+      "id": 33,
+      "en": "I will be the most devoted husband, and I will Cherish you always.",
+      "cn": "我会是最忠诚的丈夫，永远珍惜你。"
+    },
+    {
+      "id": 34,
+      "en": "Steven, I can't just leave everything at the drop of a hat.",
+      "cn": "Steven，我不能就这样抛下所有。"
+    },
+    {
+      "id": 35,
+      "en": "With everything that has happened between us, I just don't know you anymore.",
+      "cn": "在我们之间发生的一切之后，我真的不再认识你了。"
+    },
+    {
+      "id": 36,
+      "en": "I just can't build a relationship on a foundation of lies.",
+      "cn": "我无法在谎言的基础上建立关系。"
+    },
+    {
+      "id": 37,
+      "en": "I do love you, but I can't go with you.",
+      "cn": "我爱你，但我不能和你在一起。"
+    },
+    {
+      "id": 38,
+      "en": "I'm sorry.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 39,
+      "en": "I love you.",
+      "cn": "我爱你。"
+    },
+    {
+      "id": 40,
+      "en": "This is the last call for flight A15 from Los Angeles to Hyderabad.",
+      "cn": "这是从洛杉矶飞往海得拉巴的航班A15的最后召唤。"
+    },
+    {
+      "id": 41,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 42,
+      "en": "We can't wait any longer.",
+      "cn": "我们不能再等了。"
+    },
+    {
+      "id": 43,
+      "en": "You must board the plane.",
+      "cn": "你必须登机。"
+    },
+    {
+      "id": 44,
+      "en": "Are you waiting for someone?",
+      "cn": "你在等人吗？"
+    },
+    {
+      "id": 45,
+      "en": "I was, but I don't think she's coming.",
+      "cn": "我在等，但我觉得她不会来了。"
+    },
+    {
+      "id": 46,
+      "en": "All right, so it seems like our poor Steven is going home by himself.",
+      "cn": "好吧，看起来可怜的Steven要独自回家了。"
+    },
+    {
+      "id": 47,
+      "en": "Oh, it's so sad.",
+      "cn": "哦，太伤心了。"
+    },
+    {
+      "id": 48,
+      "en": "I know, he proposed, she didn't accept, and now he's going back to India by himself.",
+      "cn": "我知道，他求婚了，她没有接受，现在他要独自回印度。"
+    },
+    {
+      "id": 49,
+      "en": "You know, I think this must be one of the worst feelings in the world, you know, like wondering if the person you love is going to show up at the last minute and realizing they aren't.",
+      "cn": "你知道，我觉得这可能是世界上最糟糕的感觉之一，就像在最后一刻想知道你爱的人是否会出现，结果发现他们没有。"
+    },
+    {
+      "id": 50,
+      "en": "I think it's very common of movies, you always expect the person to come running and show up, but as you can see, our dialogues are more realistic, so it didn't happen in this occasion.",
+      "cn": "我觉得这在电影中很常见，你总是期待那个人会跑来出现，但正如你所见，我们的对话更现实，所以这次没有发生。"
+    },
+    {
+      "id": 51,
+      "en": "More realistic, okay.",
+      "cn": "更现实，好的。"
+    },
+    {
+      "id": 52,
+      "en": "Anyway, let's not debate that topic.",
+      "cn": "无论如何，我们不讨论这个话题。"
+    },
+    {
+      "id": 53,
+      "en": "Let's go straight into the language now with Language Takeaway.",
+      "cn": "现在让我们直接进入语言学习环节。"
+    },
+    {
+      "id": 54,
+      "en": "Language Takeaway.",
+      "cn": "语言学习。"
+    },
+    {
+      "id": 55,
+      "en": "All right, so today on Language Takeaway, we have six words that we're going to be looking at, and let's get started with the first one.",
+      "cn": "好吧，今天在语言学习中，我们将学习六个单词，让我们开始第一个。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so we've got language about love and language about telling the truth.",
+      "cn": "好的，我们有关于爱的语言和关于说真话的语言。"
+    },
+    {
+      "id": 57,
+      "en": "And the first one is a word about telling the truth.",
+      "cn": "第一个是关于说真话的单词。"
+    },
+    {
+      "id": 58,
+      "en": "So Stephen said, I've thought of coming clean.",
+      "cn": "所以Stephen说，我想要坦白。"
+    },
+    {
+      "id": 59,
+      "en": "Okay, to come clean.",
+      "cn": "好的，坦白。"
+    },
+    {
+      "id": 60,
+      "en": "To come clean.",
+      "cn": "坦白。"
+    },
+    {
+      "id": 61,
+      "en": "Now, if I want to come clean, it means I want to... You want to admit to something or to tell the truth about something you've been hiding.",
+      "cn": "现在，如果我想要坦白，这意味着我想要……你想要承认某事或告诉你一直隐藏的真相。"
+    },
+    {
+      "id": 62,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 63,
+      "en": "Okay, so I want to finally tell the truth or confess.",
+      "cn": "好的，所以我想要最终说出真相或忏悔。"
+    },
+    {
+      "id": 64,
+      "en": "So someone needs to come clean about who stole the chocolate out of the kitchen.",
+      "cn": "所以有人需要坦白是谁从厨房里偷了巧克力。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, come clean.",
+      "cn": "好的，坦白。"
+    },
+    {
+      "id": 66,
+      "en": "So Stephen wanted to come clean on many occasions, but Veronica said, how could you deceive me like that?",
+      "cn": "所以Stephen在很多场合想要坦白，但Veronica说，你怎么能这样欺骗我？"
+    },
+    {
+      "id": 67,
+      "en": "Deceive someone.",
+      "cn": "欺骗某人。"
+    },
+    {
+      "id": 68,
+      "en": "How could you deceive me?",
+      "cn": "你怎么能欺骗我？"
+    },
+    {
+      "id": 69,
+      "en": "So to deceive someone.",
+      "cn": "所以欺骗某人。"
+    },
+    {
+      "id": 70,
+      "en": "All right, to deceive.",
+      "cn": "好的，欺骗。"
+    },
+    {
+      "id": 71,
+      "en": "When you deceive somebody, you make them believe something that is untrue.",
+      "cn": "当你欺骗某人时，你让他们相信不真实的事情。"
+    },
+    {
+      "id": 72,
+      "en": "So you kind of trick them.",
+      "cn": "所以你有点在欺骗他们。"
+    },
+    {
+      "id": 73,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, make them believe or see something that is not really true.",
+      "cn": "好的，让他们相信或看到不真实的事情。"
+    },
+    {
+      "id": 75,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 76,
+      "en": "All right, so that's the verb, to deceive.",
+      "cn": "好的，所以这是动词，欺骗。"
+    },
+    {
+      "id": 77,
+      "en": "Now the noun, the action of doing this is called deception.",
+      "cn": "现在名词，进行这个动作的行为称为欺骗。"
+    },
+    {
+      "id": 78,
+      "en": "It was all a great deception.",
+      "cn": "这完全是一个巨大的欺骗。"
+    },
+    {
+      "id": 79,
+      "en": "Okay, so a big trick, something a big untruth.",
+      "cn": "好的，所以一个大的把戏，某种大的不真实。"
+    },
+    {
+      "id": 80,
+      "en": "You deceived me.",
+      "cn": "你欺骗了我。"
+    },
+    {
+      "id": 81,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 82,
+      "en": "And now the opposite of deceive is to be forthright.",
+      "cn": "现在欺骗的反义词是坦诚。"
+    },
+    {
+      "id": 83,
+      "en": "Forthright.",
+      "cn": "坦诚。"
+    },
+    {
+      "id": 84,
+      "en": "So Stephen wants to be completely forthright with Veronica.",
+      "cn": "所以Stephen想要对Veronica完全坦诚。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, I want to be forthright with you.",
+      "cn": "好的，我想要对你坦诚。"
+    },
+    {
+      "id": 86,
+      "en": "All right, when you are forthright with somebody, you are very honest and truthful with them, right?",
+      "cn": "好的，当你对某人坦诚时，你对他们非常诚实和真实，对吗？"
+    },
+    {
+      "id": 87,
+      "en": "Direct.",
+      "cn": "直接。"
+    },
+    {
+      "id": 88,
+      "en": "You tell them the truth and everything directly.",
+      "cn": "你直接告诉他们真相和一切。"
+    },
+    {
+      "id": 89,
+      "en": "And so you don't like hide it or soften it or anything.",
+      "cn": "所以你不隐藏或软化任何东西。"
+    },
+    {
+      "id": 90,
+      "en": "Very good, so forthright.",
+      "cn": "非常好，所以坦诚。"
+    },
+    {
+      "id": 91,
+      "en": "All right, so three words about honesty.",
+      "cn": "好的，所以关于诚实的三个单词。"
+    },
+    {
+      "id": 92,
+      "en": "Now we've got three words about love for you.",
+      "cn": "现在我们有三个关于爱的单词给你。"
+    },
+    {
+      "id": 93,
+      "en": "So Stephen promised Veronica his undying love.",
+      "cn": "所以Stephen向Veronica承诺了他不灭的爱。"
+    },
+    {
+      "id": 94,
+      "en": "My undying love.",
+      "cn": "我不灭的爱。"
+    },
+    {
+      "id": 95,
+      "en": "My undying love.",
+      "cn": "我不灭的爱。"
+    },
+    {
+      "id": 96,
+      "en": "Now undying.",
+      "cn": "现在不灭。"
+    },
+    {
+      "id": 97,
+      "en": "Well, I think it's pretty easy, right?",
+      "cn": "嗯，我觉得这很简单，对吧？"
+    },
+    {
+      "id": 98,
+      "en": "It won't die.",
+      "cn": "它不会消亡。"
+    },
+    {
+      "id": 99,
+      "en": "It won't die, exactly.",
+      "cn": "它不会消亡，正是如此。"
+    },
+    {
+      "id": 100,
+      "en": "So he's offering her his love forever.",
+      "cn": "所以他向她提供了永恒的爱。"
+    },
+    {
+      "id": 101,
+      "en": "A very romantic phrase.",
+      "cn": "一句非常浪漫的话。"
+    },
+    {
+      "id": 102,
+      "en": "Very romantic.",
+      "cn": "非常浪漫。"
+    },
+    {
+      "id": 103,
+      "en": "And he also promised to be a devoted husband.",
+      "cn": "他还承诺会做一个忠诚的丈夫。"
+    },
+    {
+      "id": 104,
+      "en": "Devoted husband.",
+      "cn": "忠诚的丈夫。"
+    },
+    {
+      "id": 105,
+      "en": "I'll be the most devoted husband.",
+      "cn": "我会是最忠诚的丈夫。"
+    },
+    {
+      "id": 106,
+      "en": "Now this word devoted, what am I saying there?",
+      "cn": "现在这个词忠诚，我在说什么呢？"
+    },
+    {
+      "id": 107,
+      "en": "So as a devoted husband, Stephen really, really would love his wife.",
+      "cn": "作为一个忠诚的丈夫，斯蒂芬真的会非常爱他的妻子。"
+    },
+    {
+      "id": 108,
+      "en": "He'd really look after her well he would put all of his energy into his marriage, right?",
+      "cn": "他会好好照顾她，把所有精力投入到婚姻中，对吧？"
+    },
+    {
+      "id": 109,
+      "en": "Okay, so he would be very committed to her.",
+      "cn": "好的，所以他会非常投入于她。"
+    },
+    {
+      "id": 110,
+      "en": "And work really hard.",
+      "cn": "并且非常努力工作。"
+    },
+    {
+      "id": 111,
+      "en": "Now can I change the noun husband for something else?",
+      "cn": "现在我可以把名词丈夫换成其他东西吗？"
+    },
+    {
+      "id": 112,
+      "en": "Yeah, we can talk about a devoted friend.",
+      "cn": "是的，我们可以谈论一个忠诚的朋友。"
+    },
+    {
+      "id": 113,
+      "en": "Or a devoted father.",
+      "cn": "或者一个忠诚的父亲。"
+    },
+    {
+      "id": 114,
+      "en": "Or a devoted employee.",
+      "cn": "或者一个忠诚的员工。"
+    },
+    {
+      "id": 115,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 116,
+      "en": "And our last word about love.",
+      "cn": "还有我们最后一个关于爱的词。"
+    },
+    {
+      "id": 117,
+      "en": "Well, Stephen also promises to Cherish Veronica.",
+      "cn": "斯蒂芬也承诺会珍惜维罗妮卡。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, I will Cherish you always.",
+      "cn": "好的，我会永远珍惜你。"
+    },
+    {
+      "id": 119,
+      "en": "I will Cherish you always.",
+      "cn": "我会永远珍惜你。"
+    },
+    {
+      "id": 120,
+      "en": "So if I Cherish somebody like my girlfriend, what would that mean?",
+      "cn": "所以如果我珍惜某人，比如我的女朋友，那意味着什么？"
+    },
+    {
+      "id": 121,
+      "en": "That means you hold her in your heart.",
+      "cn": "那意味着你把她放在心里。"
+    },
+    {
+      "id": 122,
+      "en": "Like you really love her and you really respect her and you hold her close in your heart.",
+      "cn": "就像你真的爱她，尊重她，把她紧紧放在心里。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, so I respect her and maybe you don't take that person for granted.",
+      "cn": "好的，所以我尊重她，也许你不会把那个人视为理所当然。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, to Cherish someone.",
+      "cn": "好的，珍惜某人。"
+    },
+    {
+      "id": 125,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 126,
+      "en": "All right, so some nice honesty words, some nice love words.",
+      "cn": "好的，一些美好的诚实词，一些美好的爱情词。"
+    },
+    {
+      "id": 127,
+      "en": "And I think now we can move on to some interesting phrases with Fluency Builder.",
+      "cn": "我想现在我们可以继续一些有趣的短语，使用流利构建者。"
+    },
+    {
+      "id": 128,
+      "en": "All right, so Veronica was upset.",
+      "cn": "好的，维罗妮卡很沮丧。"
+    },
+    {
+      "id": 129,
+      "en": "She didn't want to get in back in the car.",
+      "cn": "她不想再上车。"
+    },
+    {
+      "id": 130,
+      "en": "And Stephen said, let's talk it over, okay?",
+      "cn": "斯蒂芬说，让我们谈谈，好吗？"
+    },
+    {
+      "id": 131,
+      "en": "Let's talk it over.",
+      "cn": "让我们谈谈。"
+    },
+    {
+      "id": 132,
+      "en": "Let's talk it over.",
+      "cn": "让我们谈谈。"
+    },
+    {
+      "id": 133,
+      "en": "To talk something over.",
+      "cn": "讨论某事。"
+    },
+    {
+      "id": 134,
+      "en": "Now if I tell you that I want to talk it over, what am I saying?",
+      "cn": "现在如果我告诉你我想讨论一下，我在说什么？"
+    },
+    {
+      "id": 135,
+      "en": "Well, obviously you want to talk about it, right?",
+      "cn": "嗯，显然你想谈论它，对吧？"
+    },
+    {
+      "id": 136,
+      "en": "But you want to talk about it for some time.",
+      "cn": "但你想花一些时间来谈论它。"
+    },
+    {
+      "id": 137,
+      "en": "To really talk about all of the problems and the issues and everything.",
+      "cn": "真的谈论所有的问题和事情。"
+    },
+    {
+      "id": 138,
+      "en": "So to try and make things clear.",
+      "cn": "所以试着让事情清楚。"
+    },
+    {
+      "id": 139,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 140,
+      "en": "All right, and also when he was confessing he said, time and again I've thought of coming clean.",
+      "cn": "好的，当他在坦白时，他说，我一再想要坦白。"
+    },
+    {
+      "id": 141,
+      "en": "So this phrase time and again.",
+      "cn": "所以这个短语一再。"
+    },
+    {
+      "id": 142,
+      "en": "Time and again.",
+      "cn": "一再。"
+    },
+    {
+      "id": 143,
+      "en": "Time and again.",
+      "cn": "一再。"
+    },
+    {
+      "id": 144,
+      "en": "So that's basically the same as saying again and again or many times.",
+      "cn": "所以这基本上和说一遍又一遍或很多次是一样的。"
+    },
+    {
+      "id": 145,
+      "en": "Right, so time and again I've thought of quitting smoking but never really have done it.",
+      "cn": "对，所以我一再想戒烟，但从未真正做到。"
+    },
+    {
+      "id": 146,
+      "en": "So you've thought many times of doing it.",
+      "cn": "所以你想过很多次去做。"
+    },
+    {
+      "id": 147,
+      "en": "Time and again.",
+      "cn": "一再。"
+    },
+    {
+      "id": 148,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 149,
+      "en": "All right, so let's go to our next phrase.",
+      "cn": "好的，所以让我们去下一个短语。"
+    },
+    {
+      "id": 150,
+      "en": "Now Veronica said, I can't just leave everything at the drop of a hat.",
+      "cn": "现在维罗妮卡说，我不能随便离开一切。"
+    },
+    {
+      "id": 151,
+      "en": "At the drop of a hat.",
+      "cn": "随便离开。"
+    },
+    {
+      "id": 152,
+      "en": "At the drop of a hat.",
+      "cn": "随便离开。"
+    },
+    {
+      "id": 153,
+      "en": "So this is a very interesting and colloquial way of saying immediately.",
+      "cn": "所以这是一个非常有趣和口语化的说法，意思是立即。"
+    },
+    {
+      "id": 154,
+      "en": "So why don't we hear a few examples of how this is used in English.",
+      "cn": "那么我们为什么不听几个例子，看看这个在英语中是如何使用的。"
+    },
+    {
+      "id": 155,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 156,
+      "en": "My boss expects me to come into work at the drop of a hat.",
+      "cn": "我老板希望我随时上班。"
+    },
+    {
+      "id": 157,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 158,
+      "en": "Laura is always willing to help me at the drop of a hat.",
+      "cn": "劳拉总是愿意随时帮助我。"
+    },
+    {
+      "id": 159,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 160,
+      "en": "I can't leave at the drop of a hat.",
+      "cn": "我不能随便离开。"
+    },
+    {
+      "id": 161,
+      "en": "I need time to prepare.",
+      "cn": "我需要时间准备。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, so as you can see you can change it for different things, but basically you're saying I can't do something immediately.",
+      "cn": "好的，正如你所看到的，你可以把它换成不同的事情，但基本上你在说我不能立即做某事。"
+    },
+    {
+      "id": 163,
+      "en": "Yeah, and it is almost always attached to this idea of doing something or going somewhere, being somewhere.",
+      "cn": "是的，它几乎总是与做某事或去某地、在某地的想法相连。"
+    },
+    {
+      "id": 164,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 165,
+      "en": "At the drop of a hat.",
+      "cn": "随便离开。"
+    },
+    {
+      "id": 166,
+      "en": "All right, now our final phrase here for this lesson.",
+      "cn": "好的，现在我们这一课的最后一个短语。"
+    },
+    {
+      "id": 167,
+      "en": "So Veronica was saying, I can't go to India at the drop of a hat.",
+      "cn": "所以维罗妮卡说，我不能随便去印度。"
+    },
+    {
+      "id": 168,
+      "en": "And she also said, I just can't build a relationship on a foundation of lies.",
+      "cn": "她还说，我不能在谎言的基础上建立关系。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, a foundation of lies.",
+      "cn": "好的，谎言的基础。"
+    },
+    {
+      "id": 170,
+      "en": "To build something on a foundation of lies.",
+      "cn": "在谎言的基础上建立某物。"
+    },
+    {
+      "id": 171,
+      "en": "Now this is interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 172,
+      "en": "Let's take a look at this.",
+      "cn": "让我们看看这个。"
+    },
+    {
+      "id": 173,
+      "en": "A foundation, what is that?",
+      "cn": "基础，是什么？"
+    },
+    {
+      "id": 174,
+      "en": "Well, you know you have a house, right?",
+      "cn": "嗯，你知道你有一栋房子，对吧？"
+    },
+    {
+      "id": 175,
+      "en": "And the part that's in the ground that supports the house is the foundation.",
+      "cn": "而在地面上支撑房子的部分就是基础。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, so it supports the entire structure.",
+      "cn": "好的，所以它支撑整个结构。"
+    },
+    {
+      "id": 177,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 178,
+      "en": "So here she refers to the lies as the foundation.",
+      "cn": "所以在这里她把谎言称为基础。"
+    },
+    {
+      "id": 179,
+      "en": "And that's no way to start a strong relationship, is it?",
+      "cn": "这不是建立强大关系的方式，是吗？"
+    },
+    {
+      "id": 180,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 181,
+      "en": "So we use it metaphorically in this way, but we can always, but we always have to say it, but we always have to use the verb build.",
+      "cn": "所以我们以这种方式隐喻地使用它，但我们总是必须说，必须使用动词建立。"
+    },
+    {
+      "id": 182,
+      "en": "Okay, so it's basically to make something on a base of something else, right?",
+      "cn": "好的，所以基本上是以某物为基础来制作某物，对吧？"
+    },
+    {
+      "id": 183,
+      "en": "So for example, a strong relationship is built on a foundation of trust.",
+      "cn": "例如，一个强大的关系是建立在信任的基础上的。"
+    },
+    {
+      "id": 184,
+      "en": "Or this country was built on a foundation of Liberty.",
+      "cn": "或者这个国家是建立在自由的基础上的。"
+    },
+    {
+      "id": 185,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 186,
+      "en": "So always use foundation with built.",
+      "cn": "所以总是与建立一起使用基础。"
+    },
+    {
+      "id": 187,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 188,
+      "en": "Very interesting.",
+      "cn": "非常有趣。"
+    },
+    {
+      "id": 189,
+      "en": "And well, I think we should listen to this dialogue for the last time, and then we'll come back and talk a little bit more about Veronica and Steven.",
+      "cn": "我想我们应该最后听一次这个对话，然后我们再回来谈谈维罗妮卡和斯蒂芬。"
+    },
+    {
+      "id": 190,
+      "en": "Veronica, wait.",
+      "cn": "维罗妮卡，等一下。"
+    },
+    {
+      "id": 191,
+      "en": "Come on, honey, get back in the car.",
+      "cn": "来吧，亲爱的，回到车里。"
+    },
+    {
+      "id": 192,
+      "en": "Let's talk it over, okay?",
+      "cn": "让我们谈谈，好吗？"
+    },
+    {
+      "id": 193,
+      "en": "No, I'm tired of your lies.",
+      "cn": "不，我厌倦了你的谎言。"
+    },
+    {
+      "id": 194,
+      "en": "I don't know who you are anymore.",
+      "cn": "我不知道你现在是谁。"
+    },
+    {
+      "id": 195,
+      "en": "Veronica, it's me, the man that has and always will love you.",
+      "cn": "维罗妮卡，是我，那个爱你并将永远爱你的人。"
+    },
+    {
+      "id": 196,
+      "en": "I'm sorry that I've lied to you, believe me.",
+      "cn": "我很抱歉我对你撒谎，相信我。"
+    },
+    {
+      "id": 197,
+      "en": "It's been hard for me as well, and time and again I've thought of coming clean.",
+      "cn": "对我来说也很难，一再想要坦白。"
+    },
+    {
+      "id": 198,
+      "en": "But I couldn't put you or my mission at risk.",
+      "cn": "但我不能让你或我的任务处于危险之中。"
+    },
+    {
+      "id": 199,
+      "en": "It's all over now.",
+      "cn": "一切都结束了。"
+    },
+    {
+      "id": 200,
+      "en": "My assignment is complete, and now I have to go back to India.",
+      "cn": "我的任务完成了，现在我必须回到印度。"
+    },
+    {
+      "id": 201,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 202,
+      "en": "Are you kidding?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 203,
+      "en": "Is there anything else I should know before I never see you again?",
+      "cn": "在我再也见不到你之前，还有什么我应该知道的吗？"
+    },
+    {
+      "id": 204,
+      "en": "How could you deceive me like that?",
+      "cn": "你怎么能这样欺骗我？"
+    },
+    {
+      "id": 205,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 206,
+      "en": "Veronica, I know that this isn't the best time, and you probably hate me right now, but I want to be completely forthright with you.",
+      "cn": "维罗妮卡，我知道这不是最好的时机，你现在可能恨我，但我想对你完全坦诚。"
+    },
+    {
+      "id": 207,
+      "en": "I know deep in my heart that you are the best thing that has ever happened to me.",
+      "cn": "我心里深处知道，你是我生命中发生的最美好的事情。"
+    },
+    {
+      "id": 208,
+      "en": "Veronica, will you marry me?",
+      "cn": "维罗妮卡，你愿意嫁给我吗？"
+    },
+    {
+      "id": 209,
+      "en": "Come with me to India, baby.",
+      "cn": "跟我去印度吧，宝贝。"
+    },
+    {
+      "id": 210,
+      "en": "I can't make it for everything that's happened, but I can promise you my undying love.",
+      "cn": "我无法弥补发生的一切，但我可以向你承诺我永恒的爱。"
+    },
+    {
+      "id": 211,
+      "en": "I will be the most devoted husband, and I will Cherish you always.",
+      "cn": "我会是最忠诚的丈夫，永远珍惜你。"
+    },
+    {
+      "id": 212,
+      "en": "Steven, I can't just leave everything at the drop of a hat.",
+      "cn": "史蒂文，我不能就这样抛下所有。"
+    },
+    {
+      "id": 213,
+      "en": "With everything that has happened between us, I just don't know you anymore.",
+      "cn": "在我们之间发生的一切之后，我真的不再认识你了。"
+    },
+    {
+      "id": 214,
+      "en": "I just can't build a relationship on a foundation of lies.",
+      "cn": "我无法在谎言的基础上建立关系。"
+    },
+    {
+      "id": 215,
+      "en": "I do love you, but I can't go with you.",
+      "cn": "我确实爱你，但我不能和你在一起。"
+    },
+    {
+      "id": 216,
+      "en": "I'm sorry.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 217,
+      "en": "I love you.",
+      "cn": "我爱你。"
+    },
+    {
+      "id": 218,
+      "en": "This.",
+      "cn": "这。"
+    },
+    {
+      "id": 219,
+      "en": "is the last call for flight A15 from Los Angeles to Hyderabad.",
+      "cn": "是从洛杉矶飞往海得拉巴的航班A15的最后通告。"
+    },
+    {
+      "id": 220,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 221,
+      "en": "We can't wait any longer.",
+      "cn": "我们不能再等了。"
+    },
+    {
+      "id": 222,
+      "en": "You must board the plane.",
+      "cn": "你必须登机。"
+    },
+    {
+      "id": 223,
+      "en": "Are you waiting for someone?",
+      "cn": "你在等人吗？"
+    },
+    {
+      "id": 224,
+      "en": "I was, but I don't think she's coming.",
+      "cn": "我在等，但我觉得她不会来了。"
+    },
+    {
+      "id": 225,
+      "en": "So Marco, I think I see a bit of a tear there in the corner of your eye.",
+      "cn": "所以马尔科，我觉得我看到你眼角有一点泪水。"
+    },
+    {
+      "id": 226,
+      "en": "I'm very sad.",
+      "cn": "我很伤心。"
+    },
+    {
+      "id": 227,
+      "en": "I can't believe he proposed, and she just said no, just like that.",
+      "cn": "我无法相信他求婚了，而她就这样拒绝了。"
+    },
+    {
+      "id": 228,
+      "en": "That's not supposed to happen.",
+      "cn": "这不应该发生。"
+    },
+    {
+      "id": 229,
+      "en": "And plus, he was inviting her to India and exotic getaway and promising... Exotic getaway for the rest of her life.",
+      "cn": "而且，他还邀请她去印度，承诺... 终生的异国度假。"
+    },
+    {
+      "id": 230,
+      "en": "Well, what do you think will happen?",
+      "cn": "那么，你觉得会发生什么？"
+    },
+    {
+      "id": 231,
+      "en": "Part 10, it all ends.",
+      "cn": "第10部分，一切结束。"
+    },
+    {
+      "id": 232,
+      "en": "So do you think they all just keep on living their separate lives?",
+      "cn": "你觉得他们会继续过各自的生活吗？"
+    },
+    {
+      "id": 233,
+      "en": "Will they meet again?",
+      "cn": "他们会再见面吗？"
+    },
+    {
+      "id": 234,
+      "en": "Who knows?",
+      "cn": "谁知道呢？"
+    },
+    {
+      "id": 235,
+      "en": "Come to our website and tell us what you think will happen.",
+      "cn": "来我们的网站告诉我们你认为会发生什么。"
+    },
+    {
+      "id": 236,
+      "en": "So you can find us at EnglishPod.com.",
+      "cn": "所以你可以在EnglishPod.com找到我们。"
+    },
+    {
+      "id": 237,
+      "en": "All right, don't miss our finale of this lesson.",
+      "cn": "好吧，不要错过我们这节课的结局。"
+    },
+    {
+      "id": 238,
+      "en": "And until next time, we'll see you guys there.",
+      "cn": "下次见，我们在那里见。"
+    }
+  ]
+}

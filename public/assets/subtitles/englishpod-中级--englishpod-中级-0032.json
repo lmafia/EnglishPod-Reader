@@ -1,0 +1,1179 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0032",
+  "title": "EnglishPod 中级 0032",
+  "totalSegments": 234,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another great lesson with EnglishPod.",
+      "cn": "欢迎回到另一个精彩的EnglishPod课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you another great lesson about being at the bank.",
+      "cn": "今天我们将为您带来关于银行的精彩课程。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We've got an intermediate lesson for you today with lots of great language to help you open a bank account.",
+      "cn": "今天我们有一节中级课程，包含很多有用的语言，帮助您开设银行账户。"
+    },
+    {
+      "id": 8,
+      "en": "Okay, so let's look at our vocabulary preview today.",
+      "cn": "好的，让我们看看今天的词汇预览。"
+    },
+    {
+      "id": 9,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 10,
+      "en": "Two words today.",
+      "cn": "今天两个词。"
+    },
+    {
+      "id": 11,
+      "en": "The first one is checking account.",
+      "cn": "第一个是支票账户。"
+    },
+    {
+      "id": 12,
+      "en": "A checking account.",
+      "cn": "一个支票账户。"
+    },
+    {
+      "id": 13,
+      "en": "Checking account.",
+      "cn": "支票账户。"
+    },
+    {
+      "id": 14,
+      "en": "So what is a checking account?",
+      "cn": "那么，什么是支票账户？"
+    },
+    {
+      "id": 15,
+      "en": "Well, it's a type of bank account that lets you do your day-to-day or daily banking.",
+      "cn": "这是一个让您进行日常银行业务的银行账户。"
+    },
+    {
+      "id": 16,
+      "en": "So it's the normal bank account that you use to go shopping, that you use to pay your bills.",
+      "cn": "所以这是您用来购物和支付账单的普通银行账户。"
+    },
+    {
+      "id": 17,
+      "en": "Yep, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 18,
+      "en": "The opposite and our second word is savings account.",
+      "cn": "相对的，第二个词是储蓄账户。"
+    },
+    {
+      "id": 19,
+      "en": "A savings account.",
+      "cn": "一个储蓄账户。"
+    },
+    {
+      "id": 20,
+      "en": "So a savings account is to...?",
+      "cn": "那么储蓄账户是用来...?"
+    },
+    {
+      "id": 21,
+      "en": "It's a bank account where you save your money.",
+      "cn": "这是一个您存钱的银行账户。"
+    },
+    {
+      "id": 22,
+      "en": "To save money, right?",
+      "cn": "用来存钱，对吧？"
+    },
+    {
+      "id": 23,
+      "en": "So usually you don't touch the money in this account.",
+      "cn": "所以通常您不会动用这个账户里的钱。"
+    },
+    {
+      "id": 24,
+      "en": "Yeah, usually it stays in there.",
+      "cn": "是的，通常它会留在里面。"
+    },
+    {
+      "id": 25,
+      "en": "Right, so usually banks will have these two types of accounts.",
+      "cn": "对，所以通常银行会有这两种类型的账户。"
+    },
+    {
+      "id": 26,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 27,
+      "en": "Checking and savings.",
+      "cn": "支票和储蓄。"
+    },
+    {
+      "id": 28,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 29,
+      "en": "Let's listen to our dialogue a first time now.",
+      "cn": "现在让我们第一次听对话。"
+    },
+    {
+      "id": 30,
+      "en": "Right, well today we're at a bank and we're going to listen as a man is opening a bank account.",
+      "cn": "好的，今天我们在一家银行，我们将听一个人开设银行账户。"
+    },
+    {
+      "id": 31,
+      "en": "The dialogue is going to be spoken at a normal speed, so it might be a little bit fast.",
+      "cn": "对话将以正常速度进行，所以可能会有点快。"
+    },
+    {
+      "id": 32,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 33,
+      "en": "But don't worry about it because we'll come back and explain everything.",
+      "cn": "但不用担心，因为我们会回来解释一切。"
+    },
+    {
+      "id": 34,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 35,
+      "en": "Next, please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 36,
+      "en": "May I help you, sir?",
+      "cn": "请问我能帮您吗，先生？"
+    },
+    {
+      "id": 37,
+      "en": "Hello, yes, I'd like to open a bank account.",
+      "cn": "你好，是的，我想开一个银行账户。"
+    },
+    {
+      "id": 38,
+      "en": "Certainly, I can help you with that.",
+      "cn": "当然，我可以帮您。"
+    },
+    {
+      "id": 39,
+      "en": "What type of account would you like to open?",
+      "cn": "您想开哪种账户？"
+    },
+    {
+      "id": 40,
+      "en": "A checking or a saving account?",
+      "cn": "支票账户还是储蓄账户？"
+    },
+    {
+      "id": 41,
+      "en": "What features do they offer?",
+      "cn": "它们提供什么功能？"
+    },
+    {
+      "id": 42,
+      "en": "Well, if you just take a look here, see, with our checking account, you can have unlimited daily transactions for a small monthly fee.",
+      "cn": "嗯，如果您看看这里，您会看到我们的支票账户，您可以享受无限的日常交易，只需支付少量月费。"
+    },
+    {
+      "id": 43,
+      "en": "And our savings account has a higher interest rate.",
+      "cn": "而我们的储蓄账户则有更高的利率。"
+    },
+    {
+      "id": 44,
+      "en": "But you must carry a minimum balance of $10,000.",
+      "cn": "但您必须保持最低余额为10,000美元。"
+    },
+    {
+      "id": 45,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 46,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "cn": "嗯，我想我更感兴趣的是支票账户。"
+    },
+    {
+      "id": 47,
+      "en": "I'd like to have easy access to my money.",
+      "cn": "我想方便地访问我的钱。"
+    },
+    {
+      "id": 48,
+      "en": "All right, then.",
+      "cn": "好的，那么。"
+    },
+    {
+      "id": 49,
+      "en": "With this checking account, you'll be issued a debit card and a checkbook.",
+      "cn": "使用这个支票账户，您将获得一张借记卡和一本支票簿。"
+    },
+    {
+      "id": 50,
+      "en": "Will you require overdraft protection?",
+      "cn": "您需要透支保护吗？"
+    },
+    {
+      "id": 51,
+      "en": "There is an extra fee for that.",
+      "cn": "这会有额外费用。"
+    },
+    {
+      "id": 52,
+      "en": "No, that won't be necessary.",
+      "cn": "不，这没有必要。"
+    },
+    {
+      "id": 53,
+      "en": "In that case, I'll get you to fill out this paperwork.",
+      "cn": "在这种情况下，我会让您填写这份文件。"
+    },
+    {
+      "id": 54,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "cn": "我需要您的社会保险号码和两份政府身份证明。"
+    },
+    {
+      "id": 55,
+      "en": "If.",
+      "cn": "如果。"
+    },
+    {
+      "id": 56,
+      "en": "you could just sign here, and here, and here, we'll be all set.",
+      "cn": "您可以在这里、这里和这里签名，我们就可以了。"
+    },
+    {
+      "id": 57,
+      "en": "Would you like to make a deposit today?",
+      "cn": "您今天想存款吗？"
+    },
+    {
+      "id": 58,
+      "en": "Yes, I'd like to deposit one billion dollars!",
+      "cn": "是的，我想存一亿美元！"
+    },
+    {
+      "id": 59,
+      "en": "One billion dollars!",
+      "cn": "一亿美元！"
+    },
+    {
+      "id": 60,
+      "en": "All right, one billion dollars.",
+      "cn": "好的，一亿美元。"
+    },
+    {
+      "id": 61,
+      "en": "That's a weird laugh.",
+      "cn": "这是个奇怪的笑声。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, let's look at language takeaway today.",
+      "cn": "好的，让我们看看今天的语言要点。"
+    },
+    {
+      "id": 63,
+      "en": "Today we've got four words for you in language takeaway, all about money and banking.",
+      "cn": "今天我们有四个与钱和银行相关的词汇要点。"
+    },
+    {
+      "id": 64,
+      "en": "The first one that we have today is transaction.",
+      "cn": "我们今天的第一个词是交易。"
+    },
+    {
+      "id": 65,
+      "en": "So we have some great examples that will help you understand what a transaction is, so let's listen.",
+      "cn": "我们有一些很好的例子，可以帮助您理解什么是交易，所以让我们听听。"
+    },
+    {
+      "id": 66,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 67,
+      "en": "I need a record of my most recent bank transactions.",
+      "cn": "我需要我最近的银行交易记录。"
+    },
+    {
+      "id": 68,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 69,
+      "en": "There is no fee for bank transactions done online.",
+      "cn": "在线进行的银行交易没有费用。"
+    },
+    {
+      "id": 70,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, we've deposited your money.",
+      "cn": "好的，我们已经存入了您的钱。"
+    },
+    {
+      "id": 72,
+      "en": "Would you like to make another transaction today?",
+      "cn": "您今天想进行另一个交易吗？"
+    },
+    {
+      "id": 73,
+      "en": "So basically I can understand that a transaction is moving money around in your bank account.",
+      "cn": "所以基本上我可以理解，交易就是在您的银行账户中移动资金。"
+    },
+    {
+      "id": 74,
+      "en": "Right, it's taking money from your bank account and putting it in another account or just taking it to spend, whatever.",
+      "cn": "对，就是从您的银行账户中取钱，放入另一个账户，或者只是取出来花费，随便什么。"
+    },
+    {
+      "id": 75,
+      "en": "That's a transaction.",
+      "cn": "这就是交易。"
+    },
+    {
+      "id": 76,
+      "en": "Or even putting money into your bank account.",
+      "cn": "甚至将钱存入您的银行账户。"
+    },
+    {
+      "id": 77,
+      "en": "That's also a transaction.",
+      "cn": "这也是交易。"
+    },
+    {
+      "id": 78,
+      "en": "Great!",
+      "cn": "太好了！"
+    },
+    {
+      "id": 79,
+      "en": "Our second word, balance.",
+      "cn": "我们的第二个词，余额。"
+    },
+    {
+      "id": 80,
+      "en": "Balance.",
+      "cn": "余额。"
+    },
+    {
+      "id": 81,
+      "en": "Your account balance is how much money you have.",
+      "cn": "您的账户余额就是您拥有多少钱。"
+    },
+    {
+      "id": 82,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 83,
+      "en": "An account balance.",
+      "cn": "账户余额。"
+    },
+    {
+      "id": 84,
+      "en": "My account balance is two dollars right now, I think.",
+      "cn": "我现在的账户余额是两美元，我想。"
+    },
+    {
+      "id": 85,
+      "en": "Well, that's a bit of a problem.",
+      "cn": "嗯，这有点问题。"
+    },
+    {
+      "id": 86,
+      "en": "Good thing payday is three days away.",
+      "cn": "幸好发薪日还有三天。"
+    },
+    {
+      "id": 87,
+      "en": "Yeah, my god.",
+      "cn": "是的，天哪。"
+    },
+    {
+      "id": 88,
+      "en": "Okay, our third word, overdraft.",
+      "cn": "好的，我们的第三个词，透支。"
+    },
+    {
+      "id": 89,
+      "en": "Overdraft.",
+      "cn": "透支。"
+    },
+    {
+      "id": 90,
+      "en": "Overdraft.",
+      "cn": "透支。"
+    },
+    {
+      "id": 91,
+      "en": "So this really comes in handy, right?",
+      "cn": "所以这真的很方便，对吧？"
+    },
+    {
+      "id": 92,
+      "en": "To overdraft, can you tell us a little bit about it?",
+      "cn": "透支，您能告诉我们一点吗？"
+    },
+    {
+      "id": 93,
+      "en": "Let's say in my bank account I have five hundred dollars, but I spend six hundred dollars.",
+      "cn": "假设我在银行账户里有五百美元，但我花了六百美元。"
+    },
+    {
+      "id": 94,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 95,
+      "en": "So I have an overdraft in my account, meaning I owe the bank a hundred dollars.",
+      "cn": "所以我在账户中透支，意味着我欠银行一百美元。"
+    },
+    {
+      "id": 96,
+      "en": "Right, it's also commonly referred to as a negative balance.",
+      "cn": "对，这通常也被称为负余额。"
+    },
+    {
+      "id": 97,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "Right, negative balance.",
+      "cn": "对，负余额。"
+    },
+    {
+      "id": 99,
+      "en": "Like me.",
+      "cn": "就像我一样。"
+    },
+    {
+      "id": 100,
+      "en": "Very soon I will have a negative balance.",
+      "cn": "很快我就会有负余额。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, I think this one is a little bit tricky to understand, so let's listen to a couple of examples of how we use this word.",
+      "cn": "好的，我觉得这个有点难理解，所以我们来听几个例子，看看我们如何使用这个词。"
+    },
+    {
+      "id": 102,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 103,
+      "en": "The maximum overdraft on my account is only five thousand dollars.",
+      "cn": "我账户的最大透支额只有五千美元。"
+    },
+    {
+      "id": 104,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 105,
+      "en": "I'm sorry sir, but you've exceeded your maximum overdraft limit.",
+      "cn": "对不起，先生，但您已超过最大透支限额。"
+    },
+    {
+      "id": 106,
+      "en": "I cannot give you any more money.",
+      "cn": "我不能再给您更多的钱。"
+    },
+    {
+      "id": 107,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 108,
+      "en": "Oh no, I have to pay fifteen hundred dollars in overdraft fees.",
+      "cn": "哦不，我得支付一千五百美元的透支费用。"
+    },
+    {
+      "id": 109,
+      "en": "Okay, great examples.",
+      "cn": "好的，很好的例子。"
+    },
+    {
+      "id": 110,
+      "en": "Now we can take a look at our last word.",
+      "cn": "现在我们可以看看我们的最后一个词。"
+    },
+    {
+      "id": 111,
+      "en": "Debit card.",
+      "cn": "借记卡。"
+    },
+    {
+      "id": 112,
+      "en": "Debit card.",
+      "cn": "借记卡。"
+    },
+    {
+      "id": 113,
+      "en": "Debit card.",
+      "cn": "借记卡。"
+    },
+    {
+      "id": 114,
+      "en": "De -b-i-t card.",
+      "cn": "D-e-b-i-t 卡。"
+    },
+    {
+      "id": 115,
+      "en": "Debit card.",
+      "cn": "借记卡。"
+    },
+    {
+      "id": 116,
+      "en": "So a debit card is issued by the bank and used to... Take money out of an ATM.",
+      "cn": "所以借记卡是由银行发行的，用于... 从ATM取钱。"
+    },
+    {
+      "id": 117,
+      "en": "From an ATM machine, right?",
+      "cn": "从ATM机，对吧？"
+    },
+    {
+      "id": 118,
+      "en": "A debit card.",
+      "cn": "借记卡。"
+    },
+    {
+      "id": 119,
+      "en": "Not to be confused with a credit card.",
+      "cn": "不要与信用卡混淆。"
+    },
+    {
+      "id": 120,
+      "en": "Not the same thing.",
+      "cn": "不是同一回事。"
+    },
+    {
+      "id": 121,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 122,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 123,
+      "en": "So now we could listen to our dialogue a second time at a slower speed so now we can... We can hear all of the great language you just talked about.",
+      "cn": "现在我们可以慢速再听一次对话，这样我们可以... 我们可以听到你刚才提到的所有精彩语言。"
+    },
+    {
+      "id": 124,
+      "en": "Next please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 125,
+      "en": "May I help you sir?",
+      "cn": "我可以帮您吗，先生？"
+    },
+    {
+      "id": 126,
+      "en": "Hello, yes.",
+      "cn": "你好，是的。"
+    },
+    {
+      "id": 127,
+      "en": "I'd like to open a bank account.",
+      "cn": "我想开一个银行账户。"
+    },
+    {
+      "id": 128,
+      "en": "Certainly.",
+      "cn": "当然。"
+    },
+    {
+      "id": 129,
+      "en": "I can help you with that.",
+      "cn": "我可以帮您。"
+    },
+    {
+      "id": 130,
+      "en": "What type of account would you like to open?",
+      "cn": "您想开哪种账户？"
+    },
+    {
+      "id": 131,
+      "en": "A checking or a savings account?",
+      "cn": "支票账户还是储蓄账户？"
+    },
+    {
+      "id": 132,
+      "en": "What features do they offer?",
+      "cn": "它们提供什么功能？"
+    },
+    {
+      "id": 133,
+      "en": "Well, if you just look here...",
+      "cn": "嗯，如果您看看这里..."
+    },
+    {
+      "id": 134,
+      "en": "See, with our checking account you can have unlimited daily transactions for a small monthly fee.",
+      "cn": "您看，我们的支票账户可以无限制的每日交易，只需支付少量月费。"
+    },
+    {
+      "id": 135,
+      "en": "And our savings account has a higher interest rate.",
+      "cn": "而我们的储蓄账户利率更高。"
+    },
+    {
+      "id": 136,
+      "en": "But you must carry a minimum balance of $10,000.",
+      "cn": "但您必须保持最低余额为10,000美元。"
+    },
+    {
+      "id": 137,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 138,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "cn": "嗯，我想我更感兴趣的是支票账户。"
+    },
+    {
+      "id": 139,
+      "en": "I like to have easy access to my money.",
+      "cn": "我喜欢能方便地使用我的钱。"
+    },
+    {
+      "id": 140,
+      "en": "Alright then.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 141,
+      "en": "With this checking account you'll be issued with a debit card and a chequebook.",
+      "cn": "使用这个支票账户，您将获得一张借记卡和一本支票簿。"
+    },
+    {
+      "id": 142,
+      "en": "Will you require overdraft protection?",
+      "cn": "您需要透支保护吗？"
+    },
+    {
+      "id": 143,
+      "en": "There is an extra fee for that.",
+      "cn": "这会有额外费用。"
+    },
+    {
+      "id": 144,
+      "en": "No, that won't be necessary.",
+      "cn": "不，这没有必要。"
+    },
+    {
+      "id": 145,
+      "en": "In that case I'll get you to fill out this paperwork.",
+      "cn": "在这种情况下，我会让您填写这份文件。"
+    },
+    {
+      "id": 146,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "cn": "我需要您的社会保险号码和两份政府身份证明。"
+    },
+    {
+      "id": 147,
+      "en": "If you could just sign here... and here... and here... we'll be all set.",
+      "cn": "如果您能在这里签名... 还有这里... 还有这里... 我们就准备好了。"
+    },
+    {
+      "id": 148,
+      "en": "Would you like to make a deposit today?",
+      "cn": "您今天想存款吗？"
+    },
+    {
+      "id": 149,
+      "en": "Yes, I'd like to deposit one billion dollars!",
+      "cn": "是的，我想存十亿美元！"
+    },
+    {
+      "id": 150,
+      "en": "We heard some interesting phrases of how to tell somebody to do something in a polite way.",
+      "cn": "我们听到了一些有趣的短语，关于如何以礼貌的方式告诉某人做某事。"
+    },
+    {
+      "id": 151,
+      "en": "So let's start with fluency builder and explain these words.",
+      "cn": "所以让我们从流利度提升开始，解释这些词。"
+    },
+    {
+      "id": 152,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 153,
+      "en": "The bank teller asked this man to do a number of things in order to open his bank account and she used some great expressions.",
+      "cn": "银行出纳员要求这个人做一些事情以开设他的银行账户，她使用了一些很好的表达。"
+    },
+    {
+      "id": 154,
+      "en": "Right, let's listen to how she asked the man to do some things in a polite way.",
+      "cn": "对，来听听她是如何礼貌地要求这个人做一些事情的。"
+    },
+    {
+      "id": 155,
+      "en": "I'll get you to fill out this paperwork.",
+      "cn": "我会让您填写这份文件。"
+    },
+    {
+      "id": 156,
+      "en": "I'll get you to fill out this paperwork.",
+      "cn": "我会让您填写这份文件。"
+    },
+    {
+      "id": 157,
+      "en": "I'll need your social insurance number.",
+      "cn": "我需要您的社会保险号码。"
+    },
+    {
+      "id": 158,
+      "en": "I'll need your social insurance number.",
+      "cn": "我需要您的社会保险号码。"
+    },
+    {
+      "id": 159,
+      "en": "If you could just sign here...",
+      "cn": "如果您能在这里签名..."
+    },
+    {
+      "id": 160,
+      "en": "If you could just sign here...",
+      "cn": "如果您能在这里签名..."
+    },
+    {
+      "id": 161,
+      "en": "So the first thing she said is, I'll get you to fill out this paperwork.",
+      "cn": "所以她说的第一件事是，我会让您填写这份文件。"
+    },
+    {
+      "id": 162,
+      "en": "I'll get you to!",
+      "cn": "我会让您！"
+    },
+    {
+      "id": 163,
+      "en": "Right, I'll get you to.",
+      "cn": "对，我会让您。"
+    },
+    {
+      "id": 164,
+      "en": "So it's just a way of saying, can you please fill this out?",
+      "cn": "所以这只是说，您能请您填写这个吗？"
+    },
+    {
+      "id": 165,
+      "en": "Yeah, do this.",
+      "cn": "是的，做这个。"
+    },
+    {
+      "id": 166,
+      "en": "But in a different way, right?",
+      "cn": "但以不同的方式，对吧？"
+    },
+    {
+      "id": 167,
+      "en": "More polite.",
+      "cn": "更礼貌。"
+    },
+    {
+      "id": 168,
+      "en": "Then she also said, I'll need your social insurance number.",
+      "cn": "然后她还说，我需要您的社会保险号码。"
+    },
+    {
+      "id": 169,
+      "en": "Again, a polite way of saying, give me your social insurance number.",
+      "cn": "再次，这是一个礼貌的方式说，给我您的社会保险号码。"
+    },
+    {
+      "id": 170,
+      "en": "Give me your social insurance.",
+      "cn": "给我您的社会保险。"
+    },
+    {
+      "id": 171,
+      "en": "And the last thing she said, and this is really polite, if you could just sign here.",
+      "cn": "她说的最后一件事，这真的很礼貌，如果您能在这里签名。"
+    },
+    {
+      "id": 172,
+      "en": "If you could just sign here.",
+      "cn": "如果您能在这里签名。"
+    },
+    {
+      "id": 173,
+      "en": "If you could just... If you could just wait a moment, I'll be with you.",
+      "cn": "如果您能稍等一下，我会马上来。"
+    },
+    {
+      "id": 174,
+      "en": "If you could just send me an email with your bank account number.",
+      "cn": "如果您能给我发一封电子邮件，附上您的银行账户号码。"
+    },
+    {
+      "id": 175,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 176,
+      "en": "Very polite way of asking for something.",
+      "cn": "非常礼貌的请求。"
+    },
+    {
+      "id": 177,
+      "en": "Well, some great language in today's cast.",
+      "cn": "好吧，今天的节目中有一些很好的语言。"
+    },
+    {
+      "id": 178,
+      "en": "Let's listen to the dialogue one last time and we'll catch all of this wonderful language.",
+      "cn": "让我们最后再听一次对话，捕捉到所有这些精彩的语言。"
+    },
+    {
+      "id": 179,
+      "en": "Next, please.",
+      "cn": "下一个，请。"
+    },
+    {
+      "id": 180,
+      "en": "May I help you, sir?",
+      "cn": "我可以帮您吗，先生？"
+    },
+    {
+      "id": 181,
+      "en": "Hello.",
+      "cn": "你好。"
+    },
+    {
+      "id": 182,
+      "en": "Yes, I'd like to open a bank account.",
+      "cn": "是的，我想开一个银行账户。"
+    },
+    {
+      "id": 183,
+      "en": "Certainly.",
+      "cn": "当然。"
+    },
+    {
+      "id": 184,
+      "en": "I can help you with that.",
+      "cn": "我可以帮您。"
+    },
+    {
+      "id": 185,
+      "en": "What type of account would you like to open?",
+      "cn": "您想开哪种账户？"
+    },
+    {
+      "id": 186,
+      "en": "A checking or a saving account?",
+      "cn": "支票账户还是储蓄账户？"
+    },
+    {
+      "id": 187,
+      "en": "What features do they offer?",
+      "cn": "它们提供什么功能？"
+    },
+    {
+      "id": 188,
+      "en": "Well, if you just take a look here, see.",
+      "cn": "嗯，如果您看看这里，您会看到。"
+    },
+    {
+      "id": 189,
+      "en": "With our checking account, you can have unlimited daily transactions for a small monthly fee.",
+      "cn": "使用我们的支票账户，您可以无限制的每日交易，只需支付少量月费。"
+    },
+    {
+      "id": 190,
+      "en": "And our savings account has a higher interest rate.",
+      "cn": "而我们的储蓄账户利率更高。"
+    },
+    {
+      "id": 191,
+      "en": "But you must carry a minimum balance of $10,000.",
+      "cn": "但您必须保持最低余额为10,000美元。"
+    },
+    {
+      "id": 192,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 193,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "cn": "嗯，我想我更感兴趣的是支票账户。"
+    },
+    {
+      "id": 194,
+      "en": "I'd like to have easy access to my money.",
+      "cn": "我想方便地使用我的钱。"
+    },
+    {
+      "id": 195,
+      "en": "All right, then.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 196,
+      "en": "With this checking account, you'll be issued a debit card and a checkbook.",
+      "cn": "使用这个支票账户，您将获得一张借记卡和一本支票簿。"
+    },
+    {
+      "id": 197,
+      "en": "Will you require overdraft protection?",
+      "cn": "您需要透支保护吗？"
+    },
+    {
+      "id": 198,
+      "en": "There is an extra fee for that.",
+      "cn": "这会有额外费用。"
+    },
+    {
+      "id": 199,
+      "en": "No, that won't be necessary.",
+      "cn": "不，这没有必要。"
+    },
+    {
+      "id": 200,
+      "en": "In that case, I'll get you to fill out this paperwork.",
+      "cn": "在这种情况下，我会让您填写这份文件。"
+    },
+    {
+      "id": 201,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "cn": "我需要您的社会保险号码和两份政府身份证明。"
+    },
+    {
+      "id": 202,
+      "en": "If.",
+      "cn": "如果。"
+    },
+    {
+      "id": 203,
+      "en": "you could just sign here and here and here, we'll be all set.",
+      "cn": "您可以在这里和这里签名，我们就准备好了。"
+    },
+    {
+      "id": 204,
+      "en": "Would you like to make a deposit today?",
+      "cn": "您今天想存款吗？"
+    },
+    {
+      "id": 205,
+      "en": "Yes, I'd like to deposit one billion dollars!",
+      "cn": "是的，我想存十亿美元！"
+    },
+    {
+      "id": 206,
+      "en": "One billion dollars!",
+      "cn": "十亿美元！"
+    },
+    {
+      "id": 207,
+      "en": "One billion dollars!",
+      "cn": "十亿美元！"
+    },
+    {
+      "id": 208,
+      "en": "Okay, so an interesting thing here...",
+      "cn": "好吧，这里有个有趣的事情..."
+    },
+    {
+      "id": 209,
+      "en": "Not many countries use checks.",
+      "cn": "很少有国家使用支票。"
+    },
+    {
+      "id": 210,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 211,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 212,
+      "en": "The checkbook or a check?",
+      "cn": "是支票簿还是支票？"
+    },
+    {
+      "id": 213,
+      "en": "Yeah, it tends to be more of an American thing, don't you think?",
+      "cn": "是的，这似乎更像是美国的事情，你不觉得吗？"
+    },
+    {
+      "id": 214,
+      "en": "It is, it is.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 215,
+      "en": "I think it is.",
+      "cn": "我认为是的。"
+    },
+    {
+      "id": 216,
+      "en": "For those of you who aren't sure what a check is, it's basically a piece of paper that you just sign your name and... Yeah, you write the amount of money and then you sign your name, right?",
+      "cn": "对于那些不确定支票是什么的人来说，它基本上是一张纸，您只需签上您的名字，然后... 是的，您写上金额，然后签上您的名字，对吧？"
+    },
+    {
+      "id": 217,
+      "en": "That person can take it to the bank and get money in exchange for it.",
+      "cn": "那个人可以把它拿到银行，换取现金。"
+    },
+    {
+      "id": 218,
+      "en": "It's not very common in other countries.",
+      "cn": "在其他国家并不常见。"
+    },
+    {
+      "id": 219,
+      "en": "No, but from what I know, every single American has a checkbook and uses it pretty regularly.",
+      "cn": "不过据我所知，每个美国人都有支票簿，并且使用得相当频繁。"
+    },
+    {
+      "id": 220,
+      "en": "For example, you pay your phone bill or your electric bill, you just put a check in the mailbox and it's paid.",
+      "cn": "例如，您支付电话费或电费，只需把支票放进邮箱，就算支付了。"
+    },
+    {
+      "id": 221,
+      "en": "It's an interesting thing.",
+      "cn": "这是一件有趣的事情。"
+    },
+    {
+      "id": 222,
+      "en": "Also, sometimes in other countries, people's salaries are paid through checks.",
+      "cn": "此外，有时在其他国家，人们的工资是通过支票支付的。"
+    },
+    {
+      "id": 223,
+      "en": "Oh, yes!",
+      "cn": "哦，是的！"
+    },
+    {
+      "id": 224,
+      "en": "I see where that word comes from.",
+      "cn": "我明白这个词的来源了。"
+    },
+    {
+      "id": 225,
+      "en": "Paycheck.",
+      "cn": "工资支票。"
+    },
+    {
+      "id": 226,
+      "en": "But for example, here in China, it's not very common, right?",
+      "cn": "但例如，在中国，这并不常见，对吧？"
+    },
+    {
+      "id": 227,
+      "en": "I've never seen a check here.",
+      "cn": "我在这里从未见过支票。"
+    },
+    {
+      "id": 228,
+      "en": "Me neither.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 229,
+      "en": "What about in your countries?",
+      "cn": "那在你们的国家呢？"
+    },
+    {
+      "id": 230,
+      "en": "We'd like to know how the banking system works.",
+      "cn": "我们想知道银行系统是如何运作的。"
+    },
+    {
+      "id": 231,
+      "en": "Yes, come to our website at EnglishPod.com and tell us all about it.",
+      "cn": "是的，请访问我们的网站 EnglishPod.com，告诉我们所有相关信息。"
+    },
+    {
+      "id": 232,
+      "en": "Yes, and you can also leave your questions and comments on our website and we'll be there to answer it.",
+      "cn": "是的，您也可以在我们的网站上留下您的问题和评论，我们会为您解答。"
+    },
+    {
+      "id": 233,
+      "en": "Yeah, Marco and I love answering your questions, so please visit us.",
+      "cn": "是的，Marco 和我喜欢回答您的问题，所以请访问我们。"
+    },
+    {
+      "id": 234,
+      "en": "Right, but until then, it's goodbye!",
+      "cn": "对，但在那之前，再见！"
+    }
+  ]
+}

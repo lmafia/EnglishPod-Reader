@@ -1,0 +1,2074 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0128",
+  "title": "EnglishPod 中高级 0128",
+  "totalSegments": 413,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 5,
+      "en": "And today Marco and I get to share with you the thrilling conclusion to the, well, very popular, I must say, series.",
+      "cn": "今天Marco和我将与您分享这个非常受欢迎系列的激动人心的结局。"
+    },
+    {
+      "id": 6,
+      "en": "Very popular.",
+      "cn": "非常受欢迎。"
+    },
+    {
+      "id": 7,
+      "en": "I'm sorry.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 8,
+      "en": "I love you.",
+      "cn": "我爱你。"
+    },
+    {
+      "id": 9,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 10,
+      "en": "Today is the finale, the final episode, episode 10.",
+      "cn": "今天是大结局，最后一集，第10集。"
+    },
+    {
+      "id": 11,
+      "en": "This is where it all ends.",
+      "cn": "这就是一切的结束。"
+    },
+    {
+      "id": 12,
+      "en": "So what do you think is going to happen?",
+      "cn": "你觉得会发生什么？"
+    },
+    {
+      "id": 13,
+      "en": "If I guess, you're just going to get angry at me because I actually know how it ends.",
+      "cn": "如果我猜，你只会对我生气，因为我其实知道结局。"
+    },
+    {
+      "id": 14,
+      "en": "But let's just say, I hope that it ends well for our protagonists.",
+      "cn": "但我希望我们的主角有个好结局。"
+    },
+    {
+      "id": 15,
+      "en": "There was a lot of controversy around it because, you know, I wanted to know if people wanted a happy ending, a sad ending, unexpected.",
+      "cn": "因为我想知道人们想要一个快乐的结局、悲伤的结局，还是意外的结局，所以有很多争议。"
+    },
+    {
+      "id": 16,
+      "en": "I guess everyone wants a happy ending, right?",
+      "cn": "我想每个人都想要一个快乐的结局，对吧？"
+    },
+    {
+      "id": 17,
+      "en": "Absolutely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 18,
+      "en": "So we're going to, well, keep our fingers crossed for Steven and Veronica.",
+      "cn": "所以我们要为Steven和Veronica祈祷。"
+    },
+    {
+      "id": 19,
+      "en": "And check out this dialogue one time.",
+      "cn": "先听听这个对话。"
+    },
+    {
+      "id": 20,
+      "en": "Steven, good to see you, brother.",
+      "cn": "Steven，兄弟，见到你真好。"
+    },
+    {
+      "id": 21,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 22,
+      "en": "How was your trip?",
+      "cn": "旅行怎么样？"
+    },
+    {
+      "id": 23,
+      "en": "It was fine.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 24,
+      "en": "I've been better, but it's great to be home.",
+      "cn": "我曾经更好，但回家真好。"
+    },
+    {
+      "id": 25,
+      "en": "I've missed you all.",
+      "cn": "我想你们了。"
+    },
+    {
+      "id": 26,
+      "en": "How's mom?",
+      "cn": "妈妈怎么样？"
+    },
+    {
+      "id": 27,
+      "en": "She's great.",
+      "cn": "她很好。"
+    },
+    {
+      "id": 28,
+      "en": "All she ever does is talk about you, her little boy that went to the United States.",
+      "cn": "她总是谈论你，她的小男孩去美国了。"
+    },
+    {
+      "id": 29,
+      "en": "You're her pride and joy.",
+      "cn": "你是她的骄傲和快乐。"
+    },
+    {
+      "id": 30,
+      "en": "You know that, right?",
+      "cn": "你知道的，对吧？"
+    },
+    {
+      "id": 31,
+      "en": "I can't wait to see you.",
+      "cn": "我迫不及待想见你。"
+    },
+    {
+      "id": 32,
+      "en": "And you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 33,
+      "en": "What's new with you?",
+      "cn": "你有什么新鲜事？"
+    },
+    {
+      "id": 34,
+      "en": "Well, Nisha and I are expecting... you'll have another nephew or niece soon.",
+      "cn": "嗯，Nisha和我有了... 你很快就会有一个侄子或侄女。"
+    },
+    {
+      "id": 35,
+      "en": "That's great!",
+      "cn": "太好了！"
+    },
+    {
+      "id": 36,
+      "en": "Wow!",
+      "cn": "哇！"
+    },
+    {
+      "id": 37,
+      "en": "Congrats!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 38,
+      "en": "You two are great together, you know.",
+      "cn": "你们俩真是天生一对。"
+    },
+    {
+      "id": 39,
+      "en": "You have such a beautiful family.",
+      "cn": "你们有一个如此美好的家庭。"
+    },
+    {
+      "id": 40,
+      "en": "I hope that one day I can have that.",
+      "cn": "我希望有一天我也能拥有那样的家庭。"
+    },
+    {
+      "id": 41,
+      "en": "Of course, man!",
+      "cn": "当然，兄弟！"
+    },
+    {
+      "id": 42,
+      "en": "Come on!",
+      "cn": "来吧！"
+    },
+    {
+      "id": 43,
+      "en": "I mean, everything was said here for you to marry Shalini.",
+      "cn": "我是说，这里说的一切都是为了让你娶Shalini。"
+    },
+    {
+      "id": 44,
+      "en": "You know, she's still pining after you.",
+      "cn": "你知道，她还在想你。"
+    },
+    {
+      "id": 45,
+      "en": "I don't think she'll ever get over you.",
+      "cn": "我觉得她永远不会忘记你。"
+    },
+    {
+      "id": 46,
+      "en": "What are you talking about?",
+      "cn": "你在说什么？"
+    },
+    {
+      "id": 47,
+      "en": "I hardly knew her.",
+      "cn": "我几乎不认识她。"
+    },
+    {
+      "id": 48,
+      "en": "How could she be in love with me?",
+      "cn": "她怎么可能爱上我？"
+    },
+    {
+      "id": 49,
+      "en": "I couldn't go through with it even though she is a great woman.",
+      "cn": "即使她是个好女人，我也无法做到。"
+    },
+    {
+      "id": 50,
+      "en": "No, I left my heart in the United States.",
+      "cn": "不，我把我的心留在了美国。"
+    },
+    {
+      "id": 51,
+      "en": "I just hope Veronica is happy.",
+      "cn": "我只希望Veronica快乐。"
+    },
+    {
+      "id": 52,
+      "en": "Get over it.",
+      "cn": "别想太多。"
+    },
+    {
+      "id": 53,
+      "en": "You're home now.",
+      "cn": "你现在回家了。"
+    },
+    {
+      "id": 54,
+      "en": "Everyone here thinks so highly of you.",
+      "cn": "这里每个人都很看重你。"
+    },
+    {
+      "id": 55,
+      "en": "There'll be girls throwing themselves at you.",
+      "cn": "会有女孩向你投怀送抱。"
+    },
+    {
+      "id": 56,
+      "en": "You can marry anyone you want.",
+      "cn": "你可以嫁给任何你想要的人。"
+    },
+    {
+      "id": 57,
+      "en": "I don't want to marry anyone.",
+      "cn": "我不想嫁给任何人。"
+    },
+    {
+      "id": 58,
+      "en": "I want to marry her.",
+      "cn": "我想嫁给她。"
+    },
+    {
+      "id": 59,
+      "en": "Don't you understand?",
+      "cn": "你难道不明白吗？"
+    },
+    {
+      "id": 60,
+      "en": "You are incorrigible!",
+      "cn": "你真是不可救药！"
+    },
+    {
+      "id": 61,
+      "en": "Steven!",
+      "cn": "Steven！"
+    },
+    {
+      "id": 62,
+      "en": "My baby!",
+      "cn": "我的小宝贝！"
+    },
+    {
+      "id": 63,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 64,
+      "en": "I miss you so much!",
+      "cn": "我好想你！"
+    },
+    {
+      "id": 65,
+      "en": "Hey, Mom.",
+      "cn": "嘿，妈妈。"
+    },
+    {
+      "id": 66,
+      "en": "Great to see you.",
+      "cn": "见到你真好。"
+    },
+    {
+      "id": 67,
+      "en": "You look so thin!",
+      "cn": "你看起来瘦了很多！"
+    },
+    {
+      "id": 68,
+      "en": "Didn't those Americans feed you?",
+      "cn": "那些美国人没喂你吗？"
+    },
+    {
+      "id": 69,
+      "en": "Come, come.",
+      "cn": "来，来。"
+    },
+    {
+      "id": 70,
+      "en": "Let's have some time.",
+      "cn": "我们聊聊。"
+    },
+    {
+      "id": 71,
+      "en": "By the way, there is a girl here waiting for you.",
+      "cn": "顺便说一下，这里有个女孩在等你。"
+    },
+    {
+      "id": 72,
+      "en": "Hi, Steven.",
+      "cn": "嗨，Steven。"
+    },
+    {
+      "id": 73,
+      "en": "Veronica, how did you get here?",
+      "cn": "Veronica，你怎么来了？"
+    },
+    {
+      "id": 74,
+      "en": "How do you know where I live?",
+      "cn": "你怎么知道我住在哪里？"
+    },
+    {
+      "id": 75,
+      "en": "I waited for you at the airport, but you never showed.",
+      "cn": "我在机场等你，但你从未出现。"
+    },
+    {
+      "id": 76,
+      "en": "I also have some little secrets that I haven't told you about, but we can discuss that later.",
+      "cn": "我还有一些小秘密没告诉你，但我们可以稍后再谈。"
+    },
+    {
+      "id": 77,
+      "en": "I realized that I was just scared.",
+      "cn": "我意识到我只是害怕。"
+    },
+    {
+      "id": 78,
+      "en": "Scared of how much I love you and of the commitment that marriage requires.",
+      "cn": "害怕我有多爱你，以及婚姻所需的承诺。"
+    },
+    {
+      "id": 79,
+      "en": "I'm here now.",
+      "cn": "我现在在这里。"
+    },
+    {
+      "id": 80,
+      "en": "Now there's something I want to ask you.",
+      "cn": "现在我想问你一个问题。"
+    },
+    {
+      "id": 81,
+      "en": "Steven, will you marry me?",
+      "cn": "Steven，你愿意嫁给我吗？"
+    },
+    {
+      "id": 82,
+      "en": "I now declare you husband and wife.",
+      "cn": "我现在宣布你们为夫妻。"
+    },
+    {
+      "id": 83,
+      "en": "You may kiss the bride.",
+      "cn": "你可以吻新娘。"
+    },
+    {
+      "id": 84,
+      "en": "All right, so they got married.",
+      "cn": "好吧，他们结婚了。"
+    },
+    {
+      "id": 85,
+      "en": "Oh, you got married.",
+      "cn": "哦，你结婚了。"
+    },
+    {
+      "id": 86,
+      "en": "We got married.",
+      "cn": "我们结婚了。"
+    },
+    {
+      "id": 87,
+      "en": "I got married.",
+      "cn": "我结婚了。"
+    },
+    {
+      "id": 88,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 89,
+      "en": "Wow, I should have called my mom.",
+      "cn": "哇，我应该给我妈妈打电话。"
+    },
+    {
+      "id": 90,
+      "en": "Not only did you get married, but you got married Bollywood style with music and everything nice.",
+      "cn": "不仅你结婚了，而且还是宝莱坞风格的婚礼，音乐和一切美好的东西。"
+    },
+    {
+      "id": 91,
+      "en": "Those weddings are like four days long.",
+      "cn": "那些婚礼长达四天。"
+    },
+    {
+      "id": 92,
+      "en": "I hope you enjoyed the finale of this story.",
+      "cn": "我希望你喜欢这个故事的结局。"
+    },
+    {
+      "id": 93,
+      "en": "Absolutely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 94,
+      "en": "I was glad to see that it was a happy ending.",
+      "cn": "我很高兴看到这是一个快乐的结局。"
+    },
+    {
+      "id": 95,
+      "en": "I have to say if it had been a sad ending, I would have been a little bit disappointed because, well, Veronica and I... You get along.",
+      "cn": "我得说，如果是个悲伤的结局，我会有点失望，因为，嗯，Veronica和我... 你们相处得很好。"
+    },
+    {
+      "id": 96,
+      "en": "We get along.",
+      "cn": "我们相处得很好。"
+    },
+    {
+      "id": 97,
+      "en": "All right, so apart from this happy ending and this happy finale that we had, we did look at a lot of great words and phrases, so why don't we So the first couple of phrases we want to talk about here have to do with maybe catching up and talking about family or gossip because we're talking to Steven's Indian family, who he hasn't seen for a long, long time.",
+      "cn": "好吧，除了这个快乐的结局和我们拥有的快乐大结局，我们确实看到了很多很棒的单词和短语，所以我们为什么不... 所以我们想谈的前几个短语与可能的家庭聚会或八卦有关，因为我们在和Steven的印度家人交谈，他们已经很久没见面了。"
+    },
+    {
+      "id": 98,
+      "en": "And the first thing, he's talking to his brother about his brother and his wife.",
+      "cn": "首先，他在和他的兄弟谈论他的兄弟和他的妻子。"
+    },
+    {
+      "id": 99,
+      "en": "So, Gulam and Nisha are expecting, we find out.",
+      "cn": "所以，我们发现Gulam和Nisha有了新消息。"
+    },
+    {
+      "id": 100,
+      "en": "Right, they're expecting.",
+      "cn": "对，他们有了新消息。"
+    },
+    {
+      "id": 101,
+      "en": "So if Gulam and Nisha are expecting, what does that mean exactly?",
+      "cn": "那么如果古拉姆和尼莎有了期待，这到底意味着什么呢？"
+    },
+    {
+      "id": 102,
+      "en": "They're expecting a letter.",
+      "cn": "他们期待一封信。"
+    },
+    {
+      "id": 103,
+      "en": "Expecting a baby, maybe?",
+      "cn": "期待一个宝宝，也许？"
+    },
+    {
+      "id": 104,
+      "en": "Aha, yeah, so here we go.",
+      "cn": "啊，是的，开始吧。"
+    },
+    {
+      "id": 105,
+      "en": "I'm expecting is a very common English way of saying I'm going to have a baby.",
+      "cn": "“我有了期待”是一个非常常见的英语表达，意思是“我将要有一个宝宝”。"
+    },
+    {
+      "id": 106,
+      "en": "I'm pregnant.",
+      "cn": "我怀孕了。"
+    },
+    {
+      "id": 107,
+      "en": "All right, so don't get this confused.",
+      "cn": "好吧，所以不要搞混。"
+    },
+    {
+      "id": 108,
+      "en": "If somebody says, oh, well, I'm expecting, you don't have to say expecting what?",
+      "cn": "如果有人说，哦，我有了期待，你不必问期待什么？"
+    },
+    {
+      "id": 109,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 110,
+      "en": "When it's only expecting, when it's not a thing afterwards, I'm expecting means I'm pregnant or she's expecting.",
+      "cn": "当只有“期待”时，如果后面没有东西，“我有了期待”意味着“我怀孕了”或“她有了期待”。"
+    },
+    {
+      "id": 111,
+      "en": "She's going to have a baby.",
+      "cn": "她将要有一个宝宝。"
+    },
+    {
+      "id": 112,
+      "en": "So they are expecting a baby or they're expecting.",
+      "cn": "所以他们有了期待，或者他们有了期待。"
+    },
+    {
+      "id": 113,
+      "en": "And they were talking about, well, so Steven, he was supposed to get married in India and his brother said a very interesting word.",
+      "cn": "他们在谈论，史蒂文本该在印度结婚，他的兄弟说了一个非常有趣的词。"
+    },
+    {
+      "id": 114,
+      "en": "He said, well, these girls are still, this girl is still pining over you.",
+      "cn": "他说，这些女孩仍然，这个女孩仍然在想念你。"
+    },
+    {
+      "id": 115,
+      "en": "So the shalini, some girl that Steven used to know when he was living in India, she's pining after you.",
+      "cn": "所以沙莉尼，一个史蒂文在印度生活时认识的女孩，她在想念你。"
+    },
+    {
+      "id": 116,
+      "en": "Well, pine has many different meanings in English.",
+      "cn": "嗯，pine在英语中有很多不同的意思。"
+    },
+    {
+      "id": 117,
+      "en": "But in this sense, we're talking about having a crush on or being in love with.",
+      "cn": "但在这个意义上，我们谈论的是对某人的迷恋或爱。"
+    },
+    {
+      "id": 118,
+      "en": "And also it's a way of saying that you are, that you desire, you yearn for this person very, very much.",
+      "cn": "这也是一种表达你非常渴望这个人，但你没有他们的方式。"
+    },
+    {
+      "id": 119,
+      "en": "But that you don't have them.",
+      "cn": "对。"
+    },
+    {
+      "id": 120,
+      "en": "Right.",
+      "cn": "你想要他们。"
+    },
+    {
+      "id": 121,
+      "en": "You want them.",
+      "cn": "你想要他们。"
+    },
+    {
+      "id": 122,
+      "en": "You want them.",
+      "cn": "所以你在想念这个人。"
+    },
+    {
+      "id": 123,
+      "en": "So you're pining over this person.",
+      "cn": "现在，你能想念一个物体吗？"
+    },
+    {
+      "id": 125,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 126,
+      "en": "Usually it's maybe related to love or to a person, right?",
+      "cn": "通常这可能与爱或某个人有关，对吧？"
+    },
+    {
+      "id": 127,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 128,
+      "en": "So she stands by the door every day waiting the letter that doesn't come.",
+      "cn": "所以她每天站在门口等着那封不来的信。"
+    },
+    {
+      "id": 129,
+      "en": "She's pining away for her dear love, Thomas or whatever.",
+      "cn": "她在想念她亲爱的爱人，托马斯或其他什么。"
+    },
+    {
+      "id": 130,
+      "en": "And you know what I read recently is that people can get addicted to pining.",
+      "cn": "你知道我最近读到的是，人们可能会对想念上瘾。"
+    },
+    {
+      "id": 131,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 132,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 133,
+      "en": "After a breakup, maybe you can pine after a person, not because you miss them or you want to, but you kind of grow accustomed to it and you become addicted to this pain that's kind of pleasurable.",
+      "cn": "在分手后，也许你会想念一个人，不是因为你想念他们或想要他们，而是你有点习惯了这种感觉，并且你对这种痛苦上瘾，这种痛苦是有点愉快的。"
+    },
+    {
+      "id": 134,
+      "en": "There is a way to describe this.",
+      "cn": "有一种方式来描述这个。"
+    },
+    {
+      "id": 135,
+      "en": "It's called Petrarchan love.",
+      "cn": "这被称为彼特拉尔克式的爱。"
+    },
+    {
+      "id": 136,
+      "en": "Well, it's this kind of traditional idea in poetry where you have a love that's never consummated, that's never filled.",
+      "cn": "嗯，这是诗歌中一种传统的观念，你有一种从未实现的爱，从未满足的爱。"
+    },
+    {
+      "id": 137,
+      "en": "You never get to be with the person that you love, that you desire.",
+      "cn": "你永远无法和你爱的人在一起，和你渴望的人在一起。"
+    },
+    {
+      "id": 138,
+      "en": "And so it's a way of distinguishing the two different kinds of love.",
+      "cn": "所以这是区分两种不同爱的方式。"
+    },
+    {
+      "id": 139,
+      "en": "One where you're with the person and the other where you always want them, but you can never have them.",
+      "cn": "一种是和那个人在一起，另一种是你总是想要他们，但你永远无法拥有他们。"
+    },
+    {
+      "id": 140,
+      "en": "Well, hopefully none of our listeners are pining over anyone or get to experience that, huh?",
+      "cn": "嗯，希望我们的听众没有在想念任何人，或者经历这种情况，嗯？"
+    },
+    {
+      "id": 141,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 142,
+      "en": "But if you do pine away or you pine after someone, you have to hope that one day you'll get over that person.",
+      "cn": "但如果你真的在想念某人，你必须希望有一天你能忘记那个人。"
+    },
+    {
+      "id": 143,
+      "en": "Yeah, you have to get over it.",
+      "cn": "是的，你必须克服它。"
+    },
+    {
+      "id": 144,
+      "en": "And that's what his brother says, hey, get over it.",
+      "cn": "这就是他兄弟所说的，嘿，克服它。"
+    },
+    {
+      "id": 145,
+      "en": "I don't think she'll ever get over you.",
+      "cn": "我认为她永远不会忘记你。"
+    },
+    {
+      "id": 146,
+      "en": "So what does it mean when you're supposed to get over someone?",
+      "cn": "那么，当你应该忘记某人时，这意味着什么？"
+    },
+    {
+      "id": 147,
+      "en": "Okay, this is a good question because, you know, we're talking here not about actually getting up on top of a fence or a wall, we're talking about emotions.",
+      "cn": "好吧，这是个好问题，因为你知道，我们在这里谈论的不是实际爬上栅栏或墙，而是谈论情感。"
+    },
+    {
+      "id": 148,
+      "en": "So getting over someone, so I have to get over him, means that I have to stop feeling so sad about what happened, right?",
+      "cn": "所以忘记某人，我必须忘记他，意味着我必须停止对发生的事情感到如此悲伤，对吧？"
+    },
+    {
+      "id": 149,
+      "en": "Because usually you say this when someone's sad or angry.",
+      "cn": "因为通常你在某人悲伤或生气时会说这个。"
+    },
+    {
+      "id": 150,
+      "en": "And also it kind of means that you have to forget or let that person go, you know, like get over it.",
+      "cn": "这也意味着你必须忘记或放手那个人，你知道，像是克服它。"
+    },
+    {
+      "id": 151,
+      "en": "We're going to move on here to the last word in today's language take away, which is incorrigible.",
+      "cn": "我们将继续今天语言学习的最后一个单词，顽固不化。"
+    },
+    {
+      "id": 152,
+      "en": "Okay, an incorrigible person.",
+      "cn": "好吧，一个顽固不化的人。"
+    },
+    {
+      "id": 153,
+      "en": "All right, incorrigible.",
+      "cn": "好吧，顽固不化。"
+    },
+    {
+      "id": 154,
+      "en": "What could this mean?",
+      "cn": "这可能意味着什么？"
+    },
+    {
+      "id": 155,
+      "en": "Well, let's look at the sentence where we find it.",
+      "cn": "好吧，让我们看看我们找到它的句子。"
+    },
+    {
+      "id": 156,
+      "en": "You are incorrigible.",
+      "cn": "你是顽固不化的。"
+    },
+    {
+      "id": 157,
+      "en": "Gulam says this to Stephen.",
+      "cn": "古拉姆对史蒂芬说。"
+    },
+    {
+      "id": 158,
+      "en": "Right, so it's an adjective.",
+      "cn": "对，所以这是一个形容词。"
+    },
+    {
+      "id": 159,
+      "en": "And basically it means that you have no correction of some sort.",
+      "cn": "基本上它意味着你没有某种纠正。"
+    },
+    {
+      "id": 160,
+      "en": "Well, there's an argument between Stephen and Gulam.",
+      "cn": "嗯，史蒂芬和古拉姆之间有争论。"
+    },
+    {
+      "id": 161,
+      "en": "So they're brothers.",
+      "cn": "所以他们是兄弟。"
+    },
+    {
+      "id": 162,
+      "en": "And Stephen says, I don't want to get married.",
+      "cn": "史蒂芬说，我不想结婚。"
+    },
+    {
+      "id": 163,
+      "en": "I don't want to marry her.",
+      "cn": "我不想娶她。"
+    },
+    {
+      "id": 164,
+      "en": "He's complaining.",
+      "cn": "他在抱怨。"
+    },
+    {
+      "id": 165,
+      "en": "And his brother says, you are incorrigible.",
+      "cn": "他的兄弟说，你是顽固不化的。"
+    },
+    {
+      "id": 166,
+      "en": "You just won't stop.",
+      "cn": "你就是不肯停止。"
+    },
+    {
+      "id": 167,
+      "en": "So someone's feelings, their emotions, their ideas about something, they just can't be changed or altered.",
+      "cn": "所以某人的感情、情绪、对某事的看法，他们就是无法改变或调整。"
+    },
+    {
+      "id": 168,
+      "en": "They're fixed.",
+      "cn": "他们是固定的。"
+    },
+    {
+      "id": 169,
+      "en": "You know, this guy, he's like, I'm not going to get married.",
+      "cn": "你知道，这家伙，他说，我不打算结婚。"
+    },
+    {
+      "id": 170,
+      "en": "And his brother says, you're incorrigible.",
+      "cn": "他的兄弟说，你是顽固不化的。"
+    },
+    {
+      "id": 171,
+      "en": "I just can't change your mind.",
+      "cn": "我就是无法改变你的想法。"
+    },
+    {
+      "id": 172,
+      "en": "It's kind of like being stubborn.",
+      "cn": "这有点像固执。"
+    },
+    {
+      "id": 173,
+      "en": "Yeah, yeah, exactly.",
+      "cn": "是的，是的，正是如此。"
+    },
+    {
+      "id": 174,
+      "en": "And we hear this phrase a lot together.",
+      "cn": "我们经常听到这个短语。"
+    },
+    {
+      "id": 175,
+      "en": "So you're incorrigible, right?",
+      "cn": "所以你是顽固不化的，对吧？"
+    },
+    {
+      "id": 176,
+      "en": "So this is often just kind of a, it's not an insult, but it's a way for us to kind of be sarcastic or to make fun of someone.",
+      "cn": "所以这通常只是一种，不是侮辱，但我们以一种讽刺的方式或开玩笑的方式来对待某人。"
+    },
+    {
+      "id": 177,
+      "en": "You're incorrigible, Marco.",
+      "cn": "你是顽固不化的，马尔科。"
+    },
+    {
+      "id": 178,
+      "en": "Usually you say it when you're laughing, you know, you're being nice.",
+      "cn": "通常你在笑的时候说这个，你知道，你是在友好地说。"
+    },
+    {
+      "id": 179,
+      "en": "Okay, cool.",
+      "cn": "好吧，酷。"
+    },
+    {
+      "id": 180,
+      "en": "So five great words in language takeaway today.",
+      "cn": "所以今天语言学习中有五个很棒的单词。"
+    },
+    {
+      "id": 181,
+      "en": "And well, before we move on and listen to the dialogue again, why don't we take a look at fluency builder?",
+      "cn": "在我们继续并再次听对话之前，为什么不看看流利度提升呢？"
+    },
+    {
+      "id": 182,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 183,
+      "en": "All right, this first phrase is something that parents often use, and grandparents as well, because obviously parents and grandparents, they're very proud of their children, their grandchildren.",
+      "cn": "好吧，第一个短语是父母和祖父母经常使用的，因为显然父母和祖父母对他们的孩子、孙子非常自豪。"
+    },
+    {
+      "id": 184,
+      "en": "So they describe something as being their pride and joy.",
+      "cn": "所以他们把某事描述为他们的骄傲和喜悦。"
+    },
+    {
+      "id": 185,
+      "en": "My pride and joy.",
+      "cn": "我的骄傲和喜悦。"
+    },
+    {
+      "id": 186,
+      "en": "So it's usually a person that's your pride and joy.",
+      "cn": "所以通常是一个人是你的骄傲和喜悦。"
+    },
+    {
+      "id": 187,
+      "en": "It could be a thing too.",
+      "cn": "也可以是一个东西。"
+    },
+    {
+      "id": 188,
+      "en": "It could be a thing.",
+      "cn": "也可以是一个东西。"
+    },
+    {
+      "id": 189,
+      "en": "His Porsche Boxster is his pride and joy.",
+      "cn": "他的保时捷Boxster是他的骄傲和喜悦。"
+    },
+    {
+      "id": 190,
+      "en": "He goes out every morning and he washes it, he changes the oil, he checks the gas, he checks the tires.",
+      "cn": "他每天早上出去洗车，换油，检查油，检查轮胎。"
+    },
+    {
+      "id": 191,
+      "en": "So it's his pride and joy.",
+      "cn": "所以这是他的骄傲和喜悦。"
+    },
+    {
+      "id": 192,
+      "en": "It's his most valued possession.",
+      "cn": "这是他最珍贵的财产。"
+    },
+    {
+      "id": 193,
+      "en": "So it always goes together, right?",
+      "cn": "所以它总是一起使用，对吧？"
+    },
+    {
+      "id": 194,
+      "en": "My pride and joy.",
+      "cn": "我的骄傲和喜悦。"
+    },
+    {
+      "id": 195,
+      "en": "Pride and joy.",
+      "cn": "骄傲和喜悦。"
+    },
+    {
+      "id": 196,
+      "en": "Yeah, just think of it as a phrase, pride and joy.",
+      "cn": "是的，把它当作一个短语，骄傲和喜悦。"
+    },
+    {
+      "id": 197,
+      "en": "I'm my mother's pride and joy.",
+      "cn": "我是我母亲的骄傲和喜悦。"
+    },
+    {
+      "id": 198,
+      "en": "I think you are.",
+      "cn": "我觉得你是。"
+    },
+    {
+      "id": 199,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 200,
+      "en": "All right, so... You don't help my mom.",
+      "cn": "好吧，所以... 你不帮我妈妈。"
+    },
+    {
+      "id": 201,
+      "en": "All right, so somebody's pride and joy.",
+      "cn": "好吧，所以某人的骄傲和喜悦。"
+    },
+    {
+      "id": 202,
+      "en": "So now another phrase that we took a look at, and it's a way of making conversation, especially with a person that you haven't seen in a while.",
+      "cn": "现在我们看到了另一个短语，这是与一个你很久没见过的人交谈的方式。"
+    },
+    {
+      "id": 203,
+      "en": "He said, hey, what's new with you?",
+      "cn": "他说，嘿，你最近怎么样？"
+    },
+    {
+      "id": 204,
+      "en": "What's new with you?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 205,
+      "en": "What's new with you?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 206,
+      "en": "All right, so this might sound a little strange, because normally we say, how have you been?",
+      "cn": "好吧，这听起来有点奇怪，因为通常我们会说，你过得怎么样？"
+    },
+    {
+      "id": 207,
+      "en": "It's been a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 208,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 209,
+      "en": "But this is like, you know, it's a fluency builder phrase.",
+      "cn": "但这就像，你知道的，这是一个流利度提升的短语。"
+    },
+    {
+      "id": 210,
+      "en": "It's very colloquial, it's a very spoken language.",
+      "cn": "这非常口语化，是一种非常口头的语言。"
+    },
+    {
+      "id": 211,
+      "en": "So this you hear often between friends or family members.",
+      "cn": "所以你经常在朋友或家人之间听到这个。"
+    },
+    {
+      "id": 212,
+      "en": "Hey, Marco, what's new with you?",
+      "cn": "嘿，马尔科，你最近怎么样？"
+    },
+    {
+      "id": 213,
+      "en": "So how do you... I would answer this by saying, oh, well, not much, or I just bought a new house.",
+      "cn": "那么你怎么... 我会回答说，哦，没什么，或者我刚买了新房子。"
+    },
+    {
+      "id": 214,
+      "en": "So basically you're asking for news from a person.",
+      "cn": "所以基本上你是在询问一个人的消息。"
+    },
+    {
+      "id": 215,
+      "en": "Yes, I haven't seen you in a long time.",
+      "cn": "是的，我很久没见你了。"
+    },
+    {
+      "id": 216,
+      "en": "You look happy and healthy.",
+      "cn": "你看起来快乐而健康。"
+    },
+    {
+      "id": 217,
+      "en": "So what's new with you?",
+      "cn": "那么你最近怎么样？"
+    },
+    {
+      "id": 218,
+      "en": "Oh, I got married, I got a new car.",
+      "cn": "哦，我结婚了，我买了新车。"
+    },
+    {
+      "id": 219,
+      "en": "These things that you can say, these are changes in my life.",
+      "cn": "这些都是你可以说的事情，这些是我生活中的变化。"
+    },
+    {
+      "id": 220,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 221,
+      "en": "And usually after somebody asks you, what's new with you?",
+      "cn": "通常在有人问你，你最近怎么样？"
+    },
+    {
+      "id": 222,
+      "en": "You say something and then you usually would follow up and ask that person as well, right?",
+      "cn": "你会说些什么，然后通常你也会跟进问那个人，对吧？"
+    },
+    {
+      "id": 223,
+      "en": "What's new and what's new with you?",
+      "cn": "最近怎么样，你呢？"
+    },
+    {
+      "id": 224,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 225,
+      "en": "So, you know, I got a new house, got a new job.",
+      "cn": "所以，你知道，我买了新房子，找了新工作。"
+    },
+    {
+      "id": 226,
+      "en": "What's new with you?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 227,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 228,
+      "en": "Or what about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 229,
+      "en": "What about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 230,
+      "en": "So it's a nice, very relaxed, informal way of asking someone for news in their life.",
+      "cn": "所以这是一个很好的、非常轻松、非正式的询问别人生活中消息的方式。"
+    },
+    {
+      "id": 231,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 232,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 233,
+      "en": "What's new with you?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 234,
+      "en": "What else?",
+      "cn": "还有什么？"
+    },
+    {
+      "id": 235,
+      "en": "Now he was supposed to get married, right?",
+      "cn": "现在他本来应该结婚，对吧？"
+    },
+    {
+      "id": 236,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 237,
+      "en": "So this is news.",
+      "cn": "所以这是消息。"
+    },
+    {
+      "id": 238,
+      "en": "He was supposed to get married.",
+      "cn": "他本来应该结婚。"
+    },
+    {
+      "id": 239,
+      "en": "He didn't get married.",
+      "cn": "他没有结婚。"
+    },
+    {
+      "id": 240,
+      "en": "What's going on?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 241,
+      "en": "His brother, his mother, they all want to know what's going on.",
+      "cn": "他的兄弟，他的母亲，他们都想知道发生了什么。"
+    },
+    {
+      "id": 242,
+      "en": "And we find out that wedding, that girl, he just couldn't go through with it.",
+      "cn": "我们发现那场婚礼，那女孩，他就是无法继续下去。"
+    },
+    {
+      "id": 243,
+      "en": "So I can't, I couldn't go through with it.",
+      "cn": "所以我不能，我无法继续下去。"
+    },
+    {
+      "id": 244,
+      "en": "Okay, this past tense.",
+      "cn": "好吧，这是过去时。"
+    },
+    {
+      "id": 245,
+      "en": "So he's saying, before I came to India with this girl, I couldn't go through with it.",
+      "cn": "所以他说，在我和这个女孩来到印度之前，我无法继续下去。"
+    },
+    {
+      "id": 246,
+      "en": "So present would be, I can't go through with it.",
+      "cn": "所以现在是，我不能继续下去。"
+    },
+    {
+      "id": 247,
+      "en": "And going through with what here?",
+      "cn": "这里的继续下去是什么？"
+    },
+    {
+      "id": 248,
+      "en": "We've got it.",
+      "cn": "我们明白了。"
+    },
+    {
+      "id": 249,
+      "en": "This kind of magical, strange word, it.",
+      "cn": "这个神奇而奇怪的词，它。"
+    },
+    {
+      "id": 250,
+      "en": "What could this be?",
+      "cn": "这可能是什么？"
+    },
+    {
+      "id": 251,
+      "en": "So basically what he's saying is that he couldn't complete or maybe finish something that he started.",
+      "cn": "所以基本上他在说他无法完成或也许结束他开始的事情。"
+    },
+    {
+      "id": 252,
+      "en": "So in this case, we're talking about a relationship or marriage relationship.",
+      "cn": "所以在这种情况下，我们谈论的是一段关系或婚姻关系。"
+    },
+    {
+      "id": 253,
+      "en": "So maybe we loved each other, but I couldn't go through with it.",
+      "cn": "所以也许我们彼此相爱，但我无法继续下去。"
+    },
+    {
+      "id": 254,
+      "en": "I couldn't go to the finish line.",
+      "cn": "我无法到达终点。"
+    },
+    {
+      "id": 255,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 256,
+      "en": "I couldn't get married.",
+      "cn": "我无法结婚。"
+    },
+    {
+      "id": 257,
+      "en": "You see that a lot when maybe in movies, two people are supposed to get married.",
+      "cn": "你在电影中经常看到这种情况，也许两个人应该结婚。"
+    },
+    {
+      "id": 258,
+      "en": "They're at the altar.",
+      "cn": "他们在祭坛上。"
+    },
+    {
+      "id": 259,
+      "en": "And all of a sudden the bride says, I can't, or she goes away crying.",
+      "cn": "突然新娘说，我不能，或者她哭着离开。"
+    },
+    {
+      "id": 260,
+      "en": "I can't go through with it.",
+      "cn": "我不能继续下去。"
+    },
+    {
+      "id": 261,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 262,
+      "en": "So because she loves somebody else, so can't go through with it.",
+      "cn": "所以因为她爱上了其他人，所以不能继续下去。"
+    },
+    {
+      "id": 263,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 264,
+      "en": "So really good phrase.",
+      "cn": "所以这是一个非常好的短语。"
+    },
+    {
+      "id": 265,
+      "en": "I can't go through with it.",
+      "cn": "我不能继续下去。"
+    },
+    {
+      "id": 266,
+      "en": "He couldn't go through with it.",
+      "cn": "他无法继续下去。"
+    },
+    {
+      "id": 267,
+      "en": "And we find out that, well, not such a bad thing.",
+      "cn": "我们发现，这其实并不是一件坏事。"
+    },
+    {
+      "id": 268,
+      "en": "Steven, he's very popular in India.",
+      "cn": "史蒂文，他在印度非常受欢迎。"
+    },
+    {
+      "id": 269,
+      "en": "The girls love him.",
+      "cn": "女孩们都爱他。"
+    },
+    {
+      "id": 270,
+      "en": "We've got a great phrase for describing having lots of girls who love you.",
+      "cn": "我们有一个很好的短语来形容有很多女孩爱你。"
+    },
+    {
+      "id": 271,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 272,
+      "en": "He says that there will be girls throwing themselves at you.",
+      "cn": "他说会有女孩向你投怀送抱。"
+    },
+    {
+      "id": 273,
+      "en": "Literally like, wow, that might have hurt.",
+      "cn": "字面意思是，哇，这可能会很痛。"
+    },
+    {
+      "id": 274,
+      "en": "I can't imagine that.",
+      "cn": "我无法想象。"
+    },
+    {
+      "id": 275,
+      "en": "Like just somebody throwing themselves at you.",
+      "cn": "就像有人向你投怀送抱。"
+    },
+    {
+      "id": 276,
+      "en": "No, it's not literal.",
+      "cn": "不，这不是字面意思。"
+    },
+    {
+      "id": 277,
+      "en": "It's basically saying girls are very interested in you.",
+      "cn": "这基本上是在说女孩们对你非常感兴趣。"
+    },
+    {
+      "id": 278,
+      "en": "Girls are so interested in you that they'll be chasing you almost.",
+      "cn": "女孩们对你如此感兴趣，以至于她们几乎会追着你。"
+    },
+    {
+      "id": 279,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 280,
+      "en": "So many, many girls, they will follow you.",
+      "cn": "所以很多很多女孩，她们会跟随你。"
+    },
+    {
+      "id": 281,
+      "en": "They'll want to be in a relationship with you.",
+      "cn": "她们想和你建立关系。"
+    },
+    {
+      "id": 282,
+      "en": "They like you.",
+      "cn": "她们喜欢你。"
+    },
+    {
+      "id": 283,
+      "en": "So he's saying, listen, there are other girls.",
+      "cn": "所以他说，听着，还有其他女孩。"
+    },
+    {
+      "id": 284,
+      "en": "Don't worry.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 285,
+      "en": "Girls here, they love you.",
+      "cn": "这里的女孩们都爱你。"
+    },
+    {
+      "id": 286,
+      "en": "And it doesn't only work with girls, right?",
+      "cn": "而且这不仅适用于女孩，对吧？"
+    },
+    {
+      "id": 287,
+      "en": "I can say there'll be boys throwing themselves at you.",
+      "cn": "我可以说会有男孩向你投怀送抱。"
+    },
+    {
+      "id": 288,
+      "en": "So this is something we say about both genders, boys and girls.",
+      "cn": "所以这是我们对两性都可以说的事情，男孩和女孩。"
+    },
+    {
+      "id": 289,
+      "en": "You could say, oh God, all the boys were throwing themselves at her.",
+      "cn": "你可以说，哦，天哪，所有男孩都在向她投怀送抱。"
+    },
+    {
+      "id": 290,
+      "en": "I'm so jealous.",
+      "cn": "我真嫉妒。"
+    },
+    {
+      "id": 291,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 292,
+      "en": "But it's only basically in a loving way, right?",
+      "cn": "但这基本上是以一种爱的方式，对吧？"
+    },
+    {
+      "id": 293,
+      "en": "It can't be anything else like somebody's chasing you for other reasons.",
+      "cn": "不能是其他原因，比如有人在追你。"
+    },
+    {
+      "id": 294,
+      "en": "No, this is saying that they have crushes.",
+      "cn": "不，这表示他们有暗恋。"
+    },
+    {
+      "id": 295,
+      "en": "They have feelings.",
+      "cn": "他们有感情。"
+    },
+    {
+      "id": 296,
+      "en": "They want to be romantic.",
+      "cn": "他们想要浪漫。"
+    },
+    {
+      "id": 297,
+      "en": "It's not a bad thing, but sometimes it's too much attention.",
+      "cn": "这不是坏事，但有时关注太多。"
+    },
+    {
+      "id": 298,
+      "en": "So it can be kind of negative.",
+      "cn": "所以这可能有点负面。"
+    },
+    {
+      "id": 299,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 300,
+      "en": "Well, interesting phrases on Fluency Builder today.",
+      "cn": "今天在流利表达者上有趣的短语。"
+    },
+    {
+      "id": 301,
+      "en": "I think it's time for us to listen to this dialogue for one last time.",
+      "cn": "我想是时候最后一次听这个对话了。"
+    },
+    {
+      "id": 302,
+      "en": "Get up and dance.",
+      "cn": "起身跳舞。"
+    },
+    {
+      "id": 303,
+      "en": "Yeah, get up and dance.",
+      "cn": "是的，起身跳舞。"
+    },
+    {
+      "id": 304,
+      "en": "And we'll be back in a little bit.",
+      "cn": "我们稍后会回来。"
+    },
+    {
+      "id": 305,
+      "en": "Steven, good to see you, brother.",
+      "cn": "史蒂文，见到你真好，兄弟。"
+    },
+    {
+      "id": 306,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 307,
+      "en": "How was your trip?",
+      "cn": "你的旅行怎么样？"
+    },
+    {
+      "id": 308,
+      "en": "It was fine.",
+      "cn": "很好。"
+    },
+    {
+      "id": 309,
+      "en": "I've been better, but it's great to be home.",
+      "cn": "我曾经更好，但回家真好。"
+    },
+    {
+      "id": 310,
+      "en": "I've missed you all.",
+      "cn": "我想念你们所有人。"
+    },
+    {
+      "id": 311,
+      "en": "How's mom?",
+      "cn": "妈妈怎么样？"
+    },
+    {
+      "id": 312,
+      "en": "She's great.",
+      "cn": "她很好。"
+    },
+    {
+      "id": 313,
+      "en": "All she ever does is talk about you, her little boy that went to the United States.",
+      "cn": "她总是谈论你，她的小男孩去美国了。"
+    },
+    {
+      "id": 314,
+      "en": "You're her pride and joy.",
+      "cn": "你是她的骄傲和快乐。"
+    },
+    {
+      "id": 315,
+      "en": "You know that, right?",
+      "cn": "你知道这一点，对吧？"
+    },
+    {
+      "id": 316,
+      "en": "I can't wait to see you.",
+      "cn": "我迫不及待想见你。"
+    },
+    {
+      "id": 317,
+      "en": "You?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 318,
+      "en": "What's new with you?",
+      "cn": "你有什么新鲜事？"
+    },
+    {
+      "id": 319,
+      "en": "Well, Nisha and I are expecting.",
+      "cn": "嗯，尼莎和我有喜了。"
+    },
+    {
+      "id": 320,
+      "en": "You'll have another nephew or niece soon.",
+      "cn": "你很快就会有另一个侄子或侄女。"
+    },
+    {
+      "id": 321,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 322,
+      "en": "Wow!",
+      "cn": "哇！"
+    },
+    {
+      "id": 323,
+      "en": "Congrats!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 324,
+      "en": "You two are great together, you know.",
+      "cn": "你们俩真是天生一对。"
+    },
+    {
+      "id": 325,
+      "en": "You have such a beautiful family.",
+      "cn": "你有一个如此美丽的家庭。"
+    },
+    {
+      "id": 326,
+      "en": "I hope that one day I can have that.",
+      "cn": "我希望有一天我也能拥有那样的家庭。"
+    },
+    {
+      "id": 327,
+      "en": "Of course, man.",
+      "cn": "当然，伙计。"
+    },
+    {
+      "id": 328,
+      "en": "Come on.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 329,
+      "en": "I mean, everything was said here for you to marry Shalini.",
+      "cn": "我是说，这里说的一切都是为了让你娶沙莉尼。"
+    },
+    {
+      "id": 330,
+      "en": "You know, she's still pining after you.",
+      "cn": "你知道，她还在想你。"
+    },
+    {
+      "id": 331,
+      "en": "I don't think she'll ever get over you.",
+      "cn": "我觉得她永远不会忘记你。"
+    },
+    {
+      "id": 332,
+      "en": "What are you talking about?",
+      "cn": "你在说什么？"
+    },
+    {
+      "id": 333,
+      "en": "I hardly knew her.",
+      "cn": "我几乎不认识她。"
+    },
+    {
+      "id": 334,
+      "en": "How could she be in love with me?",
+      "cn": "她怎么可能爱上我？"
+    },
+    {
+      "id": 335,
+      "en": "I couldn't go through with it even though she's a great woman.",
+      "cn": "即使她是个好女人，我也无法做到。"
+    },
+    {
+      "id": 336,
+      "en": "No, I left my heart in the United States.",
+      "cn": "不，我把我的心留在了美国。"
+    },
+    {
+      "id": 337,
+      "en": "I just hope Veronica is happy.",
+      "cn": "我只希望维罗妮卡幸福。"
+    },
+    {
+      "id": 338,
+      "en": "Get over it.",
+      "cn": "别想太多。"
+    },
+    {
+      "id": 339,
+      "en": "You're home now.",
+      "cn": "你现在回家了。"
+    },
+    {
+      "id": 340,
+      "en": "Everyone here thinks so highly of you.",
+      "cn": "这里的每个人都对你评价很高。"
+    },
+    {
+      "id": 341,
+      "en": "There'll be girls throwing themselves at you.",
+      "cn": "会有女孩向你投怀送抱。"
+    },
+    {
+      "id": 342,
+      "en": "You can marry anyone you want.",
+      "cn": "你可以嫁给任何你想要的人。"
+    },
+    {
+      "id": 343,
+      "en": "I don't want to marry anyone.",
+      "cn": "我不想嫁给任何人。"
+    },
+    {
+      "id": 344,
+      "en": "I want to marry her.",
+      "cn": "我只想嫁给她。"
+    },
+    {
+      "id": 345,
+      "en": "Don't you understand?",
+      "cn": "你难道不明白吗？"
+    },
+    {
+      "id": 346,
+      "en": "You are incorrigible!",
+      "cn": "你真是不可救药！"
+    },
+    {
+      "id": 347,
+      "en": "Steven!",
+      "cn": "史蒂文！"
+    },
+    {
+      "id": 348,
+      "en": "My baby!",
+      "cn": "我的小宝贝！"
+    },
+    {
+      "id": 349,
+      "en": "How are you?",
+      "cn": "你好吗？"
+    },
+    {
+      "id": 350,
+      "en": "I miss you so much!",
+      "cn": "我好想你！"
+    },
+    {
+      "id": 351,
+      "en": "Hey, Mom.",
+      "cn": "嘿，妈妈。"
+    },
+    {
+      "id": 352,
+      "en": "Great to see you.",
+      "cn": "见到你真好。"
+    },
+    {
+      "id": 353,
+      "en": "You look so thin!",
+      "cn": "你看起来瘦了很多！"
+    },
+    {
+      "id": 354,
+      "en": "Didn't those Americans feed you?",
+      "cn": "那些美国人没喂你吗？"
+    },
+    {
+      "id": 355,
+      "en": "Come, come.",
+      "cn": "来，来。"
+    },
+    {
+      "id": 356,
+      "en": "Let's have some time.",
+      "cn": "我们来聊聊。"
+    },
+    {
+      "id": 357,
+      "en": "By the way, there is a girl here waiting for you.",
+      "cn": "顺便说一下，这里有个女孩在等你。"
+    },
+    {
+      "id": 358,
+      "en": "Hi, Steven.",
+      "cn": "嗨，史蒂文。"
+    },
+    {
+      "id": 359,
+      "en": "Veronica, how did you get here?",
+      "cn": "维罗妮卡，你怎么来了？"
+    },
+    {
+      "id": 360,
+      "en": "How do you know where I live?",
+      "cn": "你怎么知道我住在哪里？"
+    },
+    {
+      "id": 361,
+      "en": "I waited for you at the airport, but you never showed.",
+      "cn": "我在机场等你，但你从未出现。"
+    },
+    {
+      "id": 362,
+      "en": "I also have some little secrets that I haven't told you about, but we can discuss that later.",
+      "cn": "我还有一些小秘密没告诉你，但我们可以稍后再谈。"
+    },
+    {
+      "id": 363,
+      "en": "I realized that I was just scared.",
+      "cn": "我意识到我只是害怕。"
+    },
+    {
+      "id": 364,
+      "en": "Scared of how much I love you and of the commitment that marriage requires.",
+      "cn": "害怕我有多爱你，以及婚姻所需的承诺。"
+    },
+    {
+      "id": 365,
+      "en": "I'm here now.",
+      "cn": "我现在在这里。"
+    },
+    {
+      "id": 366,
+      "en": "Now there's something I want to ask you.",
+      "cn": "现在我想问你一个问题。"
+    },
+    {
+      "id": 367,
+      "en": "Steven, will you marry me?",
+      "cn": "史蒂文，你愿意嫁给我吗？"
+    },
+    {
+      "id": 368,
+      "en": "I now declare you husband and wife.",
+      "cn": "我现在宣布你们为夫妻。"
+    },
+    {
+      "id": 369,
+      "en": "You may kiss the bride.",
+      "cn": "你可以吻新娘。"
+    },
+    {
+      "id": 370,
+      "en": "All right, so it's over.",
+      "cn": "好吧，结束了。"
+    },
+    {
+      "id": 371,
+      "en": "Ah, sad, sad but sweet.",
+      "cn": "啊，伤心，伤心但甜蜜。"
+    },
+    {
+      "id": 372,
+      "en": "Sad but sweet, huh?",
+      "cn": "伤心但甜蜜，是吧？"
+    },
+    {
+      "id": 373,
+      "en": "Ten.",
+      "cn": "十。"
+    },
+    {
+      "id": 374,
+      "en": "Well, we went from them meeting casually by a bike accident.",
+      "cn": "嗯，我们从他们因一次自行车事故而偶然相遇开始。"
+    },
+    {
+      "id": 375,
+      "en": "Yeah, we had nice music.",
+      "cn": "是的，我们有美妙的音乐。"
+    },
+    {
+      "id": 376,
+      "en": "Then it turned out that she was angry.",
+      "cn": "然后她生气了。"
+    },
+    {
+      "id": 377,
+      "en": "They kind of broke up.",
+      "cn": "他们有点分手了。"
+    },
+    {
+      "id": 378,
+      "en": "They got back together.",
+      "cn": "他们又在一起了。"
+    },
+    {
+      "id": 379,
+      "en": "He was being strained with all of these secret trips to save people.",
+      "cn": "他因秘密旅行拯救人而感到压力。"
+    },
+    {
+      "id": 380,
+      "en": "It was interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 381,
+      "en": "We went a lot of different ways.",
+      "cn": "我们走了很多不同的路。"
+    },
+    {
+      "id": 382,
+      "en": "She was pregnant.",
+      "cn": "她怀孕了。"
+    },
+    {
+      "id": 383,
+      "en": "She wasn't really pregnant.",
+      "cn": "她并不是真的怀孕。"
+    },
+    {
+      "id": 384,
+      "en": "The doctor was stalking him.",
+      "cn": "医生在跟踪他。"
+    },
+    {
+      "id": 385,
+      "en": "He's in the secret service.",
+      "cn": "他在特勤局。"
+    },
+    {
+      "id": 386,
+      "en": "It was an interesting ride.",
+      "cn": "这是一段有趣的旅程。"
+    },
+    {
+      "id": 387,
+      "en": "Very interesting.",
+      "cn": "非常有趣。"
+    },
+    {
+      "id": 388,
+      "en": "Well, now we need to think of a new drama, a new soap opera or novel.",
+      "cn": "好吧，现在我们需要想一个新的戏剧，一个新的肥皂剧或小说。"
+    },
+    {
+      "id": 389,
+      "en": "So we need your input.",
+      "cn": "所以我们需要你的意见。"
+    },
+    {
+      "id": 390,
+      "en": "Maybe we should open it up.",
+      "cn": "也许我们应该开放讨论。"
+    },
+    {
+      "id": 391,
+      "en": "What did you like?",
+      "cn": "你喜欢什么？"
+    },
+    {
+      "id": 392,
+      "en": "What didn't you like?",
+      "cn": "你不喜欢什么？"
+    },
+    {
+      "id": 393,
+      "en": "And what kind of genre are you interested in?",
+      "cn": "你对什么类型的故事感兴趣？"
+    },
+    {
+      "id": 394,
+      "en": "Because, you know, there's tons of different kinds of stories we could tell.",
+      "cn": "因为你知道，我们可以讲很多不同类型的故事。"
+    },
+    {
+      "id": 395,
+      "en": "Right, maybe we can do something scary like a thriller or horror.",
+      "cn": "对，也许我们可以做一些恐怖的，比如惊悚片或恐怖片。"
+    },
+    {
+      "id": 396,
+      "en": "I'm a big fan of Sci-Fi.",
+      "cn": "我是科幻迷。"
+    },
+    {
+      "id": 397,
+      "en": "Or Sci-Fi.",
+      "cn": "或者科幻。"
+    },
+    {
+      "id": 398,
+      "en": "Maybe we can do something Sci-Fi.",
+      "cn": "也许我们可以做一些科幻的。"
+    },
+    {
+      "id": 399,
+      "en": "Maybe we can do a comedy, something maybe like Friends.",
+      "cn": "也许我们可以做一部喜剧，像《老友记》那样。"
+    },
+    {
+      "id": 400,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 401,
+      "en": "That'd be kind of cute.",
+      "cn": "那会很可爱。"
+    },
+    {
+      "id": 402,
+      "en": "Yeah, it could be.",
+      "cn": "是的，可能会。"
+    },
+    {
+      "id": 403,
+      "en": "All right, so listeners, why don't you give us your input?",
+      "cn": "好吧，听众们，为什么不告诉我们你的想法呢？"
+    },
+    {
+      "id": 404,
+      "en": "We need your feedback.",
+      "cn": "我们需要你的反馈。"
+    },
+    {
+      "id": 405,
+      "en": "Tell us what series you would like next.",
+      "cn": "告诉我们你想要的下一个系列。"
+    },
+    {
+      "id": 406,
+      "en": "What type of series?",
+      "cn": "什么类型的系列？"
+    },
+    {
+      "id": 407,
+      "en": "Maybe like we said drama, Sci-Fi, action.",
+      "cn": "也许像我们说的，剧情、科幻、动作。"
+    },
+    {
+      "id": 408,
+      "en": "What would you like?",
+      "cn": "你想要什么？"
+    },
+    {
+      "id": 409,
+      "en": "And please get in touch with us.",
+      "cn": "请与我们联系。"
+    },
+    {
+      "id": 410,
+      "en": "Leave comments and questions at our website EnglishPod.com.",
+      "cn": "在我们的网站 EnglishPod.com 留下评论和问题。"
+    },
+    {
+      "id": 411,
+      "en": "We like to check those and answer you.",
+      "cn": "我们喜欢查看这些并回答你。"
+    },
+    {
+      "id": 412,
+      "en": "So yeah, get in touch with us and have a great day.",
+      "cn": "所以，是的，和我们联系，祝你有美好的一天。"
+    },
+    {
+      "id": 413,
+      "en": "All right, we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 414,
+      "en": "Bye!",
+      "cn": "再见！"
+    }
+  ]
+}

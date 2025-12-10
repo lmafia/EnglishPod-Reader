@@ -1,0 +1,1424 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0315",
+  "title": "EnglishPod 中高级 0315",
+  "totalSegments": 283,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and we have an unusual lesson for you today.",
+      "cn": "我叫Catherine，今天我们有一节不同寻常的课。"
+    },
+    {
+      "id": 4,
+      "en": "It's more about writing than about speaking.",
+      "cn": "这节课更多是关于写作而不是口语。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "Well, many times we have to write emails, and if we're working in a sales environment, we may need to write an email to a potential client.",
+      "cn": "好吧，很多时候我们需要写电子邮件，如果我们在销售环境中，可能需要给潜在客户写邮件。"
+    },
+    {
+      "id": 7,
+      "en": "All right, so we're going to learn what is appropriate and what is not in today's lesson.",
+      "cn": "好的，所以今天我们要学习什么是合适的，什么是不合适的。"
+    },
+    {
+      "id": 8,
+      "en": "Let's take a listen to our dialogue.",
+      "cn": "让我们来听听我们的对话。"
+    },
+    {
+      "id": 9,
+      "en": "Melanie, can you help me with something?",
+      "cn": "Melanie，你能帮我一下吗？"
+    },
+    {
+      "id": 10,
+      "en": "We need to finalize the account with the Mexican Embassy, and I need some advice on phrasing this letter correctly in English.",
+      "cn": "我们需要与墨西哥大使馆最终确定账户，我需要一些关于如何正确用英语措辞这封信的建议。"
+    },
+    {
+      "id": 11,
+      "en": "Sure, Tracy, let me just get my laptop.",
+      "cn": "当然，Tracy，让我拿一下我的笔记本电脑。"
+    },
+    {
+      "id": 12,
+      "en": "Right, all set.",
+      "cn": "好的，准备好了。"
+    },
+    {
+      "id": 13,
+      "en": "Okay, so to whom it may concern, I am writing... Um, Tracy, I think that's a little too formal.",
+      "cn": "好吧，致有关人士，我写信是... 嗯，Tracy，我觉得这有点太正式了。"
+    },
+    {
+      "id": 14,
+      "en": "I know you want to be polite, but you've already made contact with them, so in English, you can be a bit more relaxed in the opening.",
+      "cn": "我知道你想要礼貌，但你已经和他们联系过了，所以在英语中，你可以在开头稍微放松一些。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, more relaxed.",
+      "cn": "好的，更放松一点。"
+    },
+    {
+      "id": 16,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 17,
+      "en": "Hey, Sally, what's up?",
+      "cn": "嘿，Sally，怎么样？"
+    },
+    {
+      "id": 18,
+      "en": "Is Tracy here?",
+      "cn": "Tracy在吗？"
+    },
+    {
+      "id": 19,
+      "en": "Just... Okay, Tracy, now it's too relaxed.",
+      "cn": "就是... 好吧，Tracy，现在太放松了。"
+    },
+    {
+      "id": 20,
+      "en": "You've still got to show some respect.",
+      "cn": "你还是得表现出一些尊重。"
+    },
+    {
+      "id": 21,
+      "en": "How about starting with, Dear Miss Cooper, I'm writing to confirm...",
+      "cn": "怎么样开始，亲爱的Cooper小姐，我写信是为了确认..."
+    },
+    {
+      "id": 22,
+      "en": "Great, okay, Dear Miss Cooper, I'm writing to confirm the final quotation for the full page back cover color advertisements you requested for the spring issue of Viola magazine.",
+      "cn": "很好，好的，亲爱的Cooper小姐，我写信是为了确认您请求的Viola杂志春季刊的全页背面彩色广告的最终报价。"
+    },
+    {
+      "id": 23,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 24,
+      "en": "The final costing, including advert design and production, comes to $45,600 RMB.",
+      "cn": "最终费用，包括广告设计和制作，总计45,600人民币。"
+    },
+    {
+      "id": 25,
+      "en": "We want payment 10 working days before publication, or we will cancel the ad.",
+      "cn": "我们希望在出版前10个工作日收到付款，否则我们将取消广告。"
+    },
+    {
+      "id": 26,
+      "en": "Thanks for... Whoa, okay, back up a second, Tracy.",
+      "cn": "谢谢... 哇，好的，等一下，Tracy。"
+    },
+    {
+      "id": 27,
+      "en": "That's too direct.",
+      "cn": "这太直接了。"
+    },
+    {
+      "id": 28,
+      "en": "Can I suggest you say, please note that the final payment is due two working weeks before publication?",
+      "cn": "我建议你说，请注意，最终付款在出版前两周到期。"
+    },
+    {
+      "id": 29,
+      "en": "You don't want to offend her.",
+      "cn": "你不想冒犯她。"
+    },
+    {
+      "id": 30,
+      "en": "Oops, okay, you're right.",
+      "cn": "哎呀，好的，你说得对。"
+    },
+    {
+      "id": 31,
+      "en": "Then I can just end with, all the best, Tracy.",
+      "cn": "那我可以就以“祝好，Tracy”结束。"
+    },
+    {
+      "id": 32,
+      "en": "Maybe I'd play it safe and just finish with, yours sincerely.",
+      "cn": "也许我会更安全一点，结束时说“诚挚的”。"
+    },
+    {
+      "id": 33,
+      "en": "That's more professional.",
+      "cn": "这样更专业。"
+    },
+    {
+      "id": 34,
+      "en": "Oh, Melanie, you're a lifesaver.",
+      "cn": "哦，Melanie，你真是救星。"
+    },
+    {
+      "id": 35,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 36,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 37,
+      "en": "So now let's take a look at some of that vocab we heard on Language Takeaway.",
+      "cn": "现在让我们看看在Language Takeaway中听到的一些词汇。"
+    },
+    {
+      "id": 38,
+      "en": "Language Takeaway.",
+      "cn": "Language Takeaway。"
+    },
+    {
+      "id": 39,
+      "en": "We have some wonderful adjectives today.",
+      "cn": "今天我们有一些很棒的形容词。"
+    },
+    {
+      "id": 40,
+      "en": "The first one that I wanted to discuss, Marco, is formal.",
+      "cn": "我想讨论的第一个，Marco，是正式的。"
+    },
+    {
+      "id": 41,
+      "en": "Formal, that's right.",
+      "cn": "正式的，没错。"
+    },
+    {
+      "id": 42,
+      "en": "We want to be a little bit more formal when we're writing someone we don't really know too much.",
+      "cn": "当我们写给不太熟悉的人时，我们想要稍微正式一些。"
+    },
+    {
+      "id": 43,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 44,
+      "en": "But we have to be careful because sometimes you can be too formal.",
+      "cn": "但我们必须小心，因为有时你可能会太正式。"
+    },
+    {
+      "id": 45,
+      "en": "So what exactly does formal mean?",
+      "cn": "那么，正式到底是什么意思？"
+    },
+    {
+      "id": 46,
+      "en": "So if you write a formal email, it's very proper, very respectful.",
+      "cn": "如果你写一封正式的电子邮件，那是非常得体和尊重的。"
+    },
+    {
+      "id": 47,
+      "en": "So proper in the way that you wouldn't use colloquial terms or phrasal verbs that you would use with your friends.",
+      "cn": "所以得体的方式是你不会使用口语或与朋友交流时使用的短语动词。"
+    },
+    {
+      "id": 48,
+      "en": "No, a good example is writing to a lawyer or a judge.",
+      "cn": "不，一个好的例子是写信给律师或法官。"
+    },
+    {
+      "id": 49,
+      "en": "You want to use formal language.",
+      "cn": "你想使用正式的语言。"
+    },
+    {
+      "id": 50,
+      "en": "Even with a teacher, you might use more formal language.",
+      "cn": "即使是对老师，你也可能使用更正式的语言。"
+    },
+    {
+      "id": 51,
+      "en": "But with a friend, you don't have to.",
+      "cn": "但对朋友，你就不必这样。"
+    },
+    {
+      "id": 52,
+      "en": "That's something else.",
+      "cn": "那是另外一回事。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "So when you're writing something that's formal, it's important to be polite as well.",
+      "cn": "所以当你写正式的东西时，礼貌也很重要。"
+    },
+    {
+      "id": 55,
+      "en": "Now, what is polite?",
+      "cn": "现在，什么是礼貌？"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 57,
+      "en": "So you want to be formal, you want to be serious, and you want to be polite.",
+      "cn": "所以你想要正式，想要严肃，并且想要礼貌。"
+    },
+    {
+      "id": 58,
+      "en": "You want to show respect.",
+      "cn": "你想表现出尊重。"
+    },
+    {
+      "id": 59,
+      "en": "You want to be nice, basically.",
+      "cn": "基本上，你想要友好。"
+    },
+    {
+      "id": 60,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 61,
+      "en": "And so people can often be described as polite.",
+      "cn": "所以人们常常被描述为礼貌。"
+    },
+    {
+      "id": 62,
+      "en": "He's very polite or she's not polite at all.",
+      "cn": "他很礼貌，或者她一点也不礼貌。"
+    },
+    {
+      "id": 63,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 64,
+      "en": "And when I was a little kid, my mom used to say, it's very important to be polite.",
+      "cn": "当我还是个小孩时，我妈妈常常说，礼貌是非常重要的。"
+    },
+    {
+      "id": 65,
+      "en": "Always say thank you and you're welcome when you're talking to other people.",
+      "cn": "和其他人交谈时，总是要说谢谢和不客气。"
+    },
+    {
+      "id": 66,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 67,
+      "en": "And that's one way of being polite.",
+      "cn": "这就是一种礼貌的方式。"
+    },
+    {
+      "id": 68,
+      "en": "Now, also, when we are describing the way that you speak to someone or the way that you write, you can be very direct.",
+      "cn": "现在，当我们描述你与某人交谈或写作的方式时，你可以非常直接。"
+    },
+    {
+      "id": 69,
+      "en": "Now, being direct means that you say exactly what you want or exactly what you're thinking.",
+      "cn": "现在，直接意味着你说出你想要的或你在想的确切内容。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, so maybe if we're talking to this company, you say, hi, I want this, I will pay this much, thank you, bye.",
+      "cn": "好吧，所以也许如果我们在和这家公司交谈，你会说，嗨，我想要这个，我会支付这个价钱，谢谢，再见。"
+    },
+    {
+      "id": 71,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 72,
+      "en": "That's maybe too direct.",
+      "cn": "这可能太直接了。"
+    },
+    {
+      "id": 73,
+      "en": "So sometimes you need to be a little less direct and say nice things in an email.",
+      "cn": "所以有时你需要稍微少一点直接，在电子邮件中说一些好听的话。"
+    },
+    {
+      "id": 74,
+      "en": "So maybe you want to say to someone that you don't really like the clothes they're wearing.",
+      "cn": "所以也许你想对某人说你不太喜欢他们穿的衣服。"
+    },
+    {
+      "id": 75,
+      "en": "You say, hey, do you like my new shirt?",
+      "cn": "你会说，嘿，你喜欢我这件新衬衫吗？"
+    },
+    {
+      "id": 76,
+      "en": "And if you're very direct, you would say, no, I think it's very ugly.",
+      "cn": "如果你非常直接，你会说，不，我觉得它很丑。"
+    },
+    {
+      "id": 77,
+      "en": "I hate it.",
+      "cn": "我讨厌它。"
+    },
+    {
+      "id": 78,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 79,
+      "en": "That's too direct.",
+      "cn": "这太直接了。"
+    },
+    {
+      "id": 80,
+      "en": "So maybe you would say, I don't really think it suits you very well.",
+      "cn": "所以也许你会说，我觉得这件衣服不太适合你。"
+    },
+    {
+      "id": 81,
+      "en": "Or I think a different color would be better on you.",
+      "cn": "或者我觉得换个颜色会更适合你。"
+    },
+    {
+      "id": 82,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 83,
+      "en": "So that's being a little bit less direct.",
+      "cn": "所以这就是稍微少一点直接。"
+    },
+    {
+      "id": 84,
+      "en": "Now, obviously, if you're too direct with someone, you may offend that person.",
+      "cn": "现在，显然，如果你对某人太直接，你可能会冒犯那个人。"
+    },
+    {
+      "id": 85,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 86,
+      "en": "To offend is a verb.",
+      "cn": "冒犯是一个动词。"
+    },
+    {
+      "id": 87,
+      "en": "And to offend someone means to say something that makes them unhappy or upset or even angry.",
+      "cn": "冒犯某人意味着说一些让他们不高兴、沮丧甚至生气的话。"
+    },
+    {
+      "id": 88,
+      "en": "So going back to the same example of the shirt, if you say, I think that shirt is very ugly, that person might be offended.",
+      "cn": "所以回到同样的衬衫例子，如果你说，我觉得那件衬衫很丑，那个人可能会感到被冒犯。"
+    },
+    {
+      "id": 89,
+      "en": "Gosh.",
+      "cn": "哇。"
+    },
+    {
+      "id": 90,
+      "en": "Or maybe if you say, you know, I think people with brown hair are so ugly.",
+      "cn": "或者如果你说，你知道，我觉得棕色头发的人都很丑。"
+    },
+    {
+      "id": 91,
+      "en": "And there's someone next to me with brown hair.",
+      "cn": "而我旁边有一个棕色头发的人。"
+    },
+    {
+      "id": 92,
+      "en": "They say, oh, I'm offended.",
+      "cn": "他们会说，哦，我被冒犯了。"
+    },
+    {
+      "id": 93,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 94,
+      "en": "I'm not ugly, but I have brown hair.",
+      "cn": "我并不丑，但我有棕色头发。"
+    },
+    {
+      "id": 95,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 96,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 97,
+      "en": "So you don't want to offend anyone by being too direct or you don't want to have anyone feel offended.",
+      "cn": "所以你不想通过太直接而冒犯任何人，或者你不想让任何人感到被冒犯。"
+    },
+    {
+      "id": 98,
+      "en": "Now, for our last phrase here on Language Takeaway, we have, towards the end of the dialogue, Tracy thanks Melanie by saying, you are a lifesaver.",
+      "cn": "现在，在Language Takeaway的最后一句话中，Tracy在对话的最后感谢Melanie，说，你是我的救星。"
+    },
+    {
+      "id": 99,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 100,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 101,
+      "en": "So don't be confused.",
+      "cn": "所以不要感到困惑。"
+    },
+    {
+      "id": 102,
+      "en": "There is also a candy called Lifesavers, and she's not calling her a candy.",
+      "cn": "还有一种糖果叫救生圈，她并不是在称呼她为糖果。"
+    },
+    {
+      "id": 103,
+      "en": "She's saying, wow, thank you.",
+      "cn": "她是在说，哇，谢谢你。"
+    },
+    {
+      "id": 104,
+      "en": "Really helped me.",
+      "cn": "真的帮了我。"
+    },
+    {
+      "id": 105,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 106,
+      "en": "So when someone helps you a lot, you can call them a lifesaver.",
+      "cn": "所以当有人帮助你很多时，你可以称他们为救星。"
+    },
+    {
+      "id": 107,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 108,
+      "en": "Marco, what exactly is the object, the lifesaver?",
+      "cn": "Marco，救星到底是什么？"
+    },
+    {
+      "id": 109,
+      "en": "If you've ever been on a boat, you see this big orange circle that is used to throw into the water to help someone to prevent them from drowning.",
+      "cn": "如果你曾经在船上，你会看到这个大橙色的圆圈，用来扔进水里帮助某人，防止他们溺水。"
+    },
+    {
+      "id": 110,
+      "en": "That is called a lifesaver.",
+      "cn": "那叫救生圈。"
+    },
+    {
+      "id": 111,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 112,
+      "en": "So I'm drowning.",
+      "cn": "所以我在溺水。"
+    },
+    {
+      "id": 113,
+      "en": "I'm having a hard time writing this email.",
+      "cn": "我在写这封邮件时很困难。"
+    },
+    {
+      "id": 114,
+      "en": "I do not know what to say.",
+      "cn": "我不知道该说什么。"
+    },
+    {
+      "id": 115,
+      "en": "Marco, you come and help me.",
+      "cn": "Marco，你来帮我。"
+    },
+    {
+      "id": 116,
+      "en": "I can say, oh, wow, thank you so much.",
+      "cn": "我可以说，哦，哇，非常感谢你。"
+    },
+    {
+      "id": 117,
+      "en": "You're a lifesaver.",
+      "cn": "你是我的救星。"
+    },
+    {
+      "id": 118,
+      "en": "That's exactly right.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 119,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 120,
+      "en": "So we've taken a look at five keywords there.",
+      "cn": "所以我们看了五个关键词。"
+    },
+    {
+      "id": 121,
+      "en": "Why don't we take a listen to our dialogue again, and we'll be back with Fluency Builder.",
+      "cn": "为什么我们不再听一次对话，然后我们会回来进行流利度提升。"
+    },
+    {
+      "id": 122,
+      "en": "Melanie, can you help me with something?",
+      "cn": "Melanie，你能帮我一下吗？"
+    },
+    {
+      "id": 123,
+      "en": "We need to finalize the account with the Mexican Embassy, and I need some advice on phrasing this letter correctly in English.",
+      "cn": "我们需要与墨西哥大使馆最终确定账户，我需要一些关于如何正确用英语措辞这封信的建议。"
+    },
+    {
+      "id": 124,
+      "en": "Sure, Tracy.",
+      "cn": "当然，Tracy。"
+    },
+    {
+      "id": 125,
+      "en": "Let me just get my laptop.",
+      "cn": "让我拿一下我的笔记本电脑。"
+    },
+    {
+      "id": 126,
+      "en": "Right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 127,
+      "en": "All set.",
+      "cn": "一切准备就绪。"
+    },
+    {
+      "id": 128,
+      "en": "Okay, so to whom it may concern.",
+      "cn": "好的，致有关人士。"
+    },
+    {
+      "id": 129,
+      "en": "I am writing... Tracy, I think that's a little too formal.",
+      "cn": "我写信是... Tracy，我觉得这有点太正式了。"
+    },
+    {
+      "id": 130,
+      "en": "I know you want to be polite, but you've already made contact with them.",
+      "cn": "我知道你想要礼貌，但你已经和他们联系过了。"
+    },
+    {
+      "id": 131,
+      "en": "So in English, you can be a bit more relaxed in the opening.",
+      "cn": "所以在英语中，你可以在开头稍微放松一些。"
+    },
+    {
+      "id": 132,
+      "en": "Okay, more relaxed.",
+      "cn": "好的，更放松。"
+    },
+    {
+      "id": 133,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 134,
+      "en": "Hey, Sally, what's up?",
+      "cn": "嘿，Sally，怎么样？"
+    },
+    {
+      "id": 135,
+      "en": "It's Tracy here.",
+      "cn": "我是Tracy。"
+    },
+    {
+      "id": 136,
+      "en": "Just... You've still got to show some respect.",
+      "cn": "只是... 你仍然需要表现出一些尊重。"
+    },
+    {
+      "id": 137,
+      "en": "How about starting with Dear Miss Cooper?",
+      "cn": "怎么样，从亲爱的Cooper小姐开始？"
+    },
+    {
+      "id": 138,
+      "en": "I'm writing to confirm...",
+      "cn": "我写信是为了确认..."
+    },
+    {
+      "id": 139,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 140,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 141,
+      "en": "Dear Miss Cooper, I'm writing to confirm the final quotation for the full page back cover color advertisements you requested for the spring issue of Viola magazine.",
+      "cn": "亲爱的Cooper小姐，我写信是为了确认您请求的Viola杂志春季刊的全页背面彩色广告的最终报价。"
+    },
+    {
+      "id": 142,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 143,
+      "en": "The final costing, including advert design and production comes to $45,600 RMB.",
+      "cn": "最终费用，包括广告设计和制作，总计45600元人民币。"
+    },
+    {
+      "id": 144,
+      "en": "We want payments 10 working days before publication, or we will cancel the ad.",
+      "cn": "我们希望在出版前10个工作日收到付款，否则我们将取消广告。"
+    },
+    {
+      "id": 145,
+      "en": "Thanks for... Whoa, okay.",
+      "cn": "谢谢... 哇，好吧。"
+    },
+    {
+      "id": 146,
+      "en": "Back up a second, Tracy.",
+      "cn": "等一下，Tracy。"
+    },
+    {
+      "id": 147,
+      "en": "That's too direct.",
+      "cn": "这太直接了。"
+    },
+    {
+      "id": 148,
+      "en": "Can I suggest you say, please note that the final payment is due two working weeks before publication.",
+      "cn": "我可以建议你说，请注意，最终付款在出版前两周到期。"
+    },
+    {
+      "id": 149,
+      "en": "You don't want to offend her.",
+      "cn": "你不想冒犯她。"
+    },
+    {
+      "id": 150,
+      "en": "Oops.",
+      "cn": "哎呀。"
+    },
+    {
+      "id": 151,
+      "en": "Okay, you're right.",
+      "cn": "好吧，你说得对。"
+    },
+    {
+      "id": 152,
+      "en": "Then I can just end with all the best, Tracy.",
+      "cn": "那我可以以祝一切顺利，Tracy结束。"
+    },
+    {
+      "id": 153,
+      "en": "Maybe I'd play it safe and just finish with yours sincerely.",
+      "cn": "也许我应该安全起见，最后写上诚挚的问候。"
+    },
+    {
+      "id": 154,
+      "en": "That's more professional.",
+      "cn": "这更专业。"
+    },
+    {
+      "id": 155,
+      "en": "Oh, Melanie, you're a lifesaver.",
+      "cn": "哦，Melanie，你是我的救星。"
+    },
+    {
+      "id": 156,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 157,
+      "en": "So today in Fluency Builder, we have a number of phrases you can use when you're writing an email.",
+      "cn": "所以今天在流利度提升中，我们有一些短语可以在写邮件时使用。"
+    },
+    {
+      "id": 158,
+      "en": "Some of them are very polite and formal.",
+      "cn": "其中一些非常礼貌和正式。"
+    },
+    {
+      "id": 159,
+      "en": "Some of them are very informal or casual.",
+      "cn": "其中一些非常非正式或随意。"
+    },
+    {
+      "id": 160,
+      "en": "Now this first phrase, Marco, is very, very formal, right?",
+      "cn": "现在这个第一个短语，Marco，非常非常正式，对吧？"
+    },
+    {
+      "id": 161,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 162,
+      "en": "We start our letter by stating to whom it may concern.",
+      "cn": "我们以致有关人士开始我们的信。"
+    },
+    {
+      "id": 163,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 164,
+      "en": "To whom it may concern.",
+      "cn": "致有关人士。"
+    },
+    {
+      "id": 165,
+      "en": "Remember that M there.",
+      "cn": "记住那个M。"
+    },
+    {
+      "id": 166,
+      "en": "This is a very formal phrase, and we're going to take it as a phrase.",
+      "cn": "这是一个非常正式的短语，我们将其视为一个短语。"
+    },
+    {
+      "id": 167,
+      "en": "This is how you begin a formal letter.",
+      "cn": "这是你开始正式信件的方式。"
+    },
+    {
+      "id": 168,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 169,
+      "en": "Usually you start this letter if it's directed to maybe a company or someone not specific.",
+      "cn": "通常你在写给公司或不特定的人时开始这封信。"
+    },
+    {
+      "id": 170,
+      "en": "You don't know that person's name, and you're just saying, you know, whoever's reading this letter, whoever it concerns.",
+      "cn": "你不知道那个人的名字，只是说，知道的，阅读这封信的人，无论是谁。"
+    },
+    {
+      "id": 171,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 172,
+      "en": "Well, I could say, Dear Marco.",
+      "cn": "好吧，我可以说，亲爱的Marco。"
+    },
+    {
+      "id": 173,
+      "en": "But in this case, maybe I don't know who the name of the person I am writing this email to.",
+      "cn": "但在这种情况下，也许我不知道我写这封邮件的人的名字。"
+    },
+    {
+      "id": 174,
+      "en": "It's a big company.",
+      "cn": "这是一个大公司。"
+    },
+    {
+      "id": 175,
+      "en": "There are many people.",
+      "cn": "有很多人。"
+    },
+    {
+      "id": 176,
+      "en": "So if you don't know who you're writing to in a company or in an organization, you say to whom it may concern.",
+      "cn": "所以如果你不知道在公司或组织中写给谁，你就说致有关人士。"
+    },
+    {
+      "id": 177,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 178,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 179,
+      "en": "Now we started very formal.",
+      "cn": "现在我们开始得很正式。"
+    },
+    {
+      "id": 180,
+      "en": "Melanie said, I think it's a little bit too formal.",
+      "cn": "Melanie说，我觉得这有点太正式了。"
+    },
+    {
+      "id": 181,
+      "en": "Maybe we should be more relaxed.",
+      "cn": "也许我们应该更放松。"
+    },
+    {
+      "id": 182,
+      "en": "So Tracy says, Okay, got it.",
+      "cn": "所以Tracy说，好的，明白了。"
+    },
+    {
+      "id": 183,
+      "en": "So how about, Hey, Sally, what's up?",
+      "cn": "那么怎么样，嘿，Sally，怎么样？"
+    },
+    {
+      "id": 184,
+      "en": "What's up?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 185,
+      "en": "Okay, what's up?",
+      "cn": "好的，怎么样？"
+    },
+    {
+      "id": 186,
+      "en": "What's up is the kind of thing I say with my friends.",
+      "cn": "怎么样是我和朋友说的那种话。"
+    },
+    {
+      "id": 187,
+      "en": "You know, Hey, Marco, what's up?",
+      "cn": "你知道，嘿，Marco，怎么样？"
+    },
+    {
+      "id": 188,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 189,
+      "en": "But I would never say this in a formal situation with a boss or with a, you know, an employer or with a more serious situation.",
+      "cn": "但我绝不会在正式场合对老板或更严肃的场合说这个。"
+    },
+    {
+      "id": 190,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 191,
+      "en": "Especially if you're writing an email to a client.",
+      "cn": "尤其是如果你在给客户写邮件。"
+    },
+    {
+      "id": 192,
+      "en": "You don't really want to say what's up.",
+      "cn": "你真的不想说怎么样。"
+    },
+    {
+      "id": 193,
+      "en": "No, never.",
+      "cn": "不，绝对不。"
+    },
+    {
+      "id": 194,
+      "en": "So remember, this is spoken English with your friends, but not something you would write.",
+      "cn": "所以记住，这在朋友之间是口语英语，但不是你会写的东西。"
+    },
+    {
+      "id": 195,
+      "en": "So the key here is that you have to show some respect.",
+      "cn": "所以关键是你必须表现出一些尊重。"
+    },
+    {
+      "id": 196,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 197,
+      "en": "So that's another great phrase.",
+      "cn": "所以这是另一个很好的短语。"
+    },
+    {
+      "id": 198,
+      "en": "You show some respect.",
+      "cn": "你表现出一些尊重。"
+    },
+    {
+      "id": 199,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 200,
+      "en": "So the key here is that this is the verb is to show, right?",
+      "cn": "所以关键在于这个动词是“表现”，对吗？"
+    },
+    {
+      "id": 201,
+      "en": "Not to give.",
+      "cn": "不是“给予”。"
+    },
+    {
+      "id": 202,
+      "en": "You want to show respect to someone.",
+      "cn": "你想要向某人表现出尊重。"
+    },
+    {
+      "id": 203,
+      "en": "Well, how do you show respect?",
+      "cn": "那么，你如何表现出尊重呢？"
+    },
+    {
+      "id": 204,
+      "en": "Well, the way that you act your behaviors.",
+      "cn": "嗯，你的行为方式。"
+    },
+    {
+      "id": 205,
+      "en": "So if I'm polite and I say, you know, Mr. and Miss and thank you and please, these are ways to show respect.",
+      "cn": "所以如果我很礼貌，我会说，您知道的，先生和小姐，以及谢谢和请，这些都是表现尊重的方式。"
+    },
+    {
+      "id": 206,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 207,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 208,
+      "en": "So that's the way that you are being respectful.",
+      "cn": "所以这就是你表现出尊重的方式。"
+    },
+    {
+      "id": 209,
+      "en": "You are showing respect by being very polite.",
+      "cn": "你通过非常礼貌的方式表现出尊重。"
+    },
+    {
+      "id": 210,
+      "en": "For example, in Japan, it is common to take your shoes off when you go to a friend's home, their house, in order to show respect to them.",
+      "cn": "例如，在日本，去朋友家时脱鞋是很常见的，以示对他们的尊重。"
+    },
+    {
+      "id": 211,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 212,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 213,
+      "en": "Now, as we continue writing the letter towards the end, we wanted to play it safe and just write your sincerely to close the letter off.",
+      "cn": "现在，当我们继续写信到最后时，我们想要稳妥一些，只写“您诚挚的”来结束信件。"
+    },
+    {
+      "id": 214,
+      "en": "All right, so this phrase, play it safe.",
+      "cn": "好的，所以这个短语，稳妥一些。"
+    },
+    {
+      "id": 215,
+      "en": "What does this mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 216,
+      "en": "When we're talking about making a decision or taking a risk, we want to play it safe.",
+      "cn": "当我们谈论做决定或冒险时，我们想要稳妥一些。"
+    },
+    {
+      "id": 217,
+      "en": "We want to use the less risky option.",
+      "cn": "我们想要使用风险较小的选项。"
+    },
+    {
+      "id": 218,
+      "en": "All right, so the key here is that the verb is to play.",
+      "cn": "好的，所以关键在于这个动词是“玩”。"
+    },
+    {
+      "id": 219,
+      "en": "Play it safe.",
+      "cn": "稳妥一些。"
+    },
+    {
+      "id": 220,
+      "en": "This means that, yeah, there's maybe a risky option and a safe option, and it's better to take the safe option.",
+      "cn": "这意味着，是的，可能有一个风险选项和一个安全选项，选择安全选项更好。"
+    },
+    {
+      "id": 221,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 222,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 223,
+      "en": "So that's the way that you would use this phrase to play it safe.",
+      "cn": "所以这就是你使用这个短语“稳妥一些”的方式。"
+    },
+    {
+      "id": 224,
+      "en": "To make a decision that doesn't have too much risk or that you know that will work very well.",
+      "cn": "做出一个没有太多风险的决定，或者你知道会非常有效的决定。"
+    },
+    {
+      "id": 225,
+      "en": "And to close things off, another option to end the letter, we could say, all the best.",
+      "cn": "另外一个结束信件的选项，我们可以说，祝一切顺利。"
+    },
+    {
+      "id": 226,
+      "en": "All the best, Tracy.",
+      "cn": "祝一切顺利，Tracy。"
+    },
+    {
+      "id": 227,
+      "en": "All the best, Tracy.",
+      "cn": "祝一切顺利，Tracy。"
+    },
+    {
+      "id": 228,
+      "en": "All right, so this is a way to end the letter.",
+      "cn": "好的，所以这是一种结束信件的方式。"
+    },
+    {
+      "id": 229,
+      "en": "You can say sincerely or best, but it's a very nice way to end if you just say, all the best.",
+      "cn": "你可以说“诚挚的”或“最好的”，但如果你说“祝一切顺利”，这是一种非常好的结束方式。"
+    },
+    {
+      "id": 230,
+      "en": "And then you say, you know, after that you have a comma, and then you sign your name.",
+      "cn": "然后你说，您知道，之后有一个逗号，然后签上你的名字。"
+    },
+    {
+      "id": 231,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 232,
+      "en": "All right, let's listen to our dialogue one last time, and we'll be back to talk a little bit more.",
+      "cn": "好的，让我们最后再听一次我们的对话，然后我们会回来再聊一聊。"
+    },
+    {
+      "id": 233,
+      "en": "Melanie, can you help me with something?",
+      "cn": "Melanie，你能帮我一下吗？"
+    },
+    {
+      "id": 234,
+      "en": "We need to finalize the account with the Mexican Embassy, and I need some advice on phrasing this letter correctly in English.",
+      "cn": "我们需要与墨西哥大使馆最终确定账户，我需要一些关于如何正确用英语措辞这封信的建议。"
+    },
+    {
+      "id": 235,
+      "en": "Sure, Tracy.",
+      "cn": "当然，Tracy。"
+    },
+    {
+      "id": 236,
+      "en": "Let me just get my laptop.",
+      "cn": "让我拿一下我的笔记本电脑。"
+    },
+    {
+      "id": 237,
+      "en": "Right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 238,
+      "en": "All set.",
+      "cn": "一切准备就绪。"
+    },
+    {
+      "id": 239,
+      "en": "Okay, so to whom it may concern, I am writing... Um, Tracy, I think that's a little too formal.",
+      "cn": "好的，致有关人士，我写... 嗯，Tracy，我觉得这有点太正式了。"
+    },
+    {
+      "id": 240,
+      "en": "I know you want to be polite, but you've already made contact with them, so in English, you can be a bit more relaxed in the opening.",
+      "cn": "我知道你想要礼貌，但你已经和他们联系过了，所以在英语中，你可以在开头放松一些。"
+    },
+    {
+      "id": 241,
+      "en": "Okay, more relaxed.",
+      "cn": "好的，更放松。"
+    },
+    {
+      "id": 242,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 243,
+      "en": "Hey, Sally, what's up?",
+      "cn": "嘿，Sally，怎么样？"
+    },
+    {
+      "id": 244,
+      "en": "It's Tracy here.",
+      "cn": "我是Tracy。"
+    },
+    {
+      "id": 245,
+      "en": "Just... Okay, Tracy, now it's too relaxed.",
+      "cn": "别... 好吧，Tracy，现在太放松了。"
+    },
+    {
+      "id": 246,
+      "en": "You've still got to show some respect.",
+      "cn": "你仍然需要表现出一些尊重。"
+    },
+    {
+      "id": 247,
+      "en": "How about starting with, Dear Miss Cooper, I'm writing to confirm... Great, okay.",
+      "cn": "怎么样开始，亲爱的Cooper小姐，我写信确认... 很好，好的。"
+    },
+    {
+      "id": 248,
+      "en": "Dear Miss Cooper, I'm writing to confirm the final quotation for the full page back cover color advertisement you requested for the spring issue of Viola magazine.",
+      "cn": "亲爱的Cooper小姐，我写信确认您请求的《Viola》杂志春季刊的全页封底彩色广告的最终报价。"
+    },
+    {
+      "id": 249,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 250,
+      "en": "The final costing, including advert design and production, comes to $45,600 RMB.",
+      "cn": "最终费用，包括广告设计和制作，总计45,600元人民币。"
+    },
+    {
+      "id": 251,
+      "en": "We want payment 10 working days before publication, or we will cancel the ad.",
+      "cn": "我们希望在出版前10个工作日内收到付款，否则我们将取消广告。"
+    },
+    {
+      "id": 252,
+      "en": "Thanks for... Whoa, okay, back up a second, Tracy.",
+      "cn": "谢谢... 哇，好的，等一下，Tracy。"
+    },
+    {
+      "id": 253,
+      "en": "That's too direct.",
+      "cn": "这太直接了。"
+    },
+    {
+      "id": 254,
+      "en": "Can I suggest you say, Please note that the final payment is due two working weeks before publication?",
+      "cn": "我可以建议你说，请注意，最终付款在出版前两周到期吗？"
+    },
+    {
+      "id": 255,
+      "en": "You don't want to offend her.",
+      "cn": "你不想冒犯她。"
+    },
+    {
+      "id": 256,
+      "en": "Oops.",
+      "cn": "哎呀。"
+    },
+    {
+      "id": 257,
+      "en": "Okay, you're right.",
+      "cn": "好吧，你说得对。"
+    },
+    {
+      "id": 258,
+      "en": "Then I can just end with, All the best, Tracy.",
+      "cn": "那我可以结束说，祝一切顺利，Tracy。"
+    },
+    {
+      "id": 259,
+      "en": "Maybe I'd play it safe and finish with, Yours sincerely.",
+      "cn": "也许我会稳妥一些，最后说，您诚挚的。"
+    },
+    {
+      "id": 260,
+      "en": "That's more professional.",
+      "cn": "这更专业。"
+    },
+    {
+      "id": 261,
+      "en": "Oh, Melanie, you're a lifesaver.",
+      "cn": "哦，Melanie，你真是救星。"
+    },
+    {
+      "id": 262,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 263,
+      "en": "So talking about ending formal emails or emails that you're writing to clients, colleagues, we can say sincerely in your name.",
+      "cn": "所以谈到结束正式邮件或写给客户、同事的邮件时，我们可以说“诚挚的”加上你的名字。"
+    },
+    {
+      "id": 264,
+      "en": "Sincerely, Marco.",
+      "cn": "诚挚的，Marco。"
+    },
+    {
+      "id": 265,
+      "en": "You can say all the best, best regards.",
+      "cn": "你可以说“祝一切顺利”、“最好的问候”。"
+    },
+    {
+      "id": 266,
+      "en": "Now I've noticed that some people who aren't native English speakers, sometimes they will close a letter, maybe even a formal letter, saying Yours truly, Marco, for example.",
+      "cn": "现在我注意到一些非英语母语的人，有时他们会在信的结尾，甚至是正式信中说“您诚挚的”，例如Marco。"
+    },
+    {
+      "id": 267,
+      "en": "Is that really appropriate for a business setting or a client?",
+      "cn": "这在商业环境或客户中真的合适吗？"
+    },
+    {
+      "id": 268,
+      "en": "I would not use Yours truly.",
+      "cn": "我不会使用“您诚挚的”。"
+    },
+    {
+      "id": 269,
+      "en": "Maybe if you're trying to build a relationship with your client and you're very honest, but it seems to me to be very personal.",
+      "cn": "也许如果你想与客户建立关系并且非常诚实，但在我看来这显得非常个人化。"
+    },
+    {
+      "id": 270,
+      "en": "Very romantic.",
+      "cn": "非常浪漫。"
+    },
+    {
+      "id": 271,
+      "en": "Yes, Yours truly.",
+      "cn": "是的，“您诚挚的”。"
+    },
+    {
+      "id": 272,
+      "en": "So I would say in that case, Use sincerely or Kind regards or regards, which are a little bit more professional and less emotional.",
+      "cn": "所以我会说在这种情况下，使用“诚挚的”或“亲切的问候”或“问候”，这些更专业且不那么情感化。"
+    },
+    {
+      "id": 273,
+      "en": "If you want to have a romantic letter, you can say, you know, All my love or love or Yours truly or Yours faithfully.",
+      "cn": "如果你想写一封浪漫的信，你可以说，您知道的，“我所有的爱”或“爱”或“您诚挚的”或“您忠实的”。"
+    },
+    {
+      "id": 274,
+      "en": "This is a very important topic, I think, because many times in school we do learn how to write letters, but usually they are more personal letters.",
+      "cn": "我认为这是一个非常重要的话题，因为很多时候在学校我们确实学习如何写信，但通常它们是更个人的信件。"
+    },
+    {
+      "id": 275,
+      "en": "And so we memorize that usually at the end of the email or the end of the letter, you say Yours Marco or Yours truly Marco.",
+      "cn": "所以我们通常记住在邮件或信的结尾，你说“您忠实的Marco”或“您诚挚的Marco”。"
+    },
+    {
+      "id": 276,
+      "en": "And although it is correct, it's not really appropriate for a professional setting.",
+      "cn": "尽管这是正确的，但在专业环境中并不真正合适。"
+    },
+    {
+      "id": 277,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 278,
+      "en": "So just as a reminder, if you're signing off your email or your letter and you're at an office, you're in your company, you want to say best or best regards or some of the things that we talked about here today.",
+      "cn": "所以作为提醒，如果你在办公室或公司签署你的邮件或信件，你想说“最好的”或“最好的问候”或我们今天讨论的一些内容。"
+    },
+    {
+      "id": 279,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 280,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 281,
+      "en": "So if you have any questions or any other doubts, you can always find us at and we'll see you guys there.",
+      "cn": "所以如果你有任何问题或其他疑虑，你可以随时找到我们，我们会在那里见到你。"
+    },
+    {
+      "id": 282,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 283,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

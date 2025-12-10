@@ -1,0 +1,1304 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0210",
+  "title": "EnglishPod 中级 0210",
+  "totalSegments": 259,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and today we've got a very nerve-wracking situation for you.",
+      "cn": "我叫Katherine，今天我们有一个非常紧张的情况要给你们。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We are going to meet the in-laws.",
+      "cn": "我们要见岳父岳母。"
+    },
+    {
+      "id": 6,
+      "en": "Meeting the in-laws.",
+      "cn": "见岳父岳母。"
+    },
+    {
+      "id": 7,
+      "en": "So, who are in-laws?",
+      "cn": "那么，岳父岳母是谁？"
+    },
+    {
+      "id": 8,
+      "en": "These are the parents of your husband or wife.",
+      "cn": "他们是你丈夫或妻子的父母。"
+    },
+    {
+      "id": 9,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 10,
+      "en": "So, in this case, you have the mother-in-law and your father-in-law.",
+      "cn": "所以，在这种情况下，你有岳母和岳父。"
+    },
+    {
+      "id": 11,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 12,
+      "en": "So, we're meeting these people for the very first time.",
+      "cn": "所以，我们是第一次见这些人。"
+    },
+    {
+      "id": 13,
+      "en": "You can imagine how nervous the man is, who's meeting his future wife's parents.",
+      "cn": "你可以想象，那个见未来妻子父母的男人有多紧张。"
+    },
+    {
+      "id": 14,
+      "en": "Let's learn all about what they talk about in today's dialogue.",
+      "cn": "让我们来了解一下他们在今天的对话中谈论的内容。"
+    },
+    {
+      "id": 15,
+      "en": "Mother, father, I'd like to introduce you to my fiancé, Bob.",
+      "cn": "母亲，父亲，我想向你们介绍我的未婚夫Bob。"
+    },
+    {
+      "id": 16,
+      "en": "Hello, Bob.",
+      "cn": "你好，Bob。"
+    },
+    {
+      "id": 17,
+      "en": "Welcome.",
+      "cn": "欢迎。"
+    },
+    {
+      "id": 18,
+      "en": "Thanks for having me.",
+      "cn": "谢谢你们的招待。"
+    },
+    {
+      "id": 19,
+      "en": "Nice to meet the both of you.",
+      "cn": "很高兴见到你们俩。"
+    },
+    {
+      "id": 20,
+      "en": "I've heard so much.",
+      "cn": "我听说了很多。"
+    },
+    {
+      "id": 21,
+      "en": "So, Cindy told you about bringing home her last boyfriend then.",
+      "cn": "所以，Cindy告诉你她上一个男朋友的事了。"
+    },
+    {
+      "id": 22,
+      "en": "That idiot.",
+      "cn": "那个笨蛋。"
+    },
+    {
+      "id": 23,
+      "en": "You're going to scare the poor boy.",
+      "cn": "你会吓到可怜的男孩。"
+    },
+    {
+      "id": 24,
+      "en": "Come in and have a drink.",
+      "cn": "进来喝一杯吧。"
+    },
+    {
+      "id": 25,
+      "en": "Dinner will be on in just a bit.",
+      "cn": "晚餐马上就好。"
+    },
+    {
+      "id": 26,
+      "en": "What'll we be having?",
+      "cn": "我们吃什么？"
+    },
+    {
+      "id": 27,
+      "en": "Whiskey?",
+      "cn": "威士忌？"
+    },
+    {
+      "id": 28,
+      "en": "Bourbon?",
+      "cn": "波本酒？"
+    },
+    {
+      "id": 29,
+      "en": "Pick your poison.",
+      "cn": "选你喜欢的。"
+    },
+    {
+      "id": 30,
+      "en": "If you have a lemonade, that'd be great.",
+      "cn": "如果有柠檬水，那就太好了。"
+    },
+    {
+      "id": 31,
+      "en": "Lemonade?",
+      "cn": "柠檬水？"
+    },
+    {
+      "id": 32,
+      "en": "Sure, there's some in the fridge.",
+      "cn": "当然，冰箱里有一些。"
+    },
+    {
+      "id": 33,
+      "en": "Mother makes her own lemonade from scratch.",
+      "cn": "母亲自己从头做柠檬水。"
+    },
+    {
+      "id": 34,
+      "en": "It's the best.",
+      "cn": "这是最好的。"
+    },
+    {
+      "id": 35,
+      "en": "So, what are your hobbies, son?",
+      "cn": "那么，你的爱好是什么，儿子？"
+    },
+    {
+      "id": 36,
+      "en": "If you want, we can do some hunting tomorrow.",
+      "cn": "如果你愿意，我们明天可以去打猎。"
+    },
+    {
+      "id": 37,
+      "en": "I've just picked up a new rifle I've been meaning to try out.",
+      "cn": "我刚买了一把新步枪，想试试。"
+    },
+    {
+      "id": 38,
+      "en": "Should be a real hoot.",
+      "cn": "应该会很有趣。"
+    },
+    {
+      "id": 39,
+      "en": "I'm not really... I don't really hunt.",
+      "cn": "我其实不...我不打猎。"
+    },
+    {
+      "id": 40,
+      "en": "You don't hunt?",
+      "cn": "你不打猎？"
+    },
+    {
+      "id": 41,
+      "en": "Well, I'll beat them.",
+      "cn": "好吧，我会打败他们。"
+    },
+    {
+      "id": 42,
+      "en": "Bob is an animal rights activist.",
+      "cn": "Bob是动物权利活动家。"
+    },
+    {
+      "id": 43,
+      "en": "He doesn't believe in harming animals.",
+      "cn": "他不相信伤害动物。"
+    },
+    {
+      "id": 44,
+      "en": "Dinner's ready.",
+      "cn": "晚餐准备好了。"
+    },
+    {
+      "id": 45,
+      "en": "Let's go out to the patio where the pig is roasting.",
+      "cn": "我们去露台，那里正在烤猪。"
+    },
+    {
+      "id": 46,
+      "en": "Roast pig?",
+      "cn": "烤猪？"
+    },
+    {
+      "id": 47,
+      "en": "I'm a vegetarian.",
+      "cn": "我是素食主义者。"
+    },
+    {
+      "id": 48,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 49,
+      "en": "So, a very awkward situation.",
+      "cn": "所以，这是一个非常尴尬的情况。"
+    },
+    {
+      "id": 50,
+      "en": "I think they might have a little bit of problems in the future.",
+      "cn": "我觉得他们将来可能会有一些问题。"
+    },
+    {
+      "id": 51,
+      "en": "Yeah, there are a lot of cultural differences between the characters, the son-in-law and the new parents.",
+      "cn": "是的，角色之间，女婿和新父母之间有很多文化差异。"
+    },
+    {
+      "id": 52,
+      "en": "The father-in-law.",
+      "cn": "岳父。"
+    },
+    {
+      "id": 53,
+      "en": "So, it's really interesting.",
+      "cn": "所以，这真的很有趣。"
+    },
+    {
+      "id": 54,
+      "en": "Why don't we start off by looking at a couple of different words on language takeaway.",
+      "cn": "我们为什么不先看看一些语言要点。"
+    },
+    {
+      "id": 55,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 56,
+      "en": "So, first of all, we have the two characters, Cindy and Bob, who are getting married.",
+      "cn": "首先，我们有两个角色，Cindy和Bob，他们要结婚。"
+    },
+    {
+      "id": 57,
+      "en": "So, we call them... we call Bob Cindy's fiance.",
+      "cn": "所以，我们称Bob为Cindy的未婚夫。"
+    },
+    {
+      "id": 58,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 59,
+      "en": "So, my fiance.",
+      "cn": "所以，我的未婚夫。"
+    },
+    {
+      "id": 60,
+      "en": "And it comes from French, and it means to the person that you're going to get married to.",
+      "cn": "这个词来自法语，意思是你将要结婚的人。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "The person you've decided to get married to.",
+      "cn": "你决定要结婚的人。"
+    },
+    {
+      "id": 63,
+      "en": "So, we say fiance.",
+      "cn": "所以，我们说未婚夫。"
+    },
+    {
+      "id": 64,
+      "en": "We can say the same word for a man or a woman.",
+      "cn": "对于男性或女性，我们都可以用同一个词。"
+    },
+    {
+      "id": 65,
+      "en": "So, he is my fiance.",
+      "cn": "所以，他是我的未婚夫。"
+    },
+    {
+      "id": 66,
+      "en": "She is my fiance.",
+      "cn": "她是我的未婚妻。"
+    },
+    {
+      "id": 67,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 68,
+      "en": "My fiance.",
+      "cn": "我的未婚夫。"
+    },
+    {
+      "id": 69,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 70,
+      "en": "So, Cindy introduces her fiance, Bob, to her parents.",
+      "cn": "所以，Cindy向她的父母介绍了她的未婚夫Bob。"
+    },
+    {
+      "id": 71,
+      "en": "And they start talking a little bit.",
+      "cn": "他们开始聊了一会儿。"
+    },
+    {
+      "id": 72,
+      "en": "And her dad, Thurston, invites him to go do some hunting tomorrow.",
+      "cn": "她的父亲Thurston邀请他明天去打猎。"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "So, hunting is a sport in America and lots of places in the world where you shoot animals.",
+      "cn": "所以，打猎在美国和世界许多地方是一项运动，猎杀动物。"
+    },
+    {
+      "id": 75,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 76,
+      "en": "So, you go in the woods, you wear brown and green colors, and you shoot animals to take them home and skin them and eat them.",
+      "cn": "所以，你进入森林，穿上棕色和绿色的衣服，猎杀动物带回家，剥皮吃掉。"
+    },
+    {
+      "id": 77,
+      "en": "Or to keep them as trophies.",
+      "cn": "或者作为战利品保留。"
+    },
+    {
+      "id": 78,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 79,
+      "en": "So, you go hunting and, well, the way that you shoot these animals is you need to have a rifle.",
+      "cn": "所以，你去打猎，而猎杀动物的方式是你需要有一把步枪。"
+    },
+    {
+      "id": 80,
+      "en": "A rifle.",
+      "cn": "步枪。"
+    },
+    {
+      "id": 81,
+      "en": "So, you could also call it a hunting rifle, in this case.",
+      "cn": "在这种情况下，你也可以称之为猎枪。"
+    },
+    {
+      "id": 82,
+      "en": "A rifle is a gun, but it's a very long gun.",
+      "cn": "步枪是一种枪，但它是一种非常长的枪。"
+    },
+    {
+      "id": 83,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 84,
+      "en": "So, it's not a little gun that you just hold in your hand.",
+      "cn": "所以，这不是你手持的小枪。"
+    },
+    {
+      "id": 85,
+      "en": "It's very long.",
+      "cn": "它非常长。"
+    },
+    {
+      "id": 86,
+      "en": "It'll be maybe like half a meter long.",
+      "cn": "可能有半米长。"
+    },
+    {
+      "id": 87,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 88,
+      "en": "And so, oftentimes, people, when they're hunting, they lie on the ground and they wait for the animals to pass, and they hide themselves, and then they shoot from a long distance.",
+      "cn": "所以，通常人们在打猎时，会趴在地上，等待动物经过，藏起来，然后从远处射击。"
+    },
+    {
+      "id": 89,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 90,
+      "en": "So, he's talking about hunting.",
+      "cn": "所以，他在谈论打猎。"
+    },
+    {
+      "id": 91,
+      "en": "He's got a new rifle.",
+      "cn": "他有一把新步枪。"
+    },
+    {
+      "id": 92,
+      "en": "And he says, yeah, we should definitely go.",
+      "cn": "他说，是的，我们一定要去。"
+    },
+    {
+      "id": 93,
+      "en": "It should be a real hoot.",
+      "cn": "应该会很有趣。"
+    },
+    {
+      "id": 94,
+      "en": "Should be a real hoot.",
+      "cn": "应该会很有趣。"
+    },
+    {
+      "id": 95,
+      "en": "This is a very fun spoken English phrase.",
+      "cn": "这是一个非常有趣的口语表达。"
+    },
+    {
+      "id": 96,
+      "en": "It's said more by older people than by younger people.",
+      "cn": "这个说法更多是老年人使用，而不是年轻人。"
+    },
+    {
+      "id": 97,
+      "en": "So, this is why the father says it in the dialogue.",
+      "cn": "所以，这就是父亲在对话中说这句话的原因。"
+    },
+    {
+      "id": 98,
+      "en": "A hoot should be a real good time.",
+      "cn": "有趣应该是非常愉快的时光。"
+    },
+    {
+      "id": 99,
+      "en": "Real fun.",
+      "cn": "非常有趣。"
+    },
+    {
+      "id": 100,
+      "en": "A hoot.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 101,
+      "en": "So, how can you use this, like, oh, the party last night was a real hoot.",
+      "cn": "所以，你怎么用这个，比如说，昨晚的派对真是太有趣了。"
+    },
+    {
+      "id": 102,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 103,
+      "en": "You can say that.",
+      "cn": "你可以这么说。"
+    },
+    {
+      "id": 104,
+      "en": "You can say, or she's a real hoot.",
+      "cn": "你可以说，或者她真是个有趣的人。"
+    },
+    {
+      "id": 105,
+      "en": "She's really funny.",
+      "cn": "她真的很搞笑。"
+    },
+    {
+      "id": 106,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 107,
+      "en": "You know, she's really enjoyable.",
+      "cn": "你知道，她真的很令人愉快。"
+    },
+    {
+      "id": 108,
+      "en": "This is a little bit more, like, spoken and used by maybe older people, right?",
+      "cn": "这有点像是更口语化的表达，可能是老年人用的，对吧？"
+    },
+    {
+      "id": 109,
+      "en": "My mother would say this.",
+      "cn": "我妈妈会这么说。"
+    },
+    {
+      "id": 110,
+      "en": "I wouldn't say this.",
+      "cn": "我不会这么说。"
+    },
+    {
+      "id": 111,
+      "en": "So, oh my goodness, it was a real hoot.",
+      "cn": "所以，哦，我的天，真是太有趣了。"
+    },
+    {
+      "id": 112,
+      "en": "Yeah.",
+      "cn": "是啊。"
+    },
+    {
+      "id": 113,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 114,
+      "en": "So, he's talking about hunting, how much fun they would have, and unfortunately Bob is an animal rights activist.",
+      "cn": "所以，他在谈论狩猎，他们会有多么有趣，不幸的是，鲍勃是个动物权利活动家。"
+    },
+    {
+      "id": 115,
+      "en": "What does this mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 116,
+      "en": "So, an animal rights activist is someone who is very concerned with protecting the rights of animals.",
+      "cn": "所以，动物权利活动家是非常关心保护动物权利的人。"
+    },
+    {
+      "id": 117,
+      "en": "So, for example, if I'm an animal rights activist, maybe I will protest people who wear fur, or perhaps I will also try and secure land for a natural wildlife preserve so that animals can live in the wild.",
+      "cn": "比如说，如果我是一名动物权利活动家，也许我会抗议穿毛皮的人，或者我还会试图为自然野生动物保护区争取土地，以便动物可以在野外生活。"
+    },
+    {
+      "id": 118,
+      "en": "There's not houses or cars.",
+      "cn": "那里没有房子或汽车。"
+    },
+    {
+      "id": 119,
+      "en": "So, animal rights activists are people who try to make sure that animals are protected from human beings.",
+      "cn": "所以，动物权利活动家是那些试图确保动物不受人类伤害的人。"
+    },
+    {
+      "id": 120,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 121,
+      "en": "And this is what Bob is.",
+      "cn": "这就是鲍勃的身份。"
+    },
+    {
+      "id": 122,
+      "en": "So, obviously, Bob is not really into hunting, right?",
+      "cn": "所以，显然，鲍勃并不真的喜欢狩猎，对吧？"
+    },
+    {
+      "id": 123,
+      "en": "I'm guessing, no.",
+      "cn": "我猜不是。"
+    },
+    {
+      "id": 124,
+      "en": "These are two opposites.",
+      "cn": "这两者是对立的。"
+    },
+    {
+      "id": 125,
+      "en": "You have people who like to kill animals and people who want to protect the lives of animals.",
+      "cn": "有喜欢杀动物的人和想保护动物生命的人。"
+    },
+    {
+      "id": 126,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 127,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 128,
+      "en": "Well, and to finish off our language takeaway, dinner is ready.",
+      "cn": "好吧，为了结束我们的语言学习，晚餐准备好了。"
+    },
+    {
+      "id": 129,
+      "en": "So, let's go out to the patio.",
+      "cn": "所以，我们去露台吧。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, a patio is a space outside the house, usually in the back, that's paved.",
+      "cn": "好的，露台是房子外面的一个空间，通常在后面，是铺好的。"
+    },
+    {
+      "id": 131,
+      "en": "So, there's like cement or bricks or some kind of tile, and that's where you have a table and chairs or some place to sit and rest.",
+      "cn": "所以，有水泥、砖块或某种瓷砖，那里有桌子和椅子或一些地方可以坐下休息。"
+    },
+    {
+      "id": 132,
+      "en": "This is where you have a grill.",
+      "cn": "这是你放烤架的地方。"
+    },
+    {
+      "id": 133,
+      "en": "So, it's an outdoor area, but it's not grass.",
+      "cn": "所以，这是一个户外区域，但不是草地。"
+    },
+    {
+      "id": 134,
+      "en": "Okay, so it's not your backyard.",
+      "cn": "好的，所以这不是你的后院。"
+    },
+    {
+      "id": 135,
+      "en": "Oh, it could be in your backyard.",
+      "cn": "哦，它可以在你的后院。"
+    },
+    {
+      "id": 136,
+      "en": "The patio could be in the backyard.",
+      "cn": "露台可以在后院。"
+    },
+    {
+      "id": 137,
+      "en": "That's right, but the ground in the patio is not grass.",
+      "cn": "没错，但露台的地面不是草。"
+    },
+    {
+      "id": 138,
+      "en": "It's some kind of material like cement or brick or wood.",
+      "cn": "它是某种材料，比如水泥、砖或木头。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 140,
+      "en": "So, great words there.",
+      "cn": "所以，这里有很好的词汇。"
+    },
+    {
+      "id": 141,
+      "en": "Why don't we listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
+      "cn": "我们再听一遍对话，然后稍后回来进行流利度训练。"
+    },
+    {
+      "id": 142,
+      "en": "Fluency Builder.",
+      "cn": "流利度训练。"
+    },
+    {
+      "id": 143,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 144,
+      "en": "So, we have three great phrases here on Fluency Builder.",
+      "cn": "所以，我们在流利度训练中有三个很好的短语。"
+    },
+    {
+      "id": 145,
+      "en": "Why don't we start off with the first one.",
+      "cn": "我们为什么不从第一个开始。"
+    },
+    {
+      "id": 146,
+      "en": "So, the first one, we have to go back to the very beginning of this dialogue and think about these people who are introducing each other for the very first time.",
+      "cn": "所以，第一个，我们必须回到这个对话的最开始，想想这些人第一次互相介绍。"
+    },
+    {
+      "id": 147,
+      "en": "Cindy says, I want to introduce you to my fiancé, Bob.",
+      "cn": "辛迪说，我想介绍你认识我的未婚夫鲍勃。"
+    },
+    {
+      "id": 148,
+      "en": "Bob says to Cindy's parents, I've heard so much.",
+      "cn": "鲍勃对辛迪的父母说，我听说过很多。"
+    },
+    {
+      "id": 149,
+      "en": "I've heard so much.",
+      "cn": "我听说过很多。"
+    },
+    {
+      "id": 150,
+      "en": "Okay, so this phrase, you can usually use it when you meet somebody for the first time.",
+      "cn": "好的，所以这个短语通常在你第一次见到某人时使用。"
+    },
+    {
+      "id": 151,
+      "en": "I've heard so much about you.",
+      "cn": "我听说过很多关于你的事。"
+    },
+    {
+      "id": 152,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 153,
+      "en": "So, the longer version is, I've heard so much about you.",
+      "cn": "所以，较长的版本是，我听说过很多关于你的事。"
+    },
+    {
+      "id": 154,
+      "en": "Basically, you're saying, listen, Cindy talks about you a lot.",
+      "cn": "基本上，你是在说，听着，辛迪经常提到你。"
+    },
+    {
+      "id": 155,
+      "en": "I've heard really nice things.",
+      "cn": "我听说过很多好话。"
+    },
+    {
+      "id": 156,
+      "en": "Sometimes people like to joke.",
+      "cn": "有时人们喜欢开玩笑。"
+    },
+    {
+      "id": 157,
+      "en": "You say, I've heard so much about you.",
+      "cn": "你说，我听说过很多关于你的事。"
+    },
+    {
+      "id": 158,
+      "en": "They say, I hope only good things.",
+      "cn": "他们说，我希望只有好事。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah, I hope not too much.",
+      "cn": "是的，我希望不是太多。"
+    },
+    {
+      "id": 160,
+      "en": "I hope not too much.",
+      "cn": "我希望不是太多。"
+    },
+    {
+      "id": 161,
+      "en": "So, this is a very polite way to respond when someone introduces themselves.",
+      "cn": "所以，这是一个非常礼貌的回应方式，当有人自我介绍时。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, I've heard so much about you.",
+      "cn": "好的，我听说过很多关于你的事。"
+    },
+    {
+      "id": 163,
+      "en": "It's a pleasure to finally meet you.",
+      "cn": "终于见到你很高兴。"
+    },
+    {
+      "id": 164,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 165,
+      "en": "Okay, so they started talking and actually Thurston offers him a drink.",
+      "cn": "好的，所以他们开始交谈，实际上瑟斯顿给他提供了一杯饮料。"
+    },
+    {
+      "id": 166,
+      "en": "He says, well, what do you want?",
+      "cn": "他说，好吧，你想要什么？"
+    },
+    {
+      "id": 167,
+      "en": "Whiskey, bourbon, pick your poison.",
+      "cn": "威士忌、波本酒，随便选。"
+    },
+    {
+      "id": 168,
+      "en": "All right, this is one of my very favorite phrases in English.",
+      "cn": "好吧，这是我最喜欢的英语短语之一。"
+    },
+    {
+      "id": 169,
+      "en": "The father-in-law wants to give the new son-in-law a drink and there are many different options.",
+      "cn": "岳父想给新女婿一杯饮料，有很多不同的选择。"
+    },
+    {
+      "id": 170,
+      "en": "So, pick your poison means pick your drink.",
+      "cn": "所以，pick your poison 意思是选择你的饮料。"
+    },
+    {
+      "id": 171,
+      "en": "You might hear this at a bar.",
+      "cn": "你可能在酒吧听到这个。"
+    },
+    {
+      "id": 172,
+      "en": "What do you want to drink?",
+      "cn": "你想喝什么？"
+    },
+    {
+      "id": 173,
+      "en": "Pick your poison.",
+      "cn": "选择你的毒药。"
+    },
+    {
+      "id": 174,
+      "en": "You could have whiskey, rum.",
+      "cn": "你可以喝威士忌、朗姆酒。"
+    },
+    {
+      "id": 175,
+      "en": "So, usually we're just talking about alcoholic drinks.",
+      "cn": "所以，通常我们只是在谈论酒精饮料。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, so you wouldn't really use this for juices or water.",
+      "cn": "好的，所以你不会真的用这个来形容果汁或水。"
+    },
+    {
+      "id": 177,
+      "en": "This is for alcohol.",
+      "cn": "这是指酒精。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, so if you say pick your poison, that's for alcohol, right?",
+      "cn": "好的，所以如果你说选择你的毒药，那是指酒精，对吧？"
+    },
+    {
+      "id": 179,
+      "en": "Or maybe you can ask somebody what they're drinking.",
+      "cn": "或者你可以问某人他们在喝什么。"
+    },
+    {
+      "id": 180,
+      "en": "You would say, what's your poison?",
+      "cn": "你可以说，你的毒药是什么？"
+    },
+    {
+      "id": 181,
+      "en": "Yeah, what's your poison?",
+      "cn": "是的，你的毒药是什么？"
+    },
+    {
+      "id": 182,
+      "en": "Okay, so poison in this case is a slang term for alcohol.",
+      "cn": "好的，所以在这种情况下，毒药是酒精的俚语。"
+    },
+    {
+      "id": 183,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 184,
+      "en": "And finally, when Cindy was talking about lemonade that her mother makes, she said she makes it from scratch.",
+      "cn": "最后，当辛迪谈到她母亲做的柠檬水时，她说她是从零开始做的。"
+    },
+    {
+      "id": 185,
+      "en": "To make something from scratch.",
+      "cn": "从零开始做某样东西。"
+    },
+    {
+      "id": 186,
+      "en": "You could say, my mother makes chocolate chip cookies from scratch.",
+      "cn": "你可以说，我妈妈从零开始做巧克力曲奇。"
+    },
+    {
+      "id": 187,
+      "en": "This means not to buy something in the store but to make it all yourself from nothing.",
+      "cn": "这意味着不是在商店买的，而是从头开始自己做。"
+    },
+    {
+      "id": 188,
+      "en": "So making lemonade from scratch means taking lemons, cutting them, taking the juice, adding some sugar, so you're making it from nothing.",
+      "cn": "所以，从零开始做柠檬水意味着拿柠檬，切开，榨汁，加一些糖，所以你是从零开始做的。"
+    },
+    {
+      "id": 189,
+      "en": "You're not using some kind of kit or some kind of, you know, canned drink from the store.",
+      "cn": "你没有使用某种套件或商店里的罐装饮料。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, so for example, maybe some Italians in Italy make their spaghetti from scratch with flour and they knead it and they make everything from scratch.",
+      "cn": "好的，比如说，可能一些意大利人在意大利用面粉从零开始做意大利面，他们揉面，完全从零开始做。"
+    },
+    {
+      "id": 191,
+      "en": "Wow, so you don't buy a box of spaghetti but you actually have to cut the spaghetti and pull it.",
+      "cn": "哇，所以你不是买一盒意大利面，而是你实际上要切意大利面和拉面。"
+    },
+    {
+      "id": 192,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 193,
+      "en": "Very, very hard work.",
+      "cn": "非常，非常辛苦的工作。"
+    },
+    {
+      "id": 194,
+      "en": "So to make something from scratch.",
+      "cn": "所以，从零开始做某样东西。"
+    },
+    {
+      "id": 195,
+      "en": "And usually you can add the something goes in between, right?",
+      "cn": "通常你可以在中间加上某样东西，对吧？"
+    },
+    {
+      "id": 196,
+      "en": "To make lemonade from scratch, make bread from scratch, make ice cream from scratch.",
+      "cn": "从零开始做柠檬水，从零开始做面包，从零开始做冰淇淋。"
+    },
+    {
+      "id": 197,
+      "en": "Okay, so those are our three phrases for today.",
+      "cn": "好的，所以今天的三个短语就是这些。"
+    },
+    {
+      "id": 198,
+      "en": "Let's listen to the dialogue for one last time and we'll be back to talk about this very, very interesting topic.",
+      "cn": "让我们最后再听一遍对话，然后我们会回来讨论这个非常有趣的话题。"
+    },
+    {
+      "id": 199,
+      "en": "Mother, father, I'd like to introduce you to my fiancé Bob.",
+      "cn": "母亲，父亲，我想介绍你们认识我的未婚夫鲍勃。"
+    },
+    {
+      "id": 200,
+      "en": "Hello, Bob.",
+      "cn": "你好，鲍勃。"
+    },
+    {
+      "id": 201,
+      "en": "Welcome.",
+      "cn": "欢迎。"
+    },
+    {
+      "id": 202,
+      "en": "Thanks for having me.",
+      "cn": "谢谢你们的招待。"
+    },
+    {
+      "id": 203,
+      "en": "Nice to meet the both of you.",
+      "cn": "很高兴见到你们俩。"
+    },
+    {
+      "id": 204,
+      "en": "I've heard so much.",
+      "cn": "我听说了很多。"
+    },
+    {
+      "id": 205,
+      "en": "So Cindy told you about bringing home her last boyfriend then.",
+      "cn": "所以辛迪告诉你她上一个男朋友的事了。"
+    },
+    {
+      "id": 206,
+      "en": "That idiot.",
+      "cn": "那个笨蛋。"
+    },
+    {
+      "id": 207,
+      "en": "You're going to scare the poor boy.",
+      "cn": "你会吓到可怜的男孩。"
+    },
+    {
+      "id": 208,
+      "en": "Come in and have a drink.",
+      "cn": "进来喝一杯吧。"
+    },
+    {
+      "id": 209,
+      "en": "Dinner will be on in just a bit.",
+      "cn": "晚餐马上就好。"
+    },
+    {
+      "id": 210,
+      "en": "What will you be having?",
+      "cn": "你想喝什么？"
+    },
+    {
+      "id": 211,
+      "en": "Whiskey?",
+      "cn": "威士忌？"
+    },
+    {
+      "id": 212,
+      "en": "Bourbon?",
+      "cn": "波本酒？"
+    },
+    {
+      "id": 213,
+      "en": "Pick your poison.",
+      "cn": "选你的酒。"
+    },
+    {
+      "id": 214,
+      "en": "If you have a lemonade, that'd be great.",
+      "cn": "如果有柠檬水，那就太好了。"
+    },
+    {
+      "id": 215,
+      "en": "Sure, there's some in the fridge.",
+      "cn": "当然，冰箱里有一些。"
+    },
+    {
+      "id": 216,
+      "en": "Mother makes her own lemonade from scratch.",
+      "cn": "妈妈从头开始做她的柠檬水。"
+    },
+    {
+      "id": 217,
+      "en": "It's the best.",
+      "cn": "这是最好的。"
+    },
+    {
+      "id": 218,
+      "en": "So what are your hobbies, son?",
+      "cn": "那么你的爱好是什么，儿子？"
+    },
+    {
+      "id": 219,
+      "en": "If you want, we can do some hunting tomorrow.",
+      "cn": "如果你愿意，我们明天可以去打猎。"
+    },
+    {
+      "id": 220,
+      "en": "I've just picked up a new rifle I've been meaning to try out.",
+      "cn": "我刚买了一把新步枪，想试试。"
+    },
+    {
+      "id": 221,
+      "en": "Should be a real hoot.",
+      "cn": "应该会很有趣。"
+    },
+    {
+      "id": 222,
+      "en": "Um, I, I'm not really, uh, I don't really hunt.",
+      "cn": "嗯，我，我其实不太，呃，我不太打猎。"
+    },
+    {
+      "id": 223,
+      "en": "You don't hunt?",
+      "cn": "你不打猎？"
+    },
+    {
+      "id": 224,
+      "en": "Well, I'll be damned.",
+      "cn": "哦，我真是见鬼了。"
+    },
+    {
+      "id": 225,
+      "en": "Bob is an animal rights activist.",
+      "cn": "鲍勃是动物权利活动家。"
+    },
+    {
+      "id": 226,
+      "en": "He doesn't believe in harming animals.",
+      "cn": "他不相信伤害动物。"
+    },
+    {
+      "id": 227,
+      "en": "Dinner's ready.",
+      "cn": "晚餐准备好了。"
+    },
+    {
+      "id": 228,
+      "en": "Let's go out to the patio where the pig is roasting.",
+      "cn": "我们去露台，那里正在烤猪。"
+    },
+    {
+      "id": 229,
+      "en": "Roast pig?",
+      "cn": "烤猪？"
+    },
+    {
+      "id": 230,
+      "en": "I'm a vegetarian.",
+      "cn": "我是素食主义者。"
+    },
+    {
+      "id": 231,
+      "en": "This is a very scary topic for a lot of people.",
+      "cn": "这个话题对很多人来说很可怕。"
+    },
+    {
+      "id": 232,
+      "en": "I think they get very nervous introducing themselves because in this case, Bob is going to be marrying Cindy.",
+      "cn": "我觉得他们在自我介绍时会很紧张，因为在这种情况下，鲍勃将要娶辛迪。"
+    },
+    {
+      "id": 233,
+      "en": "So these are going to be his in-laws forever.",
+      "cn": "所以这些将永远是他的岳父岳母。"
+    },
+    {
+      "id": 234,
+      "en": "Yeah, and it seems interesting the differences, as you mentioned before, between the father-in-law who's very much into hunting and drinks and likes roast pig.",
+      "cn": "是的，正如你之前提到的，岳父非常喜欢打猎、喝酒和烤猪，而这个家伙更像是动物权利活动家，不喝酒。"
+    },
+    {
+      "id": 235,
+      "en": "Whereas this guy is more of an animal rights activist, doesn't drink.",
+      "cn": "他是素食主义者。"
+    },
+    {
+      "id": 236,
+      "en": "He's a vegetarian.",
+      "cn": "他不吃肉。"
+    },
+    {
+      "id": 237,
+      "en": "He doesn't eat meat.",
+      "cn": "所以我觉得这会很复杂。"
+    },
+    {
+      "id": 238,
+      "en": "So it's, I think it would be very complicated.",
+      "cn": "我认为这在不同文化的人之间也很常见，对吧？"
+    },
+    {
+      "id": 239,
+      "en": "And I think this happens a lot also with people from different cultures, right?",
+      "cn": "也许你是亚洲人，而你要嫁给一个美国人或类似的情况。"
+    },
+    {
+      "id": 240,
+      "en": "Maybe you're Asian and you're marrying an American or something like this.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 241,
+      "en": "Yeah, that's right.",
+      "cn": "我觉得这可能会非常困难。"
+    },
+    {
+      "id": 242,
+      "en": "I think it can be very, very difficult.",
+      "cn": "我最近参加了一个中国女孩和美国男孩的婚礼，看到这些人聚在一起真是太棒了，因为家庭差异很大。"
+    },
+    {
+      "id": 243,
+      "en": "I recently went to a wedding between a Chinese girl and an American guy, and it was amazing to see all these people getting together because the families were so different.",
+      "cn": "但他们相处得很好。"
+    },
+    {
+      "id": 245,
+      "en": "It was really fun.",
+      "cn": "真的很有趣。"
+    },
+    {
+      "id": 246,
+      "en": "They were all very supportive.",
+      "cn": "他们都非常支持。"
+    },
+    {
+      "id": 247,
+      "en": "They were just excited for their kids.",
+      "cn": "他们只是为自己的孩子感到兴奋。"
+    },
+    {
+      "id": 248,
+      "en": "Yeah, but I think it can be a little bit difficult, right?",
+      "cn": "是的，但我觉得这可能会有点困难，对吧？"
+    },
+    {
+      "id": 249,
+      "en": "I mean, being in a family where the culture is so different or the traditions and the customs are strange to you.",
+      "cn": "我的意思是，身处一个文化差异很大或传统和习俗对你来说很陌生的家庭。"
+    },
+    {
+      "id": 250,
+      "en": "But it's exciting because then as a family, the young people who are getting married, they can pick the traditions they want and make new traditions.",
+      "cn": "但这也很令人兴奋，因为作为一个家庭，年轻的新人可以选择他们想要的传统并创造新的传统。"
+    },
+    {
+      "id": 251,
+      "en": "So this is a very interesting topic.",
+      "cn": "所以这是一个非常有趣的话题。"
+    },
+    {
+      "id": 252,
+      "en": "We want to know maybe if you are married, how did it go when you met your in-laws?",
+      "cn": "我们想知道如果你已婚，当你见到岳父岳母时情况如何？"
+    },
+    {
+      "id": 253,
+      "en": "Are you very different?",
+      "cn": "你们很不同吗？"
+    },
+    {
+      "id": 254,
+      "en": "Or did you get along very well?",
+      "cn": "还是你们相处得很好？"
+    },
+    {
+      "id": 255,
+      "en": "Or how is it in your country?",
+      "cn": "或者在你们国家是怎样的？"
+    },
+    {
+      "id": 256,
+      "en": "Yeah, please do let us know.",
+      "cn": "是的，请告诉我们。"
+    },
+    {
+      "id": 257,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是EnglishPod.com。"
+    },
+    {
+      "id": 258,
+      "en": "We hope to see you there.",
+      "cn": "希望在那里见到你。"
+    },
+    {
+      "id": 259,
+      "en": "All right, everyone.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 260,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0160",
+  "title": "EnglishPod 中高级 0160",
+  "totalSegments": 184,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Katherine.",
+      "cn": "我叫Katherine。"
+    },
+    {
+      "id": 5,
+      "en": "So today we've got a great upper intermediate level lesson for our learners, and we're talking about what?",
+      "cn": "今天我们为学习者准备了一节很棒的中高级课程，我们要讨论什么？"
+    },
+    {
+      "id": 6,
+      "en": "Healthcare.",
+      "cn": "医疗保健。"
+    },
+    {
+      "id": 7,
+      "en": "Okay, this is a very important topic because it's been in the news recently, especially in the context of American politics.",
+      "cn": "好的，这是一个非常重要的话题，因为最近它在新闻中频繁出现，尤其是在美国政治的背景下。"
+    },
+    {
+      "id": 8,
+      "en": "And so I don't know if you've heard things about this, listeners, but healthcare is a very hot topic.",
+      "cn": "所以我不知道你们听说过什么，听众们，但医疗保健是一个非常热门的话题。"
+    },
+    {
+      "id": 9,
+      "en": "Exactly.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 10,
+      "en": "So basically what we're talking about is health insurance, whether it's private health insurance or you know, like a standard national insurance program.",
+      "cn": "我们讨论的基本上是健康保险，无论是私人健康保险还是像标准的国家保险计划。"
+    },
+    {
+      "id": 11,
+      "en": "Exactly.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 12,
+      "en": "And so your country might have a private option where you can pay a private company for insurance or public option like England or Australia, where your country will actually provide healthcare for you at no extra cost.",
+      "cn": "所以你的国家可能有一个私人选项，你可以为保险支付私人公司，或者像英格兰或澳大利亚那样的公共选项，你的国家实际上会为你提供医疗保健而不收取额外费用。"
+    },
+    {
+      "id": 13,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 14,
+      "en": "So it's an interesting topic.",
+      "cn": "这是一个有趣的话题。"
+    },
+    {
+      "id": 15,
+      "en": "Why don't we jump directly into the dialogue and we'll be back to explain a couple of things.",
+      "cn": "我们为什么不直接进入对话，稍后再回来解释一些事情。"
+    },
+    {
+      "id": 16,
+      "en": "Hey, honey, how was your day?",
+      "cn": "嘿，亲爱的，你今天过得怎么样？"
+    },
+    {
+      "id": 17,
+      "en": "It was all right.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 18,
+      "en": "I ran into Bill and we got to talking for a while.",
+      "cn": "我遇到了Bill，我们聊了一会儿。"
+    },
+    {
+      "id": 19,
+      "en": "He's in a bit of a jam.",
+      "cn": "他遇到了一点麻烦。"
+    },
+    {
+      "id": 20,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 21,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 22,
+      "en": "Well, his son had an accident.",
+      "cn": "嗯，他的儿子出了事故。"
+    },
+    {
+      "id": 23,
+      "en": "Bill doesn't have health insurance.",
+      "cn": "Bill没有健康保险。"
+    },
+    {
+      "id": 24,
+      "en": "This really got me thinking.",
+      "cn": "这让我真的在思考。"
+    },
+    {
+      "id": 25,
+      "en": "And I wondered if we shouldn't look into a couple of different HMOs.",
+      "cn": "我在想我们是否应该考虑几种不同的HMO。"
+    },
+    {
+      "id": 26,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 27,
+      "en": "We aren't getting any younger and our kids are getting older.",
+      "cn": "我们不再年轻了，孩子们也在长大。"
+    },
+    {
+      "id": 28,
+      "en": "Exactly.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 29,
+      "en": "I searched on the web and found a couple of HMOs with low co-pays and good coverage.",
+      "cn": "我在网上搜索了一下，找到了几种低共付额和良好覆盖的HMO。"
+    },
+    {
+      "id": 30,
+      "en": "The deductibles are low too.",
+      "cn": "免赔额也很低。"
+    },
+    {
+      "id": 31,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 32,
+      "en": "Although, do you think we can qualify for insurance?",
+      "cn": "不过，你觉得我们能申请到保险吗？"
+    },
+    {
+      "id": 33,
+      "en": "Those insurance companies are real pirates when it comes to money.",
+      "cn": "那些保险公司在钱方面真是海盗。"
+    },
+    {
+      "id": 34,
+      "en": "Well, we don't have any pre-existing illnesses or conditions, so we should be fine.",
+      "cn": "嗯，我们没有任何既往疾病或状况，所以应该没问题。"
+    },
+    {
+      "id": 35,
+      "en": "I wish our company or country provided us with health care.",
+      "cn": "我希望我们的公司或国家能为我们提供医疗保健。"
+    },
+    {
+      "id": 36,
+      "en": "Not in a million years.",
+      "cn": "一百万年也不可能。"
+    },
+    {
+      "id": 37,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 38,
+      "en": "So a lot of interesting vocab here.",
+      "cn": "这里有很多有趣的词汇。"
+    },
+    {
+      "id": 39,
+      "en": "Why don't we take a look at it real fast in language takeaway.",
+      "cn": "我们为什么不快速看一下语言要点。"
+    },
+    {
+      "id": 40,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 41,
+      "en": "Okay, Marco, this first phrase or acronym actually is three words that go together, HMO, and they're very, very common when you're talking about health care.",
+      "cn": "好的，Marco，这第一个短语或缩写实际上是三个词组合在一起，HMO，它们在谈论医疗保健时非常常见。"
+    },
+    {
+      "id": 42,
+      "en": "Right, so an HMO means Health Maintenance Organization.",
+      "cn": "对，所以HMO是健康维护组织的意思。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, and so this is a part of the health insurance topic where we're talking about a company that will provide health insurance.",
+      "cn": "好的，这就是我们讨论健康保险时提到的一家公司，它会提供健康保险。"
+    },
+    {
+      "id": 44,
+      "en": "Right, so it's a company that provides health insurance basically.",
+      "cn": "对，所以它基本上是一家提供健康保险的公司。"
+    },
+    {
+      "id": 45,
+      "en": "And if you go up to an HMO, some of the information that you'll receive is, for example, what your co-pay will be.",
+      "cn": "如果你去找HMO，你会收到一些信息，例如，你的共付额是多少。"
+    },
+    {
+      "id": 46,
+      "en": "Okay, so sometimes with a private option, when you pay a company to give you health insurance, you can get a lower rate if you help pay for some of your care.",
+      "cn": "好的，所以有时在私人选项中，当你支付公司给你健康保险时，如果你帮助支付一些护理费用，你可以获得更低的费率。"
+    },
+    {
+      "id": 47,
+      "en": "So, for example, a co-pay on a broken arm might be $20, but you pay $20, that's your co-pay, and your health insurance company pays the rest.",
+      "cn": "例如，骨折的共付额可能是20美元，但你支付20美元，那就是你的共付额，而你的健康保险公司支付其余部分。"
+    },
+    {
+      "id": 48,
+      "en": "And so sometimes co-pays are really high, they're really big, and that's kind of a bad deal because if you hurt yourself, you don't want to pay a lot.",
+      "cn": "所以有时共付额真的很高，真的很大，这种情况就不好了，因为如果你受伤了，你不想支付很多。"
+    },
+    {
+      "id": 49,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 50,
+      "en": "But sometimes there's no co-pay, in which case your company will pay for all of the coverage.",
+      "cn": "但有时没有共付额，在这种情况下，你的公司会支付所有的覆盖费用。"
+    },
+    {
+      "id": 51,
+      "en": "Alright, so another very similar word is a deductible.",
+      "cn": "好的，另一个非常相似的词是免赔额。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, so deductible is something that is fixed and it's in your insurance policy.",
+      "cn": "好的，免赔额是固定的，它在你的保险政策中。"
+    },
+    {
+      "id": 53,
+      "en": "That means in the contract that you make with the insurance company, the deductible will be stated.",
+      "cn": "这意味着在你与保险公司签订的合同中，免赔额会被说明。"
+    },
+    {
+      "id": 54,
+      "en": "For example, my insurance plan, I have maybe a $500 deductible.",
+      "cn": "例如，我的保险计划中，我可能有500美元的免赔额。"
+    },
+    {
+      "id": 55,
+      "en": "That means that in any situation I get hurt or I get sick, I pay for the first $500 of care and then my insurance company pays for the rest.",
+      "cn": "这意味着在任何情况下我受伤或生病，我支付前500美元的护理费用，然后我的保险公司支付其余部分。"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 57,
+      "en": "So if I have to have a thousand dollar surgery, I pay $500 and then my insurance company pays the other $500.",
+      "cn": "所以如果我需要进行一千美元的手术，我支付500美元，然后我的保险公司支付另外500美元。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 59,
+      "en": "And well, you have these deductibles and everything and that depends on your coverage, right?",
+      "cn": "你有这些免赔额和一切，这取决于你的覆盖范围，对吧？"
+    },
+    {
+      "id": 60,
+      "en": "So coverage, how much the HMO covers you.",
+      "cn": "所以覆盖范围，就是HMO为你提供的保障。"
+    },
+    {
+      "id": 61,
+      "en": "That's right, and so you can find this also in your contract with your insurance company and coverage will include or not include something.",
+      "cn": "没错，所以你也可以在与保险公司的合同中找到这一点，覆盖范围将包括或不包括某些内容。"
+    },
+    {
+      "id": 62,
+      "en": "So coverage, for example, in a health care plan does not usually include your teeth.",
+      "cn": "所以例如，医疗保健计划中的覆盖范围通常不包括你的牙齿。"
+    },
+    {
+      "id": 63,
+      "en": "That's a separate kind of insurance.",
+      "cn": "那是另一种保险。"
+    },
+    {
+      "id": 64,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 65,
+      "en": "But a coverage can include emergency evacuation from a situation or ambulances, for example.",
+      "cn": "但覆盖范围可以包括紧急撤离或救护车，例如。"
+    },
+    {
+      "id": 66,
+      "en": "And so coverage is what is included in your insurance plan.",
+      "cn": "所以覆盖范围就是你保险计划中包含的内容。"
+    },
+    {
+      "id": 67,
+      "en": "Okay, is to qualify for.",
+      "cn": "好的，资格。"
+    },
+    {
+      "id": 68,
+      "en": "All right, so you might have heard this phrase before in the context of sports or academics.",
+      "cn": "好的，你可能在体育或学术的背景下听过这个短语。"
+    },
+    {
+      "id": 69,
+      "en": "So he qualified for a scholarship or she qualified for the varsity volleyball team.",
+      "cn": "所以他获得了奖学金，或者她获得了校队排球队的资格。"
+    },
+    {
+      "id": 70,
+      "en": "But in this case to qualify for is to be able to use.",
+      "cn": "但在这种情况下，资格是能够使用。"
+    },
+    {
+      "id": 71,
+      "en": "To be eligible for.",
+      "cn": "有资格。"
+    },
+    {
+      "id": 72,
+      "en": "So sometimes HMOs like in, for example, the United States will not accept a person who has maybe some health problems already because that would be too much of a risk right for the company.",
+      "cn": "所以有时HMO，比如在美国，可能不会接受已经有一些健康问题的人，因为这对公司来说风险太大。"
+    },
+    {
+      "id": 73,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 74,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 75,
+      "en": "Or you could qualify for a reduced rate because you have a very good health history.",
+      "cn": "或者你可能因为有很好的健康记录而获得降低的费率。"
+    },
+    {
+      "id": 76,
+      "en": "Okay, so this is very interesting and we have a couple of other phrases that are very related to this language.",
+      "cn": "好的，这非常有趣，我们还有几个与此语言相关的短语。"
+    },
+    {
+      "id": 77,
+      "en": "So why don't we move on now to fluency builder.",
+      "cn": "所以我们现在为什么不继续进行流利度提升。"
+    },
+    {
+      "id": 78,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 79,
+      "en": "All right, so in fluency builder today, let's take a look at our first phrase.",
+      "cn": "好的，在今天的流利度提升中，让我们看看我们的第一个短语。"
+    },
+    {
+      "id": 80,
+      "en": "We got to talking for a while.",
+      "cn": "我们聊了一会儿。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, we could say, for example, we started talking or we were talking for a while.",
+      "cn": "好的，我们可以说，例如，我们开始聊天，或者我们聊了一会儿。"
+    },
+    {
+      "id": 82,
+      "en": "But this is a very spoken language kind of phrase where we'd say we got to talking.",
+      "cn": "但这是一个非常口语化的短语，我们会说我们聊了起来。"
+    },
+    {
+      "id": 83,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 84,
+      "en": "So it's not really grammatically correct.",
+      "cn": "所以这并不是严格的语法正确。"
+    },
+    {
+      "id": 85,
+      "en": "But because you would say we started talking, but sometimes people say we got to talking.",
+      "cn": "但因为你会说我们开始聊天，但有时人们会说我们聊了起来。"
+    },
+    {
+      "id": 86,
+      "en": "So we got into a conversation, right?",
+      "cn": "所以我们进入了一个对话，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 88,
+      "en": "And usually it's about something.",
+      "cn": "通常是关于某事。"
+    },
+    {
+      "id": 89,
+      "en": "So we could say, yeah, we got to talking about how we both went to the same high school, or we got to talking about this movie that we both saw.",
+      "cn": "所以我们可以说，是的，我们聊了起来，谈论我们都上过同一所高中，或者我们聊了起来，谈论我们都看过的这部电影。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 91,
+      "en": "And well, they got to talking for a while.",
+      "cn": "而且，他们聊了一会儿。"
+    },
+    {
+      "id": 92,
+      "en": "And apparently his friend was in a bit of a jam.",
+      "cn": "显然他的朋友遇到了一点麻烦。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, jam is a food, you can eat it, you put it on bread, like marmalade, right?",
+      "cn": "好的，麻烦是食物，你可以吃它，你把它放在面包上，就像果酱，对吧？"
+    },
+    {
+      "id": 94,
+      "en": "Exactly.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 95,
+      "en": "But in this case, a jam is a fix or a difficult situation.",
+      "cn": "但在这种情况下，麻烦是指困境或困难的情况。"
+    },
+    {
+      "id": 96,
+      "en": "So it has a very different meaning.",
+      "cn": "所以它有非常不同的含义。"
+    },
+    {
+      "id": 97,
+      "en": "And I want to warn you about that first, but to be in a jam or to be in a bit of a jam is to be stuck.",
+      "cn": "我想先提醒你这一点，但处于麻烦中或有点麻烦是指被困住。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, so you're in a difficult situation, you have some problem.",
+      "cn": "好的，所以你处于困难的境地，有一些问题。"
+    },
+    {
+      "id": 99,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 100,
+      "en": "So Marco, I'm in a bit of a jam here.",
+      "cn": "所以Marco，我有点麻烦。"
+    },
+    {
+      "id": 101,
+      "en": "Can I get your help with something?",
+      "cn": "我可以请你帮忙吗？"
+    },
+    {
+      "id": 102,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 103,
+      "en": "Okay, and then the guy was talking about insurance.",
+      "cn": "好吧，然后那个人在谈论保险。"
+    },
+    {
+      "id": 104,
+      "en": "And he said, this really got me thinking.",
+      "cn": "他说，这让我开始思考。"
+    },
+    {
+      "id": 105,
+      "en": "So we got the verb got again there.",
+      "cn": "所以我们又有了动词“got”。"
+    },
+    {
+      "id": 106,
+      "en": "All right, so got me thinking.",
+      "cn": "好吧，所以“got me thinking”。"
+    },
+    {
+      "id": 107,
+      "en": "That means I started thinking about something.",
+      "cn": "这意味着我开始思考某事。"
+    },
+    {
+      "id": 108,
+      "en": "So you know, when we were talking about jam a minute ago, it got me thinking about how much I love breakfast.",
+      "cn": "所以你知道，当我们刚才谈论果酱时，这让我想到了我有多爱早餐。"
+    },
+    {
+      "id": 109,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 110,
+      "en": "So you would use it in that way, right?",
+      "cn": "所以你会那样使用它，对吧？"
+    },
+    {
+      "id": 111,
+      "en": "Like it reminded me, it reminded me or I started to really think about something.",
+      "cn": "就像它让我想起了，我开始真正思考某事。"
+    },
+    {
+      "id": 112,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 113,
+      "en": "And our last phrase is a pre existing illness.",
+      "cn": "我们最后一个短语是“既往疾病”。"
+    },
+    {
+      "id": 114,
+      "en": "All right, so to exist is to be you know, to be around.",
+      "cn": "好吧，存在就是存在，你知道的。"
+    },
+    {
+      "id": 115,
+      "en": "pre existing means existing before something else.",
+      "cn": "“既往”意味着在其他事情之前存在。"
+    },
+    {
+      "id": 116,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 117,
+      "en": "And so you often hear this in terms of insurance, when someone asks you about your pre existing condition.",
+      "cn": "所以你经常在保险方面听到这个，当有人问你关于你的既往病症时。"
+    },
+    {
+      "id": 118,
+      "en": "So that means if I'm signing up for an insurance plan, health insurance plan, and I have an interview with you, Marco, and you asked me this question.",
+      "cn": "这意味着如果我在注册一个健康保险计划时，和你，Marco，进行面谈，你问我这个问题。"
+    },
+    {
+      "id": 119,
+      "en": "What is your pre existing condition?",
+      "cn": "你的既往病症是什么？"
+    },
+    {
+      "id": 120,
+      "en": "That means what diseases or health problems do I have now right now, right prior to signing up for this insurance?",
+      "cn": "这意味着我现在有什么疾病或健康问题，正好是在注册这个保险之前？"
+    },
+    {
+      "id": 121,
+      "en": "And I say, Oh, I don't have any and you're very happy because that means I'll be cheap.",
+      "cn": "我说，哦，我没有任何问题，你很高兴，因为这意味着我会便宜。"
+    },
+    {
+      "id": 122,
+      "en": "But um, if I say Oh, I have diabetes, then that is something that the insurance companies don't like because it's expensive.",
+      "cn": "但是，如果我说，哦，我有糖尿病，那么保险公司就不喜欢，因为这很贵。"
+    },
+    {
+      "id": 123,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 124,
+      "en": "Because you're more probable of getting sick or something like that.",
+      "cn": "因为你更可能生病或类似的事情。"
+    },
+    {
+      "id": 125,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 126,
+      "en": "So diabetes or cancer or Lyme disease, these are all pre existing conditions.",
+      "cn": "所以糖尿病、癌症或莱姆病，这些都是既往病症。"
+    },
+    {
+      "id": 127,
+      "en": "And usually pre existing conditions are diseases or problems, health problems that you have that won't go away.",
+      "cn": "通常，既往病症是你有的不会消失的疾病或健康问题。"
+    },
+    {
+      "id": 128,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 129,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 130,
+      "en": "So we have a lot of words, a lot of phrases here.",
+      "cn": "所以我们这里有很多单词，很多短语。"
+    },
+    {
+      "id": 131,
+      "en": "Let's listen to the dialogue one last time, and we'll be back.",
+      "cn": "让我们最后再听一次对话，然后我们会回来。"
+    },
+    {
+      "id": 132,
+      "en": "Hey, honey, how was your day?",
+      "cn": "嘿，亲爱的，你今天过得怎么样？"
+    },
+    {
+      "id": 133,
+      "en": "It was all right.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 134,
+      "en": "I ran into Bill and we got to talking for a while.",
+      "cn": "我遇到了比尔，我们聊了一会儿。"
+    },
+    {
+      "id": 135,
+      "en": "He's in a bit of a jam.",
+      "cn": "他有点麻烦。"
+    },
+    {
+      "id": 136,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 137,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 138,
+      "en": "Well, his son had an accident.",
+      "cn": "嗯，他的儿子出了事故。"
+    },
+    {
+      "id": 139,
+      "en": "Bill doesn't have health insurance.",
+      "cn": "比尔没有健康保险。"
+    },
+    {
+      "id": 140,
+      "en": "This really got me thinking.",
+      "cn": "这让我开始思考。"
+    },
+    {
+      "id": 141,
+      "en": "And I wondered if we shouldn't look into a couple of different HMOs.",
+      "cn": "我在想我们是否应该考虑几个不同的HMO。"
+    },
+    {
+      "id": 142,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 143,
+      "en": "We aren't getting any younger and our kids are getting older.",
+      "cn": "我们没有变得更年轻，我们的孩子在长大。"
+    },
+    {
+      "id": 144,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 145,
+      "en": "I searched on the web and found a couple of HMOs with low copays and good coverage.",
+      "cn": "我在网上搜索，找到了几个低共付额和良好覆盖的HMO。"
+    },
+    {
+      "id": 146,
+      "en": "The deductibles are low too.",
+      "cn": "免赔额也很低。"
+    },
+    {
+      "id": 147,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 148,
+      "en": "Although, do you think we can qualify for insurance?",
+      "cn": "不过，你认为我们能符合保险资格吗？"
+    },
+    {
+      "id": 149,
+      "en": "Those insurance companies are real pirates when it comes to money.",
+      "cn": "那些保险公司在钱方面真是海盗。"
+    },
+    {
+      "id": 150,
+      "en": "Well, we don't have any pre existing illnesses or conditions.",
+      "cn": "嗯，我们没有任何既往疾病或病症。"
+    },
+    {
+      "id": 151,
+      "en": "So we should be fine.",
+      "cn": "所以我们应该没问题。"
+    },
+    {
+      "id": 152,
+      "en": "I wish our company or country provided us with healthcare.",
+      "cn": "我希望我们的公司或国家能为我们提供医疗保健。"
+    },
+    {
+      "id": 153,
+      "en": "Not in a million years.",
+      "cn": "一百万年也不可能。"
+    },
+    {
+      "id": 154,
+      "en": "All right, so the healthcare issue is pretty heated debate now in the United States, because many people don't have health care and it's not very accessible, right?",
+      "cn": "好吧，所以医疗保健问题在美国是一个相当激烈的辩论，因为很多人没有医疗保健，而且不太容易获得，对吧？"
+    },
+    {
+      "id": 155,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 156,
+      "en": "And it's a huge debate because it's very, very divided by party lines.",
+      "cn": "这是一个巨大的辩论，因为它在党派之间非常分裂。"
+    },
+    {
+      "id": 157,
+      "en": "We say, you know, there's the Republicans on the right, and there's the Democrats on the left.",
+      "cn": "我们说，你知道，右边是共和党，左边是民主党。"
+    },
+    {
+      "id": 158,
+      "en": "And the Democrats want a public health care option.",
+      "cn": "民主党想要一个公共医疗保健选项。"
+    },
+    {
+      "id": 159,
+      "en": "They want health care to be available for everyone for free.",
+      "cn": "他们希望医疗保健对每个人都是免费的。"
+    },
+    {
+      "id": 160,
+      "en": "And many of them do.",
+      "cn": "他们中的许多人确实如此。"
+    },
+    {
+      "id": 161,
+      "en": "And a lot of Republicans say no, it should be private, because if it's private, there's competition.",
+      "cn": "很多共和党人说不，应该是私人的，因为如果是私人的，就有竞争。"
+    },
+    {
+      "id": 162,
+      "en": "And that means there's better health care.",
+      "cn": "这意味着医疗保健会更好。"
+    },
+    {
+      "id": 163,
+      "en": "And so there's a really big debate and people are getting very angry about it.",
+      "cn": "所以这是一个非常大的辩论，人们对此非常愤怒。"
+    },
+    {
+      "id": 164,
+      "en": "Yeah, but I think it's something that's very interesting.",
+      "cn": "是的，但我认为这是非常有趣的事情。"
+    },
+    {
+      "id": 165,
+      "en": "And most importantly, seeing the difference of health care systems around the world, right?",
+      "cn": "最重要的是，看到世界各地医疗保健系统的差异，对吧？"
+    },
+    {
+      "id": 166,
+      "en": "So, for example, our listeners, there are from everywhere in the world.",
+      "cn": "所以，例如，我们的听众来自世界各地。"
+    },
+    {
+      "id": 167,
+      "en": "So we would like to know what the health care system is like there.",
+      "cn": "我们想知道你们那里的医疗保健系统是怎样的。"
+    },
+    {
+      "id": 168,
+      "en": "Do you have free universal health care in your country?",
+      "cn": "你们的国家有免费的全民医疗保健吗？"
+    },
+    {
+      "id": 169,
+      "en": "Or do you also have to pay for private companies or private health insurance?",
+      "cn": "还是你们也必须为私人公司或私人健康保险付费？"
+    },
+    {
+      "id": 170,
+      "en": "And if you have one or the other system, do you think it's a good thing?",
+      "cn": "如果你们有其中一种系统，你认为这是好事吗？"
+    },
+    {
+      "id": 171,
+      "en": "Do you think it's a bad thing?",
+      "cn": "你认为这是坏事吗？"
+    },
+    {
+      "id": 172,
+      "en": "What do you think needs some work?",
+      "cn": "你认为需要改进的地方是什么？"
+    },
+    {
+      "id": 173,
+      "en": "Right, I definitely agree with universal health care.",
+      "cn": "对，我绝对同意全民医疗保健。"
+    },
+    {
+      "id": 174,
+      "en": "I think it's a relief, because it's like one thing less to worry about.",
+      "cn": "我认为这是一种解脱，因为这意味着少了一件担心的事情。"
+    },
+    {
+      "id": 175,
+      "en": "I can't imagine like, you know, if I don't have health care right now, and I'm not covered by a private company, and something happens to me tomorrow, then you know, what's going to happen?",
+      "cn": "我无法想象，如果我现在没有医疗保健，而且没有被私人公司覆盖，明天如果发生什么，我该怎么办？"
+    },
+    {
+      "id": 176,
+      "en": "I think it's a basic human right, personally.",
+      "cn": "我认为这是一项基本人权，个人而言。"
+    },
+    {
+      "id": 177,
+      "en": "So I think it's in the best interests of a country to invest in it, because it means that their people are more productive and happier and healthy.",
+      "cn": "所以我认为投资于此对一个国家是最有利的，因为这意味着他们的人民更有生产力、更快乐和健康。"
+    },
+    {
+      "id": 178,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 179,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 180,
+      "en": "So that's all the time we have for today.",
+      "cn": "所以今天的时间就到这里。"
+    },
+    {
+      "id": 181,
+      "en": "Be sure to come to EnglishPod.com.",
+      "cn": "一定要来EnglishPod.com。"
+    },
+    {
+      "id": 182,
+      "en": "Leave your questions and comments.",
+      "cn": "留下你的问题和评论。"
+    },
+    {
+      "id": 183,
+      "en": "And we'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 184,
+      "en": "Bye everyone.",
+      "cn": "大家再见。"
+    }
+  ]
+}

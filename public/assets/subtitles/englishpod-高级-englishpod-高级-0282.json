@@ -1,0 +1,914 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0282",
+  "title": "EnglishPod 高级 0282",
+  "totalSegments": 181,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we have an advanced level lesson for you.",
+      "cn": "我叫Catherine，今天我们为你们准备了一节高级课程。"
+    },
+    {
+      "id": 4,
+      "en": "This one's a bit difficult.",
+      "cn": "这节课有点难。"
+    },
+    {
+      "id": 5,
+      "en": "It's all about science.",
+      "cn": "主题是科学。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "Today we're going to talk about physics, specifically about, well, you know, things like Stephen Hawking and wormholes, black holes, and general theory of relativity and all that good stuff.",
+      "cn": "今天我们将讨论物理学，特别是斯蒂芬·霍金、虫洞、黑洞和广义相对论等内容。"
+    },
+    {
+      "id": 8,
+      "en": "Right, so we're in class, we're learning about physics today, and you're going to hear a lot of terms.",
+      "cn": "对，所以我们在课堂上，今天学习物理学，你会听到很多术语。"
+    },
+    {
+      "id": 9,
+      "en": "Don't worry if you're not really sure what they mean.",
+      "cn": "如果你不太确定它们的意思，不用担心。"
+    },
+    {
+      "id": 10,
+      "en": "We'll be back in a moment to talk about them.",
+      "cn": "我们稍后会回来讨论它们。"
+    },
+    {
+      "id": 11,
+      "en": "Good morning, everybody.",
+      "cn": "大家早上好。"
+    },
+    {
+      "id": 12,
+      "en": "Welcome to Physics 101.",
+      "cn": "欢迎来到物理学101。"
+    },
+    {
+      "id": 13,
+      "en": "My name is Ed Brown, and I will be your professor for the semester.",
+      "cn": "我叫Ed Brown，将是你们这个学期的教授。"
+    },
+    {
+      "id": 14,
+      "en": "Since today is our first day, I wanted to give you an overview of what this course will look like, how you will be graded, and what we will cover this semester.",
+      "cn": "由于今天是我们的第一天，我想给你们概述一下这门课程的内容、评分方式以及我们这个学期将要学习的内容。"
+    },
+    {
+      "id": 15,
+      "en": "Will we be focusing more on theoretical physics or experimental physics, professor?",
+      "cn": "教授，我们会更关注理论物理还是实验物理？"
+    },
+    {
+      "id": 16,
+      "en": "This is an introductory course, and my aim is to give you a broad overview of the field of physics.",
+      "cn": "这是一个入门课程，我的目标是给你们提供物理学领域的广泛概述。"
+    },
+    {
+      "id": 17,
+      "en": "The term physics encompasses many different areas of research and study, and I hope this course will provide you with a conceptual understanding of physics, which will prove useful whether or not you choose to further your study in the field.",
+      "cn": "物理学这个术语涵盖了许多不同的研究和学习领域，我希望这门课程能为你们提供对物理学的概念理解，这对你们是否选择进一步学习该领域都将是有用的。"
+    },
+    {
+      "id": 18,
+      "en": "We will begin the course by looking at the fundamental concepts of physics.",
+      "cn": "我们将通过研究物理学的基本概念开始这门课程。"
+    },
+    {
+      "id": 19,
+      "en": "Then by the middle of the semester, we will begin exploring the more theoretical side of physics.",
+      "cn": "然后在学期中期，我们将开始探索物理学的更理论方面。"
+    },
+    {
+      "id": 20,
+      "en": "It is essential that you first have a firm grasp of the fundamentals, so that you can better understand the theoretical concepts when we get to them.",
+      "cn": "首先，你必须牢牢掌握基础知识，这样当我们讨论理论概念时，你才能更好地理解它们。"
+    },
+    {
+      "id": 21,
+      "en": "Will we learn about black holes, worm holes, and string theory?",
+      "cn": "我们会学习黑洞、虫洞和弦理论吗？"
+    },
+    {
+      "id": 22,
+      "en": "We will learn about the general theory of relativity, including black holes.",
+      "cn": "我们将学习广义相对论，包括黑洞。"
+    },
+    {
+      "id": 23,
+      "en": "We will also explore the developing theories in quantum mechanics, such as string theory.",
+      "cn": "我们还将探索量子力学中的发展理论，如弦理论。"
+    },
+    {
+      "id": 24,
+      "en": "We will discuss some hypothetical features of space-time, like wormholes.",
+      "cn": "我们将讨论一些时空的假设特征，比如虫洞。"
+    },
+    {
+      "id": 25,
+      "en": "We will also explore some of the more influential developments in the field of thermodynamics, electromagnetism, and nuclear physics, all of which have had significant impacts on modern life.",
+      "cn": "我们还将探索热力学、电磁学和核物理领域的一些重要发展，这些都对现代生活产生了重大影响。"
+    },
+    {
+      "id": 26,
+      "en": "Now I am going to have the TAs pass out the syllabus for this class, so you can see how this course will be graded.",
+      "cn": "现在我将让助教发放这门课的教学大纲，以便你们了解这门课程的评分方式。"
+    },
+    {
+      "id": 27,
+      "en": "Oh man, looks like this isn't going to be the easy A I thought it'd be.",
+      "cn": "哦，天哪，看起来这不会是我想的那种简单的A。"
+    },
+    {
+      "id": 28,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 29,
+      "en": "So obviously we are in a class, as you said, and the professor is pretty much introducing the course and what's going to happen during the semester.",
+      "cn": "显然我们在上课，正如你所说，教授基本上是在介绍课程和学期内将要发生的事情。"
+    },
+    {
+      "id": 30,
+      "en": "That's right, so he's talking about the different kinds of physics, or the different elements of physics, that will be a part of this course.",
+      "cn": "没错，他在谈论这门课程将涉及的不同类型的物理学或物理学的不同元素。"
+    },
+    {
+      "id": 31,
+      "en": "And there's a very eager student, he's very excited, and he wants to know, are these interesting things going to be a part of the course?",
+      "cn": "有一个非常渴望的学生，他非常兴奋，想知道这些有趣的内容是否会成为课程的一部分？"
+    },
+    {
+      "id": 32,
+      "en": "And so when we start out, we talked about these two different fields of physics, and I think maybe it would be helpful to start there with these two branches of this field.",
+      "cn": "所以当我们开始时，我们讨论了这两个不同的物理学领域，我认为从这两个分支开始可能会有帮助。"
+    },
+    {
+      "id": 33,
+      "en": "That's right, he mentioned, this boy Matt said, if they're going to be focusing more on theoretical physics or experimental physics.",
+      "cn": "没错，他提到，这个男孩Matt问他们会更关注理论物理还是实验物理。"
+    },
+    {
+      "id": 34,
+      "en": "Now, theoretical physics and experimental physics are what we call two different branches of physics.",
+      "cn": "现在，理论物理和实验物理是我们所称的物理学的两个不同分支。"
+    },
+    {
+      "id": 35,
+      "en": "That means they're both physics, but people who do them have different methods and maybe focus on different things.",
+      "cn": "这意味着它们都是物理学，但从事这些研究的人有不同的方法，可能关注不同的事物。"
+    },
+    {
+      "id": 36,
+      "en": "Theoretical comes from the word theory, right?",
+      "cn": "理论来自于“理论”这个词，对吧？"
+    },
+    {
+      "id": 37,
+      "en": "So I have a theory about something, and I'm going to think about if whether or not it's possible, and maybe, you know, there's some math involved.",
+      "cn": "所以我对某事有一个理论，我会考虑它是否可能，也许，知道，有一些数学涉及其中。"
+    },
+    {
+      "id": 38,
+      "en": "But with experimental physics, the key word here is experiment, experimental.",
+      "cn": "但在实验物理中，关键字是实验，实验。"
+    },
+    {
+      "id": 39,
+      "en": "That means we actually build experiments to test our theories.",
+      "cn": "这意味着我们实际上构建实验来测试我们的理论。"
+    },
+    {
+      "id": 40,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 41,
+      "en": "So I guess theoretical physics, we can just have theories about how things happen or explain them, but we can't really prove them.",
+      "cn": "所以我想理论物理，我们可以对事物发生的方式或解释它们有理论，但我们不能真正证明它们。"
+    },
+    {
+      "id": 42,
+      "en": "We can just have theories around them.",
+      "cn": "我们只能围绕它们有理论。"
+    },
+    {
+      "id": 43,
+      "en": "Maybe we can try and prove them mathematically.",
+      "cn": "也许我们可以尝试用数学证明它们。"
+    },
+    {
+      "id": 44,
+      "en": "But experimental physics, you can actually, as you said, create an experiment to prove it or not.",
+      "cn": "但实验物理，你可以，正如你所说，创建一个实验来证明它或不证明它。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "And so those are the two main branches that the young man asks about.",
+      "cn": "所以这就是年轻人问的两个主要分支。"
+    },
+    {
+      "id": 47,
+      "en": "But the professor says, you know, listen, we're going to be talking about the fundamental concepts of physics.",
+      "cn": "但教授说，你知道，听着，我们将讨论物理学的基本概念。"
+    },
+    {
+      "id": 48,
+      "en": "And so fundamental concepts are things that you often hear a professor talk about in your introductory class.",
+      "cn": "所以基本概念是你经常听到教授在入门课上谈论的内容。"
+    },
+    {
+      "id": 49,
+      "en": "So introduction to mathematics or introduction to physics.",
+      "cn": "比如数学入门或物理入门。"
+    },
+    {
+      "id": 50,
+      "en": "So fundamental concepts are the basics.",
+      "cn": "所以基本概念就是基础。"
+    },
+    {
+      "id": 51,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 52,
+      "en": "So the most important, but also the ones at the very bottom, the foundation.",
+      "cn": "所以最重要的，但也是最底层的，基础。"
+    },
+    {
+      "id": 53,
+      "en": "Because you can learn about more difficult or more complicated things later.",
+      "cn": "因为你可以在后面学习更困难或更复杂的东西。"
+    },
+    {
+      "id": 54,
+      "en": "But first, you have to have a foundation.",
+      "cn": "但首先，你必须有一个基础。"
+    },
+    {
+      "id": 55,
+      "en": "So those are the fundamental concepts, right?",
+      "cn": "所以这些就是基本概念，对吧？"
+    },
+    {
+      "id": 56,
+      "en": "And actually, after the professor said that this other this guy, Matt went on to ask if they were going to learn about black holes, wormholes and string theory.",
+      "cn": "实际上，在教授说完后，这个男孩Matt接着问他们是否会学习黑洞、虫洞和弦理论。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, so three very important parts of physics, but very, very complicated things.",
+      "cn": "好吧，这三个都是物理学中非常重要的部分，但非常复杂的东西。"
+    },
+    {
+      "id": 58,
+      "en": "The first two are related, right?",
+      "cn": "前两个是相关的，对吧？"
+    },
+    {
+      "id": 59,
+      "en": "So we've got astrophysics, Astro means star.",
+      "cn": "所以我们有天体物理学，Astro意为星星。"
+    },
+    {
+      "id": 60,
+      "en": "So astrophysics is the physics of things, bodies in space, planets, stars, things like that.",
+      "cn": "所以天体物理学是研究太空中物体、行星、星星等的物理学。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "And so two concepts that we often talk about in astrophysics are black holes and wormholes.",
+      "cn": "所以我们在天体物理学中经常讨论的两个概念是黑洞和虫洞。"
+    },
+    {
+      "id": 63,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 64,
+      "en": "So I think many of you have already heard this word black hole, the concept of it is basically a huge hole in space that just sucks up everything, the gravitational force.",
+      "cn": "我想你们中的许多人已经听说过黑洞这个词，它的概念基本上是太空中的一个巨大洞，吸收一切，重力的力量。"
+    },
+    {
+      "id": 65,
+      "en": "So the pull of gravity is so strong that nothing can resist it.",
+      "cn": "所以重力的吸引力是如此强大，以至于没有东西能抵抗它。"
+    },
+    {
+      "id": 66,
+      "en": "Everything that comes close to a black hole, it's like in a drain.",
+      "cn": "一切靠近黑洞的东西，就像在排水口。"
+    },
+    {
+      "id": 67,
+      "en": "Everything that comes close to it just gets sucked into it.",
+      "cn": "一切靠近它的东西都会被吸入。"
+    },
+    {
+      "id": 68,
+      "en": "No light can escape it.",
+      "cn": "没有光能逃脱。"
+    },
+    {
+      "id": 69,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 70,
+      "en": "And the other concept there is a wormhole.",
+      "cn": "另一个概念是虫洞。"
+    },
+    {
+      "id": 71,
+      "en": "So it's basically a sort of bending of space and time in which you can travel from one point to another a lot faster than going in a straight line or from one time to another.",
+      "cn": "所以它基本上是时空的一种弯曲，你可以从一个点快速旅行到另一个点，而不是沿直线或从一个时间到另一个时间。"
+    },
+    {
+      "id": 72,
+      "en": "So this is a very, very popular concept in science fiction movies and books.",
+      "cn": "所以这是科幻电影和书籍中非常流行的概念。"
+    },
+    {
+      "id": 73,
+      "en": "For example, Star Trek, the most recent movie, the new movie, Star Trek, there was a wormhole.",
+      "cn": "例如，最近的《星际迷航》电影中就有一个虫洞。"
+    },
+    {
+      "id": 74,
+      "en": "So one ship goes from the future and it comes into the past.",
+      "cn": "一艘飞船从未来来到过去。"
+    },
+    {
+      "id": 75,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 76,
+      "en": "So it has to travel through this wormhole.",
+      "cn": "所以它必须通过这个虫洞旅行。"
+    },
+    {
+      "id": 77,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 78,
+      "en": "So and actually, yeah, you say science fiction and obviously it's hard to prove it, but this is one of the concepts that physicists think they can prove someday.",
+      "cn": "所以，实际上，是的，你说科幻，显然很难证明，但这是物理学家认为他们有一天可以证明的概念。"
+    },
+    {
+      "id": 79,
+      "en": "Someday, and this is why it's a part of theoretical physics.",
+      "cn": "有一天，这就是它成为理论物理一部分的原因。"
+    },
+    {
+      "id": 80,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 81,
+      "en": "And what about this other concept, string theory?",
+      "cn": "那么这个其他概念，弦理论呢？"
+    },
+    {
+      "id": 82,
+      "en": "Okay, string theory is a theory about the way the world works, basically.",
+      "cn": "好吧，弦理论是关于世界运作方式的理论，基本上。"
+    },
+    {
+      "id": 83,
+      "en": "And it is a theory that actually competes with Einstein's view of the way the world works, right?",
+      "cn": "它是一个实际上与爱因斯坦的世界观竞争的理论，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "And string theory is about basically strings that are vibrating and that's the way the entire universe is kind of built.",
+      "cn": "弦理论基本上是关于振动的弦，这就是整个宇宙的构建方式。"
+    },
+    {
+      "id": 85,
+      "en": "Yeah, so basically at the subatomic level, usually you're supposed to have an atom, but also supposedly these atoms are made up of strings that, depending on the frequency at which they vibrate, they could constitute different elements or different parts.",
+      "cn": "是的，所以基本上在亚原子层面，通常你应该有一个原子，但这些原子也被认为是由弦构成的，取决于它们振动的频率，它们可以构成不同的元素或不同的部分。"
+    },
+    {
+      "id": 86,
+      "en": "Different kinds of matter, right?",
+      "cn": "不同种类的物质，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 88,
+      "en": "And so we're talking about the very, very, very, very, smallest building blocks of the things in the world.",
+      "cn": "所以我们在谈论世界上非常非常非常非常小的构建块。"
+    },
+    {
+      "id": 89,
+      "en": "Atoms and even quarks and jewels and those things.",
+      "cn": "原子，甚至夸克和珠子等等。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 91,
+      "en": "So it's actually one of these new things that, well, people are talking about string theory.",
+      "cn": "所以这实际上是这些新事物之一，人们在谈论弦理论。"
+    },
+    {
+      "id": 92,
+      "en": "It's kind of this new way of seeing the world and explaining the unexplainable because there are so many things still in the world that we can't explain.",
+      "cn": "这是一种新的看待世界和解释无法解释事物的方式，因为世界上还有很多事情我们无法解释。"
+    },
+    {
+      "id": 93,
+      "en": "And people argue about this because obviously if you can't prove it, it's hard to say what is right and what is wrong.",
+      "cn": "人们对此争论，因为显然如果你不能证明它，很难说什么是对的，什么是错的。"
+    },
+    {
+      "id": 94,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 95,
+      "en": "But actually one thing that was proven was Einstein's general theory of relativity.",
+      "cn": "但实际上，有一件事是被证明的，那就是爱因斯坦的广义相对论。"
+    },
+    {
+      "id": 96,
+      "en": "So this is something we all learned back in high school or in college.",
+      "cn": "所以这是我们在高中或大学时都学过的东西。"
+    },
+    {
+      "id": 97,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "So basically the general theory of relativity is this idea that space and time are not fixed.",
+      "cn": "所以基本上，广义相对论是空间和时间不是固定的这个想法。"
+    },
+    {
+      "id": 99,
+      "en": "They're relative to each other.",
+      "cn": "它们是相对的。"
+    },
+    {
+      "id": 100,
+      "en": "So an example my teacher used to use is that when you travel very, very, very fast, imagine going around a jet around the world, counterclockwise, time slows down the faster you move.",
+      "cn": "我老师常用的一个例子是，当你以非常非常非常快的速度旅行时，想象一下绕着世界飞行，逆时针，时间在你移动得越快时会变慢。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, so that proves that that time and space are not fixed.",
+      "cn": "好的，这证明了时间和空间不是固定的。"
+    },
+    {
+      "id": 102,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 103,
+      "en": "Actually this, the general theory of relativity and specifically this aspect of speed and time was proven with the example that you give with two atomic clocks.",
+      "cn": "实际上，这个，相对论的广义理论，特别是速度和时间的这个方面，是通过你提到的两个原子钟的例子证明的。"
+    },
+    {
+      "id": 104,
+      "en": "That you kept one on the ground, like, I don't know, your house, and you put one in an airplane that was traveling faster than the speed of sound.",
+      "cn": "你把一个放在地面上，比如说，你的房子，然后把一个放在一架飞行速度超过音速的飞机上。"
+    },
+    {
+      "id": 105,
+      "en": "And so after maybe an hour, the plane would land and the clocks would have not the same time anymore, but they would be one.",
+      "cn": "所以大约一个小时后，飞机降落，两个钟的时间就不再相同了，但它们会是一个。"
+    },
+    {
+      "id": 106,
+      "en": "The clock that was in the airplane traveling faster would be maybe half a second off or something very, very small.",
+      "cn": "在飞机上旅行的钟可能会慢半秒钟或其他非常非常小的时间。"
+    },
+    {
+      "id": 107,
+      "en": "But you would see that time moved slower because your speed is faster.",
+      "cn": "但你会看到时间因为你的速度更快而变得更慢。"
+    },
+    {
+      "id": 108,
+      "en": "All right, so that's the general theory.",
+      "cn": "好吧，这就是广义理论。"
+    },
+    {
+      "id": 109,
+      "en": "That's a part of the general theory of relativity, right?",
+      "cn": "这是相对论的一个部分，对吧？"
+    },
+    {
+      "id": 110,
+      "en": "It's a very important theory in the history of the world, but also in the history of physics.",
+      "cn": "这是世界历史上非常重要的理论，同时也是物理学历史上非常重要的理论。"
+    },
+    {
+      "id": 111,
+      "en": "Another thing, though, that the professor mentioned that is very important in physics these days is quantum mechanics.",
+      "cn": "不过，教授提到的另一个在当今物理学中非常重要的事情是量子力学。"
+    },
+    {
+      "id": 112,
+      "en": "Yes, this is actually a very interesting field of physics, but very hard to understand.",
+      "cn": "是的，实际上这是一个非常有趣的物理学领域，但非常难以理解。"
+    },
+    {
+      "id": 113,
+      "en": "In my opinion, for me, it's very, very hard.",
+      "cn": "在我看来，对我来说，这非常非常难。"
+    },
+    {
+      "id": 114,
+      "en": "I find it very complex, too.",
+      "cn": "我觉得它也很复杂。"
+    },
+    {
+      "id": 115,
+      "en": "Well, mechanics are the way things work, right?",
+      "cn": "嗯，力学是事物运作的方式，对吧？"
+    },
+    {
+      "id": 116,
+      "en": "And so quantum is at the atomic and subatomic level.",
+      "cn": "所以量子是在原子和亚原子层面。"
+    },
+    {
+      "id": 117,
+      "en": "And so you're talking about basically the building blocks of the things in the universe.",
+      "cn": "所以你基本上是在谈论宇宙中事物的基本构件。"
+    },
+    {
+      "id": 118,
+      "en": "And the people who are studying this or working on this, quantum mechanics, they don't like the Einsteinians.",
+      "cn": "而研究或从事量子力学的人，他们不喜欢爱因斯坦主义者。"
+    },
+    {
+      "id": 119,
+      "en": "They don't like the people who follow Einstein because these two theories, they don't actually go together very well.",
+      "cn": "他们不喜欢追随爱因斯坦的人，因为这两种理论实际上并不太兼容。"
+    },
+    {
+      "id": 120,
+      "en": "You either have to believe one or you have to believe the other.",
+      "cn": "你要么相信一个，要么相信另一个。"
+    },
+    {
+      "id": 121,
+      "en": "Well, the problem is that when you're talking about, when you're talking at the macro level, the way things work and the way things move, like, for example, you and me, of course, there are formulas and they're everything that explains and that prove that things are the way they are.",
+      "cn": "嗯，问题是，当你在宏观层面谈论事物的运作和运动方式时，比如说你和我，当然有公式和一切可以解释和证明事物是这样的。"
+    },
+    {
+      "id": 122,
+      "en": "But the problem is that in quantum mechanics, at the subatomic level, it's so different.",
+      "cn": "但问题是，在量子力学中，在亚原子层面，它是如此不同。"
+    },
+    {
+      "id": 123,
+      "en": "Like, for example, electronics, the reason why we're able to have microprocessors and electronics is because, for example, atoms can be in two places at the same time, which is impossible in our world.",
+      "cn": "比如说，电子，之所以我们能够拥有微处理器和电子设备，是因为，比如说，原子可以同时处于两个地方，这在我们的世界中是不可能的。"
+    },
+    {
+      "id": 124,
+      "en": "It's like saying, you know, Catherine can be in two places at the exact same time.",
+      "cn": "就像说，你知道，凯瑟琳可以在两个地方同时。"
+    },
+    {
+      "id": 125,
+      "en": "And there's also this problem of observation that I've read about.",
+      "cn": "还有我读到的观察问题。"
+    },
+    {
+      "id": 126,
+      "en": "So there are some kinds of particles like electrons, for example, that if you're observing them, sometimes appear as waves, but if you're observing them, sometimes appear to have mass.",
+      "cn": "所以有一些粒子，比如电子，如果你在观察它们，有时它们表现为波，但如果你在观察它们，有时它们表现为有质量。"
+    },
+    {
+      "id": 127,
+      "en": "Exactly, like light.",
+      "cn": "正是如此，就像光。"
+    },
+    {
+      "id": 128,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 129,
+      "en": "So you're talking about these things that seem to have a whole different set of rules from the rules that we have here, walking around and eating food and going to work.",
+      "cn": "所以你在谈论这些似乎有一整套不同规则的事物，而这些规则与我们在这里走动、吃东西和上班的规则不同。"
+    },
+    {
+      "id": 130,
+      "en": "And so I think that's what's fascinating about physics, that, you know, you can break things down to the very smallest parts, and they seem very different.",
+      "cn": "所以我认为这就是物理学迷人的地方，你可以将事物分解到最小的部分，它们似乎非常不同。"
+    },
+    {
+      "id": 131,
+      "en": "Or you can think about the stars and the moon and, you know, these planets, and they have their own rules too.",
+      "cn": "或者你可以思考星星、月亮和这些行星，它们也有自己的规则。"
+    },
+    {
+      "id": 132,
+      "en": "And so, you know, that's why physics is such a very... I think it's frustrating.",
+      "cn": "所以，你知道，这就是为什么物理学是如此... 我认为这令人沮丧。"
+    },
+    {
+      "id": 133,
+      "en": "It's frustrating, and it's exciting at the same time.",
+      "cn": "这令人沮丧，同时又令人兴奋。"
+    },
+    {
+      "id": 134,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 135,
+      "en": "And then the next one we're going to explore are the fields of thermodynamics, electromagnetism, and even nuclear physics.",
+      "cn": "然后我们要探索的下一个领域是热力学、电磁学，甚至核物理学。"
+    },
+    {
+      "id": 136,
+      "en": "So very important branches, I think, of physics as well.",
+      "cn": "所以我认为这些也是物理学中非常重要的分支。"
+    },
+    {
+      "id": 137,
+      "en": "So when you're studying physics or science, you will definitely hear about the laws of thermodynamics.",
+      "cn": "所以当你学习物理或科学时，你一定会听到热力学定律。"
+    },
+    {
+      "id": 138,
+      "en": "Thermo means heat, and dynamics means, you know, changing, changing state.",
+      "cn": "热意味着热，动力学意味着，你知道，变化，变化状态。"
+    },
+    {
+      "id": 139,
+      "en": "And electromagnetism, of course, is the combination of two words, electricity and magnetism.",
+      "cn": "而电磁学，当然是两个词的结合，电和磁。"
+    },
+    {
+      "id": 140,
+      "en": "You know, like magnets, you have the plus end and the minus end, and they attract where they repel.",
+      "cn": "你知道，就像磁铁，你有正极和负极，它们吸引或排斥。"
+    },
+    {
+      "id": 141,
+      "en": "Then finally, nuclear physics.",
+      "cn": "然后最后，核物理学。"
+    },
+    {
+      "id": 142,
+      "en": "Nuclear physics is very important because it's, again, about atoms and breaking down atoms and finding out what their parts are.",
+      "cn": "核物理学非常重要，因为它再次涉及原子，分解原子并找出它们的组成部分。"
+    },
+    {
+      "id": 143,
+      "en": "So you might have heard about the Hadron super collider.",
+      "cn": "所以你可能听说过强子对撞机。"
+    },
+    {
+      "id": 144,
+      "en": "This is like a big... it's like a big racetrack for atoms, and they basically spin these atoms around the racetrack, going faster and faster, and then they put objects in their way so that they break.",
+      "cn": "这就像一个大的... 它就像一个原子的赛车场，他们基本上在赛道上旋转这些原子，越来越快，然后把物体放在它们的路上，以便它们破裂。"
+    },
+    {
+      "id": 145,
+      "en": "They crash.",
+      "cn": "它们碰撞。"
+    },
+    {
+      "id": 146,
+      "en": "They crash.",
+      "cn": "它们碰撞。"
+    },
+    {
+      "id": 147,
+      "en": "And they study what the pieces look like.",
+      "cn": "然后他们研究碎片的样子。"
+    },
+    {
+      "id": 148,
+      "en": "And what happens, and how much energy is released.",
+      "cn": "发生了什么，以及释放了多少能量。"
+    },
+    {
+      "id": 149,
+      "en": "It's all very interesting, and it seems like things that are out of science fiction, because it's not something mainstream that you hear about in the news very often, or that sometimes we understand.",
+      "cn": "这一切都非常有趣，似乎是科幻小说中的事物，因为这不是你在新闻中经常听到的主流事物，或者有时我们理解的事物。"
+    },
+    {
+      "id": 150,
+      "en": "Like, obviously, we all hear about the gossip magazines, and who's dating who, and all this other type of news, but very rarely do we really pay attention to this type of information or news, because it is a little bit complex to understand.",
+      "cn": "像，显然，我们都听说过八卦杂志，谁和谁约会，以及所有这些其他类型的新闻，但我们很少真正关注这种类型的信息或新闻，因为它有点复杂。"
+    },
+    {
+      "id": 151,
+      "en": "And it seems that I think scientists are not the best writers for average people like you and me.",
+      "cn": "而且似乎我认为科学家并不是为像你我这样的普通人写作的最佳作家。"
+    },
+    {
+      "id": 152,
+      "en": "They write in their own language, almost.",
+      "cn": "他们几乎用自己的语言写作。"
+    },
+    {
+      "id": 153,
+      "en": "Oftentimes, that's the case.",
+      "cn": "通常情况下，确实如此。"
+    },
+    {
+      "id": 154,
+      "en": "But I have to say, I recently read Bill Bryson's book, A Short History of Nearly Everything.",
+      "cn": "但我必须说，我最近读了比尔·布赖森的书《几乎所有事物的简史》。"
+    },
+    {
+      "id": 155,
+      "en": "And it talks about the history of the world, and us, and the animals and plants in it.",
+      "cn": "它讲述了世界的历史，以及我们、动物和植物的历史。"
+    },
+    {
+      "id": 156,
+      "en": "And he talks about physics, especially.",
+      "cn": "他特别谈到了物理学。"
+    },
+    {
+      "id": 157,
+      "en": "And I think that if you're interested in that, I don't know, I mean, if you're an advanced English learner, it might be challenging.",
+      "cn": "我认为如果你对此感兴趣，我不知道，意思是，如果你是一个高级英语学习者，可能会有挑战。"
+    },
+    {
+      "id": 158,
+      "en": "It was challenging for me, but it's definitely a good book to read, to learn about some of these things.",
+      "cn": "对我来说是有挑战的，但绝对是一本值得阅读的好书，可以了解一些这些事情。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah, it's actually a very good idea.",
+      "cn": "是的，实际上这是个很好的主意。"
+    },
+    {
+      "id": 160,
+      "en": "And I don't know, many of us, I think many of us as well, growing up, maybe we had a hard time with some of these exact sciences, like chemistry or physics.",
+      "cn": "我不知道，许多人，我认为我们许多人在成长过程中，可能在一些精确科学上，比如化学或物理，遇到过困难。"
+    },
+    {
+      "id": 161,
+      "en": "So we obviously find it hard to be interested in it.",
+      "cn": "所以我们显然发现很难对此感兴趣。"
+    },
+    {
+      "id": 162,
+      "en": "But, you know, it's very different, because it's not math and formulas.",
+      "cn": "但，你知道，这非常不同，因为这不是数学和公式。"
+    },
+    {
+      "id": 163,
+      "en": "You don't really have to know how to derive, you know, the formula or anything.",
+      "cn": "你并不真的需要知道如何推导公式或任何东西。"
+    },
+    {
+      "id": 164,
+      "en": "You just kind of have to understand the theory.",
+      "cn": "你只需要理解理论。"
+    },
+    {
+      "id": 165,
+      "en": "And it's very, very interesting, I must say.",
+      "cn": "我必须说，这非常非常有趣。"
+    },
+    {
+      "id": 166,
+      "en": "It is.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 167,
+      "en": "And it's fun, because you can talk about, it's like philosophy, sometimes you can talk about, you know, if this were the case, then what would happen?",
+      "cn": "而且很有趣，因为你可以谈论，这就像哲学，有时你可以谈论，如果是这样，那么会发生什么？"
+    },
+    {
+      "id": 168,
+      "en": "Right, right.",
+      "cn": "对，对。"
+    },
+    {
+      "id": 169,
+      "en": "These hypothetical situations.",
+      "cn": "这些假设情况。"
+    },
+    {
+      "id": 170,
+      "en": "And I think that's maybe more in line with theoretical physics.",
+      "cn": "我认为这可能更符合理论物理学。"
+    },
+    {
+      "id": 171,
+      "en": "But it's just, it's really interesting to think about and to let your mind go into these very strange places.",
+      "cn": "但这真的很有趣，去思考并让你的思维进入这些非常奇怪的地方。"
+    },
+    {
+      "id": 172,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 173,
+      "en": "So actually, we are curious to know if you believe that maybe someday we will be able to travel in time, or do you believe that... Live on other planets, or we'll have space travel as a part of our holiday making.",
+      "cn": "所以实际上，我们很好奇你是否相信，也许有一天我们能够时间旅行，或者你相信... 在其他星球上生活，或者我们将把太空旅行作为假期的一部分。"
+    },
+    {
+      "id": 174,
+      "en": "Yeah, they supposedly already are arranging tourism to the moon, right?",
+      "cn": "是的，他们据说已经在安排去月球的旅游，对吧？"
+    },
+    {
+      "id": 175,
+      "en": "Yeah, they are.",
+      "cn": "是的，他们在安排。"
+    },
+    {
+      "id": 176,
+      "en": "So I wonder if one day, like in the fifth element, we're going to have these cruises to space.",
+      "cn": "所以我想知道有一天，像在《第五元素》中，我们会不会有太空游轮。"
+    },
+    {
+      "id": 177,
+      "en": "Yeah, that would be fun.",
+      "cn": "是的，那会很有趣。"
+    },
+    {
+      "id": 178,
+      "en": "So let us know what your opinions are about this topic, and also if you have any suggestions or questions, you can always visit us on our website, EnglishPod.com.",
+      "cn": "所以让我们知道你对这个话题的看法，如果你有任何建议或问题，你可以随时访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 179,
+      "en": "We hope to see you there, and until next time.",
+      "cn": "我们希望在那里见到你，直到下次。"
+    },
+    {
+      "id": 180,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 181,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

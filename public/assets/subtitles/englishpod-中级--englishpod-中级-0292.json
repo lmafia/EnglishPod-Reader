@@ -1,0 +1,1214 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0292",
+  "title": "EnglishPod 中级 0292",
+  "totalSegments": 241,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and we have another episode in our series all about giving presentations in English.",
+      "cn": "我叫Catherine，我们又有一集关于用英语做演讲的系列节目。"
+    },
+    {
+      "id": 4,
+      "en": "So this is show number eight for us.",
+      "cn": "这是我们第八集。"
+    },
+    {
+      "id": 5,
+      "en": "That's right, we are getting towards the end of the series.",
+      "cn": "没错，我们快要结束这个系列了。"
+    },
+    {
+      "id": 6,
+      "en": "On this occasion, presentation series number eight, we're going to continue with Mr. Ford and try to handle a couple of problems that keep coming up.",
+      "cn": "在这次的第八集演讲中，我们将继续与Ford先生讨论一些反复出现的问题。"
+    },
+    {
+      "id": 7,
+      "en": "Alright, so let's take a listen to our dialogue and we'll be back in a moment to discuss it.",
+      "cn": "好的，让我们听听对话，稍后再回来讨论。"
+    },
+    {
+      "id": 8,
+      "en": "So, as I mentioned previously, the campaign advertisement will focus on those key elements that every consumer looks for in a quality laptop.",
+      "cn": "正如我之前提到的，广告活动将专注于每个消费者在高质量笔记本电脑中寻找的关键元素。"
+    },
+    {
+      "id": 9,
+      "en": "Affordability, quality, speed, and reliability.",
+      "cn": "价格合理、质量、速度和可靠性。"
+    },
+    {
+      "id": 10,
+      "en": "We have pulled out all the stops to produce a product that really rivals all our competitors.",
+      "cn": "我们已经全力以赴，生产出真正能与所有竞争对手抗衡的产品。"
+    },
+    {
+      "id": 11,
+      "en": "Actually, just to illustrate my point, let me give you an anecdote here.",
+      "cn": "实际上，为了说明我的观点，让我给你讲个轶事。"
+    },
+    {
+      "id": 12,
+      "en": "I remember last year I was playing golf with one of our key suppliers.",
+      "cn": "我记得去年我和我们的一个主要供应商打高尔夫。"
+    },
+    {
+      "id": 13,
+      "en": "It was a lovely summer afternoon.",
+      "cn": "那是一个美好的夏日午后。"
+    },
+    {
+      "id": 14,
+      "en": "Anyway, I invited our supplier for a game of golf and wanted to get his input on the new X420.",
+      "cn": "不管怎样，我邀请我们的供应商打高尔夫，并想听听他对新X420的看法。"
+    },
+    {
+      "id": 15,
+      "en": "Actually, I often get together with him for a good game of golf.",
+      "cn": "实际上，我经常和他一起打高尔夫。"
+    },
+    {
+      "id": 16,
+      "en": "It really is a wonderful way to relax.",
+      "cn": "这真是放松的好方法。"
+    },
+    {
+      "id": 17,
+      "en": "To be honest, I'm not that great at golf, but I've improved in the last few years.",
+      "cn": "说实话，我的高尔夫水平并不好，但这几年有了进步。"
+    },
+    {
+      "id": 18,
+      "en": "But the key to golf is practice, practice, practice!",
+      "cn": "但高尔夫的关键是练习、练习、再练习！"
+    },
+    {
+      "id": 19,
+      "en": "Um, sorry, I've lost my thread.",
+      "cn": "嗯，抱歉，我有点跑题了。"
+    },
+    {
+      "id": 20,
+      "en": "What was I talking about again?",
+      "cn": "我刚才在说什么？"
+    },
+    {
+      "id": 21,
+      "en": "I think you were discussing the campaign advertisement, Michael.",
+      "cn": "我想你在讨论广告活动，Michael。"
+    },
+    {
+      "id": 22,
+      "en": "Yes, excuse me, I'm afraid I got sidetracked there.",
+      "cn": "是的，抱歉，我刚才有点分心。"
+    },
+    {
+      "id": 23,
+      "en": "Yes, anyway, the campaign, well, let me see.",
+      "cn": "是的，广告活动，嗯，让我看看。"
+    },
+    {
+      "id": 24,
+      "en": "Is the projector working yet, Jonathan?",
+      "cn": "投影仪现在能用了吧，Jonathan？"
+    },
+    {
+      "id": 25,
+      "en": "No, sorry.",
+      "cn": "不，抱歉。"
+    },
+    {
+      "id": 26,
+      "en": "IT is still fixing it.",
+      "cn": "IT部门还在修理。"
+    },
+    {
+      "id": 27,
+      "en": "Uh, okay.",
+      "cn": "嗯，好吧。"
+    },
+    {
+      "id": 28,
+      "en": "Well, all the information on the campaign is on the PowerPoint.",
+      "cn": "好吧，关于广告活动的所有信息都在PowerPoint上。"
+    },
+    {
+      "id": 29,
+      "en": "I haven't actually got my notes with me.",
+      "cn": "我实际上没有带我的笔记。"
+    },
+    {
+      "id": 30,
+      "en": "Let me see...",
+      "cn": "让我看看..."
+    },
+    {
+      "id": 31,
+      "en": "Mr. Ford, could you at least tell us the schedule for the campaign?",
+      "cn": "Ford先生，您能告诉我们广告活动的时间表吗？"
+    },
+    {
+      "id": 32,
+      "en": "When are the first advertisements scheduled for?",
+      "cn": "第一个广告定在什么时候？"
+    },
+    {
+      "id": 33,
+      "en": "That's a good question.",
+      "cn": "这是个好问题。"
+    },
+    {
+      "id": 34,
+      "en": "Unfortunately, I don't have that information on me.",
+      "cn": "不幸的是，我没有这方面的信息。"
+    },
+    {
+      "id": 35,
+      "en": "I'll have to get back to you on that point.",
+      "cn": "我需要再跟您确认一下。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, Michael, the projector is fixed.",
+      "cn": "好的，Michael，投影仪修好了。"
+    },
+    {
+      "id": 37,
+      "en": "I think we're ready.",
+      "cn": "我想我们准备好了。"
+    },
+    {
+      "id": 38,
+      "en": "Thank goodness.",
+      "cn": "谢天谢地。"
+    },
+    {
+      "id": 39,
+      "en": "Okay, everyone, sorry for the delay.",
+      "cn": "好的，大家，抱歉让你们久等。"
+    },
+    {
+      "id": 40,
+      "en": "So, without further ado, the new X420 marketing campaign.",
+      "cn": "所以，不再拖延，新的X420市场推广活动。"
+    },
+    {
+      "id": 41,
+      "en": "Enjoy!",
+      "cn": "享受吧！"
+    },
+    {
+      "id": 42,
+      "en": "Oh, I'm terribly sorry.",
+      "cn": "哦，我非常抱歉。"
+    },
+    {
+      "id": 43,
+      "en": "This is not the advert.",
+      "cn": "这不是广告。"
+    },
+    {
+      "id": 44,
+      "en": "This is my golfing holiday in Barbados.",
+      "cn": "这是我在巴巴多斯的高尔夫假期。"
+    },
+    {
+      "id": 45,
+      "en": "I think I must have brought the wrong file.",
+      "cn": "我想我带错了文件。"
+    },
+    {
+      "id": 46,
+      "en": "Can we take five?",
+      "cn": "我们可以休息五分钟吗？"
+    },
+    {
+      "id": 47,
+      "en": "Come on, Mr. Ford!",
+      "cn": "来吧，Ford先生！"
+    },
+    {
+      "id": 48,
+      "en": "Alright, we're back and Mr. Ford faced a very embarrassing moment here.",
+      "cn": "好吧，我们回来了，Ford先生遇到了一个非常尴尬的时刻。"
+    },
+    {
+      "id": 49,
+      "en": "But he also used a lot of interesting vocab.",
+      "cn": "但他也使用了很多有趣的词汇。"
+    },
+    {
+      "id": 50,
+      "en": "Why don't we take a look at that now on Language Takeaway.",
+      "cn": "我们现在来看看这些词汇在Language Takeaway中。"
+    },
+    {
+      "id": 51,
+      "en": "Language Takeaway So, at the beginning of today's dialogue, we heard a word that's very interesting, an anecdote.",
+      "cn": "Language Takeaway 在今天对话的开头，我们听到了一个非常有趣的词，轶事。"
+    },
+    {
+      "id": 52,
+      "en": "What is an anecdote, Marco?",
+      "cn": "轶事是什么，Marco？"
+    },
+    {
+      "id": 53,
+      "en": "Right, he started telling a story, and that's basically an anecdote, a life experience or a story, something that happened to you and you want to share with people.",
+      "cn": "对，他开始讲一个故事，这基本上就是轶事，生活经历或故事，发生在你身上的事情，你想与人分享。"
+    },
+    {
+      "id": 54,
+      "en": "Right, so an anecdote is a story.",
+      "cn": "对，所以轶事就是一个故事。"
+    },
+    {
+      "id": 55,
+      "en": "So, he was talking about golfing with a client, and so this is called an anecdote.",
+      "cn": "所以，他在讲与客户打高尔夫的事情，这就是轶事。"
+    },
+    {
+      "id": 56,
+      "en": "He was telling a story about it.",
+      "cn": "他在讲这个故事。"
+    },
+    {
+      "id": 57,
+      "en": "After that, though, we realized that he is a little bit distracted.",
+      "cn": "不过之后，我们意识到他有点分心。"
+    },
+    {
+      "id": 58,
+      "en": "He says, I'm afraid I got sidetracked there.",
+      "cn": "他说，我恐怕有点跑题了。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "So, he's obviously talking about the computer and the marketing campaign, and then he starts talking about golf and how great it is.",
+      "cn": "所以，他显然在谈论电脑和市场推广活动，然后开始谈论高尔夫和它有多好。"
+    },
+    {
+      "id": 61,
+      "en": "So, he says, I got sidetracked, and that means that you got distracted or you started talking about something that's not related to the topic.",
+      "cn": "所以，他说，我跑题了，这意味着你分心了，或者开始谈论与主题无关的事情。"
+    },
+    {
+      "id": 62,
+      "en": "So, I really like to eat hamburgers, and I like hamburgers with cheese, actually.",
+      "cn": "所以，我真的很喜欢吃汉堡，我喜欢加奶酪的汉堡。"
+    },
+    {
+      "id": 63,
+      "en": "But wait, sorry, just got a little sidetracked there.",
+      "cn": "但等一下，抱歉，我刚才有点跑题了。"
+    },
+    {
+      "id": 64,
+      "en": "I think we should focus on English right now.",
+      "cn": "我想我们现在应该专注于英语。"
+    },
+    {
+      "id": 65,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 66,
+      "en": "So, it happens sometimes.",
+      "cn": "所以，这种情况有时会发生。"
+    },
+    {
+      "id": 67,
+      "en": "Maybe you're even talking to someone and something is happening behind that person.",
+      "cn": "也许你正在和某人交谈，而在那个人身后发生了什么事情。"
+    },
+    {
+      "id": 68,
+      "en": "You get sidetracked and you're not really paying attention.",
+      "cn": "你分心了，没能真正专注。"
+    },
+    {
+      "id": 69,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 70,
+      "en": "And after that, we realized that there's still a problem with the projector, and Mr. Ford asks if it's working yet.",
+      "cn": "然后我们意识到投影仪仍然有问题，Ford先生问它是否能用了。"
+    },
+    {
+      "id": 71,
+      "en": "Jonathan, his assistant, says, no, sorry, IT are still fixing it.",
+      "cn": "他的助手Jonathan说，不，抱歉，IT部门还在修理。"
+    },
+    {
+      "id": 72,
+      "en": "Alright, so this acronym, IT, I think many of you have heard it, and it means for information technology.",
+      "cn": "好吧，这个缩写IT，我想你们很多人都听说过，它代表信息技术。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, information technology that has to do with computers, and so when we have a technical problem or a computer problem, we usually call IT.",
+      "cn": "好吧，信息技术与电脑有关，所以当我们遇到技术问题或电脑问题时，通常会联系IT。"
+    },
+    {
+      "id": 74,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 75,
+      "en": "So, your company probably has an IT department, or if you have, as Catherine said, a problem with your computer, you just call IT to get them to fix it for you.",
+      "cn": "所以，你的公司可能有IT部门，或者如果你有，正如Catherine所说，电脑出现问题，你只需联系IT让他们帮你修理。"
+    },
+    {
+      "id": 76,
+      "en": "Exactly.",
+      "cn": "完全正确。"
+    },
+    {
+      "id": 77,
+      "en": "Another computer-related word comes up later when Mr. Ford says that all of the information about the campaign is on the PowerPoint.",
+      "cn": "另一个与电脑相关的词在后面出现，当Ford先生说关于广告活动的所有信息都在PowerPoint上。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "So, PowerPoint, this is a computer program that is very well known for giving presentations, so you probably use this if you ever have to give a presentation.",
+      "cn": "所以，PowerPoint是一个非常著名的电脑程序，用于做演示，所以如果你需要做演示，通常会使用这个程序。"
+    },
+    {
+      "id": 80,
+      "en": "That's right, and PowerPoint is a part of the Microsoft Office suite, so you know the program Word or the program Excel.",
+      "cn": "没错，PowerPoint是Microsoft Office套件的一部分，所以你知道Word程序或Excel程序。"
+    },
+    {
+      "id": 81,
+      "en": "So, PowerPoint helps you use your computer to give a presentation, so you often hear us just talk about PowerPoint.",
+      "cn": "所以，PowerPoint帮助你使用电脑进行演示，所以你经常听到我们谈论PowerPoint。"
+    },
+    {
+      "id": 82,
+      "en": "Can you help me with this PowerPoint in English?",
+      "cn": "你能帮我用英语做这个PowerPoint吗？"
+    },
+    {
+      "id": 83,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so that's all the words we have for you on Language Takeaway.",
+      "cn": "好的，这就是我们在Language Takeaway中为你准备的所有词汇。"
+    },
+    {
+      "id": 85,
+      "en": "Why don't we listen to Mr. Ford again, and we'll be back soon with Fluency Builder.",
+      "cn": "我们再听听Ford先生，然后很快回来进行流利度训练。"
+    },
+    {
+      "id": 86,
+      "en": "So, as I mentioned previously, the campaign advertisement will focus on those key elements that every consumer looks for in a quality laptop.",
+      "cn": "正如我之前提到的，广告活动将专注于每个消费者在高质量笔记本电脑中寻找的关键元素。"
+    },
+    {
+      "id": 87,
+      "en": "Affordability, quality, speed, and reliability.",
+      "cn": "价格合理、质量、速度和可靠性。"
+    },
+    {
+      "id": 88,
+      "en": "We have pulled out all the stops to produce a product that really rivals all our competitors.",
+      "cn": "我们已经全力以赴，生产出真正能与所有竞争对手抗衡的产品。"
+    },
+    {
+      "id": 89,
+      "en": "Actually, just to illustrate my point, let me give you an anecdote here.",
+      "cn": "实际上，为了说明我的观点，让我给你讲个轶事。"
+    },
+    {
+      "id": 90,
+      "en": "I remember last year I was playing golf with one of our key suppliers.",
+      "cn": "我记得去年我和我们的一个主要供应商打高尔夫。"
+    },
+    {
+      "id": 91,
+      "en": "It was a lovely summer afternoon.",
+      "cn": "那是一个美好的夏日午后。"
+    },
+    {
+      "id": 92,
+      "en": "Anyway, I invited our supplier for a game of golf and wanted to get his input on the new X420.",
+      "cn": "不管怎样，我邀请我们的供应商打高尔夫，并想听听他对新X420的看法。"
+    },
+    {
+      "id": 93,
+      "en": "Actually, I often get together with him for a good game of golf.",
+      "cn": "实际上，我经常和他一起打高尔夫。"
+    },
+    {
+      "id": 94,
+      "en": "It really is a wonderful way to relax.",
+      "cn": "这真是放松的好方法。"
+    },
+    {
+      "id": 95,
+      "en": "To be honest, I'm not that great at golf, but I've improved in the last few years.",
+      "cn": "说实话，我的高尔夫水平并不好，但这几年有了进步。"
+    },
+    {
+      "id": 96,
+      "en": "But the key to golf is practice, practice, practice!",
+      "cn": "但高尔夫的关键是练习、练习、再练习！"
+    },
+    {
+      "id": 97,
+      "en": "Um, sorry, I've lost my thread.",
+      "cn": "嗯，抱歉，我有点跑题了。"
+    },
+    {
+      "id": 98,
+      "en": "What was I talking about again?",
+      "cn": "我刚才在说什么？"
+    },
+    {
+      "id": 99,
+      "en": "I think you were discussing the campaign advertisement, Michael.",
+      "cn": "我想你在讨论广告活动，Michael。"
+    },
+    {
+      "id": 100,
+      "en": "Yes, excuse me, I'm afraid I got sidetracked there.",
+      "cn": "是的，抱歉，我刚才有点分心。"
+    },
+    {
+      "id": 101,
+      "en": "Yes, anyway, the campaign... well, let me see... is the projector working yet, Jonathan?",
+      "cn": "是的，话说回来，宣传...让我看看... 投影仪还在工作吗，乔纳森？"
+    },
+    {
+      "id": 102,
+      "en": "No, sorry.",
+      "cn": "不，抱歉。"
+    },
+    {
+      "id": 103,
+      "en": "IT is still fixing it.",
+      "cn": "IT 还在修理它。"
+    },
+    {
+      "id": 104,
+      "en": "Uh, okay... well, all the information on the campaign is on the PowerPoint.",
+      "cn": "嗯，好吧... 所有关于宣传的信息都在 PowerPoint 上。"
+    },
+    {
+      "id": 105,
+      "en": "I haven't actually got my notes with me.",
+      "cn": "我实际上没有带我的笔记。"
+    },
+    {
+      "id": 106,
+      "en": "Let me see...",
+      "cn": "让我看看..."
+    },
+    {
+      "id": 107,
+      "en": "Mr. Ford, could you at least tell us the schedule for the campaign?",
+      "cn": "福特先生，您能告诉我们宣传的日程吗？"
+    },
+    {
+      "id": 108,
+      "en": "When were the first advertisements scheduled for?",
+      "cn": "第一个广告安排在什么时候？"
+    },
+    {
+      "id": 109,
+      "en": "That's a good question.",
+      "cn": "这是个好问题。"
+    },
+    {
+      "id": 110,
+      "en": "Unfortunately, I don't have that information on me.",
+      "cn": "不幸的是，我没有那方面的信息。"
+    },
+    {
+      "id": 111,
+      "en": "I'll have to get back to you on that point.",
+      "cn": "我得再跟您确认一下。"
+    },
+    {
+      "id": 112,
+      "en": "Okay, Michael, the projector is fixed.",
+      "cn": "好的，迈克尔，投影仪修好了。"
+    },
+    {
+      "id": 113,
+      "en": "I think we're ready.",
+      "cn": "我想我们准备好了。"
+    },
+    {
+      "id": 114,
+      "en": "Thank goodness.",
+      "cn": "谢天谢地。"
+    },
+    {
+      "id": 115,
+      "en": "Okay, everyone, sorry for the delay.",
+      "cn": "好的，大家，抱歉耽搁了。"
+    },
+    {
+      "id": 116,
+      "en": "So, without further ado, the new X420 marketing campaign.",
+      "cn": "所以，不再拖延，新 X420 营销宣传。"
+    },
+    {
+      "id": 117,
+      "en": "Enjoy!",
+      "cn": "享受吧！"
+    },
+    {
+      "id": 118,
+      "en": "Oh, I'm terribly sorry.",
+      "cn": "哦，我非常抱歉。"
+    },
+    {
+      "id": 119,
+      "en": "This is not the advert.",
+      "cn": "这不是广告。"
+    },
+    {
+      "id": 120,
+      "en": "This is my golfing holiday in Barbados.",
+      "cn": "这是我在巴巴多斯的高尔夫假期。"
+    },
+    {
+      "id": 121,
+      "en": "I think I must have brought the wrong file.",
+      "cn": "我想我带错了文件。"
+    },
+    {
+      "id": 122,
+      "en": "Can we take five?",
+      "cn": "我们可以休息五分钟吗？"
+    },
+    {
+      "id": 123,
+      "en": "Come on, Mr. Ford!",
+      "cn": "来吧，福特先生！"
+    },
+    {
+      "id": 124,
+      "en": "Alright, so we've picked out a lot of great phrases for you today.",
+      "cn": "好吧，今天我们为您挑选了很多很棒的短语。"
+    },
+    {
+      "id": 125,
+      "en": "Let's start with the first one on Fluency Builder.",
+      "cn": "让我们从流利构建器上的第一个开始。"
+    },
+    {
+      "id": 126,
+      "en": "At the very beginning, Mr. Ford says we have pulled out all the stops to make a really great product.",
+      "cn": "一开始，福特先生说我们已经全力以赴，做出一个真正伟大的产品。"
+    },
+    {
+      "id": 127,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 128,
+      "en": "So the phrase used here, to pull out all the stops, what does that mean?",
+      "cn": "那么这里使用的短语，pull out all the stops，是什么意思呢？"
+    },
+    {
+      "id": 129,
+      "en": "Well, you don't have to think about what it actually means.",
+      "cn": "嗯，你不必考虑它的实际含义。"
+    },
+    {
+      "id": 130,
+      "en": "We use this when we're trying to say that we've done our best.",
+      "cn": "我们用这个短语来表示我们已经尽力而为。"
+    },
+    {
+      "id": 131,
+      "en": "We have really gone as far as we can, a hundred percent.",
+      "cn": "我们真的尽了最大努力，百分之百。"
+    },
+    {
+      "id": 132,
+      "en": "We're giving everything we can to make this thing the best that it can be.",
+      "cn": "我们付出了一切，力求做到最好。"
+    },
+    {
+      "id": 133,
+      "en": "Okay, so you've put a lot of effort and resources into making something great.",
+      "cn": "好的，所以你投入了很多努力和资源来做出一些伟大的东西。"
+    },
+    {
+      "id": 134,
+      "en": "You didn't hold back, you didn't save any money, you just went for it.",
+      "cn": "你没有保留，没有节省任何钱，你就是全力以赴。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 136,
+      "en": "Now, when we were talking about Mr. Ford being distracted and he started talking about golf, he said, oh, I'm sorry, I've lost my thread.",
+      "cn": "现在，当我们谈到福特先生分心并开始谈论高尔夫时，他说，哦，抱歉，我失去思路了。"
+    },
+    {
+      "id": 137,
+      "en": "What was I talking about again?",
+      "cn": "我刚才在说什么来着？"
+    },
+    {
+      "id": 138,
+      "en": "Alright, so this is interesting because the word thread can mean something that you, it's like a string that you use to sew clothes with.",
+      "cn": "好吧，这很有趣，因为“thread”这个词可以指你用来缝衣服的线。"
+    },
+    {
+      "id": 139,
+      "en": "But in this particular case, we're talking about a thread of conversation.",
+      "cn": "但在这个特定的情况下，我们在谈论的是谈话的线索。"
+    },
+    {
+      "id": 140,
+      "en": "And so that's basically the topic that he's talking about.",
+      "cn": "所以这基本上是他在谈论的主题。"
+    },
+    {
+      "id": 141,
+      "en": "Okay, so when he said, I lost my thread, he makes reference to the thread of conversation, of what he was talking about.",
+      "cn": "好的，所以当他说，我失去思路时，他提到了谈话的线索，即他在谈论的内容。"
+    },
+    {
+      "id": 142,
+      "en": "Right, so he's talking about golf, but he lost his thread, so then he doesn't remember what he was talking about.",
+      "cn": "对，所以他在谈论高尔夫，但他失去了思路，所以他不记得自己在说什么。"
+    },
+    {
+      "id": 143,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 144,
+      "en": "And Mr. Ford actually faced a couple of questions from the audience members.",
+      "cn": "而福特先生实际上面临了一些观众的问题。"
+    },
+    {
+      "id": 145,
+      "en": "One of them asked about the schedule for the campaign, and he said, you know what, I really don't have that information.",
+      "cn": "其中一个人问关于宣传的日程，他说，你知道吗，我真的没有那方面的信息。"
+    },
+    {
+      "id": 146,
+      "en": "I will have to get back to you on that point.",
+      "cn": "我得再跟您确认一下。"
+    },
+    {
+      "id": 147,
+      "en": "Well, this is a really great way to answer a question you don't actually know how to answer.",
+      "cn": "嗯，这是一种很好的方式来回答你不知道如何回答的问题。"
+    },
+    {
+      "id": 148,
+      "en": "In this case, Mr. Ford doesn't have the answer to this audience member's question, like you said, Marco.",
+      "cn": "在这种情况下，福特先生没有答案，就像你说的，马尔科。"
+    },
+    {
+      "id": 149,
+      "en": "So he just says, I will have to get back to you on that.",
+      "cn": "所以他只是说，我得再跟您确认一下。"
+    },
+    {
+      "id": 150,
+      "en": "I will have to let you know later.",
+      "cn": "我稍后会告诉您。"
+    },
+    {
+      "id": 151,
+      "en": "So it's much better to say, I will get back to you, instead of saying, I don't know.",
+      "cn": "所以说，我会再跟您确认一下，远比说我不知道要好得多。"
+    },
+    {
+      "id": 152,
+      "en": "For example, if your boss asks you, I don't know, how were sales last year compared to this year?",
+      "cn": "例如，如果你的老板问你，我不知道，去年的销售与今年相比如何？"
+    },
+    {
+      "id": 153,
+      "en": "And if you don't know, it's really not recommendable to say, I don't know.",
+      "cn": "如果你不知道，真的不推荐你说，我不知道。"
+    },
+    {
+      "id": 154,
+      "en": "You don't want to say, I don't know.",
+      "cn": "你不想说，我不知道。"
+    },
+    {
+      "id": 155,
+      "en": "It makes you sound like you don't know anything.",
+      "cn": "这会让你听起来像什么都不知道。"
+    },
+    {
+      "id": 156,
+      "en": "And so in this case, you say, listen, I really have to get back to you about that.",
+      "cn": "所以在这种情况下，你可以说，听着，我真的得再跟您确认一下。"
+    },
+    {
+      "id": 157,
+      "en": "I want to check some numbers.",
+      "cn": "我想查一些数字。"
+    },
+    {
+      "id": 158,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 159,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 160,
+      "en": "Okay, so moving on to our next phrase.",
+      "cn": "好的，接下来是我们的下一个短语。"
+    },
+    {
+      "id": 161,
+      "en": "When finally he was going to present the ad campaign, he said, So without further ado, the new 420 marketing campaign.",
+      "cn": "当他最终要介绍广告宣传时，他说，没什么好拖延的，新 420 营销宣传。"
+    },
+    {
+      "id": 162,
+      "en": "Alright, this phrase, without further ado, is something that we commonly hear in speeches or more formal occasions.",
+      "cn": "好吧，这个短语，没什么好拖延的，是我们在演讲或更正式的场合中常听到的。"
+    },
+    {
+      "id": 163,
+      "en": "But it's something that we say when we want to introduce something.",
+      "cn": "但这是我们在想要介绍某事时说的。"
+    },
+    {
+      "id": 164,
+      "en": "We say, we're not going to talk about it anymore.",
+      "cn": "我们说，我们不再谈论它了。"
+    },
+    {
+      "id": 165,
+      "en": "Let's just do it.",
+      "cn": "让我们直接来吧。"
+    },
+    {
+      "id": 166,
+      "en": "Let's just show you.",
+      "cn": "让我们给你看看。"
+    },
+    {
+      "id": 167,
+      "en": "So the word ado, this is, I think, classic English.",
+      "cn": "所以“ado”这个词，我认为是经典英语。"
+    },
+    {
+      "id": 168,
+      "en": "It's not really common to hear it anymore.",
+      "cn": "现在听到它并不常见。"
+    },
+    {
+      "id": 169,
+      "en": "No, there is actually a very famous play by Shakespeare called Much Ado About Nothing.",
+      "cn": "不，实际上有一部非常著名的莎士比亚戏剧叫《无事生非》。"
+    },
+    {
+      "id": 170,
+      "en": "And that means, you know, that there's a lot of talking and a lot of problems and a lot of drama about this one thing.",
+      "cn": "这意味着，你知道，有很多谈话、很多问题和很多戏剧围绕着这件事。"
+    },
+    {
+      "id": 171,
+      "en": "And so, basically, when we say the phrase without further ado, we're saying, you know, without... Further talking or... Talking about this anymore, yeah.",
+      "cn": "所以，基本上，当我们说“没什么好拖延的”时，我们是在说，知道吗，不再... 进一步谈论或... 不再谈论这个了，是的。"
+    },
+    {
+      "id": 172,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 173,
+      "en": "So it's a nice way to say, okay, finally we're going to do this.",
+      "cn": "所以这是一个很好的方式来说，好吧，终于我们要做这个了。"
+    },
+    {
+      "id": 174,
+      "en": "Or finally we're going to see this.",
+      "cn": "或者终于我们要看到这个了。"
+    },
+    {
+      "id": 175,
+      "en": "And obviously the video was not the campaign.",
+      "cn": "显然，视频不是宣传。"
+    },
+    {
+      "id": 176,
+      "en": "It was his golfing holiday in Barbados.",
+      "cn": "它是他在巴巴多斯的高尔夫假期。"
+    },
+    {
+      "id": 177,
+      "en": "So he asked someone if he could take five.",
+      "cn": "所以他问某人是否可以休息五分钟。"
+    },
+    {
+      "id": 178,
+      "en": "Alright, this phrase, to take five, is very, very common in English.",
+      "cn": "好吧，这个短语，take five，在英语中非常常见。"
+    },
+    {
+      "id": 179,
+      "en": "And it's just another way to say, can we take a five minute break?",
+      "cn": "这只是另一种说法，问我们可以休息五分钟吗？"
+    },
+    {
+      "id": 180,
+      "en": "So maybe you can ask your teacher, excuse me, can we take five?",
+      "cn": "所以也许你可以问你的老师，抱歉，我们可以休息五分钟吗？"
+    },
+    {
+      "id": 181,
+      "en": "Or something like that.",
+      "cn": "或者类似的事情。"
+    },
+    {
+      "id": 182,
+      "en": "Yeah, or, hey guys, I need a glass of water, let's take five.",
+      "cn": "是的，或者，嘿，大家，我需要一杯水，我们休息五分钟。"
+    },
+    {
+      "id": 183,
+      "en": "Right, so that means let's have a short break, let's take a five minute break.",
+      "cn": "对，所以这意味着我们来个短暂的休息，休息五分钟。"
+    },
+    {
+      "id": 184,
+      "en": "But it doesn't always necessarily have to be five minutes.",
+      "cn": "但这并不一定非得是五分钟。"
+    },
+    {
+      "id": 185,
+      "en": "No, it can be seven minutes or ten minutes, but take five means a short break.",
+      "cn": "不，它可以是七分钟或十分钟，但 take five 意味着短暂的休息。"
+    },
+    {
+      "id": 186,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 187,
+      "en": "So you don't say, can we take ten or can we take seven?",
+      "cn": "所以你不说，我们可以休息十分钟或七分钟吗？"
+    },
+    {
+      "id": 188,
+      "en": "No, you usually just say take five.",
+      "cn": "不，你通常只说 take five。"
+    },
+    {
+      "id": 189,
+      "en": "Take five, okay.",
+      "cn": "Take five，好吧。"
+    },
+    {
+      "id": 190,
+      "en": "Alright, so a lot of phrases there, a lot of great stuff.",
+      "cn": "好的，所以有很多短语，很多很棒的内容。"
+    },
+    {
+      "id": 191,
+      "en": "Let's review it one last time.",
+      "cn": "让我们最后再复习一次。"
+    },
+    {
+      "id": 192,
+      "en": "So, as I mentioned previously, the campaign advertisement will focus on those key elements that every consumer looks for in a quality laptop.",
+      "cn": "正如我之前提到的，宣传广告将专注于每个消费者在高质量笔记本电脑中寻找的关键元素。"
+    },
+    {
+      "id": 193,
+      "en": "Affordability, quality, speed, and reliability.",
+      "cn": "价格合理、质量、速度和可靠性。"
+    },
+    {
+      "id": 194,
+      "en": "We have pulled out all the stops to produce a product that really rivals all our competitors.",
+      "cn": "我们已经全力以赴，生产出真正能与所有竞争对手相抗衡的产品。"
+    },
+    {
+      "id": 195,
+      "en": "Actually, just to illustrate my point, let me give you an anecdote here.",
+      "cn": "实际上，为了说明我的观点，让我给你讲个轶事。"
+    },
+    {
+      "id": 196,
+      "en": "I remember last year I was playing golf with one of our key suppliers.",
+      "cn": "我记得去年我和我们的一位主要供应商打高尔夫。"
+    },
+    {
+      "id": 197,
+      "en": "It was a lovely summer afternoon.",
+      "cn": "那是一个美好的夏日午后。"
+    },
+    {
+      "id": 198,
+      "en": "Anyway, I invited our supplier for a game of golf and wanted to get his input on the new X420.",
+      "cn": "无论如何，我邀请我们的供应商打高尔夫，并想听听他对新X420的看法。"
+    },
+    {
+      "id": 199,
+      "en": "Actually, I often get together with him for a good game of golf.",
+      "cn": "实际上，我经常和他一起打高尔夫。"
+    },
+    {
+      "id": 200,
+      "en": "It really is a wonderful way to relax.",
+      "cn": "这真是放松的好方法。"
+    },
+    {
+      "id": 201,
+      "en": "To be honest, I'm not that great at golf, but I've improved in the last few years.",
+      "cn": "说实话，我的高尔夫水平不太好，但这几年有了进步。"
+    },
+    {
+      "id": 202,
+      "en": "But the key to golf is practice, practice, practice!",
+      "cn": "但打高尔夫的关键是练习、练习、再练习！"
+    },
+    {
+      "id": 203,
+      "en": "Um, sorry, I've lost my thread.",
+      "cn": "嗯，抱歉，我有点跑题了。"
+    },
+    {
+      "id": 204,
+      "en": "What was I talking about again?",
+      "cn": "我刚才在说什么？"
+    },
+    {
+      "id": 205,
+      "en": "I think you were discussing the campaign advertisement, Michael.",
+      "cn": "我想你在讨论广告活动，迈克尔。"
+    },
+    {
+      "id": 206,
+      "en": "Yes, excuse me, I'm afraid I got sidetracked there.",
+      "cn": "是的，抱歉，我刚才有点分心。"
+    },
+    {
+      "id": 207,
+      "en": "Yes, anyway, the campaign, well, uh, let me see.",
+      "cn": "是的，广告活动，嗯，让我想想。"
+    },
+    {
+      "id": 208,
+      "en": "Is the projector working yet, Jonathan?",
+      "cn": "投影仪修好了吗，乔纳森？"
+    },
+    {
+      "id": 209,
+      "en": "No, sorry.",
+      "cn": "不，抱歉。"
+    },
+    {
+      "id": 210,
+      "en": "IT is still fixing it.",
+      "cn": "IT 还在修。"
+    },
+    {
+      "id": 211,
+      "en": "Uh, okay, hmm.",
+      "cn": "嗯，好吧，嗯。"
+    },
+    {
+      "id": 212,
+      "en": "Well, all the information on the campaign is on the PowerPoint.",
+      "cn": "好吧，关于广告活动的所有信息都在PowerPoint上。"
+    },
+    {
+      "id": 213,
+      "en": "I haven't actually got my notes with me.",
+      "cn": "我实际上没有带我的笔记。"
+    },
+    {
+      "id": 214,
+      "en": "Let me see...",
+      "cn": "让我看看..."
+    },
+    {
+      "id": 215,
+      "en": "Mr. Ford, could you at least tell us the schedule for the campaign?",
+      "cn": "福特先生，您能告诉我们广告活动的时间表吗？"
+    },
+    {
+      "id": 216,
+      "en": "When were the first advertisements scheduled for?",
+      "cn": "第一个广告安排在什么时候？"
+    },
+    {
+      "id": 217,
+      "en": "That's a good question.",
+      "cn": "这是个好问题。"
+    },
+    {
+      "id": 218,
+      "en": "Unfortunately, I, uh, don't have that information on me.",
+      "cn": "不幸的是，我，呃，手头没有那个信息。"
+    },
+    {
+      "id": 219,
+      "en": "I'll have to get back to you on that point.",
+      "cn": "我会在这方面再联系你。"
+    },
+    {
+      "id": 220,
+      "en": "Okay, Michael, the projector is fixed.",
+      "cn": "好的，迈克尔，投影仪修好了。"
+    },
+    {
+      "id": 221,
+      "en": "I think we're ready.",
+      "cn": "我想我们准备好了。"
+    },
+    {
+      "id": 222,
+      "en": "Thank goodness.",
+      "cn": "谢天谢地。"
+    },
+    {
+      "id": 223,
+      "en": "Okay, everyone, sorry for the delay.",
+      "cn": "好吧，大家，抱歉耽误了时间。"
+    },
+    {
+      "id": 224,
+      "en": "So, without further ado, the new X420 marketing campaign.",
+      "cn": "所以，不再拖延，新的X420营销活动。"
+    },
+    {
+      "id": 225,
+      "en": "Enjoy!",
+      "cn": "享受吧！"
+    },
+    {
+      "id": 226,
+      "en": "Oh, uh, I'm terribly sorry.",
+      "cn": "哦，呃，我非常抱歉。"
+    },
+    {
+      "id": 227,
+      "en": "This is not the advert.",
+      "cn": "这不是广告。"
+    },
+    {
+      "id": 228,
+      "en": "This is my golfing holiday in Barbados.",
+      "cn": "这是我在巴巴多斯的高尔夫假期。"
+    },
+    {
+      "id": 229,
+      "en": "I think I must have brought the wrong file.",
+      "cn": "我想我带错了文件。"
+    },
+    {
+      "id": 230,
+      "en": "Can we take five?",
+      "cn": "我们可以休息五分钟吗？"
+    },
+    {
+      "id": 231,
+      "en": "Come on, Mr. Ford!",
+      "cn": "来吧，福特先生！"
+    },
+    {
+      "id": 232,
+      "en": "Okay, so we're coming towards the end of our presentation series.",
+      "cn": "好的，我们的演示系列快结束了。"
+    },
+    {
+      "id": 233,
+      "en": "So be sure to listen to us next week when we're talking about presentation series part 9.",
+      "cn": "所以请确保下周收听我们讨论演示系列第9部分。"
+    },
+    {
+      "id": 234,
+      "en": "And as you may know, it ends with part 10, so then we'll start with a new series very, very soon.",
+      "cn": "正如你们所知，它以第10部分结束，然后我们会很快开始一个新的系列。"
+    },
+    {
+      "id": 235,
+      "en": "And, uh, I don't know if you have any questions or any suggestions about a series, you can always contact us.",
+      "cn": "嗯，我不知道你们是否有任何问题或建议，如果有，可以随时联系我们。"
+    },
+    {
+      "id": 236,
+      "en": "Yeah, please do let us know what are the things that you have a hard time with when you're studying English.",
+      "cn": "是的，请告诉我们你在学习英语时遇到的困难。"
+    },
+    {
+      "id": 237,
+      "en": "Are there things that are confusing or difficult?",
+      "cn": "有没有让你感到困惑或困难的事情？"
+    },
+    {
+      "id": 238,
+      "en": "We're happy to hear your suggestions, and we hope that we can help out.",
+      "cn": "我们很高兴听到你的建议，希望能提供帮助。"
+    },
+    {
+      "id": 239,
+      "en": "Uh, that's about it for us today, though, so until next time.",
+      "cn": "嗯，今天就到这里，下次见。"
+    },
+    {
+      "id": 240,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 241,
+      "en": "Bye, everyone.",
+      "cn": "大家再见。"
+    }
+  ]
+}

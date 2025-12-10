@@ -1,0 +1,1294 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0098",
+  "title": "EnglishPod 中级 0098",
+  "totalSegments": 257,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erika.",
+      "cn": "我是Erika。"
+    },
+    {
+      "id": 5,
+      "en": "And today we are going to be teaching you a very important technique, especially for the guys if you want to have good luck with the ladies, right?",
+      "cn": "今天我们要教你一个非常重要的技巧，尤其是对于那些想在女士面前表现得好的男士，对吧？"
+    },
+    {
+      "id": 6,
+      "en": "Oh, Marco.",
+      "cn": "哦，Marco。"
+    },
+    {
+      "id": 7,
+      "en": "Well, today's lesson is called That's Flattering.",
+      "cn": "今天的课程叫做“这真让人受宠若惊”。"
+    },
+    {
+      "id": 8,
+      "en": "Right, so we are going to be teaching you how to flatter someone.",
+      "cn": "对，所以我们将教你如何恭维别人。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, so what does it mean to flatter someone?",
+      "cn": "好的，恭维别人是什么意思呢？"
+    },
+    {
+      "id": 10,
+      "en": "Well, basically you're going to be giving compliments and you're going to make that person feel good about themselves.",
+      "cn": "基本上，你会给出赞美，让那个人对自己感觉良好。"
+    },
+    {
+      "id": 11,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 12,
+      "en": "Okay, so flattering.",
+      "cn": "好的，恭维。"
+    },
+    {
+      "id": 13,
+      "en": "Now, before we get on with this flattering lesson, we need to look at some vocabulary in Vocabulary Preview.",
+      "cn": "在我们开始这个恭维课程之前，我们需要先看一些词汇，进行词汇预览。"
+    },
+    {
+      "id": 14,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 15,
+      "en": "All right, on Vocabulary Preview today, we have two small words.",
+      "cn": "好的，今天的词汇预览中，我们有两个小词。"
+    },
+    {
+      "id": 16,
+      "en": "So the first one is bar exam.",
+      "cn": "第一个是律师资格考试。"
+    },
+    {
+      "id": 17,
+      "en": "The bar exam.",
+      "cn": "律师资格考试。"
+    },
+    {
+      "id": 18,
+      "en": "The bar exam.",
+      "cn": "律师资格考试。"
+    },
+    {
+      "id": 19,
+      "en": "So the bar exam is that formal test that lawyers must do to become official lawyers.",
+      "cn": "律师资格考试是律师必须参加的正式考试，以成为正式律师。"
+    },
+    {
+      "id": 20,
+      "en": "Right, so it's that final exam in order to finally become a lawyer.",
+      "cn": "对，所以这是成为律师的最后考试。"
+    },
+    {
+      "id": 21,
+      "en": "Okay, and what about our next word?",
+      "cn": "好的，下一个词呢？"
+    },
+    {
+      "id": 22,
+      "en": "Well, we're also going to hear in the dialogue obnoxious.",
+      "cn": "我们在对话中还会听到“令人厌恶”。"
+    },
+    {
+      "id": 23,
+      "en": "Obnoxious.",
+      "cn": "令人厌恶。"
+    },
+    {
+      "id": 24,
+      "en": "Obnoxious.",
+      "cn": "令人厌恶。"
+    },
+    {
+      "id": 25,
+      "en": "Okay, so this is an adjective.",
+      "cn": "好的，这是一个形容词。"
+    },
+    {
+      "id": 26,
+      "en": "Yes, and it means something that is really, really annoying.",
+      "cn": "是的，意思是非常非常烦人的东西。"
+    },
+    {
+      "id": 27,
+      "en": "Okay, so something can be obnoxious.",
+      "cn": "好的，所以某事可以是令人厌恶的。"
+    },
+    {
+      "id": 28,
+      "en": "Or someone.",
+      "cn": "或者某人。"
+    },
+    {
+      "id": 29,
+      "en": "Or someone.",
+      "cn": "或者某人。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 31,
+      "en": "So now we have these two words that we're going to listen to in the dialogue.",
+      "cn": "现在我们有这两个词，我们将在对话中听到。"
+    },
+    {
+      "id": 32,
+      "en": "And now let's listen to two people as they flatter each other in our dialogue.",
+      "cn": "现在让我们听听两个人在对话中如何互相恭维。"
+    },
+    {
+      "id": 33,
+      "en": "Valerie, hi.",
+      "cn": "Valerie，嗨。"
+    },
+    {
+      "id": 34,
+      "en": "Wow, how have you been?",
+      "cn": "哇，你最近怎么样？"
+    },
+    {
+      "id": 35,
+      "en": "It's been such a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 36,
+      "en": "Darlene, indeed, it's been a while.",
+      "cn": "Darlene，确实，好久不见。"
+    },
+    {
+      "id": 37,
+      "en": "How have you been?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 38,
+      "en": "Wow, you look amazing.",
+      "cn": "哇，你看起来真棒。"
+    },
+    {
+      "id": 39,
+      "en": "I love what you've done with your hair.",
+      "cn": "我喜欢你做的发型。"
+    },
+    {
+      "id": 40,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 41,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 42,
+      "en": "I went to that hair salon you told me about, but enough about me.",
+      "cn": "我去了你告诉我的那家发廊，但够了，谈谈我吧。"
+    },
+    {
+      "id": 43,
+      "en": "Look at you, God, you haven't aged a day.",
+      "cn": "看看你，天哪，你一点都没变。"
+    },
+    {
+      "id": 44,
+      "en": "What is your secret?",
+      "cn": "你的秘密是什么？"
+    },
+    {
+      "id": 45,
+      "en": "No, come on.",
+      "cn": "不，别这样。"
+    },
+    {
+      "id": 46,
+      "en": "Well, I've been watching what I eat, and I work out three times a week.",
+      "cn": "嗯，我一直在注意饮食，每周锻炼三次。"
+    },
+    {
+      "id": 47,
+      "en": "By the way, I heard your son recently graduated.",
+      "cn": "顺便说一下，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 48,
+      "en": "Yes, my little Paul is finally a doctor.",
+      "cn": "是的，我的小Paul终于成为医生了。"
+    },
+    {
+      "id": 49,
+      "en": "They grow up so fast, you know.",
+      "cn": "他们长得真快，你知道的。"
+    },
+    {
+      "id": 50,
+      "en": "He is such a handsome guy.",
+      "cn": "他真是个帅哥。"
+    },
+    {
+      "id": 51,
+      "en": "He gets his looks from his mother, of course.",
+      "cn": "他当然是遗传了他母亲的外貌。"
+    },
+    {
+      "id": 52,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 53,
+      "en": "What about your daughter, Pamela?",
+      "cn": "你的女儿Pamela怎么样？"
+    },
+    {
+      "id": 54,
+      "en": "I heard she passed the bar exam and married recently.",
+      "cn": "我听说她通过了律师资格考试并且最近结婚了。"
+    },
+    {
+      "id": 55,
+      "en": "Oh yes, she had a beautiful wedding in Cozumel, Mexico, and we all attended.",
+      "cn": "哦，是的，她在墨西哥的科苏梅尔举行了美丽的婚礼，我们都参加了。"
+    },
+    {
+      "id": 56,
+      "en": "Such a lovely girl.",
+      "cn": "真是个可爱的女孩。"
+    },
+    {
+      "id": 57,
+      "en": "I hope my Paul is lucky enough to find a girl like that someday.",
+      "cn": "我希望我的Paul有幸能找到这样的女孩。"
+    },
+    {
+      "id": 58,
+      "en": "But of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 59,
+      "en": "Well, it's been great talking to you, but I have to get going.",
+      "cn": "好吧，和你聊天很愉快，但我得走了。"
+    },
+    {
+      "id": 60,
+      "en": "Same here.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 61,
+      "en": "We'll catch up soon, maybe over coffee.",
+      "cn": "我们很快再聊，也许喝杯咖啡。"
+    },
+    {
+      "id": 62,
+      "en": "That would be great.",
+      "cn": "那太好了。"
+    },
+    {
+      "id": 63,
+      "en": "Give me a call.",
+      "cn": "给我打个电话。"
+    },
+    {
+      "id": 64,
+      "en": "See you soon.",
+      "cn": "再见。"
+    },
+    {
+      "id": 65,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 66,
+      "en": "I cannot stand that woman or her obnoxious daughter.",
+      "cn": "我真受不了那个女人和她令人厌恶的女儿。"
+    },
+    {
+      "id": 67,
+      "en": "Alright, so this is your typical, normal, everyday behavior that women show to each other, right?",
+      "cn": "好吧，这就是女性之间典型的日常行为，对吧？"
+    },
+    {
+      "id": 68,
+      "en": "I think it's very common.",
+      "cn": "我认为这很常见。"
+    },
+    {
+      "id": 69,
+      "en": "It's very hard to argue against this because I think everyone does it, or at least you've heard maybe your mother or somebody talk to her friends like this, right?",
+      "cn": "很难反驳这一点，因为我认为每个人都这样做，或者至少你可能听过你的母亲或其他人这样和朋友交谈，对吧？"
+    },
+    {
+      "id": 70,
+      "en": "So pretend you like a person who you actually hate.",
+      "cn": "所以假装你喜欢一个你实际上讨厌的人。"
+    },
+    {
+      "id": 71,
+      "en": "Right, you have to be courteous.",
+      "cn": "对，你必须礼貌。"
+    },
+    {
+      "id": 72,
+      "en": "Is that what you're doing to me now?",
+      "cn": "这就是你现在对我做的事吗？"
+    },
+    {
+      "id": 73,
+      "en": "Alright, no I'm not, but we can take a look at some of this great language, very rich language that we found in this dialogue in Fluency Builder.",
+      "cn": "好吧，不，我不是，但我们可以看看在这个对话中找到的一些丰富的语言，在流利度提升中。"
+    },
+    {
+      "id": 74,
+      "en": "Alright, we're doing things a little bit different in this lesson.",
+      "cn": "好吧，我们在这节课中做一些不同的事情。"
+    },
+    {
+      "id": 75,
+      "en": "So we're going to do two Fluency Builders.",
+      "cn": "所以我们将做两个流利度提升。"
+    },
+    {
+      "id": 76,
+      "en": "And in the first one, we're going to focus on language you can use to flatter someone.",
+      "cn": "在第一个中，我们将专注于可以用来恭维别人的语言。"
+    },
+    {
+      "id": 77,
+      "en": "Right, so let's get started.",
+      "cn": "对，所以让我们开始吧。"
+    },
+    {
+      "id": 78,
+      "en": "In the very first part of the dialogue, we heard Valerie say, I love what you've done with your hair.",
+      "cn": "在对话的第一部分，我们听到Valerie说，我喜欢你做的发型。"
+    },
+    {
+      "id": 79,
+      "en": "I love what you've done with your hair.",
+      "cn": "我喜欢你做的发型。"
+    },
+    {
+      "id": 80,
+      "en": "I love what you've done with.",
+      "cn": "我喜欢你做的。"
+    },
+    {
+      "id": 81,
+      "en": "I love what you've done with.",
+      "cn": "我喜欢你做的。"
+    },
+    {
+      "id": 82,
+      "en": "Okay, so if somebody says this, basically they're saying, I like the change you made.",
+      "cn": "好的，如果有人这样说，基本上他们是在说，我喜欢你所做的改变。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, and change not only to your hair, right?",
+      "cn": "好的，改变不仅仅是你的头发，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "It could be anything, so I love what you've done with your new house.",
+      "cn": "这可以是任何东西，所以我喜欢你对新房子的改造。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, or I can say, I love what you've done with your garden, it looks so beautiful.",
+      "cn": "好的，或者我可以说，我喜欢你对花园的改造，它看起来真美。"
+    },
+    {
+      "id": 86,
+      "en": "So something that you've changed, you can use this phrase for.",
+      "cn": "所以你所改变的东西，你可以用这个短语。"
+    },
+    {
+      "id": 87,
+      "en": "Okay, and in this case it's her hair, so she is complimenting her on her hair.",
+      "cn": "好的，在这个例子中是她的头发，所以她在赞美她的头发。"
+    },
+    {
+      "id": 88,
+      "en": "We also heard Darlene say, you haven't aged a day.",
+      "cn": "我们还听到Darlene说，你一点都没变。"
+    },
+    {
+      "id": 89,
+      "en": "You haven't aged a day.",
+      "cn": "你一点都没变。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, so now she is saying that she hasn't gotten any older.",
+      "cn": "好的，所以现在她是在说她没有变老。"
+    },
+    {
+      "id": 91,
+      "en": "That's right, to age is to get older.",
+      "cn": "没错，变老就是变得更老。"
+    },
+    {
+      "id": 92,
+      "en": "Okay, so this is a very common way of telling somebody you look great.",
+      "cn": "好的，这是一种非常常见的方式来告诉某人你看起来很棒。"
+    },
+    {
+      "id": 93,
+      "en": "That's right, you look young.",
+      "cn": "没错，你看起来年轻。"
+    },
+    {
+      "id": 94,
+      "en": "You look young, you look great.",
+      "cn": "你看起来年轻，你看起来很棒。"
+    },
+    {
+      "id": 95,
+      "en": "You haven't aged a day.",
+      "cn": "你一点都没变。"
+    },
+    {
+      "id": 96,
+      "en": "Alright, so then they talk about their kids, and they're talking about the sun, and Valerie says, he's such a handsome guy.",
+      "cn": "好吧，然后他们谈论他们的孩子，Valerie说，他真是个帅哥。"
+    },
+    {
+      "id": 97,
+      "en": "He is such a handsome guy.",
+      "cn": "他真是个帅哥。"
+    },
+    {
+      "id": 98,
+      "en": "He is such a handsome guy.",
+      "cn": "他真是个帅哥。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, so this structure is important because now I can change the adjective, and I am saying he is very intelligent.",
+      "cn": "好的，这个结构很重要，因为现在我可以改变形容词，我可以说他非常聪明。"
+    },
+    {
+      "id": 100,
+      "en": "He is such an intelligent guy.",
+      "cn": "他真是个聪明的家伙。"
+    },
+    {
+      "id": 101,
+      "en": "That's right, or even, this is such a good day.",
+      "cn": "对，没错，今天真是个好日子。"
+    },
+    {
+      "id": 102,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 103,
+      "en": "So now why don't we combine the two phrases that we've just heard.",
+      "cn": "那么现在我们为什么不把刚才听到的两个短语结合起来呢？"
+    },
+    {
+      "id": 104,
+      "en": "I love what you've done with, and he is such a... And let's listen to some examples.",
+      "cn": "我喜欢你对……的处理，他真是个……让我们听一些例子。"
+    },
+    {
+      "id": 105,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 106,
+      "en": "We love what you've done with this place.",
+      "cn": "我们喜欢你对这个地方的处理。"
+    },
+    {
+      "id": 107,
+      "en": "Such a beautiful room.",
+      "cn": "这么美的房间。"
+    },
+    {
+      "id": 108,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 109,
+      "en": "I love what you've done with your hair.",
+      "cn": "我喜欢你对你头发的处理。"
+    },
+    {
+      "id": 110,
+      "en": "Such a nice color on you.",
+      "cn": "这个颜色真适合你。"
+    },
+    {
+      "id": 111,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 112,
+      "en": "I love what you've done with this space.",
+      "cn": "我喜欢你对这个空间的处理。"
+    },
+    {
+      "id": 113,
+      "en": "Such a wonderful garden.",
+      "cn": "这么美妙的花园。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, I really like how those two phrases can fit together.",
+      "cn": "好的，我真的很喜欢这两个短语的结合。"
+    },
+    {
+      "id": 115,
+      "en": "Yeah, they are very good, and now you can use them together, or separately, like in the dialogue.",
+      "cn": "是的，它们非常好，现在你可以一起使用，或者分开使用，就像对话中那样。"
+    },
+    {
+      "id": 116,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 117,
+      "en": "Now let's move to our final flattering phrase.",
+      "cn": "现在让我们进入最后一个恭维短语。"
+    },
+    {
+      "id": 118,
+      "en": "Valerie says that Darlene's son gets his looks from his mother.",
+      "cn": "瓦莱丽说达琳的儿子长得像他妈妈。"
+    },
+    {
+      "id": 119,
+      "en": "Right, she says he gets his looks from his mother, of course.",
+      "cn": "对，她说他长得像他妈妈，当然。"
+    },
+    {
+      "id": 120,
+      "en": "He gets his looks from.",
+      "cn": "他长得像。"
+    },
+    {
+      "id": 121,
+      "en": "Okay, so when she says he gets his looks from, she is saying his appearance.",
+      "cn": "好的，所以当她说他长得像时，她是在说他的外貌。"
+    },
+    {
+      "id": 122,
+      "en": "His positive appearance, his good appearance.",
+      "cn": "他积极的外貌，他的好外貌。"
+    },
+    {
+      "id": 123,
+      "en": "Right, his good looks.",
+      "cn": "对，他的好看。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, so now we can change the noun, and I can say he gets his intelligence from his father.",
+      "cn": "好的，现在我们可以换名词，我可以说他从他父亲那里继承了智慧。"
+    },
+    {
+      "id": 125,
+      "en": "Right, or even he gets his beautiful singing voice from his mother.",
+      "cn": "对，或者甚至说他从他妈妈那里继承了美妙的歌声。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, so now typically you would say his mother, his father, or maybe one of the grandparents, right?",
+      "cn": "好的，通常你会说他妈妈，他爸爸，或者可能是祖父母中的一个，对吧？"
+    },
+    {
+      "id": 127,
+      "en": "Maybe, yeah.",
+      "cn": "也许，是的。"
+    },
+    {
+      "id": 128,
+      "en": "But you wouldn't say he gets his good looks from his brother.",
+      "cn": "但你不会说他从他哥哥那里继承了好看。"
+    },
+    {
+      "id": 129,
+      "en": "No, no, no, no.",
+      "cn": "不，不，不，不。"
+    },
+    {
+      "id": 130,
+      "en": "Mother, father, grandma, grandpa.",
+      "cn": "妈妈，爸爸，奶奶，爷爷。"
+    },
+    {
+      "id": 131,
+      "en": "Alright, so now that we've covered four great ways of flattering someone, let's listen to this dialogue again, but we're going to slow it down a little bit, so you can pick up on these phrases.",
+      "cn": "好的，现在我们已经涵盖了四种很好的恭维方式，让我们再听一遍这个对话，但我们会稍微放慢速度，这样你可以注意到这些短语。"
+    },
+    {
+      "id": 132,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 133,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 134,
+      "en": "I went to that hair salon you told me about, but enough about me.",
+      "cn": "我去了你告诉我的那家发廊，但够了，还是说说我吧。"
+    },
+    {
+      "id": 135,
+      "en": "Look at you.",
+      "cn": "看看你。"
+    },
+    {
+      "id": 136,
+      "en": "God, you haven't aged a day.",
+      "cn": "天啊，你一点都没老。"
+    },
+    {
+      "id": 137,
+      "en": "What is your secret?",
+      "cn": "你的秘密是什么？"
+    },
+    {
+      "id": 138,
+      "en": "Come on.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 139,
+      "en": "Well, I've been watching what I eat, and I work out three times a week.",
+      "cn": "嗯，我一直在注意饮食，每周锻炼三次。"
+    },
+    {
+      "id": 140,
+      "en": "By the way, I heard your son recently graduated.",
+      "cn": "顺便说一下，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 141,
+      "en": "Yes, my little Paul is finally a doctor.",
+      "cn": "是的，我的小保罗终于成为医生了。"
+    },
+    {
+      "id": 142,
+      "en": "They grow up so fast, you know.",
+      "cn": "他们长得真快，你知道的。"
+    },
+    {
+      "id": 143,
+      "en": "He is such a handsome guy.",
+      "cn": "他真是个帅哥。"
+    },
+    {
+      "id": 144,
+      "en": "He gets his looks from his mother, of course.",
+      "cn": "他当然是像他妈妈。"
+    },
+    {
+      "id": 145,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 146,
+      "en": "What about your daughter, Pamela?",
+      "cn": "你的女儿，帕梅拉呢？"
+    },
+    {
+      "id": 147,
+      "en": "I heard she passed the bar exam and married recently.",
+      "cn": "我听说她通过了律师考试并且最近结婚了。"
+    },
+    {
+      "id": 148,
+      "en": "Oh yes, she had a beautiful wedding in Cozumel, Mexico, and we all attended.",
+      "cn": "哦，是的，她在墨西哥的科苏梅尔举行了美丽的婚礼，我们都参加了。"
+    },
+    {
+      "id": 149,
+      "en": "Such a lovely girl.",
+      "cn": "真是个可爱的女孩。"
+    },
+    {
+      "id": 150,
+      "en": "I hope my Paul is lucky enough to find a girl like that someday.",
+      "cn": "我希望我的保罗有幸能找到这样的女孩。"
+    },
+    {
+      "id": 151,
+      "en": "But of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 152,
+      "en": "Well, it's been great talking to you, but I have to get going.",
+      "cn": "嗯，和你聊天真好，但我得走了。"
+    },
+    {
+      "id": 153,
+      "en": "Same here.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 154,
+      "en": "We'll catch up soon, maybe over coffee.",
+      "cn": "我们很快再聊，也许喝杯咖啡。"
+    },
+    {
+      "id": 155,
+      "en": "That would be great.",
+      "cn": "那太好了。"
+    },
+    {
+      "id": 156,
+      "en": "Give me a call.",
+      "cn": "给我打个电话。"
+    },
+    {
+      "id": 157,
+      "en": "See you soon.",
+      "cn": "很快见。"
+    },
+    {
+      "id": 158,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 159,
+      "en": "I cannot stand that woman or her obnoxious daughter.",
+      "cn": "我真受不了那个女人和她那讨厌的女儿。"
+    },
+    {
+      "id": 160,
+      "en": "Okay, so we see a lot of great flattering language in this dialogue, but we also have some really good language and phrases you can use in small talk in any situation.",
+      "cn": "好的，所以我们在这个对话中看到很多很好的恭维语言，但我们也有一些非常好的语言和短语可以在任何情况下进行闲聊。"
+    },
+    {
+      "id": 161,
+      "en": "Right, so maybe if you talk to a friend that you haven't seen in a while, we have some really great phrases for, as you say, small talk.",
+      "cn": "对，所以如果你和一个很久没见的朋友交谈，我们有一些很好的短语，正如你所说的，闲聊。"
+    },
+    {
+      "id": 162,
+      "en": "So let's look at those now in Fluency Builder Part 2.",
+      "cn": "那么现在让我们在流利度构建器第二部分中看看这些。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, so let's start with the first phrase.",
+      "cn": "好的，让我们从第一个短语开始。"
+    },
+    {
+      "id": 164,
+      "en": "She says, Valerie, hi, wow, how are you?",
+      "cn": "她说，瓦莱丽，嗨，哇，你好吗？"
+    },
+    {
+      "id": 165,
+      "en": "It's been such a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 166,
+      "en": "It's been such a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 167,
+      "en": "It's been such a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 168,
+      "en": "So basically here she's saying we haven't seen each other in a long time.",
+      "cn": "所以基本上她在说我们很久没见面了。"
+    },
+    {
+      "id": 169,
+      "en": "Right, but it kind of gives you that idea that she regrets not talking to her for such a long time.",
+      "cn": "对，但这给你一种她后悔这么久没和她交谈的感觉。"
+    },
+    {
+      "id": 170,
+      "en": "Yeah, she wishes she could have talked to her.",
+      "cn": "是的，她希望能和她交谈。"
+    },
+    {
+      "id": 171,
+      "en": "It's been such a long time, how are you?",
+      "cn": "好久不见，你好吗？"
+    },
+    {
+      "id": 172,
+      "en": "So a wonderful way to start a conversation.",
+      "cn": "这是开始对话的好方法。"
+    },
+    {
+      "id": 173,
+      "en": "So when they start talking about their kids, Valerie says, by the way, I heard your son recently graduated.",
+      "cn": "当他们开始谈论孩子时，瓦莱丽说，顺便说一下，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 174,
+      "en": "Right, by the way, I heard your son recently graduated.",
+      "cn": "对，顺便说一下，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 175,
+      "en": "So this phrase, by the way, I heard, blah, blah, blah, is really, really useful.",
+      "cn": "所以这个短语，顺便说一下，我听说，……，真的非常有用。"
+    },
+    {
+      "id": 176,
+      "en": "Right, let's take a look at the first part, by the way.",
+      "cn": "对，让我们看看第一部分，顺便说一下。"
+    },
+    {
+      "id": 177,
+      "en": "So this is a way to connect two different ideas or to start a new topic.",
+      "cn": "这是连接两个不同想法或开始新话题的一种方式。"
+    },
+    {
+      "id": 178,
+      "en": "Exactly, and now when she says, I heard your son recently graduated.",
+      "cn": "正是如此，现在当她说，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 179,
+      "en": "So we use this phrase, I heard, when we've got information that we're not sure about.",
+      "cn": "我们使用这个短语，我听说，当我们有不确定的信息时。"
+    },
+    {
+      "id": 180,
+      "en": "Right, or also you are demonstrating interest about a certain topic or a news event that you would like to know about.",
+      "cn": "对，或者你也在展示对某个话题或新闻事件的兴趣，你想了解更多。"
+    },
+    {
+      "id": 181,
+      "en": "Right, and so basically you're asking the other person, tell me about this.",
+      "cn": "对，所以基本上你是在问对方，告诉我这个。"
+    },
+    {
+      "id": 182,
+      "en": "Right, so I can say, hey, by the way, I heard you got married.",
+      "cn": "对，所以我可以说，嘿，顺便说一下，我听说你结婚了。"
+    },
+    {
+      "id": 183,
+      "en": "So then I'd tell you all about my wedding.",
+      "cn": "然后我会告诉你我婚礼的所有事情。"
+    },
+    {
+      "id": 184,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 185,
+      "en": "Okay, so this is a very common way of talking to someone or getting some more information from a person.",
+      "cn": "好的，所以这是一种与某人交谈或从某人那里获取更多信息的非常常见的方式。"
+    },
+    {
+      "id": 186,
+      "en": "So let's listen to some more examples of, by the way.",
+      "cn": "让我们再听一些关于“顺便说一下”的例子。"
+    },
+    {
+      "id": 187,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 188,
+      "en": "By the way, I heard you've recently been promoted.",
+      "cn": "顺便说一下，我听说你最近升职了。"
+    },
+    {
+      "id": 189,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 190,
+      "en": "I heard your daughter just had a baby.",
+      "cn": "我听说你女儿刚生了个宝宝。"
+    },
+    {
+      "id": 191,
+      "en": "Congratulations!",
+      "cn": "恭喜！"
+    },
+    {
+      "id": 192,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 193,
+      "en": "Oh, I heard you just got back from holiday in France.",
+      "cn": "哦，我听说你刚从法国度假回来。"
+    },
+    {
+      "id": 194,
+      "en": "Alright, now, since these two ladies don't like each other very much, they want to end the conversation, right?",
+      "cn": "好的，现在，由于这两个女士不太喜欢彼此，她们想结束对话，对吧？"
+    },
+    {
+      "id": 195,
+      "en": "Right, they want to end the conversation and, well, you want to end it in a polite way, right?",
+      "cn": "对，她们想结束对话，而且，你想以礼貌的方式结束，对吧？"
+    },
+    {
+      "id": 196,
+      "en": "So they use a really great phrase here.",
+      "cn": "所以她们在这里使用了一个很好的短语。"
+    },
+    {
+      "id": 197,
+      "en": "They said, it's been great talking to you, but I have to get going.",
+      "cn": "她们说，和你聊天真好，但我得走了。"
+    },
+    {
+      "id": 198,
+      "en": "Right, so it's like, well, it's been great talking to you, but I have to get going.",
+      "cn": "对，所以就像，嗯，和你聊天真好，但我得走了。"
+    },
+    {
+      "id": 199,
+      "en": "So, it's been great talking to you.",
+      "cn": "所以，和你聊天真好。"
+    },
+    {
+      "id": 200,
+      "en": "Uh-huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 201,
+      "en": "I've enjoyed talking to you.",
+      "cn": "我很享受和你聊天。"
+    },
+    {
+      "id": 202,
+      "en": "Right, so this is a very polite, very subtle way of saying, hey, I have to go, or bye, I can't talk anymore.",
+      "cn": "对，所以这是一种非常礼貌、非常微妙的方式在说，嘿，我得走了，或者再见，我不能再聊了。"
+    },
+    {
+      "id": 203,
+      "en": "Yeah, when you say that, you know that the conversation is ending.",
+      "cn": "是的，当你这么说时，你知道谈话要结束了。"
+    },
+    {
+      "id": 204,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 205,
+      "en": "Now, she says, I have to get going.",
+      "cn": "现在，她说，我得走了。"
+    },
+    {
+      "id": 206,
+      "en": "What does it mean, get going?",
+      "cn": "“走了”是什么意思？"
+    },
+    {
+      "id": 207,
+      "en": "That doesn't make much sense.",
+      "cn": "这没什么意义。"
+    },
+    {
+      "id": 208,
+      "en": "Basically, it just means leave.",
+      "cn": "基本上，它只是意味着离开。"
+    },
+    {
+      "id": 209,
+      "en": "Okay, I have to leave, I have to get going.",
+      "cn": "好吧，我得走了，我得走了。"
+    },
+    {
+      "id": 210,
+      "en": "You should get going, you're going to be late.",
+      "cn": "你应该走了，你会迟到的。"
+    },
+    {
+      "id": 211,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 212,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 213,
+      "en": "Some really good small talk phrases that are useful in any situation.",
+      "cn": "一些在任何情况下都很有用的闲聊短语。"
+    },
+    {
+      "id": 214,
+      "en": "So, why don't we hear them again one more time by listening to the dialogue.",
+      "cn": "所以，为什么我们不再听一遍对话呢。"
+    },
+    {
+      "id": 215,
+      "en": "Valerie, hi.",
+      "cn": "瓦莱丽，嗨。"
+    },
+    {
+      "id": 216,
+      "en": "Wow, how have you been?",
+      "cn": "哇，你最近怎么样？"
+    },
+    {
+      "id": 217,
+      "en": "It's been such a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 218,
+      "en": "Darlene, indeed, it's been a while.",
+      "cn": "达琳，确实，好久了。"
+    },
+    {
+      "id": 219,
+      "en": "How have you been?",
+      "cn": "你最近怎么样？"
+    },
+    {
+      "id": 220,
+      "en": "Wow, you look amazing.",
+      "cn": "哇，你看起来真棒。"
+    },
+    {
+      "id": 221,
+      "en": "I love what you've done with your hair.",
+      "cn": "我喜欢你做的发型。"
+    },
+    {
+      "id": 222,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 223,
+      "en": "Thanks.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 224,
+      "en": "I went to that hair salon you told me about, but enough about me.",
+      "cn": "我去了你告诉我的那家发廊，但够了，谈谈我吧。"
+    },
+    {
+      "id": 225,
+      "en": "Look at you.",
+      "cn": "看看你。"
+    },
+    {
+      "id": 226,
+      "en": "God, you haven't aged a day.",
+      "cn": "天啊，你一点都没老。"
+    },
+    {
+      "id": 227,
+      "en": "What is your secret?",
+      "cn": "你的秘密是什么？"
+    },
+    {
+      "id": 228,
+      "en": "Come on.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 229,
+      "en": "Well, I've been watching what I eat and I work out three times a week.",
+      "cn": "嗯，我一直在注意饮食，每周锻炼三次。"
+    },
+    {
+      "id": 230,
+      "en": "By the way, I heard your son recently graduated.",
+      "cn": "顺便说一下，我听说你儿子最近毕业了。"
+    },
+    {
+      "id": 231,
+      "en": "Yes, my little Paul is finally a doctor.",
+      "cn": "是的，我的小保罗终于成为医生了。"
+    },
+    {
+      "id": 232,
+      "en": "They grow up so fast, you know.",
+      "cn": "他们长得真快，你知道的。"
+    },
+    {
+      "id": 233,
+      "en": "He is such a handsome guy.",
+      "cn": "他真是个帅哥。"
+    },
+    {
+      "id": 234,
+      "en": "He gets his looks from his mother, of course.",
+      "cn": "他当然是遗传了他母亲的外貌。"
+    },
+    {
+      "id": 235,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 236,
+      "en": "What about your daughter, Pamela?",
+      "cn": "你的女儿帕梅拉怎么样？"
+    },
+    {
+      "id": 237,
+      "en": "I heard she passed the bar exam and married recently.",
+      "cn": "我听说她最近通过了律师考试并结婚了。"
+    },
+    {
+      "id": 238,
+      "en": "Oh yes, she had a beautiful wedding in Cozumel, Mexico, and we all attended.",
+      "cn": "哦，是的，她在墨西哥的科苏梅尔举行了美丽的婚礼，我们都参加了。"
+    },
+    {
+      "id": 239,
+      "en": "Such a lovely girl.",
+      "cn": "真是个可爱的女孩。"
+    },
+    {
+      "id": 240,
+      "en": "I hope my Paul is lucky enough to find a girl like that someday.",
+      "cn": "我希望我的保罗有幸能找到这样的女孩。"
+    },
+    {
+      "id": 241,
+      "en": "But of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 242,
+      "en": "Well, it's been great talking to you, but I have to get going.",
+      "cn": "嗯，和你聊天很愉快，但我得走了。"
+    },
+    {
+      "id": 243,
+      "en": "Same here.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 244,
+      "en": "We'll catch up soon, maybe over coffee.",
+      "cn": "我们很快再聊，也许喝杯咖啡。"
+    },
+    {
+      "id": 245,
+      "en": "That would be great.",
+      "cn": "那太好了。"
+    },
+    {
+      "id": 246,
+      "en": "Give me a call.",
+      "cn": "给我打个电话。"
+    },
+    {
+      "id": 247,
+      "en": "See you soon.",
+      "cn": "很快见。"
+    },
+    {
+      "id": 248,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 249,
+      "en": "I cannot stand that woman or her obnoxious daughter.",
+      "cn": "我无法忍受那个女人和她那令人讨厌的女儿。"
+    },
+    {
+      "id": 250,
+      "en": "Alright, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 251,
+      "en": "So now you have a couple of phrases that you can use to flatter someone, be it your friend, or somebody that you know, or anyone.",
+      "cn": "所以现在你有了一些可以用来恭维别人的短语，无论是你的朋友，还是你认识的人，或任何人。"
+    },
+    {
+      "id": 252,
+      "en": "And well, they are very, very useful, and if you use them correctly, of course.",
+      "cn": "而且，它们非常非常有用，如果你正确使用的话。"
+    },
+    {
+      "id": 253,
+      "en": "Right, and these phrases sound really honest and really natural, very native-like.",
+      "cn": "对，这些短语听起来真的很诚恳，非常自然，像本地人一样。"
+    },
+    {
+      "id": 254,
+      "en": "Okay, so if you have any other questions or comments, or if you want to share some other phrases that you use to flatter people, come to our website at EnglishPod.com and leave them in our comments section.",
+      "cn": "好吧，如果你有其他问题或评论，或者想分享一些你用来恭维别人的短语，请访问我们的网站 EnglishPod.com，并在评论区留言。"
+    },
+    {
+      "id": 255,
+      "en": "So Marco and I have to get going, but we're looking forward to seeing you on the website.",
+      "cn": "所以马尔科和我得走了，但我们期待在网站上见到你。"
+    },
+    {
+      "id": 256,
+      "en": "Thanks for listening, and until next time.",
+      "cn": "感谢你的收听，下次再见。"
+    },
+    {
+      "id": 257,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

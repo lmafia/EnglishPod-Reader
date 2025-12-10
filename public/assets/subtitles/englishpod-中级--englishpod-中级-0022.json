@@ -1,0 +1,1484 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0022",
+  "title": "EnglishPod 中级 0022",
+  "totalSegments": 295,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是 Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you the second part of Christmas Chronicles.",
+      "cn": "今天我们为您带来《圣诞编年史》的第二部分。"
+    },
+    {
+      "id": 6,
+      "en": "Another Christmas lesson to get you in the Christmas spirit.",
+      "cn": "另一个圣诞节课程，让您感受圣诞气氛。"
+    },
+    {
+      "id": 7,
+      "en": "Christmas and useful language for all of our listeners today.",
+      "cn": "今天为我们的听众准备了圣诞节和实用语言。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "In today's lesson, we'll be learning some great Christmas vocabulary.",
+      "cn": "在今天的课程中，我们将学习一些很棒的圣诞词汇。"
+    },
+    {
+      "id": 10,
+      "en": "And police-related vocabulary as well.",
+      "cn": "还有与警察相关的词汇。"
+    },
+    {
+      "id": 11,
+      "en": "Now, Christmas, police vocabulary, how exactly does that fit together?",
+      "cn": "圣诞节和警察词汇，这两者到底有什么关系？"
+    },
+    {
+      "id": 12,
+      "en": "Well, they don't.",
+      "cn": "其实没有。"
+    },
+    {
+      "id": 13,
+      "en": "But here at EnglishPod, we can make anything happen, so that's why we have done this.",
+      "cn": "但在 EnglishPod，我们可以让任何事情发生，所以我们这样做了。"
+    },
+    {
+      "id": 14,
+      "en": "To be creative.",
+      "cn": "为了创造性。"
+    },
+    {
+      "id": 15,
+      "en": "To be creative.",
+      "cn": "为了创造性。"
+    },
+    {
+      "id": 16,
+      "en": "So let's take a look at our vocabulary preview for this lesson.",
+      "cn": "让我们看看今天课程的词汇预览。"
+    },
+    {
+      "id": 17,
+      "en": "VOCABULARY PREVIEW In today's vocabulary preview, we've got two words from our dialogue that you will need to know to understand this dialogue.",
+      "cn": "词汇预览 在今天的词汇预览中，我们有两个来自对话的单词，您需要了解这些单词才能理解对话。"
+    },
+    {
+      "id": 18,
+      "en": "The first one is elves.",
+      "cn": "第一个是精灵。"
+    },
+    {
+      "id": 19,
+      "en": "Elves.",
+      "cn": "精灵。"
+    },
+    {
+      "id": 20,
+      "en": "Elves.",
+      "cn": "精灵。"
+    },
+    {
+      "id": 21,
+      "en": "Elves.",
+      "cn": "精灵。"
+    },
+    {
+      "id": 22,
+      "en": "And this is the plural of the word elf.",
+      "cn": "这是单词 elf 的复数形式。"
+    },
+    {
+      "id": 23,
+      "en": "Elf.",
+      "cn": "Elf。"
+    },
+    {
+      "id": 24,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 25,
+      "en": "So elves are?",
+      "cn": "那么精灵是？"
+    },
+    {
+      "id": 26,
+      "en": "Little people.",
+      "cn": "小人。"
+    },
+    {
+      "id": 27,
+      "en": "Little people with pointy hats?",
+      "cn": "戴尖帽的小人？"
+    },
+    {
+      "id": 28,
+      "en": "With pointy hats.",
+      "cn": "戴尖帽的。"
+    },
+    {
+      "id": 29,
+      "en": "Census helpers.",
+      "cn": "人口普查助手。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, so elves.",
+      "cn": "好的，所以精灵。"
+    },
+    {
+      "id": 31,
+      "en": "Elves.",
+      "cn": "精灵。"
+    },
+    {
+      "id": 32,
+      "en": "Our next word is candy cane.",
+      "cn": "我们下一个单词是糖果手杖。"
+    },
+    {
+      "id": 33,
+      "en": "Candy cane.",
+      "cn": "糖果手杖。"
+    },
+    {
+      "id": 34,
+      "en": "Candy cane.",
+      "cn": "糖果手杖。"
+    },
+    {
+      "id": 35,
+      "en": "Candy cane.",
+      "cn": "糖果手杖。"
+    },
+    {
+      "id": 36,
+      "en": "So a candy cane is a traditional Christmas candy, right?",
+      "cn": "糖果手杖是传统的圣诞糖果，对吗？"
+    },
+    {
+      "id": 37,
+      "en": "Yes, it's red and white.",
+      "cn": "是的，它是红色和白色的。"
+    },
+    {
+      "id": 38,
+      "en": "And kind of shaped like a like a J?",
+      "cn": "形状有点像 J？"
+    },
+    {
+      "id": 39,
+      "en": "Like a J, yeah.",
+      "cn": "像 J，是的。"
+    },
+    {
+      "id": 40,
+      "en": "Okay, so it's very traditional.",
+      "cn": "好的，所以它非常传统。"
+    },
+    {
+      "id": 41,
+      "en": "Yeah, you hang them on the tree and you eat them at Christmas time.",
+      "cn": "是的，您可以把它们挂在树上，圣诞节时吃。"
+    },
+    {
+      "id": 42,
+      "en": "Tastes like peppermint.",
+      "cn": "吃起来像薄荷。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, well I guess we're ready to listen to our dialogue for the first time and it's gonna be kind of fast, but... Don't worry if you don't understand everything because we'll come back and talk about some of the language later.",
+      "cn": "好吧，我想我们准备好第一次听我们的对话了，虽然会有点快，但... 如果您不理解所有内容也没关系，因为我们稍后会回来讨论一些语言。"
+    },
+    {
+      "id": 44,
+      "en": "It's Christmas Eve and I have all these presents to deliver.",
+      "cn": "圣诞前夜，我有这么多礼物要送。"
+    },
+    {
+      "id": 45,
+      "en": "Where's your Christmas spirit?",
+      "cn": "你的圣诞精神在哪里？"
+    },
+    {
+      "id": 46,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts on their stockings?",
+      "cn": "明天所有孩子醒来时，如果发现他们的长袜上没有礼物，会发生什么？"
+    },
+    {
+      "id": 47,
+      "en": "Sorry buddy, you were parked in a no parking zone.",
+      "cn": "对不起，伙计，你停在了禁停区。"
+    },
+    {
+      "id": 48,
+      "en": "You were speeding and you have no ID.",
+      "cn": "你超速了，而且没有身份证。"
+    },
+    {
+      "id": 49,
+      "en": "Besides that, even if we let you go now, your sleigh's been impounded and those reindeer were taken to the city zoo.",
+      "cn": "除此之外，即使我们现在放你走，你的雪橇也被扣押了，那些驯鹿被送到了城市动物园。"
+    },
+    {
+      "id": 50,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 51,
+      "en": "This is unbelievable.",
+      "cn": "这太不可思议了。"
+    },
+    {
+      "id": 52,
+      "en": "What's this world coming to?",
+      "cn": "这个世界怎么了？"
+    },
+    {
+      "id": 53,
+      "en": "Christmas is ruined!",
+      "cn": "圣诞节毁了！"
+    },
+    {
+      "id": 54,
+      "en": "What's that up ahead?",
+      "cn": "前面是什么？"
+    },
+    {
+      "id": 55,
+      "en": "It looks like elves!",
+      "cn": "看起来像精灵！"
+    },
+    {
+      "id": 56,
+      "en": "Whoa!",
+      "cn": "哇！"
+    },
+    {
+      "id": 57,
+      "en": "They're shooting candy canes!",
+      "cn": "他们在射糖果手杖！"
+    },
+    {
+      "id": 58,
+      "en": "Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 59,
+      "en": "Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 60,
+      "en": "We're under heavy attack!",
+      "cn": "我们正在遭受重击！"
+    },
+    {
+      "id": 61,
+      "en": "We need backup!",
+      "cn": "我们需要增援！"
+    },
+    {
+      "id": 62,
+      "en": "Okay, so Santa has escaped from the police car, eh?",
+      "cn": "好的，所以圣诞老人从警车逃脱了，是吗？"
+    },
+    {
+      "id": 63,
+      "en": "Thank God!",
+      "cn": "谢天谢地！"
+    },
+    {
+      "id": 64,
+      "en": "It's like a war over there.",
+      "cn": "那边就像一场战争。"
+    },
+    {
+      "id": 65,
+      "en": "They were really firing everything.",
+      "cn": "他们真的开火了。"
+    },
+    {
+      "id": 66,
+      "en": "I know, I mean those elves are aggressive.",
+      "cn": "我知道，那些精灵很凶猛。"
+    },
+    {
+      "id": 67,
+      "en": "Very aggressive.",
+      "cn": "非常凶猛。"
+    },
+    {
+      "id": 68,
+      "en": "Okay, well we can take a look at some great vocabulary from this dialogue.",
+      "cn": "好吧，我们可以看看这个对话中的一些很棒的词汇。"
+    },
+    {
+      "id": 69,
+      "en": "Why don't we start with our language takeaway for today?",
+      "cn": "我们今天为什么不从我们的语言要点开始呢？"
+    },
+    {
+      "id": 70,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 71,
+      "en": "In today's language takeaway we have five really important words that we hope you will take away from the lesson.",
+      "cn": "在今天的语言要点中，我们有五个非常重要的单词，希望您能从课程中记住。"
+    },
+    {
+      "id": 72,
+      "en": "Exactly, and the first word that we have today is booked.",
+      "cn": "没错，今天我们第一个单词是 booked。"
+    },
+    {
+      "id": 73,
+      "en": "Booked.",
+      "cn": "Booked。"
+    },
+    {
+      "id": 74,
+      "en": "Booked.",
+      "cn": "Booked。"
+    },
+    {
+      "id": 75,
+      "en": "Booked is another way of saying arrested.",
+      "cn": "Booked 是另一个说法，表示被逮捕。"
+    },
+    {
+      "id": 76,
+      "en": "Arrested.",
+      "cn": "被逮捕。"
+    },
+    {
+      "id": 77,
+      "en": "Yeah, it's a slang word, hey?",
+      "cn": "是的，这是一个俚语，对吧？"
+    },
+    {
+      "id": 78,
+      "en": "It's kind of slang, yeah.",
+      "cn": "有点像俚语，是的。"
+    },
+    {
+      "id": 79,
+      "en": "Yeah, it's a slang word.",
+      "cn": "是的，这是一个俚语。"
+    },
+    {
+      "id": 80,
+      "en": "Booked.",
+      "cn": "Booked。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, next word, speeding.",
+      "cn": "好的，下一个单词，speeding。"
+    },
+    {
+      "id": 82,
+      "en": "Speeding.",
+      "cn": "Speeding。"
+    },
+    {
+      "id": 83,
+      "en": "Speeding.",
+      "cn": "Speeding。"
+    },
+    {
+      "id": 84,
+      "en": "Speeding.",
+      "cn": "Speeding。"
+    },
+    {
+      "id": 85,
+      "en": "So Santa was speeding because he was... Going too fast.",
+      "cn": "所以圣诞老人超速是因为..."
+    },
+    {
+      "id": 86,
+      "en": "Driving too fast, yeah.",
+      "cn": "开得太快。"
+    },
+    {
+      "id": 87,
+      "en": "Going over the speed limit.",
+      "cn": "超过了限速。"
+    },
+    {
+      "id": 88,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 89,
+      "en": "Third word today is... Impounded.",
+      "cn": "今天的第三个单词是... Impounded。"
+    },
+    {
+      "id": 90,
+      "en": "Impounded.",
+      "cn": "Impounded。"
+    },
+    {
+      "id": 91,
+      "en": "Impounded.",
+      "cn": "Impounded。"
+    },
+    {
+      "id": 92,
+      "en": "That's when your car gets arrested.",
+      "cn": "这就是你的车被扣押。"
+    },
+    {
+      "id": 93,
+      "en": "Your car gets arrested?",
+      "cn": "你的车被扣押？"
+    },
+    {
+      "id": 94,
+      "en": "Yeah, they take your car to car jail.",
+      "cn": "是的，他们把你的车送到车监狱。"
+    },
+    {
+      "id": 95,
+      "en": "Okay, so my car is in car jail.",
+      "cn": "好的，所以我的车在车监狱里。"
+    },
+    {
+      "id": 96,
+      "en": "I think I understand.",
+      "cn": "我想我明白了。"
+    },
+    {
+      "id": 97,
+      "en": "It's impounded.",
+      "cn": "它被扣押了。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, so the police take my car and I have to... Pay to get it out.",
+      "cn": "好的，所以警察把我的车拿走，我必须... 付钱把它取出来。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, let's move to our next word.",
+      "cn": "好的，让我们继续下一个单词。"
+    },
+    {
+      "id": 100,
+      "en": "Ruined.",
+      "cn": "毁了。"
+    },
+    {
+      "id": 101,
+      "en": "Ruined.",
+      "cn": "毁了。"
+    },
+    {
+      "id": 102,
+      "en": "Ruined.",
+      "cn": "毁了。"
+    },
+    {
+      "id": 103,
+      "en": "Ruined.",
+      "cn": "毁了。"
+    },
+    {
+      "id": 104,
+      "en": "We have a few examples for us to listen to to understand the meaning of this word.",
+      "cn": "我们有几个例子可以听，以理解这个词的意思。"
+    },
+    {
+      "id": 105,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 106,
+      "en": "It's been raining for five days.",
+      "cn": "已经下了五天的雨。"
+    },
+    {
+      "id": 107,
+      "en": "Our vacation is ruined.",
+      "cn": "我们的假期毁了。"
+    },
+    {
+      "id": 108,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 109,
+      "en": "Look at this hole.",
+      "cn": "看这个洞。"
+    },
+    {
+      "id": 110,
+      "en": "You've ruined my favorite pair of jeans.",
+      "cn": "你毁了我最喜欢的牛仔裤。"
+    },
+    {
+      "id": 111,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 112,
+      "en": "Sam, you've been caught stealing from the company.",
+      "cn": "山姆，你被抓到从公司偷东西。"
+    },
+    {
+      "id": 113,
+      "en": "Your chances for a promotion are ruined.",
+      "cn": "你晋升的机会毁了。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, great examples and basically ruined means...",
+      "cn": "好的，很好的例子，基本上毁了的意思是..."
+    },
+    {
+      "id": 115,
+      "en": "Destroyed.",
+      "cn": "毁灭。"
+    },
+    {
+      "id": 116,
+      "en": "Destroyed.",
+      "cn": "毁灭。"
+    },
+    {
+      "id": 117,
+      "en": "Yeah, messed up.",
+      "cn": "是的，搞砸了。"
+    },
+    {
+      "id": 118,
+      "en": "Messed up.",
+      "cn": "搞砸了。"
+    },
+    {
+      "id": 119,
+      "en": "Okay, now for our last word.",
+      "cn": "好的，现在是我们的最后一个词。"
+    },
+    {
+      "id": 120,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 121,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 122,
+      "en": "So now for our last word.",
+      "cn": "所以现在是我们的最后一个词。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, so now for our last word and language takeaway.",
+      "cn": "好的，现在是我们的最后一个词和语言要点。"
+    },
+    {
+      "id": 124,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 125,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 126,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 127,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 128,
+      "en": "So backup is?",
+      "cn": "所以备份是？"
+    },
+    {
+      "id": 129,
+      "en": "Help.",
+      "cn": "帮助。"
+    },
+    {
+      "id": 130,
+      "en": "Help.",
+      "cn": "帮助。"
+    },
+    {
+      "id": 131,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 132,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 133,
+      "en": "So when you call for backup you call for help.",
+      "cn": "所以当你呼叫备份时，你是在呼叫帮助。"
+    },
+    {
+      "id": 134,
+      "en": "Yeah, you see it all the time in war movies, police.",
+      "cn": "是的，你在战争电影、警察中经常看到。"
+    },
+    {
+      "id": 135,
+      "en": "Call for backup.",
+      "cn": "呼叫备份。"
+    },
+    {
+      "id": 136,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 137,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 138,
+      "en": "I think though it's important to point out that here the pronunciation and stress of this phrase is really important, hey?",
+      "cn": "我认为这里的发音和重音真的很重要，嘿？"
+    },
+    {
+      "id": 139,
+      "en": "Yes, yes.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 140,
+      "en": "You have to say backup.",
+      "cn": "你必须说备份。"
+    },
+    {
+      "id": 141,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 142,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 143,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 144,
+      "en": "So both words are stressed at about the same level, hey?",
+      "cn": "所以这两个词的重音大致相同，嘿？"
+    },
+    {
+      "id": 145,
+      "en": "Backup.",
+      "cn": "备份。"
+    },
+    {
+      "id": 146,
+      "en": "Because if you were to say back up... That means to move back.",
+      "cn": "因为如果你说“后退”... 那意味着向后移动。"
+    },
+    {
+      "id": 147,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 148,
+      "en": "Yeah, it's different.",
+      "cn": "是的，这不同。"
+    },
+    {
+      "id": 149,
+      "en": "So backup, backup.",
+      "cn": "所以备份，备份。"
+    },
+    {
+      "id": 150,
+      "en": "Yes, the stress is important.",
+      "cn": "是的，重音很重要。"
+    },
+    {
+      "id": 151,
+      "en": "The stress.",
+      "cn": "重音。"
+    },
+    {
+      "id": 152,
+      "en": "Alright, well you know what?",
+      "cn": "好吧，你知道吗？"
+    },
+    {
+      "id": 153,
+      "en": "I think with those words in mind it's time for us to listen to the dialogue a second time.",
+      "cn": "我认为考虑到这些词，现在是我们第二次听对话的时候了。"
+    },
+    {
+      "id": 154,
+      "en": "Really, fellas?",
+      "cn": "真的，伙计们？"
+    },
+    {
+      "id": 155,
+      "en": "You can't take me to jail.",
+      "cn": "你不能把我带到监狱。"
+    },
+    {
+      "id": 156,
+      "en": "Don't you know who I am?",
+      "cn": "你不知道我是谁吗？"
+    },
+    {
+      "id": 157,
+      "en": "Kris Kringle, you know.",
+      "cn": "克里斯·克林格，你知道的。"
+    },
+    {
+      "id": 158,
+      "en": "Papa Noel, Per Noel, Baba Natale, Shung-dai-lo-ren.",
+      "cn": "圣诞老人，佩尔·诺埃尔，巴巴·纳塔尔，圣诞老人。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 160,
+      "en": "We've heard that one before, haven't we, Joe?",
+      "cn": "我们以前听过这个，对吧，乔？"
+    },
+    {
+      "id": 161,
+      "en": "Yeah, last week we booked this guy who claimed to be the tooth fairy.",
+      "cn": "是的，上周我们逮捕了一个声称是牙仙子的人。"
+    },
+    {
+      "id": 162,
+      "en": "Can you believe that?",
+      "cn": "你能相信吗？"
+    },
+    {
+      "id": 163,
+      "en": "It's Christmas Eve and I have all these presents to deliver.",
+      "cn": "圣诞前夜，我有这么多礼物要送。"
+    },
+    {
+      "id": 164,
+      "en": "Where's your Christmas spirit?",
+      "cn": "你的圣诞精神在哪里？"
+    },
+    {
+      "id": 165,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+      "cn": "明天早上所有孩子醒来时发现他们的袜子里没有礼物会发生什么？"
+    },
+    {
+      "id": 166,
+      "en": "Sorry buddy, you were parked in a no-parking zone.",
+      "cn": "对不起，伙计，你停在了禁停区。"
+    },
+    {
+      "id": 167,
+      "en": "You were speeding and you have no ID.",
+      "cn": "你超速了，而且没有身份证。"
+    },
+    {
+      "id": 168,
+      "en": "Besides that, even if we let you go now, your sleigh has been impounded and those reindeer were taken to the city zoo.",
+      "cn": "除此之外，即使我们现在放你走，你的雪橇也被扣押了，那些驯鹿被送到了市动物园。"
+    },
+    {
+      "id": 169,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 170,
+      "en": "This is unbelievable.",
+      "cn": "这太不可思议了。"
+    },
+    {
+      "id": 171,
+      "en": "What's the world coming to?",
+      "cn": "这个世界怎么了？"
+    },
+    {
+      "id": 172,
+      "en": "Christmas is ruined.",
+      "cn": "圣诞节毁了。"
+    },
+    {
+      "id": 173,
+      "en": "What's that up ahead?",
+      "cn": "前面是什么？"
+    },
+    {
+      "id": 174,
+      "en": "It looks like elves.",
+      "cn": "看起来像精灵。"
+    },
+    {
+      "id": 175,
+      "en": "Whoa, they're shooting candy canes?",
+      "cn": "哇，他们在射击糖果棒？"
+    },
+    {
+      "id": 176,
+      "en": "Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 177,
+      "en": "Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 178,
+      "en": "We are under heavy attack.",
+      "cn": "我们正遭受重击。"
+    },
+    {
+      "id": 179,
+      "en": "We need backup.",
+      "cn": "我们需要备份。"
+    },
+    {
+      "id": 180,
+      "en": "Okay, so without the sound effects and without any noise, I think it's much more clear now, right?",
+      "cn": "好的，没有音效和噪音，我认为现在更清楚了，对吧？"
+    },
+    {
+      "id": 181,
+      "en": "A little less dramatic.",
+      "cn": "少了一点戏剧性。"
+    },
+    {
+      "id": 182,
+      "en": "Less dramatic, but good language.",
+      "cn": "少了一点戏剧性，但语言很好。"
+    },
+    {
+      "id": 183,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 184,
+      "en": "Speaking of good language, there's some great phrases I want to look at in this dialogue.",
+      "cn": "说到好语言，我想在这个对话中看看一些很好的短语。"
+    },
+    {
+      "id": 185,
+      "en": "And so let's do that in Putting It Together.",
+      "cn": "所以让我们在“整合”中做到这一点。"
+    },
+    {
+      "id": 186,
+      "en": "Putting it together.",
+      "cn": "整合。"
+    },
+    {
+      "id": 187,
+      "en": "We have two phrases in Putting It Together that we want to show you how you can use in many different situations.",
+      "cn": "在“整合”中，我们有两个短语，我们想向你展示如何在许多不同的情况下使用。"
+    },
+    {
+      "id": 188,
+      "en": "In the dialogue, we heard this.",
+      "cn": "在对话中，我们听到这个。"
+    },
+    {
+      "id": 189,
+      "en": "Last week we booked this guy who claimed to be a tooth fairy.",
+      "cn": "上周我们逮捕了一个声称是牙仙子的人。"
+    },
+    {
+      "id": 190,
+      "en": "Last week we booked this guy who claimed to be a tooth fairy.",
+      "cn": "上周我们逮捕了一个声称是牙仙子的人。"
+    },
+    {
+      "id": 191,
+      "en": "So when you claim to be something, you're saying that you are something, but it might not be true, right?",
+      "cn": "所以当你声称是某种东西时，你是在说你是某种东西，但这可能不是真的，对吧？"
+    },
+    {
+      "id": 192,
+      "en": "Right, so for example, you can say, this woman claimed to be your wife.",
+      "cn": "对，所以例如，你可以说，这个女人声称是你的妻子。"
+    },
+    {
+      "id": 193,
+      "en": "But she's not.",
+      "cn": "但她不是。"
+    },
+    {
+      "id": 194,
+      "en": "But she's not.",
+      "cn": "但她不是。"
+    },
+    {
+      "id": 195,
+      "en": "Okay, we have a few other examples of how you can use the phrase claim to.",
+      "cn": "好的，我们还有一些其他例子，说明如何使用短语“声称”。"
+    },
+    {
+      "id": 196,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 197,
+      "en": "Daniel claimed to be the son of a government minister, but later we found out that he was lying.",
+      "cn": "丹尼尔声称是政府部长的儿子，但后来我们发现他在撒谎。"
+    },
+    {
+      "id": 198,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 199,
+      "en": "The criminals claim to have a gun.",
+      "cn": "罪犯声称有一把枪。"
+    },
+    {
+      "id": 200,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 201,
+      "en": "This man here is claiming to know your father.",
+      "cn": "这个人声称认识你的父亲。"
+    },
+    {
+      "id": 202,
+      "en": "That's such a great phrase.",
+      "cn": "这真是个好短语。"
+    },
+    {
+      "id": 203,
+      "en": "Just by putting it together with another verb means something different, but still expresses that same idea.",
+      "cn": "只需将其与另一个动词组合在一起就意味着不同的东西，但仍然表达相同的想法。"
+    },
+    {
+      "id": 204,
+      "en": "Right, claim to have.",
+      "cn": "对，声称拥有。"
+    },
+    {
+      "id": 205,
+      "en": "She claimed to have a baby or something.",
+      "cn": "她声称有一个婴儿或其他什么。"
+    },
+    {
+      "id": 206,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 207,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 208,
+      "en": "Okay, so let's move to our next phrase.",
+      "cn": "好吧，我们继续下一个短语。"
+    },
+    {
+      "id": 209,
+      "en": "Under heavy.",
+      "cn": "在重压下。"
+    },
+    {
+      "id": 210,
+      "en": "Under heavy.",
+      "cn": "在重压下。"
+    },
+    {
+      "id": 211,
+      "en": "Under heavy.",
+      "cn": "在重压下。"
+    },
+    {
+      "id": 212,
+      "en": "So in the dialogue, they said we're under heavy attack.",
+      "cn": "所以在对话中，他们说我们正在遭受猛烈攻击。"
+    },
+    {
+      "id": 213,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 214,
+      "en": "You can also use this phrase in a couple of other ways.",
+      "cn": "你也可以用这个短语以其他几种方式。"
+    },
+    {
+      "id": 215,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 216,
+      "en": "We're in the heavy attack.",
+      "cn": "我们正在遭受猛烈攻击。"
+    },
+    {
+      "id": 217,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 218,
+      "en": "We're under heavy fire.",
+      "cn": "我们在猛烈的火力下。"
+    },
+    {
+      "id": 219,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 220,
+      "en": "The Prime Minister is in the heavy security.",
+      "cn": "总理在重重安保中。"
+    },
+    {
+      "id": 221,
+      "en": "So if you're under heavy fire, means that there's a lot of fire.",
+      "cn": "所以如果你在猛烈的火力下，意味着有很多火力。"
+    },
+    {
+      "id": 222,
+      "en": "Like gunfire.",
+      "cn": "像枪火。"
+    },
+    {
+      "id": 223,
+      "en": "Gunfire, yeah.",
+      "cn": "枪火，是的。"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, not like fire fire.",
+      "cn": "是的，不是那种火。"
+    },
+    {
+      "id": 225,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 226,
+      "en": "Okay, and if you're under heavy security.",
+      "cn": "好的，如果你在重重安保下。"
+    },
+    {
+      "id": 227,
+      "en": "It means that you have a lot of security, a lot of bodyguards or a lot of... Right, like a prime minister or president will be under heavy security.",
+      "cn": "这意味着你有很多安保，很多保镖或很多……对，就像总理或总统会在重重安保下。"
+    },
+    {
+      "id": 228,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 229,
+      "en": "Okay, a couple of great phrases.",
+      "cn": "好的，一些很好的短语。"
+    },
+    {
+      "id": 230,
+      "en": "Really good phrases, and with this we can listen to our dialogue a third time.",
+      "cn": "真不错的短语，接下来我们可以第三次听我们的对话。"
+    },
+    {
+      "id": 231,
+      "en": "Really fellas, you can't take me to jail.",
+      "cn": "真的，伙计们，你们不能把我送进监狱。"
+    },
+    {
+      "id": 232,
+      "en": "Don't you know who I am?",
+      "cn": "你不知道我是谁吗？"
+    },
+    {
+      "id": 233,
+      "en": "Chris Kringle, you know.",
+      "cn": "克里斯·克林格，你知道的。"
+    },
+    {
+      "id": 234,
+      "en": "Papa Noel, Perry Noel, Bobbo Natale.",
+      "cn": "圣诞老人，佩里·诺埃尔，博博·纳塔尔。"
+    },
+    {
+      "id": 235,
+      "en": "Shouldn't have known that.",
+      "cn": "不应该知道这个。"
+    },
+    {
+      "id": 236,
+      "en": "Yeah, yeah, we've heard that one before, haven't we Joe?",
+      "cn": "是的，是的，我们以前听过这个，不是吗，乔？"
+    },
+    {
+      "id": 237,
+      "en": "Yeah, last week we booked this guy who claimed to be a tooth fairy.",
+      "cn": "是的，上周我们逮捕了一个声称是牙仙子的人。"
+    },
+    {
+      "id": 238,
+      "en": "Can you believe that?",
+      "cn": "你能相信吗？"
+    },
+    {
+      "id": 239,
+      "en": "It's Christmas Eve and I have all these presents to deliver.",
+      "cn": "圣诞前夜，我有这么多礼物要送。"
+    },
+    {
+      "id": 240,
+      "en": "Where's your Christmas spirit?",
+      "cn": "你的圣诞精神在哪里？"
+    },
+    {
+      "id": 241,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+      "cn": "明天所有孩子醒来时发现他们的袜子里没有礼物会发生什么？"
+    },
+    {
+      "id": 242,
+      "en": "Sorry buddy, you were parked in a no parking zone, you were speeding, and you have no ID.",
+      "cn": "对不起，伙计，你停在了禁停区，你超速了，而且你没有身份证。"
+    },
+    {
+      "id": 243,
+      "en": "Besides that, even if we let you go now, your sleigh's been impounded and those reindeer were taken to the city zoo.",
+      "cn": "除此之外，即使我们现在放你走，你的雪橇也被扣押了，那些驯鹿被送到了城市动物园。"
+    },
+    {
+      "id": 244,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 245,
+      "en": "This is unbelievable.",
+      "cn": "这太不可思议了。"
+    },
+    {
+      "id": 246,
+      "en": "What's this world coming to?",
+      "cn": "这个世界怎么了？"
+    },
+    {
+      "id": 247,
+      "en": "Christmas is ruined.",
+      "cn": "圣诞节毁了。"
+    },
+    {
+      "id": 248,
+      "en": "What's that up ahead?",
+      "cn": "前面是什么？"
+    },
+    {
+      "id": 249,
+      "en": "It Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 250,
+      "en": "Mayday!",
+      "cn": "救命！"
+    },
+    {
+      "id": 251,
+      "en": "We're under heavy attack!",
+      "cn": "我们正在遭受猛烈攻击！"
+    },
+    {
+      "id": 252,
+      "en": "We need backup!",
+      "cn": "我们需要支援！"
+    },
+    {
+      "id": 253,
+      "en": "So Marco, the police mentioned something about the tooth fairy.",
+      "cn": "所以马尔科，警察提到了一些关于牙仙子的事情。"
+    },
+    {
+      "id": 254,
+      "en": "The tooth fairy.",
+      "cn": "牙仙子。"
+    },
+    {
+      "id": 255,
+      "en": "I don't know, maybe some of our listeners don't know the story about the tooth fairy.",
+      "cn": "我不知道，也许我们的听众不知道牙仙子的故事。"
+    },
+    {
+      "id": 256,
+      "en": "So, um, can I go ahead and say it?",
+      "cn": "所以，我可以说吗？"
+    },
+    {
+      "id": 257,
+      "en": "Yes, go ahead.",
+      "cn": "是的，继续。"
+    },
+    {
+      "id": 258,
+      "en": "Okay, well, when you're small and you lose a tooth... Your baby teeth.",
+      "cn": "好吧，当你小的时候，失去一颗牙齿……你的乳牙。"
+    },
+    {
+      "id": 259,
+      "en": "Yeah, you put it underneath your pillow.",
+      "cn": "是的，你把它放在枕头下面。"
+    },
+    {
+      "id": 260,
+      "en": "Uh-huh.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 261,
+      "en": "And then you go to sleep.",
+      "cn": "然后你去睡觉。"
+    },
+    {
+      "id": 262,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 263,
+      "en": "And then in the night, the tooth fairy comes into the house, flies into the house, sneaks under your pillow, takes the tooth, and puts money there.",
+      "cn": "然后在夜里，牙仙子会进屋，飞进屋，悄悄地在你枕头下，拿走牙齿，放钱。"
+    },
+    {
+      "id": 264,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 265,
+      "en": "So this is a story that parents tell their kids about what happens to their baby teeth.",
+      "cn": "所以这是父母告诉孩子们关于他们乳牙发生了什么的故事。"
+    },
+    {
+      "id": 266,
+      "en": "And they get money exchanged for it.",
+      "cn": "他们会得到钱作为交换。"
+    },
+    {
+      "id": 267,
+      "en": "Right, so I guess it takes away the sadness of losing that tooth.",
+      "cn": "对，所以我想这可以减轻失去那颗牙齿的悲伤。"
+    },
+    {
+      "id": 268,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 269,
+      "en": "But in South America, for example, we have the tooth mouse.",
+      "cn": "但在南美，例如，我们有牙鼠。"
+    },
+    {
+      "id": 270,
+      "en": "The tooth mouse?",
+      "cn": "牙鼠？"
+    },
+    {
+      "id": 271,
+      "en": "Yes, the tooth mouse.",
+      "cn": "是的，牙鼠。"
+    },
+    {
+      "id": 272,
+      "en": "Okay, what is it, how is it called in Spanish?",
+      "cn": "好吧，它在西班牙语中怎么称呼？"
+    },
+    {
+      "id": 273,
+      "en": "Oh, well, some, in some places it's called Ratoncito Perez.",
+      "cn": "哦，在某些地方它叫拉通西托·佩雷斯。"
+    },
+    {
+      "id": 274,
+      "en": "Uh-huh.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 275,
+      "en": "Like, it has a last name, Perez.",
+      "cn": "它有一个姓，佩雷斯。"
+    },
+    {
+      "id": 276,
+      "en": "Oh, really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 277,
+      "en": "In other places, it's just called Ratoncito, which means mouse.",
+      "cn": "在其他地方，它只是叫拉通西托，意思是鼠。"
+    },
+    {
+      "id": 278,
+      "en": "Okay, so it'd be like tooth fairy Smith.",
+      "cn": "好吧，那就像牙仙子·史密斯。"
+    },
+    {
+      "id": 279,
+      "en": "Yeah, tooth fairy Smith.",
+      "cn": "是的，牙仙子·史密斯。"
+    },
+    {
+      "id": 280,
+      "en": "And it's the same thing.",
+      "cn": "这就是同样的事情。"
+    },
+    {
+      "id": 281,
+      "en": "It's a little mouse that comes in and steals a little tooth from you and leaves money in exchange.",
+      "cn": "这是一个小鼠，进来偷走你的一颗小牙齿，留下钱作为交换。"
+    },
+    {
+      "id": 282,
+      "en": "Cool, very cool.",
+      "cn": "酷，非常酷。"
+    },
+    {
+      "id": 283,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 284,
+      "en": "So we go from Santa Claus to Guns and Wars to the tooth fairy.",
+      "cn": "所以我们从圣诞老人到枪支和战争再到牙仙子。"
+    },
+    {
+      "id": 285,
+      "en": "Only at EnglishPod.",
+      "cn": "只有在EnglishPod。"
+    },
+    {
+      "id": 286,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 287,
+      "en": "All right, guys.",
+      "cn": "好吧，伙计们。"
+    },
+    {
+      "id": 288,
+      "en": "I hope you enjoyed today's lesson.",
+      "cn": "希望你们喜欢今天的课程。"
+    },
+    {
+      "id": 289,
+      "en": "If you have any questions or comments about the lesson, please visit our website EnglishPod.com.",
+      "cn": "如果你对课程有任何问题或评论，请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 290,
+      "en": "All right, well, we're out of time.",
+      "cn": "好吧，我们没时间了。"
+    },
+    {
+      "id": 291,
+      "en": "We got to go.",
+      "cn": "我们得走了。"
+    },
+    {
+      "id": 292,
+      "en": "We've got some Christmas shopping to do.",
+      "cn": "我们还有一些圣诞购物要做。"
+    },
+    {
+      "id": 293,
+      "en": "Yes, Christmas shopping.",
+      "cn": "是的，圣诞购物。"
+    },
+    {
+      "id": 294,
+      "en": "So we'll see you guys later.",
+      "cn": "所以我们稍后见。"
+    },
+    {
+      "id": 295,
+      "en": "And until then, it's goodbye.",
+      "cn": "在那之前，再见。"
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0361",
+  "title": "EnglishPod 中级 0361",
+  "totalSegments": 197,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and today we're talking a little bit about food and about your health.",
+      "cn": "我叫Katherine，今天我们要聊聊食物和健康。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're going to take a look at our favorite, maybe, kind of food.",
+      "cn": "今天我们要看看我们最喜欢的食物。"
+    },
+    {
+      "id": 6,
+      "en": "We're taking a look at the fast food, all these yummy but not very healthy types of food.",
+      "cn": "我们要讨论快餐，这些美味但不太健康的食物。"
+    },
+    {
+      "id": 7,
+      "en": "Yeah, we are.",
+      "cn": "是的。"
+    },
+    {
+      "id": 8,
+      "en": "So let's listen to our dialogue, and when we come back we'll be talking about what some of these foods are and what some of the phrases you've heard mean.",
+      "cn": "那么让我们听听对话，回来后我们会谈谈这些食物是什么，以及你听到的一些短语的意思。"
+    },
+    {
+      "id": 9,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 10,
+      "en": "Let's order up something to eat.",
+      "cn": "我们点点吃的吧。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, maybe we can order a soup and a salad from the restaurant down the street.",
+      "cn": "好吧，也许我们可以从街上的餐厅点一份汤和沙拉。"
+    },
+    {
+      "id": 12,
+      "en": "I was thinking of getting a hamburger, fries, and a chocolate sundae.",
+      "cn": "我在想要一个汉堡、薯条和巧克力圣代。"
+    },
+    {
+      "id": 13,
+      "en": "You eat too much junk food.",
+      "cn": "你吃太多垃圾食品了。"
+    },
+    {
+      "id": 14,
+      "en": "That sort of stuff clogs up your arteries and is very high in cholesterol.",
+      "cn": "这种东西会堵塞你的动脉，而且胆固醇很高。"
+    },
+    {
+      "id": 15,
+      "en": "Well, I never seem to gain weight, so I don't mind.",
+      "cn": "嗯，我似乎从来没有增重，所以我不在乎。"
+    },
+    {
+      "id": 16,
+      "en": "It's not only about getting fat or not.",
+      "cn": "这不仅仅是关于是否变胖。"
+    },
+    {
+      "id": 17,
+      "en": "It's about being healthy.",
+      "cn": "这关乎健康。"
+    },
+    {
+      "id": 18,
+      "en": "You could really have some health problems later on.",
+      "cn": "你可能以后会有一些健康问题。"
+    },
+    {
+      "id": 19,
+      "en": "How about pizza or maybe some fried chicken?",
+      "cn": "比如比萨或者炸鸡怎么样？"
+    },
+    {
+      "id": 20,
+      "en": "Better yet, let's order some hot dogs.",
+      "cn": "更好的是，我们点一些热狗吧。"
+    },
+    {
+      "id": 21,
+      "en": "You're a lost cause.",
+      "cn": "你真是个无药可救的人。"
+    },
+    {
+      "id": 22,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 23,
+      "en": "So now let's take a look at Language Takeaway.",
+      "cn": "现在让我们看看语言要点。"
+    },
+    {
+      "id": 24,
+      "en": "So first up on Language Takeaway is a very unhealthy food.",
+      "cn": "首先，语言要点是非常不健康的食物。"
+    },
+    {
+      "id": 25,
+      "en": "It's called a chocolate sundae.",
+      "cn": "它叫巧克力圣代。"
+    },
+    {
+      "id": 26,
+      "en": "That's right, we wanted to order hamburger, French fries, and a chocolate sundae.",
+      "cn": "没错，我们想点汉堡、薯条和巧克力圣代。"
+    },
+    {
+      "id": 27,
+      "en": "So chocolate, we know that this is the flavor that comes from cocoa.",
+      "cn": "所以巧克力，我们知道这是来自可可的味道。"
+    },
+    {
+      "id": 28,
+      "en": "But what is a sundae?",
+      "cn": "但圣代是什么？"
+    },
+    {
+      "id": 29,
+      "en": "Well, basically, a sundae is a kind of ice cream dessert.",
+      "cn": "基本上，圣代是一种冰淇淋甜点。"
+    },
+    {
+      "id": 30,
+      "en": "It comes in a cup or a bowl, and it's usually vanilla ice cream with chocolate sauce, and then oftentimes a cherry on top.",
+      "cn": "它通常装在杯子或碗里，通常是香草冰淇淋加巧克力酱，通常上面还会有一颗樱桃。"
+    },
+    {
+      "id": 31,
+      "en": "Okay, so as you can see, the word is pronounced exactly like the day, sundae, but it has a different spelling in the end.",
+      "cn": "好吧，正如你所看到的，这个词的发音和星期天（sundae）完全一样，但最后的拼写不同。"
+    },
+    {
+      "id": 32,
+      "en": "S -U-N-D-A-E, sundae.",
+      "cn": "S -U-N-D-A-E，圣代。"
+    },
+    {
+      "id": 33,
+      "en": "Right, so this is a chocolate sundae.",
+      "cn": "对，所以这是巧克力圣代。"
+    },
+    {
+      "id": 34,
+      "en": "So when you see this spelling, a sundae with an E, that's the dessert.",
+      "cn": "所以当你看到这个拼写，带有E的圣代，那就是甜点。"
+    },
+    {
+      "id": 35,
+      "en": "If you see it with a Y, that's the day.",
+      "cn": "如果你看到带Y的，那就是星期天。"
+    },
+    {
+      "id": 36,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 37,
+      "en": "So chocolate sundae, actually a very delicious dessert, but remember it's ice cream.",
+      "cn": "所以巧克力圣代，实际上是一种非常美味的甜点，但记住它是冰淇淋。"
+    },
+    {
+      "id": 38,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 39,
+      "en": "Now, all of these types of food, hamburger, chocolate sundae, it's called junk food.",
+      "cn": "现在，所有这些食物，汉堡、巧克力圣代，都叫垃圾食品。"
+    },
+    {
+      "id": 40,
+      "en": "Junk food.",
+      "cn": "垃圾食品。"
+    },
+    {
+      "id": 41,
+      "en": "Well, food, you know.",
+      "cn": "嗯，食物，你知道的。"
+    },
+    {
+      "id": 42,
+      "en": "Junk.",
+      "cn": "垃圾。"
+    },
+    {
+      "id": 43,
+      "en": "What is an example of junk, Marco?",
+      "cn": "垃圾的例子是什么，Marco？"
+    },
+    {
+      "id": 44,
+      "en": "Well, something that's not good or useful anymore.",
+      "cn": "嗯，指的是不再好或有用的东西。"
+    },
+    {
+      "id": 45,
+      "en": "So maybe you have trash that you need to get rid of, like an old TV.",
+      "cn": "所以也许你有需要处理的垃圾，比如一台旧电视。"
+    },
+    {
+      "id": 46,
+      "en": "That's junk.",
+      "cn": "那就是垃圾。"
+    },
+    {
+      "id": 47,
+      "en": "So my mom would always say, throw away this junk.",
+      "cn": "我妈妈总是说，扔掉这些垃圾。"
+    },
+    {
+      "id": 48,
+      "en": "It's stuff that you don't need, so junk is things that you would throw away.",
+      "cn": "这是你不需要的东西，所以垃圾是你会扔掉的东西。"
+    },
+    {
+      "id": 49,
+      "en": "Yeah, junk food is the kind of food that's not healthy for you.",
+      "cn": "是的，垃圾食品是不健康的食物。"
+    },
+    {
+      "id": 50,
+      "en": "It's the food that you shouldn't eat, but it tends to be really delicious.",
+      "cn": "这是你不应该吃的食物，但它往往非常美味。"
+    },
+    {
+      "id": 51,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 52,
+      "en": "So, for example, the hamburger, French fries, a chocolate sundae, all this would fall under this category of junk food.",
+      "cn": "所以，例如，汉堡、薯条、巧克力圣代，所有这些都属于垃圾食品的范畴。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "And one of the things about junk food is that it's high in cholesterol.",
+      "cn": "垃圾食品的一个特点是它的胆固醇很高。"
+    },
+    {
+      "id": 55,
+      "en": "Now, what is cholesterol, Marco?",
+      "cn": "现在，胆固醇是什么，Marco？"
+    },
+    {
+      "id": 56,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 57,
+      "en": "So you always have to be careful.",
+      "cn": "所以你总是要小心。"
+    },
+    {
+      "id": 58,
+      "en": "Your doctor says that you shouldn't have, or you have to be careful about having high cholesterol, and that's just basically, it's a type of fat that is found in animal products.",
+      "cn": "你的医生说你不应该有，或者你必须小心高胆固醇，这基本上是一种在动物产品中发现的脂肪。"
+    },
+    {
+      "id": 59,
+      "en": "So, for example, beef has cholesterol, and it's dangerous because it could maybe cause health problems.",
+      "cn": "例如，牛肉含有胆固醇，这很危险，因为它可能导致健康问题。"
+    },
+    {
+      "id": 60,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 61,
+      "en": "So my friend needed to lower his cholesterol, and his doctor told him he should eat less red meat, eat more vegetables and fruits instead.",
+      "cn": "所以我朋友需要降低他的胆固醇，他的医生告诉他应该少吃红肉，多吃蔬菜和水果。"
+    },
+    {
+      "id": 62,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 63,
+      "en": "So cholesterol is, you'll see it all the time when you're shopping, you'll see that it's low in cholesterol, or no sugar, or no calories, stuff like that.",
+      "cn": "所以胆固醇，你在购物时会经常看到，低胆固醇，或者无糖，或者无卡路里，类似的东西。"
+    },
+    {
+      "id": 64,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 65,
+      "en": "Now, a food that is very, very high in cholesterol is fried chicken, but it's also very delicious.",
+      "cn": "现在，一种胆固醇非常高的食物是炸鸡，但它也非常美味。"
+    },
+    {
+      "id": 66,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 67,
+      "en": "Fried chicken.",
+      "cn": "炸鸡。"
+    },
+    {
+      "id": 68,
+      "en": "Now, as you see, the first word there is fried, and that means that it was cooked in hot oil.",
+      "cn": "现在，正如你所看到的，第一个词是炸，这意味着它是在热油中煮的。"
+    },
+    {
+      "id": 69,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 70,
+      "en": "And what's important to remember about most American fried chicken is that the chicken is usually put in a batter, so like a milk, egg, flour, sauce, and then it's fried.",
+      "cn": "重要的是要记住，大多数美国炸鸡通常会裹上面糊，比如牛奶、鸡蛋、面粉、酱料，然后再炸。"
+    },
+    {
+      "id": 71,
+      "en": "So on the outside it's very, very crispy and salty.",
+      "cn": "所以外面非常脆且咸。"
+    },
+    {
+      "id": 72,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 73,
+      "en": "So it's covered in like a type of bread, like a crispy bread.",
+      "cn": "所以它被覆盖在一种面包上，像脆皮面包。"
+    },
+    {
+      "id": 74,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 75,
+      "en": "It's usually very greasy, so when you eat it you have lots of grease on your fingers.",
+      "cn": "通常非常油腻，所以当你吃的时候，手上会有很多油。"
+    },
+    {
+      "id": 76,
+      "en": "But one of the reasons it tastes so good is because as you say, Marco, it's fried in oil.",
+      "cn": "但它之所以好吃的原因之一是因为，正如你所说，Marco，它是在油中炸的。"
+    },
+    {
+      "id": 77,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 78,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 79,
+      "en": "So this is all the vocab that we have for language takeaway.",
+      "cn": "这就是我们为语言要点准备的所有词汇。"
+    },
+    {
+      "id": 80,
+      "en": "Let's listen to the dialogue again.",
+      "cn": "让我们再听一遍对话。"
+    },
+    {
+      "id": 81,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 82,
+      "en": "Let's order up something to eat.",
+      "cn": "我们点点吃的吧。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, maybe we can order a soup and a salad from the restaurant down the street.",
+      "cn": "好吧，也许我们可以从街上的餐厅点一份汤和沙拉。"
+    },
+    {
+      "id": 84,
+      "en": "I was thinking of getting a hamburger, fries, and a chocolate sundae.",
+      "cn": "我在想要一个汉堡、薯条和巧克力圣代。"
+    },
+    {
+      "id": 85,
+      "en": "You eat too much junk food.",
+      "cn": "你吃太多垃圾食品了。"
+    },
+    {
+      "id": 86,
+      "en": "That sort of stuff clogs up your arteries and is very high in cholesterol.",
+      "cn": "这种东西会堵塞你的动脉，而且胆固醇很高。"
+    },
+    {
+      "id": 87,
+      "en": "Well, I never seem to gain weight, so I don't mind.",
+      "cn": "嗯，我似乎从来没有增重，所以我不在乎。"
+    },
+    {
+      "id": 88,
+      "en": "It's not only about getting fat or not.",
+      "cn": "这不仅仅是关于是否变胖。"
+    },
+    {
+      "id": 89,
+      "en": "It's about being healthy.",
+      "cn": "这关乎健康。"
+    },
+    {
+      "id": 90,
+      "en": "You could really have some health problems later on.",
+      "cn": "你可能以后会有一些健康问题。"
+    },
+    {
+      "id": 91,
+      "en": "How about pizza or maybe some fried chicken?",
+      "cn": "比如比萨或者炸鸡怎么样？"
+    },
+    {
+      "id": 92,
+      "en": "Better yet, let's order some hot dogs.",
+      "cn": "更好的是，我们点一些热狗吧。"
+    },
+    {
+      "id": 93,
+      "en": "You're a lost cause.",
+      "cn": "你真是个无药可救的人。"
+    },
+    {
+      "id": 94,
+      "en": "Alright, now it's time for some phrases on Fluency Builder.",
+      "cn": "好吧，现在是时候学习一些流利表达的短语了。"
+    },
+    {
+      "id": 95,
+      "en": "So one of the first phrases is actually something that I'm excited to talk about because it comes up a lot in directions, when we're giving people directions somewhere.",
+      "cn": "所以第一个短语实际上是我很兴奋想谈的，因为它在给人指路时经常出现。"
+    },
+    {
+      "id": 96,
+      "en": "So one of the people in the dialogue said, We can order a soup and salad from the restaurant down the street.",
+      "cn": "对话中的一个人说，我们可以从街上的餐厅点一份汤和沙拉。"
+    },
+    {
+      "id": 97,
+      "en": "Right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "So you're basically telling the person where the restaurant is and when you say something is down the street, it means that it's nearby.",
+      "cn": "所以你基本上是在告诉对方餐厅在哪里，当你说某个地方在街道尽头时，意味着它就在附近。"
+    },
+    {
+      "id": 99,
+      "en": "It is.",
+      "cn": "是的。"
+    },
+    {
+      "id": 100,
+      "en": "It's nearby.",
+      "cn": "它就在附近。"
+    },
+    {
+      "id": 101,
+      "en": "It's on the same street or it's just a few minutes walk from where you are now.",
+      "cn": "它在同一条街上，或者离你现在的位置只需几分钟的步行。"
+    },
+    {
+      "id": 102,
+      "en": "Right, right.",
+      "cn": "对，对。"
+    },
+    {
+      "id": 103,
+      "en": "So you can say, My apartment is just down the street from this park.",
+      "cn": "所以你可以说，我的公寓就在这个公园的街下。"
+    },
+    {
+      "id": 104,
+      "en": "So it's very close.",
+      "cn": "所以它非常近。"
+    },
+    {
+      "id": 105,
+      "en": "Or you could say, I know him.",
+      "cn": "或者你可以说，我认识他。"
+    },
+    {
+      "id": 106,
+      "en": "He lived down the street from me when we were children.",
+      "cn": "他小时候住在我家街下。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, so he lived really, really close to you.",
+      "cn": "好吧，他真的离你很近。"
+    },
+    {
+      "id": 108,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 109,
+      "en": "Now, when we were talking about junk food and we were talking about how it's not healthy, we said that junk food clogs up your arteries.",
+      "cn": "现在，当我们谈论垃圾食品时，我们说它不健康，我们说垃圾食品会堵塞你的动脉。"
+    },
+    {
+      "id": 110,
+      "en": "Alright, a couple important words here to clog up arteries.",
+      "cn": "好吧，这里有几个重要的词，堵塞动脉。"
+    },
+    {
+      "id": 111,
+      "en": "The verb to clog.",
+      "cn": "动词堵塞。"
+    },
+    {
+      "id": 112,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 113,
+      "en": "Clog with a G.",
+      "cn": "堵塞，带G。"
+    },
+    {
+      "id": 114,
+      "en": "It means it gets in the way or obstructs it.",
+      "cn": "意思是它妨碍或阻塞了。"
+    },
+    {
+      "id": 115,
+      "en": "Alright, so for example, if a drain, in my sink, if a drain is clogged the water does not go down.",
+      "cn": "好吧，例如，如果我水槽的排水管被堵塞，水就无法流下去。"
+    },
+    {
+      "id": 116,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 117,
+      "en": "So the water starts to build and build and build and actually it's very dangerous because if it comes up too much the water will go on the floor.",
+      "cn": "所以水开始积聚，实际上这非常危险，因为如果水上升太多，水会流到地板上。"
+    },
+    {
+      "id": 118,
+      "en": "But that's a drain, that's a sink.",
+      "cn": "但那是排水管，那是水槽。"
+    },
+    {
+      "id": 119,
+      "en": "If you're talking about the heart, you would say that cholesterol clogs up your arteries.",
+      "cn": "如果你在谈论心脏，你会说胆固醇堵塞了你的动脉。"
+    },
+    {
+      "id": 120,
+      "en": "Right, so your arteries are like these tubes where blood passes and of course if they're clogged up then blood can't pass.",
+      "cn": "对，所以你的动脉就像这些血液通过的管道，当然如果它们被堵塞，血液就无法通过。"
+    },
+    {
+      "id": 121,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 122,
+      "en": "And if it's very serious, people sometimes have to have heart surgery to clear those arteries, to take the blockage, the clogging away from the arteries.",
+      "cn": "如果情况非常严重，人们有时需要进行心脏手术来清理这些动脉，去除堵塞。"
+    },
+    {
+      "id": 123,
+      "en": "That's right, that's right.",
+      "cn": "没错，没错。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, so that is to clog something up or something is clogged up.",
+      "cn": "好吧，这就是堵塞某物或某物被堵塞。"
+    },
+    {
+      "id": 125,
+      "en": "Now, moving on, when we were giving suggestions we said, alright, well how about pizza or maybe some fried chicken.",
+      "cn": "现在，继续，当我们给出建议时，我们说，好吧，披萨怎么样，或者一些炸鸡。"
+    },
+    {
+      "id": 126,
+      "en": "Better yet, let's order some hot dogs.",
+      "cn": "更好的是，让我们点一些热狗。"
+    },
+    {
+      "id": 127,
+      "en": "Alright, now this is a great phrase as you say, Marco, for offering a suggestion.",
+      "cn": "好吧，现在这是一个很好的短语，正如你所说，Marco，提供建议。"
+    },
+    {
+      "id": 128,
+      "en": "You could say, I think we should eat hamburgers.",
+      "cn": "你可以说，我认为我们应该吃汉堡。"
+    },
+    {
+      "id": 129,
+      "en": "Better yet, okay, so what does this mean?",
+      "cn": "更好的是，好吧，这是什么意思？"
+    },
+    {
+      "id": 130,
+      "en": "This means I actually had a better idea while I was telling you my other idea.",
+      "cn": "这意味着我在告诉你我的其他想法时，实际上有了一个更好的主意。"
+    },
+    {
+      "id": 131,
+      "en": "So it can be used in the middle of a sentence like here, right?",
+      "cn": "所以它可以在句子中间使用，就像这里，对吧？"
+    },
+    {
+      "id": 132,
+      "en": "It's kind of like an interjection.",
+      "cn": "这有点像插入语。"
+    },
+    {
+      "id": 133,
+      "en": "Better yet, you know what, let's get some pizza.",
+      "cn": "更好的是，你知道吗，让我们去吃披萨。"
+    },
+    {
+      "id": 134,
+      "en": "So it's better than the idea you just had.",
+      "cn": "所以这比你刚才的想法更好。"
+    },
+    {
+      "id": 135,
+      "en": "So let's go swimming.",
+      "cn": "所以让我们去游泳。"
+    },
+    {
+      "id": 136,
+      "en": "Better yet, let's go play basketball.",
+      "cn": "更好的是，让我们去打篮球。"
+    },
+    {
+      "id": 137,
+      "en": "Right, exactly.",
+      "cn": "对，正是如此。"
+    },
+    {
+      "id": 138,
+      "en": "Now, towards the end, our friend said, you know what, you're a lost cause.",
+      "cn": "现在，在结束时，我们的朋友说，你知道吗，你是个无可救药的人。"
+    },
+    {
+      "id": 139,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 140,
+      "en": "What does this phrase mean?",
+      "cn": "这个短语是什么意思？"
+    },
+    {
+      "id": 141,
+      "en": "You're a lost cause.",
+      "cn": "你是个无可救药的人。"
+    },
+    {
+      "id": 142,
+      "en": "It's an interesting phrase.",
+      "cn": "这是一个有趣的短语。"
+    },
+    {
+      "id": 143,
+      "en": "This is basically a way of saying I can do nothing to change you.",
+      "cn": "这基本上是说我无能为力改变你。"
+    },
+    {
+      "id": 144,
+      "en": "You have a bad habit or you have this bad quality and anything I do, it's not going to help.",
+      "cn": "你有一个坏习惯或坏品质，我所做的任何事情都不会有帮助。"
+    },
+    {
+      "id": 145,
+      "en": "Right, so something that is a lost cause it means it's hopeless, helpless.",
+      "cn": "对，所以无可救药的东西意味着它是无望的，无助的。"
+    },
+    {
+      "id": 146,
+      "en": "That's right, I cannot do anything to change it.",
+      "cn": "没错，我无法做任何事情来改变它。"
+    },
+    {
+      "id": 147,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 148,
+      "en": "Alright, a lot of great vocab here.",
+      "cn": "好吧，这里有很多很好的词汇。"
+    },
+    {
+      "id": 149,
+      "en": "Let's listen to the dialogue one last time.",
+      "cn": "让我们最后再听一次对话。"
+    },
+    {
+      "id": 150,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 151,
+      "en": "Let's order up something to eat.",
+      "cn": "让我们点点吃的。"
+    },
+    {
+      "id": 152,
+      "en": "Okay, maybe we can order a soup and a salad from the restaurant down the street.",
+      "cn": "好吧，也许我们可以从街下的餐厅点汤和沙拉。"
+    },
+    {
+      "id": 153,
+      "en": "I was thinking of getting a hamburger, fries, and a chocolate sundae.",
+      "cn": "我在想点一个汉堡，薯条和巧克力圣代。"
+    },
+    {
+      "id": 154,
+      "en": "You eat too much junk food.",
+      "cn": "你吃太多垃圾食品了。"
+    },
+    {
+      "id": 155,
+      "en": "That sort of stuff clogs up your arteries and is very high in cholesterol.",
+      "cn": "这种东西会堵塞你的动脉，并且胆固醇非常高。"
+    },
+    {
+      "id": 156,
+      "en": "Well, I never seem to gain weight, so I don't mind.",
+      "cn": "好吧，我似乎从来没有增重，所以我不在乎。"
+    },
+    {
+      "id": 157,
+      "en": "It's not only about getting fat or not.",
+      "cn": "这不仅仅是关于变胖或不胖。"
+    },
+    {
+      "id": 158,
+      "en": "It's about being healthy.",
+      "cn": "这关乎健康。"
+    },
+    {
+      "id": 159,
+      "en": "You could really have some health problems later on.",
+      "cn": "你可能会在以后有一些健康问题。"
+    },
+    {
+      "id": 160,
+      "en": "Uh, how about pizza or maybe some fried chicken?",
+      "cn": "嗯，披萨怎么样，或者一些炸鸡？"
+    },
+    {
+      "id": 161,
+      "en": "Better yet, let's order some hot dogs.",
+      "cn": "更好的是，让我们点一些热狗。"
+    },
+    {
+      "id": 162,
+      "en": "You're a lost cause.",
+      "cn": "你是个无可救药的人。"
+    },
+    {
+      "id": 163,
+      "en": "Alright, so talking about junk food we took a look at cholesterol.",
+      "cn": "好吧，所以谈到垃圾食品，我们看了看胆固醇。"
+    },
+    {
+      "id": 164,
+      "en": "Now, apparently not all cholesterol is bad.",
+      "cn": "现在，显然并不是所有的胆固醇都是坏的。"
+    },
+    {
+      "id": 165,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 166,
+      "en": "There are two kinds of cholesterol.",
+      "cn": "有两种胆固醇。"
+    },
+    {
+      "id": 167,
+      "en": "HDLs and LDLs.",
+      "cn": "HDL和LDL。"
+    },
+    {
+      "id": 168,
+      "en": "And one kind is good for you and the other kind is bad for you.",
+      "cn": "一种对你有好处，另一种对你有害。"
+    },
+    {
+      "id": 169,
+      "en": "And so it's important when you talk to your doctor you ask your doctor if the bad cholesterol is high for you.",
+      "cn": "所以当你和医生交谈时，询问医生坏胆固醇是否高是很重要的。"
+    },
+    {
+      "id": 170,
+      "en": "Because if it's the good cholesterol that's high, you're probably not going to experience health problems.",
+      "cn": "因为如果是好的胆固醇高，你可能不会经历健康问题。"
+    },
+    {
+      "id": 171,
+      "en": "But if you have really high bad cholesterol then that's something that you should think about when you eat and when you choose the kinds of foods that you eat.",
+      "cn": "但如果你有非常高的坏胆固醇，那么在你吃东西和选择食物时，你应该考虑这个。"
+    },
+    {
+      "id": 172,
+      "en": "Right, so usually my doctor always used to tell me to not eat so many eggs because eggs are high in cholesterol.",
+      "cn": "对，所以通常我的医生总是告诉我不要吃太多鸡蛋，因为鸡蛋胆固醇很高。"
+    },
+    {
+      "id": 173,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 174,
+      "en": "Red meat and eggs and salty foods I think.",
+      "cn": "红肉和鸡蛋以及咸食我认为。"
+    },
+    {
+      "id": 175,
+      "en": "But generally speaking I think it's good just to eat a lot of vegetables and to balance out your diet.",
+      "cn": "但一般来说，我认为多吃蔬菜，平衡饮食是好的。"
+    },
+    {
+      "id": 176,
+      "en": "So vegetables don't really even have cholesterol.",
+      "cn": "所以蔬菜几乎没有胆固醇。"
+    },
+    {
+      "id": 177,
+      "en": "No, they're low in cholesterol and I think they also have a lot of vitamins and minerals that your body needs.",
+      "cn": "不，它们的胆固醇很低，我认为它们还有很多你身体需要的维生素和矿物质。"
+    },
+    {
+      "id": 178,
+      "en": "It's very very interesting because actually all food that is usually very very delicious is high in cholesterol or high in calories it's bad for you.",
+      "cn": "这非常有趣，因为实际上所有通常非常美味的食物都含有高胆固醇或高热量，对你有害。"
+    },
+    {
+      "id": 179,
+      "en": "It's basically junk food.",
+      "cn": "基本上是垃圾食品。"
+    },
+    {
+      "id": 180,
+      "en": "So potato chips, hot dogs, pizza, fried chicken, all of these delicious foods, they're all considered junk food and they're all really bad for you.",
+      "cn": "所以薯片、热狗、披萨、炸鸡，所有这些美味的食物，都被认为是垃圾食品，真的对你有害。"
+    },
+    {
+      "id": 181,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 182,
+      "en": "Alright, a very interesting topic now.",
+      "cn": "好吧，现在是一个非常有趣的话题。"
+    },
+    {
+      "id": 183,
+      "en": "There are certain local types of junk food that people consider to be junk food, like for example if you go maybe to the Middle East you'll have the wraps, right, that could be considered a type of junk food.",
+      "cn": "有些地方的垃圾食品被认为是垃圾食品，比如如果你去中东，你会有卷饼，对吧，那可以被认为是一种垃圾食品。"
+    },
+    {
+      "id": 184,
+      "en": "I guess, yeah.",
+      "cn": "我想，是的。"
+    },
+    {
+      "id": 185,
+      "en": "Because it's fast, it's greasy.",
+      "cn": "因为它快，油腻。"
+    },
+    {
+      "id": 186,
+      "en": "It is pretty greasy, although it's delicious.",
+      "cn": "它确实很油腻，尽管很好吃。"
+    },
+    {
+      "id": 187,
+      "en": "Like a shawarma wrap is my favorite.",
+      "cn": "像沙威玛卷是我最喜欢的。"
+    },
+    {
+      "id": 188,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 189,
+      "en": "So maybe you can let us know what local type of junk food you have.",
+      "cn": "所以也许你可以告诉我们你们当地的垃圾食品是什么。"
+    },
+    {
+      "id": 190,
+      "en": "This is mostly American.",
+      "cn": "这主要是美国的。"
+    },
+    {
+      "id": 191,
+      "en": "Burgers, fries, hot dogs.",
+      "cn": "汉堡、薯条、热狗。"
+    },
+    {
+      "id": 192,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 193,
+      "en": "What is it in your country?",
+      "cn": "在你们国家是什么？"
+    },
+    {
+      "id": 194,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 195,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是EnglishPod.com。"
+    },
+    {
+      "id": 196,
+      "en": "We'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 197,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

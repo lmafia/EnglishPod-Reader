@@ -1,0 +1,1214 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0239",
+  "title": "EnglishPod 中级 0239",
+  "totalSegments": 241,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we're talking about sports and outdoor activities.",
+      "cn": "我叫Catherine，今天我们要讨论运动和户外活动。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We're taking a look at a lot of different adventure sports.",
+      "cn": "我们将关注许多不同的冒险运动。"
+    },
+    {
+      "id": 6,
+      "en": "So they're not just regular sports like tennis or soccer.",
+      "cn": "所以这些不仅仅是像网球或足球这样的常规运动。"
+    },
+    {
+      "id": 7,
+      "en": "These are more dangerous sports.",
+      "cn": "这些是更危险的运动。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So adventure sports is the topic.",
+      "cn": "所以冒险运动是主题。"
+    },
+    {
+      "id": 10,
+      "en": "This is intermediate level.",
+      "cn": "这是中级水平。"
+    },
+    {
+      "id": 11,
+      "en": "Let's check out the dialogue, and we'll be back in a moment.",
+      "cn": "让我们来看看对话，稍后再见。"
+    },
+    {
+      "id": 12,
+      "en": "Welcome to Adventure Tours.",
+      "cn": "欢迎来到冒险旅游。"
+    },
+    {
+      "id": 13,
+      "en": "How may I help you?",
+      "cn": "我能帮您什么？"
+    },
+    {
+      "id": 14,
+      "en": "I want to book a tour with Adventure Sports.",
+      "cn": "我想预订一次冒险运动的旅游。"
+    },
+    {
+      "id": 15,
+      "en": "Excellent!",
+      "cn": "很好！"
+    },
+    {
+      "id": 16,
+      "en": "Our company has more than 10 years of experience in the Adventure Tourism and Sports field.",
+      "cn": "我们公司在冒险旅游和运动领域有超过10年的经验。"
+    },
+    {
+      "id": 17,
+      "en": "Let me show you some options.",
+      "cn": "让我给您展示一些选项。"
+    },
+    {
+      "id": 18,
+      "en": "This is our most popular choice.",
+      "cn": "这是我们最受欢迎的选择。"
+    },
+    {
+      "id": 19,
+      "en": "Our river guides will take you on a white water rafting trip followed by a ride in a hot air balloon.",
+      "cn": "我们的河流向导将带您进行一次激流泛舟之旅，随后是热气球之旅。"
+    },
+    {
+      "id": 20,
+      "en": "I don't really think I'm ready to throw myself down a river full of jagged rocks and a rubber boat, or go up in the air in a wicker basket held up by an oversized balloon.",
+      "cn": "我真的不觉得我准备好要跳进满是尖锐岩石的河里，坐在橡皮艇上，或者在一个由超大气球支撑的柳条篮子里飞上天。"
+    },
+    {
+      "id": 21,
+      "en": "What else do you have?",
+      "cn": "还有其他选择吗？"
+    },
+    {
+      "id": 22,
+      "en": "Well, in that case, we can take you hang gliding with one of our experienced instructors.",
+      "cn": "好吧，在这种情况下，我们可以带您与我们的经验丰富的教练一起滑翔。"
+    },
+    {
+      "id": 23,
+      "en": "It's the closest you can get to flying.",
+      "cn": "这是最接近飞行的体验。"
+    },
+    {
+      "id": 24,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 25,
+      "en": "You mean strap myself to a flimsy kite?",
+      "cn": "你是说把我绑在一个脆弱的风筝上？"
+    },
+    {
+      "id": 26,
+      "en": "No thank you.",
+      "cn": "不，谢谢。"
+    },
+    {
+      "id": 27,
+      "en": "Next?",
+      "cn": "下一个？"
+    },
+    {
+      "id": 28,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 29,
+      "en": "Well, why don't you tell me a little bit more about what you would like.",
+      "cn": "那么，您能告诉我更多关于您想要的内容吗？"
+    },
+    {
+      "id": 30,
+      "en": "We have everything from mountain biking to rock climbing to street luge.",
+      "cn": "我们有从山地自行车到攀岩再到街头滑板的一切。"
+    },
+    {
+      "id": 31,
+      "en": "I'm thinking something exciting but safer.",
+      "cn": "我在想一些刺激但更安全的活动。"
+    },
+    {
+      "id": 32,
+      "en": "I have the perfect option.",
+      "cn": "我有一个完美的选择。"
+    },
+    {
+      "id": 33,
+      "en": "This package will take you on a hiking trip through the Himalayas for three days and afterwards there's a dog sledding journey.",
+      "cn": "这个套餐将带您进行为期三天的喜马拉雅山徒步旅行，之后还有一次狗拉雪橇的旅程。"
+    },
+    {
+      "id": 34,
+      "en": "That's more like it.",
+      "cn": "这更合适。"
+    },
+    {
+      "id": 35,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 36,
+      "en": "So obviously this tour agency or tour operator has a lot of different options, a lot of them exciting.",
+      "cn": "显然，这家旅游公司或旅游运营商有很多不同的选择，其中许多都很刺激。"
+    },
+    {
+      "id": 37,
+      "en": "So why don't we take a look at some of those on language takeaway.",
+      "cn": "那么我们为什么不看看一些语言要点呢。"
+    },
+    {
+      "id": 38,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 39,
+      "en": "So the first one has to do with water.",
+      "cn": "第一个与水有关。"
+    },
+    {
+      "id": 40,
+      "en": "This is called white water rafting.",
+      "cn": "这叫做激流泛舟。"
+    },
+    {
+      "id": 41,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 42,
+      "en": "So white water rafting.",
+      "cn": "所以激流泛舟。"
+    },
+    {
+      "id": 43,
+      "en": "Now rafting means that you go in a raft.",
+      "cn": "现在泛舟意味着您在一个筏子上。"
+    },
+    {
+      "id": 44,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 45,
+      "en": "It's a special kind of boat, not a wooden boat, not like a big boat you see in the ocean.",
+      "cn": "这是一种特殊的船，不是木船，也不是您在海洋中看到的大船。"
+    },
+    {
+      "id": 46,
+      "en": "This is a special boat for rivers maybe.",
+      "cn": "这是一种专为河流设计的特殊船。"
+    },
+    {
+      "id": 47,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 48,
+      "en": "It's an inflatable rubber boat.",
+      "cn": "这是一种充气橡皮艇。"
+    },
+    {
+      "id": 49,
+      "en": "So he also described it as a rubber boat.",
+      "cn": "所以他也把它描述为橡皮艇。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, rubber is the material it's made out of.",
+      "cn": "好的，橡胶是它的材料。"
+    },
+    {
+      "id": 51,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 52,
+      "en": "So you go in this boat in a river and it's called white water because it has rapids.",
+      "cn": "所以您在这条河里乘坐这艘船，它被称为激流，因为它有急流。"
+    },
+    {
+      "id": 53,
+      "en": "So the river is moving very quickly and you can see that it's a little bit dangerous to go swimming in a river like this.",
+      "cn": "所以河水流动得非常快，您可以看到在这样的河里游泳是有点危险的。"
+    },
+    {
+      "id": 54,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 55,
+      "en": "So when the water goes really fast or when it hits some rocks, the color changes from being blue or brown to white.",
+      "cn": "所以当水流得非常快或撞到一些岩石时，颜色会从蓝色或棕色变为白色。"
+    },
+    {
+      "id": 56,
+      "en": "And that's why it's white water rafting.",
+      "cn": "这就是为什么它叫激流泛舟。"
+    },
+    {
+      "id": 57,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 58,
+      "en": "It's very, very scary and very dangerous.",
+      "cn": "这非常可怕，也非常危险。"
+    },
+    {
+      "id": 59,
+      "en": "That's right, but very exciting.",
+      "cn": "没错，但非常刺激。"
+    },
+    {
+      "id": 60,
+      "en": "So that's considered an adventure sport.",
+      "cn": "所以这被认为是一种冒险运动。"
+    },
+    {
+      "id": 61,
+      "en": "And then the trip was followed by a ride in a hot air balloon.",
+      "cn": "然后这次旅行之后是热气球之旅。"
+    },
+    {
+      "id": 62,
+      "en": "Well, everyone's seen balloons before.",
+      "cn": "好吧，大家都见过气球。"
+    },
+    {
+      "id": 63,
+      "en": "Sometimes we give children balloons at the fair or maybe for their birthday.",
+      "cn": "有时我们在集市上或为孩子的生日送气球。"
+    },
+    {
+      "id": 64,
+      "en": "Balloons are basically rubber filled with air.",
+      "cn": "气球基本上是充满空气的橡胶。"
+    },
+    {
+      "id": 65,
+      "en": "But a hot air balloon is a very special kind of mode of transportation.",
+      "cn": "但热气球是一种非常特殊的交通工具。"
+    },
+    {
+      "id": 66,
+      "en": "Actually, you can travel in a hot air balloon.",
+      "cn": "实际上，您可以乘坐热气球旅行。"
+    },
+    {
+      "id": 67,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 68,
+      "en": "It's a big, big balloon that has a basket under it.",
+      "cn": "这是一个非常大的气球，下面有一个篮子。"
+    },
+    {
+      "id": 69,
+      "en": "And the person actually described it as a wicker basket.",
+      "cn": "而且这个人实际上把它描述为柳条篮子。"
+    },
+    {
+      "id": 70,
+      "en": "A wicker is the material that's used in the basket, right?",
+      "cn": "柳条是用在篮子上的材料，对吗？"
+    },
+    {
+      "id": 71,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 72,
+      "en": "You can have wicker furniture like wicker chairs.",
+      "cn": "您可以有柳条家具，比如柳条椅子。"
+    },
+    {
+      "id": 73,
+      "en": "It's just a way to basically make furniture out of this kind of bark or natural material.",
+      "cn": "这基本上是一种用这种树皮或天然材料制作家具的方法。"
+    },
+    {
+      "id": 74,
+      "en": "So a hot air balloon is a very big balloon and it's filled with hot air, usually by some sort of fire that's under it.",
+      "cn": "所以热气球是一个非常大的气球，里面充满热空气，通常是通过下面的某种火来加热的。"
+    },
+    {
+      "id": 75,
+      "en": "And because it's filled with hot air, it goes up in the air.",
+      "cn": "因为它充满热空气，所以它会上升。"
+    },
+    {
+      "id": 76,
+      "en": "And as you say, you can use it as transportation, maybe to go very long distances carried by the wind because there's no real way of of giving it direction or just for fun.",
+      "cn": "正如您所说，您可以将其用作交通工具，也许是被风带着去很远的地方，因为没有真正的方向控制，或者只是为了好玩。"
+    },
+    {
+      "id": 77,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 78,
+      "en": "It's another dangerous but less dangerous kind of sport.",
+      "cn": "这是一种危险但相对不那么危险的运动。"
+    },
+    {
+      "id": 79,
+      "en": "But after that, we actually have one that I think you have some experience with.",
+      "cn": "但之后，我们实际上有一个我认为您有一些经验的运动。"
+    },
+    {
+      "id": 80,
+      "en": "It's called hang gliding.",
+      "cn": "这叫做滑翔。"
+    },
+    {
+      "id": 81,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 82,
+      "en": "Hang gliding is it's another type of sport and also a type of flying sport.",
+      "cn": "滑翔是另一种运动，也是飞行运动的一种。"
+    },
+    {
+      "id": 83,
+      "en": "And basically you get on a hang glider.",
+      "cn": "基本上，您会乘坐滑翔机。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so if you've seen this before, you'll know that it looks like someone is wearing wings.",
+      "cn": "好吧，如果您以前见过这个，您会知道它看起来像是有人在穿着翅膀。"
+    },
+    {
+      "id": 85,
+      "en": "It's a big kite that looks like a triangle like a kite and you fly in it.",
+      "cn": "这是一种看起来像三角形的巨型风筝，您在里面飞行。"
+    },
+    {
+      "id": 86,
+      "en": "So it has no motor it has not like the hot air balloon.",
+      "cn": "所以它没有发动机，不像热气球。"
+    },
+    {
+      "id": 87,
+      "en": "It has no fire.",
+      "cn": "它没有火。"
+    },
+    {
+      "id": 88,
+      "en": "So you just basically glide it you just sail through the the air the the atmosphere sounds very peaceful.",
+      "cn": "所以您基本上是在空中滑翔，穿越大气，听起来非常宁静。"
+    },
+    {
+      "id": 89,
+      "en": "It is but they say that you should go with an instructor.",
+      "cn": "是的，但他们说您应该和教练一起去。"
+    },
+    {
+      "id": 90,
+      "en": "So what kind of instructor does this tour company offer?",
+      "cn": "那么这家旅游公司提供什么样的教练？"
+    },
+    {
+      "id": 91,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 92,
+      "en": "The tour operator talked about taking you on a hang glider trip with one of experienced instructors.",
+      "cn": "旅游运营商提到带您与一位经验丰富的教练一起进行滑翔之旅。"
+    },
+    {
+      "id": 93,
+      "en": "So experienced is the keyword here.",
+      "cn": "所以经验丰富是这里的关键词。"
+    },
+    {
+      "id": 94,
+      "en": "You want someone who has done this many times before someone who knows what they are doing.",
+      "cn": "您想要一个之前做过很多次的人，知道自己在做什么。"
+    },
+    {
+      "id": 95,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 96,
+      "en": "So an experienced instructor is a person that has as you say a lot of experience or is a professional.",
+      "cn": "所以经验丰富的教练是一个如您所说，拥有丰富经验或是专业人士的人。"
+    },
+    {
+      "id": 97,
+      "en": "So that's an experienced instructor.",
+      "cn": "所以这就是经验丰富的教练。"
+    },
+    {
+      "id": 98,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 99,
+      "en": "You could even say, you know, I want to take flying lessons with an experienced pilot.",
+      "cn": "您甚至可以说，我想和一位经验丰富的飞行员一起上飞行课。"
+    },
+    {
+      "id": 100,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 101,
+      "en": "Or you can even talk about maybe a chef.",
+      "cn": "或者你可以谈谈一个厨师。"
+    },
+    {
+      "id": 102,
+      "en": "He is a very experienced chef.",
+      "cn": "他是一位非常有经验的厨师。"
+    },
+    {
+      "id": 103,
+      "en": "He's been a chef for a long time.",
+      "cn": "他当厨师已经很久了。"
+    },
+    {
+      "id": 104,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 105,
+      "en": "So hang gliding and our final sport very exciting as well.",
+      "cn": "所以滑翔伞和我们的最后一项运动也非常刺激。"
+    },
+    {
+      "id": 106,
+      "en": "We are going dog sledding.",
+      "cn": "我们要去狗拉雪橇。"
+    },
+    {
+      "id": 107,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 108,
+      "en": "So this is basically a winter sport or a sport that you do in snowy places.",
+      "cn": "所以这基本上是一项冬季运动，或者是在雪地上进行的运动。"
+    },
+    {
+      "id": 109,
+      "en": "You stand or sit on a sled and a team of dogs.",
+      "cn": "你站或坐在雪橇上，由一队狗拉着你。"
+    },
+    {
+      "id": 110,
+      "en": "So that means many dogs pull you across the snow.",
+      "cn": "这意味着很多狗把你拉过雪地。"
+    },
+    {
+      "id": 111,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 112,
+      "en": "So you go on a sled which is basically usually made out of plastic or wood and this is to go on top of the snow.",
+      "cn": "所以你坐在一个通常由塑料或木头制成的雪橇上，这样可以在雪上行驶。"
+    },
+    {
+      "id": 113,
+      "en": "And as you say a team of dogs pull you.",
+      "cn": "正如你所说，一队狗拉着你。"
+    },
+    {
+      "id": 114,
+      "en": "I think you can see this in movies.",
+      "cn": "我想你可以在电影中看到这个。"
+    },
+    {
+      "id": 115,
+      "en": "This is kind of like the mode of transportation in places where there are no roads.",
+      "cn": "这就像在没有道路的地方的交通方式。"
+    },
+    {
+      "id": 116,
+      "en": "There are no other ways of getting places that you just get pulled by dogs.",
+      "cn": "没有其他方式到达的地方，你只能被狗拉着。"
+    },
+    {
+      "id": 117,
+      "en": "Like Alaska or the Arctic Circle somewhere very very far north.",
+      "cn": "比如阿拉斯加或北极圈，那里非常非常北。"
+    },
+    {
+      "id": 118,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 119,
+      "en": "So a lot of great adventure sports.",
+      "cn": "所以有很多伟大的冒险运动。"
+    },
+    {
+      "id": 120,
+      "en": "Very exciting.",
+      "cn": "非常刺激。"
+    },
+    {
+      "id": 121,
+      "en": "I think it's time for us to listen to the dialogue again.",
+      "cn": "我想是时候让我们再听一次对话了。"
+    },
+    {
+      "id": 122,
+      "en": "And we'll be back in a bit with Language Takeaway Part 2.",
+      "cn": "我们稍后会回来，进行语言要点第二部分。"
+    },
+    {
+      "id": 123,
+      "en": "Welcome to Adventure Tours.",
+      "cn": "欢迎来到冒险旅游。"
+    },
+    {
+      "id": 124,
+      "en": "How may I help you?",
+      "cn": "我能帮您什么？"
+    },
+    {
+      "id": 125,
+      "en": "I want to book a tour with Adventure Sports.",
+      "cn": "我想预订一次冒险运动的旅游。"
+    },
+    {
+      "id": 126,
+      "en": "Excellent.",
+      "cn": "很好。"
+    },
+    {
+      "id": 127,
+      "en": "Our company has more than 10 years of experience in the adventure tourism and sports field.",
+      "cn": "我们公司在冒险旅游和运动领域有超过10年的经验。"
+    },
+    {
+      "id": 128,
+      "en": "Let me show you some options.",
+      "cn": "让我给你展示一些选项。"
+    },
+    {
+      "id": 129,
+      "en": "This is our most popular choice.",
+      "cn": "这是我们最受欢迎的选择。"
+    },
+    {
+      "id": 130,
+      "en": "Our river guides will take you on a white water rafting trip followed by riding a hot air balloon.",
+      "cn": "我们的河流向导将带你进行一次激流泛舟之旅，随后乘坐热气球。"
+    },
+    {
+      "id": 131,
+      "en": "I don't really think I'm ready to throw myself down a river full of jagged rocks and a rubber boat or go up in the air in a wicker basket held up by an oversized balloon.",
+      "cn": "我真的觉得我还没准备好跳进满是尖锐岩石的河流，坐在橡皮艇上，或者在一个由超大气球支撑的柳条篮子里飞上天。"
+    },
+    {
+      "id": 132,
+      "en": "What else do you have?",
+      "cn": "你还有什么其他选择？"
+    },
+    {
+      "id": 133,
+      "en": "Well, in that case, we can take you hang gliding with one of our experienced instructors.",
+      "cn": "好吧，在这种情况下，我们可以带你去和我们的一位经验丰富的教练一起滑翔伞。"
+    },
+    {
+      "id": 134,
+      "en": "It's the closest you can get to flying.",
+      "cn": "这是你能体验到的最接近飞行的感觉。"
+    },
+    {
+      "id": 135,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 136,
+      "en": "You mean strap myself to a flimsy kite?",
+      "cn": "你是说把自己绑在一个脆弱的风筝上？"
+    },
+    {
+      "id": 137,
+      "en": "No, thank you.",
+      "cn": "不，谢谢。"
+    },
+    {
+      "id": 138,
+      "en": "Next?",
+      "cn": "下一个？"
+    },
+    {
+      "id": 139,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 140,
+      "en": "Well, why don't you tell me a little bit more about what you would like?",
+      "cn": "那么，为什么不告诉我更多关于你想要的事情呢？"
+    },
+    {
+      "id": 141,
+      "en": "We have everything from mountain biking to rock climbing to street luge.",
+      "cn": "我们有从山地自行车到攀岩再到街头滑板的一切。"
+    },
+    {
+      "id": 142,
+      "en": "I'm thinking something exciting but safer.",
+      "cn": "我在想一些刺激但更安全的活动。"
+    },
+    {
+      "id": 143,
+      "en": "I have the perfect option.",
+      "cn": "我有一个完美的选择。"
+    },
+    {
+      "id": 144,
+      "en": "This package will take you on a hiking trip through the Himalayas for three days and afterwards there's a dog sledding journey.",
+      "cn": "这个套餐将带你进行为期三天的喜马拉雅山徒步旅行，之后还有一次狗拉雪橇的旅程。"
+    },
+    {
+      "id": 145,
+      "en": "That's more like it.",
+      "cn": "这才像样。"
+    },
+    {
+      "id": 146,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 147,
+      "en": "So now we're going to take a look at three quick adjectives that we saw in this dialogue on language takeaway part two.",
+      "cn": "现在我们要看看在语言要点第二部分中看到的三个快速形容词。"
+    },
+    {
+      "id": 148,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 149,
+      "en": "This first adjective is something I am not a fan of.",
+      "cn": "第一个形容词是我不喜欢的。"
+    },
+    {
+      "id": 150,
+      "en": "Let me just say if you ever go rafting and you see rocks you want to avoid or you want to stay away from jagged rocks.",
+      "cn": "让我说，如果你去漂流，看到岩石时，你想要避免或远离尖锐的岩石。"
+    },
+    {
+      "id": 151,
+      "en": "That's right, so the adjective jagged refers to maybe sharp or they can cut you, right?",
+      "cn": "没错，所以形容词尖锐指的是可能会割伤你的东西，对吧？"
+    },
+    {
+      "id": 152,
+      "en": "That's right, so something that is jagged is not smooth.",
+      "cn": "没错，所以尖锐的东西是不光滑的。"
+    },
+    {
+      "id": 153,
+      "en": "It's the opposite of smooth.",
+      "cn": "它是光滑的反义词。"
+    },
+    {
+      "id": 154,
+      "en": "That's right, so maybe you've seen some rocks that are very pointy or that have things that can easily hurt you or cut you.",
+      "cn": "没错，所以也许你见过一些非常尖的岩石，或者有东西容易伤到你或割伤你的。"
+    },
+    {
+      "id": 155,
+      "en": "Those are jagged rocks.",
+      "cn": "那些就是尖锐的岩石。"
+    },
+    {
+      "id": 156,
+      "en": "Broken glass can have jagged edges and that means you want to avoid touching it because it can hurt you.",
+      "cn": "破碎的玻璃可能有尖锐的边缘，这意味着你想要避免触碰它，因为它可能会伤到你。"
+    },
+    {
+      "id": 157,
+      "en": "Exactly, so jagged is a way of describing something that's maybe sharp, pointy, or very dangerous that can cut you.",
+      "cn": "正是如此，所以尖锐是描述某些可能会割伤你的东西的方式。"
+    },
+    {
+      "id": 158,
+      "en": "And then moving on, when we were talking about the hot air balloon, this person very cleverly said that he doesn't want to go up in the air in a basket held by an oversized balloon.",
+      "cn": "然后继续，当我们谈论热气球时，这个人非常聪明地说他不想在一个由超大气球支撑的篮子里飞上天。"
+    },
+    {
+      "id": 159,
+      "en": "Okay, so he's exaggerating.",
+      "cn": "好吧，所以他在夸大其词。"
+    },
+    {
+      "id": 160,
+      "en": "Like you said, he's being clever or silly.",
+      "cn": "就像你说的，他在聪明或傻乎乎。"
+    },
+    {
+      "id": 161,
+      "en": "He's just afraid of the balloon.",
+      "cn": "他只是害怕气球。"
+    },
+    {
+      "id": 162,
+      "en": "But basically he's saying an oversized balloon is a very, very, very big or unnaturally big balloon.",
+      "cn": "但基本上他在说超大气球是一个非常、非常、非常大或不自然的大气球。"
+    },
+    {
+      "id": 163,
+      "en": "Right, so bigger than normal.",
+      "cn": "对，所以比正常的更大。"
+    },
+    {
+      "id": 164,
+      "en": "So an oversized balloon would be a balloon that's bigger than normal.",
+      "cn": "所以超大气球就是比正常的大气球。"
+    },
+    {
+      "id": 165,
+      "en": "Or maybe I've seen an oversized... In the early 1990s, I remember a clothing trend.",
+      "cn": "或者也许我见过一个超大的……在1990年代初，我记得有一种服装潮流。"
+    },
+    {
+      "id": 166,
+      "en": "A lot of people like to wear oversized t-shirts.",
+      "cn": "很多人喜欢穿超大号的T恤。"
+    },
+    {
+      "id": 167,
+      "en": "That's right, so t-shirts that were way too big for you or maybe unnaturally big, those would be oversized t-shirts.",
+      "cn": "没错，所以那些对你来说太大或不自然的大T恤就是超大号的T恤。"
+    },
+    {
+      "id": 168,
+      "en": "Like XXXL.",
+      "cn": "像是XXXL。"
+    },
+    {
+      "id": 169,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 170,
+      "en": "Alright, and our final adjective when he was talking about hang gliding.",
+      "cn": "好吧，最后一个形容词是他在谈论滑翔伞时提到的。"
+    },
+    {
+      "id": 171,
+      "en": "He said that he's not ready to go up in the air strapped to a flimsy kite.",
+      "cn": "他说他还没准备好在一个脆弱的风筝上飞上天。"
+    },
+    {
+      "id": 172,
+      "en": "Okay, so the key word here is flimsy.",
+      "cn": "好吧，这里的关键词是脆弱。"
+    },
+    {
+      "id": 173,
+      "en": "We already talked about a kite.",
+      "cn": "我们已经谈过风筝。"
+    },
+    {
+      "id": 174,
+      "en": "It's something that flies in the air.",
+      "cn": "它是在空中飞的东西。"
+    },
+    {
+      "id": 175,
+      "en": "But something that's flimsy is not very stable or sturdy.",
+      "cn": "但脆弱的东西是不太稳定或坚固的。"
+    },
+    {
+      "id": 176,
+      "en": "That's right, so it doesn't seem like it's very solid.",
+      "cn": "没错，所以它看起来不太坚固。"
+    },
+    {
+      "id": 177,
+      "en": "So if you have a kite... So a normal airplane is very sturdy, but a paper airplane is very flimsy.",
+      "cn": "所以如果你有一个风筝……正常的飞机是非常坚固的，但纸飞机是非常脆弱的。"
+    },
+    {
+      "id": 178,
+      "en": "It's thin.",
+      "cn": "它很薄。"
+    },
+    {
+      "id": 179,
+      "en": "It moves around a lot.",
+      "cn": "它移动得很厉害。"
+    },
+    {
+      "id": 180,
+      "en": "You can't control it.",
+      "cn": "你无法控制它。"
+    },
+    {
+      "id": 181,
+      "en": "Exactly, so it's not very solid.",
+      "cn": "正是如此，所以它不太坚固。"
+    },
+    {
+      "id": 182,
+      "en": "It's not very, as you said, sturdy.",
+      "cn": "它不太像你说的那样坚固。"
+    },
+    {
+      "id": 183,
+      "en": "It doesn't really seem like it can stay up in the air for very long.",
+      "cn": "它似乎不能在空中停留很久。"
+    },
+    {
+      "id": 184,
+      "en": "And it definitely can't support someone's weight.",
+      "cn": "而且它绝对无法支撑一个人的重量。"
+    },
+    {
+      "id": 185,
+      "en": "That's right, so you can even have a flimsy chair.",
+      "cn": "没错，所以你甚至可以有一把脆弱的椅子。"
+    },
+    {
+      "id": 186,
+      "en": "Maybe the chair is a little bit loose or it doesn't seem like it's very strong.",
+      "cn": "也许椅子有点松，或者看起来不太强壮。"
+    },
+    {
+      "id": 187,
+      "en": "It feels like it might break.",
+      "cn": "它感觉像是可能会坏掉。"
+    },
+    {
+      "id": 188,
+      "en": "That's right, so flimsy.",
+      "cn": "没错，所以脆弱。"
+    },
+    {
+      "id": 189,
+      "en": "That's the adjective there, flimsy.",
+      "cn": "这就是今天的形容词，脆弱。"
+    },
+    {
+      "id": 190,
+      "en": "So that's all the adjectives we have for you today.",
+      "cn": "所以这就是我们今天为你准备的所有形容词。"
+    },
+    {
+      "id": 191,
+      "en": "Why don't we listen to the dialogue quickly one last time, and we'll be back to talk a little bit more.",
+      "cn": "我们再快速听一次对话，然后我们会回来再聊聊。"
+    },
+    {
+      "id": 192,
+      "en": "Welcome to Adventure Tours.",
+      "cn": "欢迎来到冒险旅游。"
+    },
+    {
+      "id": 193,
+      "en": "How may I help you?",
+      "cn": "我能帮您什么？"
+    },
+    {
+      "id": 194,
+      "en": "I want to book a tour with Adventure Sports.",
+      "cn": "我想预订一次冒险运动的旅游。"
+    },
+    {
+      "id": 195,
+      "en": "Excellent!",
+      "cn": "很好！"
+    },
+    {
+      "id": 196,
+      "en": "Our company has more than 10 years of experience in the Adventure Tourism and Sports field.",
+      "cn": "我们公司在冒险旅游和运动领域有超过10年的经验。"
+    },
+    {
+      "id": 197,
+      "en": "Let me show you some options.",
+      "cn": "让我给你展示一些选项。"
+    },
+    {
+      "id": 198,
+      "en": "This is our most popular choice.",
+      "cn": "这是我们最受欢迎的选择。"
+    },
+    {
+      "id": 199,
+      "en": "Our river guides will take you on a white water rafting trip followed by a ride in a hot air balloon.",
+      "cn": "我们的河流向导将带你进行一次激流泛舟之旅，随后乘坐热气球。"
+    },
+    {
+      "id": 200,
+      "en": "I don't really think I'm ready to throw myself down a river full of jagged rocks and a rubber boat, or go up in the air in a wicker basket held up by an oversized balloon.",
+      "cn": "我真的觉得我还没准备好跳进满是尖锐岩石的河流，坐在橡皮艇上，或者在一个由超大气球支撑的柳条篮子里飞上天。"
+    },
+    {
+      "id": 201,
+      "en": "What else do you have?",
+      "cn": "还有什么其他选择吗？"
+    },
+    {
+      "id": 202,
+      "en": "Well, in that case we can take you hang gliding with one of our experienced instructors.",
+      "cn": "好吧，那我们可以带你和我们的经验丰富的教练一起滑翔。"
+    },
+    {
+      "id": 203,
+      "en": "It's the closest you can get to flying.",
+      "cn": "这是最接近飞行的体验。"
+    },
+    {
+      "id": 204,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 205,
+      "en": "You mean strap myself to a flimsy kite?",
+      "cn": "你是说把我绑在一个脆弱的风筝上？"
+    },
+    {
+      "id": 206,
+      "en": "No thank you.",
+      "cn": "不，谢谢。"
+    },
+    {
+      "id": 207,
+      "en": "Next?",
+      "cn": "下一个？"
+    },
+    {
+      "id": 208,
+      "en": "Okay, well why don't you tell me a little bit more about what you would like.",
+      "cn": "好吧，那你能多告诉我一些你想要的东西吗？"
+    },
+    {
+      "id": 209,
+      "en": "We have everything from mountain biking to rock climbing to street luge.",
+      "cn": "我们有从山地自行车到攀岩再到街头雪橇的所有项目。"
+    },
+    {
+      "id": 210,
+      "en": "I'm thinking something exciting, but safer.",
+      "cn": "我想要一些刺激但更安全的活动。"
+    },
+    {
+      "id": 211,
+      "en": "I have the perfect option.",
+      "cn": "我有一个完美的选择。"
+    },
+    {
+      "id": 212,
+      "en": "This package will take you on a hiking trip through the Himalayas for three days and afterwards there's a dog sledding journey.",
+      "cn": "这个套餐将带你进行为期三天的喜马拉雅山徒步旅行，之后还有一次狗拉雪橇的旅程。"
+    },
+    {
+      "id": 213,
+      "en": "That's more like it.",
+      "cn": "这才像样。"
+    },
+    {
+      "id": 214,
+      "en": "Okay, so Marco, I know this is one of your favorite areas, adventure sports.",
+      "cn": "好吧，Marco，我知道这是你最喜欢的领域之一，冒险运动。"
+    },
+    {
+      "id": 215,
+      "en": "You're a lot more daring than I am because I wouldn't do many of these things.",
+      "cn": "你比我更大胆，因为我不会做很多这些事情。"
+    },
+    {
+      "id": 216,
+      "en": "But what have you done?",
+      "cn": "但你做过什么？"
+    },
+    {
+      "id": 217,
+      "en": "I've actually haven't been in a hot air balloon.",
+      "cn": "我实际上还没有坐过热气球。"
+    },
+    {
+      "id": 218,
+      "en": "I don't really think that's very exciting.",
+      "cn": "我觉得这并不是很刺激。"
+    },
+    {
+      "id": 219,
+      "en": "It does seem kind of boring.",
+      "cn": "确实看起来有点无聊。"
+    },
+    {
+      "id": 220,
+      "en": "Yeah, you don't really go very fast.",
+      "cn": "是的，你并不会很快。"
+    },
+    {
+      "id": 221,
+      "en": "And I've never done a street luge, luge, which is an interesting sport, although it is pretty dangerous.",
+      "cn": "我从未尝试过街头雪橇，这是一项有趣的运动，尽管它相当危险。"
+    },
+    {
+      "id": 222,
+      "en": "It's basically, you're kind of riding on a type of skateboard, right?",
+      "cn": "基本上，你是在骑一种滑板，对吧？"
+    },
+    {
+      "id": 223,
+      "en": "Yeah, basically it's a big skateboard and you lie down on it, your feet go down and your head is back.",
+      "cn": "是的，基本上它是一个大滑板，你躺在上面，脚向下，头向后。"
+    },
+    {
+      "id": 224,
+      "en": "You're on your back and you go downhill really fast.",
+      "cn": "你仰卧着，快速下坡。"
+    },
+    {
+      "id": 225,
+      "en": "This is actually an Olympic sport and it's simply called luge.",
+      "cn": "这实际上是一项奥林匹克运动，称为雪橇。"
+    },
+    {
+      "id": 226,
+      "en": "And you can see this with those big icy tracks that they have and they go downhill and they slide down on a bobsled or luge would actually be the same thing, but just one or two people on some type of like skateboard looking thing.",
+      "cn": "你可以看到那些大冰道，他们下坡，滑下去的雪橇或雪橇其实是一样的，只是一个或两个人在某种像滑板的东西上。"
+    },
+    {
+      "id": 227,
+      "en": "Basically, it's open.",
+      "cn": "基本上，它是开放的。"
+    },
+    {
+      "id": 228,
+      "en": "The bobsled is closed, so you see the people's heads, but the luge, you just see their whole body and they're lying down on a piece of metal and they go down very, very quickly.",
+      "cn": "雪车是封闭的，所以你能看到人们的头，但雪橇，你能看到他们的整个身体，他们躺在一块金属上，快速下坡。"
+    },
+    {
+      "id": 229,
+      "en": "They go very fast.",
+      "cn": "他们速度非常快。"
+    },
+    {
+      "id": 230,
+      "en": "I think in bobsledding and luge, I think they can reach speeds up to like a hundred kilometers per hour.",
+      "cn": "我认为在雪车和雪橇中，他们的速度可以达到每小时一百公里。"
+    },
+    {
+      "id": 231,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 232,
+      "en": "And this year it was actually very sad at the Olympics.",
+      "cn": "今年在奥运会上其实很悲伤。"
+    },
+    {
+      "id": 233,
+      "en": "A luge, I think it was luge athlete died in practice.",
+      "cn": "一名雪橇运动员在训练中去世。"
+    },
+    {
+      "id": 234,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 235,
+      "en": "So extreme sports or adventure sports, they are, as the name says, full of adventure, very exciting, but also obviously very dangerous.",
+      "cn": "所以极限运动或冒险运动，顾名思义，充满了冒险，非常刺激，但显然也非常危险。"
+    },
+    {
+      "id": 236,
+      "en": "I think hiking is not really an adventure sport or very dangerous unless you're hiking in dangerous territory with bears or something possible.",
+      "cn": "我认为徒步旅行并不算真正的冒险运动或非常危险，除非你在有熊等危险的地方徒步。"
+    },
+    {
+      "id": 237,
+      "en": "Well, maybe you guys should let us know what kind of do you enjoy adventure sports?",
+      "cn": "好吧，也许你们应该告诉我们你们喜欢什么样的冒险运动？"
+    },
+    {
+      "id": 238,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 239,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 240,
+      "en": "We'll see everyone there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 241,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

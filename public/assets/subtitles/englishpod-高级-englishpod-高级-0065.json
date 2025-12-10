@@ -1,0 +1,1419 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0065",
+  "title": "EnglishPod 高级 0065",
+  "totalSegments": 282,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And we're bringing you the final lesson of our job interview series.",
+      "cn": "我们将为您带来我们求职面试系列的最后一课。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "And in this lesson, we're going to be focusing on two very, very common but sometimes difficult questions.",
+      "cn": "在这节课中，我们将专注于两个非常常见但有时困难的问题。"
+    },
+    {
+      "id": 8,
+      "en": "Okay, so we've talked about preparing for the job interview in Part 1.",
+      "cn": "好的，我们在第一部分讨论了求职面试的准备。"
+    },
+    {
+      "id": 9,
+      "en": "Part 2, we talked about educational background and work experience.",
+      "cn": "第二部分，我们讨论了教育背景和工作经验。"
+    },
+    {
+      "id": 10,
+      "en": "And in Part 3, what are we going to be looking at?",
+      "cn": "第三部分，我们将关注什么？"
+    },
+    {
+      "id": 11,
+      "en": "We're going to be looking at two questions.",
+      "cn": "我们将关注两个问题。"
+    },
+    {
+      "id": 12,
+      "en": "Why we should hire you and your greatest weakness.",
+      "cn": "为什么我们应该雇用你和你最大的弱点。"
+    },
+    {
+      "id": 13,
+      "en": "Okay, so these are the classic common questions that you'll get at a job interview, right?",
+      "cn": "好的，这些是你在求职面试中会遇到的经典常见问题，对吧？"
+    },
+    {
+      "id": 14,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 15,
+      "en": "So why don't we just get started and we'll take a listen to the dialogue and see how our interviewee handles these questions.",
+      "cn": "那我们就开始吧，听听对话，看看我们的面试者如何应对这些问题。"
+    },
+    {
+      "id": 16,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 17,
+      "en": "Now, I have a couple of final questions.",
+      "cn": "现在，我有几个最后的问题。"
+    },
+    {
+      "id": 18,
+      "en": "I hope they're not too hard.",
+      "cn": "我希望它们不是太难。"
+    },
+    {
+      "id": 19,
+      "en": "Well, why should we hire you?",
+      "cn": "好吧，为什么我们应该雇用你？"
+    },
+    {
+      "id": 20,
+      "en": "I think that I would be a perfect fit in this company.",
+      "cn": "我认为我非常适合这家公司。"
+    },
+    {
+      "id": 21,
+      "en": "I have a unique combination of strong technical acumen with outstanding soft skills.",
+      "cn": "我有强大的技术能力和出色的软技能的独特组合。"
+    },
+    {
+      "id": 22,
+      "en": "You know, I excel at building strong long-term consumer relationships.",
+      "cn": "你知道，我擅长建立强大的长期客户关系。"
+    },
+    {
+      "id": 23,
+      "en": "For example, when I headed the customer support department in my previous company, our team resolved about 70% of our customers' problems.",
+      "cn": "例如，当我在前公司负责客户支持部门时，我们团队解决了大约70%的客户问题。"
+    },
+    {
+      "id": 24,
+      "en": "I decided that we needed better information and technical preparation on our products.",
+      "cn": "我决定我们需要更好的信息和技术准备。"
+    },
+    {
+      "id": 25,
+      "en": "So after I implemented a series of training sessions in coordination with our technical department, we were able to solve 90% of our customers' issues.",
+      "cn": "所以在我与技术部门协调实施了一系列培训后，我们能够解决90%的客户问题。"
+    },
+    {
+      "id": 26,
+      "en": "Given the opportunity, I could bring this kind of success to this company.",
+      "cn": "如果有机会，我可以为这家公司带来这样的成功。"
+    },
+    {
+      "id": 27,
+      "en": "Impressive.",
+      "cn": "令人印象深刻。"
+    },
+    {
+      "id": 28,
+      "en": "So what would you consider to be your greatest weakness?",
+      "cn": "那么你认为你最大的弱点是什么？"
+    },
+    {
+      "id": 29,
+      "en": "To be honest, I struggle with organization and time management.",
+      "cn": "说实话，我在组织和时间管理方面有困难。"
+    },
+    {
+      "id": 30,
+      "en": "Punctuality has never been a strength of mine.",
+      "cn": "准时从来不是我的强项。"
+    },
+    {
+      "id": 31,
+      "en": "I find it hard to organize my time effectively.",
+      "cn": "我发现很难有效地组织我的时间。"
+    },
+    {
+      "id": 32,
+      "en": "I've actually addressed this weakness recently by attending a workshop on efficient time management.",
+      "cn": "我最近通过参加一个高效时间管理的研讨会解决了这个弱点。"
+    },
+    {
+      "id": 33,
+      "en": "It helped me a lot by providing me with great insights on how to get organized and use my time efficiently.",
+      "cn": "这对我帮助很大，提供了如何组织和有效利用时间的良好见解。"
+    },
+    {
+      "id": 34,
+      "en": "So I think I'm getting better now.",
+      "cn": "所以我认为我现在在变得更好。"
+    },
+    {
+      "id": 35,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 36,
+      "en": "Well, let me tell you that I am very pleased with this interview.",
+      "cn": "好吧，我很高兴这次面试。"
+    },
+    {
+      "id": 37,
+      "en": "We are short-listing our candidates this week.",
+      "cn": "我们本周正在筛选候选人。"
+    },
+    {
+      "id": 38,
+      "en": "And next week, we will inform our short-listed candidates of the day and time for a second interview with our CEO.",
+      "cn": "下周，我们将通知入围候选人第二次面试的日期和时间。"
+    },
+    {
+      "id": 39,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 40,
+      "en": "Thanks a lot.",
+      "cn": "非常感谢。"
+    },
+    {
+      "id": 41,
+      "en": "I hope to hear from you.",
+      "cn": "我希望能收到你的消息。"
+    },
+    {
+      "id": 42,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 43,
+      "en": "Well, our interviewee is doing very well, but I think he had a little bit too many beans or chili.",
+      "cn": "好吧，我们的面试者表现得很好，但我觉得他可能吃了太多豆子或辣椒。"
+    },
+    {
+      "id": 44,
+      "en": "Oh my God.",
+      "cn": "哦，我的天。"
+    },
+    {
+      "id": 45,
+      "en": "Like this is probably the most embarrassing thing I can think of.",
+      "cn": "这可能是我能想到的最尴尬的事情。"
+    },
+    {
+      "id": 46,
+      "en": "But he doesn't say anything, so I don't know.",
+      "cn": "但他什么也没说，所以我不知道。"
+    },
+    {
+      "id": 47,
+      "en": "Maybe he should have said, Oh, pardon me.",
+      "cn": "也许他应该说，哦，抱歉。"
+    },
+    {
+      "id": 48,
+      "en": "Excuse me.",
+      "cn": "劳驾。"
+    },
+    {
+      "id": 49,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 50,
+      "en": "It's a controversy.",
+      "cn": "这是一个争议。"
+    },
+    {
+      "id": 51,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 52,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 53,
+      "en": "But what isn't a controversy is the language because there's some great stuff in here.",
+      "cn": "但语言并不是争议，因为这里有一些很好的内容。"
+    },
+    {
+      "id": 54,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 55,
+      "en": "So let's take a look at the language in Language Takeaway.",
+      "cn": "那么让我们看看语言要点。"
+    },
+    {
+      "id": 56,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 57,
+      "en": "We've got some great phrases and words for you to use when you're talking about what sort of benefits and skills and experience and expertise you can bring to a company.",
+      "cn": "我们有一些很好的短语和词汇，可以在谈论你能为公司带来什么样的好处、技能、经验和专业知识时使用。"
+    },
+    {
+      "id": 58,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 59,
+      "en": "The first thing that he said, and it's a very interesting word.",
+      "cn": "他所说的第一件事是一个非常有趣的词。"
+    },
+    {
+      "id": 60,
+      "en": "He said, technical acumen, technical acumen, acumen, acumen.",
+      "cn": "他说，技术能力，技术能力，能力，能力。"
+    },
+    {
+      "id": 61,
+      "en": "This is a really hard word.",
+      "cn": "这是一个非常难的词。"
+    },
+    {
+      "id": 62,
+      "en": "What is acumen?",
+      "cn": "什么是能力？"
+    },
+    {
+      "id": 63,
+      "en": "It's basically insight and understanding and the ability to make good and difficult decisions.",
+      "cn": "基本上是洞察力和理解力，以及做出良好和困难决策的能力。"
+    },
+    {
+      "id": 64,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 65,
+      "en": "So he has a very strong technical acumen.",
+      "cn": "所以他有很强的技术能力。"
+    },
+    {
+      "id": 66,
+      "en": "So a strong insight or understanding of technical issues.",
+      "cn": "对技术问题有很强的洞察力或理解力。"
+    },
+    {
+      "id": 67,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 68,
+      "en": "Or I can change it and maybe say, I have a very strong business acumen.",
+      "cn": "或者我可以换个说法，可能说，我有很强的商业能力。"
+    },
+    {
+      "id": 69,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 70,
+      "en": "These are the two most common ways that this word is used.",
+      "cn": "这两个是这个词最常用的方式。"
+    },
+    {
+      "id": 71,
+      "en": "Technical acumen, business acumen.",
+      "cn": "技术能力，商业能力。"
+    },
+    {
+      "id": 72,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 73,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 74,
+      "en": "Now let's take a look at another word, which is very interesting because everybody knows it.",
+      "cn": "现在让我们看看另一个词，这个词非常有趣，因为每个人都知道它。"
+    },
+    {
+      "id": 75,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 76,
+      "en": "Excel, Excel, Excel, Excel.",
+      "cn": "擅长，擅长，擅长，擅长。"
+    },
+    {
+      "id": 77,
+      "en": "Now Excel is of course the software that you use, right?",
+      "cn": "现在，Excel当然是你使用的软件，对吧？"
+    },
+    {
+      "id": 78,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 79,
+      "en": "But here it's a verb meaning to be really, really good at something.",
+      "cn": "但在这里它是一个动词，意思是非常擅长某事。"
+    },
+    {
+      "id": 80,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 81,
+      "en": "To be the best maybe.",
+      "cn": "也许是最好的。"
+    },
+    {
+      "id": 82,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 83,
+      "en": "To excel at something.",
+      "cn": "擅长某事。"
+    },
+    {
+      "id": 84,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 85,
+      "en": "So I excel at cooking.",
+      "cn": "所以我擅长烹饪。"
+    },
+    {
+      "id": 86,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 87,
+      "en": "So Excel, you are the best.",
+      "cn": "所以Excel，你是最好的。"
+    },
+    {
+      "id": 88,
+      "en": "I mean, that's not really going to help me in a job interview, but, but the next word might.",
+      "cn": "我是说，这对我在求职面试中并没有太大帮助，但下一个词可能会有帮助。"
+    },
+    {
+      "id": 89,
+      "en": "Head, head.",
+      "cn": "负责，负责。"
+    },
+    {
+      "id": 90,
+      "en": "Well, in the dialogue, we heard it as headed in the past, right?",
+      "cn": "好吧，在对话中，我们听到它作为过去式的负责，对吧？"
+    },
+    {
+      "id": 91,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 92,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 93,
+      "en": "He headed the customer support department.",
+      "cn": "他负责客户支持部门。"
+    },
+    {
+      "id": 94,
+      "en": "So I think this is very, a great, I think this is a great word to use when you were saying I was the leader.",
+      "cn": "所以我认为这是一个很好的词，用来表示我是领导者。"
+    },
+    {
+      "id": 95,
+      "en": "I was the main person in charge.",
+      "cn": "我是主要负责人。"
+    },
+    {
+      "id": 96,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 97,
+      "en": "The manager.",
+      "cn": "经理。"
+    },
+    {
+      "id": 98,
+      "en": "So this is a nice verb to use to show that you were leading something.",
+      "cn": "所以这是一个很好的动词，用来表明你在领导某事。"
+    },
+    {
+      "id": 99,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 100,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 101,
+      "en": "Now for the next word struggle.",
+      "cn": "现在是下一个单词“挣扎”。"
+    },
+    {
+      "id": 102,
+      "en": "To struggle, struggle, struggle.",
+      "cn": "挣扎，挣扎，挣扎。"
+    },
+    {
+      "id": 103,
+      "en": "So what does struggle mean?",
+      "cn": "那么“挣扎”是什么意思？"
+    },
+    {
+      "id": 104,
+      "en": "It means that you have difficulty doing something.",
+      "cn": "意思是你在做某事时遇到困难。"
+    },
+    {
+      "id": 105,
+      "en": "So it's a, it's hard for you.",
+      "cn": "所以这对你来说很难。"
+    },
+    {
+      "id": 106,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 107,
+      "en": "For example, when I was in school, I struggled with math.",
+      "cn": "例如，当我在学校时，我在数学上挣扎。"
+    },
+    {
+      "id": 108,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 109,
+      "en": "And now I struggle with Chinese.",
+      "cn": "现在我在中文上挣扎。"
+    },
+    {
+      "id": 110,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 111,
+      "en": "So to have a hard time.",
+      "cn": "所以有困难。"
+    },
+    {
+      "id": 112,
+      "en": "Why don't we hear a couple of examples of how this word is used?",
+      "cn": "我们为什么不听几个这个词的用法例子呢？"
+    },
+    {
+      "id": 113,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 114,
+      "en": "We're really struggling to reach our sales target.",
+      "cn": "我们真的在努力达到我们的销售目标。"
+    },
+    {
+      "id": 115,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 116,
+      "en": "Yeah, to be honest, I do struggle with time management.",
+      "cn": "是的，老实说，我确实在时间管理上挣扎。"
+    },
+    {
+      "id": 117,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 118,
+      "en": "The teacher farted in class and I really had to struggle not to laugh.",
+      "cn": "老师在课堂上放了个屁，我真的很努力不笑。"
+    },
+    {
+      "id": 119,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 120,
+      "en": "So great examples.",
+      "cn": "很好的例子。"
+    },
+    {
+      "id": 121,
+      "en": "Let's move on to our next word.",
+      "cn": "让我们继续下一个单词。"
+    },
+    {
+      "id": 122,
+      "en": "Punctuality.",
+      "cn": "准时性。"
+    },
+    {
+      "id": 123,
+      "en": "Punctuality.",
+      "cn": "准时性。"
+    },
+    {
+      "id": 124,
+      "en": "Punctuality.",
+      "cn": "准时性。"
+    },
+    {
+      "id": 125,
+      "en": "Punctuality.",
+      "cn": "准时性。"
+    },
+    {
+      "id": 126,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 127,
+      "en": "So to be punctual.",
+      "cn": "所以要准时。"
+    },
+    {
+      "id": 128,
+      "en": "It means to be on time.",
+      "cn": "意思是准时。"
+    },
+    {
+      "id": 129,
+      "en": "Always.",
+      "cn": "一直。"
+    },
+    {
+      "id": 130,
+      "en": "Always.",
+      "cn": "一直。"
+    },
+    {
+      "id": 131,
+      "en": "So punctuality would be the noun form.",
+      "cn": "所以准时性是名词形式。"
+    },
+    {
+      "id": 132,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 133,
+      "en": "So the condition or the state of always being on time.",
+      "cn": "所以是一直准时的状态。"
+    },
+    {
+      "id": 134,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 135,
+      "en": "So punctuality.",
+      "cn": "所以准时性。"
+    },
+    {
+      "id": 136,
+      "en": "To be punctual.",
+      "cn": "要准时。"
+    },
+    {
+      "id": 137,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 138,
+      "en": "And our interviewee struggles with punctuality.",
+      "cn": "我们的受访者在准时性上挣扎。"
+    },
+    {
+      "id": 139,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 140,
+      "en": "Like me.",
+      "cn": "像我一样。"
+    },
+    {
+      "id": 141,
+      "en": "I guess you guys have something in common.",
+      "cn": "我想你们有共同点。"
+    },
+    {
+      "id": 142,
+      "en": "We do.",
+      "cn": "我们有。"
+    },
+    {
+      "id": 143,
+      "en": "Now he has a problem with punctuality, but he said he has addressed this weakness.",
+      "cn": "现在他在准时性上有问题，但他说他已经解决了这个弱点。"
+    },
+    {
+      "id": 144,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 145,
+      "en": "To address.",
+      "cn": "解决。"
+    },
+    {
+      "id": 146,
+      "en": "Address.",
+      "cn": "解决。"
+    },
+    {
+      "id": 147,
+      "en": "Address.",
+      "cn": "解决。"
+    },
+    {
+      "id": 148,
+      "en": "Now if you notice, it's spelled the same way as address.",
+      "cn": "现在如果你注意，它的拼写和地址是一样的。"
+    },
+    {
+      "id": 149,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 150,
+      "en": "But you pronounce it differently.",
+      "cn": "但发音不同。"
+    },
+    {
+      "id": 151,
+      "en": "So the verb address has the stress on the second syllable.",
+      "cn": "所以动词“解决”重音在第二个音节。"
+    },
+    {
+      "id": 152,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 153,
+      "en": "Address.",
+      "cn": "解决。"
+    },
+    {
+      "id": 154,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 155,
+      "en": "And that means to... Deal with.",
+      "cn": "这意味着... 处理。"
+    },
+    {
+      "id": 156,
+      "en": "To deal with the problem.",
+      "cn": "处理问题。"
+    },
+    {
+      "id": 157,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 158,
+      "en": "To acknowledge the problem.",
+      "cn": "认可问题。"
+    },
+    {
+      "id": 159,
+      "en": "And to try and solve it.",
+      "cn": "并尝试解决它。"
+    },
+    {
+      "id": 160,
+      "en": "And to try and solve it.",
+      "cn": "并尝试解决它。"
+    },
+    {
+      "id": 161,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 162,
+      "en": "So different from your home address where you live.",
+      "cn": "所以和你住的家庭地址不同。"
+    },
+    {
+      "id": 163,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 164,
+      "en": "And there the stress is on the first syllable.",
+      "cn": "那里的重音在第一个音节。"
+    },
+    {
+      "id": 165,
+      "en": "Address.",
+      "cn": "地址。"
+    },
+    {
+      "id": 166,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 167,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 168,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 169,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 170,
+      "en": "So let's listen to this dialogue one more time and then we'll come back and talk about these two questions.",
+      "cn": "所以让我们再听一遍这个对话，然后我们再回来讨论这两个问题。"
+    },
+    {
+      "id": 171,
+      "en": "Greatest weakness and why should we hire you?",
+      "cn": "最大的弱点和我们为什么要雇佣你？"
+    },
+    {
+      "id": 172,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 173,
+      "en": "Now I have a couple of final questions.",
+      "cn": "现在我有几个最后的问题。"
+    },
+    {
+      "id": 174,
+      "en": "I hope they're not too hard.",
+      "cn": "我希望它们不是太难。"
+    },
+    {
+      "id": 175,
+      "en": "Well, why should we hire you?",
+      "cn": "好吧，为什么我们要雇佣你？"
+    },
+    {
+      "id": 176,
+      "en": "I think that I would be a perfect fit in this company.",
+      "cn": "我认为我会非常适合这家公司。"
+    },
+    {
+      "id": 177,
+      "en": "I have a unique combination of strong technical acumen with outstanding soft skills.",
+      "cn": "我有强大的技术能力和出色的软技能的独特组合。"
+    },
+    {
+      "id": 178,
+      "en": "You know, I excel at building strong long-term consumer relationships.",
+      "cn": "你知道，我擅长建立强大的长期客户关系。"
+    },
+    {
+      "id": 179,
+      "en": "For example, when I headed the customer support department in my previous company, our team resolved about 70% of our customers' problems.",
+      "cn": "例如，当我在前公司负责客户支持部门时，我们的团队解决了大约70%的客户问题。"
+    },
+    {
+      "id": 180,
+      "en": "I decided that we needed better information and technical preparation on our products.",
+      "cn": "我决定我们需要更好的信息和技术准备。"
+    },
+    {
+      "id": 181,
+      "en": "So after I implemented a series of training sessions in coordination with our technical department, we were able to solve 90% of our customers' issues.",
+      "cn": "所以在我与技术部门协调实施了一系列培训课程后，我们能够解决90%的客户问题。"
+    },
+    {
+      "id": 182,
+      "en": "Given the opportunity, I could bring this kind of success to this company.",
+      "cn": "如果有机会，我可以为这家公司带来这样的成功。"
+    },
+    {
+      "id": 183,
+      "en": "Impressive.",
+      "cn": "令人印象深刻。"
+    },
+    {
+      "id": 184,
+      "en": "So what would you consider to be your greatest weakness?",
+      "cn": "那么你认为你最大的弱点是什么？"
+    },
+    {
+      "id": 185,
+      "en": "To be honest, I struggle with organization and time management.",
+      "cn": "老实说，我在组织和时间管理上挣扎。"
+    },
+    {
+      "id": 186,
+      "en": "Punctuality has never been a strength of mine.",
+      "cn": "准时性从来不是我的强项。"
+    },
+    {
+      "id": 187,
+      "en": "I find it hard to organize my time effectively.",
+      "cn": "我发现很难有效地组织我的时间。"
+    },
+    {
+      "id": 188,
+      "en": "I've actually addressed this weakness recently by attending a workshop on efficient time management.",
+      "cn": "我最近通过参加一个高效时间管理的研讨会解决了这个弱点。"
+    },
+    {
+      "id": 189,
+      "en": "It helped me a lot by providing me with great insights on how to get organized and use my time efficiently.",
+      "cn": "这对我帮助很大，提供了如何组织和有效利用时间的好见解。"
+    },
+    {
+      "id": 190,
+      "en": "So I think I'm getting better now.",
+      "cn": "所以我认为我现在在变得更好。"
+    },
+    {
+      "id": 191,
+      "en": "Oh, great.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 192,
+      "en": "Well, let me tell you that I am very pleased with this interview.",
+      "cn": "好吧，让我告诉你，我对这次面试非常满意。"
+    },
+    {
+      "id": 193,
+      "en": "We are shortlisting our candidates this week.",
+      "cn": "我们本周正在筛选候选人。"
+    },
+    {
+      "id": 194,
+      "en": "And next week, we will inform our shortlisted candidates of the day and time for a second interview with our CEO.",
+      "cn": "下周，我们将通知入围候选人第二次面试的日期和时间。"
+    },
+    {
+      "id": 195,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 196,
+      "en": "Thanks a lot.",
+      "cn": "非常感谢。"
+    },
+    {
+      "id": 197,
+      "en": "I hope to hear from you.",
+      "cn": "我希望能收到你的消息。"
+    },
+    {
+      "id": 198,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 199,
+      "en": "All right, Marco.",
+      "cn": "好的，马尔科。"
+    },
+    {
+      "id": 200,
+      "en": "Well, this classic question, why should we hire you?",
+      "cn": "好吧，这个经典问题，为什么我们要雇佣你？"
+    },
+    {
+      "id": 201,
+      "en": "I think you'll hear it in many, many different interviews.",
+      "cn": "我想你会在很多不同的面试中听到这个问题。"
+    },
+    {
+      "id": 202,
+      "en": "And how did he deal with it here?",
+      "cn": "他在这里是怎么处理的？"
+    },
+    {
+      "id": 203,
+      "en": "Well, the first thing that he said is very, very important because they're asking you why.",
+      "cn": "他首先说的事情非常重要，因为他们在问你为什么。"
+    },
+    {
+      "id": 204,
+      "en": "So your immediate reaction would be to answer with because or I think that.",
+      "cn": "所以你立即的反应可能是用“因为”或“我认为”来回答。"
+    },
+    {
+      "id": 205,
+      "en": "But there's a different way of approaching it, which is a little bit more professional.",
+      "cn": "但有一种更专业的方式来处理这个问题。"
+    },
+    {
+      "id": 206,
+      "en": "He said, I think that I would be a perfect fit in this company.",
+      "cn": "他说，我认为我会非常适合这家公司。"
+    },
+    {
+      "id": 207,
+      "en": "I think I would be a perfect fit in this company.",
+      "cn": "我认为我会非常适合这家公司。"
+    },
+    {
+      "id": 208,
+      "en": "That's how he started his answer.",
+      "cn": "这就是他开始回答的方式。"
+    },
+    {
+      "id": 209,
+      "en": "And then he explained why.",
+      "cn": "然后他解释了原因。"
+    },
+    {
+      "id": 210,
+      "en": "So this sounds really strong, doesn't it?",
+      "cn": "听起来很强烈，不是吗？"
+    },
+    {
+      "id": 211,
+      "en": "Yeah, basically, it just makes you seem to be very confident and puts you like you are already part of the company.",
+      "cn": "是的，基本上，这让你看起来非常自信，仿佛你已经是公司的一部分。"
+    },
+    {
+      "id": 212,
+      "en": "So this is a great way to start off this question.",
+      "cn": "所以这是开始这个问题的好方法。"
+    },
+    {
+      "id": 213,
+      "en": "But you got to follow this up with some information.",
+      "cn": "但你需要跟进一些信息。"
+    },
+    {
+      "id": 214,
+      "en": "So what kind of information should you be giving?",
+      "cn": "那么你应该提供什么样的信息呢？"
+    },
+    {
+      "id": 215,
+      "en": "Well, like we talked about in your work experience, the same thing goes here.",
+      "cn": "像我们在你的工作经验中讨论的，情况也是一样。"
+    },
+    {
+      "id": 216,
+      "en": "What do you have to offer to this company?",
+      "cn": "你能为这家公司提供什么？"
+    },
+    {
+      "id": 217,
+      "en": "What special skills or insights or experience can you bring that would help us?",
+      "cn": "你能带来什么特别的技能、见解或经验来帮助我们？"
+    },
+    {
+      "id": 218,
+      "en": "Yeah, that nobody else can bring.",
+      "cn": "是的，其他人无法带来的。"
+    },
+    {
+      "id": 219,
+      "en": "So again, you have to start talking about your strengths and your previous experience, but with examples, right?",
+      "cn": "所以再次，你需要开始谈论你的优势和之前的经验，但要有例子，对吧？"
+    },
+    {
+      "id": 220,
+      "en": "Very, very specific examples.",
+      "cn": "非常具体的例子。"
+    },
+    {
+      "id": 221,
+      "en": "And whenever you can throw in some numbers or some specific successes that you have had.",
+      "cn": "并且每当你能提供一些数字或你取得的具体成功时。"
+    },
+    {
+      "id": 222,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 223,
+      "en": "And once you've talked about these things, you can close off this answer by saying, given the opportunity, I could bring this kind of success to this company.",
+      "cn": "一旦你谈论了这些事情，你可以通过说，给我机会，我可以为这家公司带来这样的成功来结束这个回答。"
+    },
+    {
+      "id": 224,
+      "en": "Given the opportunity, I could bring this kind of success to this company.",
+      "cn": "给我机会，我可以为这家公司带来这样的成功。"
+    },
+    {
+      "id": 225,
+      "en": "So that is just like a magical sentence saying like, if you give me the chance, I will demonstrate how good I am and how I can help this company.",
+      "cn": "这就像是一个神奇的句子，意思是，如果你给我机会，我会展示我有多优秀，以及我如何能帮助这家公司。"
+    },
+    {
+      "id": 226,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 227,
+      "en": "A really, really strong closing argument.",
+      "cn": "一个非常强有力的结束论点。"
+    },
+    {
+      "id": 228,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 229,
+      "en": "So that's the way you should more or less approach that question, right?",
+      "cn": "所以这就是你应该大致上处理这个问题的方式，对吧？"
+    },
+    {
+      "id": 230,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 231,
+      "en": "But let's turn now to the classic, classic question, your greatest weakness.",
+      "cn": "但现在让我们转向经典问题，你最大的弱点是什么？"
+    },
+    {
+      "id": 232,
+      "en": "What is your greatest weakness?",
+      "cn": "你最大的弱点是什么？"
+    },
+    {
+      "id": 233,
+      "en": "When you get this question, be sure to not say, my greatest weakness is I work too much.",
+      "cn": "当你得到这个问题时，确保不要说，我最大的弱点是我工作太多。"
+    },
+    {
+      "id": 234,
+      "en": "My greatest weakness is I'm a workaholic.",
+      "cn": "我最大的弱点是我是个工作狂。"
+    },
+    {
+      "id": 235,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 236,
+      "en": "Or, what was it?",
+      "cn": "或者，是什么来着？"
+    },
+    {
+      "id": 237,
+      "en": "Oh, or I am a perfectionist.",
+      "cn": "哦，或者我很完美主义。"
+    },
+    {
+      "id": 238,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 239,
+      "en": "These, we can see right through these.",
+      "cn": "这些，我们一眼就能看穿。"
+    },
+    {
+      "id": 240,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 241,
+      "en": "I mean, they're too obvious and they're too, they're too silly.",
+      "cn": "我的意思是，它们太明显了，太傻了。"
+    },
+    {
+      "id": 242,
+      "en": "I mean, everyone has a weakness, so don't try and turn it around into a strength.",
+      "cn": "每个人都有弱点，所以不要试图把它变成优点。"
+    },
+    {
+      "id": 243,
+      "en": "I just don't think that's a good idea.",
+      "cn": "我认为这不是个好主意。"
+    },
+    {
+      "id": 244,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 245,
+      "en": "So yeah, be sure to stay away from these answers, but you can say anything like in this case, he has a problem with being on time.",
+      "cn": "所以是的，确保远离这些回答，但你可以说任何事情，比如在这种情况下，他有守时的问题。"
+    },
+    {
+      "id": 246,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 247,
+      "en": "So be honest, say what one of your greatest weaknesses are, but the key to making this weakness look good is saying what you are doing to solve this weakness.",
+      "cn": "所以要诚实，说明你最大的弱点之一是什么，但让这个弱点看起来好的关键是说你正在做什么来解决这个弱点。"
+    },
+    {
+      "id": 248,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 249,
+      "en": "So, so really be truthful.",
+      "cn": "所以，真的要诚实。"
+    },
+    {
+      "id": 250,
+      "en": "Tell, tell the interviewer what you're not good at.",
+      "cn": "告诉面试官你不擅长什么。"
+    },
+    {
+      "id": 251,
+      "en": "Cause, cause you're, there's obviously something that you're not good at.",
+      "cn": "因为，显然你有一些不擅长的事情。"
+    },
+    {
+      "id": 252,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 253,
+      "en": "So you can say, I am usually late, but I am getting more organized.",
+      "cn": "所以你可以说，我通常迟到，但我正在变得更有条理。"
+    },
+    {
+      "id": 254,
+      "en": "I am doing the seminar.",
+      "cn": "我正在参加研讨会。"
+    },
+    {
+      "id": 255,
+      "en": "I, you know, let the interviewer know that you are trying to improve this weakness.",
+      "cn": "我，你知道，让面试官知道你正在努力改善这个弱点。"
+    },
+    {
+      "id": 256,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 257,
+      "en": "And be sure to also think about your strength, right?",
+      "cn": "并且确保也考虑你的优势，对吧？"
+    },
+    {
+      "id": 258,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 259,
+      "en": "Be prepared to answer the question, what is your greatest strength?",
+      "cn": "准备好回答这个问题，你最大的优势是什么？"
+    },
+    {
+      "id": 260,
+      "en": "Uh -huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 261,
+      "en": "So, and again, when you're talking about your strengths, be sure it's something more specific than saying, Oh, I'm very responsible.",
+      "cn": "所以，再次，当你谈论你的优势时，确保它比说，哦，我非常负责任更具体。"
+    },
+    {
+      "id": 262,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 263,
+      "en": "Um, you, you want to be, um, as specific as you can.",
+      "cn": "嗯，你想尽可能具体。"
+    },
+    {
+      "id": 264,
+      "en": "And again, give those examples, give those, give those successes, give those numbers.",
+      "cn": "再次，给出那些例子，给出那些成功，给出那些数字。"
+    },
+    {
+      "id": 265,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 266,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 267,
+      "en": "So think about your weaknesses.",
+      "cn": "所以考虑你的弱点。"
+    },
+    {
+      "id": 268,
+      "en": "Think about your strengths.",
+      "cn": "考虑你的优势。"
+    },
+    {
+      "id": 269,
+      "en": "If you don't know them, ask people to ask your colleagues or ask your friends, what do you think is my greatest strength?",
+      "cn": "如果你不知道它们，问问别人，问问你的同事或朋友，你认为我最大的优势是什么？"
+    },
+    {
+      "id": 270,
+      "en": "Maybe you're a funny person.",
+      "cn": "也许你是个幽默的人。"
+    },
+    {
+      "id": 271,
+      "en": "That's a strength.",
+      "cn": "这就是一种优势。"
+    },
+    {
+      "id": 272,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 273,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 274,
+      "en": "Well, remember there's, there are three parts to this interviewing series, and you can find them on our website at EnglishPod.com.",
+      "cn": "好吧，记住这个面试系列有三个部分，你可以在我们的网站 EnglishPod.com 上找到它们。"
+    },
+    {
+      "id": 275,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 276,
+      "en": "Come to our website, EnglishPod.com.",
+      "cn": "来我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 277,
+      "en": "You can look at all of these three lessons and I hope they are really helpful.",
+      "cn": "你可以查看这三节课，我希望它们真的对你有帮助。"
+    },
+    {
+      "id": 278,
+      "en": "And of course, if you have any questions or comments, or maybe you'd like a little bit more of this interview series, let us know.",
+      "cn": "当然，如果你有任何问题或评论，或者你想要更多这样的面试系列，请告诉我们。"
+    },
+    {
+      "id": 279,
+      "en": "All right, guys.",
+      "cn": "好的，大家。"
+    },
+    {
+      "id": 280,
+      "en": "Well, thanks for listening.",
+      "cn": "感谢你的收听。"
+    },
+    {
+      "id": 281,
+      "en": "Good luck in your interviews and until next time.",
+      "cn": "祝你面试顺利，下次再见。"
+    },
+    {
+      "id": 282,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    }
+  ]
+}

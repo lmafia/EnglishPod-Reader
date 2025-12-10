@@ -1,0 +1,1424 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0287",
+  "title": "EnglishPod 中级 0287",
+  "totalSegments": 283,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we have an elementary-level lesson in which we're going to talk about small talk.",
+      "cn": "我叫Catherine，今天我们有一节初级课程，我们将讨论闲聊。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're going to talk to an old friend, and so we're going to give you some of the words and phrases you need to talk about your past or talk about how you have been.",
+      "cn": "今天我们要和一位老朋友交谈，所以我们会给你一些关于谈论过去或你最近过得怎么样的单词和短语。"
+    },
+    {
+      "id": 6,
+      "en": "So let's listen to today's dialogue, and we'll be back in a moment to discuss it.",
+      "cn": "让我们来听今天的对话，稍后我们会回来讨论。"
+    },
+    {
+      "id": 7,
+      "en": "I hate coming to high school reunions.",
+      "cn": "我讨厌参加高中聚会。"
+    },
+    {
+      "id": 8,
+      "en": "It'll be great, honey.",
+      "cn": "这会很棒，亲爱的。"
+    },
+    {
+      "id": 9,
+      "en": "We will get to see your old classmates and catch up to see how they've been doing.",
+      "cn": "我们可以见到你的老同学，聊聊他们过得怎么样。"
+    },
+    {
+      "id": 10,
+      "en": "Uh, yeah, I guess so.",
+      "cn": "嗯，是的，我想是这样。"
+    },
+    {
+      "id": 11,
+      "en": "Oh, look.",
+      "cn": "哦，看看。"
+    },
+    {
+      "id": 12,
+      "en": "There's Robert Matthews.",
+      "cn": "那是Robert Matthews。"
+    },
+    {
+      "id": 13,
+      "en": "Rob!",
+      "cn": "Rob！"
+    },
+    {
+      "id": 14,
+      "en": "Hey, Bill.",
+      "cn": "嘿，Bill。"
+    },
+    {
+      "id": 15,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 16,
+      "en": "Great to see you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 17,
+      "en": "Likewise.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 18,
+      "en": "It's been a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 19,
+      "en": "This is my wife, Dorothy.",
+      "cn": "这是我的妻子Dorothy。"
+    },
+    {
+      "id": 20,
+      "en": "Pleasure to meet you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 21,
+      "en": "So, Bill, how have you been?",
+      "cn": "所以，Bill，你最近怎么样？"
+    },
+    {
+      "id": 22,
+      "en": "Can't complain.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 23,
+      "en": "We have two children who are in college, and my business is going well.",
+      "cn": "我们有两个上大学的孩子，我的生意也很好。"
+    },
+    {
+      "id": 24,
+      "en": "How about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 25,
+      "en": "Ah, you know me.",
+      "cn": "啊，你知道我。"
+    },
+    {
+      "id": 26,
+      "en": "I'm a dedicated bachelor.",
+      "cn": "我是个专心的单身汉。"
+    },
+    {
+      "id": 27,
+      "en": "I never married, although I do have a beautiful daughter with Mary.",
+      "cn": "我从未结婚，虽然我和Mary有一个漂亮的女儿。"
+    },
+    {
+      "id": 28,
+      "en": "You remember her.",
+      "cn": "你还记得她。"
+    },
+    {
+      "id": 29,
+      "en": "We were high school sweethearts.",
+      "cn": "我们是高中恋人。"
+    },
+    {
+      "id": 30,
+      "en": "It didn't really work out between us, but I really can't complain either.",
+      "cn": "我们之间并没有真正成功，但我也不能抱怨。"
+    },
+    {
+      "id": 31,
+      "en": "That's good.",
+      "cn": "那很好。"
+    },
+    {
+      "id": 32,
+      "en": "Have you seen Frank?",
+      "cn": "你见过Frank吗？"
+    },
+    {
+      "id": 33,
+      "en": "I was hoping he would come tonight.",
+      "cn": "我希望他今晚能来。"
+    },
+    {
+      "id": 34,
+      "en": "You didn't hear?",
+      "cn": "你没听说吗？"
+    },
+    {
+      "id": 35,
+      "en": "Frank passed away last year.",
+      "cn": "Frank去年去世了。"
+    },
+    {
+      "id": 36,
+      "en": "Are you serious?",
+      "cn": "你是认真的吗？"
+    },
+    {
+      "id": 37,
+      "en": "Nah, I'm just janking your chain.",
+      "cn": "不，我只是开玩笑。"
+    },
+    {
+      "id": 38,
+      "en": "He'll be here soon.",
+      "cn": "他很快就会来了。"
+    },
+    {
+      "id": 39,
+      "en": "I saw him last week.",
+      "cn": "我上周见过他。"
+    },
+    {
+      "id": 40,
+      "en": "He told me he would show up.",
+      "cn": "他告诉我他会出现。"
+    },
+    {
+      "id": 41,
+      "en": "Alright, we're back, so now let's get started with our Language Takeaway.",
+      "cn": "好的，我们回来了，现在让我们开始我们的语言要点。"
+    },
+    {
+      "id": 42,
+      "en": "The first phrase we have here in Language Takeaway is a very important one because it is the setting for today's dialogue.",
+      "cn": "我们在语言要点中有的第一个短语是一个非常重要的短语，因为它是今天对话的背景。"
+    },
+    {
+      "id": 43,
+      "en": "We are at a high school reunion.",
+      "cn": "我们在高中聚会上。"
+    },
+    {
+      "id": 44,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 45,
+      "en": "So everyone knows what high school is, but a high school reunion is when you go back to your high school for a party maybe 5 years or 10 years after you graduate, so then you meet all your old friends from high school, you talk about how you have been,",
+      "cn": "所以每个人都知道高中是什么，但高中聚会是指你在毕业后大约5年或10年回到高中参加聚会，这样你就可以见到所有的老朋友，聊聊他们过得怎么样，"
+    },
+    {
+      "id": 46,
+      "en": "and just meet up with everyone that maybe you haven't seen in a very long time.",
+      "cn": "以及见到那些你可能很久没见过的人。"
+    },
+    {
+      "id": 47,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 48,
+      "en": "So a reunion usually happens every 5 years, 10 years, or 20 years.",
+      "cn": "所以聚会通常每5年、10年或20年举行一次。"
+    },
+    {
+      "id": 49,
+      "en": "It can happen at different times, but this is important because you can have many different kinds of reunions, like a college reunion or a high school reunion.",
+      "cn": "它可以在不同的时间发生，但这很重要，因为你可以有许多不同类型的聚会，比如大学聚会或高中聚会。"
+    },
+    {
+      "id": 50,
+      "en": "I've even heard of some people who had an elementary school reunion.",
+      "cn": "我甚至听说过一些人举办过小学聚会。"
+    },
+    {
+      "id": 51,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 52,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 53,
+      "en": "Imagine seeing your classmates when you were maybe 10 years old.",
+      "cn": "想象一下，当你10岁时见到你的同学。"
+    },
+    {
+      "id": 54,
+      "en": "I couldn't imagine it.",
+      "cn": "我无法想象。"
+    },
+    {
+      "id": 55,
+      "en": "Alright, so we're at a high school reunion, and we are there because we're going to meet our old classmates to catch up and see how they have been.",
+      "cn": "好吧，所以我们在高中聚会上，我们在那里是因为我们要见到老同学，聊聊他们过得怎么样。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so this is exactly what you do at a reunion.",
+      "cn": "好的，这正是你在聚会上要做的。"
+    },
+    {
+      "id": 57,
+      "en": "You catch up with people that you maybe lost touch with.",
+      "cn": "你和那些你可能失去联系的人聊聊。"
+    },
+    {
+      "id": 58,
+      "en": "To catch up means to find out about what people have been doing since the last time you talked.",
+      "cn": "聊天意味着了解自上次交谈以来人们在做什么。"
+    },
+    {
+      "id": 59,
+      "en": "So maybe Marco and I were classmates in high school, and we haven't talked in 10 years.",
+      "cn": "所以也许Marco和我在高中是同班同学，我们已经10年没聊过了。"
+    },
+    {
+      "id": 60,
+      "en": "I say, Marco, I want to catch up.",
+      "cn": "我说，Marco，我想聊聊。"
+    },
+    {
+      "id": 61,
+      "en": "I want to learn about what you do, who you married, where you work, things like that.",
+      "cn": "我想了解你在做什么，结婚了没有，在哪里工作，诸如此类。"
+    },
+    {
+      "id": 62,
+      "en": "Right, so when two people get together to catch up, maybe it doesn't even have to be a very long time.",
+      "cn": "对，所以当两个人聚在一起聊天时，也许并不需要很长时间。"
+    },
+    {
+      "id": 63,
+      "en": "Maybe you haven't seen your friend for a week, and so you want to get together, have a cup of coffee, and catch up, and see how the relationship has been going, or how his work.",
+      "cn": "也许你一周没见到你的朋友，所以你想聚在一起，喝杯咖啡，聊聊，看看关系如何，或者他的工作怎么样。"
+    },
+    {
+      "id": 64,
+      "en": "So you want to catch up.",
+      "cn": "所以你想聊聊。"
+    },
+    {
+      "id": 65,
+      "en": "So you can say this in a very simple way, let's catch up, or it's been nice to catch up.",
+      "cn": "所以你可以用非常简单的方式说，让我们聊聊，或者很高兴聊聊。"
+    },
+    {
+      "id": 66,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 67,
+      "en": "Alright, moving on to our next word.",
+      "cn": "好的，接下来是我们的下一个词。"
+    },
+    {
+      "id": 68,
+      "en": "This guy, Bill, meets up with Robert Matthews, and they're saying, hey, wow, great to see you.",
+      "cn": "这个家伙Bill和Robert Matthews见面，他们说，嘿，哇，很高兴见到你。"
+    },
+    {
+      "id": 69,
+      "en": "And he answers by saying, likewise.",
+      "cn": "他回答说，我也是。"
+    },
+    {
+      "id": 70,
+      "en": "So it's good to see you, likewise.",
+      "cn": "所以很高兴见到你，我也是。"
+    },
+    {
+      "id": 71,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 72,
+      "en": "That means it's good to see you, too.",
+      "cn": "这意味着我也很高兴见到你。"
+    },
+    {
+      "id": 73,
+      "en": "So you don't have to repeat everything that person just said.",
+      "cn": "所以你不必重复那个人刚刚说的所有话。"
+    },
+    {
+      "id": 74,
+      "en": "For example, if I just meet someone new, and I say, it's a pleasure to meet you, you can say... I could say likewise.",
+      "cn": "例如，如果我刚认识一个人，我说，很高兴见到你，你可以说……我可以说我也是。"
+    },
+    {
+      "id": 75,
+      "en": "Likewise.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 76,
+      "en": "Because I don't want to say, it's a pleasure to meet you, too.",
+      "cn": "因为我不想说，我也很高兴见到你。"
+    },
+    {
+      "id": 77,
+      "en": "That's so many words.",
+      "cn": "那样太多话了。"
+    },
+    {
+      "id": 78,
+      "en": "So likewise is a very short way to say all of those things.",
+      "cn": "所以“我也是”是一个非常简短的说法。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "So we were finding out about Robert Matthews, and he says that, well, he is a dedicated bachelor.",
+      "cn": "所以我们在了解Robert Matthews，他说，他是个专心的单身汉。"
+    },
+    {
+      "id": 81,
+      "en": "So a dedicated bachelor, what is a bachelor, Marco?",
+      "cn": "那么，单身汉是什么，Marco？"
+    },
+    {
+      "id": 82,
+      "en": "So a bachelor is a person who is not married, a person who is single.",
+      "cn": "所以单身汉是一个未婚的人，一个单身的人。"
+    },
+    {
+      "id": 83,
+      "en": "A man, a woman cannot be a bachelor.",
+      "cn": "男人，女人不能是单身汉。"
+    },
+    {
+      "id": 84,
+      "en": "So a bachelor is specifically a man, and he's not married.",
+      "cn": "所以单身汉特指一个男人，他没有结婚。"
+    },
+    {
+      "id": 85,
+      "en": "And we often have a stereotype.",
+      "cn": "我们通常有一个刻板印象。"
+    },
+    {
+      "id": 86,
+      "en": "That means we have an idea of what a bachelor lives like.",
+      "cn": "这意味着我们对单身汉的生活方式有一个想法。"
+    },
+    {
+      "id": 87,
+      "en": "He has only beer in his refrigerator, and he has many relationships, and no wife.",
+      "cn": "他冰箱里只有啤酒，有很多关系，没有妻子。"
+    },
+    {
+      "id": 88,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 89,
+      "en": "So a dedicated bachelor is a person who is not married, and doesn't really seem to want to get married, or any of this.",
+      "cn": "所以专心的单身汉是一个未婚的人，并且似乎不想结婚，或者任何这些。"
+    },
+    {
+      "id": 90,
+      "en": "He wants to stay single.",
+      "cn": "他想保持单身。"
+    },
+    {
+      "id": 91,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 92,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 93,
+      "en": "And well, to finish off, this guy Robert lied a little bit to Bill, saying that Frank had passed away.",
+      "cn": "而且，最后，这个家伙Robert对Bill撒了点谎，说Frank去世了。"
+    },
+    {
+      "id": 94,
+      "en": "That's really mean.",
+      "cn": "这真的很恶劣。"
+    },
+    {
+      "id": 95,
+      "en": "But this phrase, to pass away, is very important, and something we should talk about.",
+      "cn": "但这个短语“去世”是非常重要的，我们应该谈谈。"
+    },
+    {
+      "id": 96,
+      "en": "So what does it mean, to pass away?",
+      "cn": "那么，去世是什么意思？"
+    },
+    {
+      "id": 97,
+      "en": "It's another way of saying, he died.",
+      "cn": "这是另一种说法，他死了。"
+    },
+    {
+      "id": 98,
+      "en": "But it's nicer.",
+      "cn": "但这更好听。"
+    },
+    {
+      "id": 99,
+      "en": "Yeah, it's a lot more subtle and nicer.",
+      "cn": "是的，这更微妙，更好听。"
+    },
+    {
+      "id": 100,
+      "en": "So instead of saying, Frank died, you say, Frank passed away.",
+      "cn": "所以与其说Frank死了，不如说Frank去世了。"
+    },
+    {
+      "id": 101,
+      "en": "So you could say, you know, last year my grandmother passed away.",
+      "cn": "所以你可以说，去年我祖母去世了。"
+    },
+    {
+      "id": 102,
+      "en": "That's a way of saying that my grandmother died last year.",
+      "cn": "这是一种说法，表示我祖母去年去世了。"
+    },
+    {
+      "id": 103,
+      "en": "But again, it's a lot nicer way to say that.",
+      "cn": "但这说法更温和。"
+    },
+    {
+      "id": 104,
+      "en": "Right, because the word died can be a little bit too direct and too harsh.",
+      "cn": "对，因为“去世”这个词可能太直接和严厉。"
+    },
+    {
+      "id": 105,
+      "en": "So maybe saying, my grandmother passed away last year, it's a nicer way of saying it.",
+      "cn": "所以也许说“我祖母去年去世了”是一种更好的说法。"
+    },
+    {
+      "id": 106,
+      "en": "Okay, so that's all the language takeaway you have.",
+      "cn": "好的，这就是你需要的语言要点。"
+    },
+    {
+      "id": 107,
+      "en": "Let's take a look at our dialogue again, and we'll be back.",
+      "cn": "让我们再看看我们的对话，然后我们会回来。"
+    },
+    {
+      "id": 108,
+      "en": "I hate coming to high school reunions.",
+      "cn": "我讨厌参加高中聚会。"
+    },
+    {
+      "id": 109,
+      "en": "It'll be great, honey.",
+      "cn": "这会很棒，亲爱的。"
+    },
+    {
+      "id": 110,
+      "en": "We will get to see your old classmates and catch up to see how they've been doing.",
+      "cn": "我们可以见到你的老同学，聊聊他们的近况。"
+    },
+    {
+      "id": 111,
+      "en": "Yeah, I guess so.",
+      "cn": "是的，我想是这样。"
+    },
+    {
+      "id": 112,
+      "en": "Oh, look, there's Robert Matthews.",
+      "cn": "哦，看，罗伯特·马修斯来了。"
+    },
+    {
+      "id": 113,
+      "en": "Rob!",
+      "cn": "罗布！"
+    },
+    {
+      "id": 114,
+      "en": "Hey, Bill.",
+      "cn": "嘿，比尔。"
+    },
+    {
+      "id": 115,
+      "en": "Wow, great to see you.",
+      "cn": "哇，见到你真好。"
+    },
+    {
+      "id": 116,
+      "en": "Likewise, it's been a long time.",
+      "cn": "我也是，已经很久了。"
+    },
+    {
+      "id": 117,
+      "en": "This is my wife, Dorothy.",
+      "cn": "这是我的妻子，多萝西。"
+    },
+    {
+      "id": 118,
+      "en": "Pleasure to meet you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 119,
+      "en": "So Bill, how have you been?",
+      "cn": "比尔，你最近怎么样？"
+    },
+    {
+      "id": 120,
+      "en": "Can't complain.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 121,
+      "en": "We have two children who are in college and my business is going well.",
+      "cn": "我们有两个上大学的孩子，我的生意也很好。"
+    },
+    {
+      "id": 122,
+      "en": "How about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 123,
+      "en": "Ah, you know me.",
+      "cn": "啊，你知道我。"
+    },
+    {
+      "id": 124,
+      "en": "I'm a dedicated bachelor.",
+      "cn": "我是个专心的单身汉。"
+    },
+    {
+      "id": 125,
+      "en": "I never married, although I do have a beautiful daughter with Mary.",
+      "cn": "我从未结婚，虽然我和玛丽有一个漂亮的女儿。"
+    },
+    {
+      "id": 126,
+      "en": "You remember her.",
+      "cn": "你记得她。"
+    },
+    {
+      "id": 127,
+      "en": "We were high school sweethearts.",
+      "cn": "我们是高中恋人。"
+    },
+    {
+      "id": 128,
+      "en": "It didn't really work out between us, but I really can't complain either.",
+      "cn": "我们之间并没有真正成功，但我也不能抱怨。"
+    },
+    {
+      "id": 129,
+      "en": "That's good.",
+      "cn": "那很好。"
+    },
+    {
+      "id": 130,
+      "en": "Have you seen Frank?",
+      "cn": "你见过弗兰克吗？"
+    },
+    {
+      "id": 131,
+      "en": "I was hoping he would come tonight.",
+      "cn": "我希望他今晚能来。"
+    },
+    {
+      "id": 132,
+      "en": "You didn't hear?",
+      "cn": "你没听说吗？"
+    },
+    {
+      "id": 133,
+      "en": "Frank passed away last year.",
+      "cn": "弗兰克去年去世了。"
+    },
+    {
+      "id": 134,
+      "en": "Are you serious?",
+      "cn": "你在开玩笑吧？"
+    },
+    {
+      "id": 135,
+      "en": "Nah, I'm just janking your chain.",
+      "cn": "不，我只是在逗你。"
+    },
+    {
+      "id": 136,
+      "en": "He'll be here soon.",
+      "cn": "他很快就会来了。"
+    },
+    {
+      "id": 137,
+      "en": "I saw him last week.",
+      "cn": "我上周见过他。"
+    },
+    {
+      "id": 138,
+      "en": "He told me he would show up.",
+      "cn": "他告诉我他会来。"
+    },
+    {
+      "id": 139,
+      "en": "All right, let's move on now to four key phrases on Fluency Builder.",
+      "cn": "好吧，现在让我们继续四个关键短语的流利构建。"
+    },
+    {
+      "id": 140,
+      "en": "Fluency Builder.",
+      "cn": "流利构建。"
+    },
+    {
+      "id": 141,
+      "en": "So the focus of today's Fluency Builder is small talk.",
+      "cn": "所以今天流利构建的重点是闲聊。"
+    },
+    {
+      "id": 142,
+      "en": "These are phrases you can use when you're at a reunion or dinner, especially with people you don't know very well.",
+      "cn": "这些是你在聚会或晚餐时可以使用的短语，尤其是与不太熟悉的人。"
+    },
+    {
+      "id": 143,
+      "en": "So let's jump in and look at this first phrase.",
+      "cn": "所以让我们跳进去看看第一个短语。"
+    },
+    {
+      "id": 144,
+      "en": "Great to see you.",
+      "cn": "见到你真好。"
+    },
+    {
+      "id": 145,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 146,
+      "en": "So he says, Hey Bill, wow, great to see you.",
+      "cn": "所以他说，嘿，比尔，哇，见到你真好。"
+    },
+    {
+      "id": 147,
+      "en": "So this is a nice little opening phrase saying, wow, I'm really excited to see you.",
+      "cn": "这是一个很好的开场白，表示，哇，我真的很高兴见到你。"
+    },
+    {
+      "id": 148,
+      "en": "I'm really happy to see you.",
+      "cn": "我真的很高兴见到你。"
+    },
+    {
+      "id": 149,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 150,
+      "en": "It means I'm happy.",
+      "cn": "这意味着我很高兴。"
+    },
+    {
+      "id": 151,
+      "en": "Look at you, you know, great to see you.",
+      "cn": "看看你，知道吗，见到你真好。"
+    },
+    {
+      "id": 152,
+      "en": "You say this at the beginning of a conversation.",
+      "cn": "你在对话开始时说这个。"
+    },
+    {
+      "id": 153,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 154,
+      "en": "And actually, Bill responded by saying, likewise.",
+      "cn": "实际上，比尔回应说，同样。"
+    },
+    {
+      "id": 155,
+      "en": "So we talked about this.",
+      "cn": "所以我们谈到了这个。"
+    },
+    {
+      "id": 156,
+      "en": "He's saying, wow, great to see you too.",
+      "cn": "他在说，哇，见到你也很好。"
+    },
+    {
+      "id": 157,
+      "en": "Then he continues by saying, it's been a long time.",
+      "cn": "然后他继续说，已经很久了。"
+    },
+    {
+      "id": 158,
+      "en": "This means that these two people, they have not seen each other in a very long time.",
+      "cn": "这意味着这两个人很久没有见面了。"
+    },
+    {
+      "id": 159,
+      "en": "You can also say, it's been so long, or it's been a long time.",
+      "cn": "你也可以说，太久了，或者很久没见。"
+    },
+    {
+      "id": 160,
+      "en": "That means it's been a long time since we last saw each other.",
+      "cn": "这意味着自从我们上次见面已经很久了。"
+    },
+    {
+      "id": 161,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 162,
+      "en": "So Robert goes on to ask Bill.",
+      "cn": "所以罗伯特接着问比尔。"
+    },
+    {
+      "id": 163,
+      "en": "He says, well, you know, how have you been?",
+      "cn": "他说，嗯，你知道，你最近怎么样？"
+    },
+    {
+      "id": 164,
+      "en": "How are things?",
+      "cn": "最近怎么样？"
+    },
+    {
+      "id": 165,
+      "en": "Bill answers by saying, can't complain.",
+      "cn": "比尔回答说，没什么好抱怨的。"
+    },
+    {
+      "id": 166,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 167,
+      "en": "So this is not grammatically correct.",
+      "cn": "所以这在语法上不太正确。"
+    },
+    {
+      "id": 168,
+      "en": "Normally you need a subject, right?",
+      "cn": "通常你需要一个主语，对吧？"
+    },
+    {
+      "id": 169,
+      "en": "I can't complain.",
+      "cn": "我不能抱怨。"
+    },
+    {
+      "id": 170,
+      "en": "But when we're speaking in English and we're having a conversation like this, it's okay to say just can't complain as a phrase.",
+      "cn": "但当我们用英语交谈时，这样说“没什么好抱怨的”是可以的。"
+    },
+    {
+      "id": 171,
+      "en": "So he's saying, how have you been?",
+      "cn": "所以他说，你最近怎么样？"
+    },
+    {
+      "id": 172,
+      "en": "Well, I can't complain or can't complain.",
+      "cn": "嗯，我没什么好抱怨的。"
+    },
+    {
+      "id": 173,
+      "en": "That means nothing bad has happened.",
+      "cn": "这意味着没有发生什么坏事。"
+    },
+    {
+      "id": 174,
+      "en": "Things are okay.",
+      "cn": "一切都还好。"
+    },
+    {
+      "id": 175,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 176,
+      "en": "You're saying that things are good.",
+      "cn": "你在说事情还不错。"
+    },
+    {
+      "id": 177,
+      "en": "They're not fantastic, but they're not bad either.",
+      "cn": "他们不是很好，但也不坏。"
+    },
+    {
+      "id": 178,
+      "en": "So you can't really complain.",
+      "cn": "所以你真的不能抱怨。"
+    },
+    {
+      "id": 179,
+      "en": "So it's just a phrase where very directly you can say, oh, can't complain.",
+      "cn": "所以这只是一个短语，你可以直接说，哦，没什么好抱怨的。"
+    },
+    {
+      "id": 180,
+      "en": "Everything's great.",
+      "cn": "一切都很好。"
+    },
+    {
+      "id": 181,
+      "en": "So you could even say this about, about other things.",
+      "cn": "所以你甚至可以这样说，关于其他事情。"
+    },
+    {
+      "id": 182,
+      "en": "Like, you know, I asked, I asked John how his job was and he said, can't complain.",
+      "cn": "比如，我问约翰他的工作怎么样，他说，没什么好抱怨的。"
+    },
+    {
+      "id": 183,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 184,
+      "en": "It's not great, but it's not bad.",
+      "cn": "这不是很好，但也不坏。"
+    },
+    {
+      "id": 185,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 186,
+      "en": "Exactly right.",
+      "cn": "完全正确。"
+    },
+    {
+      "id": 187,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 188,
+      "en": "And obviously we saw how Robert lied to Bill by saying that their good friend, that their good friend, Frank had passed away and he said, are you serious?",
+      "cn": "显然我们看到罗伯特是如何通过说他们的好朋友弗兰克去世来欺骗比尔的，他说，你在开玩笑吧？"
+    },
+    {
+      "id": 189,
+      "en": "No, I'm just yanking your chain.",
+      "cn": "不，我只是在逗你。"
+    },
+    {
+      "id": 190,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 191,
+      "en": "So this might sound very strange to, to a lot of you because a chain is something that that doesn't really seem to fit in this conversation, but yanking your chain, remember this as a phrase, it means I'm just joking.",
+      "cn": "所以这对很多人来说可能听起来很奇怪，因为链条似乎与这个对话不太相关，但“逗你”这个短语，记住它，意思是我只是在开玩笑。"
+    },
+    {
+      "id": 192,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 193,
+      "en": "I'm just kidding.",
+      "cn": "我只是在开玩笑。"
+    },
+    {
+      "id": 194,
+      "en": "I'm lying to you, I guess.",
+      "cn": "我在骗你，我想。"
+    },
+    {
+      "id": 195,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 196,
+      "en": "So, but how can you use this in another context?",
+      "cn": "那么，你如何在其他上下文中使用这个呢？"
+    },
+    {
+      "id": 197,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 198,
+      "en": "I could say, you know what, Marco, I have something I have to tell you.",
+      "cn": "我可以说，你知道吗，马尔科，我有件事要告诉你。"
+    },
+    {
+      "id": 199,
+      "en": "And I say what?",
+      "cn": "我说什么？"
+    },
+    {
+      "id": 200,
+      "en": "I'm leaving EnglishPod.",
+      "cn": "我将离开EnglishPod。"
+    },
+    {
+      "id": 201,
+      "en": "I quit.",
+      "cn": "我辞职了。"
+    },
+    {
+      "id": 202,
+      "en": "Are you serious?",
+      "cn": "你是认真的吗？"
+    },
+    {
+      "id": 203,
+      "en": "No, I'm just yanking your chain.",
+      "cn": "不，我只是逗你玩。"
+    },
+    {
+      "id": 204,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 205,
+      "en": "Or no, I'm just kidding.",
+      "cn": "或者不，我只是开玩笑。"
+    },
+    {
+      "id": 206,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 207,
+      "en": "So you're kind of teasing someone when you do this, right?",
+      "cn": "所以你这样做时是在逗某人，对吧？"
+    },
+    {
+      "id": 208,
+      "en": "I'm just yanking your chain.",
+      "cn": "我只是逗你玩。"
+    },
+    {
+      "id": 209,
+      "en": "I'm just lying to you.",
+      "cn": "我只是在骗你。"
+    },
+    {
+      "id": 210,
+      "en": "I'm teasing you.",
+      "cn": "我在逗你。"
+    },
+    {
+      "id": 211,
+      "en": "I'm, I'm making you believe something that isn't, that isn't true.",
+      "cn": "我在让你相信一些不真实的事情。"
+    },
+    {
+      "id": 212,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 213,
+      "en": "So this is, this is something you can use after you tell someone that you were just joking.",
+      "cn": "所以这是你在告诉某人你只是开玩笑后可以使用的。"
+    },
+    {
+      "id": 214,
+      "en": "So, you know, I'm just yanking your chain.",
+      "cn": "所以，你知道，我只是逗你玩。"
+    },
+    {
+      "id": 215,
+      "en": "I'm just joking with you.",
+      "cn": "我只是在和你开玩笑。"
+    },
+    {
+      "id": 216,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 217,
+      "en": "So don't try to translate it directly or literally because it's not going to make sense.",
+      "cn": "所以不要试图直接或字面翻译，因为那样没有意义。"
+    },
+    {
+      "id": 218,
+      "en": "So just remember this as a phrasal verb or a phrase in general.",
+      "cn": "所以只需记住这是一个短语动词或一般短语。"
+    },
+    {
+      "id": 219,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 220,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 221,
+      "en": "Let's listen to our dialogue one last time and we'll be back to talk a little bit more.",
+      "cn": "让我们最后再听一次对话，然后我们会回来聊更多。"
+    },
+    {
+      "id": 222,
+      "en": "I hate coming to high school reunions.",
+      "cn": "我讨厌参加高中聚会。"
+    },
+    {
+      "id": 223,
+      "en": "It'll be great, honey.",
+      "cn": "这会很棒，亲爱的。"
+    },
+    {
+      "id": 224,
+      "en": "We will get to see your old classmates and catch up to see how they've been doing.",
+      "cn": "我们可以见到你以前的同学，看看他们过得怎么样。"
+    },
+    {
+      "id": 225,
+      "en": "Yeah, I guess so.",
+      "cn": "是啊，我想是的。"
+    },
+    {
+      "id": 226,
+      "en": "Oh, look, there's Robert Matthews.",
+      "cn": "哦，看，那里是Robert Matthews。"
+    },
+    {
+      "id": 227,
+      "en": "Rob.",
+      "cn": "Rob。"
+    },
+    {
+      "id": 228,
+      "en": "Hey Bill.",
+      "cn": "嘿，Bill。"
+    },
+    {
+      "id": 229,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 230,
+      "en": "Great to see you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 231,
+      "en": "Likewise.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 232,
+      "en": "It's been a long time.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 233,
+      "en": "This is my wife, Dorothy.",
+      "cn": "这是我的妻子，Dorothy。"
+    },
+    {
+      "id": 234,
+      "en": "Pleasure to meet you.",
+      "cn": "很高兴见到你。"
+    },
+    {
+      "id": 235,
+      "en": "So Bill, how have you been?",
+      "cn": "Bill，你最近怎么样？"
+    },
+    {
+      "id": 236,
+      "en": "Can't complain.",
+      "cn": "还不错。"
+    },
+    {
+      "id": 237,
+      "en": "We have two children who are in college and my business is going well.",
+      "cn": "我们有两个上大学的孩子，我的生意也很好。"
+    },
+    {
+      "id": 238,
+      "en": "How about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 239,
+      "en": "Ah, you know me.",
+      "cn": "啊，你知道我。"
+    },
+    {
+      "id": 240,
+      "en": "I'm a dedicated bachelor.",
+      "cn": "我是个专心的单身汉。"
+    },
+    {
+      "id": 241,
+      "en": "I never married, although I do have a beautiful daughter with Mary.",
+      "cn": "我从未结过婚，虽然我和Mary有一个漂亮的女儿。"
+    },
+    {
+      "id": 242,
+      "en": "You remember her.",
+      "cn": "你还记得她。"
+    },
+    {
+      "id": 243,
+      "en": "We were high school sweethearts.",
+      "cn": "我们是高中恋人。"
+    },
+    {
+      "id": 244,
+      "en": "It didn't really work out between us, but I really can't complain either.",
+      "cn": "我们之间并没有真正成功，但我也不能抱怨。"
+    },
+    {
+      "id": 245,
+      "en": "That's good.",
+      "cn": "那很好。"
+    },
+    {
+      "id": 246,
+      "en": "Have you seen Frank?",
+      "cn": "你见过Frank吗？"
+    },
+    {
+      "id": 247,
+      "en": "I was hoping he would come tonight.",
+      "cn": "我希望他今晚能来。"
+    },
+    {
+      "id": 248,
+      "en": "You didn't hear?",
+      "cn": "你没听说吗？"
+    },
+    {
+      "id": 249,
+      "en": "Frank passed away last year.",
+      "cn": "Frank去年去世了。"
+    },
+    {
+      "id": 250,
+      "en": "Are you serious?",
+      "cn": "你是认真的吗？"
+    },
+    {
+      "id": 251,
+      "en": "Nah, I'm just janking your chain.",
+      "cn": "不，我只是逗你玩。"
+    },
+    {
+      "id": 252,
+      "en": "He'll be here soon.",
+      "cn": "他很快就会来了。"
+    },
+    {
+      "id": 253,
+      "en": "I saw him last week.",
+      "cn": "我上周见过他。"
+    },
+    {
+      "id": 254,
+      "en": "He told me he would show up.",
+      "cn": "他告诉我他会出现。"
+    },
+    {
+      "id": 255,
+      "en": "All right, so we're back and talking about high school reunions.",
+      "cn": "好的，我们回来了，正在谈论高中聚会。"
+    },
+    {
+      "id": 256,
+      "en": "These are very popular in the United States, right?",
+      "cn": "这些在美国非常受欢迎，对吧？"
+    },
+    {
+      "id": 257,
+      "en": "They are very popular, and I think people often have them every 5, 10, 15, 20 years.",
+      "cn": "非常受欢迎，我认为人们通常每5、10、15、20年举办一次。"
+    },
+    {
+      "id": 258,
+      "en": "But most people don't go to the high school reunion until either 10 or 20 years after their high school graduation.",
+      "cn": "但大多数人直到高中毕业后10年或20年才去参加高中聚会。"
+    },
+    {
+      "id": 259,
+      "en": "Why is that?",
+      "cn": "为什么呢？"
+    },
+    {
+      "id": 260,
+      "en": "I think 5 years is very soon.",
+      "cn": "我认为5年太快了。"
+    },
+    {
+      "id": 261,
+      "en": "10 years is nice because you haven't seen people, but 20 years is really, I think, shocking because people can be completely different.",
+      "cn": "10年很好，因为你没有见到人，但20年真的，我认为很震惊，因为人们可能完全不同。"
+    },
+    {
+      "id": 262,
+      "en": "Or they could be the same, but it's been, you know, you were 18 when you graduated high school.",
+      "cn": "或者他们可能是一样的，但你知道，你18岁时毕业。"
+    },
+    {
+      "id": 263,
+      "en": "Now you're 38 years old.",
+      "cn": "现在你38岁了。"
+    },
+    {
+      "id": 264,
+      "en": "You have this whole life that you've had, and so I think it's much more interesting.",
+      "cn": "你有了整个人生，所以我认为这更有趣。"
+    },
+    {
+      "id": 265,
+      "en": "Yeah, it's very interesting.",
+      "cn": "是的，这非常有趣。"
+    },
+    {
+      "id": 266,
+      "en": "And I guess people go to these things because they do want to maybe meet up with old friends that they haven't kept in touch with.",
+      "cn": "我想人们参加这些活动是因为他们确实想见到一些老朋友，尽管他们没有保持联系。"
+    },
+    {
+      "id": 267,
+      "en": "I think especially this was very popular before the whole Internet revolution.",
+      "cn": "我认为尤其在整个互联网革命之前，这非常受欢迎。"
+    },
+    {
+      "id": 268,
+      "en": "Now everyone's in touch on Facebook and emails, and it's just so much easier to keep in touch.",
+      "cn": "现在每个人都在Facebook和电子邮件上保持联系，保持联系变得容易多了。"
+    },
+    {
+      "id": 269,
+      "en": "But before, you have to remember that it was basically by telephone or by mail.",
+      "cn": "但在那之前，你要记住，基本上是通过电话或邮件。"
+    },
+    {
+      "id": 270,
+      "en": "So actually seeing a person 10 years or catching up with them was very difficult back then.",
+      "cn": "所以实际上见到一个人10年或与他们联系在那时是非常困难的。"
+    },
+    {
+      "id": 271,
+      "en": "Yeah, we all see photos and videos now of our classmates, so it's not quite as surprising when we bump into them later.",
+      "cn": "是的，我们现在都能看到同学的照片和视频，所以当我们后来碰到他们时就不那么惊讶了。"
+    },
+    {
+      "id": 272,
+      "en": "But I think it is still interesting, though, because at least on my social networking websites, there are a lot of people that I don't have connections to.",
+      "cn": "但我认为这仍然很有趣，因为至少在我的社交网络网站上，有很多人我没有联系。"
+    },
+    {
+      "id": 273,
+      "en": "And so I look forward to my high school reunion when I get to see some of these people and kind of find out what they've been doing for the past 10 or 15 years.",
+      "cn": "所以我期待我的高中聚会，能见到一些这些人，了解他们过去10或15年在做什么。"
+    },
+    {
+      "id": 274,
+      "en": "It's actually very interesting, I guess, when you see how your classmates have changed.",
+      "cn": "看到同学们的变化其实很有趣。"
+    },
+    {
+      "id": 275,
+      "en": "How maybe the one that used to be the nerd or maybe not very attractive all of a sudden is really attractive and has like a supermodel as a wife or how these things work out.",
+      "cn": "也许曾经是书呆子或不太吸引人的人，突然变得非常吸引人，身边有个超级模特作为妻子，或者这些事情是如何发展的。"
+    },
+    {
+      "id": 276,
+      "en": "Or the high school football captain is now kind of sad and, you know, fat.",
+      "cn": "或者高中橄榄球队队长现在有点悲伤，变得肥胖。"
+    },
+    {
+      "id": 277,
+      "en": "Bald.",
+      "cn": "秃头。"
+    },
+    {
+      "id": 278,
+      "en": "So yeah, these are the types of surprises that people look forward to when they go to high school reunions.",
+      "cn": "所以，是的，这些是人们期待在高中聚会上看到的惊喜。"
+    },
+    {
+      "id": 279,
+      "en": "So a very interesting subject.",
+      "cn": "所以这是一个非常有趣的话题。"
+    },
+    {
+      "id": 280,
+      "en": "Let us know on our website, EnglishPod.com, if your high school and the place where you live, do they have high school reunions or maybe even elementary school reunions?",
+      "cn": "请在我们的网站EnglishPod.com上告诉我们，你的高中和你居住的地方是否有高中聚会，或者甚至小学聚会？"
+    },
+    {
+      "id": 281,
+      "en": "Yeah, let us know.",
+      "cn": "是的，告诉我们。"
+    },
+    {
+      "id": 282,
+      "en": "We hope to find out more about you guys' experiences.",
+      "cn": "我们希望了解更多关于你们的经历。"
+    },
+    {
+      "id": 283,
+      "en": "And until next time, bye.",
+      "cn": "下次再见，拜。"
+    }
+  ]
+}

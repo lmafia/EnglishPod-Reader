@@ -1,0 +1,1354 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0034",
+  "title": "EnglishPod 中高级 0034",
+  "totalSegments": 269,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another great lesson here with EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一堂精彩课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you an upper intermediate lesson.",
+      "cn": "今天我们为你带来一节中高级课程。"
+    },
+    {
+      "id": 6,
+      "en": "A special lesson about the new president.",
+      "cn": "一节关于新总统的特别课程。"
+    },
+    {
+      "id": 7,
+      "en": "Right, it's been a hot topic in the US.",
+      "cn": "对，这在美国是个热门话题。"
+    },
+    {
+      "id": 8,
+      "en": "The new president-elect, President Obama.",
+      "cn": "新当选的总统，奥巴马总统。"
+    },
+    {
+      "id": 9,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 10,
+      "en": "So today we're bringing you something that you might see at his inaugural address.",
+      "cn": "所以今天我们带来一些你可能会在他就职演说中看到的内容。"
+    },
+    {
+      "id": 11,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 12,
+      "en": "So Marco, can you explain this word, inaugural address?",
+      "cn": "Marco，你能解释一下这个词，就职演说吗？"
+    },
+    {
+      "id": 13,
+      "en": "The inaugural address is the first speech the president gives at the ceremony when he is officially president.",
+      "cn": "就职演说是总统在正式成为总统时在仪式上发表的第一篇演讲。"
+    },
+    {
+      "id": 14,
+      "en": "Okay, all right.",
+      "cn": "好的，明白了。"
+    },
+    {
+      "id": 15,
+      "en": "So it's his first presidential speech.",
+      "cn": "所以这是他第一次总统演讲。"
+    },
+    {
+      "id": 16,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 17,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 18,
+      "en": "Great, so let's take a look at some other words that we're gonna find in the dialogue today in Vocabulary Preview.",
+      "cn": "很好，那么让我们看看今天对话中会出现的一些其他单词，在词汇预览中。"
+    },
+    {
+      "id": 19,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 20,
+      "en": "All right, on Vocabulary Preview today we have two words.",
+      "cn": "好的，今天的词汇预览中我们有两个单词。"
+    },
+    {
+      "id": 21,
+      "en": "The first one is swear in.",
+      "cn": "第一个是宣誓就职。"
+    },
+    {
+      "id": 22,
+      "en": "Swear in.",
+      "cn": "宣誓就职。"
+    },
+    {
+      "id": 23,
+      "en": "Swear in.",
+      "cn": "宣誓就职。"
+    },
+    {
+      "id": 24,
+      "en": "Swear in.",
+      "cn": "宣誓就职。"
+    },
+    {
+      "id": 25,
+      "en": "We'll see this word in its past tense in the dialogue, right?",
+      "cn": "我们将在对话中看到这个词的过去式，对吧？"
+    },
+    {
+      "id": 26,
+      "en": "Sworn in.",
+      "cn": "宣誓就职。"
+    },
+    {
+      "id": 27,
+      "en": "Sworn in.",
+      "cn": "宣誓就职。"
+    },
+    {
+      "id": 28,
+      "en": "So it means... So to swear someone in is to officially give that person a very important position, usually in government.",
+      "cn": "所以它的意思是……宣誓就职是正式给予某人一个非常重要的职位，通常是在政府中。"
+    },
+    {
+      "id": 29,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 30,
+      "en": "And our second word is oath.",
+      "cn": "我们的第二个词是誓言。"
+    },
+    {
+      "id": 31,
+      "en": "Oath.",
+      "cn": "誓言。"
+    },
+    {
+      "id": 32,
+      "en": "Oath.",
+      "cn": "誓言。"
+    },
+    {
+      "id": 33,
+      "en": "O-A-T-H.",
+      "cn": "O-A-T-H。"
+    },
+    {
+      "id": 34,
+      "en": "Oath.",
+      "cn": "誓言。"
+    },
+    {
+      "id": 35,
+      "en": "An oath goes hand in hand with swear in, right?",
+      "cn": "誓言与宣誓就职是密切相关的，对吧？"
+    },
+    {
+      "id": 36,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 37,
+      "en": "When you swear someone in, they make an oath.",
+      "cn": "当你宣誓就职时，他们会做出誓言。"
+    },
+    {
+      "id": 38,
+      "en": "A promise, right?",
+      "cn": "一个承诺，对吧？"
+    },
+    {
+      "id": 39,
+      "en": "A promise.",
+      "cn": "一个承诺。"
+    },
+    {
+      "id": 40,
+      "en": "An official promise to carry out the duties of that job.",
+      "cn": "一个正式的承诺来履行该工作的职责。"
+    },
+    {
+      "id": 41,
+      "en": "Right, so they promise that they will do their job.",
+      "cn": "对，所以他们承诺会做好他们的工作。"
+    },
+    {
+      "id": 42,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 43,
+      "en": "So now let's listen to our dialogue for a first time.",
+      "cn": "现在让我们第一次听听我们的对话。"
+    },
+    {
+      "id": 44,
+      "en": "Where are we?",
+      "cn": "我们在哪里？"
+    },
+    {
+      "id": 45,
+      "en": "Well, we're actually watching a news reporter on TV.",
+      "cn": "嗯，我们实际上是在看电视上的新闻记者。"
+    },
+    {
+      "id": 46,
+      "en": "She's in Washington and she's gonna tell us all about what's happening.",
+      "cn": "她在华盛顿，她将告诉我们发生了什么。"
+    },
+    {
+      "id": 47,
+      "en": "Great, so let's listen.",
+      "cn": "很好，让我们听听。"
+    },
+    {
+      "id": 48,
+      "en": "This is Madeline Wright for BCC News reporting live from Washington, D.C.",
+      "cn": "这里是Madeline Wright，来自BCC新闻，正在华盛顿D.C.进行现场直播。"
+    },
+    {
+      "id": 49,
+      "en": "where very shortly the new president will deliver his inaugural address.",
+      "cn": "新总统即将发表他的就职演说。"
+    },
+    {
+      "id": 50,
+      "en": "Just moments ago, the president was sworn into office following the United States Constitution.",
+      "cn": "刚刚，总统根据美国宪法宣誓就职。"
+    },
+    {
+      "id": 51,
+      "en": "The president sought an oath to faithfully execute the office of the presidency.",
+      "cn": "总统宣誓忠实执行总统职务。"
+    },
+    {
+      "id": 52,
+      "en": "And what exactly is going on now, Madeline?",
+      "cn": "现在，Madeline，究竟发生了什么？"
+    },
+    {
+      "id": 53,
+      "en": "Well, Tom, true to American tradition, the band has just played Hail to the Chief and the president has been honored with a 21-gun salute.",
+      "cn": "嗯，Tom，遵循美国传统，乐队刚刚演奏了《致首领的敬礼》，总统受到了21响礼炮的荣誉。"
+    },
+    {
+      "id": 54,
+      "en": "Now we're waiting for the president to take the stage and deliver his speech.",
+      "cn": "现在我们在等待总统上台发表演讲。"
+    },
+    {
+      "id": 55,
+      "en": "Tom, it's like the who's who of the political world here on Capitol Hill, with dignitaries representing several different countries.",
+      "cn": "Tom，这里就像国会山的政治界名流，来自几个不同国家的贵宾。"
+    },
+    {
+      "id": 56,
+      "en": "What's the mood on the ground like, Madeline?",
+      "cn": "现场的气氛如何，Madeline？"
+    },
+    {
+      "id": 57,
+      "en": "In a word, the mood here is electric.",
+      "cn": "一句话，气氛非常热烈。"
+    },
+    {
+      "id": 58,
+      "en": "The excitement in the air is palpable.",
+      "cn": "空气中的兴奋是显而易见的。"
+    },
+    {
+      "id": 59,
+      "en": "I've never seen a larger crowd here on Capitol Hill.",
+      "cn": "我从未见过国会山上有如此庞大的观众。"
+    },
+    {
+      "id": 60,
+      "en": "The audience is shouting, crying and embracing each other.",
+      "cn": "观众在欢呼、哭泣和相拥。"
+    },
+    {
+      "id": 61,
+      "en": "On this, a most historic day, you can feel the hope and the excitement in the air.",
+      "cn": "在这个历史性的日子里，你能感受到空气中的希望和兴奋。"
+    },
+    {
+      "id": 62,
+      "en": "The 20th of January will go down in history as the... Oh, Tom, it looks like the president is about to begin.",
+      "cn": "1月20日将载入史册……哦，Tom，看起来总统要开始了。"
+    },
+    {
+      "id": 63,
+      "en": "My fellow Americans,",
+      "cn": "我亲爱的美国人，"
+    },
+    {
+      "id": 64,
+      "en": "I stand before you today...",
+      "cn": "我今天站在你们面前……"
+    },
+    {
+      "id": 65,
+      "en": "Okay, some technical problems at the inaugural address.",
+      "cn": "好的，就职演说中出现了一些技术问题。"
+    },
+    {
+      "id": 66,
+      "en": "Yeah, I certainly hope this doesn't happen.",
+      "cn": "是的，我真希望这不会发生。"
+    },
+    {
+      "id": 67,
+      "en": "Well, if it does, you heard it first at EnglishPod.",
+      "cn": "如果发生了，你们在EnglishPod上第一次听到。"
+    },
+    {
+      "id": 68,
+      "en": "Predictors of the future here.",
+      "cn": "未来的预言者在这里。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, let's take a look at language takeaway.",
+      "cn": "好的，让我们看看语言要点。"
+    },
+    {
+      "id": 70,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 71,
+      "en": "On language takeaway today, we're bringing you four words.",
+      "cn": "今天的语言要点中，我们带来了四个单词。"
+    },
+    {
+      "id": 72,
+      "en": "The first word is deliver.",
+      "cn": "第一个单词是发表。"
+    },
+    {
+      "id": 73,
+      "en": "Deliver.",
+      "cn": "发表。"
+    },
+    {
+      "id": 74,
+      "en": "Deliver.",
+      "cn": "发表。"
+    },
+    {
+      "id": 75,
+      "en": "Like deliver a pizza.",
+      "cn": "就像送披萨一样。"
+    },
+    {
+      "id": 76,
+      "en": "No, let's listen.",
+      "cn": "不，让我们听听。"
+    },
+    {
+      "id": 77,
+      "en": "We've got three examples that will show the meaning of this word.",
+      "cn": "我们有三个例子来展示这个词的意思。"
+    },
+    {
+      "id": 78,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 79,
+      "en": "Who's going to deliver the welcome speech?",
+      "cn": "谁来发表欢迎词？"
+    },
+    {
+      "id": 80,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 81,
+      "en": "I've been asked to deliver a presentation on the findings of our research project.",
+      "cn": "我被要求发表关于我们研究项目发现的演讲。"
+    },
+    {
+      "id": 82,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 83,
+      "en": "Dr. Rosen is delivering a lecture on macroeconomics.",
+      "cn": "罗斯博士正在发表关于宏观经济学的讲座。"
+    },
+    {
+      "id": 84,
+      "en": "Okay,",
+      "cn": "好的，"
+    },
+    {
+      "id": 85,
+      "en": "so deliver a speech.",
+      "cn": "所以发表演讲。"
+    },
+    {
+      "id": 86,
+      "en": "Say a speech.",
+      "cn": "说演讲。"
+    },
+    {
+      "id": 87,
+      "en": "To say a speech.",
+      "cn": "说一篇演讲。"
+    },
+    {
+      "id": 88,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 89,
+      "en": "So you wouldn't say say a speech, you would say deliver a speech.",
+      "cn": "所以你不会说说演讲，你会说发表演讲。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, our second word for language takeaway.",
+      "cn": "好的，我们的第二个语言要点。"
+    },
+    {
+      "id": 92,
+      "en": "The who's who.",
+      "cn": "名流。"
+    },
+    {
+      "id": 93,
+      "en": "The who's who.",
+      "cn": "名流。"
+    },
+    {
+      "id": 94,
+      "en": "The who's who.",
+      "cn": "名流。"
+    },
+    {
+      "id": 95,
+      "en": "This is a funny expression, hey?",
+      "cn": "这是个有趣的表达，对吧？"
+    },
+    {
+      "id": 96,
+      "en": "It's kind of weird.",
+      "cn": "有点奇怪。"
+    },
+    {
+      "id": 97,
+      "en": "The who's who is the important people in a particular field, right?",
+      "cn": "名流是某一领域的重要人物，对吧？"
+    },
+    {
+      "id": 98,
+      "en": "Right, so for example, there was a party last night and the who's who of the film industry was there.",
+      "cn": "对，所以例如，昨晚有个派对，电影行业的名流都在场。"
+    },
+    {
+      "id": 99,
+      "en": "Whoa, so all the important stars and directors.",
+      "cn": "哇，所以所有重要的明星和导演。"
+    },
+    {
+      "id": 100,
+      "en": "You could also say the funeral was like a who's who of the political world.",
+      "cn": "你也可以说葬礼就像是政治界的名流聚会。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, so all the important political figures were at this funeral.",
+      "cn": "好的，所以所有重要的政治人物都在这个葬礼上。"
+    },
+    {
+      "id": 102,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 103,
+      "en": "Let's move to our third word.",
+      "cn": "让我们进入第三个单词。"
+    },
+    {
+      "id": 104,
+      "en": "Dignitaries.",
+      "cn": "贵宾。"
+    },
+    {
+      "id": 105,
+      "en": "Dignitaries.",
+      "cn": "贵宾。"
+    },
+    {
+      "id": 106,
+      "en": "Dignitaries.",
+      "cn": "贵宾。"
+    },
+    {
+      "id": 107,
+      "en": "Dignitaries.",
+      "cn": "贵宾。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, we have some great examples so you can understand what this word means, so let's listen.",
+      "cn": "好的，我们有一些很好的例子，以便你理解这个词的意思，所以让我们听听。"
+    },
+    {
+      "id": 109,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 110,
+      "en": "Several important dignitaries were present at the opening ceremony, including the president of Brazil, the king of Spain, and the pope.",
+      "cn": "在开幕式上，几位重要的贵宾出席，包括巴西总统、西班牙国王和教皇。"
+    },
+    {
+      "id": 111,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 112,
+      "en": "There are going to be a lot of foreign dignitaries at the dinner.",
+      "cn": "晚宴上将有很多外国贵宾。"
+    },
+    {
+      "id": 113,
+      "en": "So basically we can understand that dignitaries are really important people, right?",
+      "cn": "所以基本上我们可以理解贵宾是非常重要的人，对吧？"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "Important political or religious figures.",
+      "cn": "重要的政治或宗教人物。"
+    },
+    {
+      "id": 116,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 117,
+      "en": "Alright, now our last word for language takeaway.",
+      "cn": "好吧，现在是我们最后一个语言学习的单词。"
+    },
+    {
+      "id": 118,
+      "en": "Palpable.",
+      "cn": "明显的。"
+    },
+    {
+      "id": 119,
+      "en": "Palpable.",
+      "cn": "明显的。"
+    },
+    {
+      "id": 120,
+      "en": "Palpable.",
+      "cn": "明显的。"
+    },
+    {
+      "id": 121,
+      "en": "Palpable.",
+      "cn": "明显的。"
+    },
+    {
+      "id": 122,
+      "en": "When something is palpable it's so strong you can feel it.",
+      "cn": "当某事是明显的，它是如此强烈以至于你能感受到它。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, so it's a very strong feeling.",
+      "cn": "好的，所以这是一种非常强烈的感觉。"
+    },
+    {
+      "id": 124,
+      "en": "You can almost touch it.",
+      "cn": "你几乎可以触摸到它。"
+    },
+    {
+      "id": 125,
+      "en": "Yeah, like the excitement was palpable or the fear was palpable.",
+      "cn": "是的，比如兴奋是明显的，或者恐惧是明显的。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, interesting word.",
+      "cn": "好的，有趣的词。"
+    },
+    {
+      "id": 127,
+      "en": "Palpable.",
+      "cn": "明显的。"
+    },
+    {
+      "id": 128,
+      "en": "Let's listen to our dialogue again and now let's try and listen to all these words we just talked about.",
+      "cn": "让我们再听一遍我们的对话，现在让我们尝试听听我们刚才谈到的所有这些词。"
+    },
+    {
+      "id": 129,
+      "en": "This is Madeline Wright for BCC News reporting live from Washington, D.C.",
+      "cn": "这里是麦德琳·赖特，来自BCC新闻，现场报道华盛顿特区。"
+    },
+    {
+      "id": 130,
+      "en": "where very shortly the new president will deliver his inaugural address.",
+      "cn": "不久之后，新总统将发表就职演说。"
+    },
+    {
+      "id": 131,
+      "en": "Just moments ago the president was sworn into office following the United States Constitution.",
+      "cn": "刚刚，总统根据美国宪法宣誓就职。"
+    },
+    {
+      "id": 132,
+      "en": "The president sought an oath to faithfully execute the office of the presidency.",
+      "cn": "总统宣誓忠实执行总统职务。"
+    },
+    {
+      "id": 133,
+      "en": "And what exactly is going on now, Madeline?",
+      "cn": "现在到底发生了什么，麦德琳？"
+    },
+    {
+      "id": 134,
+      "en": "Well, Tom, true to American tradition, the band has just played Hail to the Chief and the president has been honored with a 21-gun salute.",
+      "cn": "嗯，汤姆，忠于美国传统，乐队刚刚演奏了《致首领》，总统受到了21响礼炮的致敬。"
+    },
+    {
+      "id": 135,
+      "en": "Now we're waiting for the president to take the stage and deliver his speech.",
+      "cn": "现在我们在等待总统上台发表演讲。"
+    },
+    {
+      "id": 136,
+      "en": "Tom, it's like the who's who of the political world here on Capitol Hill, with dignitaries representing several different countries.",
+      "cn": "汤姆，这里就像政治界的名人聚集地，贵宾代表着几个不同的国家。"
+    },
+    {
+      "id": 137,
+      "en": "What's the mood on the ground like, Madeline?",
+      "cn": "现场的气氛如何，麦德琳？"
+    },
+    {
+      "id": 138,
+      "en": "In a word, the mood here is electric.",
+      "cn": "一句话，气氛电力十足。"
+    },
+    {
+      "id": 139,
+      "en": "The excitement in the air is palpable.",
+      "cn": "空气中的兴奋是明显的。"
+    },
+    {
+      "id": 140,
+      "en": "I've never seen a larger crowd here on Capitol Hill.",
+      "cn": "我从未见过华盛顿特区国会山上有如此庞大的观众。"
+    },
+    {
+      "id": 141,
+      "en": "The audience is shouting, crying and embracing each other.",
+      "cn": "观众在欢呼、哭泣和相拥。"
+    },
+    {
+      "id": 142,
+      "en": "On this, a most historic day, you can feel the hope and the excitement in the air.",
+      "cn": "在这个历史性的日子里，你能感受到空气中的希望和兴奋。"
+    },
+    {
+      "id": 143,
+      "en": "The 20th of January will go down in history as the...",
+      "cn": "1月20日将载入史册，成为..."
+    },
+    {
+      "id": 144,
+      "en": "Oh, Tom, it looks like the president is about to begin.",
+      "cn": "哦，汤姆，看起来总统要开始了。"
+    },
+    {
+      "id": 145,
+      "en": "My fellow Americans,",
+      "cn": "我的美国同胞，"
+    },
+    {
+      "id": 146,
+      "en": "I stand before you today.",
+      "cn": "我今天站在你们面前。"
+    },
+    {
+      "id": 147,
+      "en": "Okay, so if you noticed in our dialogue, we have some really interesting phrases there.",
+      "cn": "好的，如果你注意到我们的对话中，有一些非常有趣的短语。"
+    },
+    {
+      "id": 148,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 149,
+      "en": "So I think it's time for us to take a look at Fluency Builder.",
+      "cn": "所以我认为是时候看看流利表达构建器了。"
+    },
+    {
+      "id": 150,
+      "en": "On Fluency Builder today we're going to be looking at three phrases that are very interesting because we can change them a little bit and form different patterns.",
+      "cn": "在流利表达构建器中，今天我们将看三个非常有趣的短语，因为我们可以稍微改变它们，形成不同的模式。"
+    },
+    {
+      "id": 151,
+      "en": "Yeah, so the first phrase we have is in a word.",
+      "cn": "是的，所以第一个短语是“一句话”。"
+    },
+    {
+      "id": 152,
+      "en": "In a word.",
+      "cn": "一句话。"
+    },
+    {
+      "id": 153,
+      "en": "In a word.",
+      "cn": "一句话。"
+    },
+    {
+      "id": 154,
+      "en": "In a word.",
+      "cn": "一句话。"
+    },
+    {
+      "id": 155,
+      "en": "We use this expression when we want to describe something in one word.",
+      "cn": "我们使用这个表达来描述某事的一句话。"
+    },
+    {
+      "id": 156,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 157,
+      "en": "Pretty simple, hey?",
+      "cn": "很简单，对吧？"
+    },
+    {
+      "id": 158,
+      "en": "It's really simple.",
+      "cn": "真的很简单。"
+    },
+    {
+      "id": 159,
+      "en": "Let's look at the pattern.",
+      "cn": "让我们看看这个模式。"
+    },
+    {
+      "id": 160,
+      "en": "We've got examples of how you could use this phrase.",
+      "cn": "我们有一些例子，展示如何使用这个短语。"
+    },
+    {
+      "id": 161,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 162,
+      "en": "In a word, the situation is serious.",
+      "cn": "一句话，情况很严重。"
+    },
+    {
+      "id": 163,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 164,
+      "en": "What's it like there?",
+      "cn": "那里是什么样的？"
+    },
+    {
+      "id": 165,
+      "en": "In a word, it's amazing.",
+      "cn": "一句话，太棒了。"
+    },
+    {
+      "id": 166,
+      "en": "Okay, so in a word, this podcast is... Awesome.",
+      "cn": "好的，所以一句话，这个播客是... 太棒了。"
+    },
+    {
+      "id": 167,
+      "en": "Amazing.",
+      "cn": "令人惊叹。"
+    },
+    {
+      "id": 168,
+      "en": "Uh -huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 169,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 170,
+      "en": "Okay, let's look at our second phrase today.",
+      "cn": "好的，让我们看看今天的第二个短语。"
+    },
+    {
+      "id": 171,
+      "en": "Go down in history.",
+      "cn": "载入史册。"
+    },
+    {
+      "id": 172,
+      "en": "Go down in history.",
+      "cn": "载入史册。"
+    },
+    {
+      "id": 173,
+      "en": "Go down in history.",
+      "cn": "载入史册。"
+    },
+    {
+      "id": 174,
+      "en": "So this is a really common phrase.",
+      "cn": "这是一个非常常见的短语。"
+    },
+    {
+      "id": 175,
+      "en": "I'm sure you guys have heard it.",
+      "cn": "我相信你们都听过。"
+    },
+    {
+      "id": 176,
+      "en": "Yeah, basically something that is really important that everyone will remember for a very long time.",
+      "cn": "是的，基本上是指某件非常重要的事情，大家会记住很长时间。"
+    },
+    {
+      "id": 177,
+      "en": "Let's look at this pattern with a few examples.",
+      "cn": "让我们看看这个模式的一些例子。"
+    },
+    {
+      "id": 178,
+      "en": "This is going to go down in history as the worst disaster the world has ever seen.",
+      "cn": "这将载入史册，成为世界上最严重的灾难。"
+    },
+    {
+      "id": 179,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 180,
+      "en": "He'll go down in history as the best president we've ever had.",
+      "cn": "他将载入史册，成为我们有史以来最好的总统。"
+    },
+    {
+      "id": 181,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 182,
+      "en": "This day will go down in history.",
+      "cn": "这一天将载入史册。"
+    },
+    {
+      "id": 183,
+      "en": "Okay, so as you can see, the pattern is we're using a superlative.",
+      "cn": "好的，正如你所看到的，模式是我们使用了一个最高级。"
+    },
+    {
+      "id": 184,
+      "en": "That's right, the most, the best.",
+      "cn": "没错，最、最好。"
+    },
+    {
+      "id": 185,
+      "en": "The biggest.",
+      "cn": "最大。"
+    },
+    {
+      "id": 186,
+      "en": "The worst.",
+      "cn": "最坏。"
+    },
+    {
+      "id": 187,
+      "en": "The worst, right?",
+      "cn": "最坏，对吧？"
+    },
+    {
+      "id": 188,
+      "en": "And our final phrase in putting it together is...",
+      "cn": "我们最后一个短语是..."
+    },
+    {
+      "id": 189,
+      "en": "So obviously you can change this one up a little bit, hey?",
+      "cn": "所以显然你可以稍微改变这个，对吧？"
+    },
+    {
+      "id": 190,
+      "en": "Right, you can say my fellow co-workers.",
+      "cn": "对，你可以说我的同事们。"
+    },
+    {
+      "id": 191,
+      "en": "Uh -huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 192,
+      "en": "My fellow citizens.",
+      "cn": "我的公民。"
+    },
+    {
+      "id": 193,
+      "en": "My fellow family members.",
+      "cn": "我的家人。"
+    },
+    {
+      "id": 194,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 195,
+      "en": "So basically fellow just means like deer.",
+      "cn": "所以基本上同胞只是意味着像..."
+    },
+    {
+      "id": 196,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 197,
+      "en": "In some way.",
+      "cn": "在某种程度上。"
+    },
+    {
+      "id": 198,
+      "en": "Well, similar.",
+      "cn": "嗯，类似。"
+    },
+    {
+      "id": 199,
+      "en": "Similar.",
+      "cn": "类似。"
+    },
+    {
+      "id": 200,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 201,
+      "en": "So we looked at some great vocabulary and phrases.",
+      "cn": "所以我们看了一些很棒的词汇和短语。"
+    },
+    {
+      "id": 202,
+      "en": "And now let's talk a little bit about these American traditions when electing a new president.",
+      "cn": "现在我们来谈谈美国在选举新总统时的一些传统。"
+    },
+    {
+      "id": 203,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 204,
+      "en": "Today in the studio we have JP who's joining us.",
+      "cn": "今天在工作室里有JP和我们一起。"
+    },
+    {
+      "id": 205,
+      "en": "Hi everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 206,
+      "en": "Hey JP.",
+      "cn": "嗨，JP。"
+    },
+    {
+      "id": 207,
+      "en": "And he's going to be talking to us about these traditions.",
+      "cn": "他将和我们谈谈这些传统。"
+    },
+    {
+      "id": 208,
+      "en": "Oh, I am, okay.",
+      "cn": "哦，我是的，好的。"
+    },
+    {
+      "id": 209,
+      "en": "What are we going to talk about?",
+      "cn": "我们要谈什么？"
+    },
+    {
+      "id": 210,
+      "en": "21 gun salute, what's that all about?",
+      "cn": "21响礼炮，这是什么？"
+    },
+    {
+      "id": 211,
+      "en": "The 21 gun salute is the military salute where they say, and now we will have the 21 gun salute.",
+      "cn": "21响礼炮是军队的致敬，他们会说，现在我们将进行21响礼炮。"
+    },
+    {
+      "id": 212,
+      "en": "So 21 soldiers with their rifles, they go, and they all shoot them off at the same time.",
+      "cn": "所以21名士兵拿着步枪，他们一起开火。"
+    },
+    {
+      "id": 213,
+      "en": "And I don't know why.",
+      "cn": "我不知道为什么。"
+    },
+    {
+      "id": 214,
+      "en": "I think it's a sign of respect, hey?",
+      "cn": "我认为这是尊重的标志，对吧？"
+    },
+    {
+      "id": 215,
+      "en": "Weird respect though.",
+      "cn": "不过是奇怪的尊重。"
+    },
+    {
+      "id": 216,
+      "en": "Well, I think in Europe they would do a Cannon or something.",
+      "cn": "嗯，我认为在欧洲他们会用大炮或其他东西。"
+    },
+    {
+      "id": 217,
+      "en": "One Cannon salute?",
+      "cn": "一响大炮致敬？"
+    },
+    {
+      "id": 218,
+      "en": "No, well just cannons.",
+      "cn": "不，只是大炮。"
+    },
+    {
+      "id": 219,
+      "en": "Maybe just one Cannon.",
+      "cn": "也许只是一门大炮。"
+    },
+    {
+      "id": 220,
+      "en": "Maybe our European listeners know the answer to this.",
+      "cn": "也许我们的欧洲听众知道答案。"
+    },
+    {
+      "id": 221,
+      "en": "Okay, and what about this song Hail to the Chief?",
+      "cn": "好的，那这首《致首领的敬礼》呢？"
+    },
+    {
+      "id": 222,
+      "en": "Do you know anything about that?",
+      "cn": "你知道些什么吗？"
+    },
+    {
+      "id": 223,
+      "en": "I do not know anything about it.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 224,
+      "en": "Except that it's a march, and I think it's Sousa.",
+      "cn": "除了它是一首进行曲，我认为是苏萨写的。"
+    },
+    {
+      "id": 225,
+      "en": "I think John Philip Sousa wrote it.",
+      "cn": "我认为约翰·菲利普·苏萨写的。"
+    },
+    {
+      "id": 226,
+      "en": "And whenever the president walks into a room, they play that song.",
+      "cn": "每当总统走进一个房间时，他们会播放这首歌。"
+    },
+    {
+      "id": 227,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 228,
+      "en": "Yes, and I played it once for President Bush, the first one.",
+      "cn": "是的，我曾为布什总统演奏过这首歌，第一任。"
+    },
+    {
+      "id": 229,
+      "en": "I was a drummer.",
+      "cn": "我是个鼓手。"
+    },
+    {
+      "id": 230,
+      "en": "You did?",
+      "cn": "你做到了？"
+    },
+    {
+      "id": 231,
+      "en": "And my marching band had to play that song for him.",
+      "cn": "我的军乐队必须为他演奏这首歌。"
+    },
+    {
+      "id": 232,
+      "en": "Oh my God, JP, you're like famous.",
+      "cn": "哦，我的天，JP，你真有名。"
+    },
+    {
+      "id": 233,
+      "en": "Yeah, this was back in like 1986 or something.",
+      "cn": "是的，这大约是在1986年左右。"
+    },
+    {
+      "id": 234,
+      "en": "Was that even an election year?",
+      "cn": "那还是选举年吗？"
+    },
+    {
+      "id": 235,
+      "en": "88?",
+      "cn": "88年？"
+    },
+    {
+      "id": 236,
+      "en": "Well, you did play for the president, so... That's pretty cool.",
+      "cn": "嗯，你确实为总统演奏过，所以……这很酷。"
+    },
+    {
+      "id": 237,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 238,
+      "en": "So JP, do you have any other sort of traditional things that happen when the president becomes the president?",
+      "cn": "所以JP，你还有其他传统的事情吗，当总统成为总统时？"
+    },
+    {
+      "id": 239,
+      "en": "Well, I can tell you that Jimmy Carter, when he was elected president, his motorcade was going down Pennsylvania Avenue, and he stopped the car and got out.",
+      "cn": "嗯，我可以告诉你，吉米·卡特当选总统时，他的车队在宾夕法尼亚大道上行驶，他停下车下来了。"
+    },
+    {
+      "id": 240,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 241,
+      "en": "To do what?",
+      "cn": "为了做什么？"
+    },
+    {
+      "id": 242,
+      "en": "Yeah, to walk.",
+      "cn": "是的，去走路。"
+    },
+    {
+      "id": 243,
+      "en": "He wanted to walk down Pennsylvania Avenue.",
+      "cn": "他想走在宾夕法尼亚大道上。"
+    },
+    {
+      "id": 244,
+      "en": "He wanted to walk down the street.",
+      "cn": "他想走在街上。"
+    },
+    {
+      "id": 245,
+      "en": "To be with the people?",
+      "cn": "和人民在一起？"
+    },
+    {
+      "id": 246,
+      "en": "Yeah, I think so.",
+      "cn": "是的，我想是的。"
+    },
+    {
+      "id": 247,
+      "en": "And I think it made the Secret Service insane.",
+      "cn": "我认为这让特勤局抓狂。"
+    },
+    {
+      "id": 248,
+      "en": "Maybe the car smelled bad or something.",
+      "cn": "也许车里有异味。"
+    },
+    {
+      "id": 249,
+      "en": "Maybe so.",
+      "cn": "也许是。"
+    },
+    {
+      "id": 250,
+      "en": "I think that is my memory of it.",
+      "cn": "我想这是我对它的记忆。"
+    },
+    {
+      "id": 251,
+      "en": "I might be confusing with the West Wing, but I'm not sure.",
+      "cn": "我可能和《白宫风云》搞混了，但我不确定。"
+    },
+    {
+      "id": 252,
+      "en": "Too much TV.",
+      "cn": "看太多电视了。"
+    },
+    {
+      "id": 253,
+      "en": "Yeah, maybe.",
+      "cn": "是的，也许。"
+    },
+    {
+      "id": 254,
+      "en": "When the president walks, it's a big deal.",
+      "cn": "当总统走路时，这是个大事。"
+    },
+    {
+      "id": 255,
+      "en": "So JP, do you do anything special for the inauguration ceremony?",
+      "cn": "所以JP，你在就职仪式上会做什么特别的事情吗？"
+    },
+    {
+      "id": 256,
+      "en": "I always take the day off to watch.",
+      "cn": "我总是请假一天来观看。"
+    },
+    {
+      "id": 257,
+      "en": "You do?",
+      "cn": "你会吗？"
+    },
+    {
+      "id": 258,
+      "en": "I love watching it.",
+      "cn": "我喜欢观看。"
+    },
+    {
+      "id": 259,
+      "en": "I love the swearing-in ceremony, the ritual of it, the speech.",
+      "cn": "我喜欢宣誓仪式，仪式感，演讲。"
+    },
+    {
+      "id": 260,
+      "en": "All right, everyone, we're out of time.",
+      "cn": "好吧，大家，我们没时间了。"
+    },
+    {
+      "id": 261,
+      "en": "I hope you enjoyed this political lesson.",
+      "cn": "希望你们喜欢这次政治课。"
+    },
+    {
+      "id": 262,
+      "en": "And I hope you have a happy Inauguration Day.",
+      "cn": "希望你们有一个愉快的就职日。"
+    },
+    {
+      "id": 263,
+      "en": "Happy Inauguration Day, everyone.",
+      "cn": "大家就职日快乐。"
+    },
+    {
+      "id": 264,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 265,
+      "en": "All right, great.",
+      "cn": "好吧，太好了。"
+    },
+    {
+      "id": 266,
+      "en": "We're definitely going to take the day off to watch it with JP.",
+      "cn": "我们肯定会请假一天和JP一起观看。"
+    },
+    {
+      "id": 267,
+      "en": "And hopefully you guys can too.",
+      "cn": "希望你们也能。"
+    },
+    {
+      "id": 268,
+      "en": "Well, thanks for listening, everyone.",
+      "cn": "好吧，感谢大家的收听。"
+    },
+    {
+      "id": 269,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见。"
+    }
+  ]
+}

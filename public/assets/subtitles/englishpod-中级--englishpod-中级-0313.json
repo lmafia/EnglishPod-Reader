@@ -1,0 +1,904 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0313",
+  "title": "EnglishPod 中级 0313",
+  "totalSegments": 179,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine.",
+      "cn": "我叫Katherine。"
+    },
+    {
+      "id": 4,
+      "en": "And as you know, we've had a series going about small talk in English, so today's lesson is a part of that series.",
+      "cn": "正如你们所知，我们有一系列关于英语小谈的课程，所以今天的课程是这一系列的一部分。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "Today we're going to listen to two friends, two girlfriends, meeting and they haven't seen each other for a long time, so we're just going to see how they quickly have a small conversation.",
+      "cn": "今天我们将听两个朋友，两个女友见面，她们很久没见面了，所以我们来看看她们如何快速进行小对话。"
+    },
+    {
+      "id": 7,
+      "en": "Hey, Michelle, is that you?",
+      "cn": "嘿，Michelle，是你吗？"
+    },
+    {
+      "id": 8,
+      "en": "Wow, Grace, long time no see.",
+      "cn": "哇，Grace，好久不见。"
+    },
+    {
+      "id": 9,
+      "en": "Where have you been?",
+      "cn": "你去哪儿了？"
+    },
+    {
+      "id": 10,
+      "en": "Oh, yeah, well, you see, I got a promotion, so I moved to the new Pudong office last September.",
+      "cn": "哦，是的，你看，我升职了，所以去年九月我搬到了新的浦东办公室。"
+    },
+    {
+      "id": 11,
+      "en": "You did?",
+      "cn": "你升职了？"
+    },
+    {
+      "id": 12,
+      "en": "Congratulations.",
+      "cn": "恭喜你。"
+    },
+    {
+      "id": 13,
+      "en": "Thanks a lot.",
+      "cn": "非常感谢。"
+    },
+    {
+      "id": 14,
+      "en": "So how are things with you, Michelle?",
+      "cn": "那你怎么样，Michelle？"
+    },
+    {
+      "id": 15,
+      "en": "Well, same old, same old, you know.",
+      "cn": "嗯，老样子，你知道的。"
+    },
+    {
+      "id": 16,
+      "en": "Nothing much has changed here.",
+      "cn": "这里没什么变化。"
+    },
+    {
+      "id": 17,
+      "en": "Are you still seeing Chris?",
+      "cn": "你还在和Chris交往吗？"
+    },
+    {
+      "id": 18,
+      "en": "No, actually, we split up last month.",
+      "cn": "不，实际上，我们上个月分手了。"
+    },
+    {
+      "id": 19,
+      "en": "Oh, dear.",
+      "cn": "哦，亲爱的。"
+    },
+    {
+      "id": 20,
+      "en": "I'm sorry to hear that.",
+      "cn": "听到这个我很遗憾。"
+    },
+    {
+      "id": 21,
+      "en": "But I met a really cute guy last night at a networking party.",
+      "cn": "但我昨晚在一个社交聚会上遇到了一个非常可爱的男孩。"
+    },
+    {
+      "id": 22,
+      "en": "So, well, let's just wait and see.",
+      "cn": "所以，嗯，我们就等着看吧。"
+    },
+    {
+      "id": 23,
+      "en": "Good for you, Michelle.",
+      "cn": "为你高兴，Michelle。"
+    },
+    {
+      "id": 24,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 25,
+      "en": "So now let's take a look at some of the language on Language Takeaway.",
+      "cn": "现在让我们看看Language Takeaway中的一些语言。"
+    },
+    {
+      "id": 26,
+      "en": "Language Takeaway.",
+      "cn": "Language Takeaway。"
+    },
+    {
+      "id": 27,
+      "en": "So the first word we have here today, Marco, is the word promotion.",
+      "cn": "今天我们要讨论的第一个词是“升职”。"
+    },
+    {
+      "id": 28,
+      "en": "Grace says, Well, you see, I got a promotion, so I moved to the new Pudong office.",
+      "cn": "Grace说，嗯，你看，我升职了，所以我搬到了新的浦东办公室。"
+    },
+    {
+      "id": 29,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 30,
+      "en": "So she got a promotion, and a promotion is work-related.",
+      "cn": "她升职了，升职是与工作相关的。"
+    },
+    {
+      "id": 31,
+      "en": "That means that you got a better position.",
+      "cn": "这意味着你得到了更好的职位。"
+    },
+    {
+      "id": 32,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 33,
+      "en": "But you didn't change companies.",
+      "cn": "但你没有换公司。"
+    },
+    {
+      "id": 34,
+      "en": "So in your company, you had a job, and you did well in that job, and so your boss gave you a better job in the company, and that's a promotion.",
+      "cn": "所以在你的公司里，你有一份工作，你在那份工作中表现良好，因此你的老板给了你更好的职位，这就是升职。"
+    },
+    {
+      "id": 35,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so she got a promotion.",
+      "cn": "好的，所以她升职了。"
+    },
+    {
+      "id": 37,
+      "en": "That's when they were talking about work, and now they started talking about their personal life, and Grace asked if Michelle is still seeing Chris.",
+      "cn": "这是她们谈论工作时的情况，现在她们开始谈论个人生活，Grace问Michelle是否还在和Chris交往。"
+    },
+    {
+      "id": 38,
+      "en": "Okay, so the verb here is to see someone, to be seeing someone.",
+      "cn": "好的，所以这里的动词是“见某人”，即“在交往”。"
+    },
+    {
+      "id": 39,
+      "en": "We're not actually talking about eyes and looking.",
+      "cn": "我们实际上并不是在谈论眼睛和看。"
+    },
+    {
+      "id": 40,
+      "en": "We're talking about dating.",
+      "cn": "我们在谈论约会。"
+    },
+    {
+      "id": 41,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 42,
+      "en": "So if you're seeing Chris, it means you are dating Chris.",
+      "cn": "所以如果你在和Chris交往，那就意味着你在约会Chris。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, so that's an interesting way of describing a relationship.",
+      "cn": "好的，这是一种描述关系的有趣方式。"
+    },
+    {
+      "id": 44,
+      "en": "So you say, Yeah, I'm sorry.",
+      "cn": "所以你可以说，嗯，我很抱歉。"
+    },
+    {
+      "id": 45,
+      "en": "I'm seeing someone.",
+      "cn": "我在和某人交往。"
+    },
+    {
+      "id": 46,
+      "en": "I can't date you.",
+      "cn": "我不能和你约会。"
+    },
+    {
+      "id": 47,
+      "en": "I'm seeing someone else.",
+      "cn": "我在和其他人交往。"
+    },
+    {
+      "id": 48,
+      "en": "Or you could ask someone, Are you seeing anyone right now?",
+      "cn": "或者你可以问某人，你现在在和谁交往吗？"
+    },
+    {
+      "id": 49,
+      "en": "That means, Are you dating anyone?",
+      "cn": "这意味着，你在约会吗？"
+    },
+    {
+      "id": 50,
+      "en": "Do you have a boyfriend, basically?",
+      "cn": "基本上，你有男朋友吗？"
+    },
+    {
+      "id": 51,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 52,
+      "en": "And sadly, no, they are not together anymore.",
+      "cn": "可悲的是，他们不再在一起了。"
+    },
+    {
+      "id": 53,
+      "en": "She says, Actually, we split up last month.",
+      "cn": "她说，实际上，我们上个月分手了。"
+    },
+    {
+      "id": 54,
+      "en": "Alright, so this is another relationship term.",
+      "cn": "好的，这又是一个关系术语。"
+    },
+    {
+      "id": 55,
+      "en": "To split up means to break up, or to stop dating.",
+      "cn": "“分手”意味着结束交往，或停止约会。"
+    },
+    {
+      "id": 56,
+      "en": "To stop seeing each other.",
+      "cn": "停止见面。"
+    },
+    {
+      "id": 57,
+      "en": "So there are two ways of seeing it, as you said, to split up or to break up.",
+      "cn": "所以有两种说法，正如你所说，分手或结束交往。"
+    },
+    {
+      "id": 58,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 59,
+      "en": "So unfortunately, they split up, or unfortunately, they broke up.",
+      "cn": "所以不幸的是，他们分手了，或者不幸的是，他们结束了交往。"
+    },
+    {
+      "id": 60,
+      "en": "They are no longer seeing each other.",
+      "cn": "他们不再见面了。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 63,
+      "en": "But she said she had some good news because she met a really cute guy at a networking party.",
+      "cn": "但她说她有好消息，因为她在一个社交聚会上遇到了一个非常可爱的男孩。"
+    },
+    {
+      "id": 64,
+      "en": "What is networking?",
+      "cn": "什么是社交？"
+    },
+    {
+      "id": 65,
+      "en": "Alright, so networking is something that you do, especially in the business world.",
+      "cn": "好的，社交是你在商业世界中做的事情。"
+    },
+    {
+      "id": 66,
+      "en": "You go to events, parties, happy hours, and you meet people.",
+      "cn": "你去活动、聚会、欢乐时光，认识人。"
+    },
+    {
+      "id": 67,
+      "en": "You meet strangers, and you talk about work, and you try to meet as many people as you can.",
+      "cn": "你遇见陌生人，谈论工作，尽量认识尽可能多的人。"
+    },
+    {
+      "id": 68,
+      "en": "Okay, so it's not really a social party to actually just go and meet random people.",
+      "cn": "好的，所以这并不是一个社交聚会，实际上只是去见随机的人。"
+    },
+    {
+      "id": 69,
+      "en": "You're trying to meet people that will be interesting for your business, or maybe to get some other ideas.",
+      "cn": "你是想认识对你的业务有趣的人，或者获取其他想法。"
+    },
+    {
+      "id": 70,
+      "en": "It's for a business purpose.",
+      "cn": "这是出于商业目的。"
+    },
+    {
+      "id": 71,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 72,
+      "en": "So perhaps in your town, you own a small business, and your town has decided to have a Chamber of Commerce networking party, so you can meet other small business owners.",
+      "cn": "所以也许在你的城镇，你拥有一家小企业，而你的城镇决定举办一个商会的社交聚会，这样你就可以认识其他小企业主。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 74,
+      "en": "So that's what we have for language takeaway.",
+      "cn": "这就是我们关于语言的总结。"
+    },
+    {
+      "id": 75,
+      "en": "Let's go back and listen to our dialogue for the second time.",
+      "cn": "让我们回去再听一次对话。"
+    },
+    {
+      "id": 76,
+      "en": "Hey Michelle, is that you?",
+      "cn": "嘿，Michelle，是你吗？"
+    },
+    {
+      "id": 77,
+      "en": "Wow, Grace, long time no see.",
+      "cn": "哇，Grace，好久不见。"
+    },
+    {
+      "id": 78,
+      "en": "Where have you been?",
+      "cn": "你去哪儿了？"
+    },
+    {
+      "id": 79,
+      "en": "Oh yeah, well, you see, I got a promotion, so I moved to the new Pudong office last September.",
+      "cn": "哦，是的，你看，我升职了，所以去年九月我搬到了新的浦东办公室。"
+    },
+    {
+      "id": 80,
+      "en": "You did?",
+      "cn": "你升职了？"
+    },
+    {
+      "id": 81,
+      "en": "Congratulations!",
+      "cn": "恭喜你！"
+    },
+    {
+      "id": 82,
+      "en": "Thanks a lot.",
+      "cn": "非常感谢。"
+    },
+    {
+      "id": 83,
+      "en": "So, how are things with you, Michelle?",
+      "cn": "那你怎么样，Michelle？"
+    },
+    {
+      "id": 84,
+      "en": "Well, same old, same old, you know.",
+      "cn": "嗯，老样子，你知道的。"
+    },
+    {
+      "id": 85,
+      "en": "Nothing much has changed here.",
+      "cn": "这里没什么变化。"
+    },
+    {
+      "id": 86,
+      "en": "Are you still seeing Chris?",
+      "cn": "你还在和Chris交往吗？"
+    },
+    {
+      "id": 87,
+      "en": "No, actually, we split up last month.",
+      "cn": "不，实际上，我们上个月分手了。"
+    },
+    {
+      "id": 88,
+      "en": "Oh dear, I'm sorry to hear that, but I met a really cute guy last night at a networking party, so, well, let's just wait and see.",
+      "cn": "哦，亲爱的，我很遗憾听到这个，但我昨晚在一个社交聚会上遇到了一个非常可爱的男孩，所以，嗯，我们就等着看吧。"
+    },
+    {
+      "id": 89,
+      "en": "Good for you, Michelle!",
+      "cn": "为你高兴，Michelle！"
+    },
+    {
+      "id": 90,
+      "en": "All right, so now let's talk about these small, quick, but very useful phrases for small talk on Fluency Builder.",
+      "cn": "好的，现在让我们谈谈这些小而快速但非常有用的小谈短语在流利表达中。"
+    },
+    {
+      "id": 91,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 92,
+      "en": "So this first phrase is a phrase that you'll hear a lot when people greet each other, but perhaps friends who haven't seen each other in a very long time.",
+      "cn": "所以这个第一个短语是你在朋友之间打招呼时会经常听到的，尤其是很久没见的朋友。"
+    },
+    {
+      "id": 93,
+      "en": "We use this phrase long time no see.",
+      "cn": "我们使用这个短语“好久不见”。"
+    },
+    {
+      "id": 94,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 95,
+      "en": "Now, you look at it and it may seem like it's incorrect, right?",
+      "cn": "现在，你看这个短语，可能会觉得它不正确，对吧？"
+    },
+    {
+      "id": 96,
+      "en": "Because you're missing something.",
+      "cn": "因为你缺少了一些东西。"
+    },
+    {
+      "id": 97,
+      "en": "That's right, long time no see.",
+      "cn": "没错，好久不见。"
+    },
+    {
+      "id": 98,
+      "en": "Who knows see?",
+      "cn": "谁知道见？"
+    },
+    {
+      "id": 99,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 100,
+      "en": "What long time?",
+      "cn": "什么好久？"
+    },
+    {
+      "id": 101,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 102,
+      "en": "But this actually means I haven't seen you in a long time.",
+      "cn": "但这实际上意味着我很久没见你了。"
+    },
+    {
+      "id": 103,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 104,
+      "en": "So the phrase is long time no see.",
+      "cn": "所以这句话是“好久不见”。"
+    },
+    {
+      "id": 105,
+      "en": "Hey, Michelle, long time no see, how are you?",
+      "cn": "嘿，米歇尔，好久不见，你好吗？"
+    },
+    {
+      "id": 106,
+      "en": "That's the way that you use it, but just take it as a phrase.",
+      "cn": "这就是你使用它的方式，但就当作一句话吧。"
+    },
+    {
+      "id": 107,
+      "en": "Don't try to analyze it too much.",
+      "cn": "不要分析得太多。"
+    },
+    {
+      "id": 108,
+      "en": "So, hey Marco, long time no see.",
+      "cn": "所以，嘿，马尔科，好久不见。"
+    },
+    {
+      "id": 109,
+      "en": "That's right, okay.",
+      "cn": "对的，好的。"
+    },
+    {
+      "id": 110,
+      "en": "And while they're talking and she's like, well, how are you?",
+      "cn": "当他们在谈话时，她说，嗯，你好吗？"
+    },
+    {
+      "id": 111,
+      "en": "And she says, well, you know, same old, same old.",
+      "cn": "她说，嗯，你知道，老样子，老样子。"
+    },
+    {
+      "id": 112,
+      "en": "All right, this is another one.",
+      "cn": "好吧，这是另一个。"
+    },
+    {
+      "id": 113,
+      "en": "It doesn't look right.",
+      "cn": "看起来不对。"
+    },
+    {
+      "id": 114,
+      "en": "It looks wrong.",
+      "cn": "看起来错了。"
+    },
+    {
+      "id": 115,
+      "en": "But we do say this and twice, same old, same old.",
+      "cn": "但我们确实这样说，老样子，老样子。"
+    },
+    {
+      "id": 116,
+      "en": "And this means nothing has changed.",
+      "cn": "这意味着没有什么改变。"
+    },
+    {
+      "id": 117,
+      "en": "There's nothing really new in my life.",
+      "cn": "我生活中没有什么新鲜事。"
+    },
+    {
+      "id": 118,
+      "en": "Right, the same old things in my life, nothing really new or exciting, same old.",
+      "cn": "对，生活中的老东西，没有什么新鲜或令人兴奋的，老样子。"
+    },
+    {
+      "id": 119,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 120,
+      "en": "So I could say, hey, Marco, you know, how's the job going?",
+      "cn": "所以我可以说，嘿，马尔科，你知道，工作怎么样？"
+    },
+    {
+      "id": 121,
+      "en": "You know, same old, same old.",
+      "cn": "你知道，老样子，老样子。"
+    },
+    {
+      "id": 122,
+      "en": "All right, so nothing has changed to his job.",
+      "cn": "好吧，所以他的工作没有改变。"
+    },
+    {
+      "id": 123,
+      "en": "He has not gotten a promotion.",
+      "cn": "他没有升职。"
+    },
+    {
+      "id": 124,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 125,
+      "en": "So now Michelle was again describing about the guy that she met at the networking party.",
+      "cn": "所以现在米歇尔又在描述她在社交聚会上遇到的那个家伙。"
+    },
+    {
+      "id": 126,
+      "en": "And she said, well, let's just wait and see.",
+      "cn": "她说，嗯，我们就等着看吧。"
+    },
+    {
+      "id": 127,
+      "en": "It seems like an incomplete sentence because let's wait and see what.",
+      "cn": "这似乎是一个不完整的句子，因为等着看什么。"
+    },
+    {
+      "id": 128,
+      "en": "All right, so let's wait and see what.",
+      "cn": "好吧，所以等着看什么。"
+    },
+    {
+      "id": 129,
+      "en": "That's the question now.",
+      "cn": "这就是现在的问题。"
+    },
+    {
+      "id": 130,
+      "en": "You know, what are we waiting to see?",
+      "cn": "你知道，我们在等着看什么？"
+    },
+    {
+      "id": 131,
+      "en": "Well, she's basically saying, we don't know how things will go, but we, you know, we'll have to wait for the future to come before we can make a decision or figure out what's going on.",
+      "cn": "嗯，她基本上是在说，我们不知道事情会如何发展，但我们，嗯，我们得等未来到来才能做决定或弄清楚发生了什么。"
+    },
+    {
+      "id": 132,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 133,
+      "en": "So, for example, Marco, we're at the office and I say, how is that report coming along?",
+      "cn": "所以，例如，马尔科，我们在办公室，我说，报告进展如何？"
+    },
+    {
+      "id": 134,
+      "en": "Is it, you know, were the numbers good?",
+      "cn": "数字好吗？"
+    },
+    {
+      "id": 135,
+      "en": "And I can say, yeah, the numbers seemed all right, but we'll just wait and see.",
+      "cn": "我可以说，是的，数字看起来还不错，但我们就等着看吧。"
+    },
+    {
+      "id": 136,
+      "en": "Perhaps we don't have all the numbers yet.",
+      "cn": "也许我们还没有所有的数字。"
+    },
+    {
+      "id": 137,
+      "en": "So we have to wait to get the rest of them.",
+      "cn": "所以我们得等着拿到剩下的。"
+    },
+    {
+      "id": 138,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 139,
+      "en": "So you're just basically saying, I don't know what will happen in the future.",
+      "cn": "所以你基本上是在说，我不知道未来会发生什么。"
+    },
+    {
+      "id": 140,
+      "en": "Let's just hope that it will be good and let's see what happens.",
+      "cn": "让我们希望一切会好，看看会发生什么。"
+    },
+    {
+      "id": 141,
+      "en": "Let's just wait and see.",
+      "cn": "我们就等着看吧。"
+    },
+    {
+      "id": 142,
+      "en": "Let's just wait and see.",
+      "cn": "我们就等着看吧。"
+    },
+    {
+      "id": 143,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 144,
+      "en": "So let's go back and listen to our dialogue one last time.",
+      "cn": "所以让我们回去再听一遍我们的对话。"
+    },
+    {
+      "id": 145,
+      "en": "Hey, Michelle, is that you?",
+      "cn": "嘿，米歇尔，是你吗？"
+    },
+    {
+      "id": 146,
+      "en": "Wow, Grace, long time no see.",
+      "cn": "哇，格蕾丝，好久不见。"
+    },
+    {
+      "id": 147,
+      "en": "Where have you been?",
+      "cn": "你去哪儿了？"
+    },
+    {
+      "id": 148,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 149,
+      "en": "Well, you see, I got a promotion, so I moved to the new Pudong office last September.",
+      "cn": "嗯，你看，我升职了，所以去年九月我搬到了新的浦东办公室。"
+    },
+    {
+      "id": 150,
+      "en": "You did?",
+      "cn": "你升职了？"
+    },
+    {
+      "id": 151,
+      "en": "Congratulations.",
+      "cn": "恭喜。"
+    },
+    {
+      "id": 152,
+      "en": "Thanks a lot.",
+      "cn": "非常感谢。"
+    },
+    {
+      "id": 153,
+      "en": "So how are things with you, Michelle?",
+      "cn": "那么，米歇尔，你怎么样？"
+    },
+    {
+      "id": 154,
+      "en": "Well, same old, same old, you know, nothing much has changed here.",
+      "cn": "嗯，老样子，老样子，你知道，这里没什么变化。"
+    },
+    {
+      "id": 155,
+      "en": "Are you still seeing Chris?",
+      "cn": "你还在和克里斯在一起吗？"
+    },
+    {
+      "id": 156,
+      "en": "No, actually we split up last month.",
+      "cn": "不，实际上我们上个月分手了。"
+    },
+    {
+      "id": 157,
+      "en": "Oh, dear.",
+      "cn": "哦，亲爱的。"
+    },
+    {
+      "id": 158,
+      "en": "I'm sorry to hear that.",
+      "cn": "我很遗憾听到这个。"
+    },
+    {
+      "id": 159,
+      "en": "But I met a really cute guy last night at a networking party.",
+      "cn": "但我昨晚在社交聚会上遇到了一个非常可爱的家伙。"
+    },
+    {
+      "id": 160,
+      "en": "So well, let's just wait and see.",
+      "cn": "所以，嗯，我们就等着看吧。"
+    },
+    {
+      "id": 161,
+      "en": "Good for you, Michelle.",
+      "cn": "祝你好运，米歇尔。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, so this was another part of our small talk series.",
+      "cn": "好吧，这又是我们闲聊系列的另一部分。"
+    },
+    {
+      "id": 163,
+      "en": "As you see, very useful and quick little phrases so you can have a very brief conversation with maybe someone you haven't seen or a little chit chat at the office.",
+      "cn": "如你所见，非常实用和简短的小短语，可以让你和可能很久没见的人进行简短的对话或在办公室闲聊。"
+    },
+    {
+      "id": 164,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 165,
+      "en": "And these are things that if you remember them, you memorize them, you can use in almost any conversation.",
+      "cn": "这些都是如果你记住它们，背下来，就可以在几乎任何对话中使用的东西。"
+    },
+    {
+      "id": 166,
+      "en": "Also, I'm sorry to hear that or good for you.",
+      "cn": "还有，我很遗憾听到这个或祝你好运。"
+    },
+    {
+      "id": 167,
+      "en": "These are really great phrases that are very, very flexible.",
+      "cn": "这些都是非常灵活的好短语。"
+    },
+    {
+      "id": 168,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 169,
+      "en": "Actually, that's a really good one.",
+      "cn": "实际上，这是一个非常好的短语。"
+    },
+    {
+      "id": 170,
+      "en": "I'm sorry to hear that maybe someone gives you a little bit of bad news or something bad happened in their life.",
+      "cn": "我很遗憾听到这个，也许有人给你带来了坏消息或他们生活中发生了不好的事情。"
+    },
+    {
+      "id": 171,
+      "en": "It's very polite in a nice way of saying, hey, I understand.",
+      "cn": "这是一种非常礼貌的方式，表示，嘿，我理解。"
+    },
+    {
+      "id": 172,
+      "en": "I'm sorry to hear that.",
+      "cn": "我很遗憾听到这个。"
+    },
+    {
+      "id": 173,
+      "en": "That's right.",
+      "cn": "对的。"
+    },
+    {
+      "id": 174,
+      "en": "So we hope that you've learned something new in today's lesson.",
+      "cn": "所以我们希望你在今天的课程中学到了新东西。"
+    },
+    {
+      "id": 175,
+      "en": "If you have any questions about the phrases or words you've heard, please check out our website, EnglishPod.com, and leave us a question on the community section or in a note.",
+      "cn": "如果你对你听到的短语或单词有任何问题，请查看我们的网站，EnglishPod.com，并在社区部分或留言中给我们留个问题。"
+    },
+    {
+      "id": 176,
+      "en": "We'll be happy to answer them.",
+      "cn": "我们很乐意回答。"
+    },
+    {
+      "id": 177,
+      "en": "All right, guys.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 178,
+      "en": "We'll see you there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 179,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

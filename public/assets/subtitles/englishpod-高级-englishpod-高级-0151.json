@@ -1,0 +1,1244 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0151",
+  "title": "EnglishPod 高级 0151",
+  "totalSegments": 247,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "We have an advanced lesson for you today.",
+      "cn": "今天我们有一节高级课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 5,
+      "en": "And I'm very excited about this lesson, Marco.",
+      "cn": "Marco，我对这节课非常兴奋。"
+    },
+    {
+      "id": 6,
+      "en": "It's very interesting.",
+      "cn": "这非常有趣。"
+    },
+    {
+      "id": 7,
+      "en": "It's about a very controversial topic and a very popular person in history, Charles Darwin.",
+      "cn": "这是一个非常有争议的话题，关于历史上一个非常著名的人，查尔斯·达尔文。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So he's most famous perhaps for his book, The Origin of the Species.",
+      "cn": "他最著名的可能是他的书《物种起源》。"
+    },
+    {
+      "id": 10,
+      "en": "And we're going to be talking a lot about science today.",
+      "cn": "今天我们将讨论很多科学内容。"
+    },
+    {
+      "id": 11,
+      "en": "So put your thinking caps on.",
+      "cn": "所以请准备好思考。"
+    },
+    {
+      "id": 12,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 13,
+      "en": "So without further ado, why don't we listen to this dialogue for the first time.",
+      "cn": "那么不再拖延，我们先听听这个对话。"
+    },
+    {
+      "id": 14,
+      "en": "Man, it's been forever.",
+      "cn": "哇，真是太久了。"
+    },
+    {
+      "id": 15,
+      "en": "What have you been up to lately?",
+      "cn": "最近你在忙什么？"
+    },
+    {
+      "id": 16,
+      "en": "I've been busy preparing for my exams, not to mention all the term papers I've had to write.",
+      "cn": "我一直在忙着准备考试，更不用说我写的所有学期论文了。"
+    },
+    {
+      "id": 17,
+      "en": "Same here.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 18,
+      "en": "I'm up to my neck in work, but at least we've got summer holidays after finals.",
+      "cn": "我忙得不可开交，但至少期末考试后我们有暑假。"
+    },
+    {
+      "id": 19,
+      "en": "Where are you headed now?",
+      "cn": "你现在要去哪里？"
+    },
+    {
+      "id": 20,
+      "en": "I'm going to my anthro class.",
+      "cn": "我去上人类学课。"
+    },
+    {
+      "id": 21,
+      "en": "We've been focusing on Darwin all term since it's the 200th anniversary of his birth or whatever.",
+      "cn": "这学期我们一直在关注达尔文，因为这是他诞辰200周年。"
+    },
+    {
+      "id": 22,
+      "en": "I'm sick and tired of Darwin, Darwin, Darwin.",
+      "cn": "我对达尔文感到厌倦，达尔文，达尔文。"
+    },
+    {
+      "id": 23,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 24,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 25,
+      "en": "How can you not like Darwin?",
+      "cn": "你怎么会不喜欢达尔文？"
+    },
+    {
+      "id": 26,
+      "en": "His work turned thousands of years of ideas about creation on their head.",
+      "cn": "他的工作颠覆了数千年来关于创造的观念。"
+    },
+    {
+      "id": 27,
+      "en": "His theory of evolution revolutionized the fields of biology and anthropology.",
+      "cn": "他的进化论彻底改变了生物学和人类学领域。"
+    },
+    {
+      "id": 28,
+      "en": "I don't like him.",
+      "cn": "我不喜欢他。"
+    },
+    {
+      "id": 29,
+      "en": "His theory of human evolution and natural selection is full of holes.",
+      "cn": "他的关于人类进化和自然选择的理论漏洞百出。"
+    },
+    {
+      "id": 30,
+      "en": "It's not as solid as you make it out to be.",
+      "cn": "这并不像你说的那么坚实。"
+    },
+    {
+      "id": 31,
+      "en": "Say that again and you'll make enemies with half of the academy, not to mention your professors.",
+      "cn": "再说一次，你会和一半的学术界结仇，更不用说你的教授了。"
+    },
+    {
+      "id": 32,
+      "en": "Furthermore, the explanation proposed by Darwin about the origin of the species and the process of natural selection constitutes a grand step towards a coherent understanding of the world and its very beginnings.",
+      "cn": "此外，达尔文关于物种起源和自然选择过程的解释是理解世界及其起源的重要一步。"
+    },
+    {
+      "id": 33,
+      "en": "I'm not minimizing his huge contributions to science.",
+      "cn": "我并不是在贬低他对科学的巨大贡献。"
+    },
+    {
+      "id": 34,
+      "en": "It's just that his theory reminds me of the conundrum of the chicken and the egg.",
+      "cn": "只是他的理论让我想起了“先有鸡还是先有蛋”的难题。"
+    },
+    {
+      "id": 35,
+      "en": "What are you talking about?",
+      "cn": "你在说什么？"
+    },
+    {
+      "id": 36,
+      "en": "Which came first, the chicken or the egg?",
+      "cn": "先有鸡还是先有蛋？"
+    },
+    {
+      "id": 37,
+      "en": "This is a classic logical problem, and I think it applies to Darwin's theory.",
+      "cn": "这是一个经典的逻辑问题，我认为它适用于达尔文的理论。"
+    },
+    {
+      "id": 38,
+      "en": "How did the very first living organism come to be?",
+      "cn": "第一个生物是如何产生的？"
+    },
+    {
+      "id": 39,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 40,
+      "en": "I think that question is better suited for my philosophy class.",
+      "cn": "我觉得这个问题更适合我的哲学课。"
+    },
+    {
+      "id": 41,
+      "en": "In the meantime, how about we settle this with a duel?",
+      "cn": "在此期间，我们来一场决斗如何？"
+    },
+    {
+      "id": 42,
+      "en": "All right, interesting.",
+      "cn": "好的，有趣。"
+    },
+    {
+      "id": 43,
+      "en": "They have very different views on Charles Darwin, right?",
+      "cn": "他们对查尔斯·达尔文的看法非常不同，对吧？"
+    },
+    {
+      "id": 44,
+      "en": "They do, and they're both pretty nerdy people.",
+      "cn": "是的，他们都是非常书呆子的人。"
+    },
+    {
+      "id": 45,
+      "en": "This is a very nerdy university conversation that's happening between classes.",
+      "cn": "这是在课间发生的非常书呆子的大学对话。"
+    },
+    {
+      "id": 46,
+      "en": "Yeah, I think maybe they're like PhD candidates or something.",
+      "cn": "是的，我觉得他们可能是博士候选人之类的。"
+    },
+    {
+      "id": 47,
+      "en": "Perhaps.",
+      "cn": "也许吧。"
+    },
+    {
+      "id": 48,
+      "en": "All right, so before we get to talking about some of the ideas in today's dialogue, let's talk about some of the words and phrases that we hear to understand better what's going on.",
+      "cn": "好的，在我们讨论今天对话中的一些观点之前，先来谈谈我们听到的一些单词和短语，以更好地理解发生了什么。"
+    },
+    {
+      "id": 49,
+      "en": "The first part we're going to talk about in today's Language Takeaway.",
+      "cn": "今天我们要讨论的第一部分是语言要点。"
+    },
+    {
+      "id": 50,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 51,
+      "en": "All right, on Language Takeaway today, let's take a look at the first word.",
+      "cn": "好的，今天的语言要点，我们先来看第一个单词。"
+    },
+    {
+      "id": 52,
+      "en": "And, well, one of the things that many people say is that Darwin revolutionized the fields of biology.",
+      "cn": "许多人说达尔文彻底改变了生物学领域。"
+    },
+    {
+      "id": 53,
+      "en": "And so he revolutionized these because he pushed them forward.",
+      "cn": "他之所以能改变这些，是因为他推动了它们的发展。"
+    },
+    {
+      "id": 54,
+      "en": "He made many changes.",
+      "cn": "他做了许多改变。"
+    },
+    {
+      "id": 55,
+      "en": "He forced changes.",
+      "cn": "他强迫改变。"
+    },
+    {
+      "id": 56,
+      "en": "So people had to change the way that they thought about these things.",
+      "cn": "所以人们不得不改变他们对这些事物的看法。"
+    },
+    {
+      "id": 57,
+      "en": "If you revolutionize something, a topic, or an idea, you are creating new knowledge almost, right?",
+      "cn": "如果你彻底改变某个主题或想法，你几乎是在创造新的知识，对吧？"
+    },
+    {
+      "id": 58,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 59,
+      "en": "You can think of the word revolution, which is a thing.",
+      "cn": "你可以想到“革命”这个词，这是一个事物。"
+    },
+    {
+      "id": 60,
+      "en": "So you think of the Russian Revolution or the American Revolution.",
+      "cn": "所以你可以想到俄国革命或美国革命。"
+    },
+    {
+      "id": 61,
+      "en": "These are times of change.",
+      "cn": "这些都是变革的时代。"
+    },
+    {
+      "id": 62,
+      "en": "So to revolutionize is to bring about change.",
+      "cn": "所以“革命化”就是带来变化。"
+    },
+    {
+      "id": 63,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 64,
+      "en": "All right, so moving forward, they were talking about human evolution.",
+      "cn": "好的，接下来，他们在谈论人类进化。"
+    },
+    {
+      "id": 65,
+      "en": "Human evolution.",
+      "cn": "人类进化。"
+    },
+    {
+      "id": 66,
+      "en": "What is that exactly?",
+      "cn": "这到底是什么？"
+    },
+    {
+      "id": 67,
+      "en": "Good question.",
+      "cn": "好问题。"
+    },
+    {
+      "id": 68,
+      "en": "So you're not a monkey, I'm not a monkey, but we come from monkeys, right?",
+      "cn": "所以你不是猴子，我也不是猴子，但我们来自猴子，对吧？"
+    },
+    {
+      "id": 69,
+      "en": "So we evolved.",
+      "cn": "所以我们进化了。"
+    },
+    {
+      "id": 70,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 71,
+      "en": "So the process is called human evolution.",
+      "cn": "所以这个过程叫做人类进化。"
+    },
+    {
+      "id": 72,
+      "en": "That means the process by which humans changed forms to become what we are today.",
+      "cn": "这意味着人类改变形态成为我们今天的样子。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, so you evolve.",
+      "cn": "好的，所以你进化了。"
+    },
+    {
+      "id": 74,
+      "en": "Now, is it evolution?",
+      "cn": "现在，进化是吗？"
+    },
+    {
+      "id": 75,
+      "en": "You usually think of something positive, right?",
+      "cn": "你通常会认为这是积极的，对吧？"
+    },
+    {
+      "id": 76,
+      "en": "Something evolves into something better.",
+      "cn": "某种东西进化成更好的东西。"
+    },
+    {
+      "id": 77,
+      "en": "Is it always that way?",
+      "cn": "一直都是这样吗？"
+    },
+    {
+      "id": 78,
+      "en": "No, we have another word for the negative, right?",
+      "cn": "不，我们还有另一个词用于消极的，对吧？"
+    },
+    {
+      "id": 79,
+      "en": "So the positive is to evolve, to become better.",
+      "cn": "所以积极的是进化，变得更好。"
+    },
+    {
+      "id": 80,
+      "en": "To get worse is to devolve.",
+      "cn": "变得更糟是退化。"
+    },
+    {
+      "id": 81,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 82,
+      "en": "To devolve.",
+      "cn": "退化。"
+    },
+    {
+      "id": 83,
+      "en": "To go back and to kind of lose things that you had.",
+      "cn": "回到过去，失去你曾经拥有的东西。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, interesting.",
+      "cn": "好的，有趣。"
+    },
+    {
+      "id": 85,
+      "en": "And then they were also talking about Darwin's theory of natural selection.",
+      "cn": "然后他们还在谈论达尔文的自然选择理论。"
+    },
+    {
+      "id": 86,
+      "en": "Natural selection.",
+      "cn": "自然选择。"
+    },
+    {
+      "id": 87,
+      "en": "Okay, this is maybe one of the things that Darwin was most famous for, and that's why we've included it in this language takeaway, because it's a key phrase.",
+      "cn": "好的，这可能是达尔文最著名的事情之一，这就是我们将其包含在这个语言要点中的原因，因为这是一个关键短语。"
+    },
+    {
+      "id": 88,
+      "en": "It's something you hear people talk about a lot.",
+      "cn": "这是人们经常谈论的内容。"
+    },
+    {
+      "id": 89,
+      "en": "Okay, so natural selection is a process again, and it's the process by which stronger animals survive over time and weaker animals don't.",
+      "cn": "好的，自然选择又是一个过程，是强壮的动物在时间中生存，而弱小的动物则不生存的过程。"
+    },
+    {
+      "id": 90,
+      "en": "So if there's a weak species, it can't really survive because it keeps dying and dying, and then finally there's no more.",
+      "cn": "所以如果有一个弱小的物种，它实际上无法生存，因为它不断死亡，最后就没有了。"
+    },
+    {
+      "id": 91,
+      "en": "And so this is called natural selection because no one's actually choosing what animals will survive, but it's kind of a natural process.",
+      "cn": "所以这被称为自然选择，因为没有人真正选择哪些动物会生存，但这是一种自然过程。"
+    },
+    {
+      "id": 92,
+      "en": "Right, Mother Nature is choosing it.",
+      "cn": "对，母自然在选择。"
+    },
+    {
+      "id": 93,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 94,
+      "en": "Very good, so natural selection.",
+      "cn": "非常好，所以自然选择。"
+    },
+    {
+      "id": 95,
+      "en": "This is one of the things that Darwin is most famous for.",
+      "cn": "这是达尔文最著名的事情之一。"
+    },
+    {
+      "id": 96,
+      "en": "And well, as Catherine mentioned, Darwin wrote the book Origin of the Species.",
+      "cn": "而且，正如Catherine提到的，达尔文写了《物种起源》这本书。"
+    },
+    {
+      "id": 97,
+      "en": "Right, so origin means beginning.",
+      "cn": "没错，所以“起源”意味着开始。"
+    },
+    {
+      "id": 98,
+      "en": "So the origin of mankind, right?",
+      "cn": "所以人类的起源，对吧？"
+    },
+    {
+      "id": 99,
+      "en": "So there are many different kinds of animals.",
+      "cn": "所以有许多不同种类的动物。"
+    },
+    {
+      "id": 100,
+      "en": "You could even say there are many different kinds of like mammals, but there are many different species within that.",
+      "cn": "你甚至可以说有许多不同种类的哺乳动物，但在其中有许多不同的物种。"
+    },
+    {
+      "id": 101,
+      "en": "So human beings, black bears, koalas, chimpanzees, these are all species.",
+      "cn": "所以人类、黑熊、考拉、黑猩猩，这些都是物种。"
+    },
+    {
+      "id": 102,
+      "en": "And so a species is a classification.",
+      "cn": "所以物种是一种分类。"
+    },
+    {
+      "id": 103,
+      "en": "So the origin of the species is kind of a way of telling the story of how all these things came about.",
+      "cn": "所以物种的起源是一种讲述这些事物如何产生的方式。"
+    },
+    {
+      "id": 104,
+      "en": "All right, the origin of the species.",
+      "cn": "好的，物种的起源。"
+    },
+    {
+      "id": 105,
+      "en": "And the last one, this word is kind of strange.",
+      "cn": "最后一个，这个词有点奇怪。"
+    },
+    {
+      "id": 106,
+      "en": "He talked about the conundrum of the chicken and the egg.",
+      "cn": "他谈到了鸡和蛋的难题。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, conundrum.",
+      "cn": "好吧，难题。"
+    },
+    {
+      "id": 108,
+      "en": "I love this word.",
+      "cn": "我喜欢这个词。"
+    },
+    {
+      "id": 109,
+      "en": "It's very funny sounding, conundrum.",
+      "cn": "听起来很有趣，难题。"
+    },
+    {
+      "id": 110,
+      "en": "It means like a problem or a riddle or something that's hard to understand.",
+      "cn": "它的意思是像一个问题或谜语，或者是一些难以理解的东西。"
+    },
+    {
+      "id": 111,
+      "en": "All right, so in this case, it's the conundrum of the chicken and the egg, right?",
+      "cn": "好的，所以在这种情况下，就是鸡和蛋的难题，对吧？"
+    },
+    {
+      "id": 112,
+      "en": "Which came first?",
+      "cn": "哪个先来？"
+    },
+    {
+      "id": 113,
+      "en": "How else can you use conundrum?",
+      "cn": "你还可以怎么用难题？"
+    },
+    {
+      "id": 114,
+      "en": "You could say that maybe there's a situation that's very strange and hard to understand.",
+      "cn": "你可以说，也许有一种情况非常奇怪且难以理解。"
+    },
+    {
+      "id": 115,
+      "en": "This is quite a conundrum.",
+      "cn": "这真是个难题。"
+    },
+    {
+      "id": 116,
+      "en": "This is quite a conundrum we have.",
+      "cn": "这是我们面临的一个难题。"
+    },
+    {
+      "id": 117,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 118,
+      "en": "So it sounds very fancy, very well educated.",
+      "cn": "听起来很高档，很有文化。"
+    },
+    {
+      "id": 119,
+      "en": "It does.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 120,
+      "en": "All right, so interesting words on language takeaway.",
+      "cn": "好的，所以有趣的语言词汇。"
+    },
+    {
+      "id": 121,
+      "en": "Why don't we move on now to four phrases on Fluency Builder.",
+      "cn": "我们现在为什么不继续学习流利表达的四个短语呢？"
+    },
+    {
+      "id": 122,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 123,
+      "en": "All right, on Fluency Builder today we have four phrases, as we said.",
+      "cn": "好的，今天在流利表达中我们有四个短语，正如我们所说的。"
+    },
+    {
+      "id": 124,
+      "en": "So what's the first one?",
+      "cn": "那第一个是什么？"
+    },
+    {
+      "id": 125,
+      "en": "The first one is great.",
+      "cn": "第一个是很棒。"
+    },
+    {
+      "id": 126,
+      "en": "It's very visual.",
+      "cn": "它非常形象。"
+    },
+    {
+      "id": 127,
+      "en": "You say, I'm up to my neck in work.",
+      "cn": "你说，我工作忙得不可开交。"
+    },
+    {
+      "id": 128,
+      "en": "Well, I'm up to my neck in papers to write.",
+      "cn": "好吧，我忙得不可开交，写论文。"
+    },
+    {
+      "id": 129,
+      "en": "All right, so this means I have so much stuff to do that you could pile it up and it would come up to my neck.",
+      "cn": "好的，这意味着我有太多事情要做，堆起来会到我的脖子。"
+    },
+    {
+      "id": 130,
+      "en": "So I have as many papers that are almost as tall as I am.",
+      "cn": "所以我有的论文几乎和我一样高。"
+    },
+    {
+      "id": 131,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 132,
+      "en": "And so I could say I'm up to my neck in work.",
+      "cn": "所以我可以说我工作忙得不可开交。"
+    },
+    {
+      "id": 133,
+      "en": "I have no more time to do anything.",
+      "cn": "我没有时间做其他事情。"
+    },
+    {
+      "id": 134,
+      "en": "Sometimes people also say I'm up to here and then they'll point at their forehead or somewhere around their head.",
+      "cn": "有时人们也会说我忙得不可开交，然后他们会指着自己的额头或头部周围。"
+    },
+    {
+      "id": 135,
+      "en": "I'm up to here with your nonsense.",
+      "cn": "我对你的废话感到厌烦。"
+    },
+    {
+      "id": 136,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 137,
+      "en": "So this is a way of saying that I'm really busy.",
+      "cn": "所以这是一种说法，表示我真的很忙。"
+    },
+    {
+      "id": 138,
+      "en": "Really busy.",
+      "cn": "非常忙。"
+    },
+    {
+      "id": 139,
+      "en": "I'm really tired of it.",
+      "cn": "我真的厌倦了。"
+    },
+    {
+      "id": 140,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 141,
+      "en": "And our next phrase is one that most mothers use.",
+      "cn": "我们下一个短语是大多数母亲会用的。"
+    },
+    {
+      "id": 142,
+      "en": "I'm sick and tired.",
+      "cn": "我厌倦了。"
+    },
+    {
+      "id": 143,
+      "en": "I'm sick and tired of all of your whining.",
+      "cn": "我厌倦了你所有的抱怨。"
+    },
+    {
+      "id": 144,
+      "en": "Go do the dishes and don't complain.",
+      "cn": "去洗碗，不要抱怨。"
+    },
+    {
+      "id": 145,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 146,
+      "en": "So it always goes together.",
+      "cn": "所以它总是一起使用。"
+    },
+    {
+      "id": 147,
+      "en": "You are sick and tired.",
+      "cn": "你厌倦了。"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 149,
+      "en": "And sick comes first.",
+      "cn": "而且厌倦是第一位的。"
+    },
+    {
+      "id": 150,
+      "en": "So I'm sick and tired of this.",
+      "cn": "所以我厌倦了这个。"
+    },
+    {
+      "id": 151,
+      "en": "I'm sick and tired of your bad attitude.",
+      "cn": "我厌倦了你的坏态度。"
+    },
+    {
+      "id": 152,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 153,
+      "en": "So, and that means that you are... I'm just tired of it.",
+      "cn": "所以，这意味着你... 我只是厌倦了。"
+    },
+    {
+      "id": 154,
+      "en": "I don't want you to have a bad attitude anymore.",
+      "cn": "我不想让你再有坏态度。"
+    },
+    {
+      "id": 155,
+      "en": "I'm really annoyed by it.",
+      "cn": "我对此感到非常恼火。"
+    },
+    {
+      "id": 156,
+      "en": "I'm annoyed.",
+      "cn": "我很恼火。"
+    },
+    {
+      "id": 157,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 158,
+      "en": "Sick and tired.",
+      "cn": "厌倦和疲惫。"
+    },
+    {
+      "id": 159,
+      "en": "And then we saw a phrase that was a little bit separated.",
+      "cn": "然后我们看到一个稍微分开的短语。"
+    },
+    {
+      "id": 160,
+      "en": "He said, the sentence went like this.",
+      "cn": "他说，句子是这样的。"
+    },
+    {
+      "id": 161,
+      "en": "His work turned thousands of years of ideas about creation on their head.",
+      "cn": "他的工作颠覆了数千年来关于创造的思想。"
+    },
+    {
+      "id": 162,
+      "en": "So to turn something on its head.",
+      "cn": "所以颠覆某事。"
+    },
+    {
+      "id": 163,
+      "en": "Like you said, Marco, it's split into two parts.",
+      "cn": "就像你说的，Marco，它分为两部分。"
+    },
+    {
+      "id": 164,
+      "en": "So he turned the field of computer science on its head.",
+      "cn": "所以他颠覆了计算机科学领域。"
+    },
+    {
+      "id": 165,
+      "en": "So to turn on its head means to completely reverse something, to turn it around.",
+      "cn": "所以颠覆意味着完全反转某事，翻转过来。"
+    },
+    {
+      "id": 166,
+      "en": "You think 180 degrees.",
+      "cn": "你想象180度。"
+    },
+    {
+      "id": 167,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 168,
+      "en": "And so if biology used to be one way, then Darwin made it completely different.",
+      "cn": "所以如果生物学曾经是某种方式，那么达尔文使其完全不同。"
+    },
+    {
+      "id": 169,
+      "en": "So we can say that Isaac Newton completely turned physics on its head with his theory or his findings on gravity.",
+      "cn": "所以我们可以说，艾萨克·牛顿用他的理论或关于重力的发现完全颠覆了物理学。"
+    },
+    {
+      "id": 170,
+      "en": "And then years and years later, we had Albert Einstein who turned those theories or who turned that theory on its head with his own ideas about physics.",
+      "cn": "然后多年以后，我们有阿尔伯特·爱因斯坦，他用自己关于物理学的想法颠覆了那些理论。"
+    },
+    {
+      "id": 171,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 172,
+      "en": "So to come to turn something on its head, completely change the course of or prove something to be maybe wrong.",
+      "cn": "所以颠覆某事，完全改变某事的方向或证明某事可能是错误的。"
+    },
+    {
+      "id": 173,
+      "en": "And the last phrase that we have is the person argued that Darwin's theories were full of holes.",
+      "cn": "我们最后一个短语是这个人争辩说达尔文的理论漏洞百出。"
+    },
+    {
+      "id": 174,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 175,
+      "en": "So to say a theory is full of holes is a little bit different than saying that his pants are full of holes.",
+      "cn": "所以说一个理论漏洞百出与说他的裤子漏洞百出有点不同。"
+    },
+    {
+      "id": 176,
+      "en": "Because when you say something is full of holes, maybe they actually have holes, but a theory is it's an idea.",
+      "cn": "因为当你说某事漏洞百出时，可能它们确实有漏洞，但理论是一个想法。"
+    },
+    {
+      "id": 177,
+      "en": "So it can't have holes.",
+      "cn": "所以它不能有漏洞。"
+    },
+    {
+      "id": 178,
+      "en": "What you're saying is that it's not completely sound.",
+      "cn": "你所说的是它并不完全可靠。"
+    },
+    {
+      "id": 179,
+      "en": "It's not without some problems.",
+      "cn": "它并不是没有一些问题。"
+    },
+    {
+      "id": 180,
+      "en": "And so maybe you're saying that, um, well, the cookies are gone out of the kitchen, Marco.",
+      "cn": "所以也许你在说，嗯，饼干从厨房里没了，Marco。"
+    },
+    {
+      "id": 181,
+      "en": "And I saw you in the kitchen, so clearly you ate the cookies.",
+      "cn": "而我看到你在厨房，所以显然是你吃了饼干。"
+    },
+    {
+      "id": 182,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 183,
+      "en": "So I can say that's full of holes because it was me and it was three other people who were in the kitchen.",
+      "cn": "所以我可以说这漏洞百出，因为是我和另外三个人在厨房。"
+    },
+    {
+      "id": 184,
+      "en": "So you can't blame me.",
+      "cn": "所以你不能怪我。"
+    },
+    {
+      "id": 185,
+      "en": "Ah, could have been the other two people.",
+      "cn": "啊，可能是其他两个人。"
+    },
+    {
+      "id": 186,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 187,
+      "en": "So if something is full of holes, it's that it has maybe mistakes or it's still missing complete evidence to prove it right.",
+      "cn": "所以如果某事漏洞百出，那就是它可能有错误，或者仍然缺乏完整的证据来证明它是正确的。"
+    },
+    {
+      "id": 188,
+      "en": "Or it has bad logic.",
+      "cn": "或者它有糟糕的逻辑。"
+    },
+    {
+      "id": 189,
+      "en": "Bad logic.",
+      "cn": "糟糕的逻辑。"
+    },
+    {
+      "id": 190,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 191,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 192,
+      "en": "So, um, we've taken a look at a lot of words and different phrases here.",
+      "cn": "所以，我们在这里看了很多单词和不同的短语。"
+    },
+    {
+      "id": 193,
+      "en": "Let's listen to this argument one last time.",
+      "cn": "让我们最后再听一遍这个争论。"
+    },
+    {
+      "id": 194,
+      "en": "Man, it's been forever.",
+      "cn": "哇，真是太久了。"
+    },
+    {
+      "id": 195,
+      "en": "What have you been up to lately?",
+      "cn": "你最近在忙什么？"
+    },
+    {
+      "id": 196,
+      "en": "I've been busy preparing for my exams.",
+      "cn": "我一直在忙着准备考试。"
+    },
+    {
+      "id": 197,
+      "en": "Not to mention all the term papers I've had to write.",
+      "cn": "更不用说我必须写的所有学期论文。"
+    },
+    {
+      "id": 198,
+      "en": "Same here.",
+      "cn": "我也是。"
+    },
+    {
+      "id": 199,
+      "en": "I'm up to my neck in work, but at least you've got summer holidays after finals.",
+      "cn": "我工作忙得不可开交，但至少你在期末考试后有暑假。"
+    },
+    {
+      "id": 200,
+      "en": "Where are you headed now?",
+      "cn": "你现在要去哪里？"
+    },
+    {
+      "id": 201,
+      "en": "I'm going to my anthro class.",
+      "cn": "我去上人类学课。"
+    },
+    {
+      "id": 202,
+      "en": "We've been focusing on Darwin all term since it's the 200th anniversary of his birth or whatever.",
+      "cn": "我们整个学期都在关注达尔文，因为这是他诞辰200周年。"
+    },
+    {
+      "id": 203,
+      "en": "I'm sick and tired of Darwin, Darwin, Darwin.",
+      "cn": "我对达尔文感到厌烦，达尔文，达尔文，达尔文。"
+    },
+    {
+      "id": 204,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 205,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 206,
+      "en": "How can you not like Darwin?",
+      "cn": "你怎么会不喜欢达尔文？"
+    },
+    {
+      "id": 207,
+      "en": "His work turned thousands of years of ideas about creation on their head.",
+      "cn": "他的工作颠覆了数千年来关于创造的观念。"
+    },
+    {
+      "id": 208,
+      "en": "His theory of evolution revolutionized the fields of biology and anthropology.",
+      "cn": "他的进化论彻底改变了生物学和人类学领域。"
+    },
+    {
+      "id": 209,
+      "en": "I don't like him.",
+      "cn": "我不喜欢他。"
+    },
+    {
+      "id": 210,
+      "en": "His theory of human evolution and natural selection is full of holes.",
+      "cn": "他的人的进化和自然选择理论漏洞百出。"
+    },
+    {
+      "id": 211,
+      "en": "It's not as solid as you make it out to be.",
+      "cn": "这并不像你说的那么扎实。"
+    },
+    {
+      "id": 212,
+      "en": "Save that again and you'll make enemies with half of the academy, not to mention your professors.",
+      "cn": "再这样说，你会和一半的学术界结仇，更不用说你的教授了。"
+    },
+    {
+      "id": 213,
+      "en": "Furthermore, the explanation proposed by Darwin about the origin of the species and the process of natural selection constitutes a grand step towards a coherent understanding of the world and its very beginnings.",
+      "cn": "此外，达尔文关于物种起源和自然选择过程的解释是理解世界及其起源的重要一步。"
+    },
+    {
+      "id": 214,
+      "en": "I'm not minimizing his huge contributions to science.",
+      "cn": "我并不是在贬低他对科学的巨大贡献。"
+    },
+    {
+      "id": 215,
+      "en": "It's just that his theory reminds me of the conundrum of the chicken and the egg.",
+      "cn": "只是他的理论让我想起了鸡和蛋的难题。"
+    },
+    {
+      "id": 216,
+      "en": "What are you talking about?",
+      "cn": "你在说什么？"
+    },
+    {
+      "id": 217,
+      "en": "Which came first, the chicken or the egg?",
+      "cn": "哪个先有，鸡还是蛋？"
+    },
+    {
+      "id": 218,
+      "en": "This is a classic logical problem, and I think it applies to Darwin's theory.",
+      "cn": "这是一个经典的逻辑问题，我认为它适用于达尔文的理论。"
+    },
+    {
+      "id": 219,
+      "en": "How did the very first living organism come to be?",
+      "cn": "第一个生物是如何产生的？"
+    },
+    {
+      "id": 220,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 221,
+      "en": "I think that question is better suited for my philosophy class.",
+      "cn": "我觉得这个问题更适合我的哲学课。"
+    },
+    {
+      "id": 222,
+      "en": "In the meantime, how about we settle this with a duel?",
+      "cn": "在此期间，我们来一场决斗如何？"
+    },
+    {
+      "id": 223,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 224,
+      "en": "So interesting, this Darwin's theories and his explanations for the origin of species and life as we know it.",
+      "cn": "达尔文的理论以及他对物种和生命起源的解释真有趣。"
+    },
+    {
+      "id": 225,
+      "en": "But there is the opposite to this, right?",
+      "cn": "但这有相反的观点，对吧？"
+    },
+    {
+      "id": 226,
+      "en": "There is a certain thing called creationism.",
+      "cn": "有一种叫做创造论的东西。"
+    },
+    {
+      "id": 227,
+      "en": "There is, and this is a big source of controversy, especially in the United States, because in some places people want to teach creationism as well as evolution in schools.",
+      "cn": "确实有，这在美国尤其引发了很大争议，因为在某些地方，人们希望在学校教授创造论和进化论。"
+    },
+    {
+      "id": 228,
+      "en": "And so this is the big question.",
+      "cn": "所以这是一个大问题。"
+    },
+    {
+      "id": 229,
+      "en": "Are they still equal as theories, or is one theory more proven than the other?",
+      "cn": "这两种理论仍然平等吗，还是其中一种理论更有证据？"
+    },
+    {
+      "id": 230,
+      "en": "Right, and it is kind of hard to determine which one is better, because one is based on faith, the other one is based more on scientific evidence, right?",
+      "cn": "对，而且很难判断哪一个更好，因为一个基于信仰，另一个更基于科学证据，对吧？"
+    },
+    {
+      "id": 231,
+      "en": "So they're not really even on the same scale.",
+      "cn": "所以它们实际上并不在同一尺度上。"
+    },
+    {
+      "id": 232,
+      "en": "As we learned before, that's kind of like apples and oranges, right?",
+      "cn": "正如我们之前所学的，这就像苹果和橘子，对吧？"
+    },
+    {
+      "id": 233,
+      "en": "It is, and there are some people who would say that we have lots of ways of proving what happened in the past, but as long as we weren't there, we never really do know.",
+      "cn": "是的，有些人会说我们有很多方法来证明过去发生的事情，但只要我们不在场，我们就永远无法真正知道。"
+    },
+    {
+      "id": 234,
+      "en": "And there's always changes in science, so how can we be sure that what we know now isn't false, isn't misunderstandings?",
+      "cn": "而且科学总是会变化，那么我们怎么能确定我们现在所知道的不是错误的，不是误解呢？"
+    },
+    {
+      "id": 235,
+      "en": "Right, I think for now this is the best explanation, but that doesn't mean that it's the correct one.",
+      "cn": "对，我认为目前这是最好的解释，但这并不意味着它是正确的。"
+    },
+    {
+      "id": 236,
+      "en": "Maybe in a hundred years from now we'll have another explanation that's much better or maybe complementary to this one.",
+      "cn": "也许一百年后我们会有一个更好的解释，或者与这个解释互补。"
+    },
+    {
+      "id": 237,
+      "en": "Well, we want to know what you guys think.",
+      "cn": "好吧，我们想知道你们的想法。"
+    },
+    {
+      "id": 238,
+      "en": "Come to our website, EnglishPod.com.",
+      "cn": "来我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 239,
+      "en": "We really want to hear your opinions.",
+      "cn": "我们真的很想听听你们的意见。"
+    },
+    {
+      "id": 240,
+      "en": "What do you think about this topic?",
+      "cn": "你们对这个话题有什么看法？"
+    },
+    {
+      "id": 241,
+      "en": "It is a little bit controversial, so we really look forward to your comments and any other questions you may have.",
+      "cn": "这有点争议，所以我们非常期待你们的评论和任何其他问题。"
+    },
+    {
+      "id": 242,
+      "en": "Yep, and just a reference, creationism is the idea that God created the world, or a superior being created the world, and that everything came from that.",
+      "cn": "是的，作为参考，创造论是上帝创造了世界，或者一个更高的存在创造了世界，所有事物都源于此的观点。"
+    },
+    {
+      "id": 243,
+      "en": "And so let us know what you think.",
+      "cn": "所以让我们知道你们的想法。"
+    },
+    {
+      "id": 244,
+      "en": "I am very curious too.",
+      "cn": "我也很想知道。"
+    },
+    {
+      "id": 245,
+      "en": "And that's about it for today.",
+      "cn": "今天就到这里。"
+    },
+    {
+      "id": 246,
+      "en": "All right, we'll see you guys there.",
+      "cn": "好吧，我们下次见。"
+    },
+    {
+      "id": 247,
+      "en": "Bye-bye.",
+      "cn": "再见。"
+    }
+  ]
+}

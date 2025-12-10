@@ -1,0 +1,1204 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0030",
+  "title": "EnglishPod 中级 0030",
+  "totalSegments": 239,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erika.",
+      "cn": "我是Erika。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're bringing you part two of another great lesson that we had.",
+      "cn": "今天我们带来另一堂精彩课程的第二部分。"
+    },
+    {
+      "id": 6,
+      "en": "Yes, new guy in town.",
+      "cn": "是的，镇上的新家伙。"
+    },
+    {
+      "id": 7,
+      "en": "The new guy in town.",
+      "cn": "镇上的新家伙。"
+    },
+    {
+      "id": 8,
+      "en": "Part two.",
+      "cn": "第二部分。"
+    },
+    {
+      "id": 9,
+      "en": "Part two.",
+      "cn": "第二部分。"
+    },
+    {
+      "id": 10,
+      "en": "Kind of a creepy story.",
+      "cn": "有点诡异的故事。"
+    },
+    {
+      "id": 11,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 12,
+      "en": "Yeah, and this one is also a little bit strange, a little bit weird.",
+      "cn": "是的，这个故事也有点奇怪，有点怪异。"
+    },
+    {
+      "id": 13,
+      "en": "Yeah, unusual outcome, unusual ending.",
+      "cn": "是的，结果不寻常，结局不寻常。"
+    },
+    {
+      "id": 14,
+      "en": "But it has to do a lot with invitations.",
+      "cn": "但这与邀请有很大关系。"
+    },
+    {
+      "id": 15,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 16,
+      "en": "So an invitation is when you ask somebody to do something with you.",
+      "cn": "邀请是你邀请某人和你一起做某事。"
+    },
+    {
+      "id": 17,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 18,
+      "en": "A dinner invitation.",
+      "cn": "晚餐邀请。"
+    },
+    {
+      "id": 19,
+      "en": "So we're going to be talking about invitations and inviting people to do things.",
+      "cn": "所以我们将讨论邀请和邀请人们做事情。"
+    },
+    {
+      "id": 20,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 21,
+      "en": "Well, with that, let's listen to the dialogue for the first time.",
+      "cn": "那么，让我们第一次听对话。"
+    },
+    {
+      "id": 22,
+      "en": "Oh, Armand, thank you for such a thoughtful invitation.",
+      "cn": "哦，Armand，谢谢你如此体贴的邀请。"
+    },
+    {
+      "id": 23,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "cn": "你邀请我们来吃晚餐真是太好了。"
+    },
+    {
+      "id": 24,
+      "en": "Don't you think so, Ellen?",
+      "cn": "你不觉得吗，Ellen？"
+    },
+    {
+      "id": 25,
+      "en": "Oh, yes, of course.",
+      "cn": "哦，是的，当然。"
+    },
+    {
+      "id": 26,
+      "en": "We'd love to come over.",
+      "cn": "我们很乐意来。"
+    },
+    {
+      "id": 27,
+      "en": "Can I bring anything?",
+      "cn": "我可以带什么吗？"
+    },
+    {
+      "id": 28,
+      "en": "No, don't worry about it.",
+      "cn": "不用担心。"
+    },
+    {
+      "id": 29,
+      "en": "I'll take care of everything.",
+      "cn": "我会处理一切。"
+    },
+    {
+      "id": 30,
+      "en": "I'll see you tonight.",
+      "cn": "我今晚见你。"
+    },
+    {
+      "id": 31,
+      "en": "Come with an appetite.",
+      "cn": "来的时候要有胃口。"
+    },
+    {
+      "id": 32,
+      "en": "I know I will.",
+      "cn": "我知道我会的。"
+    },
+    {
+      "id": 33,
+      "en": "I don't want to go over to his place for dinner.",
+      "cn": "我不想去他家吃晚餐。"
+    },
+    {
+      "id": 34,
+      "en": "He gives me the creeps.",
+      "cn": "他让我毛骨悚然。"
+    },
+    {
+      "id": 35,
+      "en": "Why on earth did you accept?",
+      "cn": "你为什么接受？"
+    },
+    {
+      "id": 36,
+      "en": "Oh, come on, Ellen.",
+      "cn": "哦，别这样，Ellen。"
+    },
+    {
+      "id": 37,
+      "en": "It'll be nice to get to know him.",
+      "cn": "认识他会很好。"
+    },
+    {
+      "id": 38,
+      "en": "Besides, he's new to the neighborhood, and it would be rude to decline his invitation.",
+      "cn": "而且，他是新来的，拒绝他的邀请会很无礼。"
+    },
+    {
+      "id": 39,
+      "en": "I guess so.",
+      "cn": "我想也是。"
+    },
+    {
+      "id": 40,
+      "en": "You always wrote me into things like this.",
+      "cn": "你总是让我参与这种事情。"
+    },
+    {
+      "id": 41,
+      "en": "Ladies, thank you for coming.",
+      "cn": "女士们，谢谢你们的到来。"
+    },
+    {
+      "id": 42,
+      "en": "You look delicious.",
+      "cn": "你们看起来很美。"
+    },
+    {
+      "id": 43,
+      "en": "I mean beautiful.",
+      "cn": "我是说美丽。"
+    },
+    {
+      "id": 44,
+      "en": "Please come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 45,
+      "en": "Oh, Armand, you are too kind.",
+      "cn": "哦，Armand，你太好了。"
+    },
+    {
+      "id": 46,
+      "en": "How did I get myself into this?",
+      "cn": "我怎么会陷入这种境地？"
+    },
+    {
+      "id": 47,
+      "en": "Wow, I'm really anxious to see what happens in this dinner party.",
+      "cn": "哇，我真的很想看看这个晚宴会发生什么。"
+    },
+    {
+      "id": 48,
+      "en": "Yeah, I guess we'll have to stay tuned and find out.",
+      "cn": "是的，我想我们得继续关注，看看。"
+    },
+    {
+      "id": 49,
+      "en": "For part three.",
+      "cn": "第三部分。"
+    },
+    {
+      "id": 50,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 51,
+      "en": "Alright, well, we have some really great vocabularies, so I guess we can start with language takeaway.",
+      "cn": "好吧，我们有一些很棒的词汇，所以我想我们可以开始语言收获。"
+    },
+    {
+      "id": 52,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 53,
+      "en": "Alright, on language takeaway today we have three great words.",
+      "cn": "好吧，今天的语言收获我们有三个很棒的单词。"
+    },
+    {
+      "id": 54,
+      "en": "Erica, why don't you start us off with the first one.",
+      "cn": "Erica，你先来第一个。"
+    },
+    {
+      "id": 55,
+      "en": "The first word is thoughtful.",
+      "cn": "第一个词是体贴。"
+    },
+    {
+      "id": 56,
+      "en": "Thoughtful.",
+      "cn": "体贴。"
+    },
+    {
+      "id": 57,
+      "en": "Thoughtful.",
+      "cn": "体贴。"
+    },
+    {
+      "id": 58,
+      "en": "Thoughtful.",
+      "cn": "体贴。"
+    },
+    {
+      "id": 59,
+      "en": "So when you're thoughtful, you're kind, right?",
+      "cn": "所以当你体贴时，你是善良的，对吧？"
+    },
+    {
+      "id": 60,
+      "en": "You're kind.",
+      "cn": "你是善良的。"
+    },
+    {
+      "id": 61,
+      "en": "You considerate to other people.",
+      "cn": "你考虑到其他人。"
+    },
+    {
+      "id": 62,
+      "en": "You think about what the other person would like.",
+      "cn": "你考虑到对方的喜好。"
+    },
+    {
+      "id": 63,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 64,
+      "en": "And you do that thing.",
+      "cn": "然后你去做那件事。"
+    },
+    {
+      "id": 65,
+      "en": "It's so thoughtful of you.",
+      "cn": "你真体贴。"
+    },
+    {
+      "id": 66,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 67,
+      "en": "Our second phrase, give me the creeps.",
+      "cn": "我们的第二个短语，给我毛骨悚然。"
+    },
+    {
+      "id": 68,
+      "en": "Give me the creeps.",
+      "cn": "给我毛骨悚然。"
+    },
+    {
+      "id": 69,
+      "en": "Give me the creeps.",
+      "cn": "给我毛骨悚然。"
+    },
+    {
+      "id": 70,
+      "en": "This is kind of a funny phrase, but I think if we listen to some examples, we'll understand the meaning.",
+      "cn": "这是一个有点搞笑的短语，但我认为如果我们听一些例子，我们会理解其含义。"
+    },
+    {
+      "id": 71,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 72,
+      "en": "Horror movies give me the creeps.",
+      "cn": "恐怖电影让我毛骨悚然。"
+    },
+    {
+      "id": 73,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 74,
+      "en": "Stop it.",
+      "cn": "停止。"
+    },
+    {
+      "id": 75,
+      "en": "You're giving me the creeps.",
+      "cn": "你让我毛骨悚然。"
+    },
+    {
+      "id": 76,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 77,
+      "en": "I saw this really scary clown.",
+      "cn": "我看到一个非常可怕的小丑。"
+    },
+    {
+      "id": 78,
+      "en": "It gave me the creeps.",
+      "cn": "它让我毛骨悚然。"
+    },
+    {
+      "id": 79,
+      "en": "So I can see this one means to make me feel uncomfortable.",
+      "cn": "所以我可以看到这个意思是让我感到不舒服。"
+    },
+    {
+      "id": 80,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 81,
+      "en": "It makes me feel like scared.",
+      "cn": "它让我感到害怕。"
+    },
+    {
+      "id": 82,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 83,
+      "en": "Scared.",
+      "cn": "害怕。"
+    },
+    {
+      "id": 84,
+      "en": "Gives me the creeps.",
+      "cn": "让我毛骨悚然。"
+    },
+    {
+      "id": 85,
+      "en": "And our last phrase for language takeaway.",
+      "cn": "我们的最后一个短语是语言收获。"
+    },
+    {
+      "id": 86,
+      "en": "Rope me into.",
+      "cn": "牵扯我进来。"
+    },
+    {
+      "id": 87,
+      "en": "Rope me into something.",
+      "cn": "牵扯我进某事。"
+    },
+    {
+      "id": 88,
+      "en": "Rope me into something.",
+      "cn": "牵扯我进某事。"
+    },
+    {
+      "id": 89,
+      "en": "So if you rope me into something, it's... It's like you convince me to do something that I don't really want to do.",
+      "cn": "所以如果你牵扯我进某事，那就是... 就像你说服我做我并不想做的事情。"
+    },
+    {
+      "id": 90,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 91,
+      "en": "So I roped you into lending me your car.",
+      "cn": "所以我让你借我车。"
+    },
+    {
+      "id": 92,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 93,
+      "en": "That was a bad idea.",
+      "cn": "那是个坏主意。"
+    },
+    {
+      "id": 94,
+      "en": "That was a bad idea.",
+      "cn": "那是个坏主意。"
+    },
+    {
+      "id": 95,
+      "en": "And you roped me into going out for beers after work.",
+      "cn": "你让我去下班后喝啤酒。"
+    },
+    {
+      "id": 96,
+      "en": "Yeah, that was a great idea.",
+      "cn": "是的，那是个好主意。"
+    },
+    {
+      "id": 97,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 98,
+      "en": "So rope me into.",
+      "cn": "所以牵扯我进来。"
+    },
+    {
+      "id": 99,
+      "en": "Convince.",
+      "cn": "说服。"
+    },
+    {
+      "id": 100,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 101,
+      "en": "Alrighty.",
+      "cn": "好的。"
+    },
+    {
+      "id": 102,
+      "en": "So I guess we could listen to our dialogue again.",
+      "cn": "我想我们可以再听一遍我们的对话。"
+    },
+    {
+      "id": 103,
+      "en": "This time a little bit slower and you'll be able to understand the language a little bit more clearly.",
+      "cn": "这次慢一点，你会更清楚地理解语言。"
+    },
+    {
+      "id": 104,
+      "en": "Oh, Armand, thank you for such a thoughtful invitation.",
+      "cn": "哦，阿尔芒，谢谢你如此周到的邀请。"
+    },
+    {
+      "id": 105,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "cn": "你邀请我们来吃晚餐真是太好了。"
+    },
+    {
+      "id": 106,
+      "en": "Don't you think so, Ellen?",
+      "cn": "你不觉得吗，艾伦？"
+    },
+    {
+      "id": 107,
+      "en": "Oh, yes, of course.",
+      "cn": "哦，是的，当然。"
+    },
+    {
+      "id": 108,
+      "en": "We'd love to come over.",
+      "cn": "我们很乐意来。"
+    },
+    {
+      "id": 109,
+      "en": "Can I bring anything?",
+      "cn": "我可以带点什么吗？"
+    },
+    {
+      "id": 110,
+      "en": "No, don't worry about it.",
+      "cn": "不用担心。"
+    },
+    {
+      "id": 111,
+      "en": "I'll take care of everything.",
+      "cn": "我会处理一切。"
+    },
+    {
+      "id": 112,
+      "en": "I'll see you tonight.",
+      "cn": "我今晚见你。"
+    },
+    {
+      "id": 113,
+      "en": "Come with an appetite.",
+      "cn": "来的时候要有胃口。"
+    },
+    {
+      "id": 114,
+      "en": "I know I will.",
+      "cn": "我知道我会有的。"
+    },
+    {
+      "id": 115,
+      "en": "I don't want to go over to his place for dinner.",
+      "cn": "我不想去他家吃晚餐。"
+    },
+    {
+      "id": 116,
+      "en": "He gives me the creeps.",
+      "cn": "他让我毛骨悚然。"
+    },
+    {
+      "id": 117,
+      "en": "Why on earth did you accept?",
+      "cn": "你为什么接受？"
+    },
+    {
+      "id": 118,
+      "en": "Oh, come on, Ellen.",
+      "cn": "哦，别这样，艾伦。"
+    },
+    {
+      "id": 119,
+      "en": "It will be nice to get to know him.",
+      "cn": "认识他会很好。"
+    },
+    {
+      "id": 120,
+      "en": "Besides, he's new to the neighborhood, and it will be rude to decline his invitation.",
+      "cn": "而且，他是新搬来的，拒绝他的邀请会很失礼。"
+    },
+    {
+      "id": 121,
+      "en": "I guess so.",
+      "cn": "我想是的。"
+    },
+    {
+      "id": 122,
+      "en": "You always wrote me into things like this.",
+      "cn": "你总是让我参与这种事情。"
+    },
+    {
+      "id": 123,
+      "en": "Ladies, thank you for coming.",
+      "cn": "女士们，谢谢你们的到来。"
+    },
+    {
+      "id": 124,
+      "en": "You look delicious.",
+      "cn": "你们看起来很美。"
+    },
+    {
+      "id": 125,
+      "en": "I mean, beautiful.",
+      "cn": "我是说，漂亮。"
+    },
+    {
+      "id": 126,
+      "en": "Please come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 127,
+      "en": "Come in.",
+      "cn": "进来。"
+    },
+    {
+      "id": 128,
+      "en": "Oh, Armand, you are too kind.",
+      "cn": "哦，阿尔芒，你太客气了。"
+    },
+    {
+      "id": 129,
+      "en": "How did I get myself into this?",
+      "cn": "我怎么会陷入这种境地？"
+    },
+    {
+      "id": 130,
+      "en": "Well, I guess that's a lot more clear.",
+      "cn": "嗯，我想这清楚多了。"
+    },
+    {
+      "id": 131,
+      "en": "And with that, we can start putting it together today.",
+      "cn": "有了这个，我们今天可以开始整理了。"
+    },
+    {
+      "id": 132,
+      "en": "Putting it together.",
+      "cn": "整理。"
+    },
+    {
+      "id": 133,
+      "en": "Today we've got three words and phrases that we want to show you how you can put together and use differently.",
+      "cn": "今天我们有三个单词和短语，想给你们展示如何组合和不同使用。"
+    },
+    {
+      "id": 134,
+      "en": "The first one is appetite, appetite, appetite, appetite.",
+      "cn": "第一个是胃口，胃口，胃口，胃口。"
+    },
+    {
+      "id": 135,
+      "en": "So appetite is like a strong desire for food, right?",
+      "cn": "所以胃口就像是对食物的强烈渴望，对吧？"
+    },
+    {
+      "id": 136,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 137,
+      "en": "And appetite.",
+      "cn": "还有胃口。"
+    },
+    {
+      "id": 138,
+      "en": "We've got some examples that show you how to use this phrase.",
+      "cn": "我们有一些例子来展示如何使用这个短语。"
+    },
+    {
+      "id": 139,
+      "en": "Let's listen.",
+      "cn": "我们来听听。"
+    },
+    {
+      "id": 140,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 141,
+      "en": "Dinner smells so good.",
+      "cn": "晚餐闻起来真香。"
+    },
+    {
+      "id": 142,
+      "en": "It's giving me an appetite.",
+      "cn": "让我有了胃口。"
+    },
+    {
+      "id": 143,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 144,
+      "en": "You're sure eating a lot.",
+      "cn": "你吃得真多。"
+    },
+    {
+      "id": 145,
+      "en": "You must have a big appetite.",
+      "cn": "你一定有很大的胃口。"
+    },
+    {
+      "id": 146,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 147,
+      "en": "I'm getting sick.",
+      "cn": "我快要生病了。"
+    },
+    {
+      "id": 148,
+      "en": "I have a fever and I have lost my appetite.",
+      "cn": "我发烧了，失去了胃口。"
+    },
+    {
+      "id": 149,
+      "en": "Okay, so we saw some great examples of appetite.",
+      "cn": "好的，所以我们看到了胃口的一些很好的例子。"
+    },
+    {
+      "id": 150,
+      "en": "You can lose your appetite.",
+      "cn": "你可以失去胃口。"
+    },
+    {
+      "id": 151,
+      "en": "That's right.",
+      "cn": "对。"
+    },
+    {
+      "id": 152,
+      "en": "You have a big appetite.",
+      "cn": "你有很大的胃口。"
+    },
+    {
+      "id": 153,
+      "en": "A small appetite.",
+      "cn": "小胃口。"
+    },
+    {
+      "id": 154,
+      "en": "A healthy appetite.",
+      "cn": "健康的胃口。"
+    },
+    {
+      "id": 155,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 156,
+      "en": "So it just means a desire for food, a hunger for food.",
+      "cn": "所以这只是意味着对食物的渴望，饥饿。"
+    },
+    {
+      "id": 157,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 158,
+      "en": "What's our second phrase for today?",
+      "cn": "我们今天的第二个短语是什么？"
+    },
+    {
+      "id": 159,
+      "en": "Get to know someone.",
+      "cn": "认识某人。"
+    },
+    {
+      "id": 160,
+      "en": "Get to know.",
+      "cn": "认识。"
+    },
+    {
+      "id": 161,
+      "en": "Get to know.",
+      "cn": "认识。"
+    },
+    {
+      "id": 162,
+      "en": "So when you get to know someone is you talk to them and you find out what they do.",
+      "cn": "所以当你认识某人时，就是你和他们交谈，了解他们在做什么。"
+    },
+    {
+      "id": 163,
+      "en": "Yeah, you get more familiar with them.",
+      "cn": "是的，你会更熟悉他们。"
+    },
+    {
+      "id": 164,
+      "en": "More familiar.",
+      "cn": "更熟悉。"
+    },
+    {
+      "id": 165,
+      "en": "For example, we can say I got to know her in Spanish class and she's a really nice person.",
+      "cn": "例如，我们可以说我在西班牙语课上认识了她，她是个很好的人。"
+    },
+    {
+      "id": 166,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 167,
+      "en": "Or you can say Armand, Ellen and Doris got to know each other at a dinner party.",
+      "cn": "或者你可以说阿尔芒、艾伦和多丽丝在晚会上互相认识。"
+    },
+    {
+      "id": 168,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 169,
+      "en": "Or you can say if you get to know me, you'll see that I'm not a bad guy.",
+      "cn": "或者你可以说如果你了解我，你会发现我不是个坏人。"
+    },
+    {
+      "id": 170,
+      "en": "Yeah, that's true.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 171,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 172,
+      "en": "Get to know.",
+      "cn": "认识。"
+    },
+    {
+      "id": 173,
+      "en": "And our third phrase is why on earth?",
+      "cn": "我们的第三个短语是“为什么会这样？”"
+    },
+    {
+      "id": 174,
+      "en": "Why on earth?",
+      "cn": "为什么会这样？"
+    },
+    {
+      "id": 175,
+      "en": "Why on earth?",
+      "cn": "为什么会这样？"
+    },
+    {
+      "id": 176,
+      "en": "Why on earth?",
+      "cn": "为什么会这样？"
+    },
+    {
+      "id": 177,
+      "en": "This is like a saying expression.",
+      "cn": "这就像一个说法。"
+    },
+    {
+      "id": 178,
+      "en": "You can use it in a lot of different ways.",
+      "cn": "你可以用很多不同的方式。"
+    },
+    {
+      "id": 179,
+      "en": "So we've got some examples for you.",
+      "cn": "所以我们有一些例子给你。"
+    },
+    {
+      "id": 180,
+      "en": "Let's listen.",
+      "cn": "我们来听听。"
+    },
+    {
+      "id": 181,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 182,
+      "en": "Where on earth is my phone?",
+      "cn": "我的手机到底在哪里？"
+    },
+    {
+      "id": 183,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 184,
+      "en": "How on earth did you learn English in one month?",
+      "cn": "你怎么可能在一个月内学会英语？"
+    },
+    {
+      "id": 185,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 186,
+      "en": "What on earth is it?",
+      "cn": "这到底是什么？"
+    },
+    {
+      "id": 187,
+      "en": "So when you ask a question with on earth, so why on earth?",
+      "cn": "所以当你用“到底”问问题时，比如“为什么会这样？”"
+    },
+    {
+      "id": 188,
+      "en": "How on earth?",
+      "cn": "“怎么会这样？”"
+    },
+    {
+      "id": 189,
+      "en": "What on earth?",
+      "cn": "“这是什么？”"
+    },
+    {
+      "id": 190,
+      "en": "It's like you're showing a lot of surprise.",
+      "cn": "就像你表现出很多惊讶。"
+    },
+    {
+      "id": 191,
+      "en": "Okay, great stuff.",
+      "cn": "好的，很棒的内容。"
+    },
+    {
+      "id": 192,
+      "en": "So let's just listen to our dialogue a third time.",
+      "cn": "所以我们再听一遍我们的对话。"
+    },
+    {
+      "id": 193,
+      "en": "Oh, Armand, thank you for such a thoughtful invitation.",
+      "cn": "哦，阿尔芒，谢谢你如此周到的邀请。"
+    },
+    {
+      "id": 194,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "cn": "你邀请我们来吃晚餐真是太好了。"
+    },
+    {
+      "id": 195,
+      "en": "Don't you think so, Ellen?",
+      "cn": "你不觉得吗，艾伦？"
+    },
+    {
+      "id": 196,
+      "en": "Oh, yes, of course.",
+      "cn": "哦，是的，当然。"
+    },
+    {
+      "id": 197,
+      "en": "We'd love to come over.",
+      "cn": "我们很乐意来。"
+    },
+    {
+      "id": 198,
+      "en": "Can I bring anything?",
+      "cn": "我可以带点什么吗？"
+    },
+    {
+      "id": 199,
+      "en": "No, don't worry about it.",
+      "cn": "不用担心。"
+    },
+    {
+      "id": 200,
+      "en": "I'll take care of everything.",
+      "cn": "我会处理一切。"
+    },
+    {
+      "id": 201,
+      "en": "I'll see you tonight.",
+      "cn": "我今晚见你。"
+    },
+    {
+      "id": 202,
+      "en": "Come with an appetite.",
+      "cn": "来的时候要有胃口。"
+    },
+    {
+      "id": 203,
+      "en": "I know I will.",
+      "cn": "我知道我会的。"
+    },
+    {
+      "id": 204,
+      "en": "I don't want to go over to his place for dinner.",
+      "cn": "我不想去他家吃晚饭。"
+    },
+    {
+      "id": 205,
+      "en": "He gives me the creeps.",
+      "cn": "他让我毛骨悚然。"
+    },
+    {
+      "id": 206,
+      "en": "Why on earth did you accept?",
+      "cn": "你为什么要接受？"
+    },
+    {
+      "id": 207,
+      "en": "Oh, come on, Ellen.",
+      "cn": "哦，别这样，艾伦。"
+    },
+    {
+      "id": 208,
+      "en": "It'll be nice to get to know him.",
+      "cn": "认识他会很好。"
+    },
+    {
+      "id": 209,
+      "en": "Besides, he's new to the neighborhood, and it'll be rude to decline his invitation.",
+      "cn": "而且，他是新搬来的，拒绝他的邀请会很失礼。"
+    },
+    {
+      "id": 210,
+      "en": "I guess so.",
+      "cn": "我想也是。"
+    },
+    {
+      "id": 211,
+      "en": "You always wrote me into things like this.",
+      "cn": "你总是让我参与这种事情。"
+    },
+    {
+      "id": 212,
+      "en": "Ladies,",
+      "cn": "女士们，"
+    },
+    {
+      "id": 213,
+      "en": "thank you for coming.",
+      "cn": "谢谢你们的到来。"
+    },
+    {
+      "id": 214,
+      "en": "You look delicious.",
+      "cn": "你们看起来很美。"
+    },
+    {
+      "id": 215,
+      "en": "I mean, beautiful.",
+      "cn": "我是说，漂亮。"
+    },
+    {
+      "id": 216,
+      "en": "Please come in.",
+      "cn": "请进。"
+    },
+    {
+      "id": 217,
+      "en": "Oh, you're too kind.",
+      "cn": "哦，你太客气了。"
+    },
+    {
+      "id": 218,
+      "en": "How did I get myself into this?",
+      "cn": "我怎么会陷入这种境地？"
+    },
+    {
+      "id": 219,
+      "en": "We want to know what you think happens next.",
+      "cn": "我们想知道你认为接下来会发生什么。"
+    },
+    {
+      "id": 220,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 221,
+      "en": "What happens in this dialogue next?",
+      "cn": "这个对话接下来会发生什么？"
+    },
+    {
+      "id": 222,
+      "en": "So we want you to send us your idea of what happens next, and we're going to choose the best one.",
+      "cn": "所以我们希望你能告诉我们你认为接下来会发生什么，我们会选择最好的一个。"
+    },
+    {
+      "id": 223,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 224,
+      "en": "Marco and I will choose the best continuation of the story, and we'll use that in part three of The New Guy in Town.",
+      "cn": "马尔科和我会选择故事的最佳续集，我们会在《镇上的新家伙》第三部分中使用它。"
+    },
+    {
+      "id": 225,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 226,
+      "en": "So you can give it any direction you want.",
+      "cn": "所以你可以给它任何方向。"
+    },
+    {
+      "id": 227,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 228,
+      "en": "And, of course, we'll publish the name of the author with the lesson.",
+      "cn": "当然，我们会在课程中公布作者的名字。"
+    },
+    {
+      "id": 229,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 230,
+      "en": "I'm really anxious to see what ideas come up and how we can end this dialogue.",
+      "cn": "我真的很期待看到会出现什么想法，以及我们如何结束这个对话。"
+    },
+    {
+      "id": 231,
+      "en": "I know we've got a lot of really creative users out there, so I'm really looking forward to this.",
+      "cn": "我知道我们有很多非常有创意的用户，所以我真的很期待这个。"
+    },
+    {
+      "id": 232,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 233,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 234,
+      "en": "So be sure to send us your ideas, either a private message or you can post it on the comments section of this lesson.",
+      "cn": "所以一定要把你的想法发给我们，可以发私信或者在这个课程的评论区发布。"
+    },
+    {
+      "id": 235,
+      "en": "And any other questions or doubts, go to EnglishPod.com and you can leave them there.",
+      "cn": "还有其他问题或疑问，请访问 EnglishPod.com，你可以在那里留言。"
+    },
+    {
+      "id": 236,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 237,
+      "en": "Marco and I are always happy to answer your questions.",
+      "cn": "马尔科和我总是乐意回答你的问题。"
+    },
+    {
+      "id": 238,
+      "en": "Okay, folks.",
+      "cn": "好的，大家。"
+    },
+    {
+      "id": 239,
+      "en": "So until then, it's goodbye.",
+      "cn": "所以在那之前，再见。"
+    }
+  ]
+}

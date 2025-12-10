@@ -1,0 +1,969 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0068",
+  "title": "EnglishPod 中高级 0068",
+  "totalSegments": 192,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Welcome back, English learners.",
+      "cn": "欢迎回来，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco, and I'm joined here by the lovely Erica.",
+      "cn": "我叫马尔科，身边有可爱的艾瑞卡。"
+    },
+    {
+      "id": 3,
+      "en": "And today we're going to be bringing you another great lesson, one of the lessons that you requested.",
+      "cn": "今天我们将为您带来另一个精彩的课程，这是您们请求的课程之一。"
+    },
+    {
+      "id": 4,
+      "en": "Yes, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 5,
+      "en": "Actually, Maxim, Maxim S, requested this one.",
+      "cn": "实际上，是马克西姆，马克西姆·S，请求了这个。"
+    },
+    {
+      "id": 6,
+      "en": "Right, I think he's really into research and investigation, so we're bringing you a great lesson about this topic.",
+      "cn": "对，我觉得他真的很喜欢研究和调查，所以我们带来了一个关于这个主题的精彩课程。"
+    },
+    {
+      "id": 7,
+      "en": "Okay, so I'm really excited to hear this dialogue all about research.",
+      "cn": "好的，我真的很期待听到这段关于研究的对话。"
+    },
+    {
+      "id": 8,
+      "en": "So why don't we start listening to two university professors discussing an important question.",
+      "cn": "那我们为什么不开始听两位大学教授讨论一个重要问题呢？"
+    },
+    {
+      "id": 9,
+      "en": "We've been over this a thousand times.",
+      "cn": "我们已经讨论过一千次了。"
+    },
+    {
+      "id": 10,
+      "en": "The data is irrefutable.",
+      "cn": "数据是不可否认的。"
+    },
+    {
+      "id": 11,
+      "en": "Look, we've done extensive research, built studies and read the literature, and there is conclusive evidence to support my theory.",
+      "cn": "看，我们进行了广泛的研究，建立了研究和阅读文献，有确凿的证据支持我的理论。"
+    },
+    {
+      "id": 12,
+      "en": "Horowitz, I beg to differ.",
+      "cn": "霍洛维茨，我不同意。"
+    },
+    {
+      "id": 13,
+      "en": "Even in your most recent study, the investigative approach was flawed.",
+      "cn": "即使在你最近的研究中，调查方法也是有缺陷的。"
+    },
+    {
+      "id": 14,
+      "en": "You know as well as I do.",
+      "cn": "你和我都知道。"
+    },
+    {
+      "id": 15,
+      "en": "The collection of data was not systematic, and there's a large margin of error.",
+      "cn": "数据收集并不系统，误差很大。"
+    },
+    {
+      "id": 16,
+      "en": "To draw a definitive conclusion based on that data would be misleading.",
+      "cn": "基于这些数据得出明确结论是误导性的。"
+    },
+    {
+      "id": 17,
+      "en": "That is preposterous.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 18,
+      "en": "You are trying to single-handedly solve one of the world's greatest mysteries, and yet you're oblivious to the fact that you're wrong.",
+      "cn": "你试图单枪匹马解决世界上最大的谜团，却对自己是错的毫无察觉。"
+    },
+    {
+      "id": 19,
+      "en": "I am not wrong.",
+      "cn": "我没有错。"
+    },
+    {
+      "id": 20,
+      "en": "The chicken came first.",
+      "cn": "鸡是先来的。"
+    },
+    {
+      "id": 21,
+      "en": "No, the egg came first.",
+      "cn": "不，蛋是先来的。"
+    },
+    {
+      "id": 22,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 23,
+      "en": "Egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 24,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 25,
+      "en": "The egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 26,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 27,
+      "en": "The egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 28,
+      "en": "All right, so interesting.",
+      "cn": "好吧，真有趣。"
+    },
+    {
+      "id": 29,
+      "en": "Which came first, the chicken or the egg?",
+      "cn": "哪个先来，鸡还是蛋？"
+    },
+    {
+      "id": 30,
+      "en": "It's an age-old question, isn't it?",
+      "cn": "这是一个古老的问题，不是吗？"
+    },
+    {
+      "id": 31,
+      "en": "And apparently they are not going to agree anytime soon.",
+      "cn": "显然，他们不会很快达成一致。"
+    },
+    {
+      "id": 32,
+      "en": "All right, well, what they can agree about is this awesome language.",
+      "cn": "好吧，他们可以达成一致的是这个很棒的语言。"
+    },
+    {
+      "id": 33,
+      "en": "So why don't we take a look at it now in Language Takeaway?",
+      "cn": "那我们现在来看看语言要点吧？"
+    },
+    {
+      "id": 34,
+      "en": "Language Takeaway Okay, on Language Takeaway today we have some really great words, and this first one is really good.",
+      "cn": "语言要点 好的，今天的语言要点我们有一些很棒的单词，第一个非常好。"
+    },
+    {
+      "id": 35,
+      "en": "Irrefutable.",
+      "cn": "不可否认的。"
+    },
+    {
+      "id": 36,
+      "en": "Irrefutable.",
+      "cn": "不可否认的。"
+    },
+    {
+      "id": 37,
+      "en": "Irrefutable.",
+      "cn": "不可否认的。"
+    },
+    {
+      "id": 38,
+      "en": "The data is irrefutable.",
+      "cn": "数据是不可否认的。"
+    },
+    {
+      "id": 39,
+      "en": "Okay, so if the professor says that the data is irrefutable, what does he mean by that?",
+      "cn": "好的，如果教授说数据是不可否认的，他是什么意思？"
+    },
+    {
+      "id": 40,
+      "en": "He's saying that you cannot deny it.",
+      "cn": "他在说你不能否认它。"
+    },
+    {
+      "id": 41,
+      "en": "It is really, really true.",
+      "cn": "这是真的，真的很真实。"
+    },
+    {
+      "id": 42,
+      "en": "It is really true.",
+      "cn": "这真的是真的。"
+    },
+    {
+      "id": 43,
+      "en": "There is no way this is a lie.",
+      "cn": "这绝对不是谎言。"
+    },
+    {
+      "id": 44,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 45,
+      "en": "Okay, irrefutable evidence, for example.",
+      "cn": "好的，例如，不可否认的证据。"
+    },
+    {
+      "id": 46,
+      "en": "Yeah, that's a great phrase.",
+      "cn": "是的，这是一个很好的短语。"
+    },
+    {
+      "id": 47,
+      "en": "All right, so the professor complained that Dr. Harlowitz's experiment was flawed.",
+      "cn": "好的，教授抱怨哈洛维茨博士的实验有缺陷。"
+    },
+    {
+      "id": 48,
+      "en": "Flawed.",
+      "cn": "有缺陷的。"
+    },
+    {
+      "id": 49,
+      "en": "Flawed.",
+      "cn": "有缺陷的。"
+    },
+    {
+      "id": 50,
+      "en": "So, flawed.",
+      "cn": "所以，有缺陷的。"
+    },
+    {
+      "id": 51,
+      "en": "Is that an adjective, a verb, or a noun?",
+      "cn": "这是形容词、动词还是名词？"
+    },
+    {
+      "id": 52,
+      "en": "It is an adjective here.",
+      "cn": "这里是形容词。"
+    },
+    {
+      "id": 53,
+      "en": "Now, when something is flawed, there is a problem with it, right?",
+      "cn": "当某事有缺陷时，它有问题，对吗？"
+    },
+    {
+      "id": 54,
+      "en": "Okay, so it has an error.",
+      "cn": "好的，所以它有一个错误。"
+    },
+    {
+      "id": 55,
+      "en": "Okay, so this adjective is a way of saying that his experiment has a flaw.",
+      "cn": "好的，所以这个形容词是说他的实验有缺陷。"
+    },
+    {
+      "id": 56,
+      "en": "A mistake, exactly.",
+      "cn": "一个错误，没错。"
+    },
+    {
+      "id": 57,
+      "en": "So, flawed is the adjective of a flaw.",
+      "cn": "所以，有缺陷的是缺陷的形容词。"
+    },
+    {
+      "id": 58,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 59,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 60,
+      "en": "Now, the reason that his study or his experiment was flawed is because it was not systematic.",
+      "cn": "现在，他的研究或实验有缺陷的原因是因为它不系统。"
+    },
+    {
+      "id": 61,
+      "en": "Systematic.",
+      "cn": "系统的。"
+    },
+    {
+      "id": 62,
+      "en": "Systematic.",
+      "cn": "系统的。"
+    },
+    {
+      "id": 63,
+      "en": "So, systematic, that's an interesting word.",
+      "cn": "所以，系统的，这是一个有趣的词。"
+    },
+    {
+      "id": 64,
+      "en": "Now, I think we can recognize the word system in here, right?",
+      "cn": "现在，我想我们可以在这里识别出“系统”这个词，对吗？"
+    },
+    {
+      "id": 65,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 66,
+      "en": "So, when something is systematic, it follows a process.",
+      "cn": "所以，当某事是系统的，它遵循一个过程。"
+    },
+    {
+      "id": 67,
+      "en": "A certain order.",
+      "cn": "一定的顺序。"
+    },
+    {
+      "id": 68,
+      "en": "Yes, a certain system.",
+      "cn": "是的，一定的系统。"
+    },
+    {
+      "id": 69,
+      "en": "Right, so that's basically what systematic means, to follow a certain order, to be more organized, right?",
+      "cn": "对，所以这基本上就是系统的意思，遵循一定的顺序，更有组织，对吗？"
+    },
+    {
+      "id": 70,
+      "en": "Exactly, yeah.",
+      "cn": "正是如此，是的。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, and what about our next word?",
+      "cn": "好的，我们下一个词呢？"
+    },
+    {
+      "id": 72,
+      "en": "Preposterous.",
+      "cn": "荒谬的。"
+    },
+    {
+      "id": 73,
+      "en": "Preposterous.",
+      "cn": "荒谬的。"
+    },
+    {
+      "id": 74,
+      "en": "Preposterous.",
+      "cn": "荒谬的。"
+    },
+    {
+      "id": 75,
+      "en": "That is preposterous.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 76,
+      "en": "I love this phrase.",
+      "cn": "我喜欢这个短语。"
+    },
+    {
+      "id": 77,
+      "en": "It usually goes together, right?",
+      "cn": "通常是一起使用的，对吗？"
+    },
+    {
+      "id": 78,
+      "en": "That is preposterous.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 79,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 80,
+      "en": "Okay, so what does it mean when I say that?",
+      "cn": "好的，当我说这个时，它是什么意思？"
+    },
+    {
+      "id": 81,
+      "en": "It means it's absurd, it's ridiculous.",
+      "cn": "这意味着它是荒谬的，荒唐的。"
+    },
+    {
+      "id": 82,
+      "en": "Right, it doesn't make sense.",
+      "cn": "对，它没有意义。"
+    },
+    {
+      "id": 83,
+      "en": "I can't believe you said that.",
+      "cn": "我无法相信你说了那样的话。"
+    },
+    {
+      "id": 84,
+      "en": "Alright, well this is a really interesting phrase, but I think it's a little bit more common when it's used by older people.",
+      "cn": "好吧，这是一个非常有趣的短语，但我觉得它在老年人中更常用。"
+    },
+    {
+      "id": 85,
+      "en": "Yeah, I don't really see a young person going up to someone and say, hey, that's preposterous.",
+      "cn": "是的，我不太看到年轻人走到某人面前说，嘿，那太荒谬了。"
+    },
+    {
+      "id": 86,
+      "en": "Yeah, but it is a wonderful phrase.",
+      "cn": "是的，但这是一个很棒的短语。"
+    },
+    {
+      "id": 87,
+      "en": "Now, our final phrase for takeaway, oblivious.",
+      "cn": "现在，我们最后一个要点是，无知的。"
+    },
+    {
+      "id": 88,
+      "en": "Oblivious.",
+      "cn": "无知的。"
+    },
+    {
+      "id": 89,
+      "en": "You're oblivious to the fact.",
+      "cn": "你对事实无知。"
+    },
+    {
+      "id": 90,
+      "en": "So, a person that is oblivious to something.",
+      "cn": "所以，一个对某事无知的人。"
+    },
+    {
+      "id": 91,
+      "en": "They don't know, or they're unaware.",
+      "cn": "他们不知道，或者他们没有意识。"
+    },
+    {
+      "id": 92,
+      "en": "Okay, so they ignore maybe the facts, or they don't see it.",
+      "cn": "好的，所以他们可能忽视事实，或者他们没有看到。"
+    },
+    {
+      "id": 93,
+      "en": "Yep, you're oblivious to the fact that we're in a recession.",
+      "cn": "是的，你对我们处于衰退的事实无知。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, or he is completely oblivious.",
+      "cn": "好的，或者他完全无知。"
+    },
+    {
+      "id": 95,
+      "en": "You can just say it like that, right?",
+      "cn": "你可以这样说，对吗？"
+    },
+    {
+      "id": 96,
+      "en": "Yep, he doesn't know.",
+      "cn": "是的，他不知道。"
+    },
+    {
+      "id": 97,
+      "en": "Okay, so we took a look at some of the great vocabulary we found in the dialogue, but there were also some really good phrases that I think we should look at.",
+      "cn": "好的，我们看了一些在对话中找到的很棒的词汇，但还有一些我认为我们应该看看很好的短语。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, and let's take a look at those and putting it together.",
+      "cn": "好的，让我们看看这些并把它们结合起来。"
+    },
+    {
+      "id": 99,
+      "en": "Putting it together.",
+      "cn": "把它们结合起来。"
+    },
+    {
+      "id": 100,
+      "en": "You know, Marco, one of the things I love about English is the way that words seem to fit together, like blocks coming together.",
+      "cn": "你知道，马尔科，我喜欢英语的一件事是单词似乎像积木一样组合在一起。"
+    },
+    {
+      "id": 101,
+      "en": "And here we have a lot of great examples of these words that fit together really nicely.",
+      "cn": "在这里我们有很多这些单词的很好的例子，它们组合得非常好。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, so why don't we look at those?",
+      "cn": "好的，那我们为什么不看看这些呢？"
+    },
+    {
+      "id": 103,
+      "en": "And our first one now is extensive research.",
+      "cn": "我们的第一个短语是广泛研究。"
+    },
+    {
+      "id": 104,
+      "en": "Extensive research.",
+      "cn": "广泛研究。"
+    },
+    {
+      "id": 105,
+      "en": "Extensive research.",
+      "cn": "广泛研究。"
+    },
+    {
+      "id": 106,
+      "en": "All right, so we know extensive means?",
+      "cn": "好的，我们知道广泛的意思是？"
+    },
+    {
+      "id": 107,
+      "en": "A lot.",
+      "cn": "很多。"
+    },
+    {
+      "id": 108,
+      "en": "A lot.",
+      "cn": "很多。"
+    },
+    {
+      "id": 109,
+      "en": "So that's really good when you put it together.",
+      "cn": "所以当你把它结合起来时，这真的很好。"
+    },
+    {
+      "id": 110,
+      "en": "Extensive research.",
+      "cn": "广泛研究。"
+    },
+    {
+      "id": 111,
+      "en": "It means you have...",
+      "cn": "这意味着你有..."
+    },
+    {
+      "id": 112,
+      "en": "A lot of research.",
+      "cn": "很多研究。"
+    },
+    {
+      "id": 113,
+      "en": "You have really studied, you have really looked things up.",
+      "cn": "你真的研究过，你真的查过资料。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, extensive research.",
+      "cn": "好的，广泛研究。"
+    },
+    {
+      "id": 115,
+      "en": "Another great research-related phrase here is conclusive evidence.",
+      "cn": "另一个与研究相关的优秀短语是确凿证据。"
+    },
+    {
+      "id": 116,
+      "en": "Conclusive evidence.",
+      "cn": "确凿证据。"
+    },
+    {
+      "id": 117,
+      "en": "Conclusive evidence.",
+      "cn": "确凿证据。"
+    },
+    {
+      "id": 118,
+      "en": "All right, now the first word there, conclusive.",
+      "cn": "好的，那里第一个词，确凿。"
+    },
+    {
+      "id": 119,
+      "en": "When something is conclusive, you can't argue with it.",
+      "cn": "当某事是确凿的时，你无法争辩。"
+    },
+    {
+      "id": 120,
+      "en": "It's the final decision.",
+      "cn": "这是最终的决定。"
+    },
+    {
+      "id": 121,
+      "en": "All right, well, the professor complained that Horowitz's investigative approach was flawed, right?",
+      "cn": "好的，教授抱怨说Horowitz的调查方法有缺陷，对吧？"
+    },
+    {
+      "id": 122,
+      "en": "So this is our next phrase, investigative approach.",
+      "cn": "所以这是我们的下一个短语，调查方法。"
+    },
+    {
+      "id": 123,
+      "en": "Investigative approach.",
+      "cn": "调查方法。"
+    },
+    {
+      "id": 124,
+      "en": "Investigative approach.",
+      "cn": "调查方法。"
+    },
+    {
+      "id": 125,
+      "en": "Okay, so I remember the word investigate is a verb.",
+      "cn": "好的，我记得调查这个词是动词。"
+    },
+    {
+      "id": 126,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 127,
+      "en": "But in this case, it's a... It's an adjective.",
+      "cn": "但在这种情况下，它是...它是形容词。"
+    },
+    {
+      "id": 128,
+      "en": "It's an adjective.",
+      "cn": "它是形容词。"
+    },
+    {
+      "id": 129,
+      "en": "When something is investigative, it's obviously having to do with... An investigation.",
+      "cn": "当某事是调查性的时，显然与...调查有关。"
+    },
+    {
+      "id": 130,
+      "en": "So the approach or the...",
+      "cn": "所以方法或..."
+    },
+    {
+      "id": 131,
+      "en": "So when he said investigative approach...",
+      "cn": "所以当他说调查方法时..."
+    },
+    {
+      "id": 132,
+      "en": "Just the... I mean, just simply the way you investigate the problem.",
+      "cn": "只是...我的意思是，仅仅是你调查问题的方式。"
+    },
+    {
+      "id": 133,
+      "en": "The way he investigated.",
+      "cn": "他调查的方式。"
+    },
+    {
+      "id": 134,
+      "en": "Okay, very interesting.",
+      "cn": "好的，非常有趣。"
+    },
+    {
+      "id": 135,
+      "en": "What about this other phrase that I saw?",
+      "cn": "那我看到的另一个短语呢？"
+    },
+    {
+      "id": 136,
+      "en": "It was really interesting.",
+      "cn": "真的很有趣。"
+    },
+    {
+      "id": 137,
+      "en": "Definitive conclusion.",
+      "cn": "确定性结论。"
+    },
+    {
+      "id": 138,
+      "en": "Definitive conclusion.",
+      "cn": "确定性结论。"
+    },
+    {
+      "id": 139,
+      "en": "So a definitive conclusion.",
+      "cn": "所以一个确定性结论。"
+    },
+    {
+      "id": 140,
+      "en": "All right, well, again, I think we know the word conclusion, right?",
+      "cn": "好的，我想我们知道结论这个词，对吧？"
+    },
+    {
+      "id": 141,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 142,
+      "en": "So it's a final judgment or decision.",
+      "cn": "所以这是最终的判断或决定。"
+    },
+    {
+      "id": 143,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 144,
+      "en": "When something is definitive, you can't argue with it or change it.",
+      "cn": "当某事是确定性的时，你无法争辩或改变它。"
+    },
+    {
+      "id": 145,
+      "en": "Okay, so the conclusion or the final result is final.",
+      "cn": "好的，所以结论或最终结果是最终的。"
+    },
+    {
+      "id": 146,
+      "en": "Like there is no way of arguing it.",
+      "cn": "就像没有争辩的余地。"
+    },
+    {
+      "id": 147,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 148,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 149,
+      "en": "Definitive conclusion.",
+      "cn": "确定性结论。"
+    },
+    {
+      "id": 150,
+      "en": "This is some great language.",
+      "cn": "这是一些很好的语言。"
+    },
+    {
+      "id": 151,
+      "en": "So why don't we listen to it one more time in the dialogue?",
+      "cn": "那我们为什么不再听一遍对话呢？"
+    },
+    {
+      "id": 152,
+      "en": "We've been over this a thousand times.",
+      "cn": "我们已经讨论过一千次了。"
+    },
+    {
+      "id": 153,
+      "en": "The data is irrefutable.",
+      "cn": "数据是不可辩驳的。"
+    },
+    {
+      "id": 154,
+      "en": "Look, we've done extensive research, built studies and read the literature, and there is conclusive evidence to support my theory.",
+      "cn": "看，我们进行了广泛的研究，建立了研究并阅读了文献，有确凿的证据支持我的理论。"
+    },
+    {
+      "id": 155,
+      "en": "Horowitz, I beg to differ.",
+      "cn": "Horowitz，我不同意。"
+    },
+    {
+      "id": 156,
+      "en": "Even in your most recent study, the investigative approach was flawed.",
+      "cn": "即使在你最近的研究中，调查方法也是有缺陷的。"
+    },
+    {
+      "id": 157,
+      "en": "You know as well as I do, the collection of data was not systematic, and there's a large margin of error.",
+      "cn": "你和我一样知道，数据收集并不系统，并且有很大的误差范围。"
+    },
+    {
+      "id": 158,
+      "en": "To draw a definitive conclusion based on that data would be misleading.",
+      "cn": "基于这些数据得出确定性结论将是误导性的。"
+    },
+    {
+      "id": 159,
+      "en": "That is preposterous.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 160,
+      "en": "You are trying to single-handedly solve one of the world's greatest mysteries, and yet you're oblivious to the fact that you're wrong.",
+      "cn": "你试图单枪匹马解决世界上最大的谜团之一，但你却无视自己是错的事实。"
+    },
+    {
+      "id": 161,
+      "en": "I am not wrong.",
+      "cn": "我没有错。"
+    },
+    {
+      "id": 162,
+      "en": "The chicken came first.",
+      "cn": "鸡先来了。"
+    },
+    {
+      "id": 163,
+      "en": "No, the egg came first.",
+      "cn": "不，蛋先来了。"
+    },
+    {
+      "id": 164,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 165,
+      "en": "Egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 166,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 167,
+      "en": "The egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 168,
+      "en": "The chicken.",
+      "cn": "鸡。"
+    },
+    {
+      "id": 169,
+      "en": "The egg.",
+      "cn": "蛋。"
+    },
+    {
+      "id": 170,
+      "en": "So an interesting question, what do you think?",
+      "cn": "所以一个有趣的问题，你觉得呢？"
+    },
+    {
+      "id": 171,
+      "en": "What came first, the chicken or the egg?",
+      "cn": "什么先来，鸡还是蛋？"
+    },
+    {
+      "id": 172,
+      "en": "Well, if you ask me, it was the egg.",
+      "cn": "嗯，如果你问我，是蛋。"
+    },
+    {
+      "id": 173,
+      "en": "It was the egg?",
+      "cn": "是蛋？"
+    },
+    {
+      "id": 174,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 175,
+      "en": "Interesting.",
+      "cn": "有趣。"
+    },
+    {
+      "id": 176,
+      "en": "What about why did the chicken cross the road?",
+      "cn": "那鸡为什么过马路？"
+    },
+    {
+      "id": 177,
+      "en": "To get to the other side.",
+      "cn": "为了到达另一边。"
+    },
+    {
+      "id": 178,
+      "en": "Do you think that's really the reason?",
+      "cn": "你认为这真的是原因吗？"
+    },
+    {
+      "id": 179,
+      "en": "Well, there's a million different reasons, but this is great.",
+      "cn": "嗯，有一百万种不同的理由，但这很好。"
+    },
+    {
+      "id": 180,
+      "en": "I'm glad you brought that up because this is like the classic English joke.",
+      "cn": "我很高兴你提到这个，因为这是经典的英语笑话。"
+    },
+    {
+      "id": 181,
+      "en": "The classic English joke, right?",
+      "cn": "经典的英语笑话，对吧？"
+    },
+    {
+      "id": 182,
+      "en": "Why did the chicken cross the road?",
+      "cn": "鸡为什么过马路？"
+    },
+    {
+      "id": 183,
+      "en": "And the answer is always...",
+      "cn": "答案总是..."
+    },
+    {
+      "id": 184,
+      "en": "Well, there are a million answers.",
+      "cn": "嗯，有一百万个答案。"
+    },
+    {
+      "id": 185,
+      "en": "So do you guys know any chicken jokes?",
+      "cn": "所以你们知道任何鸡的笑话吗？"
+    },
+    {
+      "id": 186,
+      "en": "Yeah, why don't you come to our website, EnglishPod.com, and on the comments section, why don't you leave us your thoughts on what came first, the chicken or the egg?",
+      "cn": "是的，为什么不来我们的网站EnglishPod.com，在评论区留下你对鸡和蛋哪个先来的想法呢？"
+    },
+    {
+      "id": 187,
+      "en": "And why do you think the chicken crossed the road?",
+      "cn": "还有你认为鸡为什么过马路？"
+    },
+    {
+      "id": 188,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 189,
+      "en": "Well, we really look forward to hearing your ideas.",
+      "cn": "我们真的期待听到你的想法。"
+    },
+    {
+      "id": 190,
+      "en": "And Marco and I will be around to answer your questions.",
+      "cn": "Marco和我会在这里回答你的问题。"
+    },
+    {
+      "id": 191,
+      "en": "So I think we're out of time for today, but thanks for listening and... We'll see you there.",
+      "cn": "所以我想我们今天的时间到了，但谢谢你的收听...我们下次见。"
+    },
+    {
+      "id": 192,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    }
+  ]
+}

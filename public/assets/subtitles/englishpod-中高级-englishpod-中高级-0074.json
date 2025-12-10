@@ -1,0 +1,1649 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0074",
+  "title": "EnglishPod 中高级 0074",
+  "totalSegments": 328,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erika.",
+      "cn": "我是Erika。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're bringing you an upper intermediate lesson and something that we all do.",
+      "cn": "今天我们带来一个中高级课程，讨论我们都做的事情。"
+    },
+    {
+      "id": 6,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 7,
+      "en": "Talking to ourselves.",
+      "cn": "自言自语。"
+    },
+    {
+      "id": 8,
+      "en": "Talking to ourselves, right?",
+      "cn": "自言自语，对吧？"
+    },
+    {
+      "id": 9,
+      "en": "I think everyone does it.",
+      "cn": "我觉得每个人都会这样。"
+    },
+    {
+      "id": 10,
+      "en": "You think to yourself or you talk to yourself.",
+      "cn": "你在心里思考或自言自语。"
+    },
+    {
+      "id": 11,
+      "en": "And we're going to be doing that today, but we're going to be looking at some specific vocabulary.",
+      "cn": "今天我们也会这样，但我们会关注一些特定的词汇。"
+    },
+    {
+      "id": 12,
+      "en": "Erika, why don't you tell us about that?",
+      "cn": "Erika，你能告诉我们吗？"
+    },
+    {
+      "id": 13,
+      "en": "Well, unfortunately, we're going to be following a guy as he's in a really embarrassing situation.",
+      "cn": "嗯，不幸的是，我们将跟随一个人在一个非常尴尬的情况下。"
+    },
+    {
+      "id": 14,
+      "en": "And we're going to hear him call himself some bad names in his mind.",
+      "cn": "我们会听到他在心里骂自己。"
+    },
+    {
+      "id": 15,
+      "en": "So, he's a little bit nervous and he thinks he is not very smart, right?",
+      "cn": "所以，他有点紧张，觉得自己不聪明，对吧？"
+    },
+    {
+      "id": 16,
+      "en": "That's right.",
+      "cn": "对。"
+    },
+    {
+      "id": 17,
+      "en": "Okay, so before we start with this dialogue, there are a couple of words that we should look at in vocabulary preview.",
+      "cn": "好的，在我们开始对话之前，有几个词我们应该在词汇预览中看看。"
+    },
+    {
+      "id": 18,
+      "en": "All right, we're going to hear both of these words in the dialogue.",
+      "cn": "好吧，我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 19,
+      "en": "And the first one is famished.",
+      "cn": "第一个是饥饿。"
+    },
+    {
+      "id": 20,
+      "en": "Famished.",
+      "cn": "饥饿。"
+    },
+    {
+      "id": 21,
+      "en": "Famished.",
+      "cn": "饥饿。"
+    },
+    {
+      "id": 22,
+      "en": "Okay, so famished is an adjective.",
+      "cn": "好的，饥饿是一个形容词。"
+    },
+    {
+      "id": 23,
+      "en": "That's right.",
+      "cn": "对。"
+    },
+    {
+      "id": 24,
+      "en": "Meaning very, very, very hungry.",
+      "cn": "意思是非常非常饿。"
+    },
+    {
+      "id": 25,
+      "en": "Very, very hungry.",
+      "cn": "非常非常饿。"
+    },
+    {
+      "id": 26,
+      "en": "Okay, so just very hungry.",
+      "cn": "好的，就是非常饿。"
+    },
+    {
+      "id": 27,
+      "en": "Very easy.",
+      "cn": "很简单。"
+    },
+    {
+      "id": 28,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 29,
+      "en": "Famished.",
+      "cn": "饥饿。"
+    },
+    {
+      "id": 30,
+      "en": "Now, what about our next one?",
+      "cn": "那我们的下一个词呢？"
+    },
+    {
+      "id": 31,
+      "en": "Sexist.",
+      "cn": "性别歧视。"
+    },
+    {
+      "id": 32,
+      "en": "Sexist.",
+      "cn": "性别歧视。"
+    },
+    {
+      "id": 33,
+      "en": "Sexist.",
+      "cn": "性别歧视。"
+    },
+    {
+      "id": 34,
+      "en": "Another adjective to describe a person, right?",
+      "cn": "另一个形容词来描述一个人，对吧？"
+    },
+    {
+      "id": 35,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 36,
+      "en": "Or a thing, I guess.",
+      "cn": "或者一个事物，我想。"
+    },
+    {
+      "id": 37,
+      "en": "Yeah, an idea.",
+      "cn": "是的，一个观念。"
+    },
+    {
+      "id": 38,
+      "en": "Okay, so a sexist person would be?",
+      "cn": "好的，性别歧视的人是？"
+    },
+    {
+      "id": 39,
+      "en": "Somebody who judges people by their sex.",
+      "cn": "根据性别评判他人的人。"
+    },
+    {
+      "id": 40,
+      "en": "So, like all women are stupid, for example.",
+      "cn": "比如说，所有女性都是愚蠢的，举个例子。"
+    },
+    {
+      "id": 41,
+      "en": "Which is not true, of course.",
+      "cn": "这当然不是真的。"
+    },
+    {
+      "id": 42,
+      "en": "No, of course not.",
+      "cn": "不，当然不是。"
+    },
+    {
+      "id": 43,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 44,
+      "en": "Okay, so sexist works both ways.",
+      "cn": "好的，性别歧视是双向的。"
+    },
+    {
+      "id": 45,
+      "en": "A woman can be sexist, a man could be sexist.",
+      "cn": "女性可以性别歧视，男性也可以性别歧视。"
+    },
+    {
+      "id": 46,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 47,
+      "en": "Meaning the woman thinks all men are stupid.",
+      "cn": "意思是女性认为所有男性都是愚蠢的。"
+    },
+    {
+      "id": 48,
+      "en": "Which is also not true.",
+      "cn": "这也不是真的。"
+    },
+    {
+      "id": 49,
+      "en": "Yes, let's just be clear about that.",
+      "cn": "是的，让我们对此明确一下。"
+    },
+    {
+      "id": 50,
+      "en": "All right, so now that we've taken a look at these two phrases, let's start with our dialogue.",
+      "cn": "好的，现在我们看过这两个短语，让我们开始对话。"
+    },
+    {
+      "id": 51,
+      "en": "And we'll be back to talk about all the great words.",
+      "cn": "然后我们会回来讨论所有伟大的词汇。"
+    },
+    {
+      "id": 52,
+      "en": "Miss, your salad.",
+      "cn": "女士，您的沙拉。"
+    },
+    {
+      "id": 53,
+      "en": "Mmm, looks good.",
+      "cn": "嗯，看起来不错。"
+    },
+    {
+      "id": 54,
+      "en": "I'm positively famished.",
+      "cn": "我真是饿坏了。"
+    },
+    {
+      "id": 55,
+      "en": "And for you, sir.",
+      "cn": "先生，给您。"
+    },
+    {
+      "id": 56,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 57,
+      "en": "Enjoy.",
+      "cn": "享用。"
+    },
+    {
+      "id": 58,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 59,
+      "en": "I can't believe she's on a date with me.",
+      "cn": "我真不敢相信她和我约会。"
+    },
+    {
+      "id": 60,
+      "en": "I'm so lucky.",
+      "cn": "我太幸运了。"
+    },
+    {
+      "id": 61,
+      "en": "I must be the luckiest guy in the world.",
+      "cn": "我一定是世界上最幸运的家伙。"
+    },
+    {
+      "id": 62,
+      "en": "I want to scream at the top of my lungs.",
+      "cn": "我想大声尖叫。"
+    },
+    {
+      "id": 63,
+      "en": "I'm the luckiest dude in the world.",
+      "cn": "我是世界上最幸运的家伙。"
+    },
+    {
+      "id": 64,
+      "en": "Oh, shut up.",
+      "cn": "哦，闭嘴。"
+    },
+    {
+      "id": 65,
+      "en": "Don't be such a dumbass.",
+      "cn": "别这么傻。"
+    },
+    {
+      "id": 66,
+      "en": "She's so hot.",
+      "cn": "她真漂亮。"
+    },
+    {
+      "id": 67,
+      "en": "Wait, I can't say that.",
+      "cn": "等等，我不能这么说。"
+    },
+    {
+      "id": 68,
+      "en": "That's sexist.",
+      "cn": "这很性别歧视。"
+    },
+    {
+      "id": 69,
+      "en": "She's so hot.",
+      "cn": "她真漂亮。"
+    },
+    {
+      "id": 70,
+      "en": "She's making me sexist.",
+      "cn": "她让我变得性别歧视。"
+    },
+    {
+      "id": 71,
+      "en": "Oh my God.",
+      "cn": "哦，我的天。"
+    },
+    {
+      "id": 72,
+      "en": "I'm such a tool.",
+      "cn": "我真是个傻瓜。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, get it together.",
+      "cn": "好吧，冷静点。"
+    },
+    {
+      "id": 74,
+      "en": "She's eating salad.",
+      "cn": "她在吃沙拉。"
+    },
+    {
+      "id": 75,
+      "en": "Oh, right.",
+      "cn": "哦，对。"
+    },
+    {
+      "id": 76,
+      "en": "I have a salad.",
+      "cn": "我有沙拉。"
+    },
+    {
+      "id": 77,
+      "en": "Oh crap, which fork do I use?",
+      "cn": "哦，糟糕，我该用哪个叉子？"
+    },
+    {
+      "id": 78,
+      "en": "Damn it.",
+      "cn": "该死。"
+    },
+    {
+      "id": 79,
+      "en": "She's gonna think I'm a moron.",
+      "cn": "她会觉得我很笨。"
+    },
+    {
+      "id": 80,
+      "en": "What the hell are all these forks for?",
+      "cn": "这些叉子到底是干什么用的？"
+    },
+    {
+      "id": 81,
+      "en": "Which one did she use?",
+      "cn": "她用的是哪个？"
+    },
+    {
+      "id": 82,
+      "en": "Okay, chill.",
+      "cn": "好吧，冷静。"
+    },
+    {
+      "id": 83,
+      "en": "Be cool.",
+      "cn": "放轻松。"
+    },
+    {
+      "id": 84,
+      "en": "Be cool.",
+      "cn": "放轻松。"
+    },
+    {
+      "id": 85,
+      "en": "Just take a fork.",
+      "cn": "只需拿一个叉子。"
+    },
+    {
+      "id": 86,
+      "en": "Eat your salad.",
+      "cn": "吃你的沙拉。"
+    },
+    {
+      "id": 87,
+      "en": "Sorry, what were you saying?",
+      "cn": "对不起，你刚才说什么？"
+    },
+    {
+      "id": 88,
+      "en": "You're eating my salad.",
+      "cn": "你在吃我的沙拉。"
+    },
+    {
+      "id": 89,
+      "en": "Yes, it's delicious.",
+      "cn": "是的，很美味。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, embarrassing first date, huh?",
+      "cn": "好吧，尴尬的第一次约会，嗯？"
+    },
+    {
+      "id": 91,
+      "en": "Yeah, I mean I really do feel sorry for this guy.",
+      "cn": "是的，我真的很为这个家伙感到难过。"
+    },
+    {
+      "id": 92,
+      "en": "Well, it happens to us sometimes.",
+      "cn": "嗯，这种事有时会发生在我们身上。"
+    },
+    {
+      "id": 93,
+      "en": "We are in the company of a very beautiful girl and we just get really nervous.",
+      "cn": "我们和一个非常漂亮的女孩在一起，结果变得非常紧张。"
+    },
+    {
+      "id": 94,
+      "en": "Alright, well psychologists call this negative self-talk.",
+      "cn": "好吧，心理学家称之为负面自我对话。"
+    },
+    {
+      "id": 95,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 96,
+      "en": "Yeah, this sort of calling yourself names and talking negatively about yourself.",
+      "cn": "是的，这种自我贬低和负面思考。"
+    },
+    {
+      "id": 97,
+      "en": "But actually you can use some of this language to talk negatively about others.",
+      "cn": "但实际上你也可以用一些这种语言来贬低他人。"
+    },
+    {
+      "id": 98,
+      "en": "So why don't we look now at this language in Language Takeaway.",
+      "cn": "那么我们现在来看看这些语言在语言收获中。"
+    },
+    {
+      "id": 99,
+      "en": "So in Language Takeaway today we have five words.",
+      "cn": "今天的语言收获中我们有五个词。"
+    },
+    {
+      "id": 100,
+      "en": "Let's start with our first one.",
+      "cn": "让我们从第一个开始。"
+    },
+    {
+      "id": 101,
+      "en": "Dumbass.",
+      "cn": "笨蛋。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, now this isn't a very polite word I would say.",
+      "cn": "好吧，这个词我觉得不太礼貌。"
+    },
+    {
+      "id": 103,
+      "en": "Definitely not polite.",
+      "cn": "绝对不礼貌。"
+    },
+    {
+      "id": 104,
+      "en": "Okay, but what is a dumbass?",
+      "cn": "好吧，笨蛋是什么？"
+    },
+    {
+      "id": 105,
+      "en": "Well, it's obviously a dumb, stupid idiot.",
+      "cn": "嗯，显然是个愚蠢的白痴。"
+    },
+    {
+      "id": 106,
+      "en": "Okay, so it's a person that is not very intelligent.",
+      "cn": "好吧，就是一个不太聪明的人。"
+    },
+    {
+      "id": 107,
+      "en": "And our next word is also quite similar.",
+      "cn": "我们下一个词也很相似。"
+    },
+    {
+      "id": 108,
+      "en": "Moron.",
+      "cn": "笨蛋。"
+    },
+    {
+      "id": 109,
+      "en": "A moron.",
+      "cn": "一个笨蛋。"
+    },
+    {
+      "id": 110,
+      "en": "If a person is a dumbass or a person is a moron, what's the difference?",
+      "cn": "如果一个人是笨蛋，或者一个人是笨蛋，区别是什么？"
+    },
+    {
+      "id": 111,
+      "en": "Well, basically a moron is someone who is not smart.",
+      "cn": "嗯，基本上笨蛋是指不聪明的人。"
+    },
+    {
+      "id": 112,
+      "en": "Who is very unintelligent.",
+      "cn": "非常愚蠢的人。"
+    },
+    {
+      "id": 113,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 114,
+      "en": "So they don't know what one plus one is.",
+      "cn": "所以他们不知道一加一等于多少。"
+    },
+    {
+      "id": 115,
+      "en": "But a dumbass is a person who does stupid things.",
+      "cn": "但笨蛋是做愚蠢事情的人。"
+    },
+    {
+      "id": 116,
+      "en": "So maybe a dumbass like you're planning a bank robbery and the dumbass forgets to bring the gun.",
+      "cn": "所以可能一个笨蛋像你计划抢银行，结果笨蛋忘了带枪。"
+    },
+    {
+      "id": 117,
+      "en": "Okay, that is a dumbass.",
+      "cn": "好吧，那就是个笨蛋。"
+    },
+    {
+      "id": 118,
+      "en": "So maybe moron is a little bit less offensive.",
+      "cn": "所以可能笨蛋稍微不那么冒犯。"
+    },
+    {
+      "id": 119,
+      "en": "And it's actually you'll find it in the dictionary, right?",
+      "cn": "而且实际上你会在字典里找到它，对吧？"
+    },
+    {
+      "id": 120,
+      "en": "Whereas a dumbass I don't think you'll find it.",
+      "cn": "而笨蛋我觉得你找不到。"
+    },
+    {
+      "id": 121,
+      "en": "Yeah, it's slang.",
+      "cn": "是的，这是俚语。"
+    },
+    {
+      "id": 122,
+      "en": "It's slang, exactly.",
+      "cn": "这是俚语，没错。"
+    },
+    {
+      "id": 123,
+      "en": "Now what about this next word?",
+      "cn": "那么下一个词呢？"
+    },
+    {
+      "id": 124,
+      "en": "It's also a negative name you can call people.",
+      "cn": "这也是一个可以用来称呼别人的贬义词。"
+    },
+    {
+      "id": 125,
+      "en": "A tool.",
+      "cn": "工具。"
+    },
+    {
+      "id": 126,
+      "en": "Tool.",
+      "cn": "工具。"
+    },
+    {
+      "id": 127,
+      "en": "Tool.",
+      "cn": "工具。"
+    },
+    {
+      "id": 128,
+      "en": "This is very strange because I don't know how a tool can be something negative towards a person.",
+      "cn": "这很奇怪，因为我不知道工具怎么会对一个人有负面意义。"
+    },
+    {
+      "id": 129,
+      "en": "But it actually means the opposite, right?",
+      "cn": "但它实际上意味着相反，对吧？"
+    },
+    {
+      "id": 130,
+      "en": "If a person is called a tool, it means they are useless, right?",
+      "cn": "如果一个人被称为工具，意味着他们没用，对吧？"
+    },
+    {
+      "id": 131,
+      "en": "So if you ever call a tool, they're saying that you're useless.",
+      "cn": "所以如果你称某人为工具，就是在说你没用。"
+    },
+    {
+      "id": 132,
+      "en": "You're good for nothing.",
+      "cn": "你一无是处。"
+    },
+    {
+      "id": 133,
+      "en": "Alright, well these are three interesting words.",
+      "cn": "好吧，这三个词很有趣。"
+    },
+    {
+      "id": 134,
+      "en": "So why don't we hear some examples of each of these words in use.",
+      "cn": "那么我们来听听这些词的使用例子。"
+    },
+    {
+      "id": 135,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 136,
+      "en": "I hate Tom.",
+      "cn": "我讨厌汤姆。"
+    },
+    {
+      "id": 137,
+      "en": "He's such a dumbass.",
+      "cn": "他真是个笨蛋。"
+    },
+    {
+      "id": 138,
+      "en": "Last week he borrowed my mobile phone and dropped it in the pool.",
+      "cn": "上周他借了我的手机，结果把它掉进了泳池。"
+    },
+    {
+      "id": 139,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 140,
+      "en": "I don't like Kevin very much.",
+      "cn": "我不太喜欢凯文。"
+    },
+    {
+      "id": 141,
+      "en": "He can be a real moron at times.",
+      "cn": "他有时真是个笨蛋。"
+    },
+    {
+      "id": 142,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 143,
+      "en": "He was looking for a job, but he didn't even have a resume prepared.",
+      "cn": "他在找工作，但连简历都没准备好。"
+    },
+    {
+      "id": 144,
+      "en": "He's such a tool.",
+      "cn": "他真是个工具。"
+    },
+    {
+      "id": 145,
+      "en": "Okay, so great examples.",
+      "cn": "好吧，这些例子很好。"
+    },
+    {
+      "id": 146,
+      "en": "And here at EnglishPod, we're bringing you real street talk.",
+      "cn": "在EnglishPod，我们带给你真实的街头语言。"
+    },
+    {
+      "id": 147,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 148,
+      "en": "Language as it is spoken by today's youth.",
+      "cn": "语言就是今天年轻人所说的。"
+    },
+    {
+      "id": 149,
+      "en": "Okay, now let's take a look at our last two words.",
+      "cn": "好吧，现在让我们看看最后两个词。"
+    },
+    {
+      "id": 150,
+      "en": "Alright, well these phrases you can use when you're trying to calm yourself down and make yourself relax a little bit, right?",
+      "cn": "好吧，这些短语你可以在试图让自己冷静下来时使用，对吧？"
+    },
+    {
+      "id": 151,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 152,
+      "en": "Let's take a look at the next one.",
+      "cn": "让我们看看下一个。"
+    },
+    {
+      "id": 153,
+      "en": "So again, relax.",
+      "cn": "所以再次，放松。"
+    },
+    {
+      "id": 154,
+      "en": "Calm down.",
+      "cn": "冷静下来。"
+    },
+    {
+      "id": 155,
+      "en": "You need to chill.",
+      "cn": "你需要冷静。"
+    },
+    {
+      "id": 156,
+      "en": "And then you also need to be cool.",
+      "cn": "然后你也需要保持冷静。"
+    },
+    {
+      "id": 157,
+      "en": "Be cool.",
+      "cn": "保持冷静。"
+    },
+    {
+      "id": 158,
+      "en": "Now if you can tell the pattern is related to temperature, right?",
+      "cn": "现在如果你能看出这个模式与温度有关，对吧？"
+    },
+    {
+      "id": 159,
+      "en": "Chill is cold.",
+      "cn": "冷静是冷的。"
+    },
+    {
+      "id": 160,
+      "en": "Cool is similar to cold.",
+      "cn": "酷是类似于冷。"
+    },
+    {
+      "id": 161,
+      "en": "So again, that's what it means to relax.",
+      "cn": "所以这就是放松的意思。"
+    },
+    {
+      "id": 162,
+      "en": "To calm down your emotions.",
+      "cn": "让你的情绪冷静下来。"
+    },
+    {
+      "id": 163,
+      "en": "Make your emotions not so hot.",
+      "cn": "让你的情绪不那么激动。"
+    },
+    {
+      "id": 164,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 165,
+      "en": "Alright, so chill.",
+      "cn": "好吧，所以冷静。"
+    },
+    {
+      "id": 166,
+      "en": "Be cool.",
+      "cn": "保持冷静。"
+    },
+    {
+      "id": 167,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 168,
+      "en": "And you use them together like that, don't you?",
+      "cn": "你是这样一起使用的，对吧？"
+    },
+    {
+      "id": 169,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 170,
+      "en": "Now chill also has another way of using it, right?",
+      "cn": "现在冷静还有另一种用法，对吧？"
+    },
+    {
+      "id": 171,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 172,
+      "en": "You can say, I'm chilling with my friends.",
+      "cn": "你可以说，我和我的朋友在一起放松。"
+    },
+    {
+      "id": 173,
+      "en": "Yeah, we're chilling here in the EnglishPod studio.",
+      "cn": "是的，我们在EnglishPod工作室里放松。"
+    },
+    {
+      "id": 174,
+      "en": "Which means we're just relaxing, we're just having fun, not doing anything, right?",
+      "cn": "这意味着我们只是在放松，玩得开心，不做任何事情，对吧？"
+    },
+    {
+      "id": 175,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 176,
+      "en": "But you can't say chill-ing.",
+      "cn": "但你不能说冷静-ing。"
+    },
+    {
+      "id": 177,
+      "en": "You have to drop the G.",
+      "cn": "你必须去掉G。"
+    },
+    {
+      "id": 178,
+      "en": "Yeah, you have to drop it.",
+      "cn": "是的，你必须去掉。"
+    },
+    {
+      "id": 179,
+      "en": "You can't say, I'm chilling.",
+      "cn": "你不能说，我在放松。"
+    },
+    {
+      "id": 180,
+      "en": "You have to say, I'm chillin'.",
+      "cn": "你必须说，我在放松。"
+    },
+    {
+      "id": 181,
+      "en": "I'm chillin'.",
+      "cn": "我在放松。"
+    },
+    {
+      "id": 182,
+      "en": "Okay, so that's all for language takeaway.",
+      "cn": "好吧，这就是语言收获的全部内容。"
+    },
+    {
+      "id": 183,
+      "en": "But now, let's take a look at some of the really useful phrases that we saw in this dialogue in Fluency Builder.",
+      "cn": "但现在，让我们看看在流利构建中我们在对话中看到的一些非常有用的短语。"
+    },
+    {
+      "id": 184,
+      "en": "Fluency Builder Okay, so this guy is so happy he's on this date that he wants to scream at the top of his lungs.",
+      "cn": "流利构建 好吧，这个家伙非常高兴他在约会，他想要大声尖叫。"
+    },
+    {
+      "id": 185,
+      "en": "Scream at the top of my lungs.",
+      "cn": "大声尖叫。"
+    },
+    {
+      "id": 186,
+      "en": "Scream at the top of my lungs.",
+      "cn": "大声尖叫。"
+    },
+    {
+      "id": 187,
+      "en": "So basically, he just wants to like scream.",
+      "cn": "所以基本上，他只是想尖叫。"
+    },
+    {
+      "id": 188,
+      "en": "To shout really loudly.",
+      "cn": "大声喊叫。"
+    },
+    {
+      "id": 189,
+      "en": "Really loudly.",
+      "cn": "非常大声。"
+    },
+    {
+      "id": 190,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 191,
+      "en": "He's so excited, right?",
+      "cn": "他太兴奋了，对吧？"
+    },
+    {
+      "id": 192,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 193,
+      "en": "Okay, so for example, sometimes you're at a concert, right?",
+      "cn": "好吧，例如，有时你在音乐会上，对吧？"
+    },
+    {
+      "id": 194,
+      "en": "And you need to talk to your friend and you're like screaming at the top of your lungs because the other person can't hear you.",
+      "cn": "你需要和你的朋友说话，而你在大声尖叫，因为其他人听不见你。"
+    },
+    {
+      "id": 195,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 196,
+      "en": "Or maybe you're lost in the woods and you need to scream at the top of your lungs so that someone will hear you and find you.",
+      "cn": "或者你可能在森林里迷路了，你需要大声尖叫，让别人听到你并找到你。"
+    },
+    {
+      "id": 197,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 198,
+      "en": "Okay, so scream at the top of my lungs.",
+      "cn": "好吧，所以大声尖叫。"
+    },
+    {
+      "id": 199,
+      "en": "Our next phrase.",
+      "cn": "我们下一个短语。"
+    },
+    {
+      "id": 200,
+      "en": "Get it together.",
+      "cn": "冷静点。"
+    },
+    {
+      "id": 201,
+      "en": "Get it together.",
+      "cn": "冷静点。"
+    },
+    {
+      "id": 202,
+      "en": "Get it together.",
+      "cn": "冷静点。"
+    },
+    {
+      "id": 203,
+      "en": "So if I tell you, Erica, you need to get it together.",
+      "cn": "所以如果我告诉你，Erica，你需要冷静点。"
+    },
+    {
+      "id": 204,
+      "en": "Basically, you're telling me to calm down, relax.",
+      "cn": "基本上，你是在告诉我冷静下来，放松。"
+    },
+    {
+      "id": 205,
+      "en": "So, pull your emotions together, get your ideas straight.",
+      "cn": "所以，整理好你的情绪，把你的想法理顺。"
+    },
+    {
+      "id": 206,
+      "en": "Right, so it kind of gives you this idea that you got to pull, like you said, pull your emotions together in a little box and tie them up.",
+      "cn": "对，所以这给你一种感觉，你得把情绪整理到一个小盒子里并绑好。"
+    },
+    {
+      "id": 207,
+      "en": "Alright, so get it together.",
+      "cn": "好吧，所以冷静点。"
+    },
+    {
+      "id": 208,
+      "en": "So Marco, when would you use this phrase, get it together?",
+      "cn": "Marco，你什么时候会用这个短语，冷静点？"
+    },
+    {
+      "id": 209,
+      "en": "I guess when somebody is either very emotional, maybe crying or very nervous, you know, you tell the person, oh, get it together, you know, relax.",
+      "cn": "我想当某人非常情绪化，可能在哭泣或非常紧张时，你告诉那个人，哦，冷静点，放松。"
+    },
+    {
+      "id": 210,
+      "en": "Or when somebody maybe is not doing something good in their life, you know, like making bad decisions or not being responsible, you tell that person, you need to get it together.",
+      "cn": "或者当某人生活中做得不好，比如做出糟糕的决定或不负责任时，你告诉那个人，你需要冷静点。"
+    },
+    {
+      "id": 211,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 212,
+      "en": "Exactly, I couldn't have said it better myself.",
+      "cn": "正是如此，我无法更好地表达了。"
+    },
+    {
+      "id": 213,
+      "en": "Okay, so now why don't we move on to our next phrase.",
+      "cn": "好吧，现在我们为什么不继续下一个短语。"
+    },
+    {
+      "id": 214,
+      "en": "And this is really, really high frequency.",
+      "cn": "这个短语真的非常常用。"
+    },
+    {
+      "id": 215,
+      "en": "I think you would hear it all the time.",
+      "cn": "我想你会经常听到。"
+    },
+    {
+      "id": 216,
+      "en": "Alright, so what the hell?",
+      "cn": "好吧，究竟发生了什么？"
+    },
+    {
+      "id": 217,
+      "en": "What the hell?",
+      "cn": "究竟发生了什么？"
+    },
+    {
+      "id": 218,
+      "en": "What the hell?",
+      "cn": "究竟发生了什么？"
+    },
+    {
+      "id": 219,
+      "en": "So why would you say what the hell?",
+      "cn": "所以你为什么会说究竟发生了什么？"
+    },
+    {
+      "id": 220,
+      "en": "Well, obviously you're asking a question, right?",
+      "cn": "嗯，显然你是在问一个问题，对吧？"
+    },
+    {
+      "id": 221,
+      "en": "Because you got your W, you got your what.",
+      "cn": "因为你有你的W，你有你的什么。"
+    },
+    {
+      "id": 222,
+      "en": "But when you say the hell, you're putting emphasis on the what.",
+      "cn": "但当你说“发生了什么”，你是在强调“什么”。"
+    },
+    {
+      "id": 223,
+      "en": "So you're asking a really strong question.",
+      "cn": "所以你在问一个非常强烈的问题。"
+    },
+    {
+      "id": 224,
+      "en": "Right, but it's not polite.",
+      "cn": "对，但这不礼貌。"
+    },
+    {
+      "id": 225,
+      "en": "It's not polite.",
+      "cn": "这不礼貌。"
+    },
+    {
+      "id": 226,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 227,
+      "en": "Okay, so if I say what the hell is going on?",
+      "cn": "好吧，如果我说究竟发生了什么？"
+    },
+    {
+      "id": 228,
+      "en": "Um... What's happening?",
+      "cn": "嗯……发生了什么？"
+    },
+    {
+      "id": 229,
+      "en": "Really, really what's happening.",
+      "cn": "真的，真的发生了什么。"
+    },
+    {
+      "id": 230,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 231,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 232,
+      "en": "So, and we can change it a little bit.",
+      "cn": "所以，我们可以稍微改变一下。"
+    },
+    {
+      "id": 233,
+      "en": "We can replace the what with another wh, like why.",
+      "cn": "我们可以用另一个wh词替换“什么”，比如“为什么”。"
+    },
+    {
+      "id": 234,
+      "en": "How.",
+      "cn": "“怎么”。"
+    },
+    {
+      "id": 235,
+      "en": "How.",
+      "cn": "“怎么”。"
+    },
+    {
+      "id": 236,
+      "en": "Where.",
+      "cn": "“哪里”。"
+    },
+    {
+      "id": 237,
+      "en": "Where or when.",
+      "cn": "“哪里”或“什么时候”。"
+    },
+    {
+      "id": 238,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 239,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 240,
+      "en": "So why don't we hear some examples of how this expression is used using different wh words.",
+      "cn": "所以我们为什么不听一些例子，看看这个表达如何使用不同的wh词。"
+    },
+    {
+      "id": 241,
+      "en": "Where the hell are you?",
+      "cn": "你在哪里？"
+    },
+    {
+      "id": 242,
+      "en": "I've been waiting for hours.",
+      "cn": "我等了好几个小时。"
+    },
+    {
+      "id": 243,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 244,
+      "en": "How the hell did you do that?",
+      "cn": "你是怎么做到的？"
+    },
+    {
+      "id": 245,
+      "en": "That was amazing!",
+      "cn": "那太棒了！"
+    },
+    {
+      "id": 246,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 247,
+      "en": "When the hell are you going to find a job?",
+      "cn": "你什么时候能找到工作？"
+    },
+    {
+      "id": 248,
+      "en": "I'm tired of paying for everything.",
+      "cn": "我厌倦了为一切买单。"
+    },
+    {
+      "id": 249,
+      "en": "Example four.",
+      "cn": "例子四。"
+    },
+    {
+      "id": 250,
+      "en": "Who the hell are you?",
+      "cn": "你到底是谁？"
+    },
+    {
+      "id": 251,
+      "en": "I don't know you.",
+      "cn": "我不认识你。"
+    },
+    {
+      "id": 252,
+      "en": "Alright, now our final word, also a little bit strong, but pretty high frequency.",
+      "cn": "好吧，现在我们的最后一个词，也有点强，但非常常用。"
+    },
+    {
+      "id": 253,
+      "en": "Oh yeah, very high frequency.",
+      "cn": "哦，是的，非常常用。"
+    },
+    {
+      "id": 254,
+      "en": "Oh crap.",
+      "cn": "哦，糟糕。"
+    },
+    {
+      "id": 255,
+      "en": "Oh crap.",
+      "cn": "哦，糟糕。"
+    },
+    {
+      "id": 256,
+      "en": "Oh crap.",
+      "cn": "哦，糟糕。"
+    },
+    {
+      "id": 257,
+      "en": "So, it's a little bit strong, but less strong than maybe saying a really bad word, right?",
+      "cn": "所以，这有点强，但比说一个真的坏词要弱，对吧？"
+    },
+    {
+      "id": 258,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 259,
+      "en": "But it's definitely saying, like you made a mistake, right?",
+      "cn": "但这绝对是在说，你犯了一个错误，对吧？"
+    },
+    {
+      "id": 260,
+      "en": "Yeah, it's like a really strong oh no.",
+      "cn": "是的，这就像一个非常强烈的“哦，不”。"
+    },
+    {
+      "id": 261,
+      "en": "Oh no, exactly.",
+      "cn": "哦，不，正是如此。"
+    },
+    {
+      "id": 262,
+      "en": "A really strong oh no.",
+      "cn": "一个非常强烈的“哦，不”。"
+    },
+    {
+      "id": 263,
+      "en": "But I guess not many people say, oh no.",
+      "cn": "但我想没有多少人会说，“哦，不”。"
+    },
+    {
+      "id": 264,
+      "en": "Oh no, I just lost ten million dollars.",
+      "cn": "哦，不，我刚刚损失了一千万美元。"
+    },
+    {
+      "id": 265,
+      "en": "Exactly, right?",
+      "cn": "正是如此，对吧？"
+    },
+    {
+      "id": 266,
+      "en": "You would not say that.",
+      "cn": "你不会这么说。"
+    },
+    {
+      "id": 267,
+      "en": "So it's a very strong oh no, but it's not as strong as it could be.",
+      "cn": "所以这是一个非常强烈的“哦，不”，但没有那么强烈。"
+    },
+    {
+      "id": 268,
+      "en": "There are other words out there that are stronger, but we are not going to go into them here.",
+      "cn": "还有其他更强的词，但我们在这里不讨论。"
+    },
+    {
+      "id": 269,
+      "en": "But maybe you guys know, so let us know.",
+      "cn": "但也许你们知道，所以告诉我们。"
+    },
+    {
+      "id": 270,
+      "en": "We can definitely keep an eye out on the comment section.",
+      "cn": "我们绝对可以关注评论区。"
+    },
+    {
+      "id": 271,
+      "en": "But don't write the words in the comment section.",
+      "cn": "但不要在评论区写出那些词。"
+    },
+    {
+      "id": 272,
+      "en": "Okay, so we saw some really great phrases, some really great words.",
+      "cn": "好吧，所以我们看到了一些非常好的短语，一些非常好的词。"
+    },
+    {
+      "id": 273,
+      "en": "A lot of informal language, but it's very high frequency and you'll use that with your friends.",
+      "cn": "很多非正式语言，但它们非常常用，你会和朋友使用。"
+    },
+    {
+      "id": 274,
+      "en": "Or you'll see it in movies, TV shows.",
+      "cn": "或者你会在电影、电视节目中看到。"
+    },
+    {
+      "id": 275,
+      "en": "Yeah, really common in movies and TV shows.",
+      "cn": "是的，在电影和电视节目中非常常见。"
+    },
+    {
+      "id": 276,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 277,
+      "en": "So, let's listen to this dialogue one more time, and then we'll come back and talk a little bit more.",
+      "cn": "所以，让我们再听一遍这个对话，然后我们再回来聊聊。"
+    },
+    {
+      "id": 278,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 279,
+      "en": "Enjoy.",
+      "cn": "享受。"
+    },
+    {
+      "id": 280,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 281,
+      "en": "I can't believe she's on a date with me.",
+      "cn": "我真不敢相信她和我约会。"
+    },
+    {
+      "id": 282,
+      "en": "I'm so lucky.",
+      "cn": "我太幸运了。"
+    },
+    {
+      "id": 283,
+      "en": "I must be the luckiest guy in the world.",
+      "cn": "我一定是世界上最幸运的家伙。"
+    },
+    {
+      "id": 284,
+      "en": "I want to scream at the top of my lungs.",
+      "cn": "我想大声尖叫。"
+    },
+    {
+      "id": 285,
+      "en": "I'm the luckiest dude in the world.",
+      "cn": "我是世界上最幸运的家伙。"
+    },
+    {
+      "id": 286,
+      "en": "Oh, shut up.",
+      "cn": "哦，闭嘴。"
+    },
+    {
+      "id": 287,
+      "en": "Don't be such a dumbass.",
+      "cn": "别这么傻。"
+    },
+    {
+      "id": 288,
+      "en": "She's so hot.",
+      "cn": "她太迷人了。"
+    },
+    {
+      "id": 289,
+      "en": "Wait, I can't say that.",
+      "cn": "等等，我不能这么说。"
+    },
+    {
+      "id": 290,
+      "en": "That's sexist.",
+      "cn": "那是性别歧视。"
+    },
+    {
+      "id": 291,
+      "en": "She's so hot, she's making me sexist.",
+      "cn": "她太漂亮了，让我变得性别歧视。"
+    },
+    {
+      "id": 292,
+      "en": "Oh my god, I'm such a tool.",
+      "cn": "哦我的天，我真是个工具。"
+    },
+    {
+      "id": 293,
+      "en": "Okay, get it together.",
+      "cn": "好吧，冷静点。"
+    },
+    {
+      "id": 294,
+      "en": "Oh, she's eating salad.",
+      "cn": "哦，她在吃沙拉。"
+    },
+    {
+      "id": 295,
+      "en": "Oh, right.",
+      "cn": "哦，对。"
+    },
+    {
+      "id": 296,
+      "en": "I have a salad.",
+      "cn": "我有一个沙拉。"
+    },
+    {
+      "id": 297,
+      "en": "Oh crap, which fork do I use?",
+      "cn": "哦糟糕，我该用哪个叉子？"
+    },
+    {
+      "id": 298,
+      "en": "Damn it.",
+      "cn": "该死。"
+    },
+    {
+      "id": 299,
+      "en": "She's going to think I'm a moron.",
+      "cn": "她会觉得我很傻。"
+    },
+    {
+      "id": 300,
+      "en": "What the hell are all these forks for?",
+      "cn": "这些叉子到底是干什么用的？"
+    },
+    {
+      "id": 301,
+      "en": "Which one did she use?",
+      "cn": "她用的是哪个？"
+    },
+    {
+      "id": 302,
+      "en": "Okay, chill.",
+      "cn": "好吧，冷静点。"
+    },
+    {
+      "id": 303,
+      "en": "Be cool.",
+      "cn": "放轻松。"
+    },
+    {
+      "id": 304,
+      "en": "Be cool.",
+      "cn": "放轻松。"
+    },
+    {
+      "id": 305,
+      "en": "Just take a fork.",
+      "cn": "就拿一个叉子。"
+    },
+    {
+      "id": 306,
+      "en": "Eat your salad.",
+      "cn": "吃你的沙拉。"
+    },
+    {
+      "id": 307,
+      "en": "Um... Hmm?",
+      "cn": "嗯……嗯？"
+    },
+    {
+      "id": 308,
+      "en": "Oh, sorry.",
+      "cn": "哦，抱歉。"
+    },
+    {
+      "id": 309,
+      "en": "What were you saying?",
+      "cn": "你刚才说什么？"
+    },
+    {
+      "id": 310,
+      "en": "You're eating my salad.",
+      "cn": "你在吃我的沙拉。"
+    },
+    {
+      "id": 311,
+      "en": "Oh, yes.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 312,
+      "en": "It's delicious.",
+      "cn": "它很好吃。"
+    },
+    {
+      "id": 313,
+      "en": "So these slang words, they're actually very common, right?",
+      "cn": "所以这些俚语，其实很常见，对吧？"
+    },
+    {
+      "id": 314,
+      "en": "Yeah, I think like you said, it's not likely that you'll find them in a dictionary.",
+      "cn": "是的，我觉得就像你说的，不太可能在字典里找到它们。"
+    },
+    {
+      "id": 315,
+      "en": "Of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 316,
+      "en": "And you can find them in movies or sometimes when you're having a conversation, a very informal conversation with a native speaker, these words will slip out and these slang terms will come up.",
+      "cn": "你可以在电影中找到它们，或者有时在和母语者进行非常非正式的对话时，这些词会冒出来，这些俚语会出现。"
+    },
+    {
+      "id": 317,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 318,
+      "en": "And you know what?",
+      "cn": "你知道吗？"
+    },
+    {
+      "id": 319,
+      "en": "There's a great resource out there for wonderful English slang terms called urbandictionary.com.",
+      "cn": "有一个很好的资源，提供精彩的英语俚语，叫做 urbandictionary.com。"
+    },
+    {
+      "id": 320,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 321,
+      "en": "If you ever see a word that maybe you can find in the conventional dictionary, you're probably going to find it there.",
+      "cn": "如果你看到一个可能在传统字典中能找到的词，你很可能会在那找到它。"
+    },
+    {
+      "id": 322,
+      "en": "Yeah, we'll put a link up to it on the site.",
+      "cn": "是的，我们会在网站上放一个链接。"
+    },
+    {
+      "id": 323,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 324,
+      "en": "So also if you have any questions or comments, be sure to come to our website, EnglishPod.com.",
+      "cn": "如果你有任何问题或评论，务必访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 325,
+      "en": "Marco and I are there to answer all your questions, and we've also got lots of resources like links to Urban Dictionary.",
+      "cn": "马尔科和我会回答你所有的问题，我们还有很多资源，比如 Urban Dictionary 的链接。"
+    },
+    {
+      "id": 326,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 327,
+      "en": "And also if you have any questions on any other slang terms that you may have heard or how to use them, be sure to post it on the comments section.",
+      "cn": "如果你对其他俚语有任何问题，或者想知道如何使用它们，务必在评论区发布。"
+    },
+    {
+      "id": 328,
+      "en": "Well guys, thanks for listening to this lesson and until next time, goodbye!",
+      "cn": "好吧，感谢大家收听这节课，下次再见！"
+    }
+  ]
+}

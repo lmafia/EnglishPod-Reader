@@ -1,0 +1,979 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0163",
+  "title": "EnglishPod 中高级 0163",
+  "totalSegments": 194,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're talking about money issues.",
+      "cn": "今天我们要讨论的是金钱问题。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "So there are some really interesting phrases and we're going to learn a little bit about how money and social security works in the United States.",
+      "cn": "有一些非常有趣的短语，我们将了解一下美国的金钱和社会保障是如何运作的。"
+    },
+    {
+      "id": 7,
+      "en": "But before we get into that, why don't we look at vocabulary preview.",
+      "cn": "但在此之前，我们先来看一下词汇预览。"
+    },
+    {
+      "id": 8,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 9,
+      "en": "So we're talking about retirement and that means we're going to talk about when you stop working when you're 63 or 65.",
+      "cn": "我们谈论的是退休，这意味着我们将讨论你在63或65岁时停止工作的情况。"
+    },
+    {
+      "id": 10,
+      "en": "How do you save money for that?",
+      "cn": "你如何为此存钱？"
+    },
+    {
+      "id": 11,
+      "en": "And the phrase we've got here is retirement plan.",
+      "cn": "我们这里的短语是退休计划。"
+    },
+    {
+      "id": 12,
+      "en": "Alright, so a retirement plan.",
+      "cn": "好的，退休计划。"
+    },
+    {
+      "id": 13,
+      "en": "So as you say, that's some money that you have for when you retire, when you're 65, when you're too old maybe to work.",
+      "cn": "就像你说的，那是你退休时的资金，当你65岁时，可能已经太老而无法工作。"
+    },
+    {
+      "id": 14,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 15,
+      "en": "And there are many different kinds.",
+      "cn": "而且有很多不同种类。"
+    },
+    {
+      "id": 16,
+      "en": "We're going to hear about one that's called a 401k.",
+      "cn": "我们将听到一种叫做401k的计划。"
+    },
+    {
+      "id": 17,
+      "en": "But we'll talk about that in a minute.",
+      "cn": "但我们稍后再谈这个。"
+    },
+    {
+      "id": 18,
+      "en": "First, let's listen to today's dialogue.",
+      "cn": "首先，让我们听一下今天的对话。"
+    },
+    {
+      "id": 19,
+      "en": "Well, that was an interesting documentary.",
+      "cn": "嗯，那是一个有趣的纪录片。"
+    },
+    {
+      "id": 20,
+      "en": "For sure.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 21,
+      "en": "I didn't really understand some of the technical jargon they used in the film when they talked about social security in the US.",
+      "cn": "我并不太理解他们在电影中谈论美国社会保障时使用的一些技术术语。"
+    },
+    {
+      "id": 22,
+      "en": "Like what?",
+      "cn": "比如什么？"
+    },
+    {
+      "id": 23,
+      "en": "Well, they mentioned how people put away money in something called a 401k.",
+      "cn": "嗯，他们提到人们把钱存入一种叫做401k的东西。"
+    },
+    {
+      "id": 24,
+      "en": "Yeah, I know it sounds weird, but a 401k is a type of retirement plan that allows employees to save and invest for their own retirement.",
+      "cn": "是的，我知道听起来很奇怪，但401k是一种退休计划，允许员工为自己的退休存钱和投资。"
+    },
+    {
+      "id": 25,
+      "en": "Through a 401k, you can authorize your employer to deduct a certain amount of money from your paycheck and invest it in the 401k plan.",
+      "cn": "通过401k，你可以授权雇主从你的工资中扣除一定金额并投资于401k计划。"
+    },
+    {
+      "id": 26,
+      "en": "Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your nest egg.",
+      "cn": "每个人都尽量多贡献，这样当你退休时，你可以安稳地享受你的积蓄。"
+    },
+    {
+      "id": 27,
+      "en": "That's interesting and logical, I guess.",
+      "cn": "这很有趣，也很合逻辑，我想。"
+    },
+    {
+      "id": 28,
+      "en": "In my country, we also have to contribute to a government-run retirement fund, but most people don't really trust it, so they just invest in properties or things like that.",
+      "cn": "在我的国家，我们也必须向政府运营的退休基金缴款，但大多数人并不真正信任它，所以他们只投资于房地产或类似的东西。"
+    },
+    {
+      "id": 29,
+      "en": "That seems a bit unstable, don't you think?",
+      "cn": "这似乎有点不稳定，你不觉得吗？"
+    },
+    {
+      "id": 30,
+      "en": "Yeah, but corrupt governments in the past have created distrust among banks and financial institutions, so now people prefer to have money hidden in a jar or a piggy bank.",
+      "cn": "是的，但过去腐败的政府在银行和金融机构之间造成了不信任，所以现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+    },
+    {
+      "id": 31,
+      "en": "I've been thinking of doing that lately.",
+      "cn": "我最近也在考虑这样做。"
+    },
+    {
+      "id": 32,
+      "en": "I don't want some banker to run off with my money.",
+      "cn": "我不想让某个银行家卷走我的钱。"
+    },
+    {
+      "id": 33,
+      "en": "Alright, we're back from today's dialogue now.",
+      "cn": "好的，我们现在回到今天的对话。"
+    },
+    {
+      "id": 34,
+      "en": "Some really interesting words and phrases there, and as you said, this 401k... what is a 401k?",
+      "cn": "有一些非常有趣的单词和短语，正如你所说的，这个401k... 401k是什么？"
+    },
+    {
+      "id": 35,
+      "en": "Well, I'm not sure about the details, honestly, but the 401k plan is a plan for workers, people who are young and working, to invest in their retirement.",
+      "cn": "嗯，老实说，我不太确定细节，但401k计划是为年轻工作者投资退休的计划。"
+    },
+    {
+      "id": 36,
+      "en": "And so it's a way to save money.",
+      "cn": "所以这是一种存钱的方式。"
+    },
+    {
+      "id": 37,
+      "en": "So every day they put a little bit of money towards this plan, and in the end, when they retire, they will have a certain amount of money that they can use throughout their seniorhood.",
+      "cn": "每天他们会向这个计划存一点钱，最后，当他们退休时，他们将拥有一定数量的钱，可以在他们的晚年使用。"
+    },
+    {
+      "id": 38,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 39,
+      "en": "And so before we have that, we have this conversation which starts with a documentary.",
+      "cn": "所以在我们讨论这个之前，我们有这个以纪录片开始的对话。"
+    },
+    {
+      "id": 40,
+      "en": "So they're learning about 401ks.",
+      "cn": "所以他们在学习401k。"
+    },
+    {
+      "id": 41,
+      "en": "And in this case, the person says that they didn't understand a lot because there was a lot of technical jargon.",
+      "cn": "在这种情况下，这个人说他们没有理解很多，因为有很多技术术语。"
+    },
+    {
+      "id": 42,
+      "en": "Alright, so this word jargon.",
+      "cn": "好的，那么这个词术语。"
+    },
+    {
+      "id": 43,
+      "en": "Jargon, it's very similar to slang, right?",
+      "cn": "术语，它与俚语非常相似，对吧？"
+    },
+    {
+      "id": 44,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 45,
+      "en": "And it's a special kind of talking or special words related to a certain topic.",
+      "cn": "这是与某个特定主题或行业相关的特殊语言或特殊词汇。"
+    },
+    {
+      "id": 46,
+      "en": "Or a certain industry.",
+      "cn": "例如，你会听到很多商业术语，对吧？"
+    },
+    {
+      "id": 47,
+      "en": "For example, you hear a lot of business jargon, right?",
+      "cn": "或者市场术语。"
+    },
+    {
+      "id": 48,
+      "en": "Or marketing jargon.",
+      "cn": "是的，当人们开始谈论，比如说，POPs和POS以及所有这些术语时。"
+    },
+    {
+      "id": 50,
+      "en": "I lost you.",
+      "cn": "我听不懂你在说什么。"
+    },
+    {
+      "id": 51,
+      "en": "Sorry.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 52,
+      "en": "No, I don't get that.",
+      "cn": "不，我不明白。"
+    },
+    {
+      "id": 53,
+      "en": "Well, jargon then is a special language for a certain industry or field.",
+      "cn": "嗯，术语就是某个行业或领域的特殊语言。"
+    },
+    {
+      "id": 54,
+      "en": "And in this case, we're learning about financial jargon and investment jargon.",
+      "cn": "在这种情况下，我们正在学习金融术语和投资术语。"
+    },
+    {
+      "id": 55,
+      "en": "So we're talking about 401ks and funds and all that stuff.",
+      "cn": "所以我们在谈论401k和基金以及所有这些东西。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 57,
+      "en": "And now, when they were talking about the 401k, he explained how they deduct money to put into this plan.",
+      "cn": "现在，当他们谈论401k时，他解释了他们如何扣除钱以放入这个计划。"
+    },
+    {
+      "id": 58,
+      "en": "Well, the question is who deducts money and where does it all go?",
+      "cn": "那么问题是，谁扣除钱，所有的钱都去哪了？"
+    },
+    {
+      "id": 59,
+      "en": "And so to deduct means to take away and this means in a 401k plan, the government will deduct money from your paycheck and put it into a special savings plan for you that you can access when you're retired.",
+      "cn": "所以扣除意味着拿走，这意味着在401k计划中，政府将从你的工资中扣除钱，并为你放入一个特殊的储蓄计划，你可以在退休时使用。"
+    },
+    {
+      "id": 60,
+      "en": "Okay, so to deduct means to take away, to take out, right?",
+      "cn": "好的，所以扣除意味着拿走，取出，对吧？"
+    },
+    {
+      "id": 61,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 62,
+      "en": "So subtract, deduct, take away, take out.",
+      "cn": "所以减去，扣除，拿走，取出。"
+    },
+    {
+      "id": 63,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 64,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 65,
+      "en": "And as they kept talking about money issues, the woman said that people in her country distrust banks and financial institutions.",
+      "cn": "当他们继续谈论金钱问题时，那个女人说她国家的人不信任银行和金融机构。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so you might recognize a word there.",
+      "cn": "好的，所以你可能会认出一个词。"
+    },
+    {
+      "id": 67,
+      "en": "Distrust, trust.",
+      "cn": "不信任，信任。"
+    },
+    {
+      "id": 68,
+      "en": "They have the same root.",
+      "cn": "它们有相同的词根。"
+    },
+    {
+      "id": 69,
+      "en": "And so to trust someone is to believe in them and to believe what they say.",
+      "cn": "所以信任某人就是相信他们，相信他们所说的话。"
+    },
+    {
+      "id": 70,
+      "en": "But to distrust means to think what they're saying is a lie.",
+      "cn": "但不信任意味着认为他们所说的是谎言。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, so you don't really believe that person.",
+      "cn": "好的，所以你并不真正相信那个人。"
+    },
+    {
+      "id": 72,
+      "en": "No, so if someone says, trust me, I will take your money and I won't spend it.",
+      "cn": "不，所以如果有人说，信任我，我会拿你的钱而不花掉。"
+    },
+    {
+      "id": 73,
+      "en": "You say, I distrust this person.",
+      "cn": "你会说，我不信任这个人。"
+    },
+    {
+      "id": 74,
+      "en": "That means I don't trust.",
+      "cn": "这意味着我不信任。"
+    },
+    {
+      "id": 75,
+      "en": "Right, very good.",
+      "cn": "对，非常好。"
+    },
+    {
+      "id": 76,
+      "en": "And well, why do they distrust these institutions?",
+      "cn": "那么，他们为什么不信任这些机构呢？"
+    },
+    {
+      "id": 77,
+      "en": "Because the government is a bit corrupt.",
+      "cn": "因为政府有点腐败。"
+    },
+    {
+      "id": 78,
+      "en": "Okay, so you hear this word a lot in the news or in the newspaper.",
+      "cn": "好的，所以你在新闻或报纸上经常听到这个词。"
+    },
+    {
+      "id": 79,
+      "en": "You can have a corrupt government or a corrupt politician.",
+      "cn": "你可以有一个腐败的政府或腐败的政治家。"
+    },
+    {
+      "id": 80,
+      "en": "That means that the government does things but says it doesn't and maybe is dishonest.",
+      "cn": "这意味着政府做一些事情但说不这样做，可能是不诚实的。"
+    },
+    {
+      "id": 81,
+      "en": "It's distrustful.",
+      "cn": "这是不可信的。"
+    },
+    {
+      "id": 82,
+      "en": "Right, so for example, a corrupt politician will support a law that's not really good but maybe he's being paid by somebody else.",
+      "cn": "对，所以例如，一个腐败的政治家会支持一项并不真的好的法律，但也许他是被别人支付的。"
+    },
+    {
+      "id": 83,
+      "en": "Or a corrupt politician will take money from the government institutions to use for himself and not for the country or the people.",
+      "cn": "或者一个腐败的政治家会从政府机构那里拿钱来为自己使用，而不是为国家或人民。"
+    },
+    {
+      "id": 84,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 85,
+      "en": "Corrupt government then.",
+      "cn": "腐败的政府。"
+    },
+    {
+      "id": 86,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, so why don't we listen to our dialogue again and we'll be back soon with Fluency Builder.",
+      "cn": "好的，那么我们再听一次对话，稍后将回到流利度提升环节。"
+    },
+    {
+      "id": 88,
+      "en": "Well, that was an interesting documentary.",
+      "cn": "嗯，那是一个有趣的纪录片。"
+    },
+    {
+      "id": 89,
+      "en": "For sure.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 90,
+      "en": "I didn't really understand some of the technical jargon they used in the film when they talked about social security in the US.",
+      "cn": "我并不太理解他们在电影中谈论美国社会保障时使用的一些技术术语。"
+    },
+    {
+      "id": 91,
+      "en": "Like what?",
+      "cn": "比如什么？"
+    },
+    {
+      "id": 92,
+      "en": "Well, they mentioned how people put away money in something called a 401k.",
+      "cn": "嗯，他们提到人们把钱存入一种叫做401k的东西。"
+    },
+    {
+      "id": 93,
+      "en": "Yeah, I know it sounds weird but a 401k is a type of retirement plan that allows employees to save and invest for their own retirement.",
+      "cn": "是的，我知道听起来很奇怪，但401k是一种退休计划，允许员工为自己的退休存钱和投资。"
+    },
+    {
+      "id": 94,
+      "en": "Through a 401k you can authorize your employer to deduct a certain amount of money from your paycheck and invest it in the 401k plan.",
+      "cn": "通过401k你可以授权雇主从你的工资中扣除一定金额并投资于401k计划。"
+    },
+    {
+      "id": 95,
+      "en": "Everyone tries to contribute as much as possible so that when you retire you can rest peacefully on your nest egg.",
+      "cn": "每个人都尽量多贡献，这样当你退休时，你可以安稳地享受你的积蓄。"
+    },
+    {
+      "id": 96,
+      "en": "That's interesting and logical, I guess.",
+      "cn": "这很有趣，也很合逻辑，我想。"
+    },
+    {
+      "id": 97,
+      "en": "In my country we also have to contribute to a government-run retirement fund but most people don't really trust it so they just invest in properties or things like that.",
+      "cn": "在我的国家，我们也必须向政府运营的退休基金缴款，但大多数人并不真正信任它，所以他们只投资于房地产或类似的东西。"
+    },
+    {
+      "id": 98,
+      "en": "That seems a bit unstable, don't you think?",
+      "cn": "这似乎有点不稳定，你不觉得吗？"
+    },
+    {
+      "id": 99,
+      "en": "Yeah, but corrupt governments in the past have created distrust among banks and financial institutions so now people prefer to have money hidden in a jar or a piggy bank.",
+      "cn": "是的，但过去腐败的政府在银行和金融机构之间造成了不信任，所以现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+    },
+    {
+      "id": 100,
+      "en": "I've been thinking of doing that lately.",
+      "cn": "我最近也在考虑这样做。"
+    },
+    {
+      "id": 101,
+      "en": "I don't want some banker to run off with my money.",
+      "cn": "我不想让某个银行家带着我的钱跑。"
+    },
+    {
+      "id": 102,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 103,
+      "en": "So in Fluency Builder we're going to look at three phrases.",
+      "cn": "在流利构建器中，我们将看三个短语。"
+    },
+    {
+      "id": 104,
+      "en": "So let's look at them now.",
+      "cn": "现在让我们来看看它们。"
+    },
+    {
+      "id": 105,
+      "en": "Fluency Builder Okay, this first phrase is what the entire dialogue is about.",
+      "cn": "流利构建器 好的，第一个短语就是整个对话的主题。"
+    },
+    {
+      "id": 106,
+      "en": "It's about putting away money.",
+      "cn": "它是关于存钱的。"
+    },
+    {
+      "id": 107,
+      "en": "So to put it away.",
+      "cn": "所以存起来。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, so to put money away.",
+      "cn": "好的，所以存钱。"
+    },
+    {
+      "id": 109,
+      "en": "That's an equivalent of saving, right?",
+      "cn": "这相当于储蓄，对吧？"
+    },
+    {
+      "id": 110,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 111,
+      "en": "To save.",
+      "cn": "储蓄。"
+    },
+    {
+      "id": 112,
+      "en": "So in this case, to put away is a fixed phrase, these words that go together very often and it means to save.",
+      "cn": "所以在这种情况下，存起来是一个固定短语，这些词经常一起使用，意思是储蓄。"
+    },
+    {
+      "id": 113,
+      "en": "So you could say, oh yeah, last year I put away a thousand dollars.",
+      "cn": "所以你可以说，哦，是的，去年我存了一千美元。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, so you saved a thousand dollars.",
+      "cn": "好的，所以你存了一千美元。"
+    },
+    {
+      "id": 115,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 116,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 117,
+      "en": "And why are we putting all this money away?",
+      "cn": "我们为什么要存这么多钱？"
+    },
+    {
+      "id": 118,
+      "en": "We're trying to build a nest egg.",
+      "cn": "我们在试图建立一个储蓄基金。"
+    },
+    {
+      "id": 119,
+      "en": "Now this is a funny phrase.",
+      "cn": "现在这是一个有趣的短语。"
+    },
+    {
+      "id": 120,
+      "en": "A nest is a home for a bird.",
+      "cn": "巢是鸟的家。"
+    },
+    {
+      "id": 121,
+      "en": "You know, it's made of sticks and twigs and leaves.",
+      "cn": "你知道，它是由树枝、细枝和叶子做成的。"
+    },
+    {
+      "id": 122,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 123,
+      "en": "And a nest egg then has to do with a bird's eggs.",
+      "cn": "而储蓄基金则与鸟蛋有关。"
+    },
+    {
+      "id": 124,
+      "en": "Eggs in the nest?",
+      "cn": "巢里的蛋？"
+    },
+    {
+      "id": 125,
+      "en": "Well, I don't know.",
+      "cn": "嗯，我不知道。"
+    },
+    {
+      "id": 126,
+      "en": "I don't know where it comes from.",
+      "cn": "我不知道它来自哪里。"
+    },
+    {
+      "id": 127,
+      "en": "But it does mean money that you saved up for some date in the future.",
+      "cn": "但它确实意味着你为未来某个日期存下的钱。"
+    },
+    {
+      "id": 128,
+      "en": "So you could say, I'm trying to grow a nest egg.",
+      "cn": "所以你可以说，我在努力增加我的储蓄基金。"
+    },
+    {
+      "id": 129,
+      "en": "I'm trying to build a nest egg so that in ten years I can buy a house.",
+      "cn": "我在努力建立一个储蓄基金，以便在十年后可以买房子。"
+    },
+    {
+      "id": 130,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 131,
+      "en": "So it's not only for retirement.",
+      "cn": "所以这不仅仅是为了退休。"
+    },
+    {
+      "id": 132,
+      "en": "You can build a nest egg to possibly invest it in the future into buying a house.",
+      "cn": "你可以建立一个储蓄基金，可能将来用于买房。"
+    },
+    {
+      "id": 133,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 134,
+      "en": "It's your savings that you don't touch.",
+      "cn": "这是你不动用的储蓄。"
+    },
+    {
+      "id": 135,
+      "en": "So I could say, I'm going to kill you.",
+      "cn": "所以我可以说，我要杀了你。"
+    },
+    {
+      "id": 136,
+      "en": "You spent the nest egg.",
+      "cn": "你花掉了储蓄基金。"
+    },
+    {
+      "id": 137,
+      "en": "That's not for spending.",
+      "cn": "那不是用来花的。"
+    },
+    {
+      "id": 138,
+      "en": "It's for saving.",
+      "cn": "是用来储蓄的。"
+    },
+    {
+      "id": 139,
+      "en": "Alright, and where can you save money for your nest egg?",
+      "cn": "好吧，你可以在哪里为你的储蓄基金存钱？"
+    },
+    {
+      "id": 140,
+      "en": "It's very popular to put it in a piggy bank.",
+      "cn": "把钱放在存钱罐里是非常流行的。"
+    },
+    {
+      "id": 141,
+      "en": "Well, maybe if you're five years old.",
+      "cn": "嗯，也许如果你五岁的话。"
+    },
+    {
+      "id": 142,
+      "en": "But I don't know if I'd put a lot of money in a piggy bank.",
+      "cn": "但我不知道我是否会把很多钱放在存钱罐里。"
+    },
+    {
+      "id": 143,
+      "en": "Piggy bank is usually a ceramic pig.",
+      "cn": "存钱罐通常是一个陶瓷猪。"
+    },
+    {
+      "id": 144,
+      "en": "You know, and it's got a hole in the top and you can put coins in the top.",
+      "cn": "你知道，它的顶部有一个孔，你可以把硬币放进去。"
+    },
+    {
+      "id": 145,
+      "en": "So we give these to children to teach them how to save.",
+      "cn": "所以我们把这些给孩子们，以教他们如何储蓄。"
+    },
+    {
+      "id": 146,
+      "en": "So they can put one penny in every day.",
+      "cn": "他们可以每天放一分钱。"
+    },
+    {
+      "id": 147,
+      "en": "And then when they need the money or they want to spend it, they break the piggy bank.",
+      "cn": "然后当他们需要钱或想花钱时，他们就打破存钱罐。"
+    },
+    {
+      "id": 148,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 149,
+      "en": "You have to throw it on the ground.",
+      "cn": "你必须把它扔在地上。"
+    },
+    {
+      "id": 150,
+      "en": "It's sad because you realize, oh, now I don't have my pig anymore.",
+      "cn": "这很伤心，因为你意识到，哦，现在我没有我的猪了。"
+    },
+    {
+      "id": 151,
+      "en": "Lost my nest egg.",
+      "cn": "失去了我的储蓄基金。"
+    },
+    {
+      "id": 152,
+      "en": "Alright, so why don't we listen to this dialogue again.",
+      "cn": "好吧，为什么我们不再听一次这个对话。"
+    },
+    {
+      "id": 153,
+      "en": "Let's keep a lookout for all these words and phrases and we'll be back shortly.",
+      "cn": "让我们留意所有这些单词和短语，我们很快就会回来。"
+    },
+    {
+      "id": 154,
+      "en": "Well, that was an interesting documentary.",
+      "cn": "嗯，那是一个有趣的纪录片。"
+    },
+    {
+      "id": 155,
+      "en": "For sure.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 156,
+      "en": "I didn't really understand some of the technical jargon they used in the film when they talked about Social Security in the US.",
+      "cn": "我并不真正理解他们在电影中谈论美国社会保障时使用的一些技术术语。"
+    },
+    {
+      "id": 157,
+      "en": "Like what?",
+      "cn": "比如什么？"
+    },
+    {
+      "id": 158,
+      "en": "Well, they mentioned how people put away money in something called a 401k.",
+      "cn": "嗯，他们提到人们把钱存入一种叫做401k的东西。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah, I know it sounds weird, but a 401k is a type of retirement plan that allows employees to save and invest for their own retirement.",
+      "cn": "是的，我知道这听起来很奇怪，但401k是一种退休计划，允许员工为自己的退休储蓄和投资。"
+    },
+    {
+      "id": 160,
+      "en": "Through a 401k, you can authorize your employer to deduct a certain amount of money from your paycheck and invest it in the 401k plan.",
+      "cn": "通过401k，你可以授权你的雇主从你的工资中扣除一定金额并投资于401k计划。"
+    },
+    {
+      "id": 161,
+      "en": "Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully on your nest egg.",
+      "cn": "每个人都尽量贡献尽可能多的钱，这样当你退休时，你可以安静地依靠你的储蓄基金。"
+    },
+    {
+      "id": 162,
+      "en": "That's interesting and logical, I guess.",
+      "cn": "这很有趣，也很合乎逻辑，我想。"
+    },
+    {
+      "id": 163,
+      "en": "In my country, we also have to contribute to a government-run retirement fund.",
+      "cn": "在我国家，我们也必须为政府运营的退休基金做贡献。"
+    },
+    {
+      "id": 164,
+      "en": "But most people don't really trust it, so they just invest in properties or things like that.",
+      "cn": "但大多数人并不真正信任它，所以他们只是投资于房地产或类似的东西。"
+    },
+    {
+      "id": 165,
+      "en": "That seems a bit unstable, don't you think?",
+      "cn": "这似乎有点不稳定，你不觉得吗？"
+    },
+    {
+      "id": 166,
+      "en": "Yeah, but corrupt governments in the past have created distrust among banks and financial institutions.",
+      "cn": "是的，但过去腐败的政府造成了人们对银行和金融机构的不信任。"
+    },
+    {
+      "id": 167,
+      "en": "So now people prefer to have money hidden in a jar or a piggy bank.",
+      "cn": "所以现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+    },
+    {
+      "id": 168,
+      "en": "I've been thinking of doing that lately.",
+      "cn": "我最近一直在考虑这样做。"
+    },
+    {
+      "id": 169,
+      "en": "I don't want some banker to run off with my money.",
+      "cn": "我不想让某个银行家带着我的钱跑。"
+    },
+    {
+      "id": 170,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 171,
+      "en": "So this whole savings thing, are you good at saving?",
+      "cn": "所以这个储蓄的事情，你擅长储蓄吗？"
+    },
+    {
+      "id": 172,
+      "en": "Do you have your nest egg planned out for your retirement?",
+      "cn": "你为退休计划好你的储蓄基金了吗？"
+    },
+    {
+      "id": 173,
+      "en": "Nest egg, no, but I'm a compulsive saver.",
+      "cn": "储蓄基金，没有，但我是个强迫储蓄者。"
+    },
+    {
+      "id": 174,
+      "en": "I like to save a lot.",
+      "cn": "我喜欢存很多钱。"
+    },
+    {
+      "id": 175,
+      "en": "Because you never know when you're going to need money.",
+      "cn": "因为你永远不知道什么时候会需要钱。"
+    },
+    {
+      "id": 176,
+      "en": "And I think once you get kind of an adult job, you know, the 9 to 5 job, it's important to spend as little as possible so that you can create a nest egg or some kind of savings account for the future.",
+      "cn": "我认为一旦你有了那种成年人的工作，你知道，朝九晚五的工作，尽量少花钱是很重要的，这样你才能为未来建立一个储蓄基金或某种储蓄账户。"
+    },
+    {
+      "id": 177,
+      "en": "Because it'd be nice to have a car or a house someday.",
+      "cn": "因为总有一天拥有一辆车或一所房子会很好。"
+    },
+    {
+      "id": 178,
+      "en": "Right, right.",
+      "cn": "对，对。"
+    },
+    {
+      "id": 179,
+      "en": "And also, as you say, unexpected things happen.",
+      "cn": "而且，正如你所说，意外的事情会发生。"
+    },
+    {
+      "id": 180,
+      "en": "So something may happen, maybe you break your arm and you don't have any savings or maybe no insurance.",
+      "cn": "所以可能会发生一些事情，也许你摔断了手臂，而你没有任何储蓄或保险。"
+    },
+    {
+      "id": 181,
+      "en": "So at least you have some money stashed away where you can use it.",
+      "cn": "所以至少你有一些钱藏起来可以使用。"
+    },
+    {
+      "id": 182,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 183,
+      "en": "And I know that in America right now in the news, the credit crisis is very popular to talk about.",
+      "cn": "我知道现在在美国的新闻中，信用危机是一个非常热门的话题。"
+    },
+    {
+      "id": 184,
+      "en": "And so part of this economic situation is that people owe more money than they have.",
+      "cn": "所以这种经济形势的一部分是人们欠的钱比他们拥有的还要多。"
+    },
+    {
+      "id": 185,
+      "en": "That means they spent more money than they own.",
+      "cn": "这意味着他们花的钱比他们拥有的还要多。"
+    },
+    {
+      "id": 186,
+      "en": "And so they don't have any savings.",
+      "cn": "所以他们没有任何储蓄。"
+    },
+    {
+      "id": 187,
+      "en": "And that really scares me.",
+      "cn": "这真的让我感到害怕。"
+    },
+    {
+      "id": 188,
+      "en": "So I think it's a really smart idea to start investing as soon as you can.",
+      "cn": "所以我认为尽早开始投资是一个非常聪明的主意。"
+    },
+    {
+      "id": 189,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 190,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 191,
+      "en": "Wise financial advice from EnglishPod.com.",
+      "cn": "来自EnglishPod.com的明智财务建议。"
+    },
+    {
+      "id": 192,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 193,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 194,
+      "en": "So if you have any questions, any doubts or any more financial questions, please come to EnglishPod.com and we'll see you guys there.",
+      "cn": "所以如果你有任何问题、疑虑或更多的财务问题，请访问EnglishPod.com，我们在那里见。"
+    },
+    {
+      "id": 195,
+      "en": "Bye everyone.",
+      "cn": "大家再见。"
+    }
+  ]
+}

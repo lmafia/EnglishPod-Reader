@@ -14,7 +14,7 @@ const fs = require("fs");
 const path = require("path");
 
 const RAW_DIR = path.join(__dirname, "../raw_subtitles");
-const OUT_DIR = path.join(__dirname, "../assets/subtitles");
+const OUT_DIR = path.join(__dirname, "../public/assets/subtitles");
 const MANIFEST_PATH = path.join(OUT_DIR, "manifest.json");
 
 // Ensure output directory exists

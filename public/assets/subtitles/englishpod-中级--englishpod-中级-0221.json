@@ -1,0 +1,1254 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0221",
+  "title": "EnglishPod 中级 0221",
+  "totalSegments": 249,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine.",
+      "cn": "我叫Katherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're talking all about cars in this intermediate level lesson.",
+      "cn": "今天我们要讨论的是这节中级课程中的汽车。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "We have a little bit of problems with our car.",
+      "cn": "我们的车有点问题。"
+    },
+    {
+      "id": 7,
+      "en": "And we're going to talk about some possible solutions to these car problems we have.",
+      "cn": "我们将讨论一些可能的解决方案。"
+    },
+    {
+      "id": 8,
+      "en": "So why don't we just listen to the dialogue today.",
+      "cn": "那我们就来听听今天的对话吧。"
+    },
+    {
+      "id": 9,
+      "en": "We have no words on vocabulary preview.",
+      "cn": "我们没有词汇预览。"
+    },
+    {
+      "id": 10,
+      "en": "So let's jump right into the dialogue and listen for the first time.",
+      "cn": "所以我们直接进入对话，第一次听。"
+    },
+    {
+      "id": 11,
+      "en": "Car Trouble Center, how may I help you?",
+      "cn": "汽车故障中心，我能帮您什么？"
+    },
+    {
+      "id": 12,
+      "en": "My car won't start.",
+      "cn": "我的车无法启动。"
+    },
+    {
+      "id": 13,
+      "en": "Stupid old car.",
+      "cn": "真是个愚蠢的老车。"
+    },
+    {
+      "id": 14,
+      "en": "Hold on.",
+      "cn": "等一下。"
+    },
+    {
+      "id": 15,
+      "en": "Before you kick your car, let's go through some possible problems.",
+      "cn": "在你踢车之前，让我们看看一些可能的问题。"
+    },
+    {
+      "id": 16,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 17,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 18,
+      "en": "First of all, can you turn the key in the ignition?",
+      "cn": "首先，你能转动点火钥匙吗？"
+    },
+    {
+      "id": 19,
+      "en": "Yeah.",
+      "cn": "可以。"
+    },
+    {
+      "id": 20,
+      "en": "I'm here with my friend.",
+      "cn": "我和我的朋友在一起。"
+    },
+    {
+      "id": 21,
+      "en": "And he thinks it may be the spark plug or the starter motor.",
+      "cn": "他认为可能是火花塞或起动电机的问题。"
+    },
+    {
+      "id": 22,
+      "en": "Those are possible problems.",
+      "cn": "这些都是可能的问题。"
+    },
+    {
+      "id": 23,
+      "en": "But tell me, when you turn the key, do you hear the starter motor crank?",
+      "cn": "但告诉我，当你转动钥匙时，听到起动电机转动的声音吗？"
+    },
+    {
+      "id": 24,
+      "en": "Yeah.",
+      "cn": "听到了。"
+    },
+    {
+      "id": 25,
+      "en": "It sounds like it usually does when I start the car, but nothing else happens.",
+      "cn": "听起来和我启动汽车时一样，但没有其他反应。"
+    },
+    {
+      "id": 26,
+      "en": "The engine won't start.",
+      "cn": "发动机无法启动。"
+    },
+    {
+      "id": 27,
+      "en": "Should I maybe press the accelerator?",
+      "cn": "我是不是应该踩油门？"
+    },
+    {
+      "id": 28,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 29,
+      "en": "If you step on the accelerator pedal, you can flood the carburetor and your car will never start.",
+      "cn": "如果你踩下油门踏板，可能会淹没化油器，你的车将永远无法启动。"
+    },
+    {
+      "id": 30,
+      "en": "So what do you think it is?",
+      "cn": "那你认为是什么问题？"
+    },
+    {
+      "id": 31,
+      "en": "I know this may seem like a silly question, but does your car have gasoline?",
+      "cn": "我知道这可能是个愚蠢的问题，但你的车有汽油吗？"
+    },
+    {
+      "id": 32,
+      "en": "Um, yeah.",
+      "cn": "嗯，有。"
+    },
+    {
+      "id": 33,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 34,
+      "en": "I got the car started.",
+      "cn": "我把车启动了。"
+    },
+    {
+      "id": 35,
+      "en": "Thanks for your help.",
+      "cn": "谢谢你的帮助。"
+    },
+    {
+      "id": 36,
+      "en": "I told you to fill the tank.",
+      "cn": "我告诉过你要加满油箱。"
+    },
+    {
+      "id": 37,
+      "en": "Okay, so this dialogue reminds me a lot of a radio show in America called Car Talk.",
+      "cn": "好吧，这段对话让我想起了美国的一档广播节目，叫做《汽车对话》。"
+    },
+    {
+      "id": 38,
+      "en": "And the hosts of the show, like Marco and I today, they talk about how to solve problems.",
+      "cn": "节目的主持人，像今天的Marco和我，他们讨论如何解决问题。"
+    },
+    {
+      "id": 39,
+      "en": "And they ask you questions to find out what the problem is.",
+      "cn": "他们会问你问题，以找出问题所在。"
+    },
+    {
+      "id": 40,
+      "en": "So it's a really helpful show.",
+      "cn": "所以这是一个非常有帮助的节目。"
+    },
+    {
+      "id": 41,
+      "en": "But let's take a look at some of the phrases and words that you heard so we can understand what exactly is going on here.",
+      "cn": "但让我们看看你听到的一些短语和单词，以便理解这里到底发生了什么。"
+    },
+    {
+      "id": 42,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 43,
+      "en": "So today on Language Takeaway, we have five words.",
+      "cn": "所以今天在语言收获中，我们有五个单词。"
+    },
+    {
+      "id": 44,
+      "en": "And they're all very specific to the car.",
+      "cn": "它们都与汽车非常相关。"
+    },
+    {
+      "id": 45,
+      "en": "So why don't we start with the first word?",
+      "cn": "那我们从第一个单词开始吧？"
+    },
+    {
+      "id": 46,
+      "en": "It's a noun.",
+      "cn": "这是一个名词。"
+    },
+    {
+      "id": 47,
+      "en": "And we are talking about the ignition.",
+      "cn": "我们在谈论点火。"
+    },
+    {
+      "id": 48,
+      "en": "Ignition.",
+      "cn": "点火。"
+    },
+    {
+      "id": 49,
+      "en": "The ignition is the first step to... The ignition is a part of the first step to starting a car.",
+      "cn": "点火是启动汽车的第一步。"
+    },
+    {
+      "id": 50,
+      "en": "Basically, under the wheel of the car, the steering wheel, there's usually a silver hole where you can put the key in.",
+      "cn": "基本上，在汽车的方向盘下，通常有一个银色的孔，可以放入钥匙。"
+    },
+    {
+      "id": 51,
+      "en": "This is the ignition.",
+      "cn": "这就是点火。"
+    },
+    {
+      "id": 52,
+      "en": "It starts the car.",
+      "cn": "它启动汽车。"
+    },
+    {
+      "id": 53,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 54,
+      "en": "So you put the key in the ignition and you can start the car.",
+      "cn": "所以你把钥匙放入点火器中，就可以启动汽车。"
+    },
+    {
+      "id": 55,
+      "en": "And to start the car means to turn it on, to get it going.",
+      "cn": "启动汽车意味着打开它，让它运转。"
+    },
+    {
+      "id": 56,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 57,
+      "en": "And so ignition is the first step.",
+      "cn": "所以点火是第一步。"
+    },
+    {
+      "id": 58,
+      "en": "Starting the ignition.",
+      "cn": "启动点火。"
+    },
+    {
+      "id": 59,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 60,
+      "en": "So moving on to our next word.",
+      "cn": "接下来是我们的下一个单词。"
+    },
+    {
+      "id": 61,
+      "en": "We have a word that's formed by two different parts.",
+      "cn": "我们有一个由两个部分组成的单词。"
+    },
+    {
+      "id": 62,
+      "en": "A spark plug.",
+      "cn": "火花塞。"
+    },
+    {
+      "id": 63,
+      "en": "A spark plug.",
+      "cn": "火花塞。"
+    },
+    {
+      "id": 64,
+      "en": "Spark plug.",
+      "cn": "火花塞。"
+    },
+    {
+      "id": 65,
+      "en": "So a spark plug is an electrical object.",
+      "cn": "所以火花塞是一个电气物体。"
+    },
+    {
+      "id": 66,
+      "en": "Basically, this has to do with electricity and the way that the car gets energy.",
+      "cn": "基本上，这与电力和汽车获取能量的方式有关。"
+    },
+    {
+      "id": 67,
+      "en": "So it's called a spark plug because it creates a spark, which is a brief burst of current.",
+      "cn": "它被称为火花塞，因为它产生火花，即短暂的电流爆发。"
+    },
+    {
+      "id": 68,
+      "en": "So this basically creates a small spark of electricity and this makes the gasoline ignite.",
+      "cn": "所以这基本上产生一小股电流，使汽油点燃。"
+    },
+    {
+      "id": 69,
+      "en": "So that's what makes the car go.",
+      "cn": "这就是让汽车行驶的原因。"
+    },
+    {
+      "id": 70,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 71,
+      "en": "So energy is taken from the battery to start a small fire, basically.",
+      "cn": "所以能量是从电池中提取的，以点燃小火。"
+    },
+    {
+      "id": 72,
+      "en": "So which then starts the engine.",
+      "cn": "然后启动发动机。"
+    },
+    {
+      "id": 73,
+      "en": "Spark plug.",
+      "cn": "火花塞。"
+    },
+    {
+      "id": 74,
+      "en": "It's a very small but very important part of a car.",
+      "cn": "这是汽车中一个非常小但非常重要的部分。"
+    },
+    {
+      "id": 75,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 76,
+      "en": "And moving on, we have the starter motor.",
+      "cn": "接下来是起动电机。"
+    },
+    {
+      "id": 77,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 78,
+      "en": "To be very honest with you, I'm not a car person, so I'm not sure what the starter motor is.",
+      "cn": "说实话，我不是汽车专家，所以我不太确定起动电机是什么。"
+    },
+    {
+      "id": 79,
+      "en": "Maybe you can explain this to us, Marco.",
+      "cn": "也许你可以给我们解释一下，Marco。"
+    },
+    {
+      "id": 80,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 81,
+      "en": "So basically your car runs on gasoline.",
+      "cn": "基本上，你的车是用汽油运行的。"
+    },
+    {
+      "id": 82,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 83,
+      "en": "So you put your key into the ignition and you turn it right.",
+      "cn": "所以你把钥匙放入点火器中，向右转动。"
+    },
+    {
+      "id": 84,
+      "en": "This in turn sends energy to this little motor called a starter motor.",
+      "cn": "这会将能量发送到一个叫做起动电机的小电机。"
+    },
+    {
+      "id": 85,
+      "en": "And that basically gets the car going by means of an electrical current before the gasoline ignites.",
+      "cn": "它通过电流使汽车运转，然后汽油点燃。"
+    },
+    {
+      "id": 86,
+      "en": "So it's like a little electrical motor that makes the spark plug ignite and causes some of the mechanical parts like the pistons move within the car and then it turns on.",
+      "cn": "所以这就像一个小电动机，使火花塞点燃，并使一些机械部件如活塞在车内移动，然后它就启动了。"
+    },
+    {
+      "id": 87,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 88,
+      "en": "So again, this is all about the beginning of when we turn the key in the ignition, what happens?",
+      "cn": "所以再次强调，这一切都是关于我们在点火器中转动钥匙时发生的事情。"
+    },
+    {
+      "id": 89,
+      "en": "This is a starter motor.",
+      "cn": "这就是起动电机。"
+    },
+    {
+      "id": 90,
+      "en": "So once we've turned the car on, we've turned the key in the ignition, we have to worry about giving the car gas so we can control gas with the accelerator pedal.",
+      "cn": "一旦我们启动了汽车，转动了点火钥匙，我们就要担心给汽车加油，这样我们就可以通过油门踏板来控制油量。"
+    },
+    {
+      "id": 91,
+      "en": "So by saying you want to give the car gas is you want to give it more energy, more power or less energy, right?",
+      "cn": "所以说你想给汽车加油，就是想给它更多的能量，更多的动力或更少的能量，对吧？"
+    },
+    {
+      "id": 92,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 93,
+      "en": "So if I want to go very fast, I push my foot down on the accelerator and the further down it goes, the faster I move.",
+      "cn": "所以如果我想开得很快，我就踩下油门，越往下踩，速度就越快。"
+    },
+    {
+      "id": 94,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 95,
+      "en": "So that's the accelerator.",
+      "cn": "所以这就是油门。"
+    },
+    {
+      "id": 96,
+      "en": "Now, the opposite of making the car go would make the car stop.",
+      "cn": "现在，使汽车停止的相反动作就是让汽车停下来。"
+    },
+    {
+      "id": 97,
+      "en": "And those are called brakes, brakes.",
+      "cn": "这些叫做刹车，刹车。"
+    },
+    {
+      "id": 98,
+      "en": "So on the left, we have a brake pedal and on the right we have an accelerator pedal.",
+      "cn": "所以左边是刹车踏板，右边是油门踏板。"
+    },
+    {
+      "id": 99,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 100,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 101,
+      "en": "And talking about acceleration and gas, we have a very specific mechanical object and that's called a carburetor.",
+      "cn": "说到加速和汽油，我们有一个非常具体的机械物体，叫做化油器。"
+    },
+    {
+      "id": 102,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 103,
+      "en": "Again, carburetor.",
+      "cn": "再次提到化油器。"
+    },
+    {
+      "id": 104,
+      "en": "I know that this is under the hood of my car, but I'm not sure what it does.",
+      "cn": "我知道这在我车的引擎盖下，但我不确定它的作用。"
+    },
+    {
+      "id": 105,
+      "en": "Let's talk about this.",
+      "cn": "我们来谈谈这个。"
+    },
+    {
+      "id": 106,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 107,
+      "en": "So it's not very common to have a carburetor anymore in new cars, but basically it's a small device that controls the flow of gasoline from the gas tank to the engine.",
+      "cn": "在新车中，化油器不再很常见，但基本上它是一个小装置，控制从油箱到发动机的汽油流动。"
+    },
+    {
+      "id": 108,
+      "en": "And basically what it does, it creates, it makes the gasoline into a type of very thin mist and that way the gasoline can ignite easier.",
+      "cn": "它的基本作用是将汽油变成一种非常细的雾，这样汽油更容易点燃。"
+    },
+    {
+      "id": 109,
+      "en": "So the further down you push your foot on the accelerator, the wider the little gap or the hole will open on the carburetor and that way your car will go faster.",
+      "cn": "所以你踩下油门越深，化油器的小缝隙或孔就会打开得越大，这样你的车就会跑得更快。"
+    },
+    {
+      "id": 110,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 111,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 112,
+      "en": "So that's all we've got for Language Takeaway today, but don't go anywhere.",
+      "cn": "这就是我们今天的语言收获，但别走开。"
+    },
+    {
+      "id": 113,
+      "en": "We'll be back in a second with Fluency Builder.",
+      "cn": "我们马上就会回来，进行流利度提升。"
+    },
+    {
+      "id": 114,
+      "en": "Car Trouble Center, how may I help you?",
+      "cn": "汽车故障中心，我能帮您什么？"
+    },
+    {
+      "id": 115,
+      "en": "My car won't start.",
+      "cn": "我的车无法启动。"
+    },
+    {
+      "id": 116,
+      "en": "Stupid old car.",
+      "cn": "该死的老车。"
+    },
+    {
+      "id": 117,
+      "en": "Hold on.",
+      "cn": "等一下。"
+    },
+    {
+      "id": 118,
+      "en": "Before you kick your car, let's go through some possible problems.",
+      "cn": "在你踢车之前，让我们看看一些可能的问题。"
+    },
+    {
+      "id": 119,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 120,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 121,
+      "en": "First of all, can you turn the key in the ignition?",
+      "cn": "首先，你能转动点火钥匙吗？"
+    },
+    {
+      "id": 122,
+      "en": "Yeah, I'm here with my friend and he thinks it may be the spark plug or the starter motor.",
+      "cn": "是的，我和我的朋友在一起，他认为可能是火花塞或起动电机的问题。"
+    },
+    {
+      "id": 123,
+      "en": "Those are possible problems.",
+      "cn": "这些都是可能的问题。"
+    },
+    {
+      "id": 124,
+      "en": "But tell me, when you turn the key, do you hear the starter motor crank?",
+      "cn": "但告诉我，当你转动钥匙时，你听到起动电机转动的声音吗？"
+    },
+    {
+      "id": 125,
+      "en": "Yeah, it sounds like it usually does when I start the car, but nothing else happens.",
+      "cn": "是的，听起来和我启动汽车时一样，但没有其他反应。"
+    },
+    {
+      "id": 126,
+      "en": "The engine won't start.",
+      "cn": "发动机无法启动。"
+    },
+    {
+      "id": 127,
+      "en": "Should I maybe press the accelerator?",
+      "cn": "我是不是应该踩油门？"
+    },
+    {
+      "id": 128,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 129,
+      "en": "If you step on the accelerator pedal, you can flood the carburetor and your car will never start.",
+      "cn": "如果你踩下油门踏板，你可能会淹没化油器，你的车将永远无法启动。"
+    },
+    {
+      "id": 130,
+      "en": "So what do you think it is?",
+      "cn": "那你认为是什么问题？"
+    },
+    {
+      "id": 131,
+      "en": "I know this may seem like a silly question, but does your car have gasoline?",
+      "cn": "我知道这可能是个愚蠢的问题，但你的车有汽油吗？"
+    },
+    {
+      "id": 132,
+      "en": "Um, yeah.",
+      "cn": "嗯，有的。"
+    },
+    {
+      "id": 133,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 134,
+      "en": "I got the car started.",
+      "cn": "我把车启动了。"
+    },
+    {
+      "id": 135,
+      "en": "Thanks for your help.",
+      "cn": "谢谢你的帮助。"
+    },
+    {
+      "id": 136,
+      "en": "I told you to fill the tank.",
+      "cn": "我告诉过你要加满油箱。"
+    },
+    {
+      "id": 137,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 138,
+      "en": "So now why don't we take a look at four key phrases that we have for you on Fluency Builder.",
+      "cn": "现在我们来看看流利度提升中的四个关键短语。"
+    },
+    {
+      "id": 139,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, this first phrase.",
+      "cn": "好的，第一个短语。"
+    },
+    {
+      "id": 141,
+      "en": "So you heard the phrase at the beginning, car trouble center, but car trouble center.",
+      "cn": "你在开头听到的短语是汽车故障中心，但汽车故障中心。"
+    },
+    {
+      "id": 142,
+      "en": "That's maybe the name of a fake company that we use.",
+      "cn": "这可能是我们使用的一个虚构公司的名字。"
+    },
+    {
+      "id": 143,
+      "en": "But the phrase car trouble is very, very common.",
+      "cn": "但“汽车故障”这个短语非常常见。"
+    },
+    {
+      "id": 144,
+      "en": "So if you say I'm having car trouble, or I had some car trouble, what does that mean?",
+      "cn": "所以如果你说“我有汽车故障”或“我遇到了一些汽车故障”，这是什么意思？"
+    },
+    {
+      "id": 145,
+      "en": "That means my car broke.",
+      "cn": "这意味着我的车坏了。"
+    },
+    {
+      "id": 146,
+      "en": "Okay, so you don't say my car broke.",
+      "cn": "好的，所以你不说“我的车坏了”。"
+    },
+    {
+      "id": 147,
+      "en": "This is this is one thing that can't break because normally you say I'm having trouble or I'm having car trouble because a part of my car is not working.",
+      "cn": "这是不能坏的，因为通常你会说“我遇到麻烦”或“我有汽车故障”，因为我的车的某个部件不工作。"
+    },
+    {
+      "id": 148,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 149,
+      "en": "So instead of saying I'm having problems with my car or my car broke, you just say I had car trouble or I'm having car trouble.",
+      "cn": "所以与其说“我有汽车问题”或“我的车坏了”，你只需说“我有汽车故障”或“我正在遇到汽车故障”。"
+    },
+    {
+      "id": 150,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 151,
+      "en": "So this is a really good excuse for coming to work late.",
+      "cn": "所以这是一个很好的借口，迟到上班。"
+    },
+    {
+      "id": 152,
+      "en": "You can say Oh, I'm so sorry.",
+      "cn": "你可以说：“哦，我很抱歉。我今天早上遇到了汽车故障。”"
+    },
+    {
+      "id": 153,
+      "en": "I was having car trouble this morning.",
+      "cn": "对。"
+    },
+    {
+      "id": 154,
+      "en": "Right.",
+      "cn": "所以任何类型的汽车问题都可以被视为汽车故障，轮胎漏气、没电池等等。"
+    },
+    {
+      "id": 155,
+      "en": "So any type of problems with your car can be considered car trouble, flat tire, no battery, etc, etc.",
+      "cn": "好的，现在继续，我们有一个非常有趣的动词。"
+    },
+    {
+      "id": 156,
+      "en": "Okay, now moving on, we have a very interesting verb here.",
+      "cn": "我们听到那个家伙在谈论起动电机时，他说：“你听到起动电机转动的声音吗？”"
+    },
+    {
+      "id": 157,
+      "en": "We heard when the guy was talking about the starter motor, he said, Do you hear the starter motor crank?",
+      "cn": "好的，转动。"
+    },
+    {
+      "id": 158,
+      "en": "Okay, to crank.",
+      "cn": "这是一个非常有趣的动词。"
+    },
+    {
+      "id": 159,
+      "en": "So this is a very interesting verb.",
+      "cn": "它也可以是名词。"
+    },
+    {
+      "id": 160,
+      "en": "It can also be a noun.",
+      "cn": "这是一个声音。"
+    },
+    {
+      "id": 161,
+      "en": "It's a sound.",
+      "cn": "好的，但它也是一种运动。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, but it's also a movement.",
+      "cn": "所以当某物在圆圈中转动时，咔嚓，咔嚓，可能你会想到一个金属轮，咔嚓，咔嚓，那就是转动。"
+    },
+    {
+      "id": 163,
+      "en": "So when something turns around in a circle, boom, boom, boom, maybe you think of a metal wheel, boom, boom, that's a crank.",
+      "cn": "所以有时我们谈论那些老车，你知道，1910年代、1920年代，第一辆福特车，你必须在前面转动它，实际上用手转动一个轮子，让车启动，对吧。"
+    },
+    {
+      "id": 164,
+      "en": "So sometimes we talk about those old cars, you know, 1910s 1920s, the first Ford cars, you had to crank them in the front, you had to actually turn with your hand, yeah, a wheel to make the car start right.",
+      "cn": "这就是转动。"
+    },
+    {
+      "id": 165,
+      "en": "This is a crank.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 166,
+      "en": "Exactly.",
+      "cn": "你可以在你的车里听到这个。"
+    },
+    {
+      "id": 167,
+      "en": "You can hear this in your car.",
+      "cn": "也许如果你的车没有汽油，你会听到那是起动电机在转动。"
+    },
+    {
+      "id": 168,
+      "en": "Maybe if your car doesn't have gasoline, you hear that that's the starter motor cranking.",
+      "cn": "所以它在圆圈中转动，试图创造能量。"
+    },
+    {
+      "id": 169,
+      "en": "So it's going around in circles trying and trying to create energy.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 170,
+      "en": "Exactly.",
+      "cn": "现在，当那个家伙在谈论油门和化油器时，他说：“不，不要踩那个踏板，因为你会淹没化油器。”"
+    },
+    {
+      "id": 171,
+      "en": "And now when the guy was talking about the accelerator and he was talking about the carburetor, he said, No, don't step on that pedal because you can flood the carburetor.",
+      "cn": "所以淹没。"
+    },
+    {
+      "id": 172,
+      "en": "So to flood.",
+      "cn": "好的，淹没。"
+    },
+    {
+      "id": 173,
+      "en": "Okay, to flood.",
+      "cn": "这是一个动词。"
+    },
+    {
+      "id": 174,
+      "en": "This is a verb.",
+      "cn": "也许你以前听过淹没这个词作为名词。"
+    },
+    {
+      "id": 175,
+      "en": "Maybe you've heard the word flood before as a noun.",
+      "cn": "但这意味着用液体填充某物，汽油、水、牛奶。"
+    },
+    {
+      "id": 176,
+      "en": "But this means to fill something with liquid, with gasoline, with water, with milk.",
+      "cn": "所以淹没某物就是用液体填满它。"
+    },
+    {
+      "id": 177,
+      "en": "So to flood something is to fill it up with the liquid.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, very good.",
+      "cn": "所以你可以淹没一个水坝，例如，对吧？"
+    },
+    {
+      "id": 180,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 181,
+      "en": "Or in this case, you can flood a carburetor, which means it won't work because it's all wet.",
+      "cn": "或者在这种情况下，你可以淹没一个化油器，这意味着它无法工作，因为它全湿了。"
+    },
+    {
+      "id": 182,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 183,
+      "en": "And the last phrase that we have very handy when you're talking about cars is to fill the tank.",
+      "cn": "而我们在谈论汽车时非常实用的最后一个短语是加满油箱。"
+    },
+    {
+      "id": 184,
+      "en": "Okay, this is always a problem at my house because I hate to fill the tank.",
+      "cn": "好的，这在我家总是个问题，因为我讨厌加油。"
+    },
+    {
+      "id": 185,
+      "en": "So yeah, whenever my car's in the driveway, and someone in my family asks if they can borrow it, so yeah, sure.",
+      "cn": "所以是的，每当我的车停在车道上，家里有人问能否借用它，我就说，当然。"
+    },
+    {
+      "id": 186,
+      "en": "And then obviously an hour later, they come back and say, Why don't you ever fill the tank?",
+      "cn": "然后显然一个小时后，他们回来问：“你为什么从来不加油？”"
+    },
+    {
+      "id": 187,
+      "en": "It's empty.",
+      "cn": "没油了。"
+    },
+    {
+      "id": 188,
+      "en": "You have no gas.",
+      "cn": "你没有汽油。"
+    },
+    {
+      "id": 189,
+      "en": "I say, Well, I hate to fill the car with gas.",
+      "cn": "我说：“我讨厌给车加油。”"
+    },
+    {
+      "id": 190,
+      "en": "And so I always have an empty tank.",
+      "cn": "所以我总是油箱是空的。"
+    },
+    {
+      "id": 191,
+      "en": "So I never fill the tank.",
+      "cn": "所以我从来不加油。"
+    },
+    {
+      "id": 192,
+      "en": "Okay, so that's what it means to fill the tank is to have it full of gasoline, right to put gasoline into your gasoline tank.",
+      "cn": "好的，所以加满油箱的意思是让它充满汽油，对吧，把汽油放入你的油箱。"
+    },
+    {
+      "id": 193,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 194,
+      "en": "Why don't we go back and listen to the dialogue for the last time, and we'll be back to talk a little bit more.",
+      "cn": "我们再回去听对话最后一次，然后我们会回来再聊聊。"
+    },
+    {
+      "id": 195,
+      "en": "Car trouble center, how may I help you?",
+      "cn": "汽车故障中心，我能帮您什么？"
+    },
+    {
+      "id": 196,
+      "en": "My car won't start.",
+      "cn": "我的车无法启动。"
+    },
+    {
+      "id": 197,
+      "en": "Stupid old car.",
+      "cn": "该死的老车。"
+    },
+    {
+      "id": 198,
+      "en": "Hold on.",
+      "cn": "等一下。"
+    },
+    {
+      "id": 199,
+      "en": "Before you kick your car, let's go through some possible problems.",
+      "cn": "在你踢车之前，让我们看看一些可能的问题。"
+    },
+    {
+      "id": 200,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 201,
+      "en": "Okay, first of all, can you turn the key in the ignition?",
+      "cn": "首先，你能转动点火钥匙吗？"
+    },
+    {
+      "id": 202,
+      "en": "Yeah, I'm here with my friend.",
+      "cn": "是的，我和我的朋友在一起。"
+    },
+    {
+      "id": 203,
+      "en": "And he thinks it may be the spark plug or the starter motor.",
+      "cn": "他认为可能是火花塞或起动电机的问题。"
+    },
+    {
+      "id": 204,
+      "en": "Those are possible problems.",
+      "cn": "这些都是可能的问题。"
+    },
+    {
+      "id": 205,
+      "en": "But tell me, when you turn the key, do you hear the starter motor crank?",
+      "cn": "但告诉我，当你转动钥匙时，听到起动电机转动的声音吗？"
+    },
+    {
+      "id": 206,
+      "en": "Yeah, it sounds like it usually does when I start the car, but nothing else happens.",
+      "cn": "是的，听起来和我启动汽车时一样，但没有其他反应。"
+    },
+    {
+      "id": 207,
+      "en": "The engine won't start.",
+      "cn": "发动机无法启动。"
+    },
+    {
+      "id": 208,
+      "en": "Should I maybe press the accelerator?",
+      "cn": "我是不是应该踩油门？"
+    },
+    {
+      "id": 209,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 210,
+      "en": "If you step on the accelerator pedal, you can flood the carburetor and your car will never start.",
+      "cn": "如果你踩下油门踏板，可能会让化油器进水，你的车就永远无法启动。"
+    },
+    {
+      "id": 211,
+      "en": "So what do you think it is?",
+      "cn": "那你认为是什么问题？"
+    },
+    {
+      "id": 212,
+      "en": "I know this may seem like a silly question, but does your car have gasoline?",
+      "cn": "我知道这可能是个愚蠢的问题，但你的车有汽油吗？"
+    },
+    {
+      "id": 213,
+      "en": "Um, yeah, right.",
+      "cn": "嗯，是的，没错。"
+    },
+    {
+      "id": 214,
+      "en": "I got the car started.",
+      "cn": "我把车启动了。"
+    },
+    {
+      "id": 215,
+      "en": "Thanks for your help.",
+      "cn": "谢谢你的帮助。"
+    },
+    {
+      "id": 216,
+      "en": "I told you to fill the tank.",
+      "cn": "我告诉过你要加满油箱。"
+    },
+    {
+      "id": 217,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 218,
+      "en": "So talking about cars and car trouble, I understand for example, in some countries, when you're getting a driver's license, you're forced or obliged to learn a little bit of car mechanics, you have to learn about the engine or how to change your tire and basic things like this.",
+      "cn": "说到汽车和汽车故障，我了解到在一些国家，获得驾照时，必须学习一些汽车机械知识，了解发动机或如何换轮胎等基本知识。"
+    },
+    {
+      "id": 219,
+      "en": "That's a brilliant idea.",
+      "cn": "这是个绝妙的主意。"
+    },
+    {
+      "id": 220,
+      "en": "In America, you don't have to know how to fix your car.",
+      "cn": "在美国，你不需要知道如何修理你的车。"
+    },
+    {
+      "id": 221,
+      "en": "You have to know how to pay someone to fix your car.",
+      "cn": "你需要知道如何支付别人来修理你的车。"
+    },
+    {
+      "id": 222,
+      "en": "But basically, we only learn the rules of the road.",
+      "cn": "但基本上，我们只学习交通规则。"
+    },
+    {
+      "id": 223,
+      "en": "So the signs and the the basic rules.",
+      "cn": "所以是标志和基本规则。"
+    },
+    {
+      "id": 224,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 225,
+      "en": "Yeah, but I think it will be very helpful to know how to fix a tire or how to change the oil in your car.",
+      "cn": "是的，但我认为知道如何修理轮胎或如何更换汽车油是非常有帮助的。"
+    },
+    {
+      "id": 226,
+      "en": "I mean, is this a requirement in Ecuador?",
+      "cn": "我的意思是，这在厄瓜多尔是个要求吗？"
+    },
+    {
+      "id": 227,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 228,
+      "en": "When you're getting your driver's permit, your driver's license, you have to take a course which shows you the mechanics of the car, first aid course, and also basic road rules and all that stuff.",
+      "cn": "当你获得驾照时，必须参加一个课程，学习汽车机械知识、急救课程以及基本的交通规则等。"
+    },
+    {
+      "id": 229,
+      "en": "But basically, because it can be something very simple, like for example, they show you where the battery is, where you can check the oil and basic things like this.",
+      "cn": "但基本上，因为这可能是非常简单的事情，比如他们会告诉你电池在哪里，如何检查油等基本知识。"
+    },
+    {
+      "id": 230,
+      "en": "So maybe the little cable from the battery just came loose and that's why your car won't start.",
+      "cn": "所以可能是电池的小电缆松了，这就是你的车无法启动的原因。"
+    },
+    {
+      "id": 231,
+      "en": "So instead of you waiting for two hours until somebody comes and picks you up or a tow truck, you can just check very briefly basic things that can maybe go wrong in your car and you can just go on your way.",
+      "cn": "所以与其等两个小时让人来接你或拖车，不如你自己简单检查一下可能出错的基本问题，然后继续上路。"
+    },
+    {
+      "id": 232,
+      "en": "That's awesome.",
+      "cn": "这太棒了。"
+    },
+    {
+      "id": 233,
+      "en": "I had my dad for that.",
+      "cn": "我有我爸爸来教我。"
+    },
+    {
+      "id": 234,
+      "en": "My dad said, I'm not going to have a little girl who doesn't know how to change a tire or who doesn't know how to check the oil levels.",
+      "cn": "我爸爸说，我不想要一个不知道如何换轮胎或检查油位的小女孩。"
+    },
+    {
+      "id": 235,
+      "en": "So yeah, but not everybody has a parent who will teach them.",
+      "cn": "所以是的，但并不是每个人都有父母来教他们。"
+    },
+    {
+      "id": 236,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 237,
+      "en": "No, it's very handy because for example, you get a flat tire and sometimes, you know, cars can be a little bit tricky.",
+      "cn": "不，这非常方便，因为例如，你遇到爆胎，有时你知道，汽车可能有点棘手。"
+    },
+    {
+      "id": 238,
+      "en": "The wheel nuts are sometimes covered by a plastic cover so you don't know how to take it off.",
+      "cn": "轮胎螺母有时被塑料盖住，所以你不知道如何取下它。"
+    },
+    {
+      "id": 239,
+      "en": "There's a special tool for that.",
+      "cn": "这有一个特殊的工具。"
+    },
+    {
+      "id": 240,
+      "en": "Or the Jack.",
+      "cn": "或者千斤顶。"
+    },
+    {
+      "id": 241,
+      "en": "Sometimes the Jack is not the normal one that you have to like pump up and down.",
+      "cn": "有时千斤顶不是那种需要上下泵的。"
+    },
+    {
+      "id": 242,
+      "en": "It's a little one that you have to turn a lever and you have to do this.",
+      "cn": "它是那种需要转动杠杆的。"
+    },
+    {
+      "id": 243,
+      "en": "So it's very, very useful to know these things.",
+      "cn": "所以知道这些事情是非常非常有用的。"
+    },
+    {
+      "id": 244,
+      "en": "Absolutely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 245,
+      "en": "I'm curious to know if our listeners out there have experience with cars and car mechanics.",
+      "cn": "我很好奇我们的听众是否有汽车和汽车机械的经验。"
+    },
+    {
+      "id": 246,
+      "en": "And if you have this rule, like Marco says, they have in Ecuador about learning about cars before you actually get your driver's license.",
+      "cn": "如果你们有像马尔科所说的那样的规则，在厄瓜多尔学习汽车知识，然后才能获得驾照。"
+    },
+    {
+      "id": 247,
+      "en": "Let us know on our website, EnglishPod.com.",
+      "cn": "请在我们的网站 EnglishPod.com 告诉我们。"
+    },
+    {
+      "id": 248,
+      "en": "We hope to see you there.",
+      "cn": "我们希望在那里见到你。"
+    },
+    {
+      "id": 249,
+      "en": "All right, guys.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 250,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

@@ -1,0 +1,1284 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0152",
+  "title": "EnglishPod 中级 0152",
+  "totalSegments": 255,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "So, as usual, we've got a great dialogue for you today.",
+      "cn": "所以，像往常一样，今天我们有一个很棒的对话。"
+    },
+    {
+      "id": 5,
+      "en": "And before we get going, I should mention what the topic is.",
+      "cn": "在开始之前，我应该提一下今天的话题。"
+    },
+    {
+      "id": 6,
+      "en": "So, Marco, take it away.",
+      "cn": "Marco，你来吧。"
+    },
+    {
+      "id": 7,
+      "en": "We are actually having a small fight at the office.",
+      "cn": "我们实际上在办公室有点小争吵。"
+    },
+    {
+      "id": 8,
+      "en": "Somebody or a co-worker is annoying us.",
+      "cn": "有人或同事在烦我们。"
+    },
+    {
+      "id": 9,
+      "en": "So, you know, sometimes co-workers, you see them every day, they're doing something that's maybe getting on your nerves.",
+      "cn": "有时候，同事每天都见面，他们做的事情可能会让你感到烦躁。"
+    },
+    {
+      "id": 10,
+      "en": "And you practically live together because you're with each other for eight, nine, ten hours every day.",
+      "cn": "你几乎是和他们一起生活，因为每天要待八、九、十个小时。"
+    },
+    {
+      "id": 11,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 12,
+      "en": "So, that's what we're going to be looking at today, some language related to this topic.",
+      "cn": "所以，今天我们要讨论的就是与这个话题相关的一些语言。"
+    },
+    {
+      "id": 13,
+      "en": "So, let's listen to the dialogue for the first time.",
+      "cn": "现在，让我们第一次听这个对话。"
+    },
+    {
+      "id": 14,
+      "en": "Hey, Mary, can you cut that out?",
+      "cn": "嘿，Mary，你能别这样吗？"
+    },
+    {
+      "id": 15,
+      "en": "Cut what out?",
+      "cn": "别什么？"
+    },
+    {
+      "id": 16,
+      "en": "I'm not doing anything.",
+      "cn": "我什么都没做。"
+    },
+    {
+      "id": 17,
+      "en": "The tapping of your pen on your desk, it's driving me crazy.",
+      "cn": "你在桌子上敲笔的声音让我快疯了。"
+    },
+    {
+      "id": 18,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 19,
+      "en": "By the way, would you mind not slurping your coffee every time you have a cup?",
+      "cn": "顺便问一下，你能不能每次喝咖啡的时候别发出啧啧声？"
+    },
+    {
+      "id": 20,
+      "en": "I don't slurp my coffee.",
+      "cn": "我没有啧啧声。"
+    },
+    {
+      "id": 21,
+      "en": "And plus, how can you hear it when you're shouting into your phone all the time?",
+      "cn": "而且，你怎么能听到呢，你一直在对着电话大喊？"
+    },
+    {
+      "id": 22,
+      "en": "You've got to be kidding me.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 23,
+      "en": "You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze?",
+      "cn": "你在抱怨我打电话，而你一天要出去抽十次烟聊天？"
+    },
+    {
+      "id": 24,
+      "en": "Look, we have a lot of accumulated anger from working in these conditions.",
+      "cn": "听着，我们在这种环境下积累了很多愤怒。"
+    },
+    {
+      "id": 25,
+      "en": "And it's probably okay to let off steam once in a while.",
+      "cn": "偶尔发泄一下可能没问题。"
+    },
+    {
+      "id": 26,
+      "en": "But it's probably not a good idea to keep it up.",
+      "cn": "但持续下去可能不是个好主意。"
+    },
+    {
+      "id": 27,
+      "en": "I'm willing to forgive and forget if you are.",
+      "cn": "如果你愿意，我愿意原谅并忘记。"
+    },
+    {
+      "id": 28,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 29,
+      "en": "Let's call a truce.",
+      "cn": "我们达成休战吧。"
+    },
+    {
+      "id": 30,
+      "en": "I'll try to be more considerate and keep the noise down.",
+      "cn": "我会尽量更体贴，降低噪音。"
+    },
+    {
+      "id": 31,
+      "en": "Yeah, I'll try to do the same.",
+      "cn": "是的，我也会尽量做到。"
+    },
+    {
+      "id": 32,
+      "en": "So, I was wondering, do you want to go out to dinner Friday night?",
+      "cn": "所以，我在想，你想周五晚上出去吃晚餐吗？"
+    },
+    {
+      "id": 33,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 34,
+      "en": "So, yeah, I think this is a common situation, right?",
+      "cn": "所以，是的，我觉得这是一个常见的情况，对吧？"
+    },
+    {
+      "id": 35,
+      "en": "So common, this might even be based on our own lives.",
+      "cn": "这么常见，这甚至可能基于我们的生活。"
+    },
+    {
+      "id": 36,
+      "en": "It is.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 37,
+      "en": "You may not know, but Catherine and I get into fights all the time.",
+      "cn": "你可能不知道，但Catherine和我总是吵架。"
+    },
+    {
+      "id": 38,
+      "en": "No, not really.",
+      "cn": "不，实际上不是。"
+    },
+    {
+      "id": 39,
+      "en": "All right, so I think there was some interesting words here, but mostly phrases.",
+      "cn": "好吧，我觉得这里有一些有趣的词，但主要是短语。"
+    },
+    {
+      "id": 40,
+      "en": "So, let's start with the words first.",
+      "cn": "所以，我们先从单词开始。"
+    },
+    {
+      "id": 41,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 42,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 43,
+      "en": "All right, so the first word, as you might have guessed, has to do with eating and drinking.",
+      "cn": "好吧，第一个词，正如你可能猜到的，和吃喝有关。"
+    },
+    {
+      "id": 44,
+      "en": "This is called slurping.",
+      "cn": "这个叫做啧啧声。"
+    },
+    {
+      "id": 45,
+      "en": "To slurp.",
+      "cn": "啧啧。"
+    },
+    {
+      "id": 46,
+      "en": "To slurp.",
+      "cn": "啧啧。"
+    },
+    {
+      "id": 47,
+      "en": "So, the noun, the thing is slurping.",
+      "cn": "所以，名词是啧啧声。"
+    },
+    {
+      "id": 48,
+      "en": "And it's very common with people who eat their food quickly.",
+      "cn": "这在快速吃东西的人中很常见。"
+    },
+    {
+      "id": 49,
+      "en": "Like soup.",
+      "cn": "比如汤。"
+    },
+    {
+      "id": 50,
+      "en": "Yeah, soup, or, you know... Noodles.",
+      "cn": "是的，汤，或者，你知道的……面条。"
+    },
+    {
+      "id": 51,
+      "en": "Yeah, or when they're eating soup noodles.",
+      "cn": "是的，或者当他们吃汤面的时候。"
+    },
+    {
+      "id": 52,
+      "en": "Or sometimes when you have a drink and you're drinking it through a straw, towards the end, you're just, like, trying to get the very last part at the bottom.",
+      "cn": "或者有时当你喝饮料，通过吸管喝到最后时，你只是想把底部的最后一部分吸出来。"
+    },
+    {
+      "id": 53,
+      "en": "So, yeah, the straw slurps.",
+      "cn": "所以，是的，吸管会发出啧啧声。"
+    },
+    {
+      "id": 54,
+      "en": "Yeah, so slurping, some people really can't stand it.",
+      "cn": "是的，所以啧啧声，有些人真的受不了。"
+    },
+    {
+      "id": 55,
+      "en": "Sometimes you don't even notice that you're doing it.",
+      "cn": "有时你甚至没有注意到自己在做这件事。"
+    },
+    {
+      "id": 56,
+      "en": "No, absolutely not.",
+      "cn": "不，绝对不是。"
+    },
+    {
+      "id": 57,
+      "en": "All right, so apart from slurping, what else do we have?",
+      "cn": "好吧，除了啧啧声，我们还有什么？"
+    },
+    {
+      "id": 58,
+      "en": "We've got a great word here.",
+      "cn": "我们有一个很好的词。"
+    },
+    {
+      "id": 59,
+      "en": "Accumulated.",
+      "cn": "积累。"
+    },
+    {
+      "id": 60,
+      "en": "So, a lot of accumulated anger.",
+      "cn": "所以，很多积累的愤怒。"
+    },
+    {
+      "id": 61,
+      "en": "The word is a verb.",
+      "cn": "这个词是动词。"
+    },
+    {
+      "id": 62,
+      "en": "To accumulate.",
+      "cn": "积累。"
+    },
+    {
+      "id": 63,
+      "en": "And what does that mean?",
+      "cn": "那是什么意思？"
+    },
+    {
+      "id": 64,
+      "en": "It means to kind of grow or to become more and more, all right?",
+      "cn": "意思是有点增长或变得越来越多，好吗？"
+    },
+    {
+      "id": 65,
+      "en": "So, you're, like, saving it.",
+      "cn": "所以，你就像在保存它。"
+    },
+    {
+      "id": 66,
+      "en": "Or even it's, like, building up.",
+      "cn": "或者甚至是像在堆积。"
+    },
+    {
+      "id": 67,
+      "en": "You know, we say this oftentimes in Chicago, where it snows a lot in the winter, that there's a foot of snow accumulated on the ground.",
+      "cn": "你知道，我们常常在芝加哥说，冬天下很多雪，地上积累了一英尺的雪。"
+    },
+    {
+      "id": 68,
+      "en": "That means there's a lot of snow.",
+      "cn": "这意味着有很多雪。"
+    },
+    {
+      "id": 69,
+      "en": "And every time it snows, it keeps getting bigger.",
+      "cn": "每次下雪，它都会越来越多。"
+    },
+    {
+      "id": 70,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 71,
+      "en": "So, to accumulate.",
+      "cn": "所以，积累。"
+    },
+    {
+      "id": 72,
+      "en": "So, accumulated anger, your anger is getting bigger and bigger.",
+      "cn": "所以，积累的愤怒，你的愤怒越来越大。"
+    },
+    {
+      "id": 73,
+      "en": "Right, because you never tell anyone about your anger.",
+      "cn": "对，因为你从来没有告诉任何人你的愤怒。"
+    },
+    {
+      "id": 74,
+      "en": "So, it keeps building and it keeps piling up.",
+      "cn": "所以，它不断积累。"
+    },
+    {
+      "id": 75,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 76,
+      "en": "Well, towards the end, they said, well, let's call a truce.",
+      "cn": "在最后，他们说，嗯，让我们达成休战。"
+    },
+    {
+      "id": 77,
+      "en": "So, they want to call a truce.",
+      "cn": "所以，他们想达成休战。"
+    },
+    {
+      "id": 78,
+      "en": "All right, a truce is another word for a peace.",
+      "cn": "好吧，休战是和平的另一种说法。"
+    },
+    {
+      "id": 79,
+      "en": "And so, this is a way that you can stop fighting and say that you and I have been fighting for a long time.",
+      "cn": "所以，这是一种停止争吵的方式，表示你和我已经争吵很久了。"
+    },
+    {
+      "id": 80,
+      "en": "And we may not come to a deal, but we'll say, truce, from now on, we just won't fight.",
+      "cn": "我们可能不会达成协议，但我们会说，休战，从现在开始，我们就不再争吵。"
+    },
+    {
+      "id": 81,
+      "en": "Won't fight about it.",
+      "cn": "不会再争吵。"
+    },
+    {
+      "id": 82,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 83,
+      "en": "Brothers and sisters often call truces.",
+      "cn": "兄弟姐妹们经常会达成休战。"
+    },
+    {
+      "id": 84,
+      "en": "Truce.",
+      "cn": "休战。"
+    },
+    {
+      "id": 85,
+      "en": "And, well, if you're calling a truce, you're trying to be more considerate.",
+      "cn": "而且，如果你在达成休战，你就是在努力变得更体贴。"
+    },
+    {
+      "id": 86,
+      "en": "Okay, considerate, like you're saying, is a way to be or a way to act.",
+      "cn": "好吧，体贴，就像你说的，是一种行为方式。"
+    },
+    {
+      "id": 87,
+      "en": "And considerate often has to do with how you act towards other people.",
+      "cn": "而体贴通常与你对待他人的方式有关。"
+    },
+    {
+      "id": 88,
+      "en": "So, it's being nice to other people or thinking about other people's feelings before yourself.",
+      "cn": "所以，善待他人或在自己之前考虑他人的感受。"
+    },
+    {
+      "id": 89,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 90,
+      "en": "So, if you're considerate, then you are maybe more polite.",
+      "cn": "所以，如果你体贴，那么你可能更有礼貌。"
+    },
+    {
+      "id": 91,
+      "en": "You think about the other person's feelings before you do anything.",
+      "cn": "你在做任何事情之前考虑对方的感受。"
+    },
+    {
+      "id": 92,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 93,
+      "en": "You just say nice little things like, please, and thank you, and I'm sorry.",
+      "cn": "你只需说一些礼貌的话，比如，请、谢谢和对不起。"
+    },
+    {
+      "id": 94,
+      "en": "And these things are all ways of being considerate.",
+      "cn": "这些都是体贴的表现。"
+    },
+    {
+      "id": 95,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 96,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 97,
+      "en": "So, four great words on language takeaway.",
+      "cn": "所以，四个很好的语言要点。"
+    },
+    {
+      "id": 98,
+      "en": "Why don't we move on now to fluency builder?",
+      "cn": "我们现在为什么不继续进行流利度训练呢？"
+    },
+    {
+      "id": 99,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 100,
+      "en": "So, as we mentioned, this dialogue is very, very rich in a lot of different phrases.",
+      "cn": "正如我们提到的，这个对话在很多不同的短语中非常丰富。"
+    },
+    {
+      "id": 101,
+      "en": "So, let's start with a couple of them.",
+      "cn": "那么，我们先从几个短语开始。"
+    },
+    {
+      "id": 102,
+      "en": "The very first one and the title of the lesson.",
+      "cn": "第一个也是课程的标题。"
+    },
+    {
+      "id": 103,
+      "en": "Cut it out.",
+      "cn": "别这样。"
+    },
+    {
+      "id": 104,
+      "en": "Cut that out.",
+      "cn": "别那样。"
+    },
+    {
+      "id": 105,
+      "en": "Hey, Mary, can you cut that out?",
+      "cn": "嘿，玛丽，你能别那样吗？"
+    },
+    {
+      "id": 106,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 107,
+      "en": "So, you're not actually saying to cut something with scissors or something.",
+      "cn": "所以，你并不是在说用剪刀剪什么。"
+    },
+    {
+      "id": 108,
+      "en": "No, this is... it's a way of saying, can you stop that?",
+      "cn": "不，这是一种说法，意思是你能停下来吗？"
+    },
+    {
+      "id": 109,
+      "en": "Stop it.",
+      "cn": "停止。"
+    },
+    {
+      "id": 110,
+      "en": "Stop doing that.",
+      "cn": "别再这样做。"
+    },
+    {
+      "id": 111,
+      "en": "Stop it.",
+      "cn": "停止。"
+    },
+    {
+      "id": 112,
+      "en": "Quit it.",
+      "cn": "住手。"
+    },
+    {
+      "id": 113,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 114,
+      "en": "Cut that out.",
+      "cn": "别那样。"
+    },
+    {
+      "id": 115,
+      "en": "Cut it out.",
+      "cn": "别这样。"
+    },
+    {
+      "id": 116,
+      "en": "So, if someone's doing something that's really annoying to you, it's not very nice to say, but you can say, hey, cut that out.",
+      "cn": "所以，如果有人做的事情让你很烦，虽然说得不太好，但你可以说，嘿，别那样。"
+    },
+    {
+      "id": 117,
+      "en": "Cut it out.",
+      "cn": "别这样。"
+    },
+    {
+      "id": 118,
+      "en": "Or if someone's doing something mean to someone, like my brother used to hit me, my mom would say, Peter, cut that out.",
+      "cn": "或者如果有人对别人很刻薄，比如我哥哥以前打我，我妈妈会说，彼得，别这样。"
+    },
+    {
+      "id": 119,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 120,
+      "en": "So, it is a good mom phrase as well.",
+      "cn": "所以，这也是一个好妈妈的短语。"
+    },
+    {
+      "id": 121,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 122,
+      "en": "Moving on to our next phrase.",
+      "cn": "继续我们的下一个短语。"
+    },
+    {
+      "id": 123,
+      "en": "The guy said that the tapping on the desk was driving him crazy.",
+      "cn": "那个家伙说敲桌子的声音让他快疯了。"
+    },
+    {
+      "id": 124,
+      "en": "It's driving me crazy.",
+      "cn": "这让我快疯了。"
+    },
+    {
+      "id": 125,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 126,
+      "en": "To drive someone crazy means to make someone just feel like they're going nuts.",
+      "cn": "让某人疯狂的意思是让某人感觉快要发疯。"
+    },
+    {
+      "id": 127,
+      "en": "Or, you know, just it makes you kind of angry or frustrated or tense.",
+      "cn": "或者，让你感到愤怒、沮丧或紧张。"
+    },
+    {
+      "id": 128,
+      "en": "But it can also be used like in a romantic sense, right?",
+      "cn": "但它也可以在浪漫的意义上使用，对吧？"
+    },
+    {
+      "id": 129,
+      "en": "That girl drives me crazy.",
+      "cn": "那个女孩让我疯狂。"
+    },
+    {
+      "id": 130,
+      "en": "It means like he can't even think about anything else.",
+      "cn": "这意味着他根本无法想其他事情。"
+    },
+    {
+      "id": 131,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 132,
+      "en": "So, in this case, what drives you crazy?",
+      "cn": "那么，在这种情况下，是什么让你疯狂？"
+    },
+    {
+      "id": 133,
+      "en": "When... I'll tell you what drives me crazy.",
+      "cn": "当... 我告诉你是什么让我疯狂。"
+    },
+    {
+      "id": 134,
+      "en": "When people clip their fingernails and toenails at the office.",
+      "cn": "当人们在办公室剪指甲和脚趾甲。"
+    },
+    {
+      "id": 135,
+      "en": "Can't believe it.",
+      "cn": "真不敢相信。"
+    },
+    {
+      "id": 136,
+      "en": "Well, it drives me crazy.",
+      "cn": "嗯，这让我疯狂。"
+    },
+    {
+      "id": 137,
+      "en": "Like, for example, when somebody or my brother leaves his clothes lying on the floor in the living room.",
+      "cn": "比如，当有人或我哥哥把衣服扔在客厅的地板上。"
+    },
+    {
+      "id": 138,
+      "en": "That's annoying too.",
+      "cn": "这也很烦。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 140,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 141,
+      "en": "So, that drives me crazy.",
+      "cn": "所以，这让我疯狂。"
+    },
+    {
+      "id": 142,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 143,
+      "en": "So, moving on to our third phrase.",
+      "cn": "继续我们的第三个短语。"
+    },
+    {
+      "id": 144,
+      "en": "This is a pretty big one, but take it as a whole.",
+      "cn": "这是一个相当重要的短语，但要整体理解。"
+    },
+    {
+      "id": 145,
+      "en": "You've got to be kidding me.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 146,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 147,
+      "en": "So, this is, as you said, a fixed phrase.",
+      "cn": "所以，这正如你所说，是一个固定短语。"
+    },
+    {
+      "id": 148,
+      "en": "These words usually go together and it is a perfect example of sarcasm.",
+      "cn": "这些词通常是一起使用的，是讽刺的完美例子。"
+    },
+    {
+      "id": 149,
+      "en": "So, it's a way... The way you say it is very important.",
+      "cn": "所以，表达的方式非常重要。"
+    },
+    {
+      "id": 150,
+      "en": "So, I could say, you've got to be kidding me.",
+      "cn": "我可以说，你在开玩笑吧。"
+    },
+    {
+      "id": 151,
+      "en": "What's a good situation for this?",
+      "cn": "这种情况有什么好例子？"
+    },
+    {
+      "id": 152,
+      "en": "Maybe I get to the airport and I'm running late and I'm really happy that I get there on time.",
+      "cn": "也许我到达机场时已经迟到了，我很高兴按时到达。"
+    },
+    {
+      "id": 153,
+      "en": "And then I see the flight is delayed seven hours.",
+      "cn": "然后我看到航班延误了七个小时。"
+    },
+    {
+      "id": 154,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 155,
+      "en": "You've got to be kidding me.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 156,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 157,
+      "en": "So, it's a way of saying I can't believe it.",
+      "cn": "所以，这是一种说我不敢相信的方式。"
+    },
+    {
+      "id": 158,
+      "en": "Or seriously, this isn't...",
+      "cn": "或者说，真的，这不是..."
+    },
+    {
+      "id": 159,
+      "en": "What's happening?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 160,
+      "en": "Or what bad luck?",
+      "cn": "或者真倒霉？"
+    },
+    {
+      "id": 161,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 162,
+      "en": "So, it is a sarcastic phrase, but use it as a whole.",
+      "cn": "所以，这是一个讽刺的短语，但要整体使用。"
+    },
+    {
+      "id": 163,
+      "en": "Usually, you don't change the subject.",
+      "cn": "通常，你不会改变主语。"
+    },
+    {
+      "id": 164,
+      "en": "You don't say, you've got to be kidding him.",
+      "cn": "你不会说，你在开玩笑他。"
+    },
+    {
+      "id": 165,
+      "en": "No, it's always this.",
+      "cn": "不，总是这样。"
+    },
+    {
+      "id": 166,
+      "en": "You've got to be kidding me.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 167,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 168,
+      "en": "Or, you've got to be kidding me.",
+      "cn": "或者，你在开玩笑吧。"
+    },
+    {
+      "id": 169,
+      "en": "See?",
+      "cn": "明白了吗？"
+    },
+    {
+      "id": 170,
+      "en": "Different meanings with different inflections.",
+      "cn": "不同的语调有不同的意思。"
+    },
+    {
+      "id": 171,
+      "en": "Different inflections.",
+      "cn": "不同的语调。"
+    },
+    {
+      "id": 172,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 173,
+      "en": "What's our next phrase?",
+      "cn": "我们下一个短语是什么？"
+    },
+    {
+      "id": 174,
+      "en": "Our next phrase is a good one because it doesn't mean what it sounds like, okay?",
+      "cn": "我们下一个短语很好，因为它的意思与听起来的不一样，好吗？"
+    },
+    {
+      "id": 175,
+      "en": "So, to shoot the breeze, all right?",
+      "cn": "所以，闲聊，好吗？"
+    },
+    {
+      "id": 176,
+      "en": "Shoot means like you can shoot a gun and breeze is like the wind.",
+      "cn": "射击意味着你可以开枪，微风就像风。"
+    },
+    {
+      "id": 177,
+      "en": "But here, to shoot the breeze is to have a nice little conversation, just to talk about nothing.",
+      "cn": "但在这里，闲聊是指进行一次愉快的小谈话，只是聊聊无关紧要的事情。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, so not really do anything, just talk a little bit.",
+      "cn": "好吧，所以并不是真的做什么，只是聊聊。"
+    },
+    {
+      "id": 179,
+      "en": "Right, so if we think about this in the context of this sentence, it's, you know, you go out for your cigarette break 10 times a day to shoot the breeze.",
+      "cn": "对，所以如果我们在这个句子的上下文中考虑，就是，你知道，你每天抽十次烟去闲聊。"
+    },
+    {
+      "id": 180,
+      "en": "So, this means you go outside, you just talk about nothing and whatever, and it's almost like you're wasting time just talking.",
+      "cn": "所以，这意味着你出去，只是聊聊无关紧要的事情，几乎就像是在浪费时间。"
+    },
+    {
+      "id": 181,
+      "en": "Okay, so shooting the breeze.",
+      "cn": "好吧，所以闲聊。"
+    },
+    {
+      "id": 182,
+      "en": "You can say, oh, we were just shooting the breeze.",
+      "cn": "你可以说，哦，我们只是闲聊。"
+    },
+    {
+      "id": 183,
+      "en": "Just have a nice little conversation, nothing important.",
+      "cn": "只是进行一次愉快的小谈话，没什么重要的。"
+    },
+    {
+      "id": 184,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 185,
+      "en": "And our last phrase for today, forgive and forget.",
+      "cn": "我们今天的最后一个短语，原谅和忘记。"
+    },
+    {
+      "id": 186,
+      "en": "Let's forgive and forget.",
+      "cn": "让我们原谅和忘记。"
+    },
+    {
+      "id": 187,
+      "en": "Let's forgive and forget.",
+      "cn": "让我们原谅和忘记。"
+    },
+    {
+      "id": 188,
+      "en": "These words, again, like the last phrases, go together.",
+      "cn": "这些词，和之前的短语一样，是一起使用的。"
+    },
+    {
+      "id": 189,
+      "en": "Forgive and forget.",
+      "cn": "原谅和忘记。"
+    },
+    {
+      "id": 190,
+      "en": "So, I could say this to you, Marco.",
+      "cn": "所以，我可以对你说，马尔科。"
+    },
+    {
+      "id": 191,
+      "en": "I say, I know you've been fighting with your brother for 10 years.",
+      "cn": "我说，我知道你和你哥哥争吵了十年。"
+    },
+    {
+      "id": 192,
+      "en": "I say, finally, just forgive and forget.",
+      "cn": "我说，最后，原谅和忘记吧。"
+    },
+    {
+      "id": 193,
+      "en": "That means just put everything behind you and try and start again.",
+      "cn": "这意味着把一切抛在脑后，尝试重新开始。"
+    },
+    {
+      "id": 194,
+      "en": "Okay, let it go.",
+      "cn": "好吧，放下。"
+    },
+    {
+      "id": 195,
+      "en": "Yeah, forgive the person, forget about it, move on.",
+      "cn": "是的，原谅那个人，忘掉它，继续前进。"
+    },
+    {
+      "id": 196,
+      "en": "Okay, forgive and forget.",
+      "cn": "好吧，原谅和忘记。"
+    },
+    {
+      "id": 197,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 198,
+      "en": "So, very interesting phrases.",
+      "cn": "所以，非常有趣的短语。"
+    },
+    {
+      "id": 199,
+      "en": "I think they're very useful and this is very colloquial English, right?",
+      "cn": "我认为它们非常有用，这些都是非常口语化的英语，对吧？"
+    },
+    {
+      "id": 200,
+      "en": "Absolutely.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 201,
+      "en": "This is stuff that you're going to hear all the time, but maybe not all together at the same time.",
+      "cn": "这些是你会经常听到的东西，但可能不会同时听到。"
+    },
+    {
+      "id": 202,
+      "en": "Definitely, though, very helpful for interacting with foreign friends and colleagues.",
+      "cn": "当然，这对与外国朋友和同事互动非常有帮助。"
+    },
+    {
+      "id": 203,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 204,
+      "en": "So, let's listen to the dialogue for the last time and we'll be right back.",
+      "cn": "那么，让我们最后一次听对话，我们马上回来。"
+    },
+    {
+      "id": 205,
+      "en": "Hey, Mary, can you cut that out?",
+      "cn": "嘿，玛丽，你能不这样吗？"
+    },
+    {
+      "id": 206,
+      "en": "Cut what out?",
+      "cn": "不这样做什么？"
+    },
+    {
+      "id": 207,
+      "en": "I'm not doing anything.",
+      "cn": "我什么都没做。"
+    },
+    {
+      "id": 208,
+      "en": "The tapping of your pen on your desk, it's driving me crazy.",
+      "cn": "你在桌子上敲笔的声音让我快疯了。"
+    },
+    {
+      "id": 209,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 210,
+      "en": "By the way, would you mind not slurping your coffee every time you have a cup?",
+      "cn": "顺便问一下，你能不能每次喝咖啡时不要发出吸吮声？"
+    },
+    {
+      "id": 211,
+      "en": "I don't slurp my coffee.",
+      "cn": "我不吸吮我的咖啡。"
+    },
+    {
+      "id": 212,
+      "en": "And plus, how can you hear it when you're shouting into your phone all the time?",
+      "cn": "而且，你怎么能听到呢，你一直在对着电话大喊？"
+    },
+    {
+      "id": 213,
+      "en": "You've got to be kidding me.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 214,
+      "en": "You're complaining about me talking on the phone when you go out for a cigarette break 10 times a day to shoot the breeze?",
+      "cn": "你在抱怨我打电话，而你一天要出去抽十次烟聊天？"
+    },
+    {
+      "id": 215,
+      "en": "Look, we have a lot of accumulated anger from working in these conditions.",
+      "cn": "听着，我们在这种环境下工作积累了很多愤怒。"
+    },
+    {
+      "id": 216,
+      "en": "And it's probably okay to let off steam once in a while.",
+      "cn": "偶尔发泄一下可能没问题。"
+    },
+    {
+      "id": 217,
+      "en": "But it's probably not a good idea to keep it up.",
+      "cn": "但持续这样可能不是个好主意。"
+    },
+    {
+      "id": 218,
+      "en": "I'm willing to forgive and forget if you are.",
+      "cn": "如果你愿意，我愿意原谅并忘记。"
+    },
+    {
+      "id": 219,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 220,
+      "en": "Let's call a truce.",
+      "cn": "我们达成休战。"
+    },
+    {
+      "id": 221,
+      "en": "I'll try to be more considerate and keep the noise down.",
+      "cn": "我会尽量更体贴，保持安静。"
+    },
+    {
+      "id": 222,
+      "en": "Yeah, I'll try to do the same.",
+      "cn": "是的，我也会尽量这样做。"
+    },
+    {
+      "id": 223,
+      "en": "So, I was wondering.",
+      "cn": "所以，我在想。"
+    },
+    {
+      "id": 224,
+      "en": "You want to go out to dinner Friday night?",
+      "cn": "你想周五晚上出去吃晚餐吗？"
+    },
+    {
+      "id": 225,
+      "en": "So, did you ever see the TV show Full House when you were a kid?",
+      "cn": "那么，你小时候看过《满屋》这个电视节目吗？"
+    },
+    {
+      "id": 226,
+      "en": "I did.",
+      "cn": "看过。"
+    },
+    {
+      "id": 227,
+      "en": "I did.",
+      "cn": "看过。"
+    },
+    {
+      "id": 228,
+      "en": "It was a popular...",
+      "cn": "这是个受欢迎的..."
+    },
+    {
+      "id": 229,
+      "en": "With the Olsen twins and all those, right?",
+      "cn": "有奥尔森双胞胎和那些人，对吧？"
+    },
+    {
+      "id": 230,
+      "en": "Yeah, and Bob Saget.",
+      "cn": "是的，还有鲍勃·萨盖特。"
+    },
+    {
+      "id": 231,
+      "en": "So, there was an uncle on the show, Uncle Joey.",
+      "cn": "所以，节目里有个叔叔，乔伊叔叔。"
+    },
+    {
+      "id": 232,
+      "en": "And he always used to say, cut it out.",
+      "cn": "他总是说，别这样。"
+    },
+    {
+      "id": 233,
+      "en": "And he had like hand motions for it.",
+      "cn": "他还有手势。"
+    },
+    {
+      "id": 234,
+      "en": "And so, cut it out is a way to say kind of stop it, quit it.",
+      "cn": "所以，别这样就是一种停止、停止的说法。"
+    },
+    {
+      "id": 235,
+      "en": "You're killing me.",
+      "cn": "你让我受不了。"
+    },
+    {
+      "id": 236,
+      "en": "It's like he was saying, too funny.",
+      "cn": "就像他说，太搞笑了。"
+    },
+    {
+      "id": 237,
+      "en": "And so, whenever I hear this phrase, I always think of that early 90s TV show.",
+      "cn": "所以，每当我听到这个短语时，我总是想起那个90年代初的电视节目。"
+    },
+    {
+      "id": 238,
+      "en": "Very early 90s.",
+      "cn": "非常早的90年代。"
+    },
+    {
+      "id": 239,
+      "en": "Well, this whole situation with The Office as well.",
+      "cn": "嗯，这整个《办公室》的情况也是。"
+    },
+    {
+      "id": 240,
+      "en": "I think there was a TV show called The Office, right?",
+      "cn": "我想有个叫《办公室》的电视节目，对吧？"
+    },
+    {
+      "id": 241,
+      "en": "Yeah, there was the British Office and then there was an American version.",
+      "cn": "是的，有英国版《办公室》，还有美国版。"
+    },
+    {
+      "id": 242,
+      "en": "And it's also something about office life and how colleagues get on each other's nerves and they play pranks on each other and everyone's kind of weird.",
+      "cn": "这也是关于办公室生活的，讲同事之间如何互相烦扰，互相恶作剧，每个人都有点奇怪。"
+    },
+    {
+      "id": 243,
+      "en": "And everyone drives everyone else crazy.",
+      "cn": "每个人都让其他人疯狂。"
+    },
+    {
+      "id": 244,
+      "en": "No, it's funny because once you start working in an office full-time, I mean, everyone's maybe had a little bit of office experience, but when it's full-time, you spend more time with your colleagues than you do with your family.",
+      "cn": "不，这很有趣，因为一旦你开始全职在办公室工作，我的意思是，每个人可能都有一点办公室经验，但当是全职时，你和同事在一起的时间比和家人还多。"
+    },
+    {
+      "id": 245,
+      "en": "It's really amazing what makes you crazy, what drives you crazy, and what stuff just doesn't matter.",
+      "cn": "真的很神奇，是什么让你疯狂，是什么让你发疯，什么事情根本不重要。"
+    },
+    {
+      "id": 246,
+      "en": "So, this is an interesting topic.",
+      "cn": "所以，这是个有趣的话题。"
+    },
+    {
+      "id": 247,
+      "en": "We really want to hear from you guys.",
+      "cn": "我们真的想听听你们的意见。"
+    },
+    {
+      "id": 248,
+      "en": "Many of you probably work at an office, so tell us.",
+      "cn": "你们中的许多人可能在办公室工作，所以告诉我们。"
+    },
+    {
+      "id": 249,
+      "en": "So, come and tell us what drives you crazy.",
+      "cn": "所以，来告诉我们是什么让你疯狂。"
+    },
+    {
+      "id": 250,
+      "en": "Maybe what colleague is driving you mad.",
+      "cn": "也许是什么同事让你发疯。"
+    },
+    {
+      "id": 251,
+      "en": "You don't have to use names.",
+      "cn": "你不必使用名字。"
+    },
+    {
+      "id": 252,
+      "en": "You can just use nicknames if you want.",
+      "cn": "如果你愿意，可以用昵称。"
+    },
+    {
+      "id": 253,
+      "en": "Right, so we'll be waiting for you at EnglishPod.com.",
+      "cn": "对，所以我们在EnglishPod.com等你。"
+    },
+    {
+      "id": 254,
+      "en": "Leave questions and comments and we'll see you guys next time.",
+      "cn": "留下问题和评论，我们下次见。"
+    },
+    {
+      "id": 255,
+      "en": "Yep, bye everyone.",
+      "cn": "是的，大家再见。"
+    }
+  ]
+}

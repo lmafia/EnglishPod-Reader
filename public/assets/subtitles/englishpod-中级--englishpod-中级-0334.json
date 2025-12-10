@@ -1,0 +1,894 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0334",
+  "title": "EnglishPod 中级 0334",
+  "totalSegments": 177,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine and today we're talking a little bit about Smalltalk.",
+      "cn": "我叫Catherine，今天我们要聊聊闲聊。"
+    },
+    {
+      "id": 4,
+      "en": "That's right, we are getting towards the end of our series.",
+      "cn": "没错，我们的系列快结束了。"
+    },
+    {
+      "id": 5,
+      "en": "Actually, this is the last podcast that we will have all about Smalltalk and we're just going to be following Mr. Campbell and Michelle and Melissa and they're just going to talk very briefly about the weather, about traveling, very casual things.",
+      "cn": "其实，这是我们关于闲聊的最后一期播客，我们将跟随Campbell先生、Michelle和Melissa，他们将简短地谈谈天气、旅行等非常随意的事情。"
+    },
+    {
+      "id": 6,
+      "en": "That's right, so let's take a listen to this dialogue and we'll be back in a moment to discuss what's going on.",
+      "cn": "没错，让我们来听听这个对话，稍后我们会回来讨论发生了什么。"
+    },
+    {
+      "id": 7,
+      "en": "Hi ladies, thanks for picking me up.",
+      "cn": "嗨，女士们，谢谢你们来接我。"
+    },
+    {
+      "id": 8,
+      "en": "It's awful weather out there.",
+      "cn": "外面的天气真糟糕。"
+    },
+    {
+      "id": 9,
+      "en": "Absolutely.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 10,
+      "en": "It's been raining for hours.",
+      "cn": "已经下了好几个小时的雨。"
+    },
+    {
+      "id": 11,
+      "en": "How are you, Melissa?",
+      "cn": "你好吗，Melissa？"
+    },
+    {
+      "id": 12,
+      "en": "Are you okay?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 13,
+      "en": "I'm great thanks, Mr. Campbell.",
+      "cn": "我很好，谢谢，Campbell先生。"
+    },
+    {
+      "id": 14,
+      "en": "Do you have any business trips planned in, Mr. Campbell?",
+      "cn": "Campbell先生，您有计划的商务旅行吗？"
+    },
+    {
+      "id": 15,
+      "en": "Of course, I'm always traveling.",
+      "cn": "当然，我总是在旅行。"
+    },
+    {
+      "id": 16,
+      "en": "I'll leave for London next Monday and then I'll fly to Boston from there.",
+      "cn": "我下周一要去伦敦，然后从那里飞往波士顿。"
+    },
+    {
+      "id": 17,
+      "en": "It's going to be a busy month.",
+      "cn": "这个月会很忙。"
+    },
+    {
+      "id": 18,
+      "en": "How about you, Michelle?",
+      "cn": "你呢，Michelle？"
+    },
+    {
+      "id": 19,
+      "en": "Do you have any vacation plans?",
+      "cn": "你有假期计划吗？"
+    },
+    {
+      "id": 20,
+      "en": "Yes, Mike and I will travel to Beijing to see Mike's parents for the Spring Festival and hopefully next year we will visit London.",
+      "cn": "是的，Mike和我将去北京看Mike的父母，庆祝春节，希望明年能去伦敦。"
+    },
+    {
+      "id": 21,
+      "en": "I hear it's a wonderful city.",
+      "cn": "我听说那是个美丽的城市。"
+    },
+    {
+      "id": 22,
+      "en": "I couldn't agree more.",
+      "cn": "我完全同意。"
+    },
+    {
+      "id": 23,
+      "en": "London is really fantastic.",
+      "cn": "伦敦真的很棒。"
+    },
+    {
+      "id": 24,
+      "en": "It's my favorite city.",
+      "cn": "这是我最喜欢的城市。"
+    },
+    {
+      "id": 25,
+      "en": "I'm sure you'll have a great time.",
+      "cn": "我相信你会玩得很开心。"
+    },
+    {
+      "id": 26,
+      "en": "Alright, we're back so now let's take a look at Language Takeaway.",
+      "cn": "好的，我们回来了，现在让我们看看语言要点。"
+    },
+    {
+      "id": 27,
+      "en": "Language Takeaway Alright, we don't have that much today in Language Takeaway but we do have a couple of really important words and phrases.",
+      "cn": "语言要点 好的，今天的语言要点不多，但我们有几个非常重要的单词和短语。"
+    },
+    {
+      "id": 28,
+      "en": "The first one comes from the very first line.",
+      "cn": "第一个来自第一句话。"
+    },
+    {
+      "id": 29,
+      "en": "Mr. Campbell says, hi ladies, thanks for picking me up.",
+      "cn": "Campbell先生说，嗨，女士们，谢谢你们来接我。"
+    },
+    {
+      "id": 30,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 31,
+      "en": "Now this phrasal verb, to pick someone up, means to get them, right?",
+      "cn": "这个短语动词“pick someone up”意思是接某人，对吗？"
+    },
+    {
+      "id": 32,
+      "en": "Yeah, to gather them, to collect them.",
+      "cn": "是的，去接他们，收集他们。"
+    },
+    {
+      "id": 33,
+      "en": "You can do this with a car.",
+      "cn": "你可以用车来做这件事。"
+    },
+    {
+      "id": 34,
+      "en": "Like, I will pick you up at the airport.",
+      "cn": "比如，我会在机场接你。"
+    },
+    {
+      "id": 35,
+      "en": "But you can also do it in person by just walking to a place and meeting somebody and then taking them somewhere else.",
+      "cn": "但你也可以亲自去某个地方见某人，然后带他们去别的地方。"
+    },
+    {
+      "id": 36,
+      "en": "That's the important part.",
+      "cn": "这就是重要的部分。"
+    },
+    {
+      "id": 37,
+      "en": "You take them somewhere else.",
+      "cn": "你把他们带到别的地方。"
+    },
+    {
+      "id": 38,
+      "en": "So maybe if you go pick your kids up from school, you just walk there, you get them and you walk back home.",
+      "cn": "所以也许如果你去学校接孩子，你只是走到那里，接他们，然后走回家。"
+    },
+    {
+      "id": 39,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 40,
+      "en": "And so the key here is that you remember that the verb goes, first I will pick, and then you have the person, I will pick you up.",
+      "cn": "所以这里的关键是你要记住动词的顺序，首先是“我会接”，然后是人，“我会接你”。"
+    },
+    {
+      "id": 41,
+      "en": "I will pick them up.",
+      "cn": "我会接他们。"
+    },
+    {
+      "id": 42,
+      "en": "He will pick us up.",
+      "cn": "他会接我们。"
+    },
+    {
+      "id": 43,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 44,
+      "en": "So the subject goes between pick and up.",
+      "cn": "所以主语在“pick”和“up”之间。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "Alright, so we're going to pick someone up.",
+      "cn": "好的，所以我们要去接某人。"
+    },
+    {
+      "id": 47,
+      "en": "And then Mr. Campbell comments on the weather.",
+      "cn": "然后Campbell先生评论天气。"
+    },
+    {
+      "id": 48,
+      "en": "He says, it's awful weather out there.",
+      "cn": "他说，外面的天气真糟糕。"
+    },
+    {
+      "id": 49,
+      "en": "It's awful.",
+      "cn": "真糟糕。"
+    },
+    {
+      "id": 50,
+      "en": "Alright, so awful, you listen to the tone, you automatically think that this is probably a bad thing.",
+      "cn": "好的，所以“糟糕”，你听到语气，自动会认为这可能是坏事。"
+    },
+    {
+      "id": 51,
+      "en": "And you're right, it is a bad thing.",
+      "cn": "你是对的，这确实是坏事。"
+    },
+    {
+      "id": 52,
+      "en": "But what's another way to say awful?",
+      "cn": "但还有什么其他方式可以说“糟糕”？"
+    },
+    {
+      "id": 53,
+      "en": "It's terrible, it's bad, it's horrible.",
+      "cn": "它是可怕的，坏的，糟糕的。"
+    },
+    {
+      "id": 54,
+      "en": "So awful is a way to say something's really bad.",
+      "cn": "所以“糟糕”是说某事真的很坏的一种方式。"
+    },
+    {
+      "id": 55,
+      "en": "And we use it very often with the weather.",
+      "cn": "我们经常用它来形容天气。"
+    },
+    {
+      "id": 56,
+      "en": "This weather is awful.",
+      "cn": "这个天气真糟糕。"
+    },
+    {
+      "id": 57,
+      "en": "But we can also use it about other things like food, for example.",
+      "cn": "但我们也可以用它来形容其他事情，比如食物。"
+    },
+    {
+      "id": 58,
+      "en": "So if you have something to eat and it doesn't taste good, you can say this is awful, what is this?",
+      "cn": "所以如果你吃的东西不好吃，你可以说这真糟糕，这是什么？"
+    },
+    {
+      "id": 59,
+      "en": "Or what's that awful smell?",
+      "cn": "或者那是什么可怕的味道？"
+    },
+    {
+      "id": 60,
+      "en": "Oh, Marco took his shoes off.",
+      "cn": "哦，Marco脱掉了他的鞋子。"
+    },
+    {
+      "id": 61,
+      "en": "Right, an awful smell.",
+      "cn": "对，真糟糕的味道。"
+    },
+    {
+      "id": 62,
+      "en": "Alright, and well, Mr. Campbell went on to tell them that he's taking another trip soon, but a specific kind of trip.",
+      "cn": "好的，Campbell先生接着告诉他们他很快要去另一个旅行，但是一种特定的旅行。"
+    },
+    {
+      "id": 63,
+      "en": "Alright, so you know that there are many different kinds of trips, but the one that he's taking is a business trip.",
+      "cn": "好的，你知道有很多不同种类的旅行，但他要去的是商务旅行。"
+    },
+    {
+      "id": 64,
+      "en": "So normally we could just say, I'm going on a trip next year.",
+      "cn": "所以通常我们可以说，我明年要去旅行。"
+    },
+    {
+      "id": 65,
+      "en": "But here we specify, we say it's a business trip.",
+      "cn": "但在这里我们具体说明，我们说这是一次商务旅行。"
+    },
+    {
+      "id": 66,
+      "en": "So what are we doing on this trip, Marco?",
+      "cn": "那么Marco，这次旅行我们要做什么？"
+    },
+    {
+      "id": 67,
+      "en": "So we're basically working.",
+      "cn": "所以我们基本上是在工作。"
+    },
+    {
+      "id": 68,
+      "en": "We're going because our company needs us to go to a meeting or to do some work abroad.",
+      "cn": "我们去是因为我们的公司需要我们去开会或在国外工作。"
+    },
+    {
+      "id": 69,
+      "en": "Alright, so you know on a business trip that you'll be doing work things, you'll be having meetings, you will not be going to Disney World, you will not be meeting with friends and going to movies, probably.",
+      "cn": "好的，所以你知道在商务旅行中你会做工作，开会，你不会去迪士尼乐园，也不会和朋友见面去看电影，可能。"
+    },
+    {
+      "id": 70,
+      "en": "Right, exactly.",
+      "cn": "对，没错。"
+    },
+    {
+      "id": 71,
+      "en": "So it's very different from a vacation.",
+      "cn": "所以这与假期非常不同。"
+    },
+    {
+      "id": 72,
+      "en": "A vacation, you go with the objective of going to these fun places.",
+      "cn": "假期，你去的目的是去这些有趣的地方。"
+    },
+    {
+      "id": 73,
+      "en": "So can I say, I'm going on a business vacation?",
+      "cn": "那我可以说，我要去商务假期吗？"
+    },
+    {
+      "id": 74,
+      "en": "No, you're either going on vacation or you're taking a business trip.",
+      "cn": "不，你要么去度假，要么去商务旅行。"
+    },
+    {
+      "id": 75,
+      "en": "Alright, business trip.",
+      "cn": "好的，商务旅行。"
+    },
+    {
+      "id": 76,
+      "en": "So now let's take a break and let's review our dialogue.",
+      "cn": "现在让我们休息一下，复习一下我们的对话。"
+    },
+    {
+      "id": 77,
+      "en": "Alright, so now I'm going to be going to London next Monday and then I'll fly to Boston from there.",
+      "cn": "好的，现在我下周一要去伦敦，然后从那里飞往波士顿。"
+    },
+    {
+      "id": 78,
+      "en": "It's going to be a busy month.",
+      "cn": "这个月会很忙。"
+    },
+    {
+      "id": 79,
+      "en": "How about you, Michelle?",
+      "cn": "你呢，Michelle？"
+    },
+    {
+      "id": 80,
+      "en": "Do you have any vacation plans?",
+      "cn": "你有假期计划吗？"
+    },
+    {
+      "id": 81,
+      "en": "Yes, Mike and I will travel to Beijing to see my experience for the Spring Festival and hopefully next year we will visit London.",
+      "cn": "是的，Mike和我将去北京看我的经历，庆祝春节，希望明年能去伦敦。"
+    },
+    {
+      "id": 82,
+      "en": "I hear it's a wonderful city.",
+      "cn": "我听说那是个美丽的城市。"
+    },
+    {
+      "id": 83,
+      "en": "I couldn't agree more.",
+      "cn": "我完全同意。"
+    },
+    {
+      "id": 84,
+      "en": "London is really fantastic.",
+      "cn": "伦敦真的很棒。"
+    },
+    {
+      "id": 85,
+      "en": "It's my favorite city.",
+      "cn": "这是我最喜欢的城市。"
+    },
+    {
+      "id": 86,
+      "en": "I'm sure you'll have a great time.",
+      "cn": "我相信你会玩得很开心。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, so now let's take a look at four key phrases on Fluency Builder.",
+      "cn": "好的，现在让我们看看流利构建器中的四个关键短语。"
+    },
+    {
+      "id": 88,
+      "en": "Alright, now we have a great phrase for everybody here in Fluency Builder.",
+      "cn": "好的，现在我们在流利构建器中有一个很好的短语。"
+    },
+    {
+      "id": 89,
+      "en": "Melissa is talking to Mr. Campbell and he asks her how she is.",
+      "cn": "Melissa正在和Campbell先生交谈，他问她她怎么样。"
+    },
+    {
+      "id": 90,
+      "en": "Are you okay?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 91,
+      "en": "And she says, I'm great, thanks.",
+      "cn": "她说，我很好，谢谢。"
+    },
+    {
+      "id": 92,
+      "en": "Now, Marco, why would we use this phrase instead of I'm fine, thank you?",
+      "cn": "现在，Marco，为什么我们要用这个短语而不是“我很好，谢谢”？"
+    },
+    {
+      "id": 93,
+      "en": "Well, it's basically the same thing.",
+      "cn": "嗯，这基本上是一样的。"
+    },
+    {
+      "id": 94,
+      "en": "It's just another way of answering this common question, how are you?",
+      "cn": "这只是回答这个常见问题“你好吗？”的另一种方式。"
+    },
+    {
+      "id": 95,
+      "en": "You can say I'm fine, thank you, I'm well, but this is just another way of saying I'm okay.",
+      "cn": "你可以说“我很好，谢谢，我很好”，但这只是另一种说“我还好”的方式。"
+    },
+    {
+      "id": 96,
+      "en": "Alright, but I think it's important too to remember that this is also very casual like the rest of the conversation and pretty enthusiastic.",
+      "cn": "好的，但我认为重要的是要记住，这也是非常随意的，就像对话的其余部分一样，而且相当热情。"
+    },
+    {
+      "id": 97,
+      "en": "She's great!",
+      "cn": "她很好！"
+    },
+    {
+      "id": 98,
+      "en": "So it's important to remember that I'm fine, thanks is standard, it's very normal, but I'm great is a nice way to change it and do something different.",
+      "cn": "所以重要的是要记住“我很好，谢谢”是标准的，非常正常，但“我很好”是一个很好的方式来改变并做些不同的事情。"
+    },
+    {
+      "id": 99,
+      "en": "That's right, okay.",
+      "cn": "没错，好的。"
+    },
+    {
+      "id": 100,
+      "en": "And now we wanted to ask if we have any plans, but we wanted to know if we have any vacation plans.",
+      "cn": "现在我们想问一下我们是否有任何计划，但我们想知道我们是否有假期计划。"
+    },
+    {
+      "id": 101,
+      "en": "And the interesting thing about this question was that Mr. Campbell said, any vacation plans?",
+      "cn": "有趣的是，坎贝尔先生说，任何假期计划？"
+    },
+    {
+      "id": 102,
+      "en": "So that's the whole sentence.",
+      "cn": "所以这就是整个句子。"
+    },
+    {
+      "id": 103,
+      "en": "Well first he says, how about you Michelle, any vacation plans?",
+      "cn": "首先他说，米歇尔，你呢，有什么假期计划？"
+    },
+    {
+      "id": 104,
+      "en": "So what we think here is that maybe it's wrong.",
+      "cn": "所以我们在这里认为这可能是错的。"
+    },
+    {
+      "id": 105,
+      "en": "Do you have any vacation plans is something that we'd want to say here, right?",
+      "cn": "你有任何假期计划是我们想在这里说的，对吧？"
+    },
+    {
+      "id": 106,
+      "en": "But here we don't actually need to say, do you have any vacation plans?",
+      "cn": "但在这里我们实际上不需要说，你有任何假期计划？"
+    },
+    {
+      "id": 107,
+      "en": "Because it's pretty clear who we're talking to.",
+      "cn": "因为很明显我们在和谁说话。"
+    },
+    {
+      "id": 108,
+      "en": "We're talking to Michelle, right?",
+      "cn": "我们在和米歇尔说话，对吧？"
+    },
+    {
+      "id": 109,
+      "en": "Right, and we're talking about traveling and we're talking about plans, so it's overstated that we don't really need to say, do you have any vacation plans?",
+      "cn": "对的，我们在谈论旅行，我们在谈论计划，所以说你有任何假期计划是多余的。"
+    },
+    {
+      "id": 110,
+      "en": "We're already talking about the subject.",
+      "cn": "我们已经在谈论这个主题了。"
+    },
+    {
+      "id": 111,
+      "en": "Now this is a great way to transition.",
+      "cn": "现在这是一个很好的过渡方式。"
+    },
+    {
+      "id": 112,
+      "en": "One person is talking about himself or herself, and then you want to talk about the other person, so you say, what about you?",
+      "cn": "一个人在谈论自己，然后你想谈论另一个人，所以你说，你呢？"
+    },
+    {
+      "id": 113,
+      "en": "Any vacation plans or any dinner plans or any ideas?",
+      "cn": "有什么假期计划或晚餐计划或任何想法？"
+    },
+    {
+      "id": 114,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 115,
+      "en": "So it's a great way to, like you say, transition from one idea or from one person to another.",
+      "cn": "所以这是一个很好的方式，正如你所说，从一个想法或一个人过渡到另一个。"
+    },
+    {
+      "id": 116,
+      "en": "Now to the next phrase, a very common one, specifically when you are not really sure about something, but somebody told you.",
+      "cn": "现在到下一个短语，一个非常常见的，特别是当你对某事不太确定，但有人告诉你。"
+    },
+    {
+      "id": 117,
+      "en": "Specifically in this case, Michelle says, I hear it's a wonderful city when talking about London.",
+      "cn": "特别是在这种情况下，米歇尔说，我听说这是一个美妙的城市，谈论伦敦。"
+    },
+    {
+      "id": 118,
+      "en": "So what does she mean by, I hear it's a wonderful city?",
+      "cn": "那么她说我听说这是一个美妙的城市是什么意思？"
+    },
+    {
+      "id": 119,
+      "en": "Well basically, Michelle is saying she's never been to London, but she's read or she's heard from friends or from a TV show that London's a wonderful city.",
+      "cn": "基本上，米歇尔是在说她从未去过伦敦，但她从朋友或电视节目中读到或听说伦敦是一个美妙的城市。"
+    },
+    {
+      "id": 120,
+      "en": "So she can't say it is a wonderful city because she's never been there.",
+      "cn": "所以她不能说这是一个美妙的城市，因为她从未去过那里。"
+    },
+    {
+      "id": 121,
+      "en": "But she can say, listen you know, I have heard this from other people or from magazines.",
+      "cn": "但她可以说，听着，你知道，我从其他人或杂志那里听说过这个。"
+    },
+    {
+      "id": 122,
+      "en": "So it's not even clear where she heard it, but that's not really important.",
+      "cn": "所以她甚至不清楚她是从哪里听到的，但这并不重要。"
+    },
+    {
+      "id": 123,
+      "en": "So basically the idea is that we don't know personally, but we have friends that told us or we have read in a magazine or a TV show, we've seen it, that it's great.",
+      "cn": "所以基本上这个想法是我们个人不知道，但我们有朋友告诉我们，或者我们在杂志或电视节目中读到过，我们看到过，它很棒。"
+    },
+    {
+      "id": 124,
+      "en": "So you can use it with many things, like a restaurant.",
+      "cn": "所以你可以用它来形容很多事情，比如餐厅。"
+    },
+    {
+      "id": 125,
+      "en": "That's right, I hear the food is delicious.",
+      "cn": "没错，我听说食物很好吃。"
+    },
+    {
+      "id": 126,
+      "en": "Or I could say, hey Marco, I'm going to Hong Kong Disneyland next year.",
+      "cn": "或者我可以说，嘿，马尔科，我明年要去香港迪士尼乐园。"
+    },
+    {
+      "id": 127,
+      "en": "Right, and I can say, oh I hear that it's a very fun place.",
+      "cn": "对的，我可以说，哦，我听说那是一个非常有趣的地方。"
+    },
+    {
+      "id": 128,
+      "en": "So Marco, you've never been there, right?",
+      "cn": "所以马尔科，你从未去过那里，对吧？"
+    },
+    {
+      "id": 129,
+      "en": "No, I've never been there.",
+      "cn": "不，我从未去过那里。"
+    },
+    {
+      "id": 130,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 131,
+      "en": "Alright, and to finish off Mr. Campbell agrees completely about London being such a wonderful city and he says, I couldn't agree more.",
+      "cn": "好的，最后，坎贝尔先生完全同意伦敦是一个美妙的城市，他说，我完全同意。"
+    },
+    {
+      "id": 132,
+      "en": "I couldn't agree more.",
+      "cn": "我完全同意。"
+    },
+    {
+      "id": 133,
+      "en": "So he agrees, we understand that.",
+      "cn": "所以他同意，我们明白这一点。"
+    },
+    {
+      "id": 134,
+      "en": "But I couldn't agree more is like saying I really, really agree.",
+      "cn": "但我完全同意就像是在说我真的非常同意。"
+    },
+    {
+      "id": 135,
+      "en": "Right, like you are completely right.",
+      "cn": "对，就像你完全正确。"
+    },
+    {
+      "id": 136,
+      "en": "Yeah, so this is a way to exaggerate.",
+      "cn": "是的，所以这是一种夸张的方式。"
+    },
+    {
+      "id": 137,
+      "en": "You know, you want to say I agree.",
+      "cn": "你知道，你想说我同意。"
+    },
+    {
+      "id": 138,
+      "en": "Eh, it's a little boring.",
+      "cn": "嗯，这有点无聊。"
+    },
+    {
+      "id": 139,
+      "en": "So you say, I couldn't agree more.",
+      "cn": "所以你说，我完全同意。"
+    },
+    {
+      "id": 140,
+      "en": "I'm agreeing the most I can.",
+      "cn": "我同意的程度是我能做到的。"
+    },
+    {
+      "id": 141,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 142,
+      "en": "And then we can also use the opposite, which would be if you disagree with someone.",
+      "cn": "然后我们也可以使用相反的情况，如果你不同意某人。"
+    },
+    {
+      "id": 143,
+      "en": "I couldn't disagree more.",
+      "cn": "我完全不同意。"
+    },
+    {
+      "id": 144,
+      "en": "So you just changed that one word.",
+      "cn": "所以你只需改变那个词。"
+    },
+    {
+      "id": 145,
+      "en": "I couldn't disagree more.",
+      "cn": "我完全不同意。"
+    },
+    {
+      "id": 146,
+      "en": "So maybe I don't like London, maybe it's too rainy or too dark for me, so I say, I couldn't disagree more.",
+      "cn": "所以也许我不喜欢伦敦，也许对我来说太潮湿或太黑了，所以我说，我完全不同意。"
+    },
+    {
+      "id": 147,
+      "en": "I think London is terrible.",
+      "cn": "我认为伦敦很糟糕。"
+    },
+    {
+      "id": 148,
+      "en": "Ooh, maybe not the right thing to say in a small talk situation, but we can talk about that in a minute.",
+      "cn": "哦，也许在小谈话的情况下不太合适，但我们可以稍后再谈。"
+    },
+    {
+      "id": 149,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 150,
+      "en": "Alright, so let's review everything one last time.",
+      "cn": "好的，所以让我们最后再回顾一次所有内容。"
+    },
+    {
+      "id": 151,
+      "en": "Yes, Mike and I will travel to Beijing to see Mike's parents for the Spring Festival.",
+      "cn": "是的，迈克和我将前往北京看迈克的父母，庆祝春节。"
+    },
+    {
+      "id": 152,
+      "en": "And hopefully next year we will visit London.",
+      "cn": "希望明年我们能去伦敦。"
+    },
+    {
+      "id": 153,
+      "en": "I hear it's a wonderful city.",
+      "cn": "我听说这是一个美妙的城市。"
+    },
+    {
+      "id": 154,
+      "en": "I couldn't agree more.",
+      "cn": "我完全同意。"
+    },
+    {
+      "id": 155,
+      "en": "London is really fantastic.",
+      "cn": "伦敦真的很棒。"
+    },
+    {
+      "id": 156,
+      "en": "It's my favorite city.",
+      "cn": "这是我最喜欢的城市。"
+    },
+    {
+      "id": 157,
+      "en": "I'm sure you'll have a great time.",
+      "cn": "我相信你会玩得很开心。"
+    },
+    {
+      "id": 158,
+      "en": "Alright, so this is our last podcast all about small talk.",
+      "cn": "好的，这就是我们关于小谈话的最后一期播客。"
+    },
+    {
+      "id": 159,
+      "en": "And, well, I hope it's been useful.",
+      "cn": "嗯，我希望这对你有帮助。"
+    },
+    {
+      "id": 160,
+      "en": "We've gotten some great feedback about the different topics and small conversations you can have with a stranger, a co-worker, a friend, to kind of, you know, not have that awkward silence.",
+      "cn": "我们收到了关于不同主题和与陌生人、同事、朋友进行小谈话的很好的反馈，以避免那种尴尬的沉默。"
+    },
+    {
+      "id": 161,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 162,
+      "en": "We've gone over a lot of different situations.",
+      "cn": "我们讨论了很多不同的情况。"
+    },
+    {
+      "id": 163,
+      "en": "We've had situations with strangers, situations with work friends.",
+      "cn": "我们有与陌生人、工作朋友的情况。"
+    },
+    {
+      "id": 164,
+      "en": "But I think what's really important is that in all these situations, we're very polite.",
+      "cn": "但我认为最重要的是，在所有这些情况下，我们都非常礼貌。"
+    },
+    {
+      "id": 165,
+      "en": "We say nice things.",
+      "cn": "我们说好听的话。"
+    },
+    {
+      "id": 166,
+      "en": "There are these transitions like, I hear, or I couldn't agree more.",
+      "cn": "有这些过渡，比如，我听说，或者我完全同意。"
+    },
+    {
+      "id": 167,
+      "en": "These are wonderful ways of really being nice to the person you're talking to.",
+      "cn": "这些都是对你正在交谈的人非常友好的方式。"
+    },
+    {
+      "id": 168,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 169,
+      "en": "And we're going to come out with a new series soon.",
+      "cn": "我们很快会推出一个新系列。"
+    },
+    {
+      "id": 170,
+      "en": "So we would really like your feedback.",
+      "cn": "所以我们真的很想听到你的反馈。"
+    },
+    {
+      "id": 171,
+      "en": "Any topics or any specific subject you want us to talk, you can let us know at EnglishPod.com.",
+      "cn": "任何主题或任何特定的内容你想让我们讨论的，可以在EnglishPod.com告诉我们。"
+    },
+    {
+      "id": 172,
+      "en": "And also your questions and comments can be left there.",
+      "cn": "你的问题和评论也可以在那里留下。"
+    },
+    {
+      "id": 173,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 174,
+      "en": "So please get in touch with us.",
+      "cn": "所以请与我们联系。"
+    },
+    {
+      "id": 175,
+      "en": "EnglishPod.com.",
+      "cn": "EnglishPod.com。"
+    },
+    {
+      "id": 176,
+      "en": "We'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 177,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

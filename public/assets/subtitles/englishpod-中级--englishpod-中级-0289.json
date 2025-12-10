@@ -1,0 +1,1289 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0289",
+  "title": "EnglishPod 中级 0289",
+  "totalSegments": 256,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine and today we have part 7 of our series all about giving a presentation in English.",
+      "cn": "我叫Catherine，今天我们将进行关于用英语做演讲的系列第7部分。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "So obviously not every presentation is going to go perfectly.",
+      "cn": "显然，并不是每个演讲都能完美进行。"
+    },
+    {
+      "id": 6,
+      "en": "Sometimes we do have some problems and on this occasion we're going to take a look at tech problems and how to handle them.",
+      "cn": "有时我们会遇到一些问题，这次我们将讨论技术问题及其处理方法。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "So you're going to learn some great ways to discuss and to explain technical problems.",
+      "cn": "所以你将学习一些很好的方法来讨论和解释技术问题。"
+    },
+    {
+      "id": 9,
+      "en": "Let's take a listen to our dialogue.",
+      "cn": "让我们来听听我们的对话。"
+    },
+    {
+      "id": 10,
+      "en": "Okay, so if we could dim the lights, Jonathan, we can kick off with the first TV advert.",
+      "cn": "好的，如果我们可以调暗灯光，Jonathan，我们可以开始第一个电视广告。"
+    },
+    {
+      "id": 11,
+      "en": "Please note that we are still in the early days with this advert so it might seem a bit rough around the edges.",
+      "cn": "请注意，我们在这个广告的早期阶段，所以可能会显得有些粗糙。"
+    },
+    {
+      "id": 12,
+      "en": "Okay, so I just need to click this and the advert should pop up on the screen.",
+      "cn": "好的，我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 13,
+      "en": "Hmm, sorry about this.",
+      "cn": "嗯，抱歉。"
+    },
+    {
+      "id": 14,
+      "en": "Bear with me a second.",
+      "cn": "请稍等我一下。"
+    },
+    {
+      "id": 15,
+      "en": "There seems to be a problem with the projector.",
+      "cn": "投影仪似乎有问题。"
+    },
+    {
+      "id": 16,
+      "en": "Let me see.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 17,
+      "en": "Jonathan, could you lend a hand a second?",
+      "cn": "Jonathan，你能帮我一下吗？"
+    },
+    {
+      "id": 18,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "cn": "看起来投影仪没有识别电脑。"
+    },
+    {
+      "id": 19,
+      "en": "Let me check the connection a second.",
+      "cn": "让我检查一下连接。"
+    },
+    {
+      "id": 20,
+      "en": "Well, the connection seems okay and the computer is running normally.",
+      "cn": "嗯，连接似乎正常，电脑也在正常运行。"
+    },
+    {
+      "id": 21,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 22,
+      "en": "Okay, sorry guys.",
+      "cn": "好的，抱歉大家。"
+    },
+    {
+      "id": 23,
+      "en": "Obviously a problem with the system.",
+      "cn": "显然是系统出现了问题。"
+    },
+    {
+      "id": 24,
+      "en": "Let's just reboot and start over.",
+      "cn": "我们重启一下，重新开始。"
+    },
+    {
+      "id": 25,
+      "en": "Let's see if this resolves the issue.",
+      "cn": "看看这是否能解决问题。"
+    },
+    {
+      "id": 26,
+      "en": "Right, let's try again.",
+      "cn": "好吧，我们再试一次。"
+    },
+    {
+      "id": 27,
+      "en": "No, still nothing Michael.",
+      "cn": "不，还是没有，Michael。"
+    },
+    {
+      "id": 28,
+      "en": "There might be a technical issue with the projector.",
+      "cn": "投影仪可能有技术问题。"
+    },
+    {
+      "id": 29,
+      "en": "I think maybe the projector has overheated.",
+      "cn": "我想投影仪可能过热了。"
+    },
+    {
+      "id": 30,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "cn": "我们可能需要冷却10分钟，然后再开始。"
+    },
+    {
+      "id": 31,
+      "en": "I'll call IT support to come over right now.",
+      "cn": "我会立即叫IT支持过来。"
+    },
+    {
+      "id": 32,
+      "en": "Okay guys, unfortunately technical problems do crop up from time to time, don't they?",
+      "cn": "好的，大家，不幸的是，技术问题确实会时不时出现，是吧？"
+    },
+    {
+      "id": 33,
+      "en": "But it's not a huge problem.",
+      "cn": "但这不是大问题。"
+    },
+    {
+      "id": 34,
+      "en": "In the meantime, while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.",
+      "cn": "在此期间，IT人员处理这个问题时，我可以多谈谈广告概念以及我们希望通过这个活动实现的目标。"
+    },
+    {
+      "id": 35,
+      "en": "Alright, so we're back and now let's take a look at five keywords that we've picked out for you on Language Takeaway.",
+      "cn": "好的，我们回来了，现在让我们看看我们为你们挑选的五个关键词在Language Takeaway上。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so we have some phrasal verbs today.",
+      "cn": "好的，今天我们有一些短语动词。"
+    },
+    {
+      "id": 37,
+      "en": "The first one is to kick off.",
+      "cn": "第一个是kick off。"
+    },
+    {
+      "id": 38,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 39,
+      "en": "Mr. Ford started out by saying that we can kick off the first TV advert.",
+      "cn": "Ford先生开始时说我们可以kick off第一个电视广告。"
+    },
+    {
+      "id": 40,
+      "en": "So this phrasal verb, to kick off, what does it mean?",
+      "cn": "那么这个短语动词kick off是什么意思呢？"
+    },
+    {
+      "id": 41,
+      "en": "It means to start something, okay?",
+      "cn": "它的意思是开始，明白吗？"
+    },
+    {
+      "id": 42,
+      "en": "So to kick it off means to start.",
+      "cn": "所以kick it off就是开始。"
+    },
+    {
+      "id": 43,
+      "en": "So I can say tonight we're kicking off the party at 8 o'clock.",
+      "cn": "我可以说今晚我们在8点kick off派对。"
+    },
+    {
+      "id": 44,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 45,
+      "en": "Or let's kick off this new product with a big party.",
+      "cn": "或者让我们用一个大派对来kick off这个新产品。"
+    },
+    {
+      "id": 46,
+      "en": "That's right, okay.",
+      "cn": "没错，好的。"
+    },
+    {
+      "id": 47,
+      "en": "So the phrasal verb, to kick off, you've probably also seen it in sports.",
+      "cn": "所以短语动词kick off，你可能也在体育中见过。"
+    },
+    {
+      "id": 48,
+      "en": "I think in soccer, you have the kick off, which is the same thing.",
+      "cn": "我想在足球中，你有kick off，这也是同样的意思。"
+    },
+    {
+      "id": 49,
+      "en": "That's right, except it's a noun, so be careful with that one.",
+      "cn": "没错，只是它是一个名词，所以要小心。"
+    },
+    {
+      "id": 50,
+      "en": "The kick off is the very beginning of the game.",
+      "cn": "kick off是比赛的开始。"
+    },
+    {
+      "id": 51,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 52,
+      "en": "In that same paragraph, towards the end, we see Mr. Ford saying, okay, so I just need to click this and the advert should pop up on the screen.",
+      "cn": "在同一段落的末尾，我们看到Ford先生说，好的，我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 53,
+      "en": "I like this verb, actually, because it makes me think of that, but when you're using a computer and you have these little windows or these little icons, those little pictures, when something changes, they appear quickly.",
+      "cn": "我其实喜欢这个动词，因为它让我想到，当你使用电脑时，有这些小窗口或小图标，当某些东西变化时，它们会迅速出现。"
+    },
+    {
+      "id": 54,
+      "en": "And that means, in computer talk, it means to pop up.",
+      "cn": "在计算机术语中，这意味着弹出。"
+    },
+    {
+      "id": 55,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 56,
+      "en": "You obviously maybe heard of this already.",
+      "cn": "你显然可能已经听说过这个。"
+    },
+    {
+      "id": 57,
+      "en": "You have annoying pop-ups.",
+      "cn": "你有烦人的弹出窗口。"
+    },
+    {
+      "id": 58,
+      "en": "Maybe you visit a website and all of a sudden these new windows start to open.",
+      "cn": "也许你访问一个网站，突然这些新窗口开始打开。"
+    },
+    {
+      "id": 59,
+      "en": "They're all advertisements.",
+      "cn": "它们都是广告。"
+    },
+    {
+      "id": 60,
+      "en": "You buy this, buy this, buy this, buy this.",
+      "cn": "你买这个，买这个，买这个，买这个。"
+    },
+    {
+      "id": 61,
+      "en": "Those are pop-ups.",
+      "cn": "那些就是弹出窗口。"
+    },
+    {
+      "id": 62,
+      "en": "But also, you can have a pop-up in a chat window, for example.",
+      "cn": "但你也可以在聊天窗口中有弹出窗口，例如。"
+    },
+    {
+      "id": 63,
+      "en": "And in this case, we also use it as a verb.",
+      "cn": "在这种情况下，我们也将其用作动词。"
+    },
+    {
+      "id": 64,
+      "en": "It should pop up.",
+      "cn": "它应该弹出。"
+    },
+    {
+      "id": 65,
+      "en": "So, to pop up.",
+      "cn": "所以，弹出。"
+    },
+    {
+      "id": 66,
+      "en": "To appear.",
+      "cn": "出现。"
+    },
+    {
+      "id": 67,
+      "en": "To appear.",
+      "cn": "出现。"
+    },
+    {
+      "id": 68,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 69,
+      "en": "Now, obviously, it didn't work.",
+      "cn": "现在，显然，它没有工作。"
+    },
+    {
+      "id": 70,
+      "en": "Something was happening with the projector.",
+      "cn": "投影仪出现了问题。"
+    },
+    {
+      "id": 71,
+      "en": "And Mr. Ford was going through maybe some of the problems and he said, let me check the connection a second.",
+      "cn": "Ford先生正在处理一些问题，他说，让我检查一下连接。"
+    },
+    {
+      "id": 72,
+      "en": "Well, the connection seems okay.",
+      "cn": "嗯，连接似乎正常。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, connection is a very important noun, especially when we're talking about technical things like computers.",
+      "cn": "好的，连接是一个非常重要的名词，特别是在我们谈论像电脑这样的技术事物时。"
+    },
+    {
+      "id": 74,
+      "en": "You can have an Internet connection.",
+      "cn": "你可以有一个互联网连接。"
+    },
+    {
+      "id": 75,
+      "en": "This means how you are able to use the Internet.",
+      "cn": "这意味着你如何能够使用互联网。"
+    },
+    {
+      "id": 76,
+      "en": "But in this case, we're talking about a projector, which makes things bigger, and a computer.",
+      "cn": "但在这种情况下，我们谈论的是一个投影仪，它放大东西，以及一台电脑。"
+    },
+    {
+      "id": 77,
+      "en": "And so, those things need to have a connection.",
+      "cn": "所以，这些东西需要有连接。"
+    },
+    {
+      "id": 78,
+      "en": "They need to have a cord or something that you plug into one and to the other so that they can talk to each other.",
+      "cn": "它们需要有一根电缆或其他东西，插入一个和另一个，以便它们可以相互通信。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "So, as you notice, we are using it as a noun.",
+      "cn": "所以，正如你所注意到的，我们将其用作名词。"
+    },
+    {
+      "id": 81,
+      "en": "The computer and the projector needs to have a connection.",
+      "cn": "电脑和投影仪需要有连接。"
+    },
+    {
+      "id": 82,
+      "en": "So, you have the verb to connect, but then you have the noun a connection.",
+      "cn": "所以，你有动词connect，但你有名词connection。"
+    },
+    {
+      "id": 83,
+      "en": "All right, and let's move on to another possible solution.",
+      "cn": "好的，让我们继续另一个可能的解决方案。"
+    },
+    {
+      "id": 84,
+      "en": "Mr. Ford suggests rebooting the system.",
+      "cn": "Ford先生建议重启系统。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, so the verb here, to reboot, is another special computer word that means to turn off and turn on again.",
+      "cn": "好的，所以这里的动词reboot是另一个特殊的计算机词，意思是关闭然后再打开。"
+    },
+    {
+      "id": 86,
+      "en": "To restart.",
+      "cn": "重新启动。"
+    },
+    {
+      "id": 87,
+      "en": "So, if I say reboot, I'm using the prefix there, re, which means a repetition or to do it again.",
+      "cn": "所以，如果我说reboot，我在使用前缀re，表示重复或再做一次。"
+    },
+    {
+      "id": 88,
+      "en": "If I just say boot, can I say just I need to boot the computer?",
+      "cn": "如果我只说boot，我可以说我需要启动电脑吗？"
+    },
+    {
+      "id": 89,
+      "en": "I need to boot up the computer.",
+      "cn": "我需要启动电脑。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, boot up.",
+      "cn": "好的，启动。"
+    },
+    {
+      "id": 91,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 92,
+      "en": "So, in this case, you would be talking about a computer that is off and you want to turn it on.",
+      "cn": "所以，在这种情况下，你是在谈论一台关闭的电脑，你想把它打开。"
+    },
+    {
+      "id": 93,
+      "en": "So, I would say, hey Marco, can you boot up the computer for me?",
+      "cn": "所以，我会说，嘿Marco，你能帮我启动电脑吗？"
+    },
+    {
+      "id": 94,
+      "en": "Now, about using the word reboot or to boot up, it's usually for electronic things, electric things.",
+      "cn": "现在，关于使用reboot或boot up这个词，通常是针对电子设备，电器。"
+    },
+    {
+      "id": 95,
+      "en": "You wouldn't say to reboot your car or to boot up your car.",
+      "cn": "你不会说重启你的车或启动你的车。"
+    },
+    {
+      "id": 96,
+      "en": "No, this is for computers, specifically electronics.",
+      "cn": "不，这个是针对电脑，特别是电子设备。"
+    },
+    {
+      "id": 97,
+      "en": "For example, oh man, my iPhone just froze.",
+      "cn": "例如，哦，我的iPhone刚刚卡住了。"
+    },
+    {
+      "id": 98,
+      "en": "I need to reboot it.",
+      "cn": "我需要重启它。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 100,
+      "en": "All right, and for our last phrasal verb for today.",
+      "cn": "好的，今天的最后一个短语动词。"
+    },
+    {
+      "id": 101,
+      "en": "On language takeaway, we have, towards the end of the dialogue, towards the end of the dialogue, Mr. Ford apologizes and says, you know what, I'm sorry, but technical problems do crop up sometimes.",
+      "cn": "在语言总结中，我们有，在对话的最后，福特先生道歉并说，你知道，我很抱歉，但技术问题有时会出现。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, so this verb to crop up means to appear or to happen, but not all the time.",
+      "cn": "好的，这个动词“crop up”意味着出现或发生，但不是每次。"
+    },
+    {
+      "id": 103,
+      "en": "So, unexpectedly or occasionally.",
+      "cn": "所以，意外地或偶尔。"
+    },
+    {
+      "id": 104,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 105,
+      "en": "So, these things do crop up sometimes.",
+      "cn": "所以，这些事情有时会出现。"
+    },
+    {
+      "id": 106,
+      "en": "It means every once in a while this problem will happen.",
+      "cn": "这意味着偶尔会发生这个问题。"
+    },
+    {
+      "id": 107,
+      "en": "So, can I use this for a person?",
+      "cn": "那我可以用这个形容一个人吗？"
+    },
+    {
+      "id": 108,
+      "en": "If you say, oh, you scared me, you cropped up on me.",
+      "cn": "如果你说，哦，你吓到我了，你突然出现在我面前。"
+    },
+    {
+      "id": 109,
+      "en": "No, it would be creeped up on me.",
+      "cn": "不，那应该是“creeped up on me”。"
+    },
+    {
+      "id": 110,
+      "en": "Creeped up, very good.",
+      "cn": "“Creeped up”，非常好。"
+    },
+    {
+      "id": 111,
+      "en": "So, we can't confuse those two, but they sound very similar.",
+      "cn": "所以，我们不能混淆这两个，但它们听起来很相似。"
+    },
+    {
+      "id": 112,
+      "en": "They do sound similar, but to crop up is usually a problem or an event or a thing that happens, and it happens not very often.",
+      "cn": "它们确实听起来相似，但“crop up”通常是指问题、事件或发生的事情，而且发生得不太频繁。"
+    },
+    {
+      "id": 113,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 114,
+      "en": "So, I think we've taken a look at a lot of words here, specifically phrasal verbs.",
+      "cn": "所以，我认为我们已经看了很多词，特别是短语动词。"
+    },
+    {
+      "id": 115,
+      "en": "So, let's review those.",
+      "cn": "那我们来复习一下这些。"
+    },
+    {
+      "id": 116,
+      "en": "Let's listen to our dialogue again.",
+      "cn": "我们再听一遍对话。"
+    },
+    {
+      "id": 117,
+      "en": "Okay, so if we could dim the lights, Jonathan, we can kick off with the first TV advert.",
+      "cn": "好的，如果我们可以调暗灯光，乔纳森，我们可以开始第一个电视广告。"
+    },
+    {
+      "id": 118,
+      "en": "Please note that we are still in the early days with this advert, so it might seem a bit rough around the edges.",
+      "cn": "请注意，我们仍然处于这个广告的早期阶段，所以它可能看起来有点粗糙。"
+    },
+    {
+      "id": 119,
+      "en": "Okay, so I just need to click this and the advert should pop up on the screen.",
+      "cn": "好的，我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 120,
+      "en": "Hmm, sorry about this.",
+      "cn": "嗯，抱歉。"
+    },
+    {
+      "id": 121,
+      "en": "Bear with me a second.",
+      "cn": "请稍等我一下。"
+    },
+    {
+      "id": 122,
+      "en": "There seems to be a problem with the projector.",
+      "cn": "投影仪似乎有问题。"
+    },
+    {
+      "id": 123,
+      "en": "Let me see.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 124,
+      "en": "Jonathan, could you lend a hand a second?",
+      "cn": "乔纳森，你能帮我一下吗？"
+    },
+    {
+      "id": 125,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "cn": "看起来投影仪没有识别计算机。"
+    },
+    {
+      "id": 126,
+      "en": "Let me check the connection a second.",
+      "cn": "让我检查一下连接。"
+    },
+    {
+      "id": 127,
+      "en": "Well, the connection seems okay and the computer is running normally.",
+      "cn": "嗯，连接似乎没问题，计算机正常运行。"
+    },
+    {
+      "id": 128,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 129,
+      "en": "Okay, sorry guys.",
+      "cn": "好的，抱歉大家。"
+    },
+    {
+      "id": 130,
+      "en": "Obviously a problem with the system.",
+      "cn": "显然是系统出现了问题。"
+    },
+    {
+      "id": 131,
+      "en": "Let's just reboot and start over.",
+      "cn": "我们重启一下，重新开始。"
+    },
+    {
+      "id": 132,
+      "en": "Let's see if this resolves the issue.",
+      "cn": "看看这是否能解决问题。"
+    },
+    {
+      "id": 133,
+      "en": "Right, let's try again.",
+      "cn": "好吧，再试一次。"
+    },
+    {
+      "id": 134,
+      "en": "No, still nothing, Michael.",
+      "cn": "不，还是没有，迈克尔。"
+    },
+    {
+      "id": 135,
+      "en": "There might be a technical issue with the projector.",
+      "cn": "投影仪可能有技术问题。"
+    },
+    {
+      "id": 136,
+      "en": "I think maybe the projector has overheated.",
+      "cn": "我觉得投影仪可能过热了。"
+    },
+    {
+      "id": 137,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "cn": "我们可能需要冷却10分钟再重新开始。"
+    },
+    {
+      "id": 138,
+      "en": "I'll call IT support to come over right now.",
+      "cn": "我会叫IT支持马上过来。"
+    },
+    {
+      "id": 139,
+      "en": "Okay guys, unfortunately technical problems do crop up from time to time, don't they?",
+      "cn": "好的，大家，不幸的是，技术问题确实会不时出现，不是吗？"
+    },
+    {
+      "id": 140,
+      "en": "But it's not a huge problem.",
+      "cn": "但这不是大问题。"
+    },
+    {
+      "id": 141,
+      "en": "In the meantime, while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.",
+      "cn": "在此期间，当IT人员处理这个问题时，我可以多谈谈广告概念以及我们希望通过这个活动实现的目标。"
+    },
+    {
+      "id": 142,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 143,
+      "en": "So now let's take a look at some phrases on Fluency Builder.",
+      "cn": "现在让我们看看流利度构建器上的一些短语。"
+    },
+    {
+      "id": 144,
+      "en": "So this first phrase we have is very important, especially when we're using video or a projector in a presentation.",
+      "cn": "所以我们第一个短语非常重要，特别是在我们使用视频或投影仪进行演示时。"
+    },
+    {
+      "id": 145,
+      "en": "We say, let's dim the lights.",
+      "cn": "我们说，让我们调暗灯光。"
+    },
+    {
+      "id": 146,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 147,
+      "en": "So we have the verb to dim.",
+      "cn": "所以我们有动词“dim”。"
+    },
+    {
+      "id": 148,
+      "en": "So to dim something is to make it darker.",
+      "cn": "所以调暗某物就是让它变得更暗。"
+    },
+    {
+      "id": 149,
+      "en": "But not turn it off completely.",
+      "cn": "但不是完全关掉。"
+    },
+    {
+      "id": 150,
+      "en": "No, it means maybe to lower the lights.",
+      "cn": "不，这意味着可能降低灯光。"
+    },
+    {
+      "id": 151,
+      "en": "We could actually see this on a computer also when the screen is very, very bright.",
+      "cn": "我们在计算机上也可以看到这一点，当屏幕非常非常亮时。"
+    },
+    {
+      "id": 152,
+      "en": "We say, oh, it's too bright.",
+      "cn": "我们说，哦，太亮了。"
+    },
+    {
+      "id": 153,
+      "en": "I need you to dim it a little, make it a little bit darker.",
+      "cn": "我需要你调暗一点，让它变得稍微暗一点。"
+    },
+    {
+      "id": 154,
+      "en": "Okay, so you can use this verb to dim to make it a little bit darker or to make it lower in intensity.",
+      "cn": "好的，所以你可以使用这个动词“dim”来让它变得稍微暗一点或降低强度。"
+    },
+    {
+      "id": 155,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 156,
+      "en": "Dim the color, dim the lights.",
+      "cn": "调暗颜色，调暗灯光。"
+    },
+    {
+      "id": 157,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 158,
+      "en": "Now Mr. Ford, when he was talking about the advert, he said, well, it's new and it's not ready yet completely.",
+      "cn": "现在福特先生在谈论广告时说，嗯，它是新的，还没有完全准备好。"
+    },
+    {
+      "id": 159,
+      "en": "So it might seem a bit rough around the edges.",
+      "cn": "所以它可能看起来有点粗糙。"
+    },
+    {
+      "id": 160,
+      "en": "Okay, this is a very, very popular phrase that means that something is incomplete.",
+      "cn": "好的，这是一个非常非常流行的短语，意味着某事不完整。"
+    },
+    {
+      "id": 161,
+      "en": "Maybe it's not perfect yet.",
+      "cn": "也许它还不完美。"
+    },
+    {
+      "id": 162,
+      "en": "It needs some work.",
+      "cn": "需要一些工作。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, so if maybe you're designing a new website and it's maybe 50% done.",
+      "cn": "好的，所以如果你正在设计一个新网站，可能完成了50%。"
+    },
+    {
+      "id": 164,
+      "en": "So you say the website is almost finished, but it's still rough around the edges.",
+      "cn": "所以你说这个网站几乎完成了，但仍然有点粗糙。"
+    },
+    {
+      "id": 165,
+      "en": "We need to make some changes to fix it.",
+      "cn": "我们需要做一些更改来修复它。"
+    },
+    {
+      "id": 166,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 167,
+      "en": "So rough around the edges is a phrase that is the opposite of the word polished.",
+      "cn": "所以“rough around the edges”是一个与“polished”相对的短语。"
+    },
+    {
+      "id": 168,
+      "en": "Something is polished if it's perfect and ready to go.",
+      "cn": "如果某事是“polished”，那么它是完美的，准备好了。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, and well, when the technical problem started, Mr. Ford was apologizing and said, hey, look, I'm sorry.",
+      "cn": "好的，当技术问题开始时，福特先生道歉并说，嘿，抱歉。"
+    },
+    {
+      "id": 170,
+      "en": "And he also used this interesting phrase, bear with me, bear with me a second.",
+      "cn": "他还使用了这个有趣的短语，耐心点，耐心点一下。"
+    },
+    {
+      "id": 171,
+      "en": "Okay, so this is interesting because it's not the animal, the bear.",
+      "cn": "好的，这很有趣，因为这不是动物熊。"
+    },
+    {
+      "id": 172,
+      "en": "Right, right.",
+      "cn": "对，没错。"
+    },
+    {
+      "id": 173,
+      "en": "This is different.",
+      "cn": "这是不同的。"
+    },
+    {
+      "id": 174,
+      "en": "This means, you know, excuse me, please be patient.",
+      "cn": "这意味着，请你耐心点。"
+    },
+    {
+      "id": 175,
+      "en": "I have to do something and you have to wait.",
+      "cn": "我需要做点事情，你得等。"
+    },
+    {
+      "id": 176,
+      "en": "So this is a very, very polite way of asking some people or some person to wait for you.",
+      "cn": "所以这是一个非常非常礼貌的方式，请求某人等你。"
+    },
+    {
+      "id": 177,
+      "en": "To tolerate.",
+      "cn": "容忍。"
+    },
+    {
+      "id": 178,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 179,
+      "en": "So both the animal bear and to bear with me are spelled the same way.",
+      "cn": "所以动物“bear”和“bear with me”拼写是一样的。"
+    },
+    {
+      "id": 180,
+      "en": "It looks exactly like the animal, but we're not talking about the animal.",
+      "cn": "它看起来和动物完全一样，但我们不是在谈论动物。"
+    },
+    {
+      "id": 181,
+      "en": "No, we're asking someone to tolerate something that's annoying or frustrating.",
+      "cn": "不，我们是在请求某人容忍一些令人烦恼或沮丧的事情。"
+    },
+    {
+      "id": 182,
+      "en": "So, for example, I'm trying to show you a file on my computer, Marco.",
+      "cn": "所以，例如，我试图在我的计算机上给你展示一个文件，马尔科。"
+    },
+    {
+      "id": 183,
+      "en": "My computer's not working.",
+      "cn": "我的计算机不工作。"
+    },
+    {
+      "id": 184,
+      "en": "I say, please bear with me a second.",
+      "cn": "我说，请耐心等我一下。"
+    },
+    {
+      "id": 185,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 186,
+      "en": "I have to reboot my computer.",
+      "cn": "我需要重启我的计算机。"
+    },
+    {
+      "id": 187,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 188,
+      "en": "We have to wait here.",
+      "cn": "我们得在这里等。"
+    },
+    {
+      "id": 189,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 190,
+      "en": "Now, towards the end of the dialogue, when we talked about to crop up, the second part of that, Mr. Ford said, unfortunately, technical problems do crop up from time to time.",
+      "cn": "现在，在对话的最后，当我们谈到“crop up”时，福特先生说，不幸的是，技术问题确实会不时出现。"
+    },
+    {
+      "id": 191,
+      "en": "So we already discussed cropped up.",
+      "cn": "所以我们已经讨论过“cropped up”。"
+    },
+    {
+      "id": 192,
+      "en": "What is time to time mean?",
+      "cn": "“time to time”是什么意思？"
+    },
+    {
+      "id": 193,
+      "en": "From time to time.",
+      "cn": "“从时间到时间”。"
+    },
+    {
+      "id": 194,
+      "en": "Okay, think of this as a set phrase, because we said already that you could also say sometimes.",
+      "cn": "好的，把这个视为一个固定短语，因为我们已经说过你也可以说“有时”。"
+    },
+    {
+      "id": 195,
+      "en": "So from time to time means every once in a while or...",
+      "cn": "所以“从时间到时间”意味着偶尔或..."
+    },
+    {
+      "id": 196,
+      "en": "Occasionally.",
+      "cn": "偶尔。"
+    },
+    {
+      "id": 197,
+      "en": "So it's an adverbial phrase.",
+      "cn": "所以这是一个副词短语。"
+    },
+    {
+      "id": 198,
+      "en": "It's a way of telling people how often something happens.",
+      "cn": "这是告诉人们某事发生频率的方式。"
+    },
+    {
+      "id": 199,
+      "en": "But in this case, it's not very common.",
+      "cn": "但在这种情况下，它并不常见。"
+    },
+    {
+      "id": 200,
+      "en": "So, for example, you can say, I like to go to the movies from time to time.",
+      "cn": "例如，你可以说，我喜欢偶尔去看电影。"
+    },
+    {
+      "id": 201,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 202,
+      "en": "So maybe once or twice a month you like to go to the movies.",
+      "cn": "所以也许每个月你喜欢去看一两次电影。"
+    },
+    {
+      "id": 203,
+      "en": "But what if I come to work every day?",
+      "cn": "但如果我每天来上班呢？"
+    },
+    {
+      "id": 204,
+      "en": "Do I come to work from time to time?",
+      "cn": "我是偶尔来上班吗？"
+    },
+    {
+      "id": 205,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 206,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 207,
+      "en": "Okay, so from time to time is rarely or occasionally.",
+      "cn": "好吧，所以“从时间到时间”是很少或偶尔。"
+    },
+    {
+      "id": 208,
+      "en": "Not very often.",
+      "cn": "不常。"
+    },
+    {
+      "id": 209,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 210,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 211,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 212,
+      "en": "So now let's listen to our dialogue one last time and review everything we've just learned.",
+      "cn": "现在让我们最后一次听我们的对话，复习一下我们刚刚学到的内容。"
+    },
+    {
+      "id": 213,
+      "en": "Okay, so if we could dim the lights, Jonathan, we can kick off with the first TV advert.",
+      "cn": "好吧，如果我们可以调暗灯光，Jonathan，我们可以开始第一个电视广告。"
+    },
+    {
+      "id": 214,
+      "en": "Please note that we are still in the early days with this advert, so it might seem a bit rough around the edges.",
+      "cn": "请注意，我们在这个广告的早期阶段，所以它可能看起来有点粗糙。"
+    },
+    {
+      "id": 215,
+      "en": "Okay, so I just need to click this and the advert should pop up on the screen.",
+      "cn": "好吧，我只需要点击这个，广告就应该在屏幕上弹出。"
+    },
+    {
+      "id": 216,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 217,
+      "en": "Sorry about this.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 218,
+      "en": "Bear with me a second.",
+      "cn": "请稍等我一下。"
+    },
+    {
+      "id": 219,
+      "en": "There seems to be a problem with the projector.",
+      "cn": "投影仪似乎有问题。"
+    },
+    {
+      "id": 220,
+      "en": "Let me see.",
+      "cn": "让我看看。"
+    },
+    {
+      "id": 221,
+      "en": "Jonathan, could you lend a hand a second?",
+      "cn": "Jonathan，你能帮我一下吗？"
+    },
+    {
+      "id": 222,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "cn": "看起来投影仪没有识别电脑。"
+    },
+    {
+      "id": 223,
+      "en": "Let me check the connection a second.",
+      "cn": "让我检查一下连接。"
+    },
+    {
+      "id": 224,
+      "en": "Well, the connection seems okay and the computer is running normally.",
+      "cn": "嗯，连接似乎正常，电脑也在正常运行。"
+    },
+    {
+      "id": 225,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 226,
+      "en": "Okay, sorry guys.",
+      "cn": "好吧，抱歉大家。"
+    },
+    {
+      "id": 227,
+      "en": "Obviously a problem with the system.",
+      "cn": "显然是系统出现了问题。"
+    },
+    {
+      "id": 228,
+      "en": "Let's just reboot and start over.",
+      "cn": "我们重启一下，重新开始。"
+    },
+    {
+      "id": 229,
+      "en": "Let's see if this resolves the issue.",
+      "cn": "看看这是否能解决问题。"
+    },
+    {
+      "id": 230,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 231,
+      "en": "Let's try again.",
+      "cn": "再试一次。"
+    },
+    {
+      "id": 232,
+      "en": "No, still nothing, Michael.",
+      "cn": "不，还是没有，Michael。"
+    },
+    {
+      "id": 233,
+      "en": "There might be a technical issue with the projector.",
+      "cn": "投影仪可能有技术问题。"
+    },
+    {
+      "id": 234,
+      "en": "I think maybe the projector has overheated.",
+      "cn": "我想投影仪可能过热了。"
+    },
+    {
+      "id": 235,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "cn": "我们可能需要冷却10分钟再重新开始。"
+    },
+    {
+      "id": 236,
+      "en": "I'll call IT support to come over right now.",
+      "cn": "我现在就打电话给IT支持。"
+    },
+    {
+      "id": 237,
+      "en": "Okay, guys.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 238,
+      "en": "Unfortunately, technical problems do crop up from time to time, don't they?",
+      "cn": "不幸的是，技术问题偶尔会出现，不是吗？"
+    },
+    {
+      "id": 239,
+      "en": "But it's not a huge problem.",
+      "cn": "但这不是大问题。"
+    },
+    {
+      "id": 240,
+      "en": "In the meantime, while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.",
+      "cn": "在此期间，当IT人员处理这个问题时，我可以多谈谈广告概念以及我们希望通过这个活动实现的目标。"
+    },
+    {
+      "id": 241,
+      "en": "Alright, so this was part 7 of our presentation series.",
+      "cn": "好吧，这是我们演示系列的第7部分。"
+    },
+    {
+      "id": 242,
+      "en": "And actually these type of problems occur very, very often.",
+      "cn": "实际上，这类问题发生得非常非常频繁。"
+    },
+    {
+      "id": 243,
+      "en": "Specifically with the laptop and the projector and sometimes it doesn't work, it doesn't recognize it.",
+      "cn": "特别是笔记本电脑和投影仪，有时它不工作，无法识别。"
+    },
+    {
+      "id": 244,
+      "en": "And so this is a nice way of handling it.",
+      "cn": "所以这是一个很好的处理方式。"
+    },
+    {
+      "id": 245,
+      "en": "This is, and we hope that these are phrases that you can use in your daily life as well.",
+      "cn": "这是，我们希望这些短语你们也能在日常生活中使用。"
+    },
+    {
+      "id": 246,
+      "en": "Maybe you're working with your colleagues and you're having some technical problems.",
+      "cn": "也许你在和同事一起工作时遇到一些技术问题。"
+    },
+    {
+      "id": 247,
+      "en": "Or if you're having a problem and someone gives you instructions for how to solve that problem, like I often get this from my technical team.",
+      "cn": "或者如果你遇到问题，有人给你解决问题的指示，就像我经常从我的技术团队那里得到的。"
+    },
+    {
+      "id": 248,
+      "en": "I say, listen, I have a problem.",
+      "cn": "我说，听着，我有个问题。"
+    },
+    {
+      "id": 249,
+      "en": "And they say, hey, just reboot your computer and it will be okay.",
+      "cn": "他们说，嘿，只需重启你的电脑就可以了。"
+    },
+    {
+      "id": 250,
+      "en": "So these are very, very common issues that I think that you can learn how to describe in English with today's lesson.",
+      "cn": "所以这些是非常非常常见的问题，我认为你可以通过今天的课程学会如何用英语描述。"
+    },
+    {
+      "id": 251,
+      "en": "Alright, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 252,
+      "en": "And of course if you guys have any questions or any doubts about this or any of our lessons, please come to our website, EnglishPod.com.",
+      "cn": "当然，如果你们对这个或我们任何课程有任何问题或疑虑，请访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 253,
+      "en": "On the lessons page you can leave your comments and questions.",
+      "cn": "在课程页面上，你可以留下你的评论和问题。"
+    },
+    {
+      "id": 254,
+      "en": "And we'll see you guys next time.",
+      "cn": "我们下次再见。"
+    },
+    {
+      "id": 255,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 256,
+      "en": "Laughter.",
+      "cn": "笑声。"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0100",
+  "title": "EnglishPod 中级 0100",
+  "totalSegments": 239,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another lesson here with us at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一节课。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we are going to have a very casual, normal conversation.",
+      "cn": "今天我们将进行一次非常随意、正常的对话。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to listen in on some small talk between a taxi driver and the passenger.",
+      "cn": "我们将听一段出租车司机和乘客之间的小谈话。"
+    },
+    {
+      "id": 8,
+      "en": "Small talk.",
+      "cn": "小谈话。"
+    },
+    {
+      "id": 9,
+      "en": "So that's basically... Small, short conversations you have with someone that you don't know very well.",
+      "cn": "基本上就是... 你和不太熟悉的人进行的小、短的对话。"
+    },
+    {
+      "id": 10,
+      "en": "Okay, so typical questions like, how old are you, where you're from, etc.",
+      "cn": "好的，像“你多大了”、“你来自哪里”等典型问题。"
+    },
+    {
+      "id": 11,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 12,
+      "en": "And this can be really hard for English learners because they often don't know what the right thing to say or the right thing to talk about.",
+      "cn": "这对英语学习者来说可能很难，因为他们常常不知道该说什么或谈论什么。"
+    },
+    {
+      "id": 13,
+      "en": "So we're going to give you a lot of phrases in this lesson that you can use in small talk.",
+      "cn": "所以我们将在这节课中给你很多可以用于小谈话的短语。"
+    },
+    {
+      "id": 14,
+      "en": "Okay, so we don't have anything to preview today, so let's listen to the dialogue for the first time and then we'll come back.",
+      "cn": "好的，今天没有预览内容，所以我们先听对话，然后再回来。"
+    },
+    {
+      "id": 15,
+      "en": "Where to, miss?",
+      "cn": "请问去哪儿，小姐？"
+    },
+    {
+      "id": 16,
+      "en": "Hi, Crenshaw and Hawthorne at the Holiday Inn that is on that corner.",
+      "cn": "嗨，去假日酒店的Crenshaw和Hawthorne交叉口。"
+    },
+    {
+      "id": 17,
+      "en": "Sure thing.",
+      "cn": "好的。"
+    },
+    {
+      "id": 18,
+      "en": "So, where are you flying in from?",
+      "cn": "那么，你是从哪里飞来的？"
+    },
+    {
+      "id": 19,
+      "en": "From China.",
+      "cn": "从中国。"
+    },
+    {
+      "id": 20,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 21,
+      "en": "You don't look very Chinese to me, if you don't mind me saying so.",
+      "cn": "如果你不介意我这么说，你看起来不太像中国人。"
+    },
+    {
+      "id": 22,
+      "en": "It's fine.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 23,
+      "en": "I am actually from Mexico.",
+      "cn": "我其实来自墨西哥。"
+    },
+    {
+      "id": 24,
+      "en": "I was in China on a business trip visiting some local companies that manufacture bathroom products.",
+      "cn": "我在中国出差，拜访一些制造浴室产品的当地公司。"
+    },
+    {
+      "id": 25,
+      "en": "Wow, sounds interesting.",
+      "cn": "哇，听起来很有趣。"
+    },
+    {
+      "id": 26,
+      "en": "Excuse me if I'm being a bit nosy, but how old are you?",
+      "cn": "如果我有点好奇，请原谅我，但你多大了？"
+    },
+    {
+      "id": 27,
+      "en": "Don't you know it's rude to ask a lady her age?",
+      "cn": "你不知道问女士年龄是不礼貌的吗？"
+    },
+    {
+      "id": 28,
+      "en": "Don't get me wrong, it's just that you seem so young and already doing business overseas.",
+      "cn": "不要误解我的意思，只是你看起来这么年轻，已经在海外做生意了。"
+    },
+    {
+      "id": 29,
+      "en": "Well, thank you.",
+      "cn": "好吧，谢谢你。"
+    },
+    {
+      "id": 30,
+      "en": "In that case, I am 26 years old, and what about you yourself?",
+      "cn": "在这种情况下，我26岁，你呢？"
+    },
+    {
+      "id": 31,
+      "en": "I'm 40 years old and was born and raised here in the good ol' US of A, although I have some Colombian heritage.",
+      "cn": "我40岁，出生并在美国长大，虽然我有一些哥伦比亚血统。"
+    },
+    {
+      "id": 32,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 33,
+      "en": "That's great!",
+      "cn": "太好了！"
+    },
+    {
+      "id": 34,
+      "en": "Do you speak Spanish?",
+      "cn": "你会说西班牙语吗？"
+    },
+    {
+      "id": 35,
+      "en": "Uh, yeah, of course.",
+      "cn": "嗯，当然会。"
+    },
+    {
+      "id": 36,
+      "en": "Alright,",
+      "cn": "好吧，"
+    },
+    {
+      "id": 37,
+      "en": "so I don't think this guy spoke much Spanish, do you?",
+      "cn": "我觉得这个家伙不太会说西班牙语，你觉得呢？"
+    },
+    {
+      "id": 38,
+      "en": "No, even though he has Colombian heritage, I think he doesn't speak much, but maybe he's just a little bit rusty.",
+      "cn": "不，尽管他有哥伦比亚血统，我觉得他不太会说，可能只是有点生疏。"
+    },
+    {
+      "id": 39,
+      "en": "Maybe, but what he does speak is English, and since this is EnglishPod, why don't we look at some of the phrases that they used for Smalltalk and Fluency Builder.",
+      "cn": "也许，但他会说英语，既然这是EnglishPod，为什么我们不看看他们在小谈话和流利表达中使用的一些短语呢？"
+    },
+    {
+      "id": 40,
+      "en": "Alright, so today on Fluency Builder, we're gonna take a look at phrases that both the passenger and the taxi driver use to make Smalltalk.",
+      "cn": "好的，今天在流利表达中，我们将看看乘客和出租车司机用来进行小谈话的短语。"
+    },
+    {
+      "id": 41,
+      "en": "So why don't we start with the first one?",
+      "cn": "那么我们为什么不从第一个开始呢？"
+    },
+    {
+      "id": 42,
+      "en": "Alright, so the taxi driver tells the passenger that she doesn't look very Chinese, if you don't mind me saying so.",
+      "cn": "好的，出租车司机告诉乘客，如果你不介意我这么说，你看起来不太像中国人。"
+    },
+    {
+      "id": 43,
+      "en": "Right, so he said, you don't look very Chinese to me, if you don't mind me saying so.",
+      "cn": "对，他说，你看起来不太像中国人，如果你不介意我这么说。"
+    },
+    {
+      "id": 44,
+      "en": "If you don't mind me saying so.",
+      "cn": "如果你不介意我这么说。"
+    },
+    {
+      "id": 45,
+      "en": "So what does he mean by this last part of the sentence?",
+      "cn": "那么这句话的最后部分是什么意思？"
+    },
+    {
+      "id": 46,
+      "en": "Well, this is a phrase that we use to soften a sort of statement that might be a little bit rude.",
+      "cn": "这是我们用来缓和可能有点无礼的陈述的短语。"
+    },
+    {
+      "id": 47,
+      "en": "She could be Chinese.",
+      "cn": "她可能是中国人。"
+    },
+    {
+      "id": 48,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 49,
+      "en": "Right, so it may be a little bit rude to say that, but he kind of apologizes.",
+      "cn": "对，所以说这可能有点无礼，但他有点道歉。"
+    },
+    {
+      "id": 50,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 51,
+      "en": "Right, by saying if you don't mind me saying so.",
+      "cn": "对，通过说如果你不介意我这么说。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, so for example, I could say, hey Marco, you look a little tired today if you don't mind me saying so.",
+      "cn": "好的，例如，我可以说，嘿Marco，你今天看起来有点累，如果你不介意我这么说。"
+    },
+    {
+      "id": 53,
+      "en": "Okay, so does it always go at the end?",
+      "cn": "好的，这个短语总是放在最后吗？"
+    },
+    {
+      "id": 54,
+      "en": "You could use it at the beginning.",
+      "cn": "你可以放在开头。"
+    },
+    {
+      "id": 55,
+      "en": "If you don't mind me saying so, I just don't think this is a good idea.",
+      "cn": "如果你不介意我这么说，我只是觉得这不是个好主意。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 57,
+      "en": "So you can use this phrase in the beginning or at the end of a sentence.",
+      "cn": "所以你可以在句子的开头或结尾使用这个短语。"
+    },
+    {
+      "id": 58,
+      "en": "Right, and it makes your statement a little bit less rude.",
+      "cn": "对，这样可以让你的陈述显得不那么无礼。"
+    },
+    {
+      "id": 59,
+      "en": "If you don't mind me saying so.",
+      "cn": "如果你不介意我这么说。"
+    },
+    {
+      "id": 60,
+      "en": "Now again, he also apologizes a little bit when he says, excuse me if I am being a bit nosy but... Excuse me if I'm being a bit nosy but... Excuse me if I'm being a bit nosy but... Okay, so let's take a look at this.",
+      "cn": "现在，他在说“如果我有点好奇，请原谅我，但...”时也稍微道歉了。"
+    },
+    {
+      "id": 61,
+      "en": "Nosy.",
+      "cn": "好奇。"
+    },
+    {
+      "id": 62,
+      "en": "What's this?",
+      "cn": "这是什么？"
+    },
+    {
+      "id": 63,
+      "en": "Okay, when somebody is nosy, it means they are very curious.",
+      "cn": "好的，当某人好奇时，意味着他们非常好奇。"
+    },
+    {
+      "id": 64,
+      "en": "They are asking too many questions.",
+      "cn": "他们问了太多问题。"
+    },
+    {
+      "id": 65,
+      "en": "Yeah, asking more questions than they should ask.",
+      "cn": "是的，问的问题比他们应该问的多。"
+    },
+    {
+      "id": 66,
+      "en": "Right, so he apologizes and says, well, excuse me if I'm asking too many questions.",
+      "cn": "对，所以他道歉并说，嗯，如果我问了太多问题，请原谅我。"
+    },
+    {
+      "id": 67,
+      "en": "And then he asks her another question.",
+      "cn": "然后他又问了她一个问题。"
+    },
+    {
+      "id": 68,
+      "en": "He asks her how old she is.",
+      "cn": "他问她多大了。"
+    },
+    {
+      "id": 69,
+      "en": "Right, so again, it's a polite way of maybe asking a question that might be a little bit sensitive.",
+      "cn": "对，所以这又是一个礼貌的方式，可能是在问一个有点敏感的问题。"
+    },
+    {
+      "id": 70,
+      "en": "Yeah, or a little bit impolite.",
+      "cn": "是的，或者有点不礼貌。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, so of course asking a woman her age maybe is a little bit impolite, right?",
+      "cn": "好的，当然问一个女人的年龄可能有点不礼貌，对吧？"
+    },
+    {
+      "id": 72,
+      "en": "Yes, typically women don't like that too much.",
+      "cn": "是的，通常女性不太喜欢这样。"
+    },
+    {
+      "id": 73,
+      "en": "But our next phrase, we heard the taxi driver say, don't get me wrong.",
+      "cn": "但我们下一个短语，我们听到出租车司机说，不要误解我的意思。"
+    },
+    {
+      "id": 74,
+      "en": "Don't get me wrong.",
+      "cn": "不要误解我的意思。"
+    },
+    {
+      "id": 75,
+      "en": "Don't get me wrong.",
+      "cn": "不要误解我的意思。"
+    },
+    {
+      "id": 76,
+      "en": "Okay, so don't get me wrong.",
+      "cn": "好的，所以不要误解我的意思。"
+    },
+    {
+      "id": 77,
+      "en": "He says, well, don't misunderstand what I'm saying.",
+      "cn": "他在说，嗯，不要误解我的意思。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "This phrase is used so commonly in English that I think it would help us to hear some examples.",
+      "cn": "这个短语在英语中使用得非常普遍，我认为听一些例子会对我们有帮助。"
+    },
+    {
+      "id": 80,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 81,
+      "en": "Don't get me wrong.",
+      "cn": "不要误解我的意思。"
+    },
+    {
+      "id": 82,
+      "en": "It's not that I think you stole my computer.",
+      "cn": "我不是说我认为你偷了我的电脑。"
+    },
+    {
+      "id": 83,
+      "en": "It's just that you were the only one who could get into my room.",
+      "cn": "只是你是唯一一个能进我房间的人。"
+    },
+    {
+      "id": 84,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 85,
+      "en": "I do have a few problems with the plan, but don't get me wrong.",
+      "cn": "我确实对这个计划有一些问题，但不要误解我的意思。"
+    },
+    {
+      "id": 86,
+      "en": "I still think it's a good idea.",
+      "cn": "我仍然认为这是个好主意。"
+    },
+    {
+      "id": 87,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 88,
+      "en": "Oh, don't get me wrong.",
+      "cn": "哦，不要误解我的意思。"
+    },
+    {
+      "id": 89,
+      "en": "I think John's a nice guy.",
+      "cn": "我认为John是个好人。"
+    },
+    {
+      "id": 90,
+      "en": "He's just a bit disorganized.",
+      "cn": "只是他有点杂乱。"
+    },
+    {
+      "id": 91,
+      "en": "All right, very good example.",
+      "cn": "好的，非常好的例子。"
+    },
+    {
+      "id": 92,
+      "en": "So don't get me wrong, right?",
+      "cn": "所以不要误解我的意思，对吧？"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "And now for the final phrase on putting it together today.",
+      "cn": "现在是今天最后一个短语的总结。"
+    },
+    {
+      "id": 95,
+      "en": "Well, the passenger, the woman says her age, and she says, I'm 26 years old.",
+      "cn": "好吧，乘客，那个女人说她的年龄，她说，我26岁。"
+    },
+    {
+      "id": 96,
+      "en": "And what about yourself?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 97,
+      "en": "What about yourself?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 98,
+      "en": "What about yourself?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 99,
+      "en": "All right, now, this sentence isn't very correct, actually, right?",
+      "cn": "好的，现在，这句话其实不太正确，对吧？"
+    },
+    {
+      "id": 100,
+      "en": "Yeah, technically, it's not correct in grammar, but it is used so commonly every day by American English speakers that we thought we'd show it to you.",
+      "cn": "是的，从语法上讲，它不正确，但它在美国英语使用者中非常常见，所以我们想给你展示。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, so you would say, I am 26 years old, and what about you?",
+      "cn": "好的，你会说，我26岁，你呢？"
+    },
+    {
+      "id": 102,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 103,
+      "en": "Okay, but commonly, you will hear people say, what about yourself?",
+      "cn": "好的，但通常你会听到人们说，你自己呢？"
+    },
+    {
+      "id": 104,
+      "en": "And if you use this, you'll sound really fluent and really native-like.",
+      "cn": "如果你这样说，你听起来会非常流利，像个本地人。"
+    },
+    {
+      "id": 105,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 106,
+      "en": "So what about yourself?",
+      "cn": "那你自己呢？"
+    },
+    {
+      "id": 107,
+      "en": "So again, it's just like, what about you?",
+      "cn": "所以再一次，这就像，你呢？"
+    },
+    {
+      "id": 108,
+      "en": "So I could say, hey, Marco, I'm going away on holiday this weekend, and what about yourself?",
+      "cn": "我可以说，嘿，Marco，我这个周末要去度假，你自己呢？"
+    },
+    {
+      "id": 109,
+      "en": "Okay, what about yourself?",
+      "cn": "好的，你自己呢？"
+    },
+    {
+      "id": 110,
+      "en": "So we've taken a look at these four phrases on putting it together.",
+      "cn": "我们已经看了这四个短语的组合。"
+    },
+    {
+      "id": 111,
+      "en": "Why don't we listen to the dialogue for the second time?",
+      "cn": "我们再听一次对话吧？"
+    },
+    {
+      "id": 112,
+      "en": "We're going to slow it down a little bit, and then we'll come back and take a look at some vocabulary words on language takeaway.",
+      "cn": "我们会稍微放慢速度，然后再回来看看一些语言要点的词汇。"
+    },
+    {
+      "id": 113,
+      "en": "Where to, miss?",
+      "cn": "请问去哪儿，小姐？"
+    },
+    {
+      "id": 114,
+      "en": "Hi, Crenshaw and Hawthorne at the Holiday Inn that is on that corner.",
+      "cn": "嗨，Crenshaw和Hawthorne在那个角落的假日酒店。"
+    },
+    {
+      "id": 115,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 116,
+      "en": "So, where are you flying in from?",
+      "cn": "那么，你是从哪里飞来的？"
+    },
+    {
+      "id": 117,
+      "en": "From China.",
+      "cn": "从中国。"
+    },
+    {
+      "id": 118,
+      "en": "Really?",
+      "cn": "真的吗？"
+    },
+    {
+      "id": 119,
+      "en": "You don't look very Chinese to me, if you don't mind me saying so.",
+      "cn": "如果你不介意我这么说，你看起来不太像中国人。"
+    },
+    {
+      "id": 120,
+      "en": "It's fine.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 121,
+      "en": "I am actually from Mexico.",
+      "cn": "我其实来自墨西哥。"
+    },
+    {
+      "id": 122,
+      "en": "I was in China on a business trip, visiting some local companies that manufacture bathroom products.",
+      "cn": "我在中国出差，拜访一些制造浴室产品的当地公司。"
+    },
+    {
+      "id": 123,
+      "en": "Wow, sounds interesting.",
+      "cn": "哇，听起来很有趣。"
+    },
+    {
+      "id": 124,
+      "en": "Excuse me if I'm being a bit nosy, but how old are you?",
+      "cn": "抱歉我有点好奇，但你多大了？"
+    },
+    {
+      "id": 125,
+      "en": "Don't you know it's rude to ask a lady her age?",
+      "cn": "你不知道问女士年龄是不礼貌的吗？"
+    },
+    {
+      "id": 126,
+      "en": "Don't get me wrong.",
+      "cn": "别误会我。"
+    },
+    {
+      "id": 127,
+      "en": "It's just that you seem so young and already doing business overseas.",
+      "cn": "只是你看起来这么年轻，已经在海外做生意了。"
+    },
+    {
+      "id": 128,
+      "en": "Well, thank you.",
+      "cn": "好吧，谢谢你。"
+    },
+    {
+      "id": 129,
+      "en": "In that case, I am 26 years old.",
+      "cn": "在这种情况下，我26岁。"
+    },
+    {
+      "id": 130,
+      "en": "And what about yourself?",
+      "cn": "那你自己呢？"
+    },
+    {
+      "id": 131,
+      "en": "I am 40 years old and was born and raised here in the good old U.S.",
+      "cn": "我40岁，出生并在这里长大，老美利坚合众国。"
+    },
+    {
+      "id": 132,
+      "en": "of A.",
+      "cn": "的A。"
+    },
+    {
+      "id": 133,
+      "en": "Although I have some Colombian heritage.",
+      "cn": "虽然我有一些哥伦比亚血统。"
+    },
+    {
+      "id": 134,
+      "en": "Really?",
+      "cn": "真的吗？"
+    },
+    {
+      "id": 135,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 136,
+      "en": "Do you speak some Spanish?",
+      "cn": "你会说一些西班牙语吗？"
+    },
+    {
+      "id": 137,
+      "en": "Yeah, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 138,
+      "en": "Well, we've got some interesting vocabulary words and phrases here in Language Takeaway.",
+      "cn": "好吧，我们在语言要点中有一些有趣的词汇和短语。"
+    },
+    {
+      "id": 139,
+      "en": "And the first one... Well, after she gets in the taxi and tells him where she wants to go, he answers by saying, Sure thing.",
+      "cn": "第一个... 好吧，在她上出租车并告诉他她想去哪里后，他回答说，没问题。"
+    },
+    {
+      "id": 140,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 141,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 142,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 143,
+      "en": "So if I say, yeah, sure thing, what does that mean?",
+      "cn": "所以如果我说，是的，没问题，这是什么意思？"
+    },
+    {
+      "id": 144,
+      "en": "Well, let's listen to some examples to help us understand.",
+      "cn": "好吧，让我们听一些例子来帮助我们理解。"
+    },
+    {
+      "id": 145,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 146,
+      "en": "Do you mind lending me a hundred bucks?",
+      "cn": "你介意借我一百块吗？"
+    },
+    {
+      "id": 147,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 148,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 149,
+      "en": "Could you please send me the email by the end of the day?",
+      "cn": "你能在今天结束前把邮件发给我吗？"
+    },
+    {
+      "id": 150,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 151,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 152,
+      "en": "Do you mind lending me a hundred bucks?",
+      "cn": "你介意借我一百块吗？"
+    },
+    {
+      "id": 153,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 154,
+      "en": "Could you please send me the email by the end of the day?",
+      "cn": "你能在今天结束前把邮件发给我吗？"
+    },
+    {
+      "id": 155,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 156,
+      "en": "Example four.",
+      "cn": "示例四。"
+    },
+    {
+      "id": 157,
+      "en": "Can you get some milk on the way home?",
+      "cn": "你能在回家的路上买些牛奶吗？"
+    },
+    {
+      "id": 158,
+      "en": "Sure thing, I'm on my way now.",
+      "cn": "没问题，我现在就去。"
+    },
+    {
+      "id": 159,
+      "en": "Okay, so sure thing, basically, yeah, no problem, or okay.",
+      "cn": "好的，所以没问题，基本上就是，是的，没问题，或者好的。"
+    },
+    {
+      "id": 160,
+      "en": "Or I'll do it.",
+      "cn": "或者我会去做。"
+    },
+    {
+      "id": 161,
+      "en": "I'll do it.",
+      "cn": "我会去做。"
+    },
+    {
+      "id": 162,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 163,
+      "en": "It's fine.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 164,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 165,
+      "en": "So it's a very common way you will hear this a lot when somebody agrees or says, yes, no problem.",
+      "cn": "所以这是一个非常常见的说法，当有人同意或说，是的，没问题时，你会经常听到。"
+    },
+    {
+      "id": 166,
+      "en": "Yeah, and again, it will help you sound really native-like to use this phrase.",
+      "cn": "是的，再次使用这个短语会让你听起来非常像本地人。"
+    },
+    {
+      "id": 167,
+      "en": "Well, the next one, the taxi driver says, I was born and raised here.",
+      "cn": "好吧，下一个，出租车司机说，我在这里出生和长大。"
+    },
+    {
+      "id": 168,
+      "en": "I was born and raised here.",
+      "cn": "我在这里出生和长大。"
+    },
+    {
+      "id": 169,
+      "en": "Born and raised.",
+      "cn": "出生和长大。"
+    },
+    {
+      "id": 170,
+      "en": "Okay, so this is a way of saying I was born in this country and I haven't left this country.",
+      "cn": "好的，这是一种说法，表示我在这个国家出生，并且没有离开这个国家。"
+    },
+    {
+      "id": 171,
+      "en": "That's right, so I'm from this country.",
+      "cn": "没错，所以我来自这个国家。"
+    },
+    {
+      "id": 172,
+      "en": "Okay, born and raised here in the good old US of A.",
+      "cn": "好吧，出生和长大在老美利坚合众国。"
+    },
+    {
+      "id": 173,
+      "en": "Good old US of A.",
+      "cn": "老美利坚合众国。"
+    },
+    {
+      "id": 174,
+      "en": "The good old US of A.",
+      "cn": "老美利坚合众国。"
+    },
+    {
+      "id": 175,
+      "en": "So this is a pretty interesting way of saying America.",
+      "cn": "所以这是一种有趣的说法，指的是美国。"
+    },
+    {
+      "id": 176,
+      "en": "Right, it's actually more of a phrase, right?",
+      "cn": "对，这实际上更像是一个短语，对吧？"
+    },
+    {
+      "id": 177,
+      "en": "The good old US of A.",
+      "cn": "老美利坚合众国。"
+    },
+    {
+      "id": 178,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 179,
+      "en": "Okay, so it means the good United States of America.",
+      "cn": "好吧，这意味着美利坚合众国。"
+    },
+    {
+      "id": 180,
+      "en": "Yeah, it's kind of a fond way or a friendly way of describing America.",
+      "cn": "是的，这是一种亲切或友好的方式来描述美国。"
+    },
+    {
+      "id": 181,
+      "en": "All right, and we have one more word for language takeaway.",
+      "cn": "好吧，我们还有一个语言要点的词。"
+    },
+    {
+      "id": 182,
+      "en": "Well, the taxi driver was talking about his Colombian heritage.",
+      "cn": "好吧，出租车司机在谈论他的哥伦比亚血统。"
+    },
+    {
+      "id": 183,
+      "en": "Colombian heritage.",
+      "cn": "哥伦比亚血统。"
+    },
+    {
+      "id": 184,
+      "en": "Heritage.",
+      "cn": "血统。"
+    },
+    {
+      "id": 185,
+      "en": "All right, so if I have Colombian heritage, what does that mean?",
+      "cn": "好吧，如果我有哥伦比亚血统，这意味着什么？"
+    },
+    {
+      "id": 186,
+      "en": "Your grandmother or, you know, grandfather or great-grandmother or someone in your family is from Colombia.",
+      "cn": "你的祖母，或者，你知道，祖父或曾祖母，或者你家里有人来自哥伦比亚。"
+    },
+    {
+      "id": 187,
+      "en": "Okay, and what about the word heritage by itself?",
+      "cn": "好吧，单独说血统这个词呢？"
+    },
+    {
+      "id": 188,
+      "en": "Yeah, so your heritage is basically your culture, your...",
+      "cn": "是的，所以你的血统基本上是你的文化，你的..."
+    },
+    {
+      "id": 189,
+      "en": "Yeah, your customs, your history.",
+      "cn": "是的，你的习俗，你的历史。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, so heritage.",
+      "cn": "好吧，所以血统。"
+    },
+    {
+      "id": 191,
+      "en": "A country rich in heritage.",
+      "cn": "一个拥有丰富血统的国家。"
+    },
+    {
+      "id": 192,
+      "en": "Lots of good old historical culture in that country.",
+      "cn": "那个国家有很多优秀的历史文化。"
+    },
+    {
+      "id": 193,
+      "en": "Okay, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 194,
+      "en": "Now it's time for us to listen to the dialogue for the last time.",
+      "cn": "现在是我们最后一次听对话的时候了。"
+    },
+    {
+      "id": 195,
+      "en": "Now we can understand all these phrases and these great words that we've just looked at.",
+      "cn": "现在我们可以理解我们刚刚看到的所有这些短语和伟大的词汇。"
+    },
+    {
+      "id": 196,
+      "en": "And then we'll come back and talk a little bit more.",
+      "cn": "然后我们再回来聊聊。"
+    },
+    {
+      "id": 197,
+      "en": "Where to, miss?",
+      "cn": "请问去哪儿，小姐？"
+    },
+    {
+      "id": 198,
+      "en": "Hi, Crenshaw and Hawthorne at the Holiday Inn that is on that corner.",
+      "cn": "嗨，Crenshaw和Hawthorne在那个角落的假日酒店。"
+    },
+    {
+      "id": 199,
+      "en": "Sure thing.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 200,
+      "en": "So, where are you flying in from?",
+      "cn": "那么，你是从哪里飞来的？"
+    },
+    {
+      "id": 201,
+      "en": "From China.",
+      "cn": "从中国。"
+    },
+    {
+      "id": 202,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 203,
+      "en": "You don't look very Chinese to me, if you don't mind me saying so.",
+      "cn": "如果你不介意我这么说，你看起来不太像中国人。"
+    },
+    {
+      "id": 204,
+      "en": "It's fine, I am actually from Mexico.",
+      "cn": "没关系，我其实是墨西哥人。"
+    },
+    {
+      "id": 205,
+      "en": "I was in China on a business trip, visiting some local companies that manufacture bathroom products.",
+      "cn": "我在中国出差，拜访一些制造浴室产品的当地公司。"
+    },
+    {
+      "id": 206,
+      "en": "Wow, sounds interesting.",
+      "cn": "哇，听起来很有趣。"
+    },
+    {
+      "id": 207,
+      "en": "Excuse me if I'm being a bit nosy, but how old are you?",
+      "cn": "对不起，如果我有点好奇，但你多大了？"
+    },
+    {
+      "id": 208,
+      "en": "Don't you know it's rude to ask a lady her age?",
+      "cn": "你不知道问女士年龄是不礼貌的吗？"
+    },
+    {
+      "id": 209,
+      "en": "Don't get me wrong, it's just that you seem so young and already doing business overseas.",
+      "cn": "不要误解我，只是你看起来太年轻了，已经在海外做生意了。"
+    },
+    {
+      "id": 210,
+      "en": "Well, thank you.",
+      "cn": "好吧，谢谢你。"
+    },
+    {
+      "id": 211,
+      "en": "In that case, I am 26 years old, and what about you yourself?",
+      "cn": "那么，我26岁，你呢？"
+    },
+    {
+      "id": 212,
+      "en": "I'm 40 years old and was born and raised here in the good old US of A, although I have some Colombian heritage.",
+      "cn": "我40岁，在美国出生长大，虽然我有一些哥伦比亚血统。"
+    },
+    {
+      "id": 213,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 214,
+      "en": "That's great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 215,
+      "en": "Do you speak Spanish?",
+      "cn": "你会说西班牙语吗？"
+    },
+    {
+      "id": 216,
+      "en": "Yeah, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 217,
+      "en": "So Marco, this taxi driver makes a bit of a mistake when he asks the woman how old she is.",
+      "cn": "所以马尔科，这个出租车司机在问那个女人多大时犯了个小错误。"
+    },
+    {
+      "id": 218,
+      "en": "Yes, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 219,
+      "en": "There are a couple of questions that in some cultures are considered to be normal and okay, but in other cultures they're not really well accepted.",
+      "cn": "有几个问题在某些文化中被认为是正常的，但在其他文化中并不被接受。"
+    },
+    {
+      "id": 220,
+      "en": "Okay, so in Anglo culture, for example, it's really impolite to ask a woman how old she is.",
+      "cn": "好吧，比如在盎格鲁文化中，问女人多大是非常不礼貌的。"
+    },
+    {
+      "id": 221,
+      "en": "Right, women are a little bit more sensitive about their age, others aren't so much, but it's usually better to just not ask.",
+      "cn": "对，女性对年龄更敏感，其他人则不太在意，但通常最好不要问。"
+    },
+    {
+      "id": 222,
+      "en": "And what else should we avoid talking about in small talk?",
+      "cn": "还有什么我们应该避免在闲聊中谈论的？"
+    },
+    {
+      "id": 223,
+      "en": "Well, for example, when you ask a person their occupation, you can ask what they do for a living, but don't ask how much money they make.",
+      "cn": "嗯，比如，当你问一个人的职业时，你可以问他们的工作，但不要问他们赚多少钱。"
+    },
+    {
+      "id": 224,
+      "en": "Anglo people are really sensitive about talking about money.",
+      "cn": "盎格鲁人对谈论金钱非常敏感。"
+    },
+    {
+      "id": 225,
+      "en": "We hate talking about money.",
+      "cn": "我们讨厌谈论金钱。"
+    },
+    {
+      "id": 226,
+      "en": "Right, so don't ask somebody their salary or how much money they make.",
+      "cn": "对，所以不要问别人他们的薪水或赚多少钱。"
+    },
+    {
+      "id": 227,
+      "en": "It's just not considered to be polite.",
+      "cn": "这被认为是不礼貌的。"
+    },
+    {
+      "id": 228,
+      "en": "And another good one to be careful of is asking if someone is married or not.",
+      "cn": "还有一个需要小心的问题是问某人是否已婚。"
+    },
+    {
+      "id": 229,
+      "en": "Right, sometimes you're just being friendly and you want to know if that person has family or something, but you have to be careful when and where you ask this question.",
+      "cn": "对，有时你只是想表现得友好，想知道那个人是否有家庭，但你必须小心何时何地问这个问题。"
+    },
+    {
+      "id": 230,
+      "en": "Right, so if they've mentioned their family, if they talked about their kids or something else to do with their family, then it's okay.",
+      "cn": "对，如果他们提到过家庭，谈论过孩子或其他家庭相关的事情，那就可以。"
+    },
+    {
+      "id": 231,
+      "en": "Right, you can say, well, how long have you been married?",
+      "cn": "对，你可以说，嗯，你结婚多久了？"
+    },
+    {
+      "id": 232,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 233,
+      "en": "But if a guy asks a girl, oh, are you married?",
+      "cn": "但如果一个男生问一个女生，哦，你结婚了吗？"
+    },
+    {
+      "id": 234,
+      "en": "It kind of sounds like maybe he's interested in her or that he's trying to come on to her and to be maybe more than friendly, right?",
+      "cn": "听起来就像他对她感兴趣，或者他想对她表现得比朋友更亲密，对吧？"
+    },
+    {
+      "id": 235,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 236,
+      "en": "Okay, so some great small talk tips and phrases here at EnglishPod.",
+      "cn": "好吧，这里有一些很好的闲聊技巧和短语在EnglishPod。"
+    },
+    {
+      "id": 237,
+      "en": "Now, if you have any questions about this lesson or any other lessons, be sure to visit our website at EnglishPod.com.",
+      "cn": "现在，如果你对这节课或其他课程有任何问题，请务必访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 238,
+      "en": "And if you also have any doubts about which questions you think are appropriate of asking somebody, yeah, come onto the website and let us know.",
+      "cn": "如果你对哪些问题适合问别人有任何疑问，也请来我们的网站告诉我们。"
+    },
+    {
+      "id": 239,
+      "en": "So thanks for downloading, you guys, and until next time, goodbye.",
+      "cn": "所以谢谢你们的下载，直到下次，再见。"
+    }
+  ]
+}

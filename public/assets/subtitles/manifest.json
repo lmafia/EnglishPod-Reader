@@ -1,6 +1,1394 @@
 [
   {
     "type": "series",
+    "id": "englishpod-中级-",
+    "title": "Englishpod 中级 ",
+    "description": "131 lessons in this collection.",
+    "books": [
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0010",
+        "title": "EnglishPod 中级 0010",
+        "totalSegments": 339,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0011",
+        "title": "EnglishPod 中级 0011",
+        "totalSegments": 337,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0012",
+        "title": "EnglishPod 中级 0012",
+        "totalSegments": 307,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0013",
+        "title": "EnglishPod 中级 0013",
+        "totalSegments": 262,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0015",
+        "title": "EnglishPod 中级 0015",
+        "totalSegments": 270,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0019",
+        "title": "EnglishPod 中级 0019",
+        "totalSegments": 267,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0021",
+        "title": "EnglishPod 中级 0021",
+        "totalSegments": 209,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0022",
+        "title": "EnglishPod 中级 0022",
+        "totalSegments": 295,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0028",
+        "title": "EnglishPod 中级 0028",
+        "totalSegments": 228,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0030",
+        "title": "EnglishPod 中级 0030",
+        "totalSegments": 239,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0032",
+        "title": "EnglishPod 中级 0032",
+        "totalSegments": 234,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0035",
+        "title": "EnglishPod 中级 0035",
+        "totalSegments": 215,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0037",
+        "title": "EnglishPod 中级 0037",
+        "totalSegments": 300,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0038",
+        "title": "EnglishPod 中级 0038",
+        "totalSegments": 291,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0041",
+        "title": "EnglishPod 中级 0041",
+        "totalSegments": 244,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0043",
+        "title": "EnglishPod 中级 0043",
+        "totalSegments": 314,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0045",
+        "title": "EnglishPod 中级 0045",
+        "totalSegments": 315,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0048",
+        "title": "EnglishPod 中级 0048",
+        "totalSegments": 284,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0049",
+        "title": "EnglishPod 中级 0049",
+        "totalSegments": 302,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0050",
+        "title": "EnglishPod 中级 0050",
+        "totalSegments": 356,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0053",
+        "title": "EnglishPod 中级 0053",
+        "totalSegments": 292,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0054",
+        "title": "EnglishPod 中级 0054",
+        "totalSegments": 280,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0055",
+        "title": "EnglishPod 中级 0055",
+        "totalSegments": 320,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0056",
+        "title": "EnglishPod 中级 0056",
+        "totalSegments": 277,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0057",
+        "title": "EnglishPod 中级 0057",
+        "totalSegments": 296,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0060",
+        "title": "EnglishPod 中级 0060",
+        "totalSegments": 227,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0064",
+        "title": "EnglishPod 中级 0064",
+        "totalSegments": 332,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0067",
+        "title": "EnglishPod 中级 0067",
+        "totalSegments": 344,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0072",
+        "title": "EnglishPod 中级 0072",
+        "totalSegments": 192,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0075",
+        "title": "EnglishPod 中级 0075",
+        "totalSegments": 283,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0077",
+        "title": "EnglishPod 中级 0077",
+        "totalSegments": 251,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0082",
+        "title": "EnglishPod 中级 0082",
+        "totalSegments": 302,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0083",
+        "title": "EnglishPod 中级 0083",
+        "totalSegments": 277,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0086",
+        "title": "EnglishPod 中级 0086",
+        "totalSegments": 243,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0089",
+        "title": "EnglishPod 中级 0089",
+        "totalSegments": 274,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0095",
+        "title": "EnglishPod 中级 0095",
+        "totalSegments": 287,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0096",
+        "title": "EnglishPod 中级 0096",
+        "totalSegments": 277,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0098",
+        "title": "EnglishPod 中级 0098",
+        "totalSegments": 257,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0100",
+        "title": "EnglishPod 中级 0100",
+        "totalSegments": 239,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0105",
+        "title": "EnglishPod 中级 0105",
+        "totalSegments": 259,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0106",
+        "title": "EnglishPod 中级 0106",
+        "totalSegments": 279,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0109",
+        "title": "EnglishPod 中级 0109",
+        "totalSegments": 270,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0112",
+        "title": "EnglishPod 中级 0112",
+        "totalSegments": 226,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0113",
+        "title": "EnglishPod 中级 0113",
+        "totalSegments": 224,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0114",
+        "title": "EnglishPod 中级 0114",
+        "totalSegments": 295,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0118",
+        "title": "EnglishPod 中级 0118",
+        "totalSegments": 210,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0123",
+        "title": "EnglishPod 中级 0123",
+        "totalSegments": 331,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0126",
+        "title": "EnglishPod 中级 0126",
+        "totalSegments": 258,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0133",
+        "title": "EnglishPod 中级 0133",
+        "totalSegments": 304,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0141",
+        "title": "EnglishPod 中级 0141",
+        "totalSegments": 224,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0143",
+        "title": "EnglishPod 中级 0143",
+        "totalSegments": 294,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0147",
+        "title": "EnglishPod 中级 0147",
+        "totalSegments": 224,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0148",
+        "title": "EnglishPod 中级 0148",
+        "totalSegments": 255,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0152",
+        "title": "EnglishPod 中级 0152",
+        "totalSegments": 255,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0155",
+        "title": "EnglishPod 中级 0155",
+        "totalSegments": 250,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0159",
+        "title": "EnglishPod 中级 0159",
+        "totalSegments": 247,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0161",
+        "title": "EnglishPod 中级 0161",
+        "totalSegments": 238,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0166",
+        "title": "EnglishPod 中级 0166",
+        "totalSegments": 255,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0168",
+        "title": "EnglishPod 中级 0168",
+        "totalSegments": 217,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0173",
+        "title": "EnglishPod 中级 0173",
+        "totalSegments": 237,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0179",
+        "title": "EnglishPod 中级 0179",
+        "totalSegments": 201,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0181",
+        "title": "EnglishPod 中级 0181",
+        "totalSegments": 230,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0182",
+        "title": "EnglishPod 中级 0182",
+        "totalSegments": 215,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0187",
+        "title": "EnglishPod 中级 0187",
+        "totalSegments": 241,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0189",
+        "title": "EnglishPod 中级 0189",
+        "totalSegments": 224,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0194",
+        "title": "EnglishPod 中级 0194",
+        "totalSegments": 208,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0196",
+        "title": "EnglishPod 中级 0196",
+        "totalSegments": 273,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0199",
+        "title": "EnglishPod 中级 0199",
+        "totalSegments": 255,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0201",
+        "title": "EnglishPod 中级 0201",
+        "totalSegments": 243,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0204",
+        "title": "EnglishPod 中级 0204",
+        "totalSegments": 318,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0207",
+        "title": "EnglishPod 中级 0207",
+        "totalSegments": 226,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0210",
+        "title": "EnglishPod 中级 0210",
+        "totalSegments": 259,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0214",
+        "title": "EnglishPod 中级 0214",
+        "totalSegments": 266,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0215",
+        "title": "EnglishPod 中级 0215",
+        "totalSegments": 352,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0217",
+        "title": "EnglishPod 中级 0217",
+        "totalSegments": 305,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0221",
+        "title": "EnglishPod 中级 0221",
+        "totalSegments": 249,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0226",
+        "title": "EnglishPod 中级 0226",
+        "totalSegments": 336,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0229",
+        "title": "EnglishPod 中级 0229",
+        "totalSegments": 294,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0231",
+        "title": "EnglishPod 中级 0231",
+        "totalSegments": 406,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0237",
+        "title": "EnglishPod 中级 0237",
+        "totalSegments": 341,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0239",
+        "title": "EnglishPod 中级 0239",
+        "totalSegments": 241,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0243",
+        "title": "EnglishPod 中级 0243",
+        "totalSegments": 285,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0246",
+        "title": "EnglishPod 中级 0246",
+        "totalSegments": 227,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0251",
+        "title": "EnglishPod 中级 0251",
+        "totalSegments": 283,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0257",
+        "title": "EnglishPod 中级 0257",
+        "totalSegments": 291,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0260",
+        "title": "EnglishPod 中级 0260",
+        "totalSegments": 263,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0264",
+        "title": "EnglishPod 中级 0264",
+        "totalSegments": 214,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0265",
+        "title": "EnglishPod 中级 0265",
+        "totalSegments": 209,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0267",
+        "title": "EnglishPod 中级 0267",
+        "totalSegments": 251,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0270",
+        "title": "EnglishPod 中级 0270",
+        "totalSegments": 225,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0272",
+        "title": "EnglishPod 中级 0272",
+        "totalSegments": 224,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0273",
+        "title": "EnglishPod 中级 0273",
+        "totalSegments": 330,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0274",
+        "title": "EnglishPod 中级 0274",
+        "totalSegments": 197,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0277",
+        "title": "EnglishPod 中级 0277",
+        "totalSegments": 213,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0278",
+        "title": "EnglishPod 中级 0278",
+        "totalSegments": 256,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0280",
+        "title": "EnglishPod 中级 0280",
+        "totalSegments": 252,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0283",
+        "title": "EnglishPod 中级 0283",
+        "totalSegments": 181,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0286",
+        "title": "EnglishPod 中级 0286",
+        "totalSegments": 173,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0287",
+        "title": "EnglishPod 中级 0287",
+        "totalSegments": 283,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0289",
+        "title": "EnglishPod 中级 0289",
+        "totalSegments": 256,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0291",
+        "title": "EnglishPod 中级 0291",
+        "totalSegments": 307,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0292",
+        "title": "EnglishPod 中级 0292",
+        "totalSegments": 241,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0295",
+        "title": "EnglishPod 中级 0295",
+        "totalSegments": 201,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0298",
+        "title": "EnglishPod 中级 0298",
+        "totalSegments": 183,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0300",
+        "title": "EnglishPod 中级 0300",
+        "totalSegments": 252,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0302",
+        "title": "EnglishPod 中级 0302",
+        "totalSegments": 205,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0304",
+        "title": "EnglishPod 中级 0304",
+        "totalSegments": 221,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0309",
+        "title": "EnglishPod 中级 0309",
+        "totalSegments": 251,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0312",
+        "title": "EnglishPod 中级 0312",
+        "totalSegments": 280,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0313",
+        "title": "EnglishPod 中级 0313",
+        "totalSegments": 179,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0316",
+        "title": "EnglishPod 中级 0316",
+        "totalSegments": 178,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0318",
+        "title": "EnglishPod 中级 0318",
+        "totalSegments": 269,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0319",
+        "title": "EnglishPod 中级 0319",
+        "totalSegments": 226,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0321",
+        "title": "EnglishPod 中级 0321",
+        "totalSegments": 284,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0322",
+        "title": "EnglishPod 中级 0322",
+        "totalSegments": 231,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0325",
+        "title": "EnglishPod 中级 0325",
+        "totalSegments": 265,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0328",
+        "title": "EnglishPod 中级 0328",
+        "totalSegments": 216,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0329",
+        "title": "EnglishPod 中级 0329",
+        "totalSegments": 226,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0331",
+        "title": "EnglishPod 中级 0331",
+        "totalSegments": 256,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0334",
+        "title": "EnglishPod 中级 0334",
+        "totalSegments": 177,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0336",
+        "title": "EnglishPod 中级 0336",
+        "totalSegments": 216,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0339",
+        "title": "EnglishPod 中级 0339",
+        "totalSegments": 225,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0345",
+        "title": "EnglishPod 中级 0345",
+        "totalSegments": 197,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0349",
+        "title": "EnglishPod 中级 0349",
+        "totalSegments": 152,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0351",
+        "title": "EnglishPod 中级 0351",
+        "totalSegments": 211,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0356",
+        "title": "EnglishPod 中级 0356",
+        "totalSegments": 319,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0357",
+        "title": "EnglishPod 中级 0357",
+        "totalSegments": 207,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0359",
+        "title": "EnglishPod 中级 0359",
+        "totalSegments": 263,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0361",
+        "title": "EnglishPod 中级 0361",
+        "totalSegments": 197,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0363",
+        "title": "EnglishPod 中级 0363",
+        "totalSegments": 205,
+        "seriesId": "englishpod-中级-"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中级--englishpod-中级-0364",
+        "title": "EnglishPod 中级 0364",
+        "totalSegments": 237,
+        "seriesId": "englishpod-中级-"
+      }
+    ]
+  },
+  {
+    "type": "series",
+    "id": "englishpod-中高级",
+    "title": "Englishpod 中高级",
+    "description": "65 lessons in this collection.",
+    "books": [
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0018",
+        "title": "EnglishPod 中高级 0018",
+        "totalSegments": 207,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0025",
+        "title": "EnglishPod 中高级 0025",
+        "totalSegments": 210,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0034",
+        "title": "EnglishPod 中高级 0034",
+        "totalSegments": 269,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0046",
+        "title": "EnglishPod 中高级 0046",
+        "totalSegments": 355,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0058",
+        "title": "EnglishPod 中高级 0058",
+        "totalSegments": 314,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0068",
+        "title": "EnglishPod 中高级 0068",
+        "totalSegments": 192,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0074",
+        "title": "EnglishPod 中高级 0074",
+        "totalSegments": 328,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0080",
+        "title": "EnglishPod 中高级 0080",
+        "totalSegments": 295,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0090",
+        "title": "EnglishPod 中高级 0090",
+        "totalSegments": 282,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0091",
+        "title": "EnglishPod 中高级 0091",
+        "totalSegments": 226,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0093",
+        "title": "EnglishPod 中高级 0093",
+        "totalSegments": 184,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0097",
+        "title": "EnglishPod 中高级 0097",
+        "totalSegments": 249,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0107",
+        "title": "EnglishPod 中高级 0107",
+        "totalSegments": 262,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0108",
+        "title": "EnglishPod 中高级 0108",
+        "totalSegments": 247,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0117",
+        "title": "EnglishPod 中高级 0117",
+        "totalSegments": 238,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0120",
+        "title": "EnglishPod 中高级 0120",
+        "totalSegments": 260,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0124",
+        "title": "EnglishPod 中高级 0124",
+        "totalSegments": 217,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0128",
+        "title": "EnglishPod 中高级 0128",
+        "totalSegments": 413,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0132",
+        "title": "EnglishPod 中高级 0132",
+        "totalSegments": 273,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0137",
+        "title": "EnglishPod 中高级 0137",
+        "totalSegments": 286,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0146",
+        "title": "EnglishPod 中高级 0146",
+        "totalSegments": 206,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0153",
+        "title": "EnglishPod 中高级 0153",
+        "totalSegments": 238,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0156",
+        "title": "EnglishPod 中高级 0156",
+        "totalSegments": 79,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0160",
+        "title": "EnglishPod 中高级 0160",
+        "totalSegments": 184,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0163",
+        "title": "EnglishPod 中高级 0163",
+        "totalSegments": 194,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0165",
+        "title": "EnglishPod 中高级 0165",
+        "totalSegments": 190,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0170",
+        "title": "EnglishPod 中高级 0170",
+        "totalSegments": 264,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0175",
+        "title": "EnglishPod 中高级 0175",
+        "totalSegments": 196,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0178",
+        "title": "EnglishPod 中高级 0178",
+        "totalSegments": 222,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0186",
+        "title": "EnglishPod 中高级 0186",
+        "totalSegments": 214,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0192",
+        "title": "EnglishPod 中高级 0192",
+        "totalSegments": 242,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0193",
+        "title": "EnglishPod 中高级 0193",
+        "totalSegments": 310,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0198",
+        "title": "EnglishPod 中高级 0198",
+        "totalSegments": 281,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0205",
+        "title": "EnglishPod 中高级 0205",
+        "totalSegments": 296,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0208",
+        "title": "EnglishPod 中高级 0208",
+        "totalSegments": 242,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0212",
+        "title": "EnglishPod 中高级 0212",
+        "totalSegments": 248,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0218",
+        "title": "EnglishPod 中高级 0218",
+        "totalSegments": 351,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0224",
+        "title": "EnglishPod 中高级 0224",
+        "totalSegments": 321,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0227",
+        "title": "EnglishPod 中高级 0227",
+        "totalSegments": 293,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0233",
+        "title": "EnglishPod 中高级 0233",
+        "totalSegments": 277,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0234",
+        "title": "EnglishPod 中高级 0234",
+        "totalSegments": 309,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0242",
+        "title": "EnglishPod 中高级 0242",
+        "totalSegments": 242,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0249",
+        "title": "EnglishPod 中高级 0249",
+        "totalSegments": 305,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0252",
+        "title": "EnglishPod 中高级 0252",
+        "totalSegments": 212,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0266",
+        "title": "EnglishPod 中高级 0266",
+        "totalSegments": 280,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0268",
+        "title": "EnglishPod 中高级 0268",
+        "totalSegments": 233,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0269",
+        "title": "EnglishPod 中高级 0269",
+        "totalSegments": 240,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0279",
+        "title": "EnglishPod 中高级 0279",
+        "totalSegments": 254,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0284",
+        "title": "EnglishPod 中高级 0284",
+        "totalSegments": 241,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0290",
+        "title": "EnglishPod 中高级 0290",
+        "totalSegments": 294,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0306",
+        "title": "EnglishPod 中高级 0306",
+        "totalSegments": 243,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0315",
+        "title": "EnglishPod 中高级 0315",
+        "totalSegments": 283,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0320",
+        "title": "EnglishPod 中高级 0320",
+        "totalSegments": 294,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0324",
+        "title": "EnglishPod 中高级 0324",
+        "totalSegments": 242,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0330",
+        "title": "EnglishPod 中高级 0330",
+        "totalSegments": 268,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0333",
+        "title": "EnglishPod 中高级 0333",
+        "totalSegments": 286,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0340",
+        "title": "EnglishPod 中高级 0340",
+        "totalSegments": 180,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0341",
+        "title": "EnglishPod 中高级 0341",
+        "totalSegments": 212,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0342",
+        "title": "EnglishPod 中高级 0342",
+        "totalSegments": 214,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0343",
+        "title": "EnglishPod 中高级 0343",
+        "totalSegments": 227,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0347",
+        "title": "EnglishPod 中高级 0347",
+        "totalSegments": 240,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0352",
+        "title": "EnglishPod 中高级 0352",
+        "totalSegments": 189,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0354",
+        "title": "EnglishPod 中高级 0354",
+        "totalSegments": 243,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0360",
+        "title": "EnglishPod 中高级 0360",
+        "totalSegments": 227,
+        "seriesId": "englishpod-中高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-中高级-englishpod-中高级-0362",
+        "title": "EnglishPod 中高级 0362",
+        "totalSegments": 234,
+        "seriesId": "englishpod-中高级"
+      }
+    ]
+  },
+  {
+    "type": "series",
     "id": "englishpod-初级",
     "title": "Englishpod 初级",
     "description": "141 lessons in this collection.",
@@ -991,6 +2379,210 @@
         "title": "Englishpod 初级 英文播客 0365",
         "totalSegments": 220,
         "seriesId": "englishpod-初级"
+      }
+    ]
+  },
+  {
+    "type": "series",
+    "id": "englishpod-高级",
+    "title": "Englishpod 高级",
+    "description": "28 lessons in this collection.",
+    "books": [
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0029",
+        "title": "EnglishPod 高级 0029",
+        "totalSegments": 237,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0047",
+        "title": "EnglishPod 高级 0047",
+        "totalSegments": 193,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0059",
+        "title": "EnglishPod 高级 0059",
+        "totalSegments": 390,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0062",
+        "title": "EnglishPod 高级 0062",
+        "totalSegments": 333,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0065",
+        "title": "EnglishPod 高级 0065",
+        "totalSegments": 282,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0070",
+        "title": "EnglishPod 高级 0070",
+        "totalSegments": 275,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0078",
+        "title": "EnglishPod 高级 0078",
+        "totalSegments": 269,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0094",
+        "title": "EnglishPod 高级 0094",
+        "totalSegments": 265,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0099",
+        "title": "EnglishPod 高级 0099",
+        "totalSegments": 256,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0102",
+        "title": "EnglishPod 高级 0102",
+        "totalSegments": 258,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0104",
+        "title": "EnglishPod 高级 0104",
+        "totalSegments": 298,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0116",
+        "title": "EnglishPod 高级 0116",
+        "totalSegments": 243,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0121",
+        "title": "EnglishPod 高级 0121",
+        "totalSegments": 237,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0129",
+        "title": "EnglishPod 高级 0129",
+        "totalSegments": 257,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0136",
+        "title": "EnglishPod 高级 0136",
+        "totalSegments": 263,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0144",
+        "title": "EnglishPod 高级 0144",
+        "totalSegments": 207,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0151",
+        "title": "EnglishPod 高级 0151",
+        "totalSegments": 247,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0164",
+        "title": "EnglishPod 高级 0164",
+        "totalSegments": 229,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0171",
+        "title": "EnglishPod 高级 0171",
+        "totalSegments": 251,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0222",
+        "title": "EnglishPod 高级 0222",
+        "totalSegments": 325,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0225",
+        "title": "EnglishPod 高级 0225",
+        "totalSegments": 356,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0255",
+        "title": "EnglishPod 高级 0255",
+        "totalSegments": 251,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0282",
+        "title": "EnglishPod 高级 0282",
+        "totalSegments": 181,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0293",
+        "title": "EnglishPod 高级 0293",
+        "totalSegments": 191,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0317",
+        "title": "EnglishPod 高级 0317",
+        "totalSegments": 259,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0337",
+        "title": "EnglishPod 高级 0337",
+        "totalSegments": 273,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0346",
+        "title": "EnglishPod 高级 0346",
+        "totalSegments": 225,
+        "seriesId": "englishpod-高级"
+      },
+      {
+        "type": "book",
+        "id": "englishpod-高级-englishpod-高级-0353",
+        "title": "EnglishPod 高级 0353",
+        "totalSegments": 358,
+        "seriesId": "englishpod-高级"
       }
     ]
   }

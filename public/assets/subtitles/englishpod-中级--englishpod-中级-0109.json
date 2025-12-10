@@ -1,0 +1,1359 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0109",
+  "title": "EnglishPod 中级 0109",
+  "totalSegments": 270,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another show with us here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一个节目。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you another romantic lesson, but a little bit sad as well.",
+      "cn": "今天我们带来另一个浪漫的课程，但也有点悲伤。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "Today, unfortunately, our couple is going to be breaking up.",
+      "cn": "今天，不幸的是，我们的情侣将要分手。"
+    },
+    {
+      "id": 8,
+      "en": "Right, so it's a little bit sad today, but it's going to be good because we're going to be teaching you some great words and phrases that you can use when you are faced in this situation.",
+      "cn": "对，所以今天有点悲伤，但这会很好，因为我们将教你一些在这种情况下可以使用的好词汇和短语。"
+    },
+    {
+      "id": 9,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 10,
+      "en": "And so we're going to learn some phrases for breaking up and also some phrases for staying together.",
+      "cn": "所以我们将学习一些分手的短语，也有一些维持关系的短语。"
+    },
+    {
+      "id": 11,
+      "en": "Alright, so let's listen to the dialogue for the first time and see what happens with our young couple.",
+      "cn": "好吧，让我们第一次听对话，看看我们的年轻情侣发生了什么。"
+    },
+    {
+      "id": 12,
+      "en": "Honey,",
+      "cn": "亲爱的，"
+    },
+    {
+      "id": 13,
+      "en": "do you have a second?",
+      "cn": "你有时间吗？"
+    },
+    {
+      "id": 14,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 15,
+      "en": "Are you okay?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 16,
+      "en": "You seem a bit worried.",
+      "cn": "你看起来有点担心。"
+    },
+    {
+      "id": 17,
+      "en": "What's on your mind?",
+      "cn": "你在想什么？"
+    },
+    {
+      "id": 18,
+      "en": "We need to talk.",
+      "cn": "我们需要谈谈。"
+    },
+    {
+      "id": 19,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 20,
+      "en": "I've been thinking, and well, I think we need to start seeing other people.",
+      "cn": "我一直在想，我觉得我们需要开始见其他人。"
+    },
+    {
+      "id": 21,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 22,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 23,
+      "en": "I mean, we've had our ups and downs and we have the occasional disagreement, but we're happy together, aren't we?",
+      "cn": "我的意思是，我们经历了起起落落，偶尔有分歧，但我们在一起是快乐的，不是吗？"
+    },
+    {
+      "id": 24,
+      "en": "That's just it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 25,
+      "en": "I'm not happy anymore, Tim.",
+      "cn": "我不再快乐了，Tim。"
+    },
+    {
+      "id": 26,
+      "en": "It's not you.",
+      "cn": "不是你的问题。"
+    },
+    {
+      "id": 27,
+      "en": "It's me.",
+      "cn": "是我的问题。"
+    },
+    {
+      "id": 28,
+      "en": "I know that I can be hard to deal with and you're a great guy.",
+      "cn": "我知道我可能很难相处，而你是个好人。"
+    },
+    {
+      "id": 29,
+      "en": "You're the type of guy that any woman would kill for.",
+      "cn": "你是任何女人都想要的那种男人。"
+    },
+    {
+      "id": 30,
+      "en": "So what are you saying?",
+      "cn": "那你在说什么？"
+    },
+    {
+      "id": 31,
+      "en": "You're breaking up with me because I'm perfect?",
+      "cn": "你是因为我完美而和我分手吗？"
+    },
+    {
+      "id": 32,
+      "en": "Tim, you are too good for me.",
+      "cn": "Tim，你对我太好了。"
+    },
+    {
+      "id": 33,
+      "en": "You deserve someone who can make you smile and make you happy the way that you made me happy.",
+      "cn": "你值得一个能让你微笑、让你快乐的人，就像你让我快乐一样。"
+    },
+    {
+      "id": 34,
+      "en": "I could say that I'll be all you need, but that'd be a lie.",
+      "cn": "我可以说我会是你所需要的一切，但那是谎言。"
+    },
+    {
+      "id": 35,
+      "en": "I know I'd only hurt you.",
+      "cn": "我知道我只会伤害你。"
+    },
+    {
+      "id": 36,
+      "en": "I know I'd only make you cry.",
+      "cn": "我知道我只会让你哭。"
+    },
+    {
+      "id": 37,
+      "en": "Baby, come on.",
+      "cn": "宝贝，拜托。"
+    },
+    {
+      "id": 38,
+      "en": "Don't do this to me.",
+      "cn": "不要这样对我。"
+    },
+    {
+      "id": 39,
+      "en": "Whatever it is, we can work it out.",
+      "cn": "无论是什么，我们都可以解决。"
+    },
+    {
+      "id": 40,
+      "en": "Just give me another chance.",
+      "cn": "给我一个机会。"
+    },
+    {
+      "id": 41,
+      "en": "I know that we can get through this, but we gotta stick together.",
+      "cn": "我知道我们可以度过这个，但我们必须团结在一起。"
+    },
+    {
+      "id": 42,
+      "en": "Don't leave me.",
+      "cn": "不要离开我。"
+    },
+    {
+      "id": 43,
+      "en": "I can't, Tim.",
+      "cn": "我不能，Tim。"
+    },
+    {
+      "id": 44,
+      "en": "I hope someday you can find some way to understand.",
+      "cn": "我希望有一天你能理解。"
+    },
+    {
+      "id": 45,
+      "en": "I'm only doing this for you.",
+      "cn": "我这样做只是为了你。"
+    },
+    {
+      "id": 46,
+      "en": "I don't really want to go, but deep in my heart, I know this is the kindest thing to do.",
+      "cn": "我真的不想走，但在我心底，我知道这是最善良的选择。"
+    },
+    {
+      "id": 47,
+      "en": "Laura.",
+      "cn": "Laura。"
+    },
+    {
+      "id": 48,
+      "en": "Here are your keys.",
+      "cn": "这是你的钥匙。"
+    },
+    {
+      "id": 49,
+      "en": "I'll send my sister to pick up the rest of my things next week.",
+      "cn": "我下周会让我的姐姐来拿我的其他东西。"
+    },
+    {
+      "id": 50,
+      "en": "I'm sorry, Tim.",
+      "cn": "对不起，Tim。"
+    },
+    {
+      "id": 51,
+      "en": "I wish you all the best and I hope that one day we can meet again.",
+      "cn": "我祝你一切顺利，希望有一天我们能再见面。"
+    },
+    {
+      "id": 52,
+      "en": "I'll always love you.",
+      "cn": "我会永远爱你。"
+    },
+    {
+      "id": 53,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 54,
+      "en": "Okay, so a pretty sad ending to this relationship, isn't it?",
+      "cn": "好吧，这段关系的结局很悲伤，不是吗？"
+    },
+    {
+      "id": 55,
+      "en": "Yeah, but I don't think the girl was very moved or very sad by breaking up with him.",
+      "cn": "是的，但我觉得女孩对和他分手并没有很感动或很伤心。"
+    },
+    {
+      "id": 56,
+      "en": "I wonder why.",
+      "cn": "我想知道为什么。"
+    },
+    {
+      "id": 57,
+      "en": "Maybe she's got some other boyfriend somewhere else.",
+      "cn": "也许她在别的地方有其他男朋友。"
+    },
+    {
+      "id": 58,
+      "en": "Maybe.",
+      "cn": "也许吧。"
+    },
+    {
+      "id": 59,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 60,
+      "en": "Well, as you mentioned, we listened to some great phrases and it's time for us to take a look at them now in Fluency Builder.",
+      "cn": "好吧，正如你提到的，我们听到了一些很好的短语，现在是时候在流利构建者中查看它们了。"
+    },
+    {
+      "id": 61,
+      "en": "Fluency Builder.",
+      "cn": "流利构建者。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, here we're going to focus on phrases that people use when they break up.",
+      "cn": "好吧，这里我们将专注于人们在分手时使用的短语。"
+    },
+    {
+      "id": 63,
+      "en": "So maybe you've heard these in movies and we're gonna look at the meaning now.",
+      "cn": "所以也许你在电影中听过这些，我们现在来看看它们的意思。"
+    },
+    {
+      "id": 64,
+      "en": "All right, our first phrase, as we heard, she started by saying, we need to talk.",
+      "cn": "好吧，我们的第一个短语，正如我们听到的，她开始说，我们需要谈谈。"
+    },
+    {
+      "id": 65,
+      "en": "We need to talk.",
+      "cn": "我们需要谈谈。"
+    },
+    {
+      "id": 66,
+      "en": "All right, so it's very direct sentence, we need to talk.",
+      "cn": "好吧，这是一句非常直接的句子，我们需要谈谈。"
+    },
+    {
+      "id": 67,
+      "en": "So when you tell someone, we need to talk, you're telling them that you want to talk about a serious thing, right?",
+      "cn": "所以当你告诉某人，我们需要谈谈时，你是在告诉他们你想谈论一个严肃的事情，对吗？"
+    },
+    {
+      "id": 68,
+      "en": "Right, so if somebody tells you, we need to talk, you know that you are going to talk about a very serious matter.",
+      "cn": "对，所以如果有人告诉你，我们需要谈谈，你就知道你将要谈论一个非常严肃的事情。"
+    },
+    {
+      "id": 69,
+      "en": "Yeah, a problem or a breakup or something.",
+      "cn": "是的，一个问题或分手或其他事情。"
+    },
+    {
+      "id": 70,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 71,
+      "en": "And after that, she told him that they should start seeing other people.",
+      "cn": "然后她告诉他，他们应该开始见其他人。"
+    },
+    {
+      "id": 72,
+      "en": "Start seeing other people.",
+      "cn": "开始见其他人。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, I think we need to start seeing other people.",
+      "cn": "好吧，我觉得我们需要开始见其他人。"
+    },
+    {
+      "id": 74,
+      "en": "To see other people.",
+      "cn": "见其他人。"
+    },
+    {
+      "id": 75,
+      "en": "All right, so this is very easy to understand.",
+      "cn": "好吧，这很容易理解。"
+    },
+    {
+      "id": 76,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 77,
+      "en": "It means to... To date other people.",
+      "cn": "这意味着... 和其他人约会。"
+    },
+    {
+      "id": 78,
+      "en": "Okay, so it basically means that you will break up.",
+      "cn": "好吧，所以这基本上意味着你将分手。"
+    },
+    {
+      "id": 79,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 80,
+      "en": "It's an indirect way of saying that, right?",
+      "cn": "这是一种间接的说法，对吗？"
+    },
+    {
+      "id": 81,
+      "en": "Yeah, you're not saying, hey, let's stop dating.",
+      "cn": "是的，你并没有说，嘿，我们停止约会。"
+    },
+    {
+      "id": 82,
+      "en": "You're saying, oh well, maybe we should date other people and kind of giving the idea that you will still date each other, but everyone knows you won't.",
+      "cn": "你是在说，哦，好吧，也许我们应该和其他人约会，暗示你们仍然会约会，但大家都知道你们不会。"
+    },
+    {
+      "id": 83,
+      "en": "All right, so let's start seeing other people.",
+      "cn": "好吧，所以让我们开始见其他人。"
+    },
+    {
+      "id": 84,
+      "en": "Now for our third phrase.",
+      "cn": "现在是我们的第三个短语。"
+    },
+    {
+      "id": 85,
+      "en": "She says, it's not you, it's me.",
+      "cn": "她说， 这不是你的问题，是我的问题。"
+    },
+    {
+      "id": 86,
+      "en": "It's not you, it's me.",
+      "cn": "这不是你的问题，是我的问题。"
+    },
+    {
+      "id": 87,
+      "en": "It's not you, it's me.",
+      "cn": "这不是你的问题，是我的问题。"
+    },
+    {
+      "id": 88,
+      "en": "Now this is a very cliche phrase and you hear it all the time in movies and, well, some people still use it, right?",
+      "cn": "现在这是一个非常陈词滥调的短语，你在电影中经常听到，嗯，有些人仍然使用它，对吗？"
+    },
+    {
+      "id": 89,
+      "en": "Yeah, everyone says this.",
+      "cn": "是的，每个人都这么说。"
+    },
+    {
+      "id": 90,
+      "en": "I've heard this.",
+      "cn": "我听过这个。"
+    },
+    {
+      "id": 91,
+      "en": "I've said this.",
+      "cn": "我也说过这个。"
+    },
+    {
+      "id": 92,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 93,
+      "en": "It means basically, I'm the problem, you're not the problem, I'm the problem.",
+      "cn": "这基本上意味着，我是问题，你不是问题，我是问题。"
+    },
+    {
+      "id": 94,
+      "en": "Right, so I am breaking up with you because it's my fault, not your fault.",
+      "cn": "对，所以我和你分手是因为这是我的错，而不是你的错。"
+    },
+    {
+      "id": 95,
+      "en": "Yeah, so it's kind of a nice way to break up with someone, but actually everyone knows that it's kind of a lie.",
+      "cn": "是的，所以这是一种很好的分手方式，但实际上每个人都知道这有点谎言。"
+    },
+    {
+      "id": 96,
+      "en": "Not true, right?",
+      "cn": "不是真的，对吗？"
+    },
+    {
+      "id": 97,
+      "en": "It is you.",
+      "cn": "是你。"
+    },
+    {
+      "id": 98,
+      "en": "You are the problem.",
+      "cn": "你是问题。"
+    },
+    {
+      "id": 99,
+      "en": "All right, so it's not you, it's me.",
+      "cn": "好吧，所以这不是你的问题，是我的问题。"
+    },
+    {
+      "id": 100,
+      "en": "And then, well, in order to emphasize this, that it's not his fault, she said that, I know I'm hard to deal with.",
+      "cn": "然后，为了强调这不是他的错，她说，我知道我很难相处。"
+    },
+    {
+      "id": 101,
+      "en": "So hard to deal with.",
+      "cn": "太难相处了。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, if somebody is hard to deal with.",
+      "cn": "好吧，如果有人很难相处。"
+    },
+    {
+      "id": 103,
+      "en": "There may be difficult to talk to, difficult to please, maybe difficult to manage.",
+      "cn": "可能很难交谈，难以取悦，甚至难以管理。"
+    },
+    {
+      "id": 104,
+      "en": "Okay, so it's very difficult to talk to that person.",
+      "cn": "好吧，所以和那个人交谈非常困难。"
+    },
+    {
+      "id": 105,
+      "en": "All right, hard to deal with.",
+      "cn": "好吧，难以相处。"
+    },
+    {
+      "id": 106,
+      "en": "It's only for people, you can't use it for a situation or something else?",
+      "cn": "这只适用于人，你不能用它来形容情况或其他东西吗？"
+    },
+    {
+      "id": 107,
+      "en": "No, you can use it for people or situations or even sometimes things.",
+      "cn": "不，你可以用它来形容人或情况，甚至有时是事物。"
+    },
+    {
+      "id": 108,
+      "en": "So, for example, I can say, I find this problem at work so hard to deal with.",
+      "cn": "所以，例如，我可以说，我发现这个工作中的问题太难处理了。"
+    },
+    {
+      "id": 109,
+      "en": "Okay, hard to deal with.",
+      "cn": "好吧，难以相处。"
+    },
+    {
+      "id": 110,
+      "en": "Yeah, so we've seen these four phrases that we can use to break up with someone.",
+      "cn": "是的，我们已经看到这四个短语可以用来和某人分手。"
+    },
+    {
+      "id": 111,
+      "en": "And, well, let's listen to our dialogue again.",
+      "cn": "那么，让我们再听一遍我们的对话。"
+    },
+    {
+      "id": 112,
+      "en": "We're going to slow it down a little bit and then we'll come back and look at some other phrases to stay together with someone.",
+      "cn": "我们会慢一点，然后再回来看看一些其他的短语来维持与某人的关系。"
+    },
+    {
+      "id": 113,
+      "en": "Honey, do you have a second?",
+      "cn": "亲爱的，你有时间吗？"
+    },
+    {
+      "id": 114,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 115,
+      "en": "Are you okay?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 116,
+      "en": "You seem a bit worried.",
+      "cn": "你看起来有点担心。"
+    },
+    {
+      "id": 117,
+      "en": "What's on your mind?",
+      "cn": "你在想什么？"
+    },
+    {
+      "id": 118,
+      "en": "We need to talk.",
+      "cn": "我们需要谈谈。"
+    },
+    {
+      "id": 119,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 120,
+      "en": "I've been thinking and, well, I think we need to start seeing other people.",
+      "cn": "我一直在想，我觉得我们需要开始见其他人。"
+    },
+    {
+      "id": 121,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 122,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 123,
+      "en": "I mean, we've had our ups and downs and we have the occasional disagreement, but we're happy together, aren't we?",
+      "cn": "我的意思是，我们经历了起起伏伏，偶尔有分歧，但我们在一起很快乐，不是吗？"
+    },
+    {
+      "id": 124,
+      "en": "That's just it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 125,
+      "en": "I'm not happy anymore, Tim.",
+      "cn": "我不再快乐了，蒂姆。"
+    },
+    {
+      "id": 126,
+      "en": "It's not you, it's me.",
+      "cn": "不是你，是我。"
+    },
+    {
+      "id": 127,
+      "en": "I know that I can be hard to deal with and you're a great guy.",
+      "cn": "我知道我可能很难相处，而你是个好人。"
+    },
+    {
+      "id": 128,
+      "en": "You're the type of guy that any woman would kill for.",
+      "cn": "你是任何女人都想要的那种男人。"
+    },
+    {
+      "id": 129,
+      "en": "So, what are you saying?",
+      "cn": "那你在说什么？"
+    },
+    {
+      "id": 130,
+      "en": "You're breaking up with me because I'm perfect?",
+      "cn": "你是因为我完美而和我分手吗？"
+    },
+    {
+      "id": 131,
+      "en": "Tim, you are too good for me.",
+      "cn": "蒂姆，你太好了。"
+    },
+    {
+      "id": 132,
+      "en": "You deserve someone who can make you smile and make you happy the way that you made me happy.",
+      "cn": "你值得一个能让你微笑、让你快乐的人，就像你让我快乐一样。"
+    },
+    {
+      "id": 133,
+      "en": "I could say that I'll be all you need, but that'd be a lie.",
+      "cn": "我可以说我会是你所需要的一切，但那是谎言。"
+    },
+    {
+      "id": 134,
+      "en": "I know I'd only hurt you.",
+      "cn": "我知道我只会伤害你。"
+    },
+    {
+      "id": 135,
+      "en": "I know I'd only make you cry.",
+      "cn": "我知道我只会让你哭。"
+    },
+    {
+      "id": 136,
+      "en": "Baby, come on.",
+      "cn": "宝贝，拜托。"
+    },
+    {
+      "id": 137,
+      "en": "Don't do this to me.",
+      "cn": "不要这样对我。"
+    },
+    {
+      "id": 138,
+      "en": "Whatever it is, we can work it out.",
+      "cn": "无论是什么，我们都可以解决。"
+    },
+    {
+      "id": 139,
+      "en": "Just give me another chance.",
+      "cn": "只要给我另一个机会。"
+    },
+    {
+      "id": 140,
+      "en": "I know that we can get through this, but we gotta stick together.",
+      "cn": "我知道我们可以度过这个，但我们必须团结在一起。"
+    },
+    {
+      "id": 141,
+      "en": "Don't leave me.",
+      "cn": "不要离开我。"
+    },
+    {
+      "id": 142,
+      "en": "I can't, Tim.",
+      "cn": "我不能，蒂姆。"
+    },
+    {
+      "id": 143,
+      "en": "I hope, I hope someday you can find some way to understand.",
+      "cn": "我希望，有一天你能找到理解的方式。"
+    },
+    {
+      "id": 144,
+      "en": "I'm only doing this for you.",
+      "cn": "我这样做只是为了你。"
+    },
+    {
+      "id": 145,
+      "en": "I don't really want to go, but deep in my heart, I know this is the kindest thing to do.",
+      "cn": "我真的不想走，但在我心底，我知道这是最善良的选择。"
+    },
+    {
+      "id": 146,
+      "en": "Laura.",
+      "cn": "劳拉。"
+    },
+    {
+      "id": 147,
+      "en": "Here are your keys.",
+      "cn": "这是你的钥匙。"
+    },
+    {
+      "id": 148,
+      "en": "I'll send my sister to pick up the rest of my things next week.",
+      "cn": "我会让我的姐姐下周来拿走我剩下的东西。"
+    },
+    {
+      "id": 149,
+      "en": "I'm sorry, Tim.",
+      "cn": "对不起，蒂姆。"
+    },
+    {
+      "id": 150,
+      "en": "I wish you all the best and I hope that one day we can meet again.",
+      "cn": "我祝你一切顺利，希望有一天我们能再见面。"
+    },
+    {
+      "id": 151,
+      "en": "I'll always love you.",
+      "cn": "我会永远爱你。"
+    },
+    {
+      "id": 152,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, so as you said, we're now going to focus on the phrases you used to stay in a relationship with someone.",
+      "cn": "好吧，正如你所说，我们现在将专注于你用来维持与某人关系的短语。"
+    },
+    {
+      "id": 154,
+      "en": "So let's look at those now in Fluency Builder Part 2.",
+      "cn": "让我们现在在流利度提升第二部分中看看这些。"
+    },
+    {
+      "id": 155,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 156,
+      "en": "So the girl was trying to break up with him and he kept on trying to convince her to stay.",
+      "cn": "所以女孩试图和他分手，而他一直试图说服她留下。"
+    },
+    {
+      "id": 157,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 158,
+      "en": "And one of the things he said was, we've had our ups and downs.",
+      "cn": "他所说的其中一件事是，我们经历了起起伏伏。"
+    },
+    {
+      "id": 159,
+      "en": "We've had our ups and downs.",
+      "cn": "我们经历了起起伏伏。"
+    },
+    {
+      "id": 160,
+      "en": "Ups and downs.",
+      "cn": "起起伏伏。"
+    },
+    {
+      "id": 161,
+      "en": "Well, ups and downs are good times and bad times.",
+      "cn": "嗯，起起伏伏是好时光和坏时光。"
+    },
+    {
+      "id": 162,
+      "en": "Right, so the good times would be the ups and the bad times.",
+      "cn": "对，所以好时光就是起，而坏时光就是。"
+    },
+    {
+      "id": 163,
+      "en": "Obviously the downs.",
+      "cn": "显然是下。"
+    },
+    {
+      "id": 164,
+      "en": "All right, so it's an informal way of saying good times, bad times.",
+      "cn": "好吧，这是一种非正式的说法，表示好时光和坏时光。"
+    },
+    {
+      "id": 165,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 166,
+      "en": "So they've had their ups and downs and he said we can work it out.",
+      "cn": "所以他们经历了起起伏伏，他说我们可以解决。"
+    },
+    {
+      "id": 167,
+      "en": "We can work it out.",
+      "cn": "我们可以解决。"
+    },
+    {
+      "id": 168,
+      "en": "Whatever the problem is, we can work it out.",
+      "cn": "无论问题是什么，我们都可以解决。"
+    },
+    {
+      "id": 169,
+      "en": "So why don't we hear some examples of how this phrase is used and that will help us understand it a bit better.",
+      "cn": "那么我们为什么不听一些这个短语的例子，这将帮助我们更好地理解它。"
+    },
+    {
+      "id": 170,
+      "en": "Example 1.",
+      "cn": "示例1。"
+    },
+    {
+      "id": 171,
+      "en": "Peter and Claudia were having some problems but they finally worked out their personal differences.",
+      "cn": "彼得和克劳迪娅有一些问题，但他们最终解决了个人差异。"
+    },
+    {
+      "id": 172,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 173,
+      "en": "We need to work out a new marketing plan for this upcoming quarter.",
+      "cn": "我们需要为即将到来的季度制定一个新的营销计划。"
+    },
+    {
+      "id": 174,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 175,
+      "en": "After an hour, I finally worked out the answer to this math problem.",
+      "cn": "一个小时后，我终于解决了这个数学问题的答案。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, so to work something out means to find a solution.",
+      "cn": "好吧，解决某事意味着找到解决方案。"
+    },
+    {
+      "id": 177,
+      "en": "Yeah, to solve the problem.",
+      "cn": "是的，解决问题。"
+    },
+    {
+      "id": 178,
+      "en": "To solve the problem.",
+      "cn": "解决问题。"
+    },
+    {
+      "id": 179,
+      "en": "And again, he kept on insisting and saying, well, we can get through this.",
+      "cn": "而且，他一直坚持说，我们可以度过这个。"
+    },
+    {
+      "id": 180,
+      "en": "We can get through this.",
+      "cn": "我们可以度过这个。"
+    },
+    {
+      "id": 181,
+      "en": "Okay, get through this.",
+      "cn": "好吧，度过这个。"
+    },
+    {
+      "id": 182,
+      "en": "So to get through something.",
+      "cn": "那么，度过某事是什么意思？"
+    },
+    {
+      "id": 183,
+      "en": "What does it mean to get through something?",
+      "cn": "基本上就是在困难的情况下生存。"
+    },
+    {
+      "id": 185,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 186,
+      "en": "Or live through a difficult time.",
+      "cn": "或者经历一段艰难的时光。"
+    },
+    {
+      "id": 187,
+      "en": "Okay, so for them the difficult time was this in their relationship.",
+      "cn": "好吧，所以对他们来说，困难的时光就是他们的关系。"
+    },
+    {
+      "id": 188,
+      "en": "Yeah, or maybe you're having a problem at work and you might say, hey guys, don't worry, we can get through this.",
+      "cn": "是的，或者也许你在工作中遇到问题，你可能会说，嘿，大家，别担心，我们可以度过这个。"
+    },
+    {
+      "id": 189,
+      "en": "Just give us one more week.",
+      "cn": "只需再给我们一周。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 191,
+      "en": "And well, as he was saying that they can get through this, he mentioned that they have to stick together.",
+      "cn": "而且，当他说他们可以度过这个时，他提到他们必须团结在一起。"
+    },
+    {
+      "id": 192,
+      "en": "To stick together.",
+      "cn": "团结在一起。"
+    },
+    {
+      "id": 193,
+      "en": "We gotta stick together.",
+      "cn": "我们必须团结在一起。"
+    },
+    {
+      "id": 194,
+      "en": "Stick together.",
+      "cn": "团结在一起。"
+    },
+    {
+      "id": 195,
+      "en": "So again, to stick.",
+      "cn": "所以再次，团结。"
+    },
+    {
+      "id": 196,
+      "en": "So when something sticks together, it stays together like glue.",
+      "cn": "当某物粘在一起时，就像胶水一样保持在一起。"
+    },
+    {
+      "id": 197,
+      "en": "Right, so they have to be a team and not separate in order to solve their problem.",
+      "cn": "对，所以他们必须成为一个团队，而不是分开，以解决他们的问题。"
+    },
+    {
+      "id": 198,
+      "en": "Exactly, it gives you that idea that they're going to work together and stay together.",
+      "cn": "正是如此，这给你一种他们会一起工作并保持在一起的感觉。"
+    },
+    {
+      "id": 199,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 200,
+      "en": "So let's stick it together.",
+      "cn": "所以让我们团结在一起。"
+    },
+    {
+      "id": 201,
+      "en": "All right, so again, we have four great phrases to convince somebody or to say that you want to stay together in a relationship, right?",
+      "cn": "好吧，所以我们有四个很好的短语来说服某人或表达你想在关系中保持在一起，对吧？"
+    },
+    {
+      "id": 202,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 203,
+      "en": "So I think it'll help us to understand these if we hear them one more time in the dialogue.",
+      "cn": "我想如果我们再在对话中听一遍这些，会帮助我们理解。"
+    },
+    {
+      "id": 204,
+      "en": "Wish I could be the one, the one who could give you love.",
+      "cn": "希望我能成为那个，能给你爱的那个人。"
+    },
+    {
+      "id": 205,
+      "en": "Kind of love you really Honey, do you have a second?",
+      "cn": "你真正需要的那种爱，亲爱的，你有时间吗？"
+    },
+    {
+      "id": 206,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 207,
+      "en": "Are you okay?",
+      "cn": "你还好吗？"
+    },
+    {
+      "id": 208,
+      "en": "You seem a bit worried.",
+      "cn": "你似乎有点担心。"
+    },
+    {
+      "id": 209,
+      "en": "What's on your mind?",
+      "cn": "你在想什么？"
+    },
+    {
+      "id": 210,
+      "en": "We need to talk.",
+      "cn": "我们需要谈谈。"
+    },
+    {
+      "id": 211,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 212,
+      "en": "I've been thinking and well, I think we need to start seeing other people.",
+      "cn": "我一直在想，我觉得我们需要开始见其他人。"
+    },
+    {
+      "id": 213,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 214,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 215,
+      "en": "I mean, we've had our ups and downs and we have the occasional disagreement, but we're happy together, aren't we?",
+      "cn": "我的意思是，我们经历了起起落落，偶尔有分歧，但我们在一起是快乐的，不是吗？"
+    },
+    {
+      "id": 216,
+      "en": "That's just it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 217,
+      "en": "I'm not happy anymore, Tim.",
+      "cn": "我不再快乐了，蒂姆。"
+    },
+    {
+      "id": 218,
+      "en": "It's not you.",
+      "cn": "不是你的问题。"
+    },
+    {
+      "id": 219,
+      "en": "It's me.",
+      "cn": "是我的问题。"
+    },
+    {
+      "id": 220,
+      "en": "I know that I can be hard to deal with.",
+      "cn": "我知道我可能很难相处。"
+    },
+    {
+      "id": 221,
+      "en": "And you're a great guy.",
+      "cn": "你是个好人。"
+    },
+    {
+      "id": 222,
+      "en": "You're the type of guy that any woman would kill for.",
+      "cn": "你是任何女人都想要的那种人。"
+    },
+    {
+      "id": 223,
+      "en": "So what are you saying?",
+      "cn": "那你在说什么？"
+    },
+    {
+      "id": 224,
+      "en": "You're breaking up with me because I'm perfect?",
+      "cn": "你是因为我完美而和我分手吗？"
+    },
+    {
+      "id": 225,
+      "en": "Tim, you are too good for me.",
+      "cn": "蒂姆，你对我太好了。"
+    },
+    {
+      "id": 226,
+      "en": "You deserve someone who can make you smile and make you happy the way that you made me happy.",
+      "cn": "你值得一个能让你微笑、让你快乐的人，就像你让我快乐一样。"
+    },
+    {
+      "id": 227,
+      "en": "I could say that I'll be all you need, but that'd be a lie.",
+      "cn": "我可以说我会是你所需要的一切，但那是谎言。"
+    },
+    {
+      "id": 228,
+      "en": "I know I'd only hurt you.",
+      "cn": "我知道我只会伤害你。"
+    },
+    {
+      "id": 229,
+      "en": "I know I'd only make you cry.",
+      "cn": "我知道我只会让你哭。"
+    },
+    {
+      "id": 230,
+      "en": "Baby, come on, don't do this to me.",
+      "cn": "宝贝，拜托，别这样对我。"
+    },
+    {
+      "id": 231,
+      "en": "Whatever it is, we can work it out.",
+      "cn": "无论是什么，我们都可以解决。"
+    },
+    {
+      "id": 232,
+      "en": "Just give me another chance.",
+      "cn": "只给我另一个机会。"
+    },
+    {
+      "id": 233,
+      "en": "I know that we can get through this, but we got to stick together.",
+      "cn": "我知道我们可以度过这个，但我们必须团结在一起。"
+    },
+    {
+      "id": 234,
+      "en": "Don't leave me.",
+      "cn": "别离开我。"
+    },
+    {
+      "id": 235,
+      "en": "I can't, Tim.",
+      "cn": "我不能，蒂姆。"
+    },
+    {
+      "id": 236,
+      "en": "I hope I hope someday you can find some way to understand.",
+      "cn": "我希望有一天你能找到理解的方式。"
+    },
+    {
+      "id": 237,
+      "en": "I'm only doing this for you.",
+      "cn": "我这样做只是为了你。"
+    },
+    {
+      "id": 238,
+      "en": "I don't really want to go.",
+      "cn": "我真的不想走。"
+    },
+    {
+      "id": 239,
+      "en": "But deep in my heart, I know this is the kindest thing to do.",
+      "cn": "但在我心底，我知道这是最善良的选择。"
+    },
+    {
+      "id": 240,
+      "en": "Laura.",
+      "cn": "劳拉。"
+    },
+    {
+      "id": 241,
+      "en": "Here are your keys.",
+      "cn": "这是你的钥匙。"
+    },
+    {
+      "id": 242,
+      "en": "I'll send my sister to pick up the rest of my things next week.",
+      "cn": "我会让我的姐姐下周来拿走我的其他东西。"
+    },
+    {
+      "id": 243,
+      "en": "I'm sorry, Tim.",
+      "cn": "对不起，蒂姆。"
+    },
+    {
+      "id": 244,
+      "en": "I wish you all the best and I hope that one day we can meet again.",
+      "cn": "我祝你一切顺利，希望有一天我们能再见面。"
+    },
+    {
+      "id": 245,
+      "en": "I'll always love you.",
+      "cn": "我会永远爱你。"
+    },
+    {
+      "id": 246,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 247,
+      "en": "Alright, so breaking up can be a difficult situation, especially if you're the one breaking up, right?",
+      "cn": "好吧，分手可能是一个困难的情况，尤其是如果你是那个提出分手的人，对吧？"
+    },
+    {
+      "id": 248,
+      "en": "Well, I guess it's never happy if you're the person who's being broken up with or you're the person doing the breaking up.",
+      "cn": "嗯，我想如果你是被分手的人或是提出分手的人，永远都不会快乐。"
+    },
+    {
+      "id": 249,
+      "en": "But you know what, I really noticed that a lot of the phrases the girl used to break up were very like cliche, like you said, they were very common, too common, and kind of a joke almost.",
+      "cn": "但你知道吗，我真的注意到女孩用来分手的很多短语都很陈词滥调，就像你说的，它们太常见，几乎成了笑话。"
+    },
+    {
+      "id": 250,
+      "en": "So the phrase, it's not you, it's me, it's one of them.",
+      "cn": "所以短语“不是你，是我”就是其中之一。"
+    },
+    {
+      "id": 251,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 252,
+      "en": "And she also said you deserve better.",
+      "cn": "她还说你值得更好。"
+    },
+    {
+      "id": 253,
+      "en": "You deserve someone better.",
+      "cn": "你值得更好的人。"
+    },
+    {
+      "id": 254,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 255,
+      "en": "That's a very common one saying like, I'm not good enough for you.",
+      "cn": "这是一个非常常见的说法，意思是“我不够好”。"
+    },
+    {
+      "id": 256,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 257,
+      "en": "But again, it kind of just it loses its meaning, doesn't it?",
+      "cn": "但再说一次，这种说法失去了意义，不是吗？"
+    },
+    {
+      "id": 258,
+      "en": "And also another phrase that's very cliche, but it wasn't in her dialogue was, maybe the timing is just not right.",
+      "cn": "还有另一个非常陈词滥调的短语，但她的对话中没有提到，那就是“也许时机不对”。"
+    },
+    {
+      "id": 259,
+      "en": "Yeah, people say that all the time.",
+      "cn": "是的，人们总是这么说。"
+    },
+    {
+      "id": 260,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 261,
+      "en": "So they say no, the timing is not right.",
+      "cn": "所以他们说，不，时机不对。"
+    },
+    {
+      "id": 262,
+      "en": "It's not the appropriate time to be together.",
+      "cn": "现在不是在一起的合适时机。"
+    },
+    {
+      "id": 263,
+      "en": "Yeah, that's just an excuse for not wanting to date that special person.",
+      "cn": "是的，这只是一个不想和那个特别的人约会的借口。"
+    },
+    {
+      "id": 264,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 265,
+      "en": "So it can be a difficult situation and people do it every day through letters, sometimes through the phone.",
+      "cn": "所以这可能是一个困难的情况，人们每天都通过信件，有时通过电话来处理。"
+    },
+    {
+      "id": 266,
+      "en": "In this case, they were breaking up in person.",
+      "cn": "在这种情况下，他们是面对面分手的。"
+    },
+    {
+      "id": 267,
+      "en": "So listeners, why don't you tell us if you have any stories of breaking up with someone or maybe somebody broke up with you?",
+      "cn": "所以听众，为什么不告诉我们你是否有和某人分手的故事，或者也许是有人和你分手？"
+    },
+    {
+      "id": 268,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 269,
+      "en": "Try and use the language in this lesson and visit us on our website at EnglishPod.com and leave us a comment.",
+      "cn": "尝试使用本课中的语言，并访问我们的网站 EnglishPod.com，给我们留言。"
+    },
+    {
+      "id": 270,
+      "en": "All right, we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 271,
+      "en": "And until next time, thanks for listening and goodbye.",
+      "cn": "下次再见，感谢你的收听，再见。"
+    }
+  ]
+}

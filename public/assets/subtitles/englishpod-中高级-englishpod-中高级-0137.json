@@ -1,0 +1,1439 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0137",
+  "title": "EnglishPod 中高级 0137",
+  "totalSegments": 286,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome to EnglishPod.",
+      "cn": "欢迎来到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're talking about something very, very important in the computer age.",
+      "cn": "今天我们要谈论在计算机时代非常重要的事情。"
+    },
+    {
+      "id": 6,
+      "en": "Internet.",
+      "cn": "互联网。"
+    },
+    {
+      "id": 7,
+      "en": "Internet and Internet connections.",
+      "cn": "互联网和互联网连接。"
+    },
+    {
+      "id": 8,
+      "en": "Right, I think, well, so many people use the Internet now and have it, but it's sometimes a little bit complicated to maybe get a plan or maybe if you're not too familiar with the terms, that's what we're going to be looking at today.",
+      "cn": "对，我认为，现在有很多人使用互联网，但有时获取计划可能有点复杂，或者如果你对术语不太熟悉，这就是我们今天要讨论的内容。"
+    },
+    {
+      "id": 9,
+      "en": "So listen out for some of these words today.",
+      "cn": "所以今天请留意这些词。"
+    },
+    {
+      "id": 10,
+      "en": "We're talking on the phone with someone who's going to help us get a plan.",
+      "cn": "我们正在与一个将帮助我们获取计划的人通话。"
+    },
+    {
+      "id": 11,
+      "en": "When we come back, we'll be talking all about what some of these words and phrases mean.",
+      "cn": "回来时，我们将讨论这些词和短语的含义。"
+    },
+    {
+      "id": 12,
+      "en": "So if you're confused, just wait couple seconds and we'll be back.",
+      "cn": "如果你感到困惑，请稍等几秒钟，我们会回来。"
+    },
+    {
+      "id": 13,
+      "en": "Welcome to Galanet.",
+      "cn": "欢迎来到Galanet。"
+    },
+    {
+      "id": 14,
+      "en": "How can I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 15,
+      "en": "Hi, I would like to get an Internet plan for my house.",
+      "cn": "嗨，我想为我的家获取一个互联网计划。"
+    },
+    {
+      "id": 16,
+      "en": "Of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 17,
+      "en": "We have three different plans with different prices you can choose from.",
+      "cn": "我们有三种不同的计划，价格各异，你可以选择。"
+    },
+    {
+      "id": 18,
+      "en": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+      "cn": "第一个是最便宜的，但也是最基本的计划，每月30美元。"
+    },
+    {
+      "id": 19,
+      "en": "This is for broadband Internet with a download speed of 512 kbps.",
+      "cn": "这是512 kbps的宽带互联网。"
+    },
+    {
+      "id": 20,
+      "en": "I have no idea what kbps means.",
+      "cn": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 21,
+      "en": "I just want to be able to get online, play games and chat with my friends.",
+      "cn": "我只想上网、玩游戏和与朋友聊天。"
+    },
+    {
+      "id": 22,
+      "en": "Oh, and watch movies online as well.",
+      "cn": "哦，还想在线看电影。"
+    },
+    {
+      "id": 23,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "cn": "嗯，这个连接可能对你的需求来说有点慢。"
+    },
+    {
+      "id": 24,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of two megabytes.",
+      "cn": "我建议你选择每月50美元的高级套餐，连接速度为两兆字节。"
+    },
+    {
+      "id": 25,
+      "en": "That way, you can play games online without any lag.",
+      "cn": "这样，你可以在线玩游戏而没有延迟。"
+    },
+    {
+      "id": 26,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "cn": "此套餐还包括一个无线路由器和个人防火墙，完全免费。"
+    },
+    {
+      "id": 27,
+      "en": "Do I have to pay an installation fee?",
+      "cn": "我需要支付安装费吗？"
+    },
+    {
+      "id": 28,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "cn": "幸运的是，这个月我们不收取正常的安装费。"
+    },
+    {
+      "id": 29,
+      "en": "You are saving yourself $100 right there.",
+      "cn": "你就省下了100美元。"
+    },
+    {
+      "id": 30,
+      "en": "And we'll throw in this pen drive.",
+      "cn": "我们还会赠送这个优盘。"
+    },
+    {
+      "id": 31,
+      "en": "Awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 32,
+      "en": "Alright, so interesting.",
+      "cn": "好吧，真有趣。"
+    },
+    {
+      "id": 33,
+      "en": "A lot of these technical terms specifically for Internet and computers and connection and all that stuff.",
+      "cn": "许多这些技术术语专门用于互联网、计算机和连接等。"
+    },
+    {
+      "id": 34,
+      "en": "Yeah, and the nice thing about some of these words is that they can be used in other ways as well.",
+      "cn": "是的，这些词的一个好处是它们也可以在其他方面使用。"
+    },
+    {
+      "id": 35,
+      "en": "So, we're learning about these and expanding our vocabularies, but they're useful in many other contexts as well.",
+      "cn": "所以，我们在学习这些词并扩展我们的词汇，但它们在许多其他上下文中也很有用。"
+    },
+    {
+      "id": 36,
+      "en": "Okay, so let's get started with these words now in language takeaway.",
+      "cn": "好吧，现在让我们开始学习这些词汇。"
+    },
+    {
+      "id": 37,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 38,
+      "en": "So this first phrase, for example, is something that you see advertised all the time and it's, well, it's a kind of Internet connection.",
+      "cn": "例如，第一个短语是你经常看到的广告，它是一种互联网连接。"
+    },
+    {
+      "id": 39,
+      "en": "Broadband Internet.",
+      "cn": "宽带互联网。"
+    },
+    {
+      "id": 40,
+      "en": "Okay, so Internet is pretty clear, but broadband, you might be asking, what the heck can this mean?",
+      "cn": "好吧，互联网很清楚，但宽带，你可能会问，这到底是什么意思？"
+    },
+    {
+      "id": 41,
+      "en": "Okay, so you have broad.",
+      "cn": "好吧，宽是宽的意思。"
+    },
+    {
+      "id": 42,
+      "en": "So broad means wide.",
+      "cn": "而带基本上就像是某种工作频率。"
+    },
+    {
+      "id": 43,
+      "en": "And a band is basically kind of like a frequency at which something works.",
+      "cn": "就像带宽。"
+    },
+    {
+      "id": 44,
+      "en": "Like bandwidth.",
+      "cn": "带宽，嗯。"
+    },
+    {
+      "id": 45,
+      "en": "Bandwidth, uh-huh.",
+      "cn": "所以你有宽带，快速或高速互联网。"
+    },
+    {
+      "id": 46,
+      "en": "So you have broadband, you have fast or high-speed Internet.",
+      "cn": "这意味着空间越大，信息传输得越多。"
+    },
+    {
+      "id": 47,
+      "en": "That means the bigger the space is, the more information can be transferred.",
+      "cn": "所以这是一个快速连接。"
+    },
+    {
+      "id": 48,
+      "en": "So it's a fast connection.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 50,
+      "en": "Before broadband, we had dial-up Internet.",
+      "cn": "在宽带之前，我们有拨号上网。"
+    },
+    {
+      "id": 51,
+      "en": "Remember AOL?",
+      "cn": "还记得AOL吗？"
+    },
+    {
+      "id": 52,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 53,
+      "en": "You had to use your modem and call a number and then get connected by telephone.",
+      "cn": "你必须使用调制解调器拨打一个号码，然后通过电话连接。"
+    },
+    {
+      "id": 54,
+      "en": "So it was a dial-up connection, but it was so slow.",
+      "cn": "所以这是拨号连接，但速度非常慢。"
+    },
+    {
+      "id": 55,
+      "en": "And every time it broke, the connection would break.",
+      "cn": "每次断开时，连接就会中断。"
+    },
+    {
+      "id": 56,
+      "en": "You had to dial up again and do the whole process.",
+      "cn": "你必须重新拨号并重复整个过程。"
+    },
+    {
+      "id": 57,
+      "en": "It was so annoying.",
+      "cn": "这真是太烦人了。"
+    },
+    {
+      "id": 58,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 59,
+      "en": "So fortunately now, not many people use dial-up anymore, and we have broadband Internet.",
+      "cn": "所以幸运的是，现在很少有人再使用拨号上网，我们有宽带互联网。"
+    },
+    {
+      "id": 60,
+      "en": "Now that if you have broadband Internet, it's really convenient because you can download any type of application or music, videos, etc.",
+      "cn": "现在如果你有宽带互联网，这真的很方便，因为你可以下载任何类型的应用程序、音乐、视频等。"
+    },
+    {
+      "id": 61,
+      "en": "Right, so this is another key computer word that actually has a couple of different uses.",
+      "cn": "对，所以这是另一个关键的计算机词，实际上有几种不同的用法。"
+    },
+    {
+      "id": 62,
+      "en": "For example, as you said, you can download music or download photos.",
+      "cn": "例如，正如你所说，你可以下载音乐或下载照片。"
+    },
+    {
+      "id": 63,
+      "en": "That means you find a photo on the Internet that you like, and you could save it on your computer.",
+      "cn": "这意味着你在互联网上找到一张你喜欢的照片，并可以将其保存在你的计算机上。"
+    },
+    {
+      "id": 64,
+      "en": "But you can also have a download, so it can be a thing too.",
+      "cn": "但你也可以有一个下载，所以它也可以是一个东西。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, so if maybe you're downloading three different files, you have three downloads.",
+      "cn": "好吧，如果你正在下载三个不同的文件，你就有三个下载。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so to download and download.",
+      "cn": "好吧，下载和下载。"
+    },
+    {
+      "id": 67,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 68,
+      "en": "So now with Internet, you have different speeds, as we talked about, right?",
+      "cn": "现在关于互联网，你有不同的速度，正如我们所讨论的，对吧？"
+    },
+    {
+      "id": 69,
+      "en": "How fast you're downloading something.",
+      "cn": "你下载东西的速度。"
+    },
+    {
+      "id": 70,
+      "en": "And the guy mentioned 512 kbps.",
+      "cn": "那个人提到512 kbps。"
+    },
+    {
+      "id": 71,
+      "en": "Oh no, not another one of these, kbps.",
+      "cn": "哦，不，又是这个kbps。"
+    },
+    {
+      "id": 72,
+      "en": "So this one, actually, this was pretty simple.",
+      "cn": "这个其实很简单。"
+    },
+    {
+      "id": 73,
+      "en": "You can think about kilobytes.",
+      "cn": "你可以想象千字节。"
+    },
+    {
+      "id": 74,
+      "en": "You've heard about megabytes, kilobytes.",
+      "cn": "你听说过兆字节、千字节。"
+    },
+    {
+      "id": 75,
+      "en": "This is a size.",
+      "cn": "这是一个大小。"
+    },
+    {
+      "id": 76,
+      "en": "How fast you can receive these packets of information.",
+      "cn": "你可以接收这些信息包的速度。"
+    },
+    {
+      "id": 77,
+      "en": "So 512 kilobytes per second.",
+      "cn": "所以512千字节每秒。"
+    },
+    {
+      "id": 78,
+      "en": "Per second, that's... I have no idea how much that is.",
+      "cn": "每秒，这... 我不知道那是多少。"
+    },
+    {
+      "id": 79,
+      "en": "It's maybe a lot.",
+      "cn": "可能很多。"
+    },
+    {
+      "id": 80,
+      "en": "It sounds like a lot.",
+      "cn": "听起来像很多。"
+    },
+    {
+      "id": 81,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 82,
+      "en": "Well, basically, it is a lot.",
+      "cn": "基本上，这确实很多。"
+    },
+    {
+      "id": 83,
+      "en": "But we saw later that he was asking for a connection speed of two megabytes.",
+      "cn": "但我们后来看到他要求的连接速度是两兆字节。"
+    },
+    {
+      "id": 84,
+      "en": "Oh, so mega is bigger than kpbs, right?",
+      "cn": "哦，所以兆字节比kbps大，对吧？"
+    },
+    {
+      "id": 85,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 86,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 87,
+      "en": "So these are different speeds of transferring information, right?",
+      "cn": "所以这些是传输信息的不同速度，对吧？"
+    },
+    {
+      "id": 88,
+      "en": "So this is a way for you to see what kind of Internet plan you want.",
+      "cn": "这是一种让你看到你想要什么样的互联网计划的方法。"
+    },
+    {
+      "id": 89,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 90,
+      "en": "And so you have kilobytes, we have megabytes.",
+      "cn": "所以你有千字节，我们有兆字节。"
+    },
+    {
+      "id": 91,
+      "en": "And basically, you want a faster connection speed because you want to avoid lag.",
+      "cn": "基本上，你想要更快的连接速度，因为你想避免延迟。"
+    },
+    {
+      "id": 92,
+      "en": "Ooh, lag.",
+      "cn": "哦，延迟。"
+    },
+    {
+      "id": 93,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 94,
+      "en": "This is a word that you can use in a lot of different ways.",
+      "cn": "这是一个可以用多种方式使用的词。"
+    },
+    {
+      "id": 95,
+      "en": "For example, my brother always lags behind.",
+      "cn": "例如，我的兄弟总是落后。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so it's a verb.",
+      "cn": "好吧，所以这是一个动词。"
+    },
+    {
+      "id": 97,
+      "en": "But in this case, we're talking about the noun.",
+      "cn": "但在这种情况下，我们谈论的是名词。"
+    },
+    {
+      "id": 98,
+      "en": "So lag is slowness.",
+      "cn": "所以延迟是缓慢。"
+    },
+    {
+      "id": 99,
+      "en": "Yeah, it's like a delay.",
+      "cn": "是的，就像是延迟。"
+    },
+    {
+      "id": 100,
+      "en": "Yeah, it's a delay in something.",
+      "cn": "是的，这是某种延迟。"
+    },
+    {
+      "id": 101,
+      "en": "So in this case, I can't even play my video games because there's too much lag.",
+      "cn": "所以在这种情况下，我甚至无法玩我的视频游戏，因为延迟太多。"
+    },
+    {
+      "id": 102,
+      "en": "So that means the Internet's too slow.",
+      "cn": "这意味着互联网太慢了。"
+    },
+    {
+      "id": 103,
+      "en": "It's too slow.",
+      "cn": "太慢了。"
+    },
+    {
+      "id": 104,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 105,
+      "en": "So that's what happens when you have a slow connection speed, you have lag.",
+      "cn": "所以当你有慢速连接时，就会有延迟。"
+    },
+    {
+      "id": 106,
+      "en": "And as you can say, it refers to something that's slow or delayed.",
+      "cn": "正如你所说，它指的是某种慢或延迟的东西。"
+    },
+    {
+      "id": 107,
+      "en": "So you can use it in other contexts when you want to say something is a little bit slow.",
+      "cn": "所以你可以在其他上下文中使用它，当你想说某事有点慢的时候。"
+    },
+    {
+      "id": 108,
+      "en": "Well, and another key thing here, as we're talking about Internet connections is the router.",
+      "cn": "好的，还有一个关键点，既然我们在谈论互联网连接，就是路由器。"
+    },
+    {
+      "id": 109,
+      "en": "So router is something that helps us to route an Internet connection.",
+      "cn": "所以路由器是帮助我们路由互联网连接的东西。"
+    },
+    {
+      "id": 110,
+      "en": "So it, for example, is it basically distributes the Internet connection to different computers or to different users.",
+      "cn": "例如，它基本上将互联网连接分配给不同的计算机或不同的用户。"
+    },
+    {
+      "id": 111,
+      "en": "And some of these you plug in, and some of them are wireless.",
+      "cn": "其中一些是插入式的，有些是无线的。"
+    },
+    {
+      "id": 112,
+      "en": "That means without a wire.",
+      "cn": "这意味着没有电线。"
+    },
+    {
+      "id": 113,
+      "en": "So wireless router is something a little box in your house that allows you to maybe have three or four computers on one broadband connection.",
+      "cn": "所以无线路由器是你家里一个小盒子，允许你在一个宽带连接上连接三到四台计算机。"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "So it's very popular now.",
+      "cn": "所以现在非常流行。"
+    },
+    {
+      "id": 116,
+      "en": "You go to Starbucks and you have Wi-Fi.",
+      "cn": "你去星巴克就可以使用Wi-Fi。"
+    },
+    {
+      "id": 117,
+      "en": "In order to have Wi-Fi or wireless Internet, you need a router, a wireless router.",
+      "cn": "为了拥有Wi-Fi或无线互联网，你需要一个路由器，一个无线路由器。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, so wireless router.",
+      "cn": "好的，所以无线路由器。"
+    },
+    {
+      "id": 119,
+      "en": "And finally, what is something that might get in the way of a connection?",
+      "cn": "最后，有什么东西可能会妨碍连接？"
+    },
+    {
+      "id": 120,
+      "en": "You have a firewall.",
+      "cn": "你有防火墙。"
+    },
+    {
+      "id": 121,
+      "en": "Very important security measure when navigating the Internet.",
+      "cn": "在浏览互联网时非常重要的安全措施。"
+    },
+    {
+      "id": 122,
+      "en": "Alright, so personal firewall is a firewall that you have on your computer to keep people from spying on you.",
+      "cn": "好吧，所以个人防火墙是你在计算机上用来防止别人监视你的防火墙。"
+    },
+    {
+      "id": 123,
+      "en": "This keeps other people out.",
+      "cn": "这可以阻止其他人。"
+    },
+    {
+      "id": 124,
+      "en": "So it's exactly that.",
+      "cn": "所以就是这样。"
+    },
+    {
+      "id": 125,
+      "en": "It's a wall between your computer and the outside world.",
+      "cn": "这是你计算机和外部世界之间的墙。"
+    },
+    {
+      "id": 126,
+      "en": "So it protects you from any type of maybe malicious intruders.",
+      "cn": "所以它保护你免受任何可能的恶意入侵者。"
+    },
+    {
+      "id": 127,
+      "en": "Right, and oftentimes governments and public offices, things like that, law offices, they have firewalls to protect the information that they store because it's so important that it's secretive.",
+      "cn": "对，通常政府和公共办公室，像这样的法律办公室，他们有防火墙来保护他们存储的信息，因为这些信息非常重要且保密。"
+    },
+    {
+      "id": 128,
+      "en": "Yeah, so firewalls, there are many different types of firewalls, but a personal firewall is just a basic one.",
+      "cn": "是的，所以防火墙有很多不同类型，但个人防火墙只是一个基本的。"
+    },
+    {
+      "id": 129,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 130,
+      "en": "So that is our language takeaway for today.",
+      "cn": "所以这是我们今天的语言收获。"
+    },
+    {
+      "id": 131,
+      "en": "Let's check out this dialogue again and slow it down a bit this time.",
+      "cn": "让我们再看看这个对话，这次慢一点。"
+    },
+    {
+      "id": 132,
+      "en": "Welcome to Galenet.",
+      "cn": "欢迎来到Galenet。"
+    },
+    {
+      "id": 133,
+      "en": "How can I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 134,
+      "en": "Hi, I would like to get an Internet plan for my house.",
+      "cn": "嗨，我想为我的家办理一个互联网套餐。"
+    },
+    {
+      "id": 135,
+      "en": "Of course, we have three different plans with different prices you can choose from.",
+      "cn": "当然，我们有三种不同的套餐，你可以选择不同的价格。"
+    },
+    {
+      "id": 136,
+      "en": "The first one is the cheapest but most basic plan, which is $30 a month.",
+      "cn": "第一个是最便宜但最基本的套餐，每月30美元。"
+    },
+    {
+      "id": 137,
+      "en": "This is for broadband Internet with a download speed of 512 kbps.",
+      "cn": "这是宽带互联网，下载速度为512 kbps。"
+    },
+    {
+      "id": 138,
+      "en": "I have no idea what kbps means.",
+      "cn": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 139,
+      "en": "I just want to be able to get online, play games, and chat with my friends.",
+      "cn": "我只想能够上网、玩游戏和和朋友聊天。"
+    },
+    {
+      "id": 140,
+      "en": "Oh, and watch movies online as well.",
+      "cn": "哦，还有在线看电影。"
+    },
+    {
+      "id": 141,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "cn": "嗯，这个连接可能对你的需求来说有点慢。"
+    },
+    {
+      "id": 142,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of two megabytes.",
+      "cn": "我建议你选择每月50美元的高级套餐，连接速度为两兆字节。"
+    },
+    {
+      "id": 143,
+      "en": "That way you can play games online without any lag.",
+      "cn": "这样你就可以在线玩游戏而没有延迟。"
+    },
+    {
+      "id": 144,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "cn": "这个套餐还包括一个无线路由器和一个个人防火墙，完全免费。"
+    },
+    {
+      "id": 145,
+      "en": "Do I have to pay an installation fee?",
+      "cn": "我需要支付安装费吗？"
+    },
+    {
+      "id": 146,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "cn": "幸运的是，这个月我们不收取正常的安装费。"
+    },
+    {
+      "id": 147,
+      "en": "You are saving yourself 100 bucks right there and will throw in this pen drive.",
+      "cn": "你就可以省下100美元，还会送你这个优盘。"
+    },
+    {
+      "id": 148,
+      "en": "Awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 149,
+      "en": "All right, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 150,
+      "en": "So we just heard all these words that we looked at before.",
+      "cn": "所以我们刚刚听到了之前讨论的所有这些词。"
+    },
+    {
+      "id": 151,
+      "en": "But now why don't we take a look at some of these phrases in Fluency Builder.",
+      "cn": "但现在我们为什么不看看这些短语在流利构建器中的表现呢？"
+    },
+    {
+      "id": 152,
+      "en": "What's this first one?",
+      "cn": "第一个是什么？"
+    },
+    {
+      "id": 153,
+      "en": "I can't read it.",
+      "cn": "我看不清。"
+    },
+    {
+      "id": 154,
+      "en": "I have no idea.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 155,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 156,
+      "en": "Well, didn't you write it down?",
+      "cn": "嗯，你没有把它写下来吗？"
+    },
+    {
+      "id": 157,
+      "en": "I have no idea what you're talking about.",
+      "cn": "我不知道你在说什么。"
+    },
+    {
+      "id": 158,
+      "en": "All right, enough games.",
+      "cn": "好吧，够了。"
+    },
+    {
+      "id": 159,
+      "en": "No, I have no idea.",
+      "cn": "不，我不知道。"
+    },
+    {
+      "id": 160,
+      "en": "This is, well, it's going to treat this as a phrase that gets said as is.",
+      "cn": "这是，嗯，它将把这个视为一个短语。"
+    },
+    {
+      "id": 161,
+      "en": "We're not going to take bits and pieces of it.",
+      "cn": "我们不会拆分它。"
+    },
+    {
+      "id": 162,
+      "en": "So I have no idea, or he has no idea, is a way to say, listen.",
+      "cn": "所以我不知道，或者他不知道，是一种说法，听着。"
+    },
+    {
+      "id": 163,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 164,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 165,
+      "en": "I really don't know.",
+      "cn": "我真的不知道。"
+    },
+    {
+      "id": 166,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 167,
+      "en": "The guy was talking about Kbps and all these things, and the other guy was like, I have no idea what you're talking about.",
+      "cn": "那个人在谈论Kbps和所有这些东西，而另一个人则说，我不知道你在说什么。"
+    },
+    {
+      "id": 168,
+      "en": "I don't understand.",
+      "cn": "我不明白。"
+    },
+    {
+      "id": 169,
+      "en": "And I can definitely empathize.",
+      "cn": "我绝对可以理解。"
+    },
+    {
+      "id": 170,
+      "en": "You can relate.",
+      "cn": "你可以理解。"
+    },
+    {
+      "id": 171,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 172,
+      "en": "Well, we'll leave that for another one.",
+      "cn": "好吧，我们留着下次再说。"
+    },
+    {
+      "id": 173,
+      "en": "But after this, we've got bucks.",
+      "cn": "但在这之后，我们有美元。"
+    },
+    {
+      "id": 174,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 175,
+      "en": "So bucks.",
+      "cn": "所以美元。"
+    },
+    {
+      "id": 176,
+      "en": "What is this slang?",
+      "cn": "这是什么俚语？"
+    },
+    {
+      "id": 177,
+      "en": "Bucks.",
+      "cn": "美元。"
+    },
+    {
+      "id": 178,
+      "en": "100 bucks.",
+      "cn": "100美元。"
+    },
+    {
+      "id": 179,
+      "en": "200 bucks.",
+      "cn": "200美元。"
+    },
+    {
+      "id": 180,
+      "en": "A lot of money.",
+      "cn": "很多钱。"
+    },
+    {
+      "id": 181,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 182,
+      "en": "So bucks is basically another way of saying dollars.",
+      "cn": "所以美元基本上是另一种说法，表示美元。"
+    },
+    {
+      "id": 183,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 184,
+      "en": "So this is a way for, well, this is a way that most Americans talk about money.",
+      "cn": "所以这是大多数美国人谈论钱的方式。"
+    },
+    {
+      "id": 185,
+      "en": "It's one buck is one US dollar.",
+      "cn": "一美元就是一美元。"
+    },
+    {
+      "id": 186,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 187,
+      "en": "So can I borrow 10 bucks, Marco?",
+      "cn": "所以我可以借你10美元吗，Marco？"
+    },
+    {
+      "id": 188,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 189,
+      "en": "So, yeah, sure.",
+      "cn": "所以，好的。"
+    },
+    {
+      "id": 190,
+      "en": "There you go.",
+      "cn": "给你。"
+    },
+    {
+      "id": 191,
+      "en": "Now, bucks, you can only use it for American currency, right?",
+      "cn": "现在，美元只能用于美国货币，对吗？"
+    },
+    {
+      "id": 192,
+      "en": "You can't use it for, like, Euros or... No.",
+      "cn": "你不能用它来表示欧元或...不。"
+    },
+    {
+      "id": 193,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 194,
+      "en": "You can't say, like, 10 Euros would be 10 bucks.",
+      "cn": "你不能说，像10欧元就是10美元。"
+    },
+    {
+      "id": 195,
+      "en": "No, no, no, no.",
+      "cn": "不，不，不，不。"
+    },
+    {
+      "id": 196,
+      "en": "Usually you say this about American dollars, and you say this just when you're hanging out, or how much does this cost?",
+      "cn": "通常你是说美国美元，只有在闲聊时，或者问这个多少钱时才会说。"
+    },
+    {
+      "id": 197,
+      "en": "Oh, five bucks.",
+      "cn": "哦，五美元。"
+    },
+    {
+      "id": 198,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 199,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 200,
+      "en": "So the guy was telling him about the price of the Internet and everything, and he said he's going to throw in a pen drive, right?",
+      "cn": "所以那个人在告诉他互联网的价格和一切，他说他会免费送一个U盘，对吧？"
+    },
+    {
+      "id": 201,
+      "en": "He's going to throw it?",
+      "cn": "他要送吗？"
+    },
+    {
+      "id": 202,
+      "en": "He's going to throw it at him.",
+      "cn": "他要扔给他。"
+    },
+    {
+      "id": 203,
+      "en": "No, he's going to throw in a pen drive for free.",
+      "cn": "不，他是要免费送一个U盘。"
+    },
+    {
+      "id": 204,
+      "en": "Oh, sweet.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 205,
+      "en": "So throw in means to add.",
+      "cn": "所以送的意思是添加。"
+    },
+    {
+      "id": 206,
+      "en": "Or include.",
+      "cn": "或者包括。"
+    },
+    {
+      "id": 207,
+      "en": "Include.",
+      "cn": "包括。"
+    },
+    {
+      "id": 208,
+      "en": "So, listen, sir, here's your large popcorn, and I'm going to throw in a small diet coke for free.",
+      "cn": "所以，听着，先生，这是你的大份爆米花，我会免费送你一小杯健怡可乐。"
+    },
+    {
+      "id": 209,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 210,
+      "en": "So you throw in something, it's you include it for free, right?",
+      "cn": "所以你送的东西，就是你免费包括的，对吧？"
+    },
+    {
+      "id": 211,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 212,
+      "en": "So this is usually a complementary item.",
+      "cn": "所以这通常是一个赠品。"
+    },
+    {
+      "id": 213,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 214,
+      "en": "I think this word is really interesting, or this phrase, so why don't we listen to a couple of other examples using throw in.",
+      "cn": "我觉得这个词真的很有趣，或者说这个短语，所以我们为什么不听几个使用“送”的其他例子呢。"
+    },
+    {
+      "id": 215,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 216,
+      "en": "If you buy two pizzas, we will throw in another one for free.",
+      "cn": "如果你买两个披萨，我们会免费送一个。"
+    },
+    {
+      "id": 217,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 218,
+      "en": "Tell you what, I'll buy this computer if you throw in a pair of headphones.",
+      "cn": "我告诉你，如果你送我一副耳机，我就买这台电脑。"
+    },
+    {
+      "id": 219,
+      "en": "Deal?",
+      "cn": "成交？"
+    },
+    {
+      "id": 220,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 221,
+      "en": "The salesman threw in a subscription to the local newspaper for buying his product.",
+      "cn": "销售员为了卖他的产品，免费送了一份当地报纸的订阅。"
+    },
+    {
+      "id": 222,
+      "en": "Isn't that great?",
+      "cn": "这不是很好吗？"
+    },
+    {
+      "id": 223,
+      "en": "All right, great.",
+      "cn": "好吧，很好。"
+    },
+    {
+      "id": 224,
+      "en": "So good examples.",
+      "cn": "所以好的例子。"
+    },
+    {
+      "id": 225,
+      "en": "I think it's clear now, the phrases, all these words related to the Internet.",
+      "cn": "我觉得现在很清楚了，这些短语，所有与互联网相关的词。"
+    },
+    {
+      "id": 226,
+      "en": "Absolutely.",
+      "cn": "绝对如此。"
+    },
+    {
+      "id": 227,
+      "en": "And so useful.",
+      "cn": "而且非常有用。"
+    },
+    {
+      "id": 228,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 229,
+      "en": "So why don't we listen to this dialogue for the last time, and then we'll come back and talk a little bit more.",
+      "cn": "所以我们为什么不最后再听一次这个对话，然后我们再回来聊聊。"
+    },
+    {
+      "id": 230,
+      "en": "Welcome to Galenet.",
+      "cn": "欢迎来到Galenet。"
+    },
+    {
+      "id": 231,
+      "en": "How can I help you?",
+      "cn": "我能帮你什么？"
+    },
+    {
+      "id": 232,
+      "en": "Hi.",
+      "cn": "嗨。"
+    },
+    {
+      "id": 233,
+      "en": "I would like to get an Internet plan from my house.",
+      "cn": "我想从我家获取一个互联网套餐。"
+    },
+    {
+      "id": 234,
+      "en": "Of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 235,
+      "en": "We have three different plans with different prices you can choose from.",
+      "cn": "我们有三种不同的套餐，你可以选择不同的价格。"
+    },
+    {
+      "id": 236,
+      "en": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+      "cn": "第一个是最便宜的，但也是最基本的套餐，每月30美元。"
+    },
+    {
+      "id": 237,
+      "en": "This is for broadband Internet with a download speed of 512 kbps.",
+      "cn": "这是宽带互联网，下载速度为512 kbps。"
+    },
+    {
+      "id": 238,
+      "en": "I have no idea what kbps means.",
+      "cn": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 239,
+      "en": "I just want to be able to get online, play games, and chat with my friends.",
+      "cn": "我只想能够上网、玩游戏和和朋友聊天。"
+    },
+    {
+      "id": 240,
+      "en": "Oh, and watch movies online as well.",
+      "cn": "哦，还想在线看电影。"
+    },
+    {
+      "id": 241,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "cn": "嗯，这个连接可能对你的需求来说有点慢。"
+    },
+    {
+      "id": 242,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of 2MB.",
+      "cn": "我建议你选择每月50美元的高级套餐，连接速度为2MB。"
+    },
+    {
+      "id": 243,
+      "en": "That way, you can play games online without any lag.",
+      "cn": "这样你就可以无延迟地在线玩游戏。"
+    },
+    {
+      "id": 244,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "cn": "这个套餐还包括一个无线路由器和一个个人防火墙，完全免费。"
+    },
+    {
+      "id": 245,
+      "en": "Do I have to pay an installation fee?",
+      "cn": "我需要支付安装费吗？"
+    },
+    {
+      "id": 246,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "cn": "幸运的是，这个月我们不收取正常的安装费。"
+    },
+    {
+      "id": 247,
+      "en": "You are saving yourself $100 right there.",
+      "cn": "你就省下了100美元。"
+    },
+    {
+      "id": 248,
+      "en": "And we'll throw in a pen drive.",
+      "cn": "而且我们还会送一个U盘。"
+    },
+    {
+      "id": 249,
+      "en": "Awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 250,
+      "en": "So the Internet is a big deal nowadays and now you can do so much on it.",
+      "cn": "所以互联网现在是个大事，你现在可以在上面做很多事情。"
+    },
+    {
+      "id": 251,
+      "en": "Not only navigate websites anymore, but watch movies, download applications, photos, Facebook, all this type of things now that you can do on the Internet.",
+      "cn": "不仅仅是浏览网站，还可以看电影、下载应用程序、照片、Facebook，所有这些你现在可以在互联网上做的事情。"
+    },
+    {
+      "id": 252,
+      "en": "You can even do it from your phone like when you're in the bathroom or on the train.",
+      "cn": "你甚至可以在厕所或火车上用手机做到这一点。"
+    },
+    {
+      "id": 253,
+      "en": "I mean it's scary.",
+      "cn": "我是说这很可怕。"
+    },
+    {
+      "id": 254,
+      "en": "We're always connected.",
+      "cn": "我们总是在线。"
+    },
+    {
+      "id": 255,
+      "en": "Right, so it's interesting.",
+      "cn": "对，所以这很有趣。"
+    },
+    {
+      "id": 256,
+      "en": "You're always connected.",
+      "cn": "你总是在线。"
+    },
+    {
+      "id": 257,
+      "en": "You're always online with people.",
+      "cn": "你总是和人们在线。"
+    },
+    {
+      "id": 258,
+      "en": "And it's actually very noticeable when you maybe live somewhere else.",
+      "cn": "其实在你可能住在其他地方时，这是非常明显的。"
+    },
+    {
+      "id": 259,
+      "en": "Before you used to have to write letters.",
+      "cn": "以前你必须写信。"
+    },
+    {
+      "id": 260,
+      "en": "I don't think many people receive handwritten letters anymore.",
+      "cn": "我觉得现在很少有人收到手写信了。"
+    },
+    {
+      "id": 261,
+      "en": "Never.",
+      "cn": "从来没有。"
+    },
+    {
+      "id": 262,
+      "en": "I'm speaking for myself, I never receive.",
+      "cn": "我说的是我自己，我从来没有收到。"
+    },
+    {
+      "id": 263,
+      "en": "And I don't write them either.",
+      "cn": "我也不写。"
+    },
+    {
+      "id": 264,
+      "en": "So I guess I'm guilty of it.",
+      "cn": "所以我想我有罪。"
+    },
+    {
+      "id": 265,
+      "en": "So now people just send emails.",
+      "cn": "所以现在人们只发电子邮件。"
+    },
+    {
+      "id": 266,
+      "en": "Obviously it's more convenient, but maybe it's a little bit less significant maybe than actually going to the post office or taking the time to write a letter or going to the post office and stuff.",
+      "cn": "显然这更方便，但也许这比实际去邮局或花时间写信要少一点重要性。"
+    },
+    {
+      "id": 267,
+      "en": "I don't know, there's something nice about having a physical thing you can hold on to, but I wonder if one day we're going to forget how to write.",
+      "cn": "我不知道，拥有一个可以握在手里的实物东西是件好事，但我在想有一天我们会不会忘记怎么写。"
+    },
+    {
+      "id": 268,
+      "en": "You know, like write with a pen.",
+      "cn": "你知道，像用笔写。"
+    },
+    {
+      "id": 269,
+      "en": "With a pen and pencil, exactly.",
+      "cn": "用笔和铅笔，没错。"
+    },
+    {
+      "id": 270,
+      "en": "We're going to have these little PDAs and these little iPhones and they're going to just they're going to talk and they're going to take everything down in note form for you.",
+      "cn": "我们会有这些小PDA和小iPhone，它们会为你记录一切。"
+    },
+    {
+      "id": 271,
+      "en": "Well now it's kind of happening with the Kindle, right?",
+      "cn": "嗯，现在这在Kindle上已经发生了，对吧？"
+    },
+    {
+      "id": 272,
+      "en": "Now you can have books on this electronic device that lets you read through them.",
+      "cn": "现在你可以在这个电子设备上阅读书籍。"
+    },
+    {
+      "id": 273,
+      "en": "You can carry a hundred books with you.",
+      "cn": "你可以带着一百本书。"
+    },
+    {
+      "id": 274,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 275,
+      "en": "To the beach.",
+      "cn": "去海滩。"
+    },
+    {
+      "id": 276,
+      "en": "So now you don't even really need physical books, which is good on some level because you know, you're saving trees and space and all that stuff.",
+      "cn": "所以现在你甚至不需要实体书，这在某种程度上是好的，因为你知道，你在节省树木和空间等等。"
+    },
+    {
+      "id": 277,
+      "en": "But there's something physical about reading a book.",
+      "cn": "但阅读一本书有一种实物的感觉。"
+    },
+    {
+      "id": 278,
+      "en": "You hold it, you flip the pages, you know how many pages you have left.",
+      "cn": "你握着它，翻页，你知道你还有多少页。"
+    },
+    {
+      "id": 279,
+      "en": "I don't know, we'll see.",
+      "cn": "我不知道，我们拭目以待。"
+    },
+    {
+      "id": 280,
+      "en": "Maybe I'll be a convert one day, but for now I'm good with paper books.",
+      "cn": "也许有一天我会转变，但现在我还是喜欢纸质书。"
+    },
+    {
+      "id": 281,
+      "en": "All right, so well what do you guys think about the Internet, about electronic books?",
+      "cn": "好吧，你们对互联网和电子书有什么看法？"
+    },
+    {
+      "id": 282,
+      "en": "You can also tell us any problems or confusion you have with the things that we talked about today.",
+      "cn": "你们也可以告诉我们你们今天谈到的任何问题或困惑。"
+    },
+    {
+      "id": 283,
+      "en": "Hopefully everything is clear, but if not, we are here to answer your questions.",
+      "cn": "希望一切都清楚，但如果没有，我们在这里回答你们的问题。"
+    },
+    {
+      "id": 284,
+      "en": "We like to do so.",
+      "cn": "我们喜欢这样做。"
+    },
+    {
+      "id": 285,
+      "en": "So check out our website, EnglishPod.com.",
+      "cn": "所以请查看我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 286,
+      "en": "All right, we'll see you guys there and until next time.",
+      "cn": "好吧，我们下次见。"
+    },
+    {
+      "id": 287,
+      "en": "Goodbye, everyone.",
+      "cn": "再见，大家。"
+    }
+  ]
+}

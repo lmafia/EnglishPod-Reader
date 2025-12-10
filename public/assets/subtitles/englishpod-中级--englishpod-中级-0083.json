@@ -1,0 +1,1394 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0083",
+  "title": "EnglishPod 中级 0083",
+  "totalSegments": 277,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another great lesson here with us at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一堂精彩课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be getting money.",
+      "cn": "今天我们要谈论钱。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to have a lesson about the ATM.",
+      "cn": "我们将进行关于ATM的课程。"
+    },
+    {
+      "id": 8,
+      "en": "The ATM or... Automatic Teller Machine.",
+      "cn": "ATM或... 自动取款机。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, that's what it stands for.",
+      "cn": "好的，这就是它的意思。"
+    },
+    {
+      "id": 10,
+      "en": "ATM.",
+      "cn": "ATM。"
+    },
+    {
+      "id": 11,
+      "en": "So we're going to be looking at the language that you'll probably find in an ATM maybe in the United States or in an English-speaking country.",
+      "cn": "所以我们将看看你可能在美国或英语国家的ATM中看到的语言。"
+    },
+    {
+      "id": 12,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 13,
+      "en": "But before we begin, why don't we look at some vocabulary that we'll hear in the dialogue.",
+      "cn": "但在开始之前，我们先看看对话中会听到的一些词汇。"
+    },
+    {
+      "id": 14,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 15,
+      "en": "As we mentioned, the ATM or Automatic Teller Machine is a machine where you get your money, right?",
+      "cn": "正如我们提到的，ATM或自动取款机是你取钱的机器，对吧？"
+    },
+    {
+      "id": 16,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 17,
+      "en": "And also, well, some people are in different places.",
+      "cn": "还有，一些地方的人可能称它为银行机器。"
+    },
+    {
+      "id": 18,
+      "en": "They may call it the bank machine.",
+      "cn": "是的，或者可能叫现金机器。"
+    },
+    {
+      "id": 20,
+      "en": "Or just the money machine or something.",
+      "cn": "或者就叫钱机器之类的。"
+    },
+    {
+      "id": 21,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 22,
+      "en": "So ATM.",
+      "cn": "所以ATM。"
+    },
+    {
+      "id": 23,
+      "en": "ATM.",
+      "cn": "ATM。"
+    },
+    {
+      "id": 24,
+      "en": "And now let's take a look at our next word.",
+      "cn": "现在让我们看看下一个词。"
+    },
+    {
+      "id": 25,
+      "en": "Local Authorities.",
+      "cn": "当地当局。"
+    },
+    {
+      "id": 26,
+      "en": "The Local Authorities.",
+      "cn": "当地当局。"
+    },
+    {
+      "id": 27,
+      "en": "The Local Authorities.",
+      "cn": "当地当局。"
+    },
+    {
+      "id": 28,
+      "en": "So what are the local authorities?",
+      "cn": "那当地当局是什么？"
+    },
+    {
+      "id": 29,
+      "en": "Well, basically it's the police.",
+      "cn": "基本上就是警察。"
+    },
+    {
+      "id": 30,
+      "en": "The police.",
+      "cn": "警察。"
+    },
+    {
+      "id": 31,
+      "en": "Why do you say local authorities?",
+      "cn": "你为什么说当地当局？"
+    },
+    {
+      "id": 32,
+      "en": "Okay, well, authority is the person in charge, right?",
+      "cn": "好吧，权威是负责的人，对吧？"
+    },
+    {
+      "id": 33,
+      "en": "The boss.",
+      "cn": "头儿。"
+    },
+    {
+      "id": 34,
+      "en": "So the local authorities are basically the people who are the boss of this place.",
+      "cn": "所以当地当局基本上是这个地方的负责人。"
+    },
+    {
+      "id": 35,
+      "en": "In that area?",
+      "cn": "在那个地区？"
+    },
+    {
+      "id": 36,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 37,
+      "en": "So the police.",
+      "cn": "所以是警察。"
+    },
+    {
+      "id": 38,
+      "en": "The local authorities.",
+      "cn": "当地当局。"
+    },
+    {
+      "id": 39,
+      "en": "So why don't we start now with our dialogue.",
+      "cn": "那我们现在开始对话吧。"
+    },
+    {
+      "id": 40,
+      "en": "Why are we talking about local authorities and ATM machines?",
+      "cn": "我们为什么要谈论当地当局和ATM机器？"
+    },
+    {
+      "id": 41,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 42,
+      "en": "We gotta listen to find out.",
+      "cn": "我们得听听才能知道。"
+    },
+    {
+      "id": 43,
+      "en": "Stupid girl making me spend so much money.",
+      "cn": "笨女孩让我花了这么多钱。"
+    },
+    {
+      "id": 44,
+      "en": "Now I have to get it from the ATM.",
+      "cn": "现在我得从ATM取钱。"
+    },
+    {
+      "id": 45,
+      "en": "Hello, welcome to Universal Bank.",
+      "cn": "你好，欢迎来到Universal Bank。"
+    },
+    {
+      "id": 46,
+      "en": "Please insert your card into the slot.",
+      "cn": "请将您的卡插入插槽。"
+    },
+    {
+      "id": 47,
+      "en": "I know where to put my card.",
+      "cn": "我知道把卡放在哪里。"
+    },
+    {
+      "id": 48,
+      "en": "Stupid machine talking to me like I'm an idiot.",
+      "cn": "笨机器像我傻瓜一样跟我说话。"
+    },
+    {
+      "id": 49,
+      "en": "Please input your six-digit PIN code followed by the pound key.",
+      "cn": "请输入您的六位数PIN码，然后按井号键。"
+    },
+    {
+      "id": 50,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 51,
+      "en": "Please select an option.",
+      "cn": "请选择一个选项。"
+    },
+    {
+      "id": 52,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 53,
+      "en": "You have selected withdraw.",
+      "cn": "您已选择取款。"
+    },
+    {
+      "id": 54,
+      "en": "Yeah, yeah, I know what I selected.",
+      "cn": "是的，是的，我知道我选择了什么。"
+    },
+    {
+      "id": 55,
+      "en": "Just give me my money.",
+      "cn": "只要给我我的钱。"
+    },
+    {
+      "id": 56,
+      "en": "Please type the amount you would like to withdraw.",
+      "cn": "请输入您想取款的金额。"
+    },
+    {
+      "id": 57,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 58,
+      "en": "You want to transfer.",
+      "cn": "您想转账。"
+    },
+    {
+      "id": 59,
+      "en": "10,000 US dollars to the World Wildlife Foundation.",
+      "cn": "10,000美元转给世界野生动物基金会。"
+    },
+    {
+      "id": 60,
+      "en": "If this is correct, please press 1.",
+      "cn": "如果正确，请按1。"
+    },
+    {
+      "id": 61,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 62,
+      "en": "Stupid machine, what are you doing?",
+      "cn": "笨机器，你在干什么？"
+    },
+    {
+      "id": 63,
+      "en": "No!",
+      "cn": "不！"
+    },
+    {
+      "id": 64,
+      "en": "Confirmed.",
+      "cn": "已确认。"
+    },
+    {
+      "id": 65,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 66,
+      "en": "Please remove your card from the slot.",
+      "cn": "请从插槽中取出您的卡。"
+    },
+    {
+      "id": 67,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 68,
+      "en": "No way!",
+      "cn": "不可能！"
+    },
+    {
+      "id": 69,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 70,
+      "en": "Give me my money!",
+      "cn": "给我我的钱！"
+    },
+    {
+      "id": 71,
+      "en": "Danger!",
+      "cn": "危险！"
+    },
+    {
+      "id": 72,
+      "en": "Danger!",
+      "cn": "危险！"
+    },
+    {
+      "id": 73,
+      "en": "The exits have been sealed and the doors will remain locked until the local authorities arrive.",
+      "cn": "出口已被封锁，门将保持锁定，直到当地当局到达。"
+    },
+    {
+      "id": 74,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 75,
+      "en": "Have a nice day.",
+      "cn": "祝您有美好的一天。"
+    },
+    {
+      "id": 76,
+      "en": "No!",
+      "cn": "不！"
+    },
+    {
+      "id": 77,
+      "en": "All right, so it's not his day today.",
+      "cn": "好吧，今天不是他的日子。"
+    },
+    {
+      "id": 78,
+      "en": "I think he was very unlucky and maybe he's gonna be in trouble.",
+      "cn": "我觉得他非常不幸，可能会有麻烦。"
+    },
+    {
+      "id": 79,
+      "en": "I know, and he was on a date.",
+      "cn": "我知道，他正在约会。"
+    },
+    {
+      "id": 80,
+      "en": "This is probably one of the worst things that can happen to a guy when he's on a date.",
+      "cn": "这可能是一个人在约会时能遇到的最糟糕的事情之一。"
+    },
+    {
+      "id": 81,
+      "en": "All right, yes, so, well, we saw some of the language that was related to an ATM money and banking, so why don't we take a look at that now in Language Takeaway.",
+      "cn": "好吧，是的，我们看到了与ATM、钱和银行相关的一些语言，所以我们现在来看看语言要点。"
+    },
+    {
+      "id": 82,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 83,
+      "en": "All right, so the guy had to insert his card into the slot.",
+      "cn": "好吧，这个家伙必须把他的卡插入插槽。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so slot.",
+      "cn": "好的，插槽。"
+    },
+    {
+      "id": 85,
+      "en": "Slot.",
+      "cn": "插槽。"
+    },
+    {
+      "id": 86,
+      "en": "All right, slot.",
+      "cn": "好吧，插槽。"
+    },
+    {
+      "id": 87,
+      "en": "And that is an opening, right, or a type of hole maybe.",
+      "cn": "这是一个开口，对吧，或者可能是一种孔。"
+    },
+    {
+      "id": 88,
+      "en": "Yeah, it's a hole that is usually long.",
+      "cn": "是的，它通常是一个长孔。"
+    },
+    {
+      "id": 89,
+      "en": "Long and it's like a rectangular hole.",
+      "cn": "长的，像一个长方形的孔。"
+    },
+    {
+      "id": 90,
+      "en": "Yeah, a slot is never a circle.",
+      "cn": "是的，插槽从来不是圆形的。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, so for example, when you get mail, the mailman will put it into your mailbox through the slot.",
+      "cn": "好的，例如，当你收到邮件时，邮递员会通过插槽把邮件放入你的邮箱。"
+    },
+    {
+      "id": 92,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, well, and now that he put his card into the slot, he had to input a six-digit PIN code.",
+      "cn": "好吧，现在他把卡放入插槽后，他必须输入六位数的PIN码。"
+    },
+    {
+      "id": 94,
+      "en": "Want to just do both together?",
+      "cn": "想一起说吗？"
+    },
+    {
+      "id": 95,
+      "en": "Digit and PIN code?",
+      "cn": "数字和PIN码？"
+    },
+    {
+      "id": 96,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 97,
+      "en": "Okay, so a six-digit PIN code.",
+      "cn": "好的，所以六位数的PIN码。"
+    },
+    {
+      "id": 98,
+      "en": "All right, now we have two words here that are new.",
+      "cn": "好吧，现在我们有两个新词。"
+    },
+    {
+      "id": 99,
+      "en": "Digit.",
+      "cn": "数字。"
+    },
+    {
+      "id": 100,
+      "en": "Digit is basically a number between zero and nine.",
+      "cn": "数字基本上是零到九之间的一个数字。"
+    },
+    {
+      "id": 101,
+      "en": "Okay, so any number between zero and nine is considered a digit.",
+      "cn": "好的，所以零到九之间的任何数字都被视为数字。"
+    },
+    {
+      "id": 102,
+      "en": "Yes, so 100 is made up of three digits.",
+      "cn": "是的，所以100由三个数字组成。"
+    },
+    {
+      "id": 103,
+      "en": "Three digits, okay.",
+      "cn": "三个数字，好的。"
+    },
+    {
+      "id": 104,
+      "en": "And what about PIN code?",
+      "cn": "那么PIN码呢？"
+    },
+    {
+      "id": 105,
+      "en": "A PIN code is your secret number that you use to take money out.",
+      "cn": "PIN码是你用来取钱的秘密号码。"
+    },
+    {
+      "id": 106,
+      "en": "Now why wouldn't we say password?",
+      "cn": "现在为什么不说密码呢？"
+    },
+    {
+      "id": 107,
+      "en": "Password is usually letters.",
+      "cn": "密码通常是字母。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, and PIN code is numbers.",
+      "cn": "好的，而PIN码是数字。"
+    },
+    {
+      "id": 109,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 110,
+      "en": "All right, he had to input his six-digit PIN code, and then after that, he had to press the pound key.",
+      "cn": "好吧，他必须输入他的六位数PIN码，然后按下井号键。"
+    },
+    {
+      "id": 111,
+      "en": "Pound key.",
+      "cn": "井号键。"
+    },
+    {
+      "id": 112,
+      "en": "Now this is strange.",
+      "cn": "这很奇怪。"
+    },
+    {
+      "id": 113,
+      "en": "A pound key.",
+      "cn": "井号键。"
+    },
+    {
+      "id": 114,
+      "en": "What is that?",
+      "cn": "那是什么？"
+    },
+    {
+      "id": 115,
+      "en": "Well, you know on a phone, on the bottom right, there's a key or a button that looks like a number sign.",
+      "cn": "嗯，你知道在电话上，右下角有一个看起来像数字符号的键或按钮。"
+    },
+    {
+      "id": 116,
+      "en": "Number sign, so kind of like two vertical lines and two horizontal lines.",
+      "cn": "数字符号，就像两条竖线和两条横线。"
+    },
+    {
+      "id": 117,
+      "en": "Yeah, two lines going up and down, two lines going across.",
+      "cn": "是的，两条竖线，两条横线。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, so that's called the pound key.",
+      "cn": "好的，所以那叫井号键。"
+    },
+    {
+      "id": 119,
+      "en": "All right, what about the other one?",
+      "cn": "好吧，另一个呢？"
+    },
+    {
+      "id": 120,
+      "en": "It's called the star.",
+      "cn": "叫星号。"
+    },
+    {
+      "id": 121,
+      "en": "The star key.",
+      "cn": "星号键。"
+    },
+    {
+      "id": 122,
+      "en": "All right, so after the PIN code, after the pound key, now he's ready to withdraw money.",
+      "cn": "好的，所以在输入PIN码和井号键后，他现在准备取钱。"
+    },
+    {
+      "id": 123,
+      "en": "So we heard withdrawal.",
+      "cn": "所以我们听到了取款。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, so withdrawal is... Is a noun.",
+      "cn": "好的，取款是……是名词。"
+    },
+    {
+      "id": 125,
+      "en": "It's the action of taking money out.",
+      "cn": "这是取钱的动作。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, a withdrawal.",
+      "cn": "好的，取款。"
+    },
+    {
+      "id": 127,
+      "en": "A withdrawal.",
+      "cn": "取款。"
+    },
+    {
+      "id": 128,
+      "en": "Okay, and to withdraw.",
+      "cn": "好的，和取出。"
+    },
+    {
+      "id": 129,
+      "en": "To withdraw is just the verb.",
+      "cn": "取出只是动词。"
+    },
+    {
+      "id": 130,
+      "en": "To take out money.",
+      "cn": "取出钱。"
+    },
+    {
+      "id": 131,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 132,
+      "en": "So we have the noun and the verb.",
+      "cn": "所以我们有名词和动词。"
+    },
+    {
+      "id": 133,
+      "en": "The only difference is an L at the end.",
+      "cn": "唯一的区别是结尾的L。"
+    },
+    {
+      "id": 134,
+      "en": "Yes, so withdrawal noun and withdraw verb.",
+      "cn": "是的，所以取款是名词，取出是动词。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, and well, he wanted to withdraw money, but something happened with the ATM and it turned out that he was going to transfer money.",
+      "cn": "好的，他想取钱，但ATM出了点问题，结果他要转账。"
+    },
+    {
+      "id": 136,
+      "en": "So transfer.",
+      "cn": "所以转账。"
+    },
+    {
+      "id": 137,
+      "en": "Transfer.",
+      "cn": "转账。"
+    },
+    {
+      "id": 138,
+      "en": "Transfer.",
+      "cn": "转账。"
+    },
+    {
+      "id": 139,
+      "en": "When you transfer money, you take it from one place and put it in another.",
+      "cn": "当你转账时，你是把钱从一个地方放到另一个地方。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, and usually in banking, when you transfer money, you don't really see it, right?",
+      "cn": "好的，通常在银行业务中，当你转账时，你并不真的看到它，对吗？"
+    },
+    {
+      "id": 141,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 142,
+      "en": "It's all electronic, so you just put it from one bank account to another, but you never actually see this money.",
+      "cn": "这都是电子的，所以你只是把钱从一个银行账户转到另一个，但你实际上从未看到这笔钱。"
+    },
+    {
+      "id": 143,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 144,
+      "en": "So transfer money.",
+      "cn": "所以转账钱。"
+    },
+    {
+      "id": 145,
+      "en": "Transfer.",
+      "cn": "转账。"
+    },
+    {
+      "id": 146,
+      "en": "And now this one also has a verb and a noun, right?",
+      "cn": "现在这个也有动词和名词，对吗？"
+    },
+    {
+      "id": 147,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 148,
+      "en": "A transfer.",
+      "cn": "转账。"
+    },
+    {
+      "id": 149,
+      "en": "And to transfer.",
+      "cn": "和转账。"
+    },
+    {
+      "id": 150,
+      "en": "Same word.",
+      "cn": "同一个词。"
+    },
+    {
+      "id": 151,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 152,
+      "en": "Easy.",
+      "cn": "简单。"
+    },
+    {
+      "id": 153,
+      "en": "All right, so why don't we listen to our dialogue for the second time.",
+      "cn": "好吧，我们为什么不再听一次对话。"
+    },
+    {
+      "id": 154,
+      "en": "It's going to be slowed down a little bit, and then we'll come back and look at some phrases.",
+      "cn": "会稍微放慢一点，然后我们再回来看看一些短语。"
+    },
+    {
+      "id": 155,
+      "en": "Stupid girl making me spend so much money.",
+      "cn": "笨女孩让我花这么多钱。"
+    },
+    {
+      "id": 156,
+      "en": "Now I have to get it from the ATM.",
+      "cn": "现在我得从ATM取钱。"
+    },
+    {
+      "id": 157,
+      "en": "Hello, welcome to Universal Bank.",
+      "cn": "你好，欢迎来到环球银行。"
+    },
+    {
+      "id": 158,
+      "en": "Please insert your card into the slot.",
+      "cn": "请将您的卡插入插槽。"
+    },
+    {
+      "id": 159,
+      "en": "I know where to put my card.",
+      "cn": "我知道把卡放在哪里。"
+    },
+    {
+      "id": 160,
+      "en": "Stupid machine talking to me like I'm an idiot.",
+      "cn": "笨机器跟我说话就像我是一名傻瓜。"
+    },
+    {
+      "id": 161,
+      "en": "Please input your six digit PIN code followed by the pound key.",
+      "cn": "请输入您的六位数PIN码，然后按井号键。"
+    },
+    {
+      "id": 162,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 163,
+      "en": "Please have selected withdraw.",
+      "cn": "请选择取款。"
+    },
+    {
+      "id": 164,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 165,
+      "en": "I know what I selected.",
+      "cn": "我知道我选择了什么。"
+    },
+    {
+      "id": 166,
+      "en": "Just give me my money.",
+      "cn": "只给我我的钱。"
+    },
+    {
+      "id": 167,
+      "en": "Please type the amount you would like to withdraw.",
+      "cn": "请键入您想取款的金额。"
+    },
+    {
+      "id": 168,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 169,
+      "en": "You want to transfer.",
+      "cn": "您想转账。"
+    },
+    {
+      "id": 170,
+      "en": "10,000 US dollars to the World Wildlife Foundation.",
+      "cn": "10,000美元到世界野生动物基金会。"
+    },
+    {
+      "id": 171,
+      "en": "If this is correct, please press one.",
+      "cn": "如果这是正确的，请按1。"
+    },
+    {
+      "id": 172,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 173,
+      "en": "Stupid machine, what are you doing?",
+      "cn": "笨机器，你在做什么？"
+    },
+    {
+      "id": 174,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 175,
+      "en": "Confirmed.",
+      "cn": "已确认。"
+    },
+    {
+      "id": 176,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 177,
+      "en": "Please remove your card from the slot.",
+      "cn": "请从插槽中取出您的卡。"
+    },
+    {
+      "id": 178,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 179,
+      "en": "No way.",
+      "cn": "不可能。"
+    },
+    {
+      "id": 180,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 181,
+      "en": "Give me my money.",
+      "cn": "给我我的钱。"
+    },
+    {
+      "id": 182,
+      "en": "Danger.",
+      "cn": "危险。"
+    },
+    {
+      "id": 183,
+      "en": "Danger.",
+      "cn": "危险。"
+    },
+    {
+      "id": 184,
+      "en": "The exits have been sealed and the doors will remain locked until the local authorities arrive.",
+      "cn": "出口已被封锁，门将保持锁定，直到当地当局到达。"
+    },
+    {
+      "id": 185,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 186,
+      "en": "Have a nice day.",
+      "cn": "祝您有美好的一天。"
+    },
+    {
+      "id": 187,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 188,
+      "en": "Okay, so that was a little easier to understand.",
+      "cn": "好的，所以这稍微容易理解一些。"
+    },
+    {
+      "id": 189,
+      "en": "But Marco, there's some interesting phrases here, some instructions that you commonly read or hear when you're using a bank machine.",
+      "cn": "但是Marco，这里有一些有趣的短语，一些你在使用银行机器时常常会读到或听到的指示。"
+    },
+    {
+      "id": 190,
+      "en": "So why don't we take a look at these phrases in Fluency Builder.",
+      "cn": "所以我们为什么不看看这些短语在流利度构建器中。"
+    },
+    {
+      "id": 191,
+      "en": "Fluency Builder.",
+      "cn": "流利度构建器。"
+    },
+    {
+      "id": 192,
+      "en": "Well, the bank machine told this guy to insert your card.",
+      "cn": "嗯，银行机器告诉这个人插入卡片。"
+    },
+    {
+      "id": 193,
+      "en": "Insert your card.",
+      "cn": "插入您的卡。"
+    },
+    {
+      "id": 194,
+      "en": "Insert your card.",
+      "cn": "插入您的卡。"
+    },
+    {
+      "id": 195,
+      "en": "So this verb, to insert, to place inside.",
+      "cn": "所以这个动词，插入，放入内部。"
+    },
+    {
+      "id": 196,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 197,
+      "en": "So what else can we insert?",
+      "cn": "那么我们还可以插入什么？"
+    },
+    {
+      "id": 198,
+      "en": "Well, for example, commonly you insert a disc.",
+      "cn": "嗯，例如，通常你插入一个光盘。"
+    },
+    {
+      "id": 199,
+      "en": "Yeah, in your computer.",
+      "cn": "是的，在你的电脑里。"
+    },
+    {
+      "id": 200,
+      "en": "In your computer.",
+      "cn": "在你的电脑里。"
+    },
+    {
+      "id": 201,
+      "en": "Yep.",
+      "cn": "对。"
+    },
+    {
+      "id": 202,
+      "en": "Or maybe insert a CD into your CD player.",
+      "cn": "或者把CD插入你的CD播放器。"
+    },
+    {
+      "id": 203,
+      "en": "Or DVD into your DVD player.",
+      "cn": "或者把DVD插入你的DVD播放器。"
+    },
+    {
+      "id": 204,
+      "en": "Yep.",
+      "cn": "对。"
+    },
+    {
+      "id": 205,
+      "en": "Alright, so to insert something, to put inside.",
+      "cn": "好的，所以插入东西，就是放进去。"
+    },
+    {
+      "id": 206,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 207,
+      "en": "So he had to insert his card into the slot.",
+      "cn": "所以他必须把卡插入插槽。"
+    },
+    {
+      "id": 208,
+      "en": "And then the bank machine asked him to select an option.",
+      "cn": "然后银行机器让他选择一个选项。"
+    },
+    {
+      "id": 209,
+      "en": "Select an option.",
+      "cn": "选择一个选项。"
+    },
+    {
+      "id": 210,
+      "en": "Select an option.",
+      "cn": "选择一个选项。"
+    },
+    {
+      "id": 211,
+      "en": "Now this is a very common phrase that you will not only see in ATMs but basically everywhere, right?",
+      "cn": "现在这是一个非常常见的短语，你不仅会在ATM看到，基本上到处都能见到，对吧？"
+    },
+    {
+      "id": 212,
+      "en": "Like in computers or the Internet or many things where you're dealing with machines.",
+      "cn": "比如在电脑、互联网或许多与机器打交道的地方。"
+    },
+    {
+      "id": 213,
+      "en": "So it's an order that says, well, select one of these choices that you have.",
+      "cn": "所以这是一个命令，意思是，选择你拥有的这些选项之一。"
+    },
+    {
+      "id": 214,
+      "en": "Make a choice.",
+      "cn": "做出选择。"
+    },
+    {
+      "id": 215,
+      "en": "Make a choice.",
+      "cn": "做出选择。"
+    },
+    {
+      "id": 216,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 217,
+      "en": "Select an option.",
+      "cn": "选择一个选项。"
+    },
+    {
+      "id": 218,
+      "en": "Alright, so two simple phrases but very useful and also very high frequency, right?",
+      "cn": "好的，所以两个简单的短语，但非常有用且频率很高，对吧？"
+    },
+    {
+      "id": 219,
+      "en": "Yeah, and you know what?",
+      "cn": "是的，你知道吗？"
+    },
+    {
+      "id": 220,
+      "en": "When you use phrases like these two, it sounds quite professional, doesn't it?",
+      "cn": "当你使用像这两个短语时，听起来很专业，不是吗？"
+    },
+    {
+      "id": 221,
+      "en": "Yeah, a little bit formal.",
+      "cn": "是的，有点正式。"
+    },
+    {
+      "id": 222,
+      "en": "Okay, so why don't we listen to our dialogue for the last time and then we'll come back and talk a little bit more.",
+      "cn": "好的，那我们再听一次对话，然后再回来聊聊。"
+    },
+    {
+      "id": 223,
+      "en": "Stupid girl making me spend so much money.",
+      "cn": "笨女孩让我花这么多钱。"
+    },
+    {
+      "id": 224,
+      "en": "Now I have to get it from the ATM.",
+      "cn": "现在我得从ATM取钱。"
+    },
+    {
+      "id": 225,
+      "en": "Hello, welcome to Universal Bank.",
+      "cn": "你好，欢迎来到环球银行。"
+    },
+    {
+      "id": 226,
+      "en": "Please insert your card into the slot.",
+      "cn": "请将您的卡插入插槽。"
+    },
+    {
+      "id": 227,
+      "en": "I know where to put my card.",
+      "cn": "我知道把卡放在哪里。"
+    },
+    {
+      "id": 228,
+      "en": "Stupid machine talking to me like I'm an idiot.",
+      "cn": "笨机器跟我说话，像我是一名傻瓜。"
+    },
+    {
+      "id": 229,
+      "en": "Please input your six-digit pin code followed by the pound key.",
+      "cn": "请输入您的六位数密码，然后按井号键。"
+    },
+    {
+      "id": 230,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 231,
+      "en": "Please select an option.",
+      "cn": "请选择一个选项。"
+    },
+    {
+      "id": 232,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 233,
+      "en": "You have selected withdraw.",
+      "cn": "您已选择取款。"
+    },
+    {
+      "id": 234,
+      "en": "Yeah, yeah, I know what I selected.",
+      "cn": "是的，是的，我知道我选择了什么。"
+    },
+    {
+      "id": 235,
+      "en": "Just give me my money.",
+      "cn": "只给我我的钱。"
+    },
+    {
+      "id": 236,
+      "en": "Please type the amount you would like to withdraw.",
+      "cn": "请输入您想取款的金额。"
+    },
+    {
+      "id": 237,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 238,
+      "en": "You want to transfer 10,000 US dollars to the World Wildlife Foundation.",
+      "cn": "您想将10,000美元转账给世界野生动物基金会。"
+    },
+    {
+      "id": 239,
+      "en": "If this is correct, please press one.",
+      "cn": "如果正确，请按1。"
+    },
+    {
+      "id": 240,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 241,
+      "en": "Stupid machine, what are you doing?",
+      "cn": "笨机器，你在干什么？"
+    },
+    {
+      "id": 242,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 243,
+      "en": "Confirmed.",
+      "cn": "已确认。"
+    },
+    {
+      "id": 244,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 245,
+      "en": "Please remove your card from the slot.",
+      "cn": "请从插槽中取出您的卡。"
+    },
+    {
+      "id": 246,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 247,
+      "en": "No way!",
+      "cn": "不可能！"
+    },
+    {
+      "id": 248,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 249,
+      "en": "Give me my money!",
+      "cn": "给我我的钱！"
+    },
+    {
+      "id": 250,
+      "en": "Danger, danger!",
+      "cn": "危险，危险！"
+    },
+    {
+      "id": 251,
+      "en": "The exits have been sealed and the doors will remain locked until the local authorities arrive.",
+      "cn": "出口已被封闭，门将保持锁定，直到当地当局到达。"
+    },
+    {
+      "id": 252,
+      "en": "Thank you for using our bank.",
+      "cn": "感谢您使用我们的银行。"
+    },
+    {
+      "id": 253,
+      "en": "Have a nice day.",
+      "cn": "祝您有美好的一天。"
+    },
+    {
+      "id": 254,
+      "en": "Nooooooo!",
+      "cn": "不！！！！"
+    },
+    {
+      "id": 255,
+      "en": "All right, Erika, so what about you?",
+      "cn": "好吧，Erika，你呢？"
+    },
+    {
+      "id": 256,
+      "en": "Have you ever had any problems with the ATM?",
+      "cn": "你有没有在ATM遇到过问题？"
+    },
+    {
+      "id": 257,
+      "en": "I've had more problems than I can count.",
+      "cn": "我遇到过的问题比我能数的还多。"
+    },
+    {
+      "id": 258,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 259,
+      "en": "Well, I think in the last two years I've probably lost about seven bank cards in an ATM.",
+      "cn": "嗯，我想在过去两年里，我可能在ATM丢失了大约七张银行卡。"
+    },
+    {
+      "id": 260,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 261,
+      "en": "You forget it in the slot?",
+      "cn": "你把它忘在插槽里了吗？"
+    },
+    {
+      "id": 262,
+      "en": "I leave it in the slot and then walk away from the bank machine and no bank cards.",
+      "cn": "我把它留在插槽里，然后走开，结果没有银行卡。"
+    },
+    {
+      "id": 263,
+      "en": "Well, I think now the ATMs, because this is a common problem, now they have like a little alarm that when you take out your money and everything it just starts beeping and beeping until you take out your card.",
+      "cn": "嗯，我觉得现在的ATM，因为这是一个常见问题，现在它们有一个小警报，当你取出钱和其他东西时，它会一直响，直到你取出你的卡。"
+    },
+    {
+      "id": 264,
+      "en": "Yes, and I like the bank machines that actually give you your card first and then give you your money.",
+      "cn": "是的，我喜欢那些实际上先给你卡，然后再给你钱的银行机器。"
+    },
+    {
+      "id": 265,
+      "en": "Because if they give me my money first that's all I want, right?",
+      "cn": "因为如果他们先给我钱，那就是我想要的，对吧？"
+    },
+    {
+      "id": 266,
+      "en": "So I run away with my money and leave my card in the bank machine.",
+      "cn": "所以我拿着钱跑了，留下我的卡在银行机器里。"
+    },
+    {
+      "id": 267,
+      "en": "Right, I think that's a good idea.",
+      "cn": "对，我觉得这是个好主意。"
+    },
+    {
+      "id": 268,
+      "en": "I've never seen it before though.",
+      "cn": "不过我从未见过。"
+    },
+    {
+      "id": 269,
+      "en": "In Switzerland they have them like that.",
+      "cn": "在瑞士他们就有这样的机器。"
+    },
+    {
+      "id": 270,
+      "en": "Or what about the ATMs that you only have to swipe your card?",
+      "cn": "或者那些只需刷卡的ATM呢？"
+    },
+    {
+      "id": 271,
+      "en": "Oh yeah, I've done that as well and also ruined a bank card with that.",
+      "cn": "哦，是的，我也做过，并且还把银行卡弄坏了。"
+    },
+    {
+      "id": 272,
+      "en": "I swiped it too many times, put in the wrong pin code, and it blocked your card.",
+      "cn": "我刷了太多次，输入了错误的密码，结果卡被锁了。"
+    },
+    {
+      "id": 273,
+      "en": "Yeah, terrible.",
+      "cn": "是的，太糟糕了。"
+    },
+    {
+      "id": 274,
+      "en": "Well, what about you guys?",
+      "cn": "那你们呢？"
+    },
+    {
+      "id": 275,
+      "en": "I'm sure everyone has some experience or some inconvenience with ATM machines.",
+      "cn": "我相信每个人都有一些与ATM机器的经历或不便。"
+    },
+    {
+      "id": 276,
+      "en": "So why don't you come to our website and tell us all about it?",
+      "cn": "所以你们为什么不来我们的网站告诉我们所有的事情呢？"
+    },
+    {
+      "id": 277,
+      "en": "You can also find lots more resources on our website to help you learn English.",
+      "cn": "你还可以在我们的网站上找到更多资源，帮助你学习英语。"
+    },
+    {
+      "id": 278,
+      "en": "So check it out and until next time, goodbye!",
+      "cn": "所以请查看，直到下次，再见！"
+    }
+  ]
+}

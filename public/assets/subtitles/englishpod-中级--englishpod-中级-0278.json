@@ -1,0 +1,1289 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0278",
+  "title": "EnglishPod 中级 0278",
+  "totalSegments": 256,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we've got an intermediate level lesson for you guys.",
+      "cn": "今天我们为大家准备了一节中级课程。"
+    },
+    {
+      "id": 5,
+      "en": "Now, Marco, what are we talking about today?",
+      "cn": "现在，Marco，今天我们要讨论什么？"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "Today we're going to try to buy a new car.",
+      "cn": "今天我们要尝试买一辆新车。"
+    },
+    {
+      "id": 8,
+      "en": "So we're going to the car dealer and we want to try and see if we can get a new car.",
+      "cn": "所以我们要去汽车经销商那里，看看能否买到新车。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, so lots of great vocabulary for buying that car.",
+      "cn": "好的，买车时有很多很棒的词汇。"
+    },
+    {
+      "id": 10,
+      "en": "Let's check out today's dialogue.",
+      "cn": "让我们来看看今天的对话。"
+    },
+    {
+      "id": 11,
+      "en": "We'll be looking for a new car.",
+      "cn": "我们会寻找一辆新车。"
+    },
+    {
+      "id": 12,
+      "en": "I have this old Ford Pinto that I would like to trade in.",
+      "cn": "我有一辆旧的Ford Pinto想要置换。"
+    },
+    {
+      "id": 13,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 14,
+      "en": "You are in luck this month because all of our 2010 models are on sale.",
+      "cn": "这个月你很幸运，因为我们所有2010年的车型都在打折。"
+    },
+    {
+      "id": 15,
+      "en": "It is a perfect time to buy a new car since it's the end of the year.",
+      "cn": "现在是买新车的最佳时机，因为年末了。"
+    },
+    {
+      "id": 16,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 17,
+      "en": "I like this one.",
+      "cn": "我喜欢这辆。"
+    },
+    {
+      "id": 18,
+      "en": "That is the Ford Focus, a very light but powerful vehicle.",
+      "cn": "这是Ford Focus，一辆非常轻便但强大的车辆。"
+    },
+    {
+      "id": 19,
+      "en": "It comes with dual-side airbags, power steering and power windows, tinted windows and your choice of either automatic or manual transmission.",
+      "cn": "它配备了双侧气囊、动力转向和电动窗、深色窗户，以及自动或手动变速箱的选择。"
+    },
+    {
+      "id": 20,
+      "en": "Sounds like a good car.",
+      "cn": "听起来是一辆好车。"
+    },
+    {
+      "id": 21,
+      "en": "How many miles to the gallon?",
+      "cn": "每加仑多少英里？"
+    },
+    {
+      "id": 22,
+      "en": "It is a very fuel-efficient vehicle, giving you about 34 miles in the city and 40 on the highway.",
+      "cn": "这是一辆非常省油的车，市区大约34英里，高速公路上40英里。"
+    },
+    {
+      "id": 23,
+      "en": "That is really convenient, especially now the fuel prices are so high.",
+      "cn": "这真的很方便，尤其是现在油价这么高。"
+    },
+    {
+      "id": 24,
+      "en": "What's under the hood?",
+      "cn": "引擎盖下有什么？"
+    },
+    {
+      "id": 25,
+      "en": "A very powerful 2.5 liter turbocharged engine.",
+      "cn": "一台非常强大的2.5升涡轮增压发动机。"
+    },
+    {
+      "id": 26,
+      "en": "Trust me, this car is fast.",
+      "cn": "相信我，这辆车很快。"
+    },
+    {
+      "id": 27,
+      "en": "Now for the most difficult question.",
+      "cn": "现在是最难的问题。"
+    },
+    {
+      "id": 28,
+      "en": "What is the price tag for this lovely vehicle?",
+      "cn": "这辆可爱的车的价格是多少？"
+    },
+    {
+      "id": 29,
+      "en": "Very affordable, ma'am.",
+      "cn": "非常实惠，女士。"
+    },
+    {
+      "id": 30,
+      "en": "You can take it out of this lot today with zero down payment and no interest for the first year.",
+      "cn": "您今天可以以零首付的方式将其带出这个车场，第一年没有利息。"
+    },
+    {
+      "id": 31,
+      "en": "You can test drive it now and we can sign the papers when we get back.",
+      "cn": "您可以现在试驾，我们回来的时候可以签字。"
+    },
+    {
+      "id": 32,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 33,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 34,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 35,
+      "en": "So now we're going to take a look at some of that vocab, especially the one that the salesman used on Language Takeaway.",
+      "cn": "现在我们来看看一些词汇，特别是销售员在Language Takeaway中使用的。"
+    },
+    {
+      "id": 36,
+      "en": "Language Takeaway.",
+      "cn": "Language Takeaway。"
+    },
+    {
+      "id": 37,
+      "en": "All right, so at the beginning of this dialogue, we hear a lot of features that this car has.",
+      "cn": "好的，在这个对话的开始，我们听到了这辆车的许多特点。"
+    },
+    {
+      "id": 38,
+      "en": "The first one is trade-in, actually.",
+      "cn": "第一个是置换，实际上。"
+    },
+    {
+      "id": 39,
+      "en": "This is something that the man says when he goes to the car lot.",
+      "cn": "这是那个人在去车场时说的。"
+    },
+    {
+      "id": 40,
+      "en": "That's right, he says he has an old car.",
+      "cn": "没错，他说他有一辆旧车。"
+    },
+    {
+      "id": 41,
+      "en": "He has a Ford Pinto and he wants to trade it in.",
+      "cn": "他有一辆Ford Pinto，他想要置换。"
+    },
+    {
+      "id": 42,
+      "en": "He wants to trade in his old car.",
+      "cn": "他想要置换他的旧车。"
+    },
+    {
+      "id": 43,
+      "en": "So this is something that you do in America or other places when you have a car already but you want a new car.",
+      "cn": "这在美国或其他地方是常见的，当你已经有一辆车但想要一辆新车时。"
+    },
+    {
+      "id": 44,
+      "en": "And so the car lot, the place where you can buy the car, they usually give you some money for your old car and you can spend that money on your new car.",
+      "cn": "所以车场，您可以购买汽车的地方，通常会给您一些钱用于旧车，您可以用这笔钱购买新车。"
+    },
+    {
+      "id": 45,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 46,
+      "en": "So basically you give them your old car plus some extra cash and then you can get a new car.",
+      "cn": "所以基本上，您给他们旧车加上一些额外现金，然后您就可以得到新车。"
+    },
+    {
+      "id": 47,
+      "en": "So that's basically what a trade-in is.",
+      "cn": "这就是置换的基本概念。"
+    },
+    {
+      "id": 48,
+      "en": "And well, as you said, we had a lot of features on this car of the Ford Focus.",
+      "cn": "正如您所说，我们提到了Ford Focus这辆车的许多特点。"
+    },
+    {
+      "id": 49,
+      "en": "First of all, dual-side airbags.",
+      "cn": "首先，双侧气囊。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so dual-side is pretty simple.",
+      "cn": "好的，双侧很简单。"
+    },
+    {
+      "id": 51,
+      "en": "It means that you have them on both sides, the left and the right.",
+      "cn": "这意味着您在左右两侧都有。"
+    },
+    {
+      "id": 52,
+      "en": "Dual means two.",
+      "cn": "双意味着两个。"
+    },
+    {
+      "id": 53,
+      "en": "But airbags are what's important in this phrase.",
+      "cn": "但气囊在这个短语中是重要的。"
+    },
+    {
+      "id": 54,
+      "en": "Airbags do what exactly, Marco?",
+      "cn": "气囊到底有什么作用，Marco？"
+    },
+    {
+      "id": 55,
+      "en": "They protect you from hitting the front part of the car.",
+      "cn": "它们保护您免受撞击汽车前部的伤害。"
+    },
+    {
+      "id": 56,
+      "en": "So maybe out of the steering wheel, a bag will inflate if you crash.",
+      "cn": "所以如果您发生碰撞，气囊会从方向盘中充气。"
+    },
+    {
+      "id": 57,
+      "en": "So it will prevent you from hitting the steering wheel and getting hurt.",
+      "cn": "这样可以防止您撞到方向盘而受伤。"
+    },
+    {
+      "id": 58,
+      "en": "It's like a big balloon and it protects you from damaging your body.",
+      "cn": "它就像一个大气球，保护您免受身体损伤。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "So it has two airbags for the passenger and for the driver.",
+      "cn": "所以它有两个气囊，分别为乘客和驾驶员。"
+    },
+    {
+      "id": 61,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 62,
+      "en": "So after that, we also heard about a number of things that are power.",
+      "cn": "然后，我们还听到了许多与动力相关的东西。"
+    },
+    {
+      "id": 63,
+      "en": "Power steering, power windows.",
+      "cn": "动力转向，电动窗。"
+    },
+    {
+      "id": 64,
+      "en": "So what does power steering do?",
+      "cn": "那么动力转向有什么作用？"
+    },
+    {
+      "id": 65,
+      "en": "Power steering, or also called assisted steering, it allows you to turn your car with less effort.",
+      "cn": "动力转向，或称为辅助转向，它使您可以更轻松地转动汽车。"
+    },
+    {
+      "id": 66,
+      "en": "So maybe you've driven a car that didn't have power steering, and so you really have to struggle when you're turning the car, especially if you're parking.",
+      "cn": "也许您开过没有动力转向的车，所以在转弯时您真的需要费力，尤其是停车时。"
+    },
+    {
+      "id": 67,
+      "en": "So you have to turn the wheel and turn it, turn it, turn it, turn it to turn.",
+      "cn": "所以您必须不停地转动方向盘。"
+    },
+    {
+      "id": 68,
+      "en": "But a power steering makes it more automatic.",
+      "cn": "但动力转向使其更自动化。"
+    },
+    {
+      "id": 69,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 70,
+      "en": "So it's very easy to turn left or right.",
+      "cn": "所以左转或右转都很容易。"
+    },
+    {
+      "id": 71,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 72,
+      "en": "And the same thing goes for power windows.",
+      "cn": "电动窗也是一样。"
+    },
+    {
+      "id": 73,
+      "en": "So maybe your car doesn't have electric windows.",
+      "cn": "所以也许您的车没有电动窗。"
+    },
+    {
+      "id": 74,
+      "en": "So you have to do it manually with a little lever.",
+      "cn": "所以您必须用一个小杠杆手动操作。"
+    },
+    {
+      "id": 75,
+      "en": "It's a turn it around and around and around.",
+      "cn": "这是转来转去。"
+    },
+    {
+      "id": 76,
+      "en": "But instead with power windows, you just push a button and the window goes down or up.",
+      "cn": "但使用电动窗，您只需按一个按钮，窗户就会升降。"
+    },
+    {
+      "id": 77,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 78,
+      "en": "And actually, as well, another feature for the windows, we have tinted windows.",
+      "cn": "事实上，窗户的另一个特点是深色窗户。"
+    },
+    {
+      "id": 79,
+      "en": "Now these are sometimes very popular.",
+      "cn": "这些有时非常受欢迎。"
+    },
+    {
+      "id": 80,
+      "en": "I don't think I've ever had tinted windows on my car.",
+      "cn": "我想我从来没有在我的车上装过深色窗户。"
+    },
+    {
+      "id": 81,
+      "en": "But tint means something is darker.",
+      "cn": "但深色意味着某物更暗。"
+    },
+    {
+      "id": 82,
+      "en": "It's protected from the sun.",
+      "cn": "它可以防止阳光。"
+    },
+    {
+      "id": 83,
+      "en": "So tinted sunglasses, for example, can be very dark.",
+      "cn": "例如，深色太阳镜可以非常黑。"
+    },
+    {
+      "id": 84,
+      "en": "But tinted windows on a car are black.",
+      "cn": "但汽车上的深色窗户是黑色的。"
+    },
+    {
+      "id": 85,
+      "en": "They don't let much sunlight in so you don't get blinded by the sun or so other people can't see you from outside.",
+      "cn": "它们不让太多阳光进入，这样您就不会被阳光刺眼，或者其他人无法从外面看到您。"
+    },
+    {
+      "id": 86,
+      "en": "Usually limousines, you will see all limousines have tinted windows.",
+      "cn": "通常，您会看到所有的豪华轿车都有深色窗户。"
+    },
+    {
+      "id": 87,
+      "en": "Politicians like to drive around in cars with tinted windows.",
+      "cn": "政治家喜欢开着深色窗户的车。"
+    },
+    {
+      "id": 88,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 89,
+      "en": "Okay, so a lot of features.",
+      "cn": "好的，很多特点。"
+    },
+    {
+      "id": 90,
+      "en": "There are a lot of vocab regarding the car.",
+      "cn": "关于汽车有很多词汇。"
+    },
+    {
+      "id": 91,
+      "en": "Why don't we take a break?",
+      "cn": "我们休息一下吧？"
+    },
+    {
+      "id": 92,
+      "en": "Let's listen to the dialogue again.",
+      "cn": "让我们再听一遍对话。"
+    },
+    {
+      "id": 93,
+      "en": "And we'll be back to talk some more.",
+      "cn": "然后我们会回来再聊。"
+    },
+    {
+      "id": 94,
+      "en": "Hi there.",
+      "cn": "嗨。"
+    },
+    {
+      "id": 95,
+      "en": "I am looking for a new car.",
+      "cn": "我在找一辆新车。"
+    },
+    {
+      "id": 96,
+      "en": "I have this old Ford Pinto that I would like to trade in.",
+      "cn": "我有一辆旧的Ford Pinto想要置换。"
+    },
+    {
+      "id": 97,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 98,
+      "en": "You are in luck this month because all of our 2010 models are on sale.",
+      "cn": "这个月你很幸运，因为我们所有2010年的车型都在打折。"
+    },
+    {
+      "id": 99,
+      "en": "It is a perfect time to buy a new car since it's the end of the year.",
+      "cn": "现在是买新车的最佳时机，因为年末了。"
+    },
+    {
+      "id": 100,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 101,
+      "en": "I like this one.",
+      "cn": "我喜欢这个。"
+    },
+    {
+      "id": 102,
+      "en": "That is the Ford Focus, a very light but powerful vehicle.",
+      "cn": "那是福特福克斯，一款非常轻便但强大的车辆。"
+    },
+    {
+      "id": 103,
+      "en": "It comes with dual-side airbags, power steering and power windows, tinted windows and your choice of either automatic or manual transmission.",
+      "cn": "它配备了双侧安全气囊、动力转向和电动窗、深色窗户，以及自动或手动变速箱的选择。"
+    },
+    {
+      "id": 104,
+      "en": "Sounds like a good car.",
+      "cn": "听起来是一辆好车。"
+    },
+    {
+      "id": 105,
+      "en": "How many miles to the gallon?",
+      "cn": "每加仑多少英里？"
+    },
+    {
+      "id": 106,
+      "en": "It is a very fuel-efficient vehicle, giving you about 34 miles in the city and 40 on the highway.",
+      "cn": "这是一辆非常省油的车辆，市区大约34英里，高速公路上40英里。"
+    },
+    {
+      "id": 107,
+      "en": "That is really convenient, especially now that fuel prices are so high.",
+      "cn": "这真的很方便，尤其是现在油价这么高。"
+    },
+    {
+      "id": 108,
+      "en": "What's under the hood?",
+      "cn": "引擎盖下有什么？"
+    },
+    {
+      "id": 109,
+      "en": "A trust me, this car is fast.",
+      "cn": "相信我，这辆车很快。"
+    },
+    {
+      "id": 110,
+      "en": "Now for the most difficult question.",
+      "cn": "现在是最难的问题。"
+    },
+    {
+      "id": 111,
+      "en": "What is the price tag for this lovely vehicle?",
+      "cn": "这辆可爱的车的价格是多少？"
+    },
+    {
+      "id": 112,
+      "en": "Very affordable, ma'am.",
+      "cn": "非常实惠，女士。"
+    },
+    {
+      "id": 113,
+      "en": "You can take it out of this lot today with zero down payment and no interest for the first year.",
+      "cn": "您今天可以以零首付和第一年无利息的方式将其开走。"
+    },
+    {
+      "id": 114,
+      "en": "You can test drive it now and we can sign the papers when we get back.",
+      "cn": "您可以现在试驾，我们回来的时候可以签字。"
+    },
+    {
+      "id": 115,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 116,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 117,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 118,
+      "en": "So now let's start again with language takeaway.",
+      "cn": "现在让我们重新开始语言要点。"
+    },
+    {
+      "id": 119,
+      "en": "Now let's take a look at part two.",
+      "cn": "现在让我们看看第二部分。"
+    },
+    {
+      "id": 120,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 121,
+      "en": "Alright, so a very, very key phrase that we heard in the dialogue is automatic or sometimes manual transmission.",
+      "cn": "好的，在对话中我们听到的一个非常关键的短语是自动或有时手动变速箱。"
+    },
+    {
+      "id": 122,
+      "en": "So automatic transmission, manual transmission.",
+      "cn": "所以自动变速箱，手动变速箱。"
+    },
+    {
+      "id": 123,
+      "en": "That's very important when we talk about cars.",
+      "cn": "这在谈论汽车时非常重要。"
+    },
+    {
+      "id": 124,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 125,
+      "en": "So basically the car has a lot of gears and with an automatic transmission, the car will basically change gears by itself.",
+      "cn": "基本上，这辆车有很多档位，自动变速箱意味着车会自动换档。"
+    },
+    {
+      "id": 126,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 127,
+      "en": "So you start in park and you go to drive and you can go to reverse.",
+      "cn": "所以你从停车档开始，然后到驾驶档，再到倒车档。"
+    },
+    {
+      "id": 128,
+      "en": "Park, drive, reverse.",
+      "cn": "停车、驾驶、倒车。"
+    },
+    {
+      "id": 129,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 130,
+      "en": "This controls kind of the way the car moves.",
+      "cn": "这控制着汽车的移动方式。"
+    },
+    {
+      "id": 131,
+      "en": "But with a manual transmission, this means you have to do it by yourself using your hand.",
+      "cn": "但手动变速箱意味着你必须用手自己换档。"
+    },
+    {
+      "id": 132,
+      "en": "So we have what gears?",
+      "cn": "那我们有多少档位？"
+    },
+    {
+      "id": 133,
+      "en": "We have one, two, three, four, and sometimes five.",
+      "cn": "我们有一、二、三、四，有时还有五。"
+    },
+    {
+      "id": 134,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 135,
+      "en": "So that's a manual transmission.",
+      "cn": "所以这就是手动变速箱。"
+    },
+    {
+      "id": 136,
+      "en": "You have to change the gears manually.",
+      "cn": "你必须手动换档。"
+    },
+    {
+      "id": 137,
+      "en": "It's a lot of work.",
+      "cn": "这很麻烦。"
+    },
+    {
+      "id": 138,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 139,
+      "en": "Now talking about another feature of the car, the client asked, well, how many miles to the gallon does the car get?",
+      "cn": "现在谈到汽车的另一个特点，客户问，车每加仑能跑多少英里？"
+    },
+    {
+      "id": 140,
+      "en": "And the salesman said that the car is very fuel efficient.",
+      "cn": "销售员说这辆车非常省油。"
+    },
+    {
+      "id": 141,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 142,
+      "en": "So this is a very important phrase right now as gas is very expensive in some parts of the world.",
+      "cn": "所以这是一个非常重要的短语，因为在世界某些地方，汽油非常贵。"
+    },
+    {
+      "id": 143,
+      "en": "And we're concerned about the environment, right?",
+      "cn": "而且我们关心环境，对吧？"
+    },
+    {
+      "id": 144,
+      "en": "So a fuel efficient car is a car that uses gas very well.",
+      "cn": "所以一辆省油的车就是一辆非常有效利用汽油的车。"
+    },
+    {
+      "id": 145,
+      "en": "That means that I can go very, very far on one tank of gas.",
+      "cn": "这意味着我可以在一箱油上走得很远。"
+    },
+    {
+      "id": 146,
+      "en": "I don't need to keep putting gas into my car.",
+      "cn": "我不需要不断给车加油。"
+    },
+    {
+      "id": 147,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 148,
+      "en": "So usually, for example, sports cars are not fuel efficient.",
+      "cn": "所以通常来说，运动型汽车并不省油。"
+    },
+    {
+      "id": 149,
+      "en": "Hummers are not fuel efficient.",
+      "cn": "哈默车也不省油。"
+    },
+    {
+      "id": 150,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 151,
+      "en": "So fuel efficient is a key thing to look for these days.",
+      "cn": "所以省油是现在需要关注的关键点。"
+    },
+    {
+      "id": 152,
+      "en": "But the customer also wanted to know what's under the hood.",
+      "cn": "但客户也想知道引擎盖下有什么。"
+    },
+    {
+      "id": 153,
+      "en": "So this phrase under the hood is very, very common when we're talking about cars.",
+      "cn": "所以这个短语“引擎盖下”在谈论汽车时非常常见。"
+    },
+    {
+      "id": 154,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 155,
+      "en": "The person said, what's under the hood?",
+      "cn": "那个人说，引擎盖下有什么？"
+    },
+    {
+      "id": 156,
+      "en": "And basically what we're saying is what is under the hood, which is that metal cover on the front part of the car.",
+      "cn": "基本上我们在问引擎盖下有什么，那是车前部的金属盖。"
+    },
+    {
+      "id": 157,
+      "en": "So you lift that in there, you can have access to the engine.",
+      "cn": "所以你打开它，就可以接触到引擎。"
+    },
+    {
+      "id": 158,
+      "en": "So basically that's the question.",
+      "cn": "所以基本上这是问题。"
+    },
+    {
+      "id": 159,
+      "en": "What kind of an engine does this car have?",
+      "cn": "这辆车有什么样的引擎？"
+    },
+    {
+      "id": 160,
+      "en": "Oftentimes when your car stops or you have a problem like it's broken, someone like a mechanic will say, hey, let's have a look.",
+      "cn": "通常当你的车停下或出现问题时，比如坏了，像机械师这样的人会说，嘿，让我们看看。"
+    },
+    {
+      "id": 161,
+      "en": "Let's look under the hood.",
+      "cn": "让我们看看引擎。"
+    },
+    {
+      "id": 162,
+      "en": "He wants to know, let's look at the engine so we can find the problem.",
+      "cn": "他想知道，让我们看看引擎，以便找到问题。"
+    },
+    {
+      "id": 163,
+      "en": "But in this case, it's not a problem.",
+      "cn": "但在这种情况下，这不是问题。"
+    },
+    {
+      "id": 164,
+      "en": "He just wants to know what kind of a car is this.",
+      "cn": "他只是想知道这是什么样的车。"
+    },
+    {
+      "id": 165,
+      "en": "Is it powerful or is it not so powerful?",
+      "cn": "它是强大的还是不那么强大？"
+    },
+    {
+      "id": 166,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 167,
+      "en": "That's exactly right.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 168,
+      "en": "So that's why we want to know what's under the hood.",
+      "cn": "所以这就是我们想知道引擎盖下有什么的原因。"
+    },
+    {
+      "id": 169,
+      "en": "And well, he goes on to explain all the features about the engine.",
+      "cn": "然后他继续解释引擎的所有特点。"
+    },
+    {
+      "id": 170,
+      "en": "But then when we talk about the payment, how much the car costs, the salesman said, you know what?",
+      "cn": "但当我们谈到付款，车的价格时，销售员说，你知道吗？"
+    },
+    {
+      "id": 171,
+      "en": "It's not expensive.",
+      "cn": "这并不贵。"
+    },
+    {
+      "id": 172,
+      "en": "And on top of that, you can drive it out today with zero percent down payment.",
+      "cn": "而且你今天可以以零首付的方式开走。"
+    },
+    {
+      "id": 173,
+      "en": "Okay, this is important.",
+      "cn": "好的，这很重要。"
+    },
+    {
+      "id": 174,
+      "en": "Down payments are payments that you often make with very, very big ticket items, a house, a car, things like this.",
+      "cn": "首付款是你通常在非常昂贵的物品上支付的款项，比如房子、车等。"
+    },
+    {
+      "id": 175,
+      "en": "So a payment is what you have to pay to get the thing.",
+      "cn": "所以付款是你为了获得东西而必须支付的费用。"
+    },
+    {
+      "id": 176,
+      "en": "To begin using it.",
+      "cn": "开始使用它。"
+    },
+    {
+      "id": 177,
+      "en": "But not all of the payment, right?",
+      "cn": "但不是所有的付款，对吧？"
+    },
+    {
+      "id": 178,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 179,
+      "en": "So it's a percentage.",
+      "cn": "所以这是一个百分比。"
+    },
+    {
+      "id": 180,
+      "en": "So if the car is ten thousand dollars and the man says there's a zero percent down payment, how much do I have to pay Marco?",
+      "cn": "如果车的价格是一万美元，而这个人说零首付，我需要支付多少，马尔科？"
+    },
+    {
+      "id": 181,
+      "en": "Zero.",
+      "cn": "零。"
+    },
+    {
+      "id": 182,
+      "en": "I don't pay anything today.",
+      "cn": "我今天不需要支付任何费用。"
+    },
+    {
+      "id": 183,
+      "en": "I pay in a month, a little bit, and then next month, a little bit.",
+      "cn": "我一个月后支付一点，然后下个月再支付一点。"
+    },
+    {
+      "id": 184,
+      "en": "But if the payment is a ten percent down payment, then I have to pay one thousand dollars today.",
+      "cn": "但如果首付是百分之十，那么我今天必须支付一千美元。"
+    },
+    {
+      "id": 185,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 186,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 187,
+      "en": "So as you said, it's usually about things that have a big price tech that are very expensive.",
+      "cn": "所以正如你所说，通常是关于那些价格很高的东西。"
+    },
+    {
+      "id": 188,
+      "en": "A house, a car, these types of things.",
+      "cn": "房子、车，这些东西。"
+    },
+    {
+      "id": 189,
+      "en": "Usually you need to give a down payment.",
+      "cn": "通常你需要支付首付。"
+    },
+    {
+      "id": 190,
+      "en": "That means that you're committing to buying it.",
+      "cn": "这意味着你承诺购买它。"
+    },
+    {
+      "id": 191,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 192,
+      "en": "So a lot of interesting things going on in today's lesson.",
+      "cn": "所以今天的课程中有很多有趣的内容。"
+    },
+    {
+      "id": 193,
+      "en": "Why don't we listen to the dialogue again and we'll be back to talk some more.",
+      "cn": "我们再听一遍对话，然后再回来聊聊。"
+    },
+    {
+      "id": 194,
+      "en": "Hi there.",
+      "cn": "嗨。"
+    },
+    {
+      "id": 195,
+      "en": "I am looking for a new car.",
+      "cn": "我在找一辆新车。"
+    },
+    {
+      "id": 196,
+      "en": "I have this old Ford Pinto that I would like to trade in.",
+      "cn": "我有这辆旧的福特平托想要换。"
+    },
+    {
+      "id": 197,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 198,
+      "en": "You are in luck this month because all of our 2010 models are on sale.",
+      "cn": "这个月你很幸运，因为我们所有的2010款车型都在打折。"
+    },
+    {
+      "id": 199,
+      "en": "It is a perfect time to buy a new car since it's the end of the year.",
+      "cn": "现在是购买新车的最佳时机，因为年末了。"
+    },
+    {
+      "id": 200,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 201,
+      "en": "I like this one.",
+      "cn": "我喜欢这款。"
+    },
+    {
+      "id": 202,
+      "en": "That is the Ford Focus.",
+      "cn": "那是福特福克斯。"
+    },
+    {
+      "id": 203,
+      "en": "A very light but powerful vehicle.",
+      "cn": "一款非常轻便但强大的车辆。"
+    },
+    {
+      "id": 204,
+      "en": "It comes with dual-side airbags, power steering and power windows, tinted windows and your choice of either automatic or manual transmission.",
+      "cn": "它配备双侧气囊、动力转向和电动窗、深色窗户，以及自动或手动变速箱的选择。"
+    },
+    {
+      "id": 205,
+      "en": "Sounds like a good car.",
+      "cn": "听起来是一辆好车。"
+    },
+    {
+      "id": 206,
+      "en": "How many miles to the gallon?",
+      "cn": "每加仑多少英里？"
+    },
+    {
+      "id": 207,
+      "en": "It is a fuel-efficient vehicle, giving you about 34 miles in the city and 40 on the highway.",
+      "cn": "这是一款燃油高效的车辆，市区大约34英里，高速公路40英里。"
+    },
+    {
+      "id": 208,
+      "en": "That is really convenient, especially now that fuel prices are so high.",
+      "cn": "这真的很方便，尤其是现在油价这么高。"
+    },
+    {
+      "id": 209,
+      "en": "What's under the hood?",
+      "cn": "引擎盖下是什么？"
+    },
+    {
+      "id": 210,
+      "en": "A very powerful 2.5 liter turbocharged engine.",
+      "cn": "一台非常强大的2.5升涡轮增压发动机。"
+    },
+    {
+      "id": 211,
+      "en": "Trust me, this car is fast.",
+      "cn": "相信我，这辆车很快。"
+    },
+    {
+      "id": 212,
+      "en": "Now for the most difficult question.",
+      "cn": "现在是最难的问题。"
+    },
+    {
+      "id": 213,
+      "en": "What is the price tag for this lovely vehicle?",
+      "cn": "这辆可爱的车的价格是多少？"
+    },
+    {
+      "id": 214,
+      "en": "Very affordable, ma'am.",
+      "cn": "非常实惠，女士。"
+    },
+    {
+      "id": 215,
+      "en": "You can take it out of this lot today with zero down payment and no interest for the first year.",
+      "cn": "您今天可以零首付将其开出这个停车场，第一年无利息。"
+    },
+    {
+      "id": 216,
+      "en": "You can test drive it now and we can sign the papers when we get back.",
+      "cn": "您可以现在试驾，我们回来的时候可以签字。"
+    },
+    {
+      "id": 217,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 218,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 219,
+      "en": "All right, so buying a new car can always be tricky.",
+      "cn": "好的，买新车总是有点棘手。"
+    },
+    {
+      "id": 220,
+      "en": "What do you prefer, though, for example, in these types of features of the car?",
+      "cn": "不过，您更喜欢什么，比如在这些汽车的功能方面？"
+    },
+    {
+      "id": 221,
+      "en": "For me, a car must be very fuel-efficient, because number one, cars are all bad for the environment, so I want a car that's less bad for the environment.",
+      "cn": "对我来说，汽车必须非常省油，因为第一，汽车对环境都不好，所以我想要一辆对环境影响较小的车。"
+    },
+    {
+      "id": 222,
+      "en": "But also, I really like manual transmission, because number one, manual transmission is more fuel-efficient than automatic.",
+      "cn": "但我也真的喜欢手动变速箱，因为第一，手动变速箱比自动变速箱更省油。"
+    },
+    {
+      "id": 223,
+      "en": "And also, I like to have more control when I'm driving.",
+      "cn": "而且，我喜欢在驾驶时有更多的控制感。"
+    },
+    {
+      "id": 224,
+      "en": "I feel safer in a manual-transition car because, you know, when you do manual, you actually pay more attention to your driving.",
+      "cn": "我在手动变速车里感觉更安全，因为你知道，当你开手动时，你实际上会更加专注于驾驶。"
+    },
+    {
+      "id": 225,
+      "en": "You have to concentrate.",
+      "cn": "你必须集中注意力。"
+    },
+    {
+      "id": 226,
+      "en": "But automatic, you can think about other things and listen to the music.",
+      "cn": "但自动变速箱，你可以考虑其他事情，听音乐。"
+    },
+    {
+      "id": 227,
+      "en": "So I think that that's a safety issue.",
+      "cn": "所以我认为这是一个安全问题。"
+    },
+    {
+      "id": 228,
+      "en": "But what do you look for?",
+      "cn": "但你在寻找什么？"
+    },
+    {
+      "id": 229,
+      "en": "I know you're really, really into cars.",
+      "cn": "我知道你真的很喜欢汽车。"
+    },
+    {
+      "id": 230,
+      "en": "Yeah, I actually preferred manual transmissions as well, most importantly because of the way that the car drives, especially a sports car.",
+      "cn": "是的，我实际上也更喜欢手动变速箱，最重要的是因为汽车的驾驶方式，尤其是跑车。"
+    },
+    {
+      "id": 231,
+      "en": "It's definitely something for me.",
+      "cn": "这绝对是我喜欢的。"
+    },
+    {
+      "id": 232,
+      "en": "It's nice to have a manual transmission, but also, you know, little nice features, like in the exterior, like the rims.",
+      "cn": "拥有手动变速箱很好，但你知道，外观上的一些小细节，比如轮圈。"
+    },
+    {
+      "id": 233,
+      "en": "I like nice rims, or maybe a nice paint job.",
+      "cn": "我喜欢漂亮的轮圈，或者可能是漂亮的喷漆。"
+    },
+    {
+      "id": 234,
+      "en": "Tinted windows, I'm not a very big fan of tinted windows.",
+      "cn": "深色窗户，我不是很喜欢深色窗户。"
+    },
+    {
+      "id": 235,
+      "en": "But yeah, I don't know.",
+      "cn": "但我不知道。"
+    },
+    {
+      "id": 236,
+      "en": "Some cars nowadays, even for, as you said, politicians, they even sell them bulletproof.",
+      "cn": "现在有些车，甚至像你说的，政治家，他们甚至卖防弹的。"
+    },
+    {
+      "id": 237,
+      "en": "That's right, they have bulletproof glass.",
+      "cn": "没错，他们有防弹玻璃。"
+    },
+    {
+      "id": 238,
+      "en": "Very, very secure.",
+      "cn": "非常安全。"
+    },
+    {
+      "id": 239,
+      "en": "Well, for me, I don't think I need bulletproof glass, but a good stereo is a good start.",
+      "cn": "对我来说，我觉得我不需要防弹玻璃，但一个好的音响是个不错的开始。"
+    },
+    {
+      "id": 240,
+      "en": "That's right, yeah.",
+      "cn": "没错，是的。"
+    },
+    {
+      "id": 241,
+      "en": "You want to have good speakers and... You can connect your iPod to the stereo now.",
+      "cn": "你想要好的扬声器，而且... 你现在可以把你的iPod连接到音响。"
+    },
+    {
+      "id": 242,
+      "en": "Exactly, exactly.",
+      "cn": "正是，正是。"
+    },
+    {
+      "id": 243,
+      "en": "So a lot of great things with cars, and actually the model that they mentioned, the Ford Pinto, is a very popular but very bad car.",
+      "cn": "所以汽车有很多很棒的东西，实际上他们提到的那款福特皮托是一款非常流行但非常糟糕的车。"
+    },
+    {
+      "id": 244,
+      "en": "It used to be... It was cheap.",
+      "cn": "它曾经... 它很便宜。"
+    },
+    {
+      "id": 245,
+      "en": "It was cheap, but it wasn't very good.",
+      "cn": "它很便宜，但并不好。"
+    },
+    {
+      "id": 246,
+      "en": "In the 1970s and 80s, this was a very common car, and it's famous for being a small, cheap car.",
+      "cn": "在1970年代和80年代，这是一款非常常见的车，以小巧、便宜而闻名。"
+    },
+    {
+      "id": 247,
+      "en": "That's right, that's right.",
+      "cn": "没错，没错。"
+    },
+    {
+      "id": 248,
+      "en": "Like the Volkswagen Beetle.",
+      "cn": "就像大众甲壳虫。"
+    },
+    {
+      "id": 249,
+      "en": "Yes, exactly.",
+      "cn": "是的，正是。"
+    },
+    {
+      "id": 250,
+      "en": "So maybe you can come to our website, EnglishPod.com, and you can tell us if you have a car.",
+      "cn": "所以也许你可以访问我们的网站，EnglishPod.com，告诉我们你是否有车。"
+    },
+    {
+      "id": 251,
+      "en": "What was your first car?",
+      "cn": "你第一辆车是什么？"
+    },
+    {
+      "id": 252,
+      "en": "And did you buy a new car or a used car?",
+      "cn": "你是买的新车还是二手车？"
+    },
+    {
+      "id": 253,
+      "en": "That's right, secondhand cars.",
+      "cn": "没错，二手车。"
+    },
+    {
+      "id": 254,
+      "en": "So let us know, and of course, if you have any questions, we're always there on the website, EnglishPod.com, and we'll see you guys there.",
+      "cn": "所以告诉我们，如果你有任何问题，我们总是在网站上，EnglishPod.com，我们在那里见。"
+    },
+    {
+      "id": 255,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 256,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

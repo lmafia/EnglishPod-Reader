@@ -1,0 +1,1309 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0120",
+  "title": "EnglishPod 中高级 0120",
+  "totalSegments": 260,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Erica.",
+      "cn": "我叫Erica。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're bringing you another one of our sports lessons, and this time we're going to go to a boxing match.",
+      "cn": "今天我们为你带来另一节体育课，这次我们将去看一场拳击比赛。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "So we're going to be learning a language that you can use if you're talking about boxing.",
+      "cn": "所以我们将学习一些可以用来谈论拳击的语言。"
+    },
+    {
+      "id": 8,
+      "en": "But not only boxing, right?",
+      "cn": "但不仅仅是拳击，对吧？"
+    },
+    {
+      "id": 9,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 10,
+      "en": "We can also use this language for describing a fight or somebody that's fighting.",
+      "cn": "我们也可以用这些语言来描述一场打斗或正在打斗的人。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, so not that we're asking our listeners to get into fights, but if ever you see a fight, at least now you'll have the language to talk about it.",
+      "cn": "好吧，我们并不是让听众去打架，但如果你看到打斗，至少现在你有语言来谈论它。"
+    },
+    {
+      "id": 12,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 13,
+      "en": "So let's listen to our dialogue for the first time.",
+      "cn": "那么让我们第一次听听对话。"
+    },
+    {
+      "id": 14,
+      "en": "It might sound familiar, we have the legendary Rocky Balboa at EnglishPod fighting for the heavyweight championship.",
+      "cn": "这可能听起来很熟悉，我们有传奇的洛基·巴尔博亚在EnglishPod为重量级冠军而战。"
+    },
+    {
+      "id": 15,
+      "en": "So let's see what happens.",
+      "cn": "那么让我们看看会发生什么。"
+    },
+    {
+      "id": 16,
+      "en": "Welcome back boxing fans.",
+      "cn": "欢迎回来，拳击迷们。"
+    },
+    {
+      "id": 17,
+      "en": "My name is Rick Fields, and here with me is the man with the iron jaw, Bob Copeland.",
+      "cn": "我叫Rick Fields，和我在一起的是铁下巴的男人，Bob Copeland。"
+    },
+    {
+      "id": 18,
+      "en": "Thank you, Rick.",
+      "cn": "谢谢你，Rick。"
+    },
+    {
+      "id": 19,
+      "en": "We're coming to you live from Las Vegas.",
+      "cn": "我们正在拉斯维加斯现场直播。"
+    },
+    {
+      "id": 20,
+      "en": "We're in the beautiful MGM Grand Hotel and Casino, where the World Heavyweight Championship is about to get underway.",
+      "cn": "我们在美丽的MGM大酒店和赌场，世界重量级冠军赛即将开始。"
+    },
+    {
+      "id": 21,
+      "en": "That's right, Bob.",
+      "cn": "没错，Bob。"
+    },
+    {
+      "id": 22,
+      "en": "We're about to witness the legendary Italian Stallion himself, Rocky Balboa, square off against his lifetime rival, Apollo Creed.",
+      "cn": "我们即将见证传奇的意大利骏马洛基·巴尔博亚与他一生的对手阿波罗·克里德的对决。"
+    },
+    {
+      "id": 23,
+      "en": "This will be a gruesome match for sure.",
+      "cn": "这肯定是一场惨烈的比赛。"
+    },
+    {
+      "id": 24,
+      "en": "Both fighters are in the ring, and we are about to begin.",
+      "cn": "两位拳手都在擂台上，我们即将开始。"
+    },
+    {
+      "id": 25,
+      "en": "In the blue corner, weighing in at 220 pounds, the former heavyweight champion of the world, the master of disaster, the one and only Apollo Creed.",
+      "cn": "在蓝色角落，体重220磅，前世界重量级冠军，灾难大师，唯一的阿波罗·克里德。"
+    },
+    {
+      "id": 26,
+      "en": "In the red corner, weighing 218 pounds, and with a record of 47 wins and 37 knockouts, the undefeated, undisputed heavyweight champion of the world, the Italian Stallion, Rocky Balboa.",
+      "cn": "在红色角落，体重218磅，战绩47胜37次击倒，未被击败的世界重量级冠军，意大利骏马洛基·巴尔博亚。"
+    },
+    {
+      "id": 27,
+      "en": "There's the bell, and this fight is underway.",
+      "cn": "响铃了，这场比赛开始了。"
+    },
+    {
+      "id": 28,
+      "en": "Apollo quickly attacks Rocky with quick, strong jabs.",
+      "cn": "阿波罗迅速用快速有力的刺拳攻击洛基。"
+    },
+    {
+      "id": 29,
+      "en": "Rocky dodges successfully and counterattacks with a strong right hook.",
+      "cn": "洛基成功躲避并用强有力的右钩反击。"
+    },
+    {
+      "id": 30,
+      "en": "Apollo is cut.",
+      "cn": "阿波罗受伤了。"
+    },
+    {
+      "id": 31,
+      "en": "Rocky landed a strong blow to his right eyebrow and cut him.",
+      "cn": "洛基重重击中了他的右眉头，割伤了他。"
+    },
+    {
+      "id": 32,
+      "en": "This is his chance.",
+      "cn": "这是他的机会。"
+    },
+    {
+      "id": 33,
+      "en": "Rocky quickly throws a left, right, and other left.",
+      "cn": "洛基迅速出拳，左、右、再左。"
+    },
+    {
+      "id": 34,
+      "en": "Apollo is getting pounded.",
+      "cn": "阿波罗被打得很惨。"
+    },
+    {
+      "id": 35,
+      "en": "Apollo recovers with a powerful haymaker and catches Rocky off guard.",
+      "cn": "阿波罗恢复了，发出强有力的重拳，出其不意地击倒了洛基。"
+    },
+    {
+      "id": 36,
+      "en": "He's down.",
+      "cn": "他倒下了。"
+    },
+    {
+      "id": 37,
+      "en": "The ref starts the count.",
+      "cn": "裁判开始计数。"
+    },
+    {
+      "id": 38,
+      "en": "One, two, three, four.",
+      "cn": "一，二，三，四。"
+    },
+    {
+      "id": 39,
+      "en": "Wow, sounds like a great fight.",
+      "cn": "哇，听起来是一场精彩的比赛。"
+    },
+    {
+      "id": 40,
+      "en": "Amazing fight, and I don't know who's going to win.",
+      "cn": "惊人的比赛，我不知道谁会赢。"
+    },
+    {
+      "id": 41,
+      "en": "Rocky apparently got knocked down.",
+      "cn": "洛基显然被击倒了。"
+    },
+    {
+      "id": 42,
+      "en": "What do you think will happen?",
+      "cn": "你认为会发生什么？"
+    },
+    {
+      "id": 43,
+      "en": "Well, if I know anything about Rocky Balboa, he will not stay knocked down for long.",
+      "cn": "嗯，如果我对洛基·巴尔博亚了解一点，他不会长时间被击倒。"
+    },
+    {
+      "id": 44,
+      "en": "All right, so let's take a look at some of the language we saw in this dialogue in Language Takeaway.",
+      "cn": "好吧，让我们看看在这段对话中我们看到的一些语言在语言收获中。"
+    },
+    {
+      "id": 45,
+      "en": "Well, Rick Field said that we have a very gruesome match tonight.",
+      "cn": "好吧，Rick Field说今晚我们有一场非常惨烈的比赛。"
+    },
+    {
+      "id": 46,
+      "en": "A gruesome match.",
+      "cn": "一场惨烈的比赛。"
+    },
+    {
+      "id": 47,
+      "en": "Gruesome.",
+      "cn": "惨烈。"
+    },
+    {
+      "id": 48,
+      "en": "All right, so if something is gruesome... It's really, it's bad, it's terrible, it's bloody.",
+      "cn": "好吧，如果某事是惨烈的……它真的很糟糕，很可怕，很血腥。"
+    },
+    {
+      "id": 49,
+      "en": "Okay, bloody, terrible, very hard, or like a gruesome fight would be a very bloody fight.",
+      "cn": "好吧，血腥、可怕、非常激烈，或者像一场惨烈的打斗将是非常血腥的打斗。"
+    },
+    {
+      "id": 50,
+      "en": "Yeah, or a gruesome film.",
+      "cn": "是的，或者一部惨烈的电影。"
+    },
+    {
+      "id": 51,
+      "en": "Okay, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 52,
+      "en": "So gruesome.",
+      "cn": "所以惨烈。"
+    },
+    {
+      "id": 53,
+      "en": "Now, they mention that both fighters are in the ring.",
+      "cn": "现在，他们提到两位拳手都在擂台上。"
+    },
+    {
+      "id": 54,
+      "en": "Both fighters are in the ring.",
+      "cn": "两位拳手都在擂台上。"
+    },
+    {
+      "id": 55,
+      "en": "The ring.",
+      "cn": "擂台。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so the ring is the physical space where they fight.",
+      "cn": "好吧，擂台是他们打斗的物理空间。"
+    },
+    {
+      "id": 57,
+      "en": "But isn't it square?",
+      "cn": "但它不是方形的吗？"
+    },
+    {
+      "id": 58,
+      "en": "Yeah, it is square.",
+      "cn": "是的，它是方形的。"
+    },
+    {
+      "id": 59,
+      "en": "It's not really circular, but it's called a boxing ring.",
+      "cn": "它并不是真正的圆形，但它被称为拳击擂台。"
+    },
+    {
+      "id": 60,
+      "en": "I'm not really sure why.",
+      "cn": "我不太确定为什么。"
+    },
+    {
+      "id": 61,
+      "en": "Well, maybe one of our listeners knows and can tell us about that, because I am not an expert on boxing.",
+      "cn": "嗯，也许我们的听众中的某个人知道并可以告诉我们，因为我不是拳击专家。"
+    },
+    {
+      "id": 62,
+      "en": "But what I do know is our next word.",
+      "cn": "但我知道我们的下一个词。"
+    },
+    {
+      "id": 63,
+      "en": "They were describing Rocky Balboa's career, and they said he had 37 knockouts.",
+      "cn": "他们在描述洛基·巴尔博亚的职业生涯时说他有37次击倒。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, a knockout.",
+      "cn": "好吧，击倒。"
+    },
+    {
+      "id": 65,
+      "en": "A knockout.",
+      "cn": "击倒。"
+    },
+    {
+      "id": 66,
+      "en": "In this sense, knockout is a noun.",
+      "cn": "在这个意义上，击倒是一个名词。"
+    },
+    {
+      "id": 67,
+      "en": "A knockout is when the fighter hits the other fighter, and he falls to the ground, and he can't get up in 10 seconds, because he's tired, he's dizzy, he's hurt.",
+      "cn": "击倒是当拳手击中另一个拳手，他倒在地上，10秒内无法站起来，因为他累了、头晕、受伤。"
+    },
+    {
+      "id": 68,
+      "en": "Okay, so... So that's a knockout.",
+      "cn": "好吧，所以……这就是击倒。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, so this is a technical boxing word.",
+      "cn": "好吧，这是一种技术性的拳击词。"
+    },
+    {
+      "id": 70,
+      "en": "It's the action of falling to the ground and not getting up.",
+      "cn": "这是倒在地上而不再站起来的动作。"
+    },
+    {
+      "id": 71,
+      "en": "Right, but there's also a verb, to knock out.",
+      "cn": "对，但还有一个动词，击倒。"
+    },
+    {
+      "id": 72,
+      "en": "Or to knock someone out.",
+      "cn": "或者击倒某人。"
+    },
+    {
+      "id": 73,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 74,
+      "en": "So when you say, I knocked this guy out...",
+      "cn": "所以当你说，我击倒了这个家伙……"
+    },
+    {
+      "id": 75,
+      "en": "It means I hit him so hard that he fell to the floor, and maybe he was unconscious for a while.",
+      "cn": "这意味着我打得很重，他倒在地上，可能他失去意识了一段时间。"
+    },
+    {
+      "id": 76,
+      "en": "So he fell asleep, basically.",
+      "cn": "所以他基本上是睡着了。"
+    },
+    {
+      "id": 77,
+      "en": "Almost.",
+      "cn": "几乎是。"
+    },
+    {
+      "id": 78,
+      "en": "So it's very similar, the noun form to the verb form.",
+      "cn": "所以名词形式和动词形式非常相似。"
+    },
+    {
+      "id": 79,
+      "en": "Basically, if you knock someone out, you get a knockout.",
+      "cn": "基本上，如果你击倒某人，你就得到了一个击倒。"
+    },
+    {
+      "id": 80,
+      "en": "Okay, so to knock someone out, a knockout.",
+      "cn": "好吧，所以击倒某人，一个击倒。"
+    },
+    {
+      "id": 81,
+      "en": "Alright, now for our next word, we saw as Apollo quickly began to jab Rocky Balboa.",
+      "cn": "好吧，现在我们的下一个词，我们看到阿波罗迅速开始刺拳洛基·巴尔博亚。"
+    },
+    {
+      "id": 82,
+      "en": "So the noun, a jab.",
+      "cn": "所以名词，一个刺拳。"
+    },
+    {
+      "id": 83,
+      "en": "So a jab, quick jabs.",
+      "cn": "所以一个刺拳，快速的刺拳。"
+    },
+    {
+      "id": 84,
+      "en": "So a jab is a kind of punch, right?",
+      "cn": "所以刺拳是一种拳击，对吧？"
+    },
+    {
+      "id": 85,
+      "en": "It's a fast, short, but not very strong punch.",
+      "cn": "它是快速、短小，但不是很有力的拳。"
+    },
+    {
+      "id": 86,
+      "en": "Okay, so a technical boxing word, a jab.",
+      "cn": "好吧，所以这是一个技术性的拳击词，刺拳。"
+    },
+    {
+      "id": 87,
+      "en": "A jab.",
+      "cn": "刺拳。"
+    },
+    {
+      "id": 88,
+      "en": "This can also be a verb, right?",
+      "cn": "这也可以是一个动词，对吧？"
+    },
+    {
+      "id": 89,
+      "en": "Right, so to jab.",
+      "cn": "对，所以刺拳。"
+    },
+    {
+      "id": 90,
+      "en": "To jab.",
+      "cn": "刺拳。"
+    },
+    {
+      "id": 91,
+      "en": "Now, Apollo was throwing jabs, and Rocky began to dodge.",
+      "cn": "现在，阿波罗在出刺拳，而洛基开始躲避。"
+    },
+    {
+      "id": 92,
+      "en": "Alright, and that's our next word, to dodge.",
+      "cn": "好吧，这就是我们的下一个词，躲避。"
+    },
+    {
+      "id": 93,
+      "en": "Dodge.",
+      "cn": "躲避。"
+    },
+    {
+      "id": 94,
+      "en": "D -O-D-G-E, to dodge.",
+      "cn": "D -O-D-G-E，躲避。"
+    },
+    {
+      "id": 95,
+      "en": "Alright, so if you dodge, you're trying to avoid getting hit.",
+      "cn": "好吧，所以如果你躲避，你是在试图避免被击中。"
+    },
+    {
+      "id": 96,
+      "en": "Right, so you move your body so that you're not hit.",
+      "cn": "对，所以你移动你的身体，以免被击中。"
+    },
+    {
+      "id": 97,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 98,
+      "en": "Now, we can also use it in different ways.",
+      "cn": "现在，我们也可以用不同的方式使用它。"
+    },
+    {
+      "id": 99,
+      "en": "Not only do you dodge when somebody's trying to punch you, you can also, for example, dodge a bullet.",
+      "cn": "不仅仅是当有人试图打你时你躲避，你也可以，例如，躲避子弹。"
+    },
+    {
+      "id": 100,
+      "en": "Right, so when you dodge a bullet, you avoid some bad situation or some bad event.",
+      "cn": "对，所以当你躲避子弹时，你避免了一些糟糕的情况或事件。"
+    },
+    {
+      "id": 101,
+      "en": "Right, so we have many examples of dodge used in other contexts, so why don't we listen to some examples?",
+      "cn": "对，我们有很多躲避在其他语境中使用的例子，为什么不听听一些例子呢？"
+    },
+    {
+      "id": 102,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 103,
+      "en": "See that guy dodging through the traffic?",
+      "cn": "看到那个家伙在交通中躲避吗？"
+    },
+    {
+      "id": 104,
+      "en": "He's going to get hit by a car if he's not careful.",
+      "cn": "如果他不小心，他会被车撞到。"
+    },
+    {
+      "id": 105,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 106,
+      "en": "Well, the storm turned south, so it looks like we managed to dodge a bullet.",
+      "cn": "嗯，暴风雨向南转了，所以看起来我们成功躲过了一劫。"
+    },
+    {
+      "id": 107,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 108,
+      "en": "Look, you're the one who is in charge of sales, and the numbers are down.",
+      "cn": "看，你是负责销售的，数字下滑了。"
+    },
+    {
+      "id": 109,
+      "en": "It's your problem, so stop trying to dodge your responsibilities.",
+      "cn": "这是你的问题，所以别再试图逃避责任了。"
+    },
+    {
+      "id": 110,
+      "en": "You know, that word reminds me of another sport, dodgeball.",
+      "cn": "你知道，这个词让我想起了另一项运动，躲避球。"
+    },
+    {
+      "id": 111,
+      "en": "Oh, dodgeball, exactly.",
+      "cn": "哦，躲避球，正是如此。"
+    },
+    {
+      "id": 112,
+      "en": "Same principle.",
+      "cn": "同样的原则。"
+    },
+    {
+      "id": 113,
+      "en": "Yeah, but that's an entirely different lesson.",
+      "cn": "是的，但那是完全不同的课程。"
+    },
+    {
+      "id": 114,
+      "en": "I think we need to focus here on the boxing vocabulary.",
+      "cn": "我认为我们需要专注于拳击词汇。"
+    },
+    {
+      "id": 115,
+      "en": "So the announcers said that Apollo is getting pounded.",
+      "cn": "所以播报员说阿波罗正在被猛击。"
+    },
+    {
+      "id": 116,
+      "en": "To get pounded.",
+      "cn": "被猛击。"
+    },
+    {
+      "id": 117,
+      "en": "To get pounded.",
+      "cn": "被猛击。"
+    },
+    {
+      "id": 118,
+      "en": "Now, if someone is getting pounded... They're getting hit really hard.",
+      "cn": "现在，如果有人被猛击……他们被狠狠地击中。"
+    },
+    {
+      "id": 119,
+      "en": "And a lot.",
+      "cn": "而且很多次。"
+    },
+    {
+      "id": 120,
+      "en": "So, to get pounded.",
+      "cn": "所以，被猛击。"
+    },
+    {
+      "id": 121,
+      "en": "To get pounded.",
+      "cn": "被猛击。"
+    },
+    {
+      "id": 122,
+      "en": "And now we have one more word, and it's also another boxing term called a haymaker.",
+      "cn": "现在我们还有一个词，也是另一个拳击术语，叫做重拳。"
+    },
+    {
+      "id": 123,
+      "en": "A powerful haymaker.",
+      "cn": "一记强有力的重拳。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, so Apollo received a powerful haymaker.",
+      "cn": "好的，所以阿波罗遭到了强有力的重拳。"
+    },
+    {
+      "id": 125,
+      "en": "Now, this word is actually new to me, so Marco, what does it mean?",
+      "cn": "现在，这个词对我来说其实是新的，马尔科，这是什么意思？"
+    },
+    {
+      "id": 126,
+      "en": "Basically, it's a very strong, very wild punch.",
+      "cn": "基本上，这是一个非常强烈、非常狂野的拳。"
+    },
+    {
+      "id": 127,
+      "en": "Okay, so you don't have really good form.",
+      "cn": "好的，所以你的姿势并不好。"
+    },
+    {
+      "id": 128,
+      "en": "Your body is kind of moving all over the place.",
+      "cn": "你的身体有点四处乱动。"
+    },
+    {
+      "id": 129,
+      "en": "Right, so you don't have much balance.",
+      "cn": "对，所以你没有太多的平衡。"
+    },
+    {
+      "id": 130,
+      "en": "So you just throw your entire body and your fist at someone to hit them as hard as you can.",
+      "cn": "所以你只是把整个身体和拳头扔向某人，尽可能用力地击打他们。"
+    },
+    {
+      "id": 131,
+      "en": "That's a haymaker.",
+      "cn": "这就是重拳。"
+    },
+    {
+      "id": 132,
+      "en": "Alright, a technical boxing word here for you guys.",
+      "cn": "好吧，这里有一个技术性的拳击词汇给你们。"
+    },
+    {
+      "id": 133,
+      "en": "But now we've got some interesting phrases for you on Fluency Builder.",
+      "cn": "但现在我们有一些有趣的短语给你们在流利度提升中。"
+    },
+    {
+      "id": 134,
+      "en": "Fluency Builder Alright, so on Fluency Builder today we're going to take a look at some of these phrases and we have four of them for you today, so let's get started with the first one.",
+      "cn": "流利度提升 好的，所以今天在流利度提升中，我们将看看这些短语，今天有四个短语给你们，所以让我们开始第一个。"
+    },
+    {
+      "id": 135,
+      "en": "Well, the announcer said that the boxing match was about to get underway.",
+      "cn": "嗯，播报员说拳击比赛即将开始。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, to get underway.",
+      "cn": "好的，开始。"
+    },
+    {
+      "id": 137,
+      "en": "To get underway.",
+      "cn": "开始。"
+    },
+    {
+      "id": 138,
+      "en": "So, again, this is another way of saying about to begin.",
+      "cn": "所以，这又是另一种说即将开始的方式。"
+    },
+    {
+      "id": 139,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 140,
+      "en": "Alright, so we're about to get underway with this new project.",
+      "cn": "好的，所以我们即将开始这个新项目。"
+    },
+    {
+      "id": 141,
+      "en": "Or the meeting's just about to get underway, so make sure everyone's here.",
+      "cn": "或者会议即将开始，所以确保每个人都在。"
+    },
+    {
+      "id": 142,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 143,
+      "en": "So the match was about to get underway and the sports announcer said that Rocky Balboa is going to square off against his lifetime rival.",
+      "cn": "所以比赛即将开始，体育播报员说洛基·巴尔博亚将与他的终身对手对峙。"
+    },
+    {
+      "id": 144,
+      "en": "So we're going to look at this phrase to square off against someone.",
+      "cn": "所以我们将看看这个短语与某人对峙。"
+    },
+    {
+      "id": 145,
+      "en": "Alright, I'm going to square off against Jim.",
+      "cn": "好的，我将与吉姆对峙。"
+    },
+    {
+      "id": 146,
+      "en": "Alright, when you square off against Jim you get ready to fight with him or to compete with him, right?",
+      "cn": "好的，当你与吉姆对峙时，你准备与他打架或竞争，对吧？"
+    },
+    {
+      "id": 147,
+      "en": "Right, so we're about to have a one-to-one competition.",
+      "cn": "对，所以我们即将进行一对一的竞争。"
+    },
+    {
+      "id": 148,
+      "en": "So this is like a sports word, but it's also really commonly used in a lot of different contexts.",
+      "cn": "这就像是一个体育词汇，但在很多不同的语境中也很常用。"
+    },
+    {
+      "id": 149,
+      "en": "So why don't we hear a few more examples of how we can use this phrase to square off.",
+      "cn": "所以为什么不听听更多关于如何使用这个短语与某人对峙的例子呢。"
+    },
+    {
+      "id": 150,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 151,
+      "en": "The two countries are moving their armies close to the borders as they prepare to square off in a border dispute.",
+      "cn": "两国正在将军队移近边界，准备在边界争端中对峙。"
+    },
+    {
+      "id": 152,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 153,
+      "en": "Italy and Brazil are squaring off in the final game this afternoon.",
+      "cn": "意大利和巴西今天下午将在决赛中对峙。"
+    },
+    {
+      "id": 154,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 155,
+      "en": "Lisa and Daniel squared off against each other in the marketing meeting today.",
+      "cn": "莉莎和丹尼尔今天在市场会议上对峙。"
+    },
+    {
+      "id": 156,
+      "en": "They were both pretty angry.",
+      "cn": "他们都很生气。"
+    },
+    {
+      "id": 157,
+      "en": "Alright, so great examples and I think we can use it now not only in boxing but in other situations.",
+      "cn": "好吧，很好的例子，我认为我们现在不仅可以在拳击中使用它，还可以在其他情况下使用。"
+    },
+    {
+      "id": 158,
+      "en": "Now Bob said that Rocky landed a strong blow.",
+      "cn": "现在鲍勃说洛基打出了一记强有力的击打。"
+    },
+    {
+      "id": 159,
+      "en": "To land a strong blow.",
+      "cn": "打出强有力的击打。"
+    },
+    {
+      "id": 160,
+      "en": "Alright, so land a strong blow.",
+      "cn": "好的，所以打出强有力的击打。"
+    },
+    {
+      "id": 161,
+      "en": "Now let's break this down.",
+      "cn": "现在让我们分解一下。"
+    },
+    {
+      "id": 162,
+      "en": "So a blow.",
+      "cn": "所以一击。"
+    },
+    {
+      "id": 163,
+      "en": "A blow is a punch or a hit.",
+      "cn": "一击是拳头或击打。"
+    },
+    {
+      "id": 164,
+      "en": "Okay, and when you land a strong blow, what happens?",
+      "cn": "好的，当你打出强有力的击打时，会发生什么？"
+    },
+    {
+      "id": 165,
+      "en": "You basically successfully hit your opponent with a punch or hit.",
+      "cn": "你基本上成功地用拳头击中了对手。"
+    },
+    {
+      "id": 166,
+      "en": "So you hit them, so your fist meets their body.",
+      "cn": "所以你击中了他们，你的拳头碰到了他们的身体。"
+    },
+    {
+      "id": 167,
+      "en": "Yes, so your fist landed on their body.",
+      "cn": "是的，所以你的拳头落在了他们的身体上。"
+    },
+    {
+      "id": 168,
+      "en": "So I could also change this a little bit.",
+      "cn": "所以我也可以稍微改变一下。"
+    },
+    {
+      "id": 169,
+      "en": "I could say, I landed a punch.",
+      "cn": "我可以说，我打出了一记拳。"
+    },
+    {
+      "id": 170,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 171,
+      "en": "Or in boxing terms, he landed a strong left jab.",
+      "cn": "或者用拳击术语来说，他打出了一记强有力的左勾拳。"
+    },
+    {
+      "id": 172,
+      "en": "Okay, so to land a blow.",
+      "cn": "好的，所以打出一击。"
+    },
+    {
+      "id": 173,
+      "en": "The announcer described it as Rocky threw a left.",
+      "cn": "播报员形容洛基出了一记左拳。"
+    },
+    {
+      "id": 174,
+      "en": "To throw a left.",
+      "cn": "出一记左拳。"
+    },
+    {
+      "id": 175,
+      "en": "So he said he threw a left and a right.",
+      "cn": "所以他说他出了一记左拳和右拳。"
+    },
+    {
+      "id": 176,
+      "en": "Now again, we'll take this one apart.",
+      "cn": "现在我们再来拆解一下。"
+    },
+    {
+      "id": 177,
+      "en": "So a left.",
+      "cn": "所以一记左拳。"
+    },
+    {
+      "id": 178,
+      "en": "What are we talking about?",
+      "cn": "我们在谈论什么？"
+    },
+    {
+      "id": 179,
+      "en": "Basically a left punch.",
+      "cn": "基本上是一记左拳。"
+    },
+    {
+      "id": 180,
+      "en": "But we can omit punch.",
+      "cn": "但我们可以省略拳。"
+    },
+    {
+      "id": 181,
+      "en": "Okay, so it's a punch with your left hand.",
+      "cn": "好的，所以这是用左手出的一记拳。"
+    },
+    {
+      "id": 182,
+      "en": "But the verb throw.",
+      "cn": "但动词出。"
+    },
+    {
+      "id": 183,
+      "en": "You throw a left punch.",
+      "cn": "你出一记左拳。"
+    },
+    {
+      "id": 184,
+      "en": "So basically you punch somebody with your left.",
+      "cn": "所以基本上你用左手打某人。"
+    },
+    {
+      "id": 185,
+      "en": "Okay, so it's just another way of saying to punch someone.",
+      "cn": "好的，所以这只是另一种说法，表示打某人。"
+    },
+    {
+      "id": 186,
+      "en": "Right, so Bob started to throw some punches at the other guy.",
+      "cn": "对，所以鲍勃开始向另一个家伙出拳。"
+    },
+    {
+      "id": 187,
+      "en": "Alright, or look over there, that guy's throwing punches.",
+      "cn": "好吧，或者看看那边，那个家伙在出拳。"
+    },
+    {
+      "id": 188,
+      "en": "Alright, so to throw a left, to throw a punch.",
+      "cn": "好吧，所以出一记左拳，出一记拳。"
+    },
+    {
+      "id": 189,
+      "en": "Now again, you can use this in a lot of different ways with a lot of different types of punches.",
+      "cn": "现在再次，你可以用很多不同的方式和不同类型的拳来使用这个。"
+    },
+    {
+      "id": 190,
+      "en": "So you could say to throw a jab.",
+      "cn": "所以你可以说出一记勾拳。"
+    },
+    {
+      "id": 191,
+      "en": "Okay, or throw an uppercut.",
+      "cn": "好的，或者出一记上勾拳。"
+    },
+    {
+      "id": 192,
+      "en": "Or throw a hook.",
+      "cn": "或者出一记钩拳。"
+    },
+    {
+      "id": 193,
+      "en": "Okay, so now that we've seen all these phrases, why don't we listen to the dialogue for the very last time.",
+      "cn": "好的，所以现在我们已经看过所有这些短语，为什么不最后一次听听对话呢。"
+    },
+    {
+      "id": 194,
+      "en": "And we'll come back in a little bit.",
+      "cn": "然后我们稍后再回来。"
+    },
+    {
+      "id": 195,
+      "en": "Bob against his lifetime rival, Apollo Creed.",
+      "cn": "鲍勃对阵他的终身对手阿波罗·克里德。"
+    },
+    {
+      "id": 196,
+      "en": "This will be a gruesome match for sure.",
+      "cn": "这肯定是一场惨烈的比赛。"
+    },
+    {
+      "id": 197,
+      "en": "Both fighters are in the ring.",
+      "cn": "两位拳手已经在擂台上。"
+    },
+    {
+      "id": 198,
+      "en": "And we are about to begin.",
+      "cn": "我们即将开始。"
+    },
+    {
+      "id": 199,
+      "en": "In the blue corner.",
+      "cn": "在蓝色角落。"
+    },
+    {
+      "id": 200,
+      "en": "Weighing in at 220 pounds.",
+      "cn": "体重220磅。"
+    },
+    {
+      "id": 201,
+      "en": "The former heavyweight champion of the world.",
+      "cn": "前世界重量级冠军。"
+    },
+    {
+      "id": 202,
+      "en": "The master of disaster.",
+      "cn": "灾难之主。"
+    },
+    {
+      "id": 203,
+      "en": "The one and only Apollo Creed.",
+      "cn": "唯一的阿波罗·克里德。"
+    },
+    {
+      "id": 204,
+      "en": "In the red corner.",
+      "cn": "在红色角落。"
+    },
+    {
+      "id": 205,
+      "en": "Weighing 218 pounds.",
+      "cn": "体重218磅。"
+    },
+    {
+      "id": 206,
+      "en": "And with a record of 47 wins and 37 knockouts.",
+      "cn": "战绩47胜37次击倒。"
+    },
+    {
+      "id": 207,
+      "en": "The undefeated, undisputed heavyweight champion of the world.",
+      "cn": "不败的、无可争议的世界重量级冠军。"
+    },
+    {
+      "id": 208,
+      "en": "The Italian Stallion, Rocky Balboa.",
+      "cn": "意大利骏马，洛基·巴尔博亚。"
+    },
+    {
+      "id": 209,
+      "en": "There's the bell.",
+      "cn": "响铃了。"
+    },
+    {
+      "id": 210,
+      "en": "And this fight is underway.",
+      "cn": "比赛开始了。"
+    },
+    {
+      "id": 211,
+      "en": "Apollo quickly attacks Rocky with quick strong jabs.",
+      "cn": "阿波罗迅速用强有力的刺拳攻击洛基。"
+    },
+    {
+      "id": 212,
+      "en": "Rocky dodges successfully and counter attacks with a strong right hook.",
+      "cn": "洛基成功躲避并用强有力的右钩拳反击。"
+    },
+    {
+      "id": 213,
+      "en": "Apollo is cut.",
+      "cn": "阿波罗受伤了。"
+    },
+    {
+      "id": 214,
+      "en": "Rocky landed a strong blow to his right eyebrow and cut him.",
+      "cn": "洛基重重击中了他的右眉头，割伤了他。"
+    },
+    {
+      "id": 215,
+      "en": "This is his chance.",
+      "cn": "这是他的机会。"
+    },
+    {
+      "id": 216,
+      "en": "Rocky quickly throws a left.",
+      "cn": "洛基迅速出左拳。"
+    },
+    {
+      "id": 217,
+      "en": "Right.",
+      "cn": "右拳。"
+    },
+    {
+      "id": 218,
+      "en": "Another left.",
+      "cn": "另一个左拳。"
+    },
+    {
+      "id": 219,
+      "en": "Apollo is getting pounded.",
+      "cn": "阿波罗被打得很惨。"
+    },
+    {
+      "id": 220,
+      "en": "Apollo recovers with a powerful haymaker.",
+      "cn": "阿波罗用一记强力的重拳恢复过来。"
+    },
+    {
+      "id": 221,
+      "en": "And catches Rocky off guard.",
+      "cn": "并让洛基措手不及。"
+    },
+    {
+      "id": 222,
+      "en": "He's down.",
+      "cn": "他倒下了。"
+    },
+    {
+      "id": 223,
+      "en": "The ref starts the count.",
+      "cn": "裁判开始计数。"
+    },
+    {
+      "id": 224,
+      "en": "One.",
+      "cn": "一。"
+    },
+    {
+      "id": 225,
+      "en": "Two.",
+      "cn": "二。"
+    },
+    {
+      "id": 226,
+      "en": "Three.",
+      "cn": "三。"
+    },
+    {
+      "id": 227,
+      "en": "Four.",
+      "cn": "四。"
+    },
+    {
+      "id": 228,
+      "en": "So as I mentioned Marco, I'm not really that much of a fan or that knowledgeable about boxing.",
+      "cn": "正如我提到的，马尔科，我对拳击并不是特别感兴趣或了解。"
+    },
+    {
+      "id": 229,
+      "en": "And actually this is becoming a theme in any sports lesson, isn't it?",
+      "cn": "其实这在任何体育课上都成了一个主题，不是吗？"
+    },
+    {
+      "id": 230,
+      "en": "Well, boxing is a very popular sport in North America.",
+      "cn": "嗯，拳击在北美是一项非常受欢迎的运动。"
+    },
+    {
+      "id": 231,
+      "en": "I'm not really that big of a fan.",
+      "cn": "我并不是特别喜欢。"
+    },
+    {
+      "id": 232,
+      "en": "But I have seen a couple of matches and it's very interesting because as we saw in our dialogue, most big fights take place in Las Vegas at some big hotel.",
+      "cn": "但我看过几场比赛，这很有趣，因为正如我们在对话中看到的，大多数重要的比赛都在拉斯维加斯的一些大酒店举行。"
+    },
+    {
+      "id": 233,
+      "en": "Right, but you said it's super popular and everyone wants to watch these matches.",
+      "cn": "对，但你说它超级受欢迎，大家都想看这些比赛。"
+    },
+    {
+      "id": 234,
+      "en": "And obviously everyone can't go to Las Vegas.",
+      "cn": "显然，大家不能都去拉斯维加斯。"
+    },
+    {
+      "id": 235,
+      "en": "So what's the common way for most people to watch these boxing matches?",
+      "cn": "那大多数人看拳击比赛的常见方式是什么？"
+    },
+    {
+      "id": 236,
+      "en": "Right, so in the United States there's something very popular called Pay Per View.",
+      "cn": "对，所以在美国有一种非常流行的叫做按次付费。"
+    },
+    {
+      "id": 237,
+      "en": "And I'm sure in your countries you have something similar.",
+      "cn": "我相信在你们的国家也有类似的东西。"
+    },
+    {
+      "id": 238,
+      "en": "Basically Pay Per View you can buy the fight so you can have access to it and watch it on your TV.",
+      "cn": "基本上，按次付费你可以购买比赛，这样你就可以在电视上观看。"
+    },
+    {
+      "id": 239,
+      "en": "But you only pay one time to watch like maybe two hours, right?",
+      "cn": "但你只需支付一次，观看大约两个小时，对吧？"
+    },
+    {
+      "id": 240,
+      "en": "Right, so let's say you're at your house, it's six o'clock and the fight begins at eight.",
+      "cn": "对，所以假设你在家，六点钟，比赛在八点开始。"
+    },
+    {
+      "id": 241,
+      "en": "So you can call your TV cable company or maybe use on the Internet with a credit card.",
+      "cn": "你可以打电话给你的有线电视公司，或者在网上用信用卡。"
+    },
+    {
+      "id": 242,
+      "en": "And they activate it on your TV so you can watch the fight.",
+      "cn": "他们会在你的电视上激活它，这样你就可以观看比赛。"
+    },
+    {
+      "id": 243,
+      "en": "And when it's over, well, you've finished watching it.",
+      "cn": "比赛结束后，你就看完了。"
+    },
+    {
+      "id": 244,
+      "en": "Now it's pretty expensive, isn't it?",
+      "cn": "现在这很贵，对吧？"
+    },
+    {
+      "id": 245,
+      "en": "Yeah, Pay Per View can be very expensive depending on what event it is.",
+      "cn": "是的，按次付费可能非常昂贵，具体取决于是什么活动。"
+    },
+    {
+      "id": 246,
+      "en": "Because sometimes it's boxing matches, concerts, or special events.",
+      "cn": "因为有时是拳击比赛、音乐会或特别活动。"
+    },
+    {
+      "id": 247,
+      "en": "So it can maybe cost, I don't know, $60, $80, maybe $100.",
+      "cn": "所以可能会花费，我不知道，60美元、80美元，甚至100美元。"
+    },
+    {
+      "id": 248,
+      "en": "So it's very popular for one house to buy the Pay Per View.",
+      "cn": "所以一个家庭购买按次付费是非常普遍的。"
+    },
+    {
+      "id": 249,
+      "en": "And then many friends come over and everyone chips in with $5 or $10 and everyone watches it on one TV.",
+      "cn": "然后很多朋友过来，每个人出5美元或10美元，大家一起在一台电视上观看。"
+    },
+    {
+      "id": 250,
+      "en": "Alright, so the Pay Per View Boxing Party, a common way to watch the sport in America.",
+      "cn": "好吧，按次付费拳击派对，在美国观看这项运动的常见方式。"
+    },
+    {
+      "id": 251,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 252,
+      "en": "Now why don't you guys visit our website and tell us about boxing.",
+      "cn": "现在你们为什么不访问我们的网站，告诉我们关于拳击的事呢？"
+    },
+    {
+      "id": 253,
+      "en": "Do you guys like it?",
+      "cn": "你们喜欢吗？"
+    },
+    {
+      "id": 254,
+      "en": "Do you know anything about it?",
+      "cn": "你们知道些什么吗？"
+    },
+    {
+      "id": 255,
+      "en": "Are you guys maybe even boxers yourselves?",
+      "cn": "你们自己是拳击手吗？"
+    },
+    {
+      "id": 256,
+      "en": "Or former boxers.",
+      "cn": "或者是前拳击手。"
+    },
+    {
+      "id": 257,
+      "en": "Alright, so we'll see you guys at our website.",
+      "cn": "好吧，我们在网站上见。"
+    },
+    {
+      "id": 258,
+      "en": "And also if you have any questions or comments, be sure to leave them there as well.",
+      "cn": "如果你们有任何问题或评论，也请务必在那里留言。"
+    },
+    {
+      "id": 259,
+      "en": "You can find us at EnglishPod.com.",
+      "cn": "你们可以在EnglishPod.com找到我们。"
+    },
+    {
+      "id": 260,
+      "en": "And until next time, thanks for listening and goodbye.",
+      "cn": "下次再见，感谢收听，再见。"
+    }
+  ]
+}

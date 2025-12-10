@@ -1,0 +1,771 @@
+﻿1
+Hello English learners.
+你好，英语学习者。
+
+2
+Welcome back to EnglishPod.
+欢迎回到EnglishPod。
+
+3
+My name is Marco.
+我叫Marco。
+
+4
+And I'm Erica.
+我是Erica。
+
+5
+And we're bringing you a very advanced lesson today.
+今天我们带来一节非常高级的课程。
+
+6
+That's right.
+没错。
+
+7
+We're talking about another business topic, aren't we?
+我们在谈论另一个商业话题，是吗？
+
+8
+It's a topic that's kind of popular these days, all about efficiency and reducing costs.
+这是一个最近很流行的话题，关于效率和降低成本。
+
+9
+So we're going to be talking about the just-in-time philosophy.
+所以我们将讨论准时生产哲学。
+
+10
+I don't know much about this philosophy, so good thing we've got Marco here.
+我对这个哲学了解不多，所以有Marco在这里真是太好了。
+
+11
+Well, what we are going to be looking at is not really in-depth.
+我们要看的内容并不是很深入。
+
+12
+We're just going to be looking at some basic points of what a just-in-time philosophy would be like in a company.
+我们只是看一些准时生产哲学在公司中的基本要点。
+
+13
+But what we're really going to be looking at is the language to do with this philosophy, right?
+但我们真正要关注的是与这个哲学相关的语言，对吧？
+
+14
+Exactly.
+正确。
+
+15
+We're going to be looking at some technical terms and some other useful phrases that you can use when you're talking in a business setting.
+我们将查看一些技术术语和其他在商业环境中可以使用的有用短语。
+
+16
+Okay, well why don't we get started with the language then?
+好吧，那我们就开始语言部分吧？
+
+17
+Okay, let's take a look at vocabulary preview.
+好的，让我们先看一下词汇预览。
+
+18
+On vocabulary preview today, we have the word lead time.
+今天的词汇预览中，我们有“交货时间”。
+
+19
+Right, like lead.
+对，就像“交货”。
+
+20
+This is something that factories usually would use.
+这是工厂通常会使用的术语。
+
+21
+Yeah, I guess lead time is the time in between point A and point B on a production schedule, right?
+是的，我想交货时间是生产计划中A点和B点之间的时间，对吧？
+
+22
+Right, so you could have, for example, production lead time.
+对，所以你可以有，比如说，生产交货时间。
+
+23
+So that's the time between when you make an order and when you make an order.
+这是你下订单和产品完成之间的时间。
+
+24
+And the product is finished.
+以及产品完成。
+
+25
+Exactly, and you could also have delivery lead time.
+正确，你还可以有交付交货时间。
+
+26
+So the time between when you place an order and when the product gets delivered to you.
+这是你下订单和产品送达你之间的时间。
+
+27
+So depending on the companies, you have different lead times.
+所以根据公司不同，交货时间也不同。
+
+28
+Some are three days, other are five days, other are forty-five days.
+有的三天，有的五天，有的四十五天。
+
+29
+And we at EnglishPod have two-week lead time for our podcast, right?
+而我们在EnglishPod的播客交货时间是两周，对吧？
+
+30
+But our delivery lead time is every other day.
+但我们的交付交货时间是每隔一天。
+
+31
+That's true.
+这是真的。
+
+32
+Nice.
+不错。
+
+33
+Okay, that's all we're going to be previewing today, so why don't we just listen to the dialogue.
+好吧，今天的预览就到这里，那我们就来听听对话吧。
+
+34
+And then we'll come back and explain some of these tricky vocabulary words that we'll see.
+然后我们再回来解释一些我们会看到的棘手词汇。
+
+35
+I called this meeting today in order to discuss our manufacturing plan, as I'm sure you're all aware with the credit crunch and the global financial crisis.
+我今天召集这个会议是为了讨论我们的制造计划，正如你们所知，信贷紧缩和全球金融危机。
+
+36
+We're obligated to look for more cost-efficient ways of producing our goods.
+我们有责任寻找更具成本效益的生产方式。
+
+37
+We don't want to have to be looking at redundancies, so we've outlined a brief plan to implement the just-in-time philosophy.
+我们不想考虑裁员，所以我们制定了一个简要计划来实施准时生产哲学。
+
+38
+We have two basic points that we want to focus on.
+我们有两个基本要点想要关注。
+
+39
+First of all, we want to reduce our lead time.
+首先，我们想要减少我们的交货时间。
+
+40
+Why would we want to do that?
+为什么我们想这样做？
+
+41
+I think this is not an area that really needs to be worked on.
+我认为这不是一个真正需要改进的领域。
+
+42
+Well, we want to reduce production and delivery lead times for better overall efficiency.
+嗯，我们想要减少生产和交付交货时间，以提高整体效率。
+
+43
+Right.
+对。
+
+44
+Production lead times can be reduced by moving workstations closer together, reducing queue length like, for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.
+通过将工作站靠得更近、减少排队长度，比如说，减少在特定机器上等待处理的工作数量，以及改善连续过程之间的协调与合作，可以减少生产交货时间。
+
+45
+Delivery lead times can be reduced through close cooperation with suppliers, possibly by inducing suppliers to locate closer to the factory, or working with a faster shipping company.
+交付交货时间可以通过与供应商密切合作来减少，可能通过促使供应商靠近工厂，或与更快的运输公司合作。
+
+46
+I see.
+我明白了。
+
+47
+That makes sense.
+这很有道理。
+
+48
+The second point is that we want to require supplier quality assurance and implement a zero-defects quality program.
+第二个要点是我们希望要求供应商质量保证，并实施零缺陷质量计划。
+
+49
+We currently have far too many errors that lead to defective items, and therefore, they must be eliminated.
+我们目前有太多导致缺陷产品的错误，因此必须消除这些错误。
+
+50
+A quality control at the source program must be implemented to give workers personal responsibility for the quality of the work they do, and the authority to stop production when something goes wrong.
+必须实施源头质量控制计划，以使工人对他们所做工作的质量负责，并有权在出现问题时停止生产。
+
+51
+I'm with you on this one.
+我支持这个观点。
+
+52
+It's essential that we reduce these errors.
+我们必须减少这些错误。
+
+53
+We've got to force our suppliers to reduce their mistakes.
+我们必须迫使供应商减少他们的错误。
+
+54
+Exactly.
+正确。
+
+55
+Well, let's look at how we're going to put this plan into action.
+好吧，让我们看看如何将这个计划付诸实践。
+
+56
+First... Okay, so they're going to implement just in time in their company.
+首先... 好吧，他们将要在他们的公司实施准时生产。
+
+57
+Yes.
+是的。
+
+58
+Yeah, I guess they're putting in some cost control measures.
+是的，我想他们正在实施一些成本控制措施。
+
+59
+So Marco, there's some great language in here.
+所以Marco，这里有一些很好的语言。
+
+60
+Why don't we look at it now in language takeaway?
+我们为什么不现在在语言要点中看看呢？
+
+61
+Language takeaway.
+语言要点。
+
+62
+Okay, the first word today.
+好的，今天的第一个词。
+
+63
+Redundancies.
+裁员。
+
+64
+Redundancies.
+裁员。
+
+65
+Redundancies.
+裁员。
+
+66
+Redundancies.
+裁员。
+
+67
+So this is kind of a strange word, because usually a redundancy is when you're speaking, right?
+这个词有点奇怪，因为通常裁员是指你在说话时的重复，对吧？
+
+68
+Yeah, maybe when you say something that's already been said.
+是的，也许是你说了已经说过的内容。
+
+69
+Exactly.
+正确。
+
+70
+You say something that has already been said, but we also use it in the business world.
+你说了已经说过的内容，但我们在商业世界中也使用这个词。
+
+71
+Right, and it comes from the base word redundant, right?
+对，且它源自基础词“冗余”，对吧？
+
+72
+Okay.
+好的。
+
+73
+Meaning extra.
+意思是多余。
+
+74
+More than what's needed.
+超过所需的。
+
+75
+Okay.
+好的。
+
+76
+So when a person or position is made redundant, basically it means they get laid off, right?
+所以当一个人或职位被裁员时，基本上意味着他们被解雇，对吧？
+
+77
+Right, so redundancies are a synonym of layoffs.
+对，所以裁员是解雇的同义词。
+
+78
+Exactly.
+正确。
+
+79
+Alright, let's take a look at our next word.
+好吧，让我们看看下一个词。
+
+80
+Workstations.
+工作站。
+
+81
+Workstations.
+工作站。
+
+82
+Workstations.
+工作站。
+
+83
+So a workstation could be anything from your desk.
+所以工作站可以是你的桌子。
+
+84
+Yeah, or maybe a workbench.
+是的，或者是工作台。
+
+85
+A workbench.
+工作台。
+
+86
+Or even a place on a production line.
+或者甚至是生产线上的一个地方。
+
+87
+Right, so you're a certain machine or something like that.
+对，所以你是某个机器或类似的东西。
+
+88
+So basically a workstation is the area where you work.
+所以基本上工作站是你工作的区域。
+
+89
+Okay, so you can say, can we get a new workstation for the new team member?
+好的，所以你可以说，我们能为新团队成员准备一个新的工作站吗？
+
+90
+Or I could say, I want to move my workstation closer to my employees.
+或者我可以说，我想把我的工作站移到离我的员工更近的地方。
+
+91
+Alright, so workstation.
+好吧，所以工作站。
+
+92
+Okay, let's take a look at our next word.
+好的，让我们看看下一个词。
+
+93
+At a given machine.
+在特定机器上。
+
+94
+At a given machine.
+在特定机器上。
+
+95
+At a given.
+在特定。
+
+96
+This is an interesting way to say at any machine?
+这是说在任何机器上的一种有趣的方式？
+
+97
+Exactly.
+正确。
+
+98
+Yeah, given here is operating exactly the same as... Here the word given is operating exactly the same way as any.
+是的，这里的“特定”与“任何”的意思完全相同。
+
+99
+As any.
+与任何。
+
+100
+Okay, so let's listen to some examples of how we can change it up a little bit and we can use this given word.
+好的，让我们听一些例子，看看我们如何稍微改变一下，并使用这个“特定”这个词。
+
+101
+Example 1.
+示例 1。
+
+102
+In this factory, how many cars are in production at any given time?
+在这个工厂，任何时候有多少辆车在生产？
+
+103
+Example 2.
+示例 2。
+
+104
+On any given day, about 40 million people use the Internet.
+在任何一天，大约有4000万人使用互联网。
+
+105
+Example 3.
+示例 3。
+
+106
+Firefighters have to be ready to attend an emergency at any given moment.
+消防员必须随时准备应对紧急情况。
+
+107
+Alright, so any given time, at any given moment.
+好吧，所以任何时候，任何时刻。
+
+108
+Yep, any given day.
+是的，任何一天。
+
+109
+Okay, now let's take a look at our last word today.
+好的，现在让我们看看今天的最后一个单词。
+
+110
+Defective.
+有缺陷的。
+
+111
+Defective.
+有缺陷的。
+
+112
+Defective.
+有缺陷的。
+
+113
+Defective.
+有缺陷的。
+
+114
+So if something is defective... It has a problem with it.
+所以如果某物有缺陷……它有问题。
+
+115
+It has a problem.
+它有问题。
+
+116
+Yeah.
+是的。
+
+117
+We can say defective is an adjective.
+我们可以说有缺陷的是形容词。
+
+118
+Right, and the noun is defect.
+对，名词是缺陷。
+
+119
+Defect.
+缺陷。
+
+120
+Yep.
+是的。
+
+121
+So if something has a defect, it is defective.
+所以如果某物有缺陷，它就是有缺陷的。
+
+122
+Right, so for example, maybe you produce chairs and you make one and this chair is missing a wheel.
+对，所以例如，也许你生产椅子，你做了一把，这把椅子缺少一个轮子。
+
+123
+Okay, so it's defective.
+好的，所以它是有缺陷的。
+
+124
+Yes, the defect is the missing wheel.
+是的，缺陷是缺少的轮子。
+
+125
+The defect is the missing... okay.
+缺陷是缺少的……好的。
+
+126
+So before we listen to our dialogue again, I want to take a look at this phrase, I'm with you on this one.
+所以在我们再次听对话之前，我想看看这个短语，我支持你。
+
+127
+I'm with you on this one.
+我支持你。
+
+128
+I'm with you on this one.
+我支持你。
+
+129
+I'm with you on this one.
+我支持你。
+
+130
+So what does that mean exactly?
+那么这到底是什么意思？
+
+131
+I'm with you on this one.
+我支持你。
+
+132
+I agree with you.
+我同意你。
+
+133
+I agree with you on this point.
+我在这一点上同意你。
+
+134
+Exactly.
+正是。
+
+135
+Okay, so if you agree with somebody on a certain point, you would say, Oh, I'm with you on this one.
+好的，所以如果你在某一点上同意某人，你会说，哦，我支持你。
+
+136
+I agree with you.
+我同意你。
+
+137
+Exactly.
+正是。
+
+138
+Okay, so now let's listen to our dialogue again, and we'll come back and talk a little bit more about the history of this Just In Time.
+好的，现在让我们再次听对话，然后我们会回来谈谈这个及时生产的历史。
+
+139
+I called this meeting today in order to discuss our manufacturing plan.
+我今天召集这个会议是为了讨论我们的生产计划。
+
+140
+As I'm sure you're all aware, with the credit crunch and the global financial crisis, we're obligated to look for more cost-efficient ways of producing our goods.
+我相信你们都知道，由于信贷紧缩和全球金融危机，我们有义务寻找更具成本效益的生产方式。
+
+141
+We don't want to have to be looking at redundancies, so we've outlined a brief plan to implement the Just In Time philosophy.
+我们不想考虑裁员，所以我们概述了一个简要计划来实施及时生产理念。
+
+142
+We have two basic points that we want to focus on.
+我们有两个基本点想要关注。
+
+143
+First of all, we want to reduce our lead time.
+首先，我们想减少我们的交货时间。
+
+144
+Why would we want to do that?
+我们为什么要这样做？
+
+145
+I think this is not an area that really needs to be worked on.
+我认为这不是一个真正需要改进的领域。
+
+146
+Well, we want to reduce production and delivery lead times for better overall efficiency.
+嗯，我们想减少生产和交付的交货时间，以提高整体效率。
+
+147
+Right.
+对。
+
+148
+Production lead times can be reduced by moving workstations closer together, reducing queue length, like, for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.
+通过将工作站靠得更近、减少排队长度，例如，减少在特定机器上等待处理的工作数量，以及改善连续过程之间的协调与合作，可以减少生产交货时间。
+
+149
+Delivery lead times can be reduced through close cooperation with suppliers, possibly by inducing suppliers to locate closer to the factory, or working with a faster shipping company.
+通过与供应商密切合作，可以减少交付交货时间，可能通过促使供应商靠近工厂，或与更快的运输公司合作。
+
+150
+I see.
+我明白了。
+
+151
+That makes sense.
+这很有道理。
+
+152
+The second point is that we want to require supplier quality assurance and implement a zero-defects quality program.
+第二点是我们希望要求供应商质量保证并实施零缺陷质量计划。
+
+153
+We currently have far too many errors that lead to defective items, and therefore, they must be eliminated.
+我们目前有太多错误导致有缺陷的物品，因此必须消除这些错误。
+
+154
+A quality control at the source program must be implemented to give workers personal responsibility for the quality of the work they do, and the authority to stop production when something goes wrong.
+必须实施源头质量控制计划，以使工人对他们所做工作的质量负责，并有权在出现问题时停止生产。
+
+155
+I'm with you on this one.
+我支持你。
+
+156
+It's essential that we reduce these errors.
+我们必须减少这些错误。
+
+157
+We've got to force our suppliers to reduce their mistakes.
+我们必须迫使供应商减少他们的错误。
+
+158
+Exactly.
+正是。
+
+159
+Well, let's look at how we're going to put this plan into action.
+好吧，让我们看看如何将这个计划付诸实践。
+
+160
+First... Alright, so Marco, I mentioned at the beginning of the lesson that I don't know much about just-in-time.
+首先……好的，马尔科，我在课程开始时提到我对及时生产了解不多。
+
+161
+But luckily you do, right?
+但幸运的是你知道，对吧？
+
+162
+Yeah, I know a little bit about it.
+是的，我对它了解一点。
+
+163
+So, tell me a little bit about where this philosophy came from.
+那么，告诉我一点这个理念的来源。
+
+164
+What are the origins of this idea?
+这个想法的起源是什么？
+
+165
+It actually became really popular with Toyota, and it was called the Toyota Production System.
+它实际上在丰田变得非常流行，被称为丰田生产系统。
+
+166
+So many people think it's Japanese, but in reality, the Japanese got it from the United States.
+很多人认为它是日本的，但实际上，日本人是从美国得到的。
+
+167
+It's a philosophy that was thought up by Ford Motor Company in order to improve their production line.
+这是福特汽车公司想出的一个理念，目的是改善他们的生产线。
+
+168
+But when the Japanese visited Ford Motor Company, it wasn't fully implemented yet, and oddly enough, they found this philosophy working already in a Piggly Wiggly.
+但当日本人访问福特汽车公司时，这一理念尚未完全实施，奇怪的是，他们发现这一理念已经在Piggly Wiggly中运作。
+
+169
+What's a Piggly Wiggly?
+Piggly Wiggly是什么？
+
+170
+Piggly Wiggly was a chain of grocery stores in the United States.
+Piggly Wiggly是美国的一家连锁超市。
+
+171
+I'm not sure if they're still around, but yeah, they were really big, and basically Piggly Wiggly was using this to improve their whole system of shipping and of stocking and everything.
+我不确定他们是否还在，但他们曾经非常大，基本上Piggly Wiggly利用这一理念来改善他们的整个运输和库存系统。
+
+172
+Okay, so how does it work?
+好的，那么它是如何运作的？
+
+173
+So basically what you try to do is make your processes more efficient, reduce the amount of space you're using, etc.
+基本上，你试图使你的流程更高效，减少你使用的空间等等。
+
+174
+And this was really important for Japanese because of course they don't have that much space in Japan to have these huge warehouses like in other countries.
+这对日本人来说非常重要，因为他们在日本没有那么多空间来拥有像其他国家那样的大型仓库。
+
+175
+So what you're saying is they're producing goods just for the time they need it, right?
+所以你所说的是，他们只在需要的时候生产商品，对吗？
+
+176
+Exactly, so trying to not be overstocked or...
+正是，所以尽量不超储或……
+
+177
+Or have like a long lead time or something.
+或者有很长的交货时间之类的。
+
+178
+Long lead times where you have to keep something in a warehouse, exactly.
+长交货时间意味着你必须将某些东西存放在仓库中，没错。
+
+179
+So that's why it's so efficient.
+所以这就是它如此高效的原因。
+
+180
+And also it's about improving the efficiency between processes, so what's sometimes called a bottleneck.
+而且这也是关于改善流程之间的效率，所以有时被称为瓶颈。
+
+181
+You can have really good processes in the beginning, but in the end maybe you have only one workstation that's taking all these orders and everything gets bottled up and it causes delays.
+你可以在开始时有非常好的流程，但最后可能只有一个工作站在处理所有这些订单，所有东西都被堵住，导致延误。
+
+182
+So in the dialogue they want to implement the just-in-time strategy as a way of avoiding redundancies, but it sounds to me like actually this might cause redundancies sometimes.
+所以在对话中，他们想实施及时生产策略，以避免冗余，但在我看来，这实际上有时可能会导致冗余。
+
+183
+Well yeah, sometimes it does.
+嗯，是的，有时确实如此。
+
+184
+Sometimes when you make workstations more efficient or when you make all your processes work more fluidly, sometimes inevitably you will have to lay off some people that are redundant.
+有时当你使工作站更高效或使所有流程更流畅时，难免会裁掉一些冗余的员工。
+
+185
+Okay.
+好的。
+
+186
+Have you ever worked in a company where they've implemented just-in-time?
+你曾经在实施及时生产的公司工作过吗？
+
+187
+No, actually I've never really worked at a place where this philosophy was working, but I did used to work at a place where we had six sigma, which is a little bit similar.
+不，实际上我从未在实施这一理念的地方工作过，但我曾在一个有六西格玛的地方工作过，这有点相似。
+
+188
+Well I guess we'll need a lesson on six sigma in the future.
+好吧，我想我们将来需要一节关于六西格玛的课程。
+
+189
+Yeah, we'll see if we come up with six sigma and what it means and it's kind of interesting, but we want to hear what you think.
+是的，我们看看是否能讲讲六西格玛及其含义，这很有趣，但我们想听听你的想法。
+
+190
+Yes, have you guys worked in a place where they use just-in-time?
+是的，你们有没有在使用及时生产的地方工作过？
+
+191
+Exactly, or if you have any quality control measures or how does your company avoid having defective items or defective services?
+正是，或者如果你们有任何质量控制措施，或者你们的公司如何避免有缺陷的物品或服务？
+
+192
+So visit our website, EnglishPod.com, and Marco and I are always around to respond to your comments and answer your questions.
+所以请访问我们的网站，EnglishPod.com，马尔科和我总是会回应你们的评论并回答你们的问题。
+
+193
+Exactly, so until then, it's...
+正是，所以在那之前，……

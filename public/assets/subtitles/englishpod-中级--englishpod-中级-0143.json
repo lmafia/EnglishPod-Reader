@@ -1,0 +1,1479 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0143",
+  "title": "EnglishPod 中级 0143",
+  "totalSegments": 294,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're going to be visiting one of my favorite places, I must say.",
+      "cn": "今天我们要去我最喜欢的地方之一。"
+    },
+    {
+      "id": 5,
+      "en": "Really, so you're a big meat eater.",
+      "cn": "真的，你是个大肉食者。"
+    },
+    {
+      "id": 6,
+      "en": "I am.",
+      "cn": "是的。"
+    },
+    {
+      "id": 7,
+      "en": "I have to have meat every day, so that's why I usually go to the butcher.",
+      "cn": "我每天都要吃肉，所以我通常去肉店。"
+    },
+    {
+      "id": 8,
+      "en": "Alright, so vegetarians be warned.",
+      "cn": "好吧，素食者请注意。"
+    },
+    {
+      "id": 9,
+      "en": "Today's dialogue is all about eating meat and where to go to get meat.",
+      "cn": "今天的对话全是关于吃肉和去哪里买肉。"
+    },
+    {
+      "id": 10,
+      "en": "So, as Marco said, that place is called The Butcher's.",
+      "cn": "正如Marco所说，那地方叫肉店。"
+    },
+    {
+      "id": 11,
+      "en": "So we're going to be visiting The Butcher, and we're going to learn all the different types of meat you can find there.",
+      "cn": "我们将去肉店，了解那里可以找到的各种肉类。"
+    },
+    {
+      "id": 12,
+      "en": "Great, so we don't have anything to preview, but before we get started, I'd just like to mention that you're going to hear a lot of different kinds of words, and we'll be back in a minute to talk about what they mean.",
+      "cn": "很好，我们没有什么要预览的，但在开始之前，我想提一下，你会听到很多不同的词，我们会在一分钟后回来讨论它们的意思。"
+    },
+    {
+      "id": 13,
+      "en": "Hi, what can I get for you?",
+      "cn": "你好，我能为你做些什么？"
+    },
+    {
+      "id": 14,
+      "en": "I'd like half a pound of ground beef, please.",
+      "cn": "我想要半磅的牛肉末。"
+    },
+    {
+      "id": 15,
+      "en": "Good choice.",
+      "cn": "好选择。"
+    },
+    {
+      "id": 16,
+      "en": "Our ground beef is extra lean, if you know what I mean.",
+      "cn": "我们的牛肉末是特瘦的，你懂的。"
+    },
+    {
+      "id": 17,
+      "en": "Could I also have half a dozen pork chops and two pounds of boneless chicken breast?",
+      "cn": "我还可以要半打猪排和两磅去骨鸡胸肉吗？"
+    },
+    {
+      "id": 18,
+      "en": "No, no, no chicken breasts at the moment, but we have some nice chicken thighs.",
+      "cn": "不，不，现在没有鸡胸肉，但我们有一些不错的鸡腿。"
+    },
+    {
+      "id": 19,
+      "en": "No, that won't do.",
+      "cn": "不，这不行。"
+    },
+    {
+      "id": 20,
+      "en": "I'll take this smoked ham you have here.",
+      "cn": "我就要你这里的烟熏火腿。"
+    },
+    {
+      "id": 21,
+      "en": "Okay, is there anything else?",
+      "cn": "好的，还有其他需要吗？"
+    },
+    {
+      "id": 22,
+      "en": "Is this salami and Bologna you have here?",
+      "cn": "你这里的意大利香肠和博洛尼亚香肠吗？"
+    },
+    {
+      "id": 23,
+      "en": "Yes, it's very fine meat.",
+      "cn": "是的，肉质非常好。"
+    },
+    {
+      "id": 24,
+      "en": "Made it myself.",
+      "cn": "我自己做的。"
+    },
+    {
+      "id": 25,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 26,
+      "en": "Okay, that's it.",
+      "cn": "好的，就这些。"
+    },
+    {
+      "id": 27,
+      "en": "Wait, we have t-bone, ribeye, and sirloin sticks.",
+      "cn": "等等，我们有T骨、肋眼和西冷牛排。"
+    },
+    {
+      "id": 28,
+      "en": "They are very fresh.",
+      "cn": "它们非常新鲜。"
+    },
+    {
+      "id": 29,
+      "en": "Just came from the slaughterhouse.",
+      "cn": "刚从屠宰场过来。"
+    },
+    {
+      "id": 30,
+      "en": "No, that's okay, really.",
+      "cn": "不，没关系，真的。"
+    },
+    {
+      "id": 31,
+      "en": "I think that's all for today.",
+      "cn": "我想今天就这些。"
+    },
+    {
+      "id": 32,
+      "en": "Okay, that'll be $34.50.",
+      "cn": "好的，总共34.50美元。"
+    },
+    {
+      "id": 33,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 34,
+      "en": "So this butcher was kind of creepy in the beginning.",
+      "cn": "所以这个肉贩一开始有点可怕。"
+    },
+    {
+      "id": 35,
+      "en": "Very creepy in the beginning.",
+      "cn": "一开始非常可怕。"
+    },
+    {
+      "id": 36,
+      "en": "I think that's usually the conception that you have of butchers because they always have a knife.",
+      "cn": "我想这通常是你对肉贩的印象，因为他们总是拿着刀。"
+    },
+    {
+      "id": 37,
+      "en": "And they're always covered in blood, but it's not human blood.",
+      "cn": "而且他们总是沾满血，但不是人血。"
+    },
+    {
+      "id": 38,
+      "en": "Right, like the movie Sweeney Todd.",
+      "cn": "对，就像电影《理发师陶德》。"
+    },
+    {
+      "id": 39,
+      "en": "Did you see that?",
+      "cn": "你看过吗？"
+    },
+    {
+      "id": 40,
+      "en": "Yeah, like Sweeney Todd.",
+      "cn": "是的，就像《理发师陶德》。"
+    },
+    {
+      "id": 41,
+      "en": "The butcher of Fleet Street.",
+      "cn": "《弗利特街的肉贩》。"
+    },
+    {
+      "id": 42,
+      "en": "But we actually took a look at a lot of different types of meat that the woman was ordering.",
+      "cn": "但我们实际上看了很多女人点的不同种类的肉。"
+    },
+    {
+      "id": 43,
+      "en": "So why don't we take a look at these now in Language Takeaway.",
+      "cn": "那我们现在来看看这些肉在语言收获中。"
+    },
+    {
+      "id": 44,
+      "en": "Okay, so the first is a classic cut.",
+      "cn": "好的，第一个是经典切割。"
+    },
+    {
+      "id": 45,
+      "en": "This is something that we had at my house about once a week growing up.",
+      "cn": "这是我小时候每周大约吃一次的东西。"
+    },
+    {
+      "id": 46,
+      "en": "It's called a pork chop.",
+      "cn": "叫做猪排。"
+    },
+    {
+      "id": 47,
+      "en": "Pork chop.",
+      "cn": "猪排。"
+    },
+    {
+      "id": 48,
+      "en": "So a pork chop comes from the animal, the pork or pig.",
+      "cn": "猪排来自猪。"
+    },
+    {
+      "id": 49,
+      "en": "Yeah, we actually don't say pork to mean the animal.",
+      "cn": "是的，我们实际上不说猪来指代动物。"
+    },
+    {
+      "id": 50,
+      "en": "Pork just means the kind of meat that comes from a pig.",
+      "cn": "猪肉只是指来自猪的肉。"
+    },
+    {
+      "id": 51,
+      "en": "So big difference there when we're talking about food, we say pork.",
+      "cn": "所以在谈论食物时，我们说猪肉。"
+    },
+    {
+      "id": 52,
+      "en": "Oh, wow.",
+      "cn": "哦，哇。"
+    },
+    {
+      "id": 53,
+      "en": "And what about a pork chop?",
+      "cn": "那猪排呢？"
+    },
+    {
+      "id": 54,
+      "en": "So what exactly is that?",
+      "cn": "那到底是什么？"
+    },
+    {
+      "id": 55,
+      "en": "Chop is usually just on the bone.",
+      "cn": "排骨通常是带骨的。"
+    },
+    {
+      "id": 56,
+      "en": "And oftentimes it's fried.",
+      "cn": "而且通常是炸的。"
+    },
+    {
+      "id": 57,
+      "en": "Or baked, I guess.",
+      "cn": "或者烤的，我想。"
+    },
+    {
+      "id": 58,
+      "en": "But it's just a piece of pork on the bone.",
+      "cn": "但它只是带骨的猪肉一块。"
+    },
+    {
+      "id": 59,
+      "en": "And a chop, you just imagine a knife chopping something.",
+      "cn": "而且排骨，你可以想象刀切东西。"
+    },
+    {
+      "id": 60,
+      "en": "Alright, so a pork chop.",
+      "cn": "好吧，所以猪排。"
+    },
+    {
+      "id": 61,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 62,
+      "en": "And after pork chops, we were ordering some ground beef.",
+      "cn": "在猪排之后，我们点了一些牛肉末。"
+    },
+    {
+      "id": 63,
+      "en": "Alright, so ground beef is another important one.",
+      "cn": "好吧，牛肉末是另一个重要的。"
+    },
+    {
+      "id": 64,
+      "en": "Ground beef is beef that's been chopped up and pushed through a machine that kind of pushes it out in very, very small bits and pieces.",
+      "cn": "牛肉末是被切碎并通过机器压成非常小的块的牛肉。"
+    },
+    {
+      "id": 65,
+      "en": "There's no bones.",
+      "cn": "没有骨头。"
+    },
+    {
+      "id": 66,
+      "en": "So ground comes from the verb to grind.",
+      "cn": "所以牛肉末来自动词“磨”。"
+    },
+    {
+      "id": 67,
+      "en": "So to grind up meat, to make it very, very small pieces.",
+      "cn": "所以磨肉，就是把肉切成非常小的块。"
+    },
+    {
+      "id": 68,
+      "en": "Right, so if you want to make a spaghetti bolognese, the kind of beef you use is ground beef, or even hamburgers.",
+      "cn": "对，所以如果你想做意大利肉酱，使用的牛肉是牛肉末，或者汉堡。"
+    },
+    {
+      "id": 69,
+      "en": "Oh, yeah, exactly.",
+      "cn": "哦，是的，正是如此。"
+    },
+    {
+      "id": 70,
+      "en": "So ground beef, you ground up beef.",
+      "cn": "所以牛肉末，你把牛肉磨碎。"
+    },
+    {
+      "id": 71,
+      "en": "What other things would you grind?",
+      "cn": "你还会磨其他东西吗？"
+    },
+    {
+      "id": 72,
+      "en": "Oh, you could grind your teeth.",
+      "cn": "哦，你可以磨牙。"
+    },
+    {
+      "id": 73,
+      "en": "Some people do that when they're sleeping, they grind their teeth.",
+      "cn": "有些人睡觉时会磨牙。"
+    },
+    {
+      "id": 74,
+      "en": "You can grind... you have pepper grinders.",
+      "cn": "你可以磨...你有胡椒磨。"
+    },
+    {
+      "id": 75,
+      "en": "You know, peppers sometimes come in balls, and you have to grind them to make them smaller and broken down.",
+      "cn": "你知道，胡椒有时是球状的，你必须磨碎它们使其变小。"
+    },
+    {
+      "id": 76,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 77,
+      "en": "So that's ground beef, and from the verb to grind.",
+      "cn": "所以这就是牛肉末，来自动词“磨”。"
+    },
+    {
+      "id": 78,
+      "en": "Now we are buying some boneless chicken breasts.",
+      "cn": "现在我们要买一些去骨鸡胸肉。"
+    },
+    {
+      "id": 79,
+      "en": "Alright, so boneless, as you have guessed, means without bones.",
+      "cn": "好吧，去骨，正如你所猜的，意味着没有骨头。"
+    },
+    {
+      "id": 80,
+      "en": "And chicken breasts are usually just a really nice, juicy, kind of tender cut of meat from the chicken, from the kind of underside of the chicken, where, obviously, yeah, they have it.",
+      "cn": "鸡胸肉通常是来自鸡的非常好、汁多、嫩的肉，来自鸡的底部，显然，是的，他们有。"
+    },
+    {
+      "id": 81,
+      "en": "It's not a wing, it's not a leg, it's just a chicken breast.",
+      "cn": "这不是翅膀，也不是腿，只是鸡胸肉。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so boneless chicken breast.",
+      "cn": "好吧，所以去骨鸡胸肉。"
+    },
+    {
+      "id": 83,
+      "en": "Now usually it is boneless, right, when you buy it at the supermarket.",
+      "cn": "通常在超市买的时候是去骨的，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 85,
+      "en": "Next up we've got some classic deli counter favorites.",
+      "cn": "接下来我们有一些经典的熟食柜台最爱。"
+    },
+    {
+      "id": 86,
+      "en": "These are our cold cuts.",
+      "cn": "这些是我们的冷切肉。"
+    },
+    {
+      "id": 87,
+      "en": "Alright, so cold cuts.",
+      "cn": "好吧，冷切肉。"
+    },
+    {
+      "id": 88,
+      "en": "Now this means that they are cold?",
+      "cn": "这意味着它们是冷的吗？"
+    },
+    {
+      "id": 89,
+      "en": "Oh, well, yeah, they're cold, but I think cold cuts, the most important thing to remember here is that they're mostly like kinds of salami or cured meats.",
+      "cn": "哦，嗯，是的，它们是冷的，但我认为冷切肉，最重要的是要记住的是，它们大多是意大利香肠或腌制肉。"
+    },
+    {
+      "id": 90,
+      "en": "So these are salt cured or they're dried meats.",
+      "cn": "所以这些是盐腌或干肉。"
+    },
+    {
+      "id": 91,
+      "en": "And you usually have them on sandwiches, so like a salami sandwich.",
+      "cn": "你通常在三明治上吃，比如意大利香肠三明治。"
+    },
+    {
+      "id": 92,
+      "en": "So like cured meat, you mean that meat hasn't been cooked?",
+      "cn": "所以像腌制肉，你是说那肉没有被煮熟？"
+    },
+    {
+      "id": 93,
+      "en": "Oh, no, it's not been cooked, but it's treated in a way that allows it to last for a very long time.",
+      "cn": "哦，不，它没有被煮熟，但它以某种方式处理，使其可以保存很长时间。"
+    },
+    {
+      "id": 94,
+      "en": "So they look like long, long tubes of meat.",
+      "cn": "所以它们看起来像长长的肉管。"
+    },
+    {
+      "id": 95,
+      "en": "Or they look very dry.",
+      "cn": "或者看起来非常干。"
+    },
+    {
+      "id": 96,
+      "en": "They look very dry, like beef jerky, for example.",
+      "cn": "它们看起来非常干，比如牛肉干。"
+    },
+    {
+      "id": 97,
+      "en": "Alright, so cured meat.",
+      "cn": "好吧，所以腌制肉。"
+    },
+    {
+      "id": 98,
+      "en": "Now, for example, we have salami and Bologna.",
+      "cn": "例如，我们有意大利香肠和博洛尼亚。"
+    },
+    {
+      "id": 99,
+      "en": "Bologna.",
+      "cn": "博洛尼亚。"
+    },
+    {
+      "id": 100,
+      "en": "Now, it's interesting because Bologna is actually spelled B-O-L-O-G-N-A.",
+      "cn": "有趣的是，博洛尼亚的拼写是B-O-L-O-G-N-A。"
+    },
+    {
+      "id": 101,
+      "en": "So you would say Bologna, Bologna, or something like that.",
+      "cn": "所以你会说博洛尼亚，博洛尼亚，或者类似的东西。"
+    },
+    {
+      "id": 102,
+      "en": "Well, I think it comes from the Italian Bologna.",
+      "cn": "嗯，我认为它来自意大利的博洛尼亚。"
+    },
+    {
+      "id": 103,
+      "en": "But it's definitely a change that happened in the English language when it came over from Italy.",
+      "cn": "但这绝对是英语在从意大利过来的时候发生的变化。"
+    },
+    {
+      "id": 104,
+      "en": "But Bologna is a kind of meat that's got a very funny looking name.",
+      "cn": "但博洛尼亚是一种肉，名字看起来很有趣。"
+    },
+    {
+      "id": 105,
+      "en": "Yeah, see, you're more sophisticated than I am.",
+      "cn": "是的，看到吗，你比我更复杂。"
+    },
+    {
+      "id": 106,
+      "en": "That's why you know the difference.",
+      "cn": "所以你知道区别。"
+    },
+    {
+      "id": 107,
+      "en": "I just speak Italian.",
+      "cn": "我只是会说意大利语。"
+    },
+    {
+      "id": 108,
+      "en": "Alright, so you have salami, Bologna, and pastrami.",
+      "cn": "好吧，所以你有萨拉米，博洛尼亚和帕斯特拉米。"
+    },
+    {
+      "id": 109,
+      "en": "What about ham?",
+      "cn": "火腿呢？"
+    },
+    {
+      "id": 110,
+      "en": "Is that considered a cold cut?",
+      "cn": "那算不算冷切？"
+    },
+    {
+      "id": 111,
+      "en": "You can have ham in the cold cut section because ham sometimes comes in tubes that you slice.",
+      "cn": "你可以在冷切区找到火腿，因为火腿有时是装在你切的管子里。"
+    },
+    {
+      "id": 112,
+      "en": "But ham is also just a normal kind of pork.",
+      "cn": "但火腿也是一种普通的猪肉。"
+    },
+    {
+      "id": 113,
+      "en": "But ham is cured, you know.",
+      "cn": "但火腿是腌制的，你知道。"
+    },
+    {
+      "id": 114,
+      "en": "Like smoked ham.",
+      "cn": "就像烟熏火腿。"
+    },
+    {
+      "id": 115,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 116,
+      "en": "Or smoked Turkey, one of my favorites.",
+      "cn": "或者烟熏火鸡，我最喜欢的之一。"
+    },
+    {
+      "id": 117,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 118,
+      "en": "And now moving on from the cold cuts, we're going to concentrate on steaks.",
+      "cn": "现在从冷切转到牛排，我们要集中讨论牛排。"
+    },
+    {
+      "id": 119,
+      "en": "Ooh, steaks.",
+      "cn": "哦，牛排。"
+    },
+    {
+      "id": 120,
+      "en": "So there are a thousand kinds of steaks in this world and every city seems to have its own kind.",
+      "cn": "这个世界上有成千上万种牛排，每个城市似乎都有自己的一种。"
+    },
+    {
+      "id": 121,
+      "en": "But here we're only looking at three, the first of which is the T-bone.",
+      "cn": "但在这里我们只看三种，第一种是T骨牛排。"
+    },
+    {
+      "id": 122,
+      "en": "Alright, the T-bone steak I think is one of the most popular ones.",
+      "cn": "好吧，T骨牛排我认为是最受欢迎的之一。"
+    },
+    {
+      "id": 123,
+      "en": "It's a steak that's pretty big, right?",
+      "cn": "这是一块相当大的牛排，对吧？"
+    },
+    {
+      "id": 124,
+      "en": "Yeah, well, yeah, it can be.",
+      "cn": "是的，嗯，是的，可能是。"
+    },
+    {
+      "id": 125,
+      "en": "And it has a bone inside that looks like a T.",
+      "cn": "它里面有一根看起来像T的骨头。"
+    },
+    {
+      "id": 126,
+      "en": "Alright, so you're saying, Marco, that the T-bone is named after the shape and the look of this steak.",
+      "cn": "好吧，所以你在说，马尔科，T骨牛排是根据这块牛排的形状和外观命名的。"
+    },
+    {
+      "id": 127,
+      "en": "Yeah, T-bone steak.",
+      "cn": "是的，T骨牛排。"
+    },
+    {
+      "id": 128,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 129,
+      "en": "And as well as our next one is also a rib eye.",
+      "cn": "还有我们的下一个是肋眼牛排。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, so the rib eye I think actually has a piece of the rib in it.",
+      "cn": "好吧，我认为肋眼实际上有一块肋骨在里面。"
+    },
+    {
+      "id": 131,
+      "en": "So the rib is the bone and there's a circle, which is kind of a... The piece of meat is sliced off the rib and the circle is actually part of that rib.",
+      "cn": "所以肋骨是骨头，有一个圆圈，肉块是从肋骨上切下来的，圆圈实际上是那根肋骨的一部分。"
+    },
+    {
+      "id": 132,
+      "en": "So there's a little bit of bone in it.",
+      "cn": "所以里面有一点骨头。"
+    },
+    {
+      "id": 133,
+      "en": "But it's not as bony as the T-bone.",
+      "cn": "但它没有T骨那么多骨头。"
+    },
+    {
+      "id": 134,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 135,
+      "en": "So it does have one small bone that kind of looks like an eye because you can see through it.",
+      "cn": "所以它确实有一小块骨头，看起来像眼睛，因为你可以透过它。"
+    },
+    {
+      "id": 136,
+      "en": "And our next steak has no bone and is the most tender and the best steak you can have, sirloin steak.",
+      "cn": "而我们的下一个牛排没有骨头，是最嫩的，也是你能吃到的最好的牛排，西冷牛排。"
+    },
+    {
+      "id": 137,
+      "en": "So I think the sirloin is definitely the most expensive if you're in a restaurant.",
+      "cn": "所以我认为西冷牛排绝对是最贵的，如果你在餐厅里。"
+    },
+    {
+      "id": 138,
+      "en": "Definitely the most tender, I think, of all those kinds.",
+      "cn": "绝对是所有种类中最嫩的，我认为。"
+    },
+    {
+      "id": 139,
+      "en": "And usually you can have like a big sirloin steak, like a half a kilo, like a 400 gram sirloin steak.",
+      "cn": "通常你可以吃一块大西冷牛排，比如半公斤，像400克的西冷牛排。"
+    },
+    {
+      "id": 140,
+      "en": "I had a friend who ate a full kilo sirloin steak.",
+      "cn": "我有一个朋友吃了一公斤的西冷牛排。"
+    },
+    {
+      "id": 141,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 142,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 143,
+      "en": "Is it a competition or...?",
+      "cn": "是比赛还是...?"
+    },
+    {
+      "id": 144,
+      "en": "No, there's a kind of steak called Bisteca a la Fiorentina in Italy.",
+      "cn": "不，这是一种叫做佛罗伦萨牛排的牛排，在意大利。"
+    },
+    {
+      "id": 145,
+      "en": "It's the Florentine beef steak.",
+      "cn": "它是佛罗伦萨的牛排。"
+    },
+    {
+      "id": 146,
+      "en": "And it can be about a kilo of meat.",
+      "cn": "它可以有大约一公斤的肉。"
+    },
+    {
+      "id": 147,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 148,
+      "en": "I bet you can't even move after that.",
+      "cn": "我敢打赌你吃完后连动都动不了。"
+    },
+    {
+      "id": 149,
+      "en": "No, you fall asleep with your head in your soup on the table.",
+      "cn": "不，你会在桌子上的汤里睡着。"
+    },
+    {
+      "id": 150,
+      "en": "Alright, so that's all the meat-related words that we have for you today.",
+      "cn": "好吧，这就是我们今天为你准备的所有与肉相关的词汇。"
+    },
+    {
+      "id": 151,
+      "en": "So why don't we move on now to Fluency Builder where we're going to take a look at some of the phrases in this dialogue.",
+      "cn": "所以我们为什么不现在转到流利度构建器，我们将看看这个对话中的一些短语。"
+    },
+    {
+      "id": 152,
+      "en": "We're going to look at the phrases if you know what I mean.",
+      "cn": "我们将看看“如果你知道我的意思”的短语。"
+    },
+    {
+      "id": 153,
+      "en": "If you know what I mean.",
+      "cn": "如果你知道我的意思。"
+    },
+    {
+      "id": 154,
+      "en": "Now, I love this phrase, if you know what I mean.",
+      "cn": "现在，我喜欢这个短语，如果你知道我的意思。"
+    },
+    {
+      "id": 155,
+      "en": "I do know what you mean.",
+      "cn": "我知道你是什么意思。"
+    },
+    {
+      "id": 156,
+      "en": "Well, it's weird.",
+      "cn": "嗯，这很奇怪。"
+    },
+    {
+      "id": 157,
+      "en": "I like it too.",
+      "cn": "我也喜欢。"
+    },
+    {
+      "id": 158,
+      "en": "So you can use it for sarcasm.",
+      "cn": "所以你可以用它来表示讽刺。"
+    },
+    {
+      "id": 159,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 160,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 161,
+      "en": "Or you can use it to kind of insinuate something, right?",
+      "cn": "或者你可以用它来暗示某些事情，对吧？"
+    },
+    {
+      "id": 162,
+      "en": "Exactly, yeah.",
+      "cn": "正是，是的。"
+    },
+    {
+      "id": 163,
+      "en": "So here's what you're saying.",
+      "cn": "所以你在说什么。"
+    },
+    {
+      "id": 164,
+      "en": "You're saying there's a double meaning in what I want to say.",
+      "cn": "你在说我想说的有双重含义。"
+    },
+    {
+      "id": 165,
+      "en": "So there's two things I could say and I'm not going to say it outright, but, you know, this thing that we can't really say.",
+      "cn": "所以我可以说两件事，我不会直接说出来，但，你知道，这件我们不能真的说的事情。"
+    },
+    {
+      "id": 166,
+      "en": "So for example, we can say... She likes to go out, if you know what I mean.",
+      "cn": "所以例如，我们可以说... 她喜欢出去，如果你知道我的意思。"
+    },
+    {
+      "id": 167,
+      "en": "Alright, so you're insinuating that not only does she like to go out, but maybe... Maybe she goes out a lot.",
+      "cn": "好吧，所以你在暗示她不仅喜欢出去，也许...也许她出去很多。"
+    },
+    {
+      "id": 168,
+      "en": "A lot, or maybe she gets drunk or something like that.",
+      "cn": "很多，或者也许她喝醉了，或者类似的事情。"
+    },
+    {
+      "id": 169,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 170,
+      "en": "So it's kind of like a double meaning, but you're trying to be subtle?",
+      "cn": "所以这有点像双重含义，但你试图保持微妙？"
+    },
+    {
+      "id": 171,
+      "en": "Yeah, but it's not so subtle because you're actually saying like, this is not what I mean.",
+      "cn": "是的，但这并不那么微妙，因为你实际上是在说，这不是我所指的。"
+    },
+    {
+      "id": 172,
+      "en": "Or she's eating for two, if you know what I mean.",
+      "cn": "或者她在为两个人吃东西，如果你知道我的意思。"
+    },
+    {
+      "id": 173,
+      "en": "Oh, there we go.",
+      "cn": "哦，来了。"
+    },
+    {
+      "id": 174,
+      "en": "So you're insinuating that...",
+      "cn": "所以你在暗示..."
+    },
+    {
+      "id": 175,
+      "en": "Well, you're not really insinuating, you're telling me that.",
+      "cn": "嗯，你并不是在暗示，你是在告诉我。"
+    },
+    {
+      "id": 176,
+      "en": "She's pregnant!",
+      "cn": "她怀孕了！"
+    },
+    {
+      "id": 177,
+      "en": "Eating for two is a common idiom in English that means that a person, a woman, has a, well, is going to have a baby.",
+      "cn": "“为两个人吃东西”是英语中一个常见的成语，意思是一个人，女人，将要有一个宝宝。"
+    },
+    {
+      "id": 178,
+      "en": "So here I'm saying, hey, do you know this idiom?",
+      "cn": "所以在这里我在说，嘿，你知道这个成语吗？"
+    },
+    {
+      "id": 179,
+      "en": "She's eating for two, if you know what I mean.",
+      "cn": "她在为两个人吃东西，如果你知道我的意思。"
+    },
+    {
+      "id": 180,
+      "en": "Wink, wink, wink.",
+      "cn": "眨眼，眨眼，眨眼。"
+    },
+    {
+      "id": 181,
+      "en": "Wink, wink.",
+      "cn": "眨眼，眨眼。"
+    },
+    {
+      "id": 182,
+      "en": "So now why don't we take a look at some other examples of how we could use if you know what I mean in different circumstances when you're trying to insinuate something.",
+      "cn": "所以现在我们为什么不看看一些其他例子，看看我们如何在不同情况下使用“如果你知道我的意思”来暗示某些事情。"
+    },
+    {
+      "id": 183,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 184,
+      "en": "She's eating for two now, if you know what I mean.",
+      "cn": "她现在在为两个人吃东西，如果你知道我的意思。"
+    },
+    {
+      "id": 185,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 186,
+      "en": "Tim hit a home run today, if you know what I mean.",
+      "cn": "蒂姆今天打了个全垒打，如果你知道我的意思。"
+    },
+    {
+      "id": 187,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 188,
+      "en": "Jim and Laura are going their separate ways, if you know what I mean.",
+      "cn": "吉姆和劳拉各走各的路，如果你知道我的意思。"
+    },
+    {
+      "id": 189,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 190,
+      "en": "So now that that's clear, why don't we move on to our next phrase.",
+      "cn": "所以现在这很清楚，我们为什么不转到下一个短语。"
+    },
+    {
+      "id": 191,
+      "en": "So this one is a counting phrase.",
+      "cn": "所以这个是一个计数短语。"
+    },
+    {
+      "id": 192,
+      "en": "And for those of you who have heard the word dozen before, it might not be so new.",
+      "cn": "对于那些听过“打”这个词的人来说，这可能并不新鲜。"
+    },
+    {
+      "id": 193,
+      "en": "The phrase is half a dozen.",
+      "cn": "这个短语是“半打”。"
+    },
+    {
+      "id": 194,
+      "en": "Half a dozen.",
+      "cn": "半打。"
+    },
+    {
+      "id": 195,
+      "en": "So that means half of twelve.",
+      "cn": "所以这意味着十二的一半。"
+    },
+    {
+      "id": 196,
+      "en": "Twelve.",
+      "cn": "十二。"
+    },
+    {
+      "id": 197,
+      "en": "So a dozen is twelve.",
+      "cn": "所以一打是十二。"
+    },
+    {
+      "id": 198,
+      "en": "And it's, I'm not really sure when this started being used in English, but a dozen is twelve and half a dozen is then six.",
+      "cn": "我不太确定这个短语是什么时候开始在英语中使用的，但一打是十二，半打就是六。"
+    },
+    {
+      "id": 199,
+      "en": "Now there's another phrase or another saying that's very common.",
+      "cn": "现在还有另一个短语或说法是非常常见的。"
+    },
+    {
+      "id": 200,
+      "en": "A dime a dozen.",
+      "cn": "一毛一打。"
+    },
+    {
+      "id": 201,
+      "en": "He's a dime a dozen.",
+      "cn": "他是一毛一打。"
+    },
+    {
+      "id": 202,
+      "en": "So that means you can get twelve of the same type of guys for ten cents.",
+      "cn": "这意味着你可以用十美分买到同类型的十二个家伙。"
+    },
+    {
+      "id": 203,
+      "en": "Right, so they're easy to find.",
+      "cn": "对，所以他们很容易找到。"
+    },
+    {
+      "id": 204,
+      "en": "They're easy to find.",
+      "cn": "他们很容易找到。"
+    },
+    {
+      "id": 205,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 206,
+      "en": "The dime a dozen.",
+      "cn": "一毛一打。"
+    },
+    {
+      "id": 207,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 208,
+      "en": "And moving on to our last one.",
+      "cn": "继续我们的最后一个。"
+    },
+    {
+      "id": 209,
+      "en": "When they were talking, they said something about the meat being lean, extra lean.",
+      "cn": "当他们在谈论时，他们提到肉是瘦肉，额外瘦。"
+    },
+    {
+      "id": 210,
+      "en": "Okay, lean, this does not mean lean on a door.",
+      "cn": "好吧，瘦，这并不是说靠在门上。"
+    },
+    {
+      "id": 211,
+      "en": "This is not like resting on something.",
+      "cn": "这不是像靠在某物上。"
+    },
+    {
+      "id": 212,
+      "en": "This is actually a kind of way to describe food.",
+      "cn": "这实际上是一种描述食物的方式。"
+    },
+    {
+      "id": 213,
+      "en": "And so food is lean if it's not got much fat.",
+      "cn": "所以食物是瘦的，如果它没有很多脂肪。"
+    },
+    {
+      "id": 214,
+      "en": "It's not fatty.",
+      "cn": "它不是油腻的。"
+    },
+    {
+      "id": 215,
+      "en": "Okay, so if it's lean, it doesn't have much fat.",
+      "cn": "好吧，所以如果它是瘦的，它没有很多脂肪。"
+    },
+    {
+      "id": 216,
+      "en": "Exactly, so I prefer to eat lean meats, so I often eat birds and poultry.",
+      "cn": "正是如此，所以我更喜欢吃瘦肉，所以我经常吃鸟类和家禽。"
+    },
+    {
+      "id": 217,
+      "en": "So chicken, I like it pretty lean.",
+      "cn": "所以鸡肉，我喜欢它相当瘦。"
+    },
+    {
+      "id": 218,
+      "en": "And if it's got fat on it, I'll cut the fat off.",
+      "cn": "如果上面有脂肪，我会把脂肪切掉。"
+    },
+    {
+      "id": 219,
+      "en": "Okay, like the skin.",
+      "cn": "好吧，比如皮。"
+    },
+    {
+      "id": 220,
+      "en": "The skin is fat, right?",
+      "cn": "皮是脂肪，对吗？"
+    },
+    {
+      "id": 221,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 222,
+      "en": "Alright, so you can have lean beef.",
+      "cn": "好吧，所以你可以有瘦牛肉。"
+    },
+    {
+      "id": 223,
+      "en": "It doesn't have much fat around it.",
+      "cn": "它周围没有很多脂肪。"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, in America, actually, on the packages at the supermarket, it often says the percentage of meat that you have.",
+      "cn": "是的，在美国，实际上，在超市的包装上，通常会标明你所拥有的肉的百分比。"
+    },
+    {
+      "id": 225,
+      "en": "So it's 95% lean or 98% lean.",
+      "cn": "所以是95%瘦或98%瘦。"
+    },
+    {
+      "id": 226,
+      "en": "So that means you have 3% fat in there.",
+      "cn": "这意味着里面有3%的脂肪。"
+    },
+    {
+      "id": 227,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 228,
+      "en": "Or two.",
+      "cn": "或者两。"
+    },
+    {
+      "id": 229,
+      "en": "My math skills are amazing.",
+      "cn": "我的数学技能真棒。"
+    },
+    {
+      "id": 230,
+      "en": "Alright, so now that we've finished with all of these words on Fluency Builder, let's take a look at our dialogue for the last time.",
+      "cn": "好吧，现在我们已经完成了所有这些流利构建器上的单词，让我们最后一次看看我们的对话。"
+    },
+    {
+      "id": 231,
+      "en": "Hi, what can I get for you?",
+      "cn": "嗨，我能为你做些什么？"
+    },
+    {
+      "id": 232,
+      "en": "I'd like half a pound of ground beef, please.",
+      "cn": "我想要半磅的绞牛肉，谢谢。"
+    },
+    {
+      "id": 233,
+      "en": "Good choice.",
+      "cn": "好选择。"
+    },
+    {
+      "id": 234,
+      "en": "Our ground beef is extra lean, if you know what I mean.",
+      "cn": "我们的绞牛肉是额外瘦的，如果你知道我是什么意思。"
+    },
+    {
+      "id": 235,
+      "en": "Could I also have half a dozen pork chops and two pounds of boneless chicken breast?",
+      "cn": "我还可以要半打猪排和两磅无骨鸡胸肉吗？"
+    },
+    {
+      "id": 236,
+      "en": "No, no, no chicken breasts at the moment.",
+      "cn": "不，不，现在没有鸡胸肉。"
+    },
+    {
+      "id": 237,
+      "en": "But we have some nice chicken.",
+      "cn": "但我们有一些不错的鸡肉。"
+    },
+    {
+      "id": 238,
+      "en": "Thighs.",
+      "cn": "大腿肉。"
+    },
+    {
+      "id": 239,
+      "en": "No, that won't do.",
+      "cn": "不，这不行。"
+    },
+    {
+      "id": 240,
+      "en": "I'll take this smoked ham you have here.",
+      "cn": "我会拿你这里的烟熏火腿。"
+    },
+    {
+      "id": 241,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 242,
+      "en": "Is there anything else?",
+      "cn": "还有其他的吗？"
+    },
+    {
+      "id": 243,
+      "en": "Is this salami and Bologna you have here?",
+      "cn": "你这里有意大利腊肠和博洛尼亚吗？"
+    },
+    {
+      "id": 244,
+      "en": "Yes.",
+      "cn": "有的。"
+    },
+    {
+      "id": 245,
+      "en": "It's very fine meat.",
+      "cn": "这是非常好的肉。"
+    },
+    {
+      "id": 246,
+      "en": "Made it myself.",
+      "cn": "我自己做的。"
+    },
+    {
+      "id": 247,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 248,
+      "en": "Okay, that's it.",
+      "cn": "好吧，就这些。"
+    },
+    {
+      "id": 249,
+      "en": "Wait.",
+      "cn": "等等。"
+    },
+    {
+      "id": 250,
+      "en": "We have t-bone, ribeye, and sirloin sticks.",
+      "cn": "我们有T骨、肋眼和西冷牛排。"
+    },
+    {
+      "id": 251,
+      "en": "They are very fresh.",
+      "cn": "它们非常新鲜。"
+    },
+    {
+      "id": 252,
+      "en": "Just came from the slaughterhouse.",
+      "cn": "刚从屠宰场过来。"
+    },
+    {
+      "id": 253,
+      "en": "No, that's okay, really.",
+      "cn": "不，真的没关系。"
+    },
+    {
+      "id": 254,
+      "en": "I think that's all for today.",
+      "cn": "我想今天就这些。"
+    },
+    {
+      "id": 255,
+      "en": "Okay, that'll be $34.50.",
+      "cn": "好的，总共34.50美元。"
+    },
+    {
+      "id": 256,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 257,
+      "en": "So, uh, Catherine, are you a big beef or meat eater?",
+      "cn": "所以，呃，凯瑟琳，你是个大牛肉或肉食爱好者吗？"
+    },
+    {
+      "id": 258,
+      "en": "Definitely am.",
+      "cn": "绝对是。"
+    },
+    {
+      "id": 259,
+      "en": "It helps that my partner in crime is from Kansas City and they have the best, among the best steaks in our entire country.",
+      "cn": "我有个犯罪搭档来自堪萨斯城，他们有我们整个国家最好的牛排之一。"
+    },
+    {
+      "id": 260,
+      "en": "In Kansas City.",
+      "cn": "在堪萨斯城。"
+    },
+    {
+      "id": 261,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 262,
+      "en": "I actually miss, um, there was back in California, we had the $6 burger from Carl's Jr. It was just basically beef, bacon, cheese.",
+      "cn": "我实际上很想念，嗯，加州有卡尔斯·朱尼尔的6美元汉堡。 基本上就是牛肉、培根、奶酪。"
+    },
+    {
+      "id": 263,
+      "en": "It was just like this huge burger with full of meat and obviously a lot of calories.",
+      "cn": "就像这个巨大的汉堡，里面满是肉，显然还有很多卡路里。"
+    },
+    {
+      "id": 264,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 265,
+      "en": "But it was delicious.",
+      "cn": "但它很好吃。"
+    },
+    {
+      "id": 266,
+      "en": "I'm, uh, in Ecuador, we are very used to having some meat product every day with our food.",
+      "cn": "我，呃，在厄瓜多尔，我们每天都习惯吃一些肉制品。"
+    },
+    {
+      "id": 267,
+      "en": "Yeah, well, it's the same in the Midwest, actually, from where we're from.",
+      "cn": "是的，实际上在我们来自的中西部也是一样。"
+    },
+    {
+      "id": 268,
+      "en": "It's the same in the Midwest because people in the Midwest generally think that if you're not eating meat, then, you know, what are you eating?",
+      "cn": "在中西部也是一样，因为中西部的人通常认为如果你不吃肉，那你在吃什么呢？"
+    },
+    {
+      "id": 269,
+      "en": "Bread?",
+      "cn": "面包？"
+    },
+    {
+      "id": 270,
+      "en": "So, uh, meat is considered a healthy part of the day and you definitely eat it with your meals.",
+      "cn": "所以，呃，肉被认为是一天中健康的一部分，你绝对会在餐中吃它。"
+    },
+    {
+      "id": 271,
+      "en": "Yeah, and I'm sure our vegetarian listeners might not appreciate this, but, you know, it's just kind of different diets.",
+      "cn": "是的，我相信我们的素食听众可能不太喜欢这个，但，你知道，这只是不同的饮食。"
+    },
+    {
+      "id": 272,
+      "en": "Some people eat, for example, rice every day.",
+      "cn": "有些人每天吃米饭。"
+    },
+    {
+      "id": 273,
+      "en": "So, where in other countries you wouldn't really have rice every day.",
+      "cn": "所以，在其他国家你不会每天吃米饭。"
+    },
+    {
+      "id": 274,
+      "en": "Or, for example, when I was in Chile, I had a lot of potatoes.",
+      "cn": "或者，例如，当我在智利时，我吃了很多土豆。"
+    },
+    {
+      "id": 275,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 276,
+      "en": "A lot of potatoes.",
+      "cn": "很多土豆。"
+    },
+    {
+      "id": 277,
+      "en": "Have you ever had an Argentine steak?",
+      "cn": "你吃过阿根廷牛排吗？"
+    },
+    {
+      "id": 278,
+      "en": "I hear they have the best beef in the world.",
+      "cn": "我听说他们有世界上最好的牛肉。"
+    },
+    {
+      "id": 279,
+      "en": "They are not only delicious, but they are very inexpensive and it's amazing.",
+      "cn": "它们不仅美味，而且非常便宜，真是惊人。"
+    },
+    {
+      "id": 280,
+      "en": "You can have a, like, a complete, um, steak buffet for, like, I don't know, I can't even remember, but it was just, I sat there for three hours and couldn't move and kept eating.",
+      "cn": "你可以吃到像完整的，嗯，牛排自助餐，像，我不知道，我甚至记不起来，但我就是坐在那里三个小时，动不了，继续吃。"
+    },
+    {
+      "id": 281,
+      "en": "Yeah, was it, is it true you can eat it with a spoon?",
+      "cn": "是的，是真的吗？你可以用勺子吃吗？"
+    },
+    {
+      "id": 282,
+      "en": "It's so soft?",
+      "cn": "它是如此柔软？"
+    },
+    {
+      "id": 283,
+      "en": "Some of the meat is very, very tender and not if it's grilled, you can't really do that, but in other preparations it's almost like that.",
+      "cn": "有些肉非常，非常嫩，如果是烤的，你真的不能那样做，但在其他准备中几乎是这样的。"
+    },
+    {
+      "id": 284,
+      "en": "Mmm, with a nice butter sauce.",
+      "cn": "嗯，配上美味的黄油酱。"
+    },
+    {
+      "id": 285,
+      "en": "Mmm, herbs.",
+      "cn": "嗯，香草。"
+    },
+    {
+      "id": 286,
+      "en": "Alright, so, uh... Making me hungry.",
+      "cn": "好吧，所以，呃... 让我饿了。"
+    },
+    {
+      "id": 287,
+      "en": "I know, you've made me hungry.",
+      "cn": "我知道，你让我饿了。"
+    },
+    {
+      "id": 288,
+      "en": "I think we're going to take off and have some, uh, a burger or something like that.",
+      "cn": "我想我们要走了，去吃个汉堡或类似的东西。"
+    },
+    {
+      "id": 289,
+      "en": "Alright, so, uh, if you have any questions, any comments, please come to our website at EnglishPod.com and, uh, we're there to answer any doubts.",
+      "cn": "好吧，所以，呃，如果你有任何问题，任何评论，请访问我们的网站EnglishPod.com，呃，我们会回答任何疑问。"
+    },
+    {
+      "id": 290,
+      "en": "And we'd love to know what your favorite foods are, meat or otherwise, so post something on our website.",
+      "cn": "我们也想知道你最喜欢的食物是什么，无论是肉类还是其他，所以在我们的网站上发布一些内容。"
+    },
+    {
+      "id": 291,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 292,
+      "en": "Hope to see you there soon.",
+      "cn": "希望很快在那见到你。"
+    },
+    {
+      "id": 293,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 294,
+      "en": "Bye, bye.",
+      "cn": "再见。"
+    }
+  ]
+}

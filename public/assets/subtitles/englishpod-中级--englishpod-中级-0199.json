@@ -1,0 +1,1284 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0199",
+  "title": "EnglishPod 中级 0199",
+  "totalSegments": 255,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And my name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we might just teach you how to save a life.",
+      "cn": "今天我们可能会教你如何拯救生命。"
+    },
+    {
+      "id": 5,
+      "en": "That's right, we're going to save a life and we are going to do this by applying first aid.",
+      "cn": "没错，我们要拯救生命，方法是应用急救。"
+    },
+    {
+      "id": 6,
+      "en": "So let's take a look at vocabulary preview and find out just exactly what this phrase means.",
+      "cn": "让我们先看看词汇预览，了解这个短语的确切含义。"
+    },
+    {
+      "id": 7,
+      "en": "Okay, so we have this word first aid.",
+      "cn": "好的，我们有这个词急救。"
+    },
+    {
+      "id": 8,
+      "en": "It's two parts.",
+      "cn": "它有两个部分。"
+    },
+    {
+      "id": 9,
+      "en": "So first is... Before.",
+      "cn": "第一个是……之前。"
+    },
+    {
+      "id": 10,
+      "en": "Before.",
+      "cn": "之前。"
+    },
+    {
+      "id": 11,
+      "en": "Early.",
+      "cn": "早期。"
+    },
+    {
+      "id": 12,
+      "en": "Early, alright.",
+      "cn": "早期，好的。"
+    },
+    {
+      "id": 13,
+      "en": "And aid.",
+      "cn": "还有救助。"
+    },
+    {
+      "id": 14,
+      "en": "So when you aid someone, you help them, right?",
+      "cn": "当你救助某人时，你是在帮助他们，对吧？"
+    },
+    {
+      "id": 15,
+      "en": "Right, so this is actually a noun.",
+      "cn": "对，所以这实际上是一个名词。"
+    },
+    {
+      "id": 16,
+      "en": "Aid is help.",
+      "cn": "救助就是帮助。"
+    },
+    {
+      "id": 17,
+      "en": "So we're applying first aid.",
+      "cn": "所以我们在进行急救。"
+    },
+    {
+      "id": 18,
+      "en": "This means we're the first person to come and help someone.",
+      "cn": "这意味着我们是第一个来帮助某人的人。"
+    },
+    {
+      "id": 19,
+      "en": "So for example, if someone is bleeding, the first aid is to stop the bleeding.",
+      "cn": "例如，如果有人在流血，急救就是止血。"
+    },
+    {
+      "id": 20,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 21,
+      "en": "Alright, so first aid.",
+      "cn": "好的，所以急救。"
+    },
+    {
+      "id": 22,
+      "en": "We're going to learn all about this.",
+      "cn": "我们将学习所有关于这个的知识。"
+    },
+    {
+      "id": 23,
+      "en": "Take a listen to today's video.",
+      "cn": "听听今天的视频。"
+    },
+    {
+      "id": 24,
+      "en": "It's dialogue and we'll be back in a moment.",
+      "cn": "这是对话，我们马上回来。"
+    },
+    {
+      "id": 25,
+      "en": "Hey, Joe, where have you been these past few days?",
+      "cn": "嘿，Joe，这几天你去哪儿了？"
+    },
+    {
+      "id": 26,
+      "en": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
+      "cn": "我一直忙于一周前在红十字会开始的急救课程。"
+    },
+    {
+      "id": 27,
+      "en": "Cool.",
+      "cn": "酷。"
+    },
+    {
+      "id": 28,
+      "en": "I've always wanted to do something like that.",
+      "cn": "我一直想做这样的事情。"
+    },
+    {
+      "id": 29,
+      "en": "Have you learned anything useful?",
+      "cn": "你学到了什么有用的东西吗？"
+    },
+    {
+      "id": 30,
+      "en": "For sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 31,
+      "en": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR.",
+      "cn": "我们学会了如何施加压力止血，如何检查脉搏，甚至如何进行心肺复苏。"
+    },
+    {
+      "id": 32,
+      "en": "Have you treated any real emergencies?",
+      "cn": "你处理过真实的紧急情况吗？"
+    },
+    {
+      "id": 33,
+      "en": "Well, they took us along with some paramedics.",
+      "cn": "嗯，他们带我们和一些急救人员一起去。"
+    },
+    {
+      "id": 34,
+      "en": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "cn": "有一个人从摩托车上摔下来，受了脑震荡，还有几处复合骨折。"
+    },
+    {
+      "id": 35,
+      "en": "His wounds were pretty serious, so they had to rush him to the hospital.",
+      "cn": "他的伤势相当严重，所以他们不得不把他送往医院。"
+    },
+    {
+      "id": 36,
+      "en": "It was intense.",
+      "cn": "这很紧张。"
+    },
+    {
+      "id": 37,
+      "en": "I can imagine.",
+      "cn": "我能想象。"
+    },
+    {
+      "id": 38,
+      "en": "I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon.",
+      "cn": "我一看到血就会晕倒，所以我想我不会很快参加这样的课程。"
+    },
+    {
+      "id": 39,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 40,
+      "en": "So, there are a lot of medical and health-related terms in this dialogue, so why don't we take a look at a couple of those in Language Takeaway?",
+      "cn": "这个对话中有很多医学和健康相关的术语，为什么我们不看看语言要点中的几个呢？"
+    },
+    {
+      "id": 41,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 42,
+      "en": "Well, starting us out here in Language Takeaway, we have the name of an organization that's not-for-profit, that's very, very, very famous.",
+      "cn": "好的，在语言要点中，我们有一个非常著名的非营利组织的名称。"
+    },
+    {
+      "id": 43,
+      "en": "This is called the Red Cross.",
+      "cn": "这就是红十字会。"
+    },
+    {
+      "id": 44,
+      "en": "Okay, so the Red Cross.",
+      "cn": "好的，红十字会。"
+    },
+    {
+      "id": 45,
+      "en": "And this is usually a place where you donate blood, you can also get some blood exams done.",
+      "cn": "这通常是一个你可以捐献血液的地方，你也可以进行一些血液检查。"
+    },
+    {
+      "id": 46,
+      "en": "What else do you do there?",
+      "cn": "你还可以在那做什么？"
+    },
+    {
+      "id": 47,
+      "en": "Well, the Red Cross is an organization that has offices and clinics all over the world.",
+      "cn": "嗯，红十字会是一个在全球各地都有办公室和诊所的组织。"
+    },
+    {
+      "id": 48,
+      "en": "And if you want to help, you can volunteer, you can donate money, and you can donate blood.",
+      "cn": "如果你想帮助，可以志愿服务，可以捐钱，也可以捐血。"
+    },
+    {
+      "id": 49,
+      "en": "But the Red Cross will take this and it will help other people, people who have been in disasters or wars.",
+      "cn": "但红十字会会将这些帮助其他人，帮助那些经历过灾难或战争的人。"
+    },
+    {
+      "id": 50,
+      "en": "And so, maybe the Red Cross office near you will have blood banks and blood donations, but really, they help people, they provide aid to people who are unhealthy or sick or have been in a war.",
+      "cn": "所以，也许你附近的红十字会会有血库和献血，但实际上，他们帮助人们，向那些不健康、生病或经历过战争的人提供援助。"
+    },
+    {
+      "id": 51,
+      "en": "A very humanitarian organization, so worth it.",
+      "cn": "一个非常人道的组织，值得支持。"
+    },
+    {
+      "id": 52,
+      "en": "Go to the Red Cross and donate blood.",
+      "cn": "去红十字会献血。"
+    },
+    {
+      "id": 53,
+      "en": "In the dialogue, the two people are discussing real emergencies.",
+      "cn": "在对话中，两个人讨论真实的紧急情况。"
+    },
+    {
+      "id": 54,
+      "en": "And one person says he went along with some paramedics.",
+      "cn": "有一个人说他和一些急救人员一起去。"
+    },
+    {
+      "id": 55,
+      "en": "So, a paramedic is a person.",
+      "cn": "所以，急救人员是一个人。"
+    },
+    {
+      "id": 56,
+      "en": "It's a person.",
+      "cn": "这是一个职业，对吧？"
+    },
+    {
+      "id": 57,
+      "en": "It's a profession, right?",
+      "cn": "成为急救人员。"
+    },
+    {
+      "id": 58,
+      "en": "To be a paramedic.",
+      "cn": "正确，但这并不是真正的医生。"
+    },
+    {
+      "id": 60,
+      "en": "So, what's the difference here?",
+      "cn": "那么，这里有什么区别？"
+    },
+    {
+      "id": 61,
+      "en": "So, paramedics are something like nurses.",
+      "cn": "所以，急救人员有点像护士。"
+    },
+    {
+      "id": 62,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 63,
+      "en": "That travel in an ambulance and get to an emergency or get to the scene of an accident and help out a person.",
+      "cn": "他们在救护车上旅行，赶到紧急情况或事故现场，帮助人。"
+    },
+    {
+      "id": 64,
+      "en": "So, they immobilize the person, they give them oxygen, they make sure that they stay alive until they reach the hospital.",
+      "cn": "所以，他们固定伤者，给他们氧气，确保他们在到达医院之前保持生命。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, so a paramedic, you might hear the word medic, it's the same thing.",
+      "cn": "好的，所以急救人员，你可能会听到“医务人员”这个词，它是一样的。"
+    },
+    {
+      "id": 66,
+      "en": "A paramedic is like a nurse.",
+      "cn": "急救人员就像护士。"
+    },
+    {
+      "id": 67,
+      "en": "They're not a doctor, but they're usually the first person to help when there's been an accident or a disaster.",
+      "cn": "他们不是医生，但通常是事故或灾难发生时第一个提供帮助的人。"
+    },
+    {
+      "id": 68,
+      "en": "Right, exactly.",
+      "cn": "对，完全正确。"
+    },
+    {
+      "id": 69,
+      "en": "So, if there is an earthquake and many people are stuck in the buildings, usually paramedics will be the ones on the scene trying to get them out and helping them by applying first aid.",
+      "cn": "所以，如果发生地震，很多人被困在建筑物里，通常急救人员会是现场试图救出他们并通过施行急救来帮助他们的人。"
+    },
+    {
+      "id": 70,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 71,
+      "en": "Well, after that, we have finally some of the injuries that a paramedic might see.",
+      "cn": "好的，接下来，我们终于有一些急救人员可能会看到的伤害。"
+    },
+    {
+      "id": 72,
+      "en": "The first injury is usually associated with the head.",
+      "cn": "第一个伤害通常与头部有关。"
+    },
+    {
+      "id": 73,
+      "en": "This is called a concussion.",
+      "cn": "这被称为脑震荡。"
+    },
+    {
+      "id": 74,
+      "en": "You suffered a concussion.",
+      "cn": "你受了脑震荡。"
+    },
+    {
+      "id": 75,
+      "en": "Sounds painful.",
+      "cn": "听起来很痛。"
+    },
+    {
+      "id": 76,
+      "en": "Yeah, it does.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 77,
+      "en": "And actually, it's very common, I think, right?",
+      "cn": "实际上，我认为这很常见，对吧？"
+    },
+    {
+      "id": 78,
+      "en": "If you fall and you hit your head.",
+      "cn": "如果你摔倒并撞到头。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "So, a concussion is really when your brain hits your skull.",
+      "cn": "所以，脑震荡实际上是你的大脑撞击你的颅骨。"
+    },
+    {
+      "id": 81,
+      "en": "That's the bone that protects your brain.",
+      "cn": "颅骨是保护你大脑的骨头。"
+    },
+    {
+      "id": 82,
+      "en": "So, really, you're hitting your head really, really hard.",
+      "cn": "所以，实际上，你是非常非常用力地撞击你的头。"
+    },
+    {
+      "id": 83,
+      "en": "And usually, this can have some bad side effects, like you lose your memory or you're a little bit confused.",
+      "cn": "通常，这可能会有一些不良副作用，比如失去记忆或有点困惑。"
+    },
+    {
+      "id": 84,
+      "en": "It's very common with football players.",
+      "cn": "这在足球运动员中非常常见。"
+    },
+    {
+      "id": 85,
+      "en": "Yeah, yeah, with any contact sport, if people suffer concussions, and it's just like, imagine when you have a DVD player and you hit it, and the disc skips or it goes back.",
+      "cn": "是的，是的，在任何接触性运动中，如果人们遭受脑震荡，就像想象一下，当你有一个DVD播放器并且你撞到它，光盘跳过或回退。"
+    },
+    {
+      "id": 86,
+      "en": "That's kind of what happens to your brain.",
+      "cn": "这就是你的大脑发生的事情。"
+    },
+    {
+      "id": 87,
+      "en": "So, you can suffer memory loss.",
+      "cn": "所以，你可能会遭受记忆丧失。"
+    },
+    {
+      "id": 88,
+      "en": "You can even lose your sight temporarily.",
+      "cn": "你甚至可能暂时失去视力。"
+    },
+    {
+      "id": 89,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 90,
+      "en": "So, this can be very serious and obviously should be looked at by a paramedic.",
+      "cn": "所以，这可能非常严重，显然应该由急救人员来检查。"
+    },
+    {
+      "id": 91,
+      "en": "We also have another situation that is similarly serious.",
+      "cn": "我们还有另一种情况同样严重。"
+    },
+    {
+      "id": 92,
+      "en": "It's called a compound fracture.",
+      "cn": "这被称为复合骨折。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, so what is a fracture or to fracture?",
+      "cn": "好的，那么什么是骨折或骨折？"
+    },
+    {
+      "id": 94,
+      "en": "A fracture is a thing.",
+      "cn": "骨折是一种情况。"
+    },
+    {
+      "id": 95,
+      "en": "It's a break.",
+      "cn": "这是一个断裂。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so you could say, I broke my arm.",
+      "cn": "好的，所以你可以说，我摔断了手臂。"
+    },
+    {
+      "id": 97,
+      "en": "But you could also say, I fractured my arm.",
+      "cn": "但你也可以说，我骨折了手臂。"
+    },
+    {
+      "id": 98,
+      "en": "This is the more medical term.",
+      "cn": "这是更医学的术语。"
+    },
+    {
+      "id": 99,
+      "en": "But, of course, there are different ways to break something.",
+      "cn": "当然，骨折有不同的方式。"
+    },
+    {
+      "id": 100,
+      "en": "And so, in medicine, we have a compound fracture.",
+      "cn": "所以，在医学上，我们有复合骨折。"
+    },
+    {
+      "id": 101,
+      "en": "So, a compound fracture is pretty painful and it's a little bit more serious.",
+      "cn": "所以，复合骨折非常疼痛，而且有点严重。"
+    },
+    {
+      "id": 102,
+      "en": "You have a simple fracture, which is when your bone just breaks.",
+      "cn": "你还有简单骨折，就是骨头直接断了。"
+    },
+    {
+      "id": 103,
+      "en": "Or a hairline, which means that there's a little thin part where it's broken but it's not really serious.",
+      "cn": "或者是发际线骨折，意味着有一小部分骨头断了，但并不严重。"
+    },
+    {
+      "id": 104,
+      "en": "In this case, your bones actually push towards each other.",
+      "cn": "在这种情况下，你的骨头实际上是相互推挤的。"
+    },
+    {
+      "id": 105,
+      "en": "They kind of form like a little mountain, right?",
+      "cn": "它们有点像小山一样，对吧？"
+    },
+    {
+      "id": 106,
+      "en": "Or they're on top of each other.",
+      "cn": "或者它们叠在一起。"
+    },
+    {
+      "id": 107,
+      "en": "Think about when two cars hit and they kind of crash up into each other.",
+      "cn": "想象一下两辆车相撞，它们互相撞击。"
+    },
+    {
+      "id": 108,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 109,
+      "en": "It's like that, but it's your bone.",
+      "cn": "就是这样，但这是你的骨头。"
+    },
+    {
+      "id": 110,
+      "en": "So, it's extremely painful.",
+      "cn": "所以，这非常疼痛。"
+    },
+    {
+      "id": 111,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 112,
+      "en": "It's very, very painful.",
+      "cn": "非常非常疼痛。"
+    },
+    {
+      "id": 113,
+      "en": "So, the person suffered a concussion and a compound fracture.",
+      "cn": "所以，这个人遭受了脑震荡和复合骨折。"
+    },
+    {
+      "id": 114,
+      "en": "Now, the friend that he was talking to said, wow, you know, it sounds amazing.",
+      "cn": "现在，他正在交谈的朋友说，哇，你知道，这听起来很惊人。"
+    },
+    {
+      "id": 115,
+      "en": "It's really cool that you're doing that.",
+      "cn": "你在做的事情真的很酷。"
+    },
+    {
+      "id": 116,
+      "en": "But, you know what?",
+      "cn": "但是，你知道吗？"
+    },
+    {
+      "id": 117,
+      "en": "I faint when I see blood.",
+      "cn": "我看到血就会晕倒。"
+    },
+    {
+      "id": 118,
+      "en": "Do you do this?",
+      "cn": "你会这样吗？"
+    },
+    {
+      "id": 119,
+      "en": "No.",
+      "cn": "不会。"
+    },
+    {
+      "id": 120,
+      "en": "No, me neither.",
+      "cn": "不，我也不会。"
+    },
+    {
+      "id": 121,
+      "en": "Well, some people, when they see blood, they feel very, very uncomfortable or sick.",
+      "cn": "嗯，有些人看到血时会感到非常不舒服或恶心。"
+    },
+    {
+      "id": 122,
+      "en": "And so, to faint is to fall down on the ground.",
+      "cn": "所以，晕倒就是倒在地上。"
+    },
+    {
+      "id": 123,
+      "en": "It's almost like you're falling asleep.",
+      "cn": "这几乎就像你在睡觉。"
+    },
+    {
+      "id": 124,
+      "en": "But it's not sleep.",
+      "cn": "但这不是睡觉。"
+    },
+    {
+      "id": 125,
+      "en": "Have you ever fainted?",
+      "cn": "你曾经晕倒过吗？"
+    },
+    {
+      "id": 126,
+      "en": "I fainted twice in my life.",
+      "cn": "我一生中晕倒过两次。"
+    },
+    {
+      "id": 127,
+      "en": "One time I fainted because of heat.",
+      "cn": "有一次我因为热而晕倒。"
+    },
+    {
+      "id": 128,
+      "en": "It was very, very, very hot.",
+      "cn": "那天非常非常热。"
+    },
+    {
+      "id": 129,
+      "en": "And I couldn't breathe for a moment and then I woke up on the ground.",
+      "cn": "我一时无法呼吸，然后醒来时躺在地上。"
+    },
+    {
+      "id": 130,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 131,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 132,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 133,
+      "en": "That's what happens.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 134,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 135,
+      "en": "So, yeah, if you ever faint, it's basically that you're just standing there, you're sitting somewhere and all of a sudden everything goes black and you wake up and you're on the ground.",
+      "cn": "所以，是的，如果你晕倒，基本上就是你站在那里，坐在某个地方，突然一切都变黑，然后你醒来时躺在地上。"
+    },
+    {
+      "id": 136,
+      "en": "And you feel very, very weak before that.",
+      "cn": "在那之前你会感到非常虚弱。"
+    },
+    {
+      "id": 137,
+      "en": "And very pale, I think, as well.",
+      "cn": "而且我认为你看起来也很苍白。"
+    },
+    {
+      "id": 138,
+      "en": "Because you look pale.",
+      "cn": "因为你看起来苍白。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah, your blood goes away from your brain and you pass out.",
+      "cn": "是的，你的血液从大脑中流失，你就晕倒了。"
+    },
+    {
+      "id": 140,
+      "en": "It's a very strange sensation.",
+      "cn": "这是一种非常奇怪的感觉。"
+    },
+    {
+      "id": 141,
+      "en": "It is.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 142,
+      "en": "Because then everyone else around you, they know what happened.",
+      "cn": "因为周围的其他人，他们知道发生了什么。"
+    },
+    {
+      "id": 143,
+      "en": "They saw you and so they're looking at you like you're crazy or maybe sick.",
+      "cn": "他们看到了你，所以他们看着你，觉得你很疯狂或者可能生病。"
+    },
+    {
+      "id": 144,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 145,
+      "en": "To faint.",
+      "cn": "晕倒。"
+    },
+    {
+      "id": 146,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 147,
+      "en": "So that's to faint.",
+      "cn": "所以这就是晕倒。"
+    },
+    {
+      "id": 148,
+      "en": "So those are the key words that we have for you in language takeaway.",
+      "cn": "这些是我们为你准备的关键词汇。"
+    },
+    {
+      "id": 149,
+      "en": "Let's take a listen to our dialogue again.",
+      "cn": "让我们再听一遍对话。"
+    },
+    {
+      "id": 150,
+      "en": "And we'll be back shortly to take a look at some phrases on Fluency Builder.",
+      "cn": "我们很快会回来看看一些流利表达的短语。"
+    },
+    {
+      "id": 151,
+      "en": "Hey, Joe.",
+      "cn": "嘿，乔。"
+    },
+    {
+      "id": 152,
+      "en": "Where have you been these past few days?",
+      "cn": "你这几天去哪儿了？"
+    },
+    {
+      "id": 153,
+      "en": "I've been busy with a first aid course that I started about a week ago at the Red Cross.",
+      "cn": "我一直忙于一个大约一周前在红十字会开始的急救课程。"
+    },
+    {
+      "id": 154,
+      "en": "Cool.",
+      "cn": "很酷。"
+    },
+    {
+      "id": 155,
+      "en": "I've always wanted to do something like that.",
+      "cn": "我一直想做这样的事情。"
+    },
+    {
+      "id": 156,
+      "en": "Have you learned anything useful?",
+      "cn": "你学到了什么有用的东西吗？"
+    },
+    {
+      "id": 157,
+      "en": "For sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 158,
+      "en": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR.",
+      "cn": "我的意思是，我们学会了如何施加压力止血，如何检查脉搏，甚至如何进行心肺复苏。"
+    },
+    {
+      "id": 159,
+      "en": "Have you treated any real emergencies?",
+      "cn": "你处理过任何真实的紧急情况吗？"
+    },
+    {
+      "id": 160,
+      "en": "Well, they took us along with some paramedics.",
+      "cn": "嗯，他们带着我们和一些急救人员一起去。"
+    },
+    {
+      "id": 161,
+      "en": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "cn": "有一个人从摩托车上摔下来，遭受了脑震荡和几处复合骨折。"
+    },
+    {
+      "id": 162,
+      "en": "His wounds were pretty serious, so they had to rush him to the hospital.",
+      "cn": "他的伤势相当严重，所以他们不得不迅速将他送往医院。"
+    },
+    {
+      "id": 163,
+      "en": "It was intense.",
+      "cn": "这很紧张。"
+    },
+    {
+      "id": 164,
+      "en": "I can imagine.",
+      "cn": "我可以想象。"
+    },
+    {
+      "id": 165,
+      "en": "I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon.",
+      "cn": "我看到血就会晕倒，所以我想我不会很快参加这样的课程。"
+    },
+    {
+      "id": 166,
+      "en": "All right, so quiz, Marco.",
+      "cn": "好吧，马尔科，来个小测验。"
+    },
+    {
+      "id": 167,
+      "en": "What is the first thing that a paramedic does when he or she finds a body at an emergency?",
+      "cn": "当急救人员在紧急情况下发现一个身体时，第一件事是什么？"
+    },
+    {
+      "id": 168,
+      "en": "That paramedic checks for a pulse to make sure you're alive, right?",
+      "cn": "那个急救人员检查脉搏以确保你还活着，对吧？"
+    },
+    {
+      "id": 169,
+      "en": "Right, a pulse.",
+      "cn": "对，脉搏。"
+    },
+    {
+      "id": 170,
+      "en": "So, dum, dum, dum, dum.",
+      "cn": "所以，咚，咚，咚，咚。"
+    },
+    {
+      "id": 171,
+      "en": "The pulse is the rhythm, that's the sound of your heart pumping blood.",
+      "cn": "脉搏是节奏，那是你心脏泵血的声音。"
+    },
+    {
+      "id": 172,
+      "en": "And you can feel someone's wrist or their throat.",
+      "cn": "你可以感觉到某人的手腕或喉咙。"
+    },
+    {
+      "id": 173,
+      "en": "So, to check for a pulse means to check and make sure their heart is pumping blood.",
+      "cn": "所以，检查脉搏意味着检查并确保他们的心脏在泵血。"
+    },
+    {
+      "id": 174,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 175,
+      "en": "And not only that, but to make sure that the heart is pumping blood relatively normal because sometimes your heart can be pumping blood too fast or too slow.",
+      "cn": "不仅如此，还要确保心脏泵血的速度相对正常，因为有时你的心脏可能泵血太快或太慢。"
+    },
+    {
+      "id": 176,
+      "en": "And if it's too slow, it's very possible that you will faint.",
+      "cn": "如果太慢，很可能你会晕倒。"
+    },
+    {
+      "id": 177,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 178,
+      "en": "All right, so we check for a pulse.",
+      "cn": "好吧，所以我们检查脉搏。"
+    },
+    {
+      "id": 179,
+      "en": "Now, what else happens?",
+      "cn": "现在，还有什么其他事情发生吗？"
+    },
+    {
+      "id": 180,
+      "en": "Well, if there's a very serious emergency and the paramedic needs help to give aid to the person who is injured, then they will rush that person to the hospital.",
+      "cn": "嗯，如果有非常严重的紧急情况，急救人员需要帮助来给受伤的人提供救助，那么他们会迅速将那个人送往医院。"
+    },
+    {
+      "id": 181,
+      "en": "Okay, so the verb, to rush.",
+      "cn": "好吧，动词“迅速”。"
+    },
+    {
+      "id": 182,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 183,
+      "en": "All right, so to rush someone or to rush someone to the hospital means to take someone or to go with someone very, very quickly.",
+      "cn": "好吧，迅速某人或迅速将某人送往医院意味着非常非常快地带某人或和某人一起去。"
+    },
+    {
+      "id": 184,
+      "en": "Okay, so let's give an example.",
+      "cn": "好吧，让我们举个例子。"
+    },
+    {
+      "id": 185,
+      "en": "I could say, listen, Marco, I don't want to rush you, but I really need the report done today.",
+      "cn": "我可以说，听着，马尔科，我不想催你，但我真的需要今天完成报告。"
+    },
+    {
+      "id": 186,
+      "en": "Or I could say, I need to rush home.",
+      "cn": "或者我可以说，我需要迅速回家。"
+    },
+    {
+      "id": 187,
+      "en": "My parents need me.",
+      "cn": "我父母需要我。"
+    },
+    {
+      "id": 188,
+      "en": "Or if a woman is having a baby, you want to rush her to the emergency room.",
+      "cn": "或者如果一个女人要生孩子，你想迅速把她送到急救室。"
+    },
+    {
+      "id": 189,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, so you need to go quickly.",
+      "cn": "好吧，所以你需要快点。"
+    },
+    {
+      "id": 191,
+      "en": "All right, now when we were talking about fainting, the person said, before he used the word faint, he said, I tend to faint.",
+      "cn": "好吧，当我们谈论晕倒时，那个人说，在他使用“晕倒”这个词之前，他说，我倾向于晕倒。"
+    },
+    {
+      "id": 192,
+      "en": "Okay, I tend to.",
+      "cn": "好吧，我倾向于。"
+    },
+    {
+      "id": 193,
+      "en": "I tend to is a really great verb that describes a normal or habitual behavior.",
+      "cn": "“我倾向于”是一个很好的动词，描述一种正常或习惯性的行为。"
+    },
+    {
+      "id": 194,
+      "en": "That's like saying, I tend to faint when it's very, very hot outside.",
+      "cn": "这就像说，我在外面非常热的时候倾向于晕倒。"
+    },
+    {
+      "id": 195,
+      "en": "That means I often faint when it's very, very hot outside.",
+      "cn": "这意味着我在外面非常热的时候经常晕倒。"
+    },
+    {
+      "id": 196,
+      "en": "It's something that happens normally.",
+      "cn": "这是一种正常发生的事情。"
+    },
+    {
+      "id": 197,
+      "en": "So it's a tendency.",
+      "cn": "所以这是一种倾向。"
+    },
+    {
+      "id": 198,
+      "en": "Right, but it's not for everyone.",
+      "cn": "对，但这并不适合每个人。"
+    },
+    {
+      "id": 199,
+      "en": "It's for me.",
+      "cn": "这适合我。"
+    },
+    {
+      "id": 200,
+      "en": "So I tend to.",
+      "cn": "所以我倾向于。"
+    },
+    {
+      "id": 201,
+      "en": "What's something that you tend to faint when you see?",
+      "cn": "你看到什么时倾向于晕倒？"
+    },
+    {
+      "id": 202,
+      "en": "I never faint.",
+      "cn": "我从来不晕倒。"
+    },
+    {
+      "id": 203,
+      "en": "You don't faint?",
+      "cn": "你不晕倒？"
+    },
+    {
+      "id": 204,
+      "en": "No, just kidding.",
+      "cn": "不，开玩笑的。"
+    },
+    {
+      "id": 205,
+      "en": "But you know what?",
+      "cn": "但你知道吗？"
+    },
+    {
+      "id": 206,
+      "en": "I tend to leave the towel on the bed sometimes after I take a shower.",
+      "cn": "我有时洗完澡后倾向于把毛巾留在床上。"
+    },
+    {
+      "id": 207,
+      "en": "I know it's a bad habit.",
+      "cn": "我知道这是个坏习惯。"
+    },
+    {
+      "id": 208,
+      "en": "And then the sheets smell.",
+      "cn": "然后床单会有味道。"
+    },
+    {
+      "id": 209,
+      "en": "No, they don't because I leave it there for like five or ten minutes and then I realize, oh my God, and then I pick it up.",
+      "cn": "不，它们没有，因为我把它放在那里大约五到十分钟，然后我意识到，哦，我的天，然后我把它拿起来。"
+    },
+    {
+      "id": 210,
+      "en": "But you know, it's it's hard to.",
+      "cn": "但你知道，这很难。"
+    },
+    {
+      "id": 211,
+      "en": "No, it's not.",
+      "cn": "不，这并不难。"
+    },
+    {
+      "id": 212,
+      "en": "Well, I tend to forget my leftover food in the refrigerator for a long time.",
+      "cn": "嗯，我倾向于把剩下的食物在冰箱里放很久。"
+    },
+    {
+      "id": 213,
+      "en": "And then it starts to smell.",
+      "cn": "然后它开始有味道。"
+    },
+    {
+      "id": 214,
+      "en": "That's gross.",
+      "cn": "这太恶心了。"
+    },
+    {
+      "id": 215,
+      "en": "But I don't like to waste food.",
+      "cn": "但我不喜欢浪费食物。"
+    },
+    {
+      "id": 216,
+      "en": "But you like let it rot and then your fridge smells.",
+      "cn": "但你让它腐烂，然后你的冰箱有味道。"
+    },
+    {
+      "id": 217,
+      "en": "It happens.",
+      "cn": "这会发生。"
+    },
+    {
+      "id": 218,
+      "en": "So that's all we've got for Fluency Builder today.",
+      "cn": "所以今天的流利构建就到这里。"
+    },
+    {
+      "id": 219,
+      "en": "But we can talk about tendencies in a moment.",
+      "cn": "但我们可以稍后谈谈倾向。"
+    },
+    {
+      "id": 220,
+      "en": "Maybe a homework assignment could be to think of something that you tend to do.",
+      "cn": "也许一个家庭作业可以是想想你倾向于做的事情。"
+    },
+    {
+      "id": 221,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 222,
+      "en": "That could be an interesting homework assignment.",
+      "cn": "这可能是一个有趣的家庭作业。"
+    },
+    {
+      "id": 223,
+      "en": "But before we jump into that, why don't we listen to our dialogue for the very last time?",
+      "cn": "但在我们跳入之前，为什么不听听我们的对话最后一次呢？"
+    },
+    {
+      "id": 224,
+      "en": "Hey, Joe, where have you been these past few days?",
+      "cn": "嘿，乔，这几天你去哪儿了？"
+    },
+    {
+      "id": 225,
+      "en": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
+      "cn": "我一直忙于大约一周前在红十字会开始的急救课程。"
+    },
+    {
+      "id": 226,
+      "en": "Cool.",
+      "cn": "酷。"
+    },
+    {
+      "id": 227,
+      "en": "I've always wanted to do something like that.",
+      "cn": "我一直想做这样的事情。"
+    },
+    {
+      "id": 228,
+      "en": "Have you learned anything useful?",
+      "cn": "你学到了什么有用的东西吗？"
+    },
+    {
+      "id": 229,
+      "en": "For sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 230,
+      "en": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR.",
+      "cn": "我的意思是，我们学会了如何施加压力止血，如何检查脉搏，甚至如何进行心肺复苏。"
+    },
+    {
+      "id": 231,
+      "en": "Have you treated any real emergencies?",
+      "cn": "你处理过任何真实的紧急情况吗？"
+    },
+    {
+      "id": 232,
+      "en": "Well, they took us along with some paramedics.",
+      "cn": "嗯，他们带着我们和一些急救人员一起去。"
+    },
+    {
+      "id": 233,
+      "en": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "cn": "有一个人从摩托车上摔下来，受了脑震荡，还有几处骨折。"
+    },
+    {
+      "id": 234,
+      "en": "His wounds were pretty serious, so they had to rush him to the hospital.",
+      "cn": "他的伤势相当严重，所以他们不得不把他送往医院。"
+    },
+    {
+      "id": 235,
+      "en": "It was intense.",
+      "cn": "这很紧张。"
+    },
+    {
+      "id": 236,
+      "en": "I can imagine.",
+      "cn": "我可以想象。"
+    },
+    {
+      "id": 237,
+      "en": "I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon.",
+      "cn": "我看到血时倾向于晕倒，所以我想我不会很快参加这样的课程。"
+    },
+    {
+      "id": 238,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 239,
+      "en": "So, that's all the time we have for today.",
+      "cn": "所以，今天的时间就到这里。"
+    },
+    {
+      "id": 240,
+      "en": "Be sure to do your homework assignment.",
+      "cn": "确保完成你的家庭作业。"
+    },
+    {
+      "id": 241,
+      "en": "Come to EnglishPod.com in the comments section.",
+      "cn": "来到EnglishPod.com的评论区。"
+    },
+    {
+      "id": 242,
+      "en": "Tell us, what do you tend to do?",
+      "cn": "告诉我们，你倾向于做什么？"
+    },
+    {
+      "id": 243,
+      "en": "Could be a good thing, could be a bad thing.",
+      "cn": "可能是好事，也可能是坏事。"
+    },
+    {
+      "id": 244,
+      "en": "Obviously, you can try and use some of the vocabulary you heard in today's lesson about health and safety.",
+      "cn": "显然，你可以尝试使用今天关于健康和安全课程中听到的一些词汇。"
+    },
+    {
+      "id": 245,
+      "en": "You might get some extra points from us for doing that.",
+      "cn": "这样做可能会得到我们的一些额外积分。"
+    },
+    {
+      "id": 246,
+      "en": "I know some people who tend to leave the house with a whole medicine kit in their bags or in their purses.",
+      "cn": "我知道一些人倾向于带着整个急救包出门，放在他们的包或钱包里。"
+    },
+    {
+      "id": 247,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 248,
+      "en": "We could say a first aid kit.",
+      "cn": "我们可以说是急救包。"
+    },
+    {
+      "id": 249,
+      "en": "A first aid kit, exactly.",
+      "cn": "急救包，没错。"
+    },
+    {
+      "id": 250,
+      "en": "Wow.",
+      "cn": "哇。"
+    },
+    {
+      "id": 251,
+      "en": "So, do you do this?",
+      "cn": "所以，你这样做吗？"
+    },
+    {
+      "id": 252,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 253,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是EnglishPod.com。"
+    },
+    {
+      "id": 254,
+      "en": "That's all we've got for today, so until next time.",
+      "cn": "今天就到这里，下次见。"
+    },
+    {
+      "id": 255,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 256,
+      "en": "Bye, guys.",
+      "cn": "再见，大家。"
+    }
+  ]
+}

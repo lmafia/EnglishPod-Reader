@@ -1,0 +1,1139 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0207",
+  "title": "EnglishPod 中级 0207",
+  "totalSegments": 226,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to another lesson at EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod的另一节课。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And I am Catherine and today we're talking about shopping online.",
+      "cn": "我是Catherine，今天我们要讨论在线购物。"
+    },
+    {
+      "id": 4,
+      "en": "So this is an elementary level lesson.",
+      "cn": "这是一个初级水平的课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "We are going to shop for things online.",
+      "cn": "我们将在线购物。"
+    },
+    {
+      "id": 7,
+      "en": "So before we get started with this dialogue, let's take a look at one word we have for you on vocabulary preview.",
+      "cn": "在开始对话之前，让我们先看一个词汇预览。"
+    },
+    {
+      "id": 8,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 9,
+      "en": "Okay, the word we're looking at today is eBay.",
+      "cn": "好的，今天我们要看的词是eBay。"
+    },
+    {
+      "id": 10,
+      "en": "eBay.",
+      "cn": "eBay。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, so this is a proper noun.",
+      "cn": "这是一个专有名词。"
+    },
+    {
+      "id": 12,
+      "en": "It's an actual website, eBay.com.",
+      "cn": "它是一个实际的网站，eBay.com。"
+    },
+    {
+      "id": 13,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 14,
+      "en": "It's kind of like a store on the Internet for people who want to buy used things.",
+      "cn": "这就像是一个网上商店，供想买二手物品的人使用。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, so maybe if you have a TV that you don't want anymore, you go on eBay, you put pictures of it online, and you offer it and anyone can buy it.",
+      "cn": "如果你有一台不想要的电视，你可以上eBay，上传它的照片，提供出售，任何人都可以购买。"
+    },
+    {
+      "id": 16,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 17,
+      "en": "So you can be a buyer.",
+      "cn": "所以你可以是买家。"
+    },
+    {
+      "id": 18,
+      "en": "That means you buy things or a seller.",
+      "cn": "这意味着你购买东西，或者是卖家。"
+    },
+    {
+      "id": 19,
+      "en": "So you sell things.",
+      "cn": "所以你出售东西。"
+    },
+    {
+      "id": 20,
+      "en": "So this is interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 21,
+      "en": "Usually you find used things on eBay, but you can also find new things.",
+      "cn": "通常你在eBay上找到的是二手物品，但你也可以找到新物品。"
+    },
+    {
+      "id": 22,
+      "en": "You can.",
+      "cn": "是的。"
+    },
+    {
+      "id": 23,
+      "en": "It's kind of like the Chinese website Taobao.",
+      "cn": "这有点像中国的网站淘宝。"
+    },
+    {
+      "id": 24,
+      "en": "I've actually even seen people selling cars on eBay.",
+      "cn": "我甚至见过有人在eBay上卖车。"
+    },
+    {
+      "id": 25,
+      "en": "Cars?",
+      "cn": "车？"
+    },
+    {
+      "id": 26,
+      "en": "I can't imagine buying a car on the Internet.",
+      "cn": "我无法想象在网上买车。"
+    },
+    {
+      "id": 27,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 28,
+      "en": "No, they have even very luxurious cars on eBay.",
+      "cn": "不，他们甚至有非常豪华的车在eBay上。"
+    },
+    {
+      "id": 29,
+      "en": "So we'll talk more about online shopping a little bit later on.",
+      "cn": "所以我们稍后会更多地讨论在线购物。"
+    },
+    {
+      "id": 30,
+      "en": "But now why don't we listen to our dialogue for the first time, and then we'll come back in just a little bit.",
+      "cn": "但现在我们先听听我们的对话，然后稍后再回来。"
+    },
+    {
+      "id": 31,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 32,
+      "en": "I'm just looking for a nice pillow on eBay.",
+      "cn": "我正在eBay上找一个好枕头。"
+    },
+    {
+      "id": 33,
+      "en": "You're shopping for a pillow online?",
+      "cn": "你在网上购物枕头？"
+    },
+    {
+      "id": 34,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 35,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 36,
+      "en": "I don't have to leave the house or browse a dozen stores to find what I'm looking for.",
+      "cn": "我不需要离开家或浏览十几家商店来找到我想要的东西。"
+    },
+    {
+      "id": 37,
+      "en": "This way, I just search for it online, quick and easy.",
+      "cn": "这样，我只需在线搜索，快速又简单。"
+    },
+    {
+      "id": 38,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 39,
+      "en": "But how do you pay for it?",
+      "cn": "但你怎么付款？"
+    },
+    {
+      "id": 40,
+      "en": "How do you know you aren't going to be ripped off by the seller?",
+      "cn": "你怎么知道不会被卖家欺骗？"
+    },
+    {
+      "id": 41,
+      "en": "Well, the website handles a point system where if the seller does something wrong, people comment negatively, and then you know that he or she may not be trustworthy.",
+      "cn": "嗯，网站有一个积分系统，如果卖家做错了事情，人们会给出负面评论，这样你就知道他或她可能不可靠。"
+    },
+    {
+      "id": 42,
+      "en": "Wow, that sounds pretty safe.",
+      "cn": "哇，听起来很安全。"
+    },
+    {
+      "id": 43,
+      "en": "So how do you pay?",
+      "cn": "那你怎么付款？"
+    },
+    {
+      "id": 44,
+      "en": "Do you need a credit card?",
+      "cn": "需要信用卡吗？"
+    },
+    {
+      "id": 45,
+      "en": "You can use a credit card or your debit card.",
+      "cn": "你可以使用信用卡或借记卡。"
+    },
+    {
+      "id": 46,
+      "en": "They also let you use the Paypal system, which is really safe and fast.",
+      "cn": "他们还允许你使用Paypal系统，这非常安全和快速。"
+    },
+    {
+      "id": 47,
+      "en": "I have never had any problems with someone hacking my information or anything.",
+      "cn": "我从来没有遇到过有人黑我的信息或其他问题。"
+    },
+    {
+      "id": 48,
+      "en": "Do you think I can find a sweater for my dog online?",
+      "cn": "你觉得我能在网上找到给我狗的毛衣吗？"
+    },
+    {
+      "id": 49,
+      "en": "You can find anything.",
+      "cn": "你可以找到任何东西。"
+    },
+    {
+      "id": 50,
+      "en": "Are you sure you want to start shopping online, though?",
+      "cn": "你确定你想开始网上购物吗？"
+    },
+    {
+      "id": 51,
+      "en": "Once you step into this world, there is no turning back.",
+      "cn": "一旦你进入这个世界，就没有回头路了。"
+    },
+    {
+      "id": 52,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 53,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 54,
+      "en": "So now we have four key words for you on language takeaway.",
+      "cn": "现在我们有四个关键词供你学习。"
+    },
+    {
+      "id": 55,
+      "en": "Language takeaway.",
+      "cn": "语言学习。"
+    },
+    {
+      "id": 56,
+      "en": "The first word you might have already heard us use already, we're talking about going on the Internet to do something.",
+      "cn": "第一个词你可能已经听过，我们在谈论上网做某事。"
+    },
+    {
+      "id": 57,
+      "en": "So we say to go online.",
+      "cn": "所以我们说上网。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, so by saying that you are going online, you say that you are using the Internet.",
+      "cn": "通过说你上网，你表示你在使用互联网。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "So you can shop for something online.",
+      "cn": "所以你可以在线购物。"
+    },
+    {
+      "id": 61,
+      "en": "Online means the Internet, right?",
+      "cn": "在线意味着互联网，对吗？"
+    },
+    {
+      "id": 62,
+      "en": "On the Internet.",
+      "cn": "在互联网上。"
+    },
+    {
+      "id": 63,
+      "en": "So we don't say in the Internet, we say we're on the Internet.",
+      "cn": "所以我们不说在互联网，我们说在互联网上。"
+    },
+    {
+      "id": 64,
+      "en": "For example, he's been on the Internet all day long.",
+      "cn": "例如，他整天都在上网。"
+    },
+    {
+      "id": 65,
+      "en": "I want to use the computer.",
+      "cn": "我想用电脑。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so I can say he's been online all day long.",
+      "cn": "好的，我可以说他整天都在上网。"
+    },
+    {
+      "id": 67,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 68,
+      "en": "Okay, so that is online.",
+      "cn": "好的，这就是在线。"
+    },
+    {
+      "id": 69,
+      "en": "And when we go online, and we are looking through different websites, or maybe we are looking at items on eBay, we are browsing.",
+      "cn": "当我们上网，浏览不同的网站，或者在eBay上查看物品时，我们在浏览。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, the verb here is to browse.",
+      "cn": "好的，这里的动词是浏览。"
+    },
+    {
+      "id": 71,
+      "en": "Now to browse is to look at, but not carefully, just to look at with maybe the idea to shop or to buy later.",
+      "cn": "浏览是指看，但不是仔细看，只是随便看，可能是为了购物或稍后购买。"
+    },
+    {
+      "id": 72,
+      "en": "Okay, so you can use browse for online things, but you can also use it for physical things like you are in a shop, you are browsing.",
+      "cn": "所以你可以用浏览来形容在线的东西，但你也可以用它来形容实体的东西，比如你在商店里，你在浏览。"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "So I can go to a clothing store and I can browse.",
+      "cn": "所以我可以去服装店浏览。"
+    },
+    {
+      "id": 75,
+      "en": "For example, if the woman at the clothing store says, would you like to buy something?",
+      "cn": "例如，如果服装店的女人问，你想买点什么吗？"
+    },
+    {
+      "id": 76,
+      "en": "I say, no, I'm just browsing.",
+      "cn": "我说，不，我只是浏览。"
+    },
+    {
+      "id": 77,
+      "en": "I'm just looking.",
+      "cn": "我只是看看。"
+    },
+    {
+      "id": 78,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 79,
+      "en": "And then when they were talking about eBay and how it works, the person mentioned that they have a point system.",
+      "cn": "然后当他们谈论eBay及其运作方式时，提到他们有一个积分系统。"
+    },
+    {
+      "id": 80,
+      "en": "All right, a point system.",
+      "cn": "好的，积分系统。"
+    },
+    {
+      "id": 81,
+      "en": "Now, this is something you hear about a lot on websites these days.",
+      "cn": "这是你现在在很多网站上听到的东西。"
+    },
+    {
+      "id": 82,
+      "en": "For example, many websites have different users.",
+      "cn": "例如，许多网站有不同的用户。"
+    },
+    {
+      "id": 83,
+      "en": "And so how do I know which users or which, in this case, sellers are the best?",
+      "cn": "那么我怎么知道哪些用户，或者在这种情况下，哪些卖家是最好的呢？"
+    },
+    {
+      "id": 84,
+      "en": "Well, we have a point system.",
+      "cn": "嗯，我们有一个积分系统。"
+    },
+    {
+      "id": 85,
+      "en": "More points means better.",
+      "cn": "更多的积分意味着更好。"
+    },
+    {
+      "id": 86,
+      "en": "Better.",
+      "cn": "更好。"
+    },
+    {
+      "id": 87,
+      "en": "Fewer points means worse.",
+      "cn": "更少的积分意味着更差。"
+    },
+    {
+      "id": 88,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 89,
+      "en": "You might also call this a star system.",
+      "cn": "你也可以称之为星级系统。"
+    },
+    {
+      "id": 90,
+      "en": "So basically, a point system is a way to show who is a very good community member and who is not.",
+      "cn": "所以基本上，积分系统是一种显示谁是非常好的社区成员，谁不是的方式。"
+    },
+    {
+      "id": 91,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 92,
+      "en": "And that takes us to our next word.",
+      "cn": "这引出了我们的下一个词。"
+    },
+    {
+      "id": 93,
+      "en": "So if a person has a lot of points in their point system, that means they are trustworthy.",
+      "cn": "如果一个人在他们的积分系统中有很多积分，那意味着他们是值得信赖的。"
+    },
+    {
+      "id": 94,
+      "en": "Okay, trustworthy is an adjective.",
+      "cn": "好的，值得信赖是一个形容词。"
+    },
+    {
+      "id": 95,
+      "en": "He is trustworthy.",
+      "cn": "他是值得信赖的。"
+    },
+    {
+      "id": 96,
+      "en": "They are trustworthy.",
+      "cn": "他们是值得信赖的。"
+    },
+    {
+      "id": 97,
+      "en": "This means that I can trust them.",
+      "cn": "这意味着我可以信任他们。"
+    },
+    {
+      "id": 98,
+      "en": "They are reliable.",
+      "cn": "他们是可靠的。"
+    },
+    {
+      "id": 99,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 100,
+      "en": "So I don't think they will lie to me.",
+      "cn": "所以我不认为他们会对我撒谎。"
+    },
+    {
+      "id": 101,
+      "en": "I don't think they will cheat me.",
+      "cn": "我不认为他们会欺骗我。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, so a person can be trustworthy.",
+      "cn": "好吧，所以一个人可以值得信赖。"
+    },
+    {
+      "id": 103,
+      "en": "A company can be trustworthy.",
+      "cn": "一家公司也可以值得信赖。"
+    },
+    {
+      "id": 104,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 105,
+      "en": "Or you could say, he never pays me back.",
+      "cn": "或者你可以说，他从不还我钱。"
+    },
+    {
+      "id": 106,
+      "en": "He's not very trustworthy when I lend him money.",
+      "cn": "当我借钱给他时，他并不太值得信赖。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 108,
+      "en": "So four key words there.",
+      "cn": "所以这里有四个关键词。"
+    },
+    {
+      "id": 109,
+      "en": "Why don't we listen to them again in our dialogue.",
+      "cn": "我们再听一遍对话中的这些词。"
+    },
+    {
+      "id": 110,
+      "en": "And we'll be back shortly.",
+      "cn": "我们很快就回来。"
+    },
+    {
+      "id": 111,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 112,
+      "en": "I'm just looking for a nice pillow on eBay.",
+      "cn": "我只是在eBay上找一个好枕头。"
+    },
+    {
+      "id": 113,
+      "en": "You're shopping for a pillow online?",
+      "cn": "你在网上买枕头？"
+    },
+    {
+      "id": 114,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 115,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 116,
+      "en": "I don't have to leave the house or browse a dozen stores to find what I'm looking for.",
+      "cn": "我不需要离开家或浏览十几家商店来找到我想要的东西。"
+    },
+    {
+      "id": 117,
+      "en": "This way, I just search for it online, quick and easy.",
+      "cn": "这样，我只需在线搜索，快速又简单。"
+    },
+    {
+      "id": 118,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 119,
+      "en": "But how do you pay for it?",
+      "cn": "但你怎么付款？"
+    },
+    {
+      "id": 120,
+      "en": "How do you know you aren't going to be ripped off by the seller?",
+      "cn": "你怎么知道不会被卖家欺骗？"
+    },
+    {
+      "id": 121,
+      "en": "Well, the website handles a point system where if the seller does something wrong, people comment negatively, and then you know that he or she may not be trustworthy.",
+      "cn": "嗯，网站有一个积分系统，如果卖家做错了事，人们会给出负面评论，这样你就知道他或她可能不值得信赖。"
+    },
+    {
+      "id": 122,
+      "en": "Wow, that sounds pretty safe.",
+      "cn": "哇，听起来很安全。"
+    },
+    {
+      "id": 123,
+      "en": "So how do you pay?",
+      "cn": "那你怎么付款？"
+    },
+    {
+      "id": 124,
+      "en": "Do you need a credit card?",
+      "cn": "需要信用卡吗？"
+    },
+    {
+      "id": 125,
+      "en": "You can use a credit card or your debit card.",
+      "cn": "你可以使用信用卡或借记卡。"
+    },
+    {
+      "id": 126,
+      "en": "They also let you use the Paypal system, which is really safe and fast.",
+      "cn": "他们还允许你使用Paypal系统，这非常安全和快速。"
+    },
+    {
+      "id": 127,
+      "en": "I have never had any problems with someone hacking my information or anything.",
+      "cn": "我从来没有遇到过有人黑我的信息或其他问题。"
+    },
+    {
+      "id": 128,
+      "en": "Do you think I can find a sweater for my dog online?",
+      "cn": "你认为我可以在网上找到给我狗穿的毛衣吗？"
+    },
+    {
+      "id": 129,
+      "en": "You can find anything.",
+      "cn": "你可以找到任何东西。"
+    },
+    {
+      "id": 130,
+      "en": "Are you sure you want to start shopping online though?",
+      "cn": "你确定你想开始网上购物吗？"
+    },
+    {
+      "id": 131,
+      "en": "Once you step into this world, there is no turning back.",
+      "cn": "一旦你进入这个世界，就没有回头路。"
+    },
+    {
+      "id": 132,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 133,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 134,
+      "en": "So now we have three key phrases that we saw in our dialogue.",
+      "cn": "现在我们有三个在对话中看到的关键词。"
+    },
+    {
+      "id": 135,
+      "en": "And let's take a look at those now in Fluency Builder.",
+      "cn": "让我们现在在流利度构建器中看看这些。"
+    },
+    {
+      "id": 136,
+      "en": "Fluency Builder.",
+      "cn": "流利度构建器。"
+    },
+    {
+      "id": 137,
+      "en": "Well, the first phrase we have here is related to that last word we had, trustworthy.",
+      "cn": "好吧，我们这里的第一个短语与我们最后一个词“值得信赖”有关。"
+    },
+    {
+      "id": 138,
+      "en": "Someone is not trustworthy if they will rip you off.",
+      "cn": "如果某人会欺骗你，那他就不值得信赖。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so it's a phrasal verb, to rip you off or to rip off.",
+      "cn": "好的，所以这是一个短语动词，rip you off或rip off。"
+    },
+    {
+      "id": 140,
+      "en": "To rip someone off, that's right.",
+      "cn": "欺骗某人，没错。"
+    },
+    {
+      "id": 141,
+      "en": "So they ripped him off.",
+      "cn": "所以他们欺骗了他。"
+    },
+    {
+      "id": 142,
+      "en": "He ripped her off.",
+      "cn": "他欺骗了她。"
+    },
+    {
+      "id": 143,
+      "en": "This means to steal money from someone or to cheat someone.",
+      "cn": "这意味着从某人那里偷钱或欺骗某人。"
+    },
+    {
+      "id": 144,
+      "en": "Right, so maybe if a pair of shoes usually in a store costs $50, and then your friend sells them to you for $200, your friend ripped you off.",
+      "cn": "对，所以如果一双鞋在商店里通常要50美元，而你的朋友以200美元卖给你，你的朋友就欺骗了你。"
+    },
+    {
+      "id": 145,
+      "en": "That's right, he ripped you off.",
+      "cn": "没错，他欺骗了你。"
+    },
+    {
+      "id": 146,
+      "en": "That's not a good friend.",
+      "cn": "这不是一个好朋友。"
+    },
+    {
+      "id": 147,
+      "en": "He's not very trustworthy.",
+      "cn": "他并不太值得信赖。"
+    },
+    {
+      "id": 148,
+      "en": "All right, so now when they were talking about how safe it is to make purchases online, the person explained that it's pretty safe and that no one has ever hacked his information.",
+      "cn": "好吧，所以当他们谈论在线购物的安全性时，那个人解释说这很安全，并且从未有人黑过他的资料。"
+    },
+    {
+      "id": 149,
+      "en": "Okay, so this is an important verb that has to do with the Internet.",
+      "cn": "好的，所以这是一个与互联网有关的重要动词。"
+    },
+    {
+      "id": 150,
+      "en": "To hack information is to steal information on the Internet.",
+      "cn": "黑客信息是指在互联网上窃取信息。"
+    },
+    {
+      "id": 151,
+      "en": "So someone who hacks, who steals this information is called a hacker.",
+      "cn": "所以黑客就是窃取这些信息的人。"
+    },
+    {
+      "id": 152,
+      "en": "Okay, and this is something that's very bad.",
+      "cn": "好的，这是一件非常糟糕的事情。"
+    },
+    {
+      "id": 153,
+      "en": "We want to go to secure and safe websites because we don't want people to hack our personal information.",
+      "cn": "我们希望访问安全的网站，因为我们不想让人们窃取我们的个人信息。"
+    },
+    {
+      "id": 154,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 155,
+      "en": "Okay, so the verb is to hack.",
+      "cn": "好的，所以动词是黑客。"
+    },
+    {
+      "id": 156,
+      "en": "And finally, in the end, when they were going to look for a sweater for a dog, the person said, you know what, this is great.",
+      "cn": "最后，当他们去找给狗穿的毛衣时，那个人说，你知道吗，这太好了。"
+    },
+    {
+      "id": 157,
+      "en": "Are you sure you want to start to shop online?",
+      "cn": "你确定你想开始网上购物吗？"
+    },
+    {
+      "id": 158,
+      "en": "Once you do this, there is no turning back.",
+      "cn": "一旦你这样做，就没有回头路。"
+    },
+    {
+      "id": 159,
+      "en": "Oh, I love this phrase.",
+      "cn": "哦，我喜欢这个短语。"
+    },
+    {
+      "id": 160,
+      "en": "There's no turning back.",
+      "cn": "没有回头路。"
+    },
+    {
+      "id": 161,
+      "en": "So this is, well, you think about someone who's leaving.",
+      "cn": "所以这是，嗯，你想想一个要离开的人。"
+    },
+    {
+      "id": 162,
+      "en": "You say there's no turning back.",
+      "cn": "你说没有回头路。"
+    },
+    {
+      "id": 163,
+      "en": "You can't go back.",
+      "cn": "你不能回去。"
+    },
+    {
+      "id": 164,
+      "en": "You can't return to where you were.",
+      "cn": "你不能回到你曾经的地方。"
+    },
+    {
+      "id": 165,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 166,
+      "en": "This is something we say as a warning.",
+      "cn": "这是我们作为警告所说的事情。"
+    },
+    {
+      "id": 167,
+      "en": "So listen, this is your final decision.",
+      "cn": "所以听着，这是你的最终决定。"
+    },
+    {
+      "id": 168,
+      "en": "If you say yes, you cannot change your mind.",
+      "cn": "如果你说是，你就不能改变主意。"
+    },
+    {
+      "id": 169,
+      "en": "You cannot say no later.",
+      "cn": "你不能再说不。"
+    },
+    {
+      "id": 170,
+      "en": "So you can't turn back later.",
+      "cn": "所以你不能再回头。"
+    },
+    {
+      "id": 171,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 172,
+      "en": "So there's no turning back now.",
+      "cn": "所以现在没有回头路。"
+    },
+    {
+      "id": 173,
+      "en": "Okay, no turning back.",
+      "cn": "好的，没有回头路。"
+    },
+    {
+      "id": 174,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 175,
+      "en": "Interesting phrases, keywords, and everything.",
+      "cn": "有趣的短语、关键词和一切。"
+    },
+    {
+      "id": 176,
+      "en": "So we should listen to this dialogue one last time.",
+      "cn": "所以我们应该最后再听一遍这个对话。"
+    },
+    {
+      "id": 177,
+      "en": "And we'll be back to talk with you a little bit more.",
+      "cn": "我们会回来和你多聊聊。"
+    },
+    {
+      "id": 178,
+      "en": "What are you doing?",
+      "cn": "你在做什么？"
+    },
+    {
+      "id": 179,
+      "en": "I'm just looking for a nice pillow on eBay.",
+      "cn": "我只是在eBay上找一个好枕头。"
+    },
+    {
+      "id": 180,
+      "en": "You're shopping for a pillow online?",
+      "cn": "你在网上买枕头？"
+    },
+    {
+      "id": 181,
+      "en": "That's absurd.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 182,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 183,
+      "en": "I don't have to leave the house or browse a dozen stores to find what I'm looking for.",
+      "cn": "我不需要离开家或浏览十几家商店来找到我想要的东西。"
+    },
+    {
+      "id": 184,
+      "en": "This way, I just search for it online quick and easy.",
+      "cn": "这样，我只需在线搜索，快速又简单。"
+    },
+    {
+      "id": 185,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 186,
+      "en": "But how do you pay for it?",
+      "cn": "但你怎么付款？"
+    },
+    {
+      "id": 187,
+      "en": "How do you know you aren't going to be ripped off by the seller?",
+      "cn": "你怎么知道不会被卖家欺骗？"
+    },
+    {
+      "id": 188,
+      "en": "Well, the website handles a point system where if the owner knows that he or she may not be trustworthy.",
+      "cn": "嗯，网站有一个积分系统，如果卖家做错了事，人们会给出负面评论，这样你就知道他或她可能不值得信赖。"
+    },
+    {
+      "id": 189,
+      "en": "Wow, that sounds pretty safe.",
+      "cn": "哇，听起来很安全。"
+    },
+    {
+      "id": 190,
+      "en": "So how do you pay?",
+      "cn": "那你怎么付款？"
+    },
+    {
+      "id": 191,
+      "en": "Do you need a credit card?",
+      "cn": "需要信用卡吗？"
+    },
+    {
+      "id": 192,
+      "en": "You can use a credit card or your debit card.",
+      "cn": "你可以使用信用卡或借记卡。"
+    },
+    {
+      "id": 193,
+      "en": "They also let you use the Paypal system, which is really safe and fast.",
+      "cn": "他们还允许你使用Paypal系统，这非常安全和快速。"
+    },
+    {
+      "id": 194,
+      "en": "I have never had any problems with someone hacking my information or anything.",
+      "cn": "我从来没有遇到过有人黑我的信息或其他问题。"
+    },
+    {
+      "id": 195,
+      "en": "Do you think I can find a sweater for my dog online?",
+      "cn": "你认为我可以在网上找到给我狗穿的毛衣吗？"
+    },
+    {
+      "id": 196,
+      "en": "You can find anything.",
+      "cn": "你可以找到任何东西。"
+    },
+    {
+      "id": 197,
+      "en": "Are you sure you want to start shopping online though?",
+      "cn": "你确定你想开始网上购物吗？"
+    },
+    {
+      "id": 198,
+      "en": "Once you step into this world, there is no turning back.",
+      "cn": "一旦你进入这个世界，就没有回头路。"
+    },
+    {
+      "id": 199,
+      "en": "Let's do it.",
+      "cn": "我们来吧。"
+    },
+    {
+      "id": 200,
+      "en": "All right, so now we're talking about online shopping.",
+      "cn": "好吧，现在我们在谈论网上购物。"
+    },
+    {
+      "id": 201,
+      "en": "Have you ever bought anything online?",
+      "cn": "你曾经在网上买过东西吗？"
+    },
+    {
+      "id": 202,
+      "en": "Use your credit card online.",
+      "cn": "在网上使用你的信用卡。"
+    },
+    {
+      "id": 203,
+      "en": "I have.",
+      "cn": "我买过。"
+    },
+    {
+      "id": 204,
+      "en": "I've used my credit card on Amazon.com to purchase books on the Internet.",
+      "cn": "我在亚马逊网站上用我的信用卡购买过书籍。"
+    },
+    {
+      "id": 205,
+      "en": "But I know that you are much more of a fan of online shopping.",
+      "cn": "但我知道你更喜欢网上购物。"
+    },
+    {
+      "id": 206,
+      "en": "You use the Chinese website Taobao all the time.",
+      "cn": "你一直在使用中国网站淘宝。"
+    },
+    {
+      "id": 207,
+      "en": "Yeah, well, actually, I wrote this dialogue and it's kind of based on something real because, you know, sometimes going to the stores, it can be great and you can see things and physically touch them.",
+      "cn": "是的，实际上，我写了这个对话，基于一些真实的事情，因为，有时去商店购物很不错，你可以看到东西并实际触摸它们。"
+    },
+    {
+      "id": 208,
+      "en": "But I'm a little bit more practical.",
+      "cn": "但我更实用一些。"
+    },
+    {
+      "id": 209,
+      "en": "I know exactly what I want, or maybe I saw it.",
+      "cn": "我确切知道我想要什么，或者我可能已经看过了。"
+    },
+    {
+      "id": 210,
+      "en": "So I don't want to have to go to the stores and deal with, you know, haggling or negotiating, or sometimes it's even more expensive.",
+      "cn": "所以我不想去商店处理讨价还价，有时甚至更贵。"
+    },
+    {
+      "id": 211,
+      "en": "So I just, you know, from the comfort of my own home, just put in my debit card number and buy things online and I get it delivered overnight.",
+      "cn": "所以我只是在自己家里，输入我的借记卡号码，在线购买东西，第二天就能送到。"
+    },
+    {
+      "id": 212,
+      "en": "Well, and you never go shopping now.",
+      "cn": "嗯，你现在从不去购物。"
+    },
+    {
+      "id": 213,
+      "en": "Well, shopping, you have to go to the clothing store for clothes, the video game store for video games, and on the Internet, it's all in one place.",
+      "cn": "嗯，购物，你必须去服装店买衣服，去电子游戏店买游戏，而在网上，一切都在一个地方。"
+    },
+    {
+      "id": 214,
+      "en": "You're at home, you're in your pajamas, you use your credit card.",
+      "cn": "你在家里，穿着睡衣，使用你的信用卡。"
+    },
+    {
+      "id": 215,
+      "en": "And the cool thing is that you can even, sometimes you want to buy small things like in this case, maybe a pillow or you want to buy, like recently I bought some candles, some decorative candles.",
+      "cn": "而且很酷的是，有时你想买小东西，比如在这种情况下，可能是一个枕头，或者你想买，最近我买了一些装饰蜡烛。"
+    },
+    {
+      "id": 216,
+      "en": "So I don't know, do you really want to go out downtown, look for the candle shop where you can get them?",
+      "cn": "所以我不知道，你真的想去市中心找蜡烛店吗？"
+    },
+    {
+      "id": 217,
+      "en": "You can just do it online.",
+      "cn": "你可以直接在网上做。"
+    },
+    {
+      "id": 218,
+      "en": "Do it online.",
+      "cn": "在线做。"
+    },
+    {
+      "id": 219,
+      "en": "Let us know, do you shop on the Internet?",
+      "cn": "让我们知道，你在网上购物吗？"
+    },
+    {
+      "id": 220,
+      "en": "If you do, what kind of services do you use?",
+      "cn": "如果是的话，你使用什么服务？"
+    },
+    {
+      "id": 221,
+      "en": "What stores do you go to?",
+      "cn": "你去哪些商店？"
+    },
+    {
+      "id": 222,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 223,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 224,
+      "en": "We hope to see you there.",
+      "cn": "我们希望在那里见到你。"
+    },
+    {
+      "id": 225,
+      "en": "Alright, bye everyone.",
+      "cn": "好吧，大家再见。"
+    },
+    {
+      "id": 226,
+      "en": "Bye!",
+      "cn": "再见！"
+    }
+  ]
+}

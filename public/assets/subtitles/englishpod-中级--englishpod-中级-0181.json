@@ -1,0 +1,1159 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0181",
+  "title": "EnglishPod 中级 0181",
+  "totalSegments": 230,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and we are your English language guides here at EnglishPod.",
+      "cn": "我叫Catherine，我们是你们在EnglishPod的英语指导。"
+    },
+    {
+      "id": 4,
+      "en": "That's right, and today we're going to be taking you to Christmas morning.",
+      "cn": "没错，今天我们将带你们体验圣诞早晨。"
+    },
+    {
+      "id": 5,
+      "en": "It's Christmas Day.",
+      "cn": "今天是圣诞节。"
+    },
+    {
+      "id": 6,
+      "en": "Oh, one of the best times of the year.",
+      "cn": "哦，一年中最美好的时光之一。"
+    },
+    {
+      "id": 7,
+      "en": "You wake up, you smell the good smell of delicious eggs and bacon, and there's presents.",
+      "cn": "你醒来，闻到美味的鸡蛋和培根的香味，还有礼物。"
+    },
+    {
+      "id": 8,
+      "en": "Yeah, I guess that's when you're a kid, though.",
+      "cn": "是啊，我想那是你还是小孩的时候。"
+    },
+    {
+      "id": 9,
+      "en": "I guess when you're an adult do you really get excited when you wake up for Christmas?",
+      "cn": "我想当你长大后，圣诞节醒来真的会兴奋吗？"
+    },
+    {
+      "id": 10,
+      "en": "Hell yeah.",
+      "cn": "当然会。"
+    },
+    {
+      "id": 11,
+      "en": "Sure do.",
+      "cn": "当然会。"
+    },
+    {
+      "id": 12,
+      "en": "Yeah, I sure do.",
+      "cn": "是的，我当然会。"
+    },
+    {
+      "id": 13,
+      "en": "I love Christmas morning, even as an adult.",
+      "cn": "我爱圣诞早晨，即使作为成年人。"
+    },
+    {
+      "id": 14,
+      "en": "Especially, I think, because of the special breakfast you get, like pancakes, scrambled eggs.",
+      "cn": "特别是，我认为，是因为你能享受到特别的早餐，比如煎饼、炒鸡蛋。"
+    },
+    {
+      "id": 15,
+      "en": "But anyways, we're going to be taking a look at a situation here where a kid is opening Christmas presents and we're preparing a meal for Christmas because that day people are going to come over.",
+      "cn": "不过无论如何，我们要看看一个小孩打开圣诞礼物的情景，同时我们在为圣诞准备一顿饭，因为那天人们会过来。"
+    },
+    {
+      "id": 16,
+      "en": "So, let's listen to this dialogue for the first time.",
+      "cn": "所以，让我们第一次听这个对话。"
+    },
+    {
+      "id": 17,
+      "en": "Dad, dad, dad!",
+      "cn": "爸爸，爸爸，爸爸！"
+    },
+    {
+      "id": 18,
+      "en": "Wake up!",
+      "cn": "醒醒！"
+    },
+    {
+      "id": 19,
+      "en": "It's Christmas!",
+      "cn": "今天是圣诞节！"
+    },
+    {
+      "id": 20,
+      "en": "Timmy, it's too early for this.",
+      "cn": "Timmy，现在太早了。"
+    },
+    {
+      "id": 21,
+      "en": "Look, it's six in the morning.",
+      "cn": "看，早上六点。"
+    },
+    {
+      "id": 22,
+      "en": "Go back to bed.",
+      "cn": "回去睡觉。"
+    },
+    {
+      "id": 23,
+      "en": "No way!",
+      "cn": "不行！"
+    },
+    {
+      "id": 24,
+      "en": "Santa already came and left all our presents.",
+      "cn": "圣诞老人已经来了，留下了我们的所有礼物。"
+    },
+    {
+      "id": 25,
+      "en": "Can we go open them, please?",
+      "cn": "我们可以去打开它们吗，拜托？"
+    },
+    {
+      "id": 26,
+      "en": "Please?",
+      "cn": "拜托？"
+    },
+    {
+      "id": 27,
+      "en": "Of course we can, honey.",
+      "cn": "当然可以，亲爱的。"
+    },
+    {
+      "id": 28,
+      "en": "Bill, come on, get dressed.",
+      "cn": "Bill，快点，穿好衣服。"
+    },
+    {
+      "id": 29,
+      "en": "Fine, not like Santa brought me any gifts.",
+      "cn": "好吧，反正圣诞老人也没给我带礼物。"
+    },
+    {
+      "id": 30,
+      "en": "Bill, honestly, you can be such a grouch sometimes.",
+      "cn": "Bill，老实说，你有时候真是个脾气不好的人。"
+    },
+    {
+      "id": 31,
+      "en": "Look at all these presents under the Christmas tree!",
+      "cn": "看看圣诞树下的这些礼物！"
+    },
+    {
+      "id": 32,
+      "en": "Awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 33,
+      "en": "Alright, Timmy, knock yourself out.",
+      "cn": "好吧，Timmy，尽情享受吧。"
+    },
+    {
+      "id": 34,
+      "en": "We should get ready and head to the market to buy everything for Christmas dinner tonight.",
+      "cn": "我们应该准备一下，去市场买今晚圣诞晚餐的一切。"
+    },
+    {
+      "id": 35,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 36,
+      "en": "It's the first time we're hosting Christmas dinner at our house, so everything has to be perfect.",
+      "cn": "这是我们第一次在家里举办圣诞晚餐，所以一切都必须完美。"
+    },
+    {
+      "id": 37,
+      "en": "I got the list right here.",
+      "cn": "我这里有清单。"
+    },
+    {
+      "id": 38,
+      "en": "Ham, Turkey, mashed potatoes, ingredients for the gravy, and of course, yams.",
+      "cn": "火腿、火鸡、土豆泥、肉汁的配料，当然还有红薯。"
+    },
+    {
+      "id": 39,
+      "en": "My dad offered to bring the eggnog, so we should be set.",
+      "cn": "我爸爸主动带来蛋奶酒，所以我们应该准备好了。"
+    },
+    {
+      "id": 40,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 41,
+      "en": "So there were a couple of different and interesting words there, so let's take a look at them now in language takeaway.",
+      "cn": "所以这里有几个不同且有趣的单词，让我们现在在语言学习中看看它们。"
+    },
+    {
+      "id": 42,
+      "en": "Language takeaway.",
+      "cn": "语言学习。"
+    },
+    {
+      "id": 43,
+      "en": "Okay, this first word is not a very happy word.",
+      "cn": "好的，第一个单词不是一个很快乐的词。"
+    },
+    {
+      "id": 44,
+      "en": "It's a word that we try not to use too much around the Christmas season, but sometimes you're just tired of people because the holidays is all about people and doing stuff.",
+      "cn": "这是一个我们在圣诞季节尽量不使用的词，但有时候你就是厌倦了人，因为假期就是关于人和做事情。"
+    },
+    {
+      "id": 45,
+      "en": "Family.",
+      "cn": "家庭。"
+    },
+    {
+      "id": 46,
+      "en": "Someone who is not being very happy, someone who's a little bit grumpy, is called a grouch.",
+      "cn": "不太快乐的人，有点脾气不好的人，叫做脾气不好的人。"
+    },
+    {
+      "id": 47,
+      "en": "Okay, so a person that's not very happy, not very friendly, is a grouch.",
+      "cn": "好的，所以一个不太快乐、不太友好的人是脾气不好的人。"
+    },
+    {
+      "id": 48,
+      "en": "I don't want to open presents.",
+      "cn": "我不想打开礼物。"
+    },
+    {
+      "id": 49,
+      "en": "This is stupid.",
+      "cn": "这太愚蠢了。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so a person is a grouch, or you can act like a grouch, or be a grouch.",
+      "cn": "好的，所以一个人是脾气不好的人，或者你可以表现得像个脾气不好的人，或者成为一个脾气不好的人。"
+    },
+    {
+      "id": 51,
+      "en": "Don't be a grouch!",
+      "cn": "别做脾气不好的人！"
+    },
+    {
+      "id": 52,
+      "en": "Alright, and well, they were talking about heading to the market to buy something for dinner, so to head to.",
+      "cn": "好吧，他们在谈论去市场买晚餐的东西，所以去。"
+    },
+    {
+      "id": 53,
+      "en": "Okay, to head to is a way to say to go towards someplace, or to go somewhere.",
+      "cn": "好的，去是说朝某个地方去，或者去某个地方。"
+    },
+    {
+      "id": 54,
+      "en": "Alright, so if I'm driving my car and you ask me where I'm going, I'm saying, oh, I'm heading to to the bank.",
+      "cn": "好的，所以如果我开车，你问我去哪，我会说，哦，我去银行。"
+    },
+    {
+      "id": 55,
+      "en": "Right, so to head to means to be on your way somewhere, I'm going somewhere.",
+      "cn": "对，所以去意味着你在去某个地方，我正在去某个地方。"
+    },
+    {
+      "id": 56,
+      "en": "It's a way to say that you're in the process of going.",
+      "cn": "这是一种说你正在去的方式。"
+    },
+    {
+      "id": 57,
+      "en": "You can't say, next year I will head to Alaska.",
+      "cn": "你不能说，明年我将去阿拉斯加。"
+    },
+    {
+      "id": 58,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 59,
+      "en": "It doesn't make as much sense.",
+      "cn": "这不太有意义。"
+    },
+    {
+      "id": 60,
+      "en": "You usually say, you know, I'm heading to the bank, or let's head to the market.",
+      "cn": "你通常会说，你知道，我正在去银行，或者我们去市场吧。"
+    },
+    {
+      "id": 61,
+      "en": "Okay, and well, they were talking about heading to the market because they are hosting Christmas dinner, so to host.",
+      "cn": "好的，他们在谈论去市场，因为他们要举办圣诞晚餐，所以举办。"
+    },
+    {
+      "id": 62,
+      "en": "To host is a, well, it's a very important holiday term.",
+      "cn": "举办是一个，非常重要的节日术语。"
+    },
+    {
+      "id": 63,
+      "en": "It's a verb.",
+      "cn": "这是一个动词。"
+    },
+    {
+      "id": 64,
+      "en": "You do it, and it means that you are the person who has the special dinner, and your friends and family, they come to your house.",
+      "cn": "你做这件事，意味着你是举办特别晚餐的人，你的朋友和家人会来你家。"
+    },
+    {
+      "id": 65,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so we could say, this Christmas, I'm hosting the dinner at my house.",
+      "cn": "所以我们可以说，这个圣诞节，我在我家举办晚餐。"
+    },
+    {
+      "id": 67,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 68,
+      "en": "So I want everyone to come to my house and eat.",
+      "cn": "所以我希望每个人都来我家吃饭。"
+    },
+    {
+      "id": 69,
+      "en": "Alright, and it can also be a noun, right?",
+      "cn": "好的，它也可以是名词，对吧？"
+    },
+    {
+      "id": 70,
+      "en": "You can say, I am a host.",
+      "cn": "你可以说，我是一个主人。"
+    },
+    {
+      "id": 71,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 72,
+      "en": "I'm the host of this dinner.",
+      "cn": "我是这顿晚餐的主人。"
+    },
+    {
+      "id": 73,
+      "en": "Right, and it doesn't have to be holidays either.",
+      "cn": "对，而且这不一定是节日。"
+    },
+    {
+      "id": 74,
+      "en": "You could say, hey, Marco, how about you host a dinner next week?",
+      "cn": "你可以说，嘿，Marco，下周你来举办晚餐怎么样？"
+    },
+    {
+      "id": 75,
+      "en": "I'll come.",
+      "cn": "我会来。"
+    },
+    {
+      "id": 76,
+      "en": "Right, okay.",
+      "cn": "对，好的。"
+    },
+    {
+      "id": 77,
+      "en": "I'll bring wine.",
+      "cn": "我会带酒。"
+    },
+    {
+      "id": 78,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 79,
+      "en": "So, to host a dinner or to host a party, etc.",
+      "cn": "所以，举办晚餐或举办派对，等等。"
+    },
+    {
+      "id": 80,
+      "en": "And our fourth word for language takeaway is probably the most popular drink during the Christmas season, eggnog.",
+      "cn": "我们的第四个语言学习单词可能是圣诞季节最受欢迎的饮料，蛋奶酒。"
+    },
+    {
+      "id": 81,
+      "en": "Okay, it sounds kind of disgusting.",
+      "cn": "好的，听起来有点恶心。"
+    },
+    {
+      "id": 82,
+      "en": "Yeah, a drink with egg.",
+      "cn": "是啊，带蛋的饮料。"
+    },
+    {
+      "id": 83,
+      "en": "But it's a very popular, creamy, eggy drink.",
+      "cn": "但它是一种非常受欢迎的、奶油状的、蛋味的饮料。"
+    },
+    {
+      "id": 84,
+      "en": "It's very thick, and it's cream colored.",
+      "cn": "它非常浓稠，颜色是奶油色。"
+    },
+    {
+      "id": 85,
+      "en": "And normally you add a little bit of rum.",
+      "cn": "通常你会加一点朗姆酒。"
+    },
+    {
+      "id": 86,
+      "en": "Okay, so it's alcoholic.",
+      "cn": "好的，所以它是酒精饮料。"
+    },
+    {
+      "id": 87,
+      "en": "And you drink it warm.",
+      "cn": "你喝的时候是温热的。"
+    },
+    {
+      "id": 88,
+      "en": "And it's kind of just a thick, warm alcoholic beverage that's very, very popular.",
+      "cn": "它是一种非常浓稠、温暖的酒精饮料，非常受欢迎。"
+    },
+    {
+      "id": 89,
+      "en": "And my dad loves it.",
+      "cn": "我爸爸喜欢它。"
+    },
+    {
+      "id": 90,
+      "en": "During Christmas, right?",
+      "cn": "在圣诞节，对吧？"
+    },
+    {
+      "id": 91,
+      "en": "During Christmas.",
+      "cn": "在圣诞节。"
+    },
+    {
+      "id": 92,
+      "en": "You don't have it like any other day.",
+      "cn": "你不会在其他日子喝它。"
+    },
+    {
+      "id": 93,
+      "en": "No, you wouldn't want to.",
+      "cn": "不，你不会想要。"
+    },
+    {
+      "id": 94,
+      "en": "It's too heavy.",
+      "cn": "它太重了。"
+    },
+    {
+      "id": 95,
+      "en": "But it's very, very popular like the days before Christmas and on Christmas.",
+      "cn": "但在圣诞节前几天和圣诞节期间非常受欢迎。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so eggnog.",
+      "cn": "好的，所以蛋奶酒。"
+    },
+    {
+      "id": 97,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 98,
+      "en": "So I think we should take a look at the dialogue again.",
+      "cn": "所以我认为我们应该再看看这个对话。"
+    },
+    {
+      "id": 99,
+      "en": "And we'll be back soon with Fluency Builder.",
+      "cn": "我们很快会回来进行流利度训练。"
+    },
+    {
+      "id": 100,
+      "en": "Dad, Dad, Dad, wake up.",
+      "cn": "爸爸，爸爸，爸爸，醒醒。"
+    },
+    {
+      "id": 101,
+      "en": "It's Christmas.",
+      "cn": "圣诞节到了。"
+    },
+    {
+      "id": 102,
+      "en": "Timmy, it's too early for this.",
+      "cn": "蒂米，这太早了。"
+    },
+    {
+      "id": 103,
+      "en": "Look, it's six in the morning.",
+      "cn": "看，现在是早上六点。"
+    },
+    {
+      "id": 104,
+      "en": "Go back to bed.",
+      "cn": "回去睡觉。"
+    },
+    {
+      "id": 105,
+      "en": "No way!",
+      "cn": "不行！"
+    },
+    {
+      "id": 106,
+      "en": "Santa already came and left all our presents.",
+      "cn": "圣诞老人已经来了，留下了我们的所有礼物。"
+    },
+    {
+      "id": 107,
+      "en": "Can we go open them, please?",
+      "cn": "我们可以去打开它们吗？"
+    },
+    {
+      "id": 108,
+      "en": "Please?",
+      "cn": "请？"
+    },
+    {
+      "id": 109,
+      "en": "Of course we can, honey.",
+      "cn": "当然可以，亲爱的。"
+    },
+    {
+      "id": 110,
+      "en": "Bill, come on, get dressed.",
+      "cn": "比尔，快点，穿好衣服。"
+    },
+    {
+      "id": 111,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 112,
+      "en": "Not like Santa brought me any gifts.",
+      "cn": "不是说圣诞老人给我带了什么礼物。"
+    },
+    {
+      "id": 113,
+      "en": "Bill, honestly, you can be such a grouch sometimes.",
+      "cn": "比尔，老实说，你有时候真是个脾气暴躁的人。"
+    },
+    {
+      "id": 114,
+      "en": "Look at all these presents under the Christmas tree.",
+      "cn": "看看圣诞树下的这些礼物。"
+    },
+    {
+      "id": 115,
+      "en": "Awesome!",
+      "cn": "太棒了！"
+    },
+    {
+      "id": 116,
+      "en": "All right, Timmy, knock yourself out.",
+      "cn": "好吧，蒂米，尽情享受吧。"
+    },
+    {
+      "id": 117,
+      "en": "We should get ready and head to the market to buy everything for Christmas dinner tonight.",
+      "cn": "我们应该准备一下，去市场买今晚圣诞晚餐所需的一切。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 119,
+      "en": "It's the first time we're hosting Christmas dinner at our house.",
+      "cn": "这是我们第一次在家里举办圣诞晚餐。"
+    },
+    {
+      "id": 120,
+      "en": "So everything has to be perfect.",
+      "cn": "所以一切都必须完美。"
+    },
+    {
+      "id": 121,
+      "en": "I got the list right here.",
+      "cn": "我这里有清单。"
+    },
+    {
+      "id": 122,
+      "en": "Ham, Turkey, mashed potatoes, ingredients for the gravy, and of course, yams.",
+      "cn": "火腿，火鸡，土豆泥，肉汁的配料，当然还有红薯。"
+    },
+    {
+      "id": 123,
+      "en": "My dad offered to bring the eggnog, so we should be set.",
+      "cn": "我爸爸答应带蛋奶酒，所以我们应该准备好了。"
+    },
+    {
+      "id": 124,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 125,
+      "en": "So now let's take a look at a couple of phrases on Fluency Builder.",
+      "cn": "现在让我们看看流利度提升中的几个短语。"
+    },
+    {
+      "id": 126,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 127,
+      "en": "OK, so this first phrase is a phrase that I often heard as a child because I never wanted to go to sleep.",
+      "cn": "好的，这第一个短语是我小时候常听到的，因为我从来不想去睡觉。"
+    },
+    {
+      "id": 128,
+      "en": "So I'd go downstairs and my parents would say, Catherine, go back to bed.",
+      "cn": "所以我会下楼，我的父母会说，凯瑟琳，回去睡觉。"
+    },
+    {
+      "id": 129,
+      "en": "Go back to bed.",
+      "cn": "回去睡觉。"
+    },
+    {
+      "id": 130,
+      "en": "OK, go back to bed.",
+      "cn": "好吧，回去睡觉。"
+    },
+    {
+      "id": 131,
+      "en": "So this is just a very common, colloquial, spoken way of saying go back to sleep.",
+      "cn": "这只是一个非常常见的口语表达，意思是回去睡觉。"
+    },
+    {
+      "id": 132,
+      "en": "Go to sleep.",
+      "cn": "去睡觉。"
+    },
+    {
+      "id": 133,
+      "en": "Don't be awake.",
+      "cn": "不要醒着。"
+    },
+    {
+      "id": 134,
+      "en": "So you can say go to sleep or you can say go to bed.",
+      "cn": "所以你可以说去睡觉，或者你可以说回去睡觉。"
+    },
+    {
+      "id": 135,
+      "en": "Or if somebody has gotten out of bed, you say go back to bed.",
+      "cn": "或者如果有人已经起床，你可以说回去睡觉。"
+    },
+    {
+      "id": 136,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 137,
+      "en": "And so parents often use this with their kids because they want their kids to sleep.",
+      "cn": "所以父母常常对他们的孩子使用这个，因为他们希望孩子们能睡觉。"
+    },
+    {
+      "id": 138,
+      "en": "You can also say it about someone who's, you know, up at night worrying and you say, come on, go back to bed, go to sleep, relax.",
+      "cn": "你也可以对那些晚上担心的人说，快点，回去睡觉，去睡觉，放松一下。"
+    },
+    {
+      "id": 139,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 140,
+      "en": "And then we also saw this phrase, knock yourself out.",
+      "cn": "然后我们还看到这个短语，尽情享受。"
+    },
+    {
+      "id": 141,
+      "en": "All right, Timmy, knock yourself out.",
+      "cn": "好吧，蒂米，尽情享受。"
+    },
+    {
+      "id": 142,
+      "en": "So what is this?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 143,
+      "en": "Knock yourself out.",
+      "cn": "尽情享受。"
+    },
+    {
+      "id": 144,
+      "en": "Well, I'm not really sure where this phrase comes from.",
+      "cn": "嗯，我不太确定这个短语的来源。"
+    },
+    {
+      "id": 145,
+      "en": "I mean, to knock is like to knock on a door, right?",
+      "cn": "我的意思是，敲是像敲门，对吧？"
+    },
+    {
+      "id": 146,
+      "en": "But to knock yourself out, if I think about it, it probably means that you hit yourself in the head and you fall over.",
+      "cn": "但“敲自己出去”，如果我想想，可能意味着你打了自己的头，然后摔倒。"
+    },
+    {
+      "id": 147,
+      "en": "But the real meaning of this is go have fun.",
+      "cn": "但这个短语的真正含义是去玩得开心。"
+    },
+    {
+      "id": 148,
+      "en": "OK, have as much fun as you can have.",
+      "cn": "好的，尽可能地玩得开心。"
+    },
+    {
+      "id": 149,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 150,
+      "en": "Have as much fun as you want.",
+      "cn": "尽可能地玩得开心。"
+    },
+    {
+      "id": 151,
+      "en": "Go knock yourself out.",
+      "cn": "去尽情享受吧。"
+    },
+    {
+      "id": 152,
+      "en": "So the parent is saying, hey, Timmy, go have as much fun as you want.",
+      "cn": "所以父母在说，嘿，蒂米，去尽情享受吧。"
+    },
+    {
+      "id": 153,
+      "en": "Just go do it.",
+      "cn": "就去做吧。"
+    },
+    {
+      "id": 154,
+      "en": "Enjoy yourself.",
+      "cn": "享受自己。"
+    },
+    {
+      "id": 155,
+      "en": "Yeah, like go open all these presents.",
+      "cn": "是的，去打开所有这些礼物。"
+    },
+    {
+      "id": 156,
+      "en": "Have all the fun you want.",
+      "cn": "尽情享受吧。"
+    },
+    {
+      "id": 157,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 158,
+      "en": "And then we saw another phrase when they finished talking about dinner and all the things they have to buy.",
+      "cn": "然后我们看到另一个短语，当他们谈完晚餐和所有需要购买的东西时。"
+    },
+    {
+      "id": 159,
+      "en": "They said we should be set.",
+      "cn": "他们说我们应该准备好了。"
+    },
+    {
+      "id": 160,
+      "en": "We should be set or we are set.",
+      "cn": "我们应该准备好或我们准备好了。"
+    },
+    {
+      "id": 161,
+      "en": "Well, this is funny because she says, well, my dad's going to bring the eggnog, so we should be set, which means we should have everything we need.",
+      "cn": "这很有趣，因为她说，我爸爸会带蛋奶酒，所以我们应该准备好了，这意味着我们应该有我们需要的一切。"
+    },
+    {
+      "id": 162,
+      "en": "So we don't need anything else.",
+      "cn": "所以我们不需要其他东西。"
+    },
+    {
+      "id": 163,
+      "en": "We're ready.",
+      "cn": "我们准备好了。"
+    },
+    {
+      "id": 164,
+      "en": "Everything is good.",
+      "cn": "一切都很好。"
+    },
+    {
+      "id": 165,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 166,
+      "en": "So we can say we are set.",
+      "cn": "所以我们可以说我们准备好了。"
+    },
+    {
+      "id": 167,
+      "en": "I'm set.",
+      "cn": "我准备好了。"
+    },
+    {
+      "id": 168,
+      "en": "Are you set?",
+      "cn": "你准备好了吗？"
+    },
+    {
+      "id": 169,
+      "en": "It's a way to say, are you ready?",
+      "cn": "这是一种问你准备好了吗？"
+    },
+    {
+      "id": 170,
+      "en": "Are you prepared?",
+      "cn": "你准备好了吗？"
+    },
+    {
+      "id": 171,
+      "en": "Do you have everything you need?",
+      "cn": "你有你需要的一切吗？"
+    },
+    {
+      "id": 172,
+      "en": "So I often use this when I'm going on a trip.",
+      "cn": "所以我经常在旅行时使用这个。"
+    },
+    {
+      "id": 173,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 174,
+      "en": "Are you set?",
+      "cn": "你准备好了吗？"
+    },
+    {
+      "id": 175,
+      "en": "Did you pack everything?",
+      "cn": "你把所有东西都打包好了吗？"
+    },
+    {
+      "id": 176,
+      "en": "Are you all set?",
+      "cn": "你准备好了吗？"
+    },
+    {
+      "id": 177,
+      "en": "Are you all set?",
+      "cn": "你准备好了吗？"
+    },
+    {
+      "id": 178,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 179,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 180,
+      "en": "I finished packing.",
+      "cn": "我打包好了。"
+    },
+    {
+      "id": 181,
+      "en": "I'm all set.",
+      "cn": "我准备好了。"
+    },
+    {
+      "id": 182,
+      "en": "I'm ready to go.",
+      "cn": "我准备出发。"
+    },
+    {
+      "id": 183,
+      "en": "All set and ready to go.",
+      "cn": "一切准备就绪，随时出发。"
+    },
+    {
+      "id": 184,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 185,
+      "en": "OK, so some interesting phrases there as well.",
+      "cn": "好的，这里还有一些有趣的短语。"
+    },
+    {
+      "id": 186,
+      "en": "Why don't we have a look at our dialogue for the last time?",
+      "cn": "我们最后再看看我们的对话吧？"
+    },
+    {
+      "id": 187,
+      "en": "Dad, dad, dad, wake up.",
+      "cn": "爸爸，爸爸，爸爸，醒醒。"
+    },
+    {
+      "id": 188,
+      "en": "It's Christmas.",
+      "cn": "圣诞节到了。"
+    },
+    {
+      "id": 189,
+      "en": "Timmy, it's too early for this.",
+      "cn": "蒂米，这太早了。"
+    },
+    {
+      "id": 190,
+      "en": "Look, it's six in the morning.",
+      "cn": "看，现在是早上六点。"
+    },
+    {
+      "id": 191,
+      "en": "Go back to bed.",
+      "cn": "回去睡觉。"
+    },
+    {
+      "id": 192,
+      "en": "No way.",
+      "cn": "不行。"
+    },
+    {
+      "id": 193,
+      "en": "Santa already came and left all our presents.",
+      "cn": "圣诞老人已经来了，留下了我们的所有礼物。"
+    },
+    {
+      "id": 194,
+      "en": "Can we go open them, please?",
+      "cn": "我们可以去打开它们吗？"
+    },
+    {
+      "id": 195,
+      "en": "Please?",
+      "cn": "请？"
+    },
+    {
+      "id": 196,
+      "en": "Of course we can, honey.",
+      "cn": "当然可以，亲爱的。"
+    },
+    {
+      "id": 197,
+      "en": "Bill, come on, get dressed.",
+      "cn": "比尔，快点，穿好衣服。"
+    },
+    {
+      "id": 198,
+      "en": "Fine.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 199,
+      "en": "Not like Santa brought me any gifts.",
+      "cn": "反正圣诞老人也没给我带礼物。"
+    },
+    {
+      "id": 200,
+      "en": "Bill, honestly, you can be such a grouch sometimes.",
+      "cn": "比尔，老实说，你有时候真是个脾气不好的人。"
+    },
+    {
+      "id": 201,
+      "en": "Look at all these presents under the Christmas tree.",
+      "cn": "看看圣诞树下的这些礼物。"
+    },
+    {
+      "id": 202,
+      "en": "Awesome.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 203,
+      "en": "All right, Timmy, knock yourself out.",
+      "cn": "好吧，蒂米，尽情享受吧。"
+    },
+    {
+      "id": 204,
+      "en": "We should get ready and head to the market to buy everything for Christmas dinner tonight.",
+      "cn": "我们应该准备一下，去市场买今晚圣诞晚餐的一切。"
+    },
+    {
+      "id": 205,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 206,
+      "en": "It's the first time we're hosting Christmas dinner at our house.",
+      "cn": "这是我们第一次在家里举办圣诞晚餐。"
+    },
+    {
+      "id": 207,
+      "en": "So everything has to be perfect.",
+      "cn": "所以一切都必须完美。"
+    },
+    {
+      "id": 208,
+      "en": "I got the list right here.",
+      "cn": "我这里有清单。"
+    },
+    {
+      "id": 209,
+      "en": "Ham, Turkey, mashed potatoes, ingredients for the gravy and, of course, yams.",
+      "cn": "火腿，火鸡，土豆泥，肉汁的配料，当然还有红薯。"
+    },
+    {
+      "id": 210,
+      "en": "My dad offered to bring the eggnog, so we should be set.",
+      "cn": "我爸爸提议带蛋奶酒，所以我们应该没问题。"
+    },
+    {
+      "id": 211,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 212,
+      "en": "So as you mentioned, Christmas morning is great.",
+      "cn": "正如你提到的，圣诞早晨很棒。"
+    },
+    {
+      "id": 213,
+      "en": "You open presents and, well, breakfast.",
+      "cn": "你打开礼物，还有早餐。"
+    },
+    {
+      "id": 214,
+      "en": "And it's a time to be together with your parents, your family.",
+      "cn": "这是和父母、家人一起的时光。"
+    },
+    {
+      "id": 215,
+      "en": "But as in this case, you can be a little bit of a grouch because you're just kind of tired because you had Thanksgiving in November and then Christmas and now you're having New Year's.",
+      "cn": "但在这种情况下，你可能会有点脾气，因为你只是有点累，因为你在十一月过了感恩节，然后是圣诞节，现在又要过新年。"
+    },
+    {
+      "id": 216,
+      "en": "So you're kind of just like, yeah, the holiday season can be exhausting.",
+      "cn": "所以你有点像，是的，假期季节可能会很累。"
+    },
+    {
+      "id": 217,
+      "en": "And I know a lot of families have a special dinner on the 24th, that's Christmas Eve.",
+      "cn": "我知道很多家庭在24号有特别的晚餐，那是平安夜。"
+    },
+    {
+      "id": 218,
+      "en": "And then by the time it's Christmas Day, the 25th, you're exhausted.",
+      "cn": "然后等到圣诞节的25号，你就累坏了。"
+    },
+    {
+      "id": 219,
+      "en": "You didn't get any sleep.",
+      "cn": "你根本没睡好。"
+    },
+    {
+      "id": 220,
+      "en": "You might have had too much to drink last night.",
+      "cn": "你昨晚可能喝得太多了。"
+    },
+    {
+      "id": 221,
+      "en": "And so it can be very tiring also because the kids always get up way too early, like six o'clock.",
+      "cn": "所以这也可能很累，因为孩子们总是起得太早，比如六点。"
+    },
+    {
+      "id": 222,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 223,
+      "en": "To open their presents.",
+      "cn": "去打开他们的礼物。"
+    },
+    {
+      "id": 224,
+      "en": "And then they'll be playing with their toys all day and you'll be you'll have a headache.",
+      "cn": "然后他们会整天玩玩具，而你会头疼。"
+    },
+    {
+      "id": 225,
+      "en": "But it's a great season to spend time with the family.",
+      "cn": "但这是一个与家人共度时光的好季节。"
+    },
+    {
+      "id": 226,
+      "en": "And well, we want to know how you spend your Christmas Eve and your Christmas morning.",
+      "cn": "我们想知道你是如何度过你的平安夜和圣诞早晨的。"
+    },
+    {
+      "id": 227,
+      "en": "So why don't you come to our website, EnglishPod.com and leave your questions and comments there as well.",
+      "cn": "所以你为什么不来我们的网站，EnglishPod.com，留下你的问题和评论呢？"
+    },
+    {
+      "id": 228,
+      "en": "We're looking forward to hearing from you again.",
+      "cn": "我们期待再次听到你的消息。"
+    },
+    {
+      "id": 229,
+      "en": "Happy holiday season.",
+      "cn": "节日快乐。"
+    },
+    {
+      "id": 230,
+      "en": "And until next time, bye bye.",
+      "cn": "下次见，再见。"
+    }
+  ]
+}

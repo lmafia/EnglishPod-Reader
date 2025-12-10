@@ -1,0 +1,929 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0093",
+  "title": "EnglishPod 中高级 0093",
+  "totalSegments": 184,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you another part of our sports series, and today we're going to be talking about volleyball.",
+      "cn": "今天我们将为您带来体育系列的另一部分，今天我们要谈论排球。"
+    },
+    {
+      "id": 6,
+      "en": "That's right, and we're going all the way to New Zealand to visit the men's volleyball championships.",
+      "cn": "没错，我们将前往新西兰，参加男子排球锦标赛。"
+    },
+    {
+      "id": 7,
+      "en": "So we're going to be looking at some great words and phrases related to volleyball, and also how to describe a sporting event.",
+      "cn": "我们将查看一些与排球相关的精彩词汇和短语，以及如何描述体育赛事。"
+    },
+    {
+      "id": 8,
+      "en": "So before we start on the dialogue, let's take a look at two words on Vocabulary Preview.",
+      "cn": "在我们开始对话之前，让我们先看一下词汇预览中的两个词。"
+    },
+    {
+      "id": 9,
+      "en": "All right, we're going to hear both of these words in the dialogue.",
+      "cn": "好的，我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 10,
+      "en": "Now, the first one, encounter.",
+      "cn": "第一个词，遭遇。"
+    },
+    {
+      "id": 11,
+      "en": "An exciting encounter.",
+      "cn": "一场激动人心的遭遇。"
+    },
+    {
+      "id": 12,
+      "en": "All right, so if we have an exciting encounter, it means we have an exciting meeting of two people, or two teams, or two groups.",
+      "cn": "如果我们有一场激动人心的遭遇，意味着我们有两个人、两支队伍或两个团体的激动人心的会面。"
+    },
+    {
+      "id": 13,
+      "en": "If I say I had an incredible encounter last night with my best friend.",
+      "cn": "如果我说我昨晚和我最好的朋友有了一次不可思议的遭遇。"
+    },
+    {
+      "id": 14,
+      "en": "You met up with your best friend and something happened.",
+      "cn": "你和你最好的朋友见面了，发生了一些事情。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, so that's what an encounter would mean.",
+      "cn": "好的，这就是遭遇的意思。"
+    },
+    {
+      "id": 16,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 17,
+      "en": "Looking at our second word now, powerhouse.",
+      "cn": "现在来看我们的第二个词，强队。"
+    },
+    {
+      "id": 18,
+      "en": "Two powerhouse teams.",
+      "cn": "两支强队。"
+    },
+    {
+      "id": 19,
+      "en": "All right, so we have two powerhouse teams, China and Brazil.",
+      "cn": "没错，我们有两支强队，中国和巴西。"
+    },
+    {
+      "id": 20,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 21,
+      "en": "So a powerhouse team is basically a strong, powerful, really energetic, great team, right?",
+      "cn": "所以强队基本上是指一支强大、有力、充满活力的优秀团队，对吧？"
+    },
+    {
+      "id": 22,
+      "en": "Okay, so we can use it for teams, such as in this case, but we can also describe maybe a company or a person as a powerhouse.",
+      "cn": "好的，我们可以用它来形容队伍，比如在这种情况下，但我们也可以形容一家公司或一个人是强队。"
+    },
+    {
+      "id": 23,
+      "en": "That guy is a powerhouse.",
+      "cn": "那个人是个强队。"
+    },
+    {
+      "id": 24,
+      "en": "He can lift 500 pounds.",
+      "cn": "他能举起500磅。"
+    },
+    {
+      "id": 25,
+      "en": "Now I think it's time for us to listen to our dialogue for the first time.",
+      "cn": "现在我想是时候第一次听我们的对话了。"
+    },
+    {
+      "id": 26,
+      "en": "We're going to be listening to this great sporting event as we are taken to New Zealand to see China and Brazil play.",
+      "cn": "我们将听到这场精彩的体育赛事，带我们去新西兰观看中国和巴西的比赛。"
+    },
+    {
+      "id": 27,
+      "en": "It's a beautiful day here in New Zealand at the Men's Volleyball World Championship.",
+      "cn": "今天在新西兰男子排球世界锦标赛上是个美丽的日子。"
+    },
+    {
+      "id": 28,
+      "en": "My name is Rick Fields and I'm joined by the man with the plan, Bob Copeland.",
+      "cn": "我叫Rick Fields，身边是计划者Bob Copeland。"
+    },
+    {
+      "id": 29,
+      "en": "Thank you, Rick.",
+      "cn": "谢谢你，Rick。"
+    },
+    {
+      "id": 30,
+      "en": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+      "cn": "今天我们有一场非常激动人心的遭遇，两支强队，巴西和中国，正在对抗并争取晋级下一轮。"
+    },
+    {
+      "id": 31,
+      "en": "Without a doubt, both teams are in top shape, and this will prove to be a competitive match.",
+      "cn": "毫无疑问，两队状态都很好，这将是一场竞争激烈的比赛。"
+    },
+    {
+      "id": 32,
+      "en": "The ref signals the start of the game, and here we go!",
+      "cn": "裁判发出比赛开始的信号，开始了！"
+    },
+    {
+      "id": 33,
+      "en": "Ribert who serves and China quickly receives the ball.",
+      "cn": "Ribert发球，中国迅速接到球。"
+    },
+    {
+      "id": 34,
+      "en": "Chun bumps it to the center, and a very nice set by Chun.",
+      "cn": "Chun将球传到中间，Chun的传球非常漂亮。"
+    },
+    {
+      "id": 35,
+      "en": "Shue spikes it.",
+      "cn": "Shue扣杀。"
+    },
+    {
+      "id": 36,
+      "en": "Wow, what a great hit.",
+      "cn": "哇，真是个精彩的击球。"
+    },
+    {
+      "id": 37,
+      "en": "The Brazilian blockers anticipated the play and tried to block him, but he managed to get the ball in.",
+      "cn": "巴西的拦网手预判了这个动作并试图拦住他，但他成功将球打入。"
+    },
+    {
+      "id": 38,
+      "en": "Great play.",
+      "cn": "精彩的表现。"
+    },
+    {
+      "id": 39,
+      "en": "It's China's service now.",
+      "cn": "现在是中国发球。"
+    },
+    {
+      "id": 40,
+      "en": "What a superb jump serve by Li.",
+      "cn": "Li的跳发球真是太棒了。"
+    },
+    {
+      "id": 41,
+      "en": "Oh, and we have a let's serve.",
+      "cn": "哦，我们有一个“让球”。"
+    },
+    {
+      "id": 42,
+      "en": "The ball was coming in fast and almost made it over the net.",
+      "cn": "球飞得很快，差点越过了网。"
+    },
+    {
+      "id": 43,
+      "en": "Brazil calls for a timeout, and we'll be right back after a short commercial break.",
+      "cn": "巴西请求暂停，我们将在短暂的商业广告后回来。"
+    },
+    {
+      "id": 44,
+      "en": "Well, sounds like a pretty exciting encounter between these two countries.",
+      "cn": "听起来这两国之间的遭遇相当激动人心。"
+    },
+    {
+      "id": 45,
+      "en": "Very good teams, and both of them, as they mentioned, are powerhouse teams.",
+      "cn": "非常好的队伍，正如他们提到的，都是强队。"
+    },
+    {
+      "id": 46,
+      "en": "Well, why don't we take a look at some of the vocabulary that we came across in this dialogue.",
+      "cn": "那么，为什么我们不看看在这段对话中遇到的一些词汇呢？"
+    },
+    {
+      "id": 47,
+      "en": "We're gonna be focusing on volleyball words here in Language Takeaway.",
+      "cn": "我们将专注于排球词汇，在语言收获中。"
+    },
+    {
+      "id": 48,
+      "en": "Language Takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 49,
+      "en": "Okay, so in Language Takeaway today, we're gonna have six words, and let's start with the first one.",
+      "cn": "好的，今天在语言收获中，我们将有六个词，让我们从第一个开始。"
+    },
+    {
+      "id": 50,
+      "en": "Chen bumps it to the setter.",
+      "cn": "Chen将球传给传球手。"
+    },
+    {
+      "id": 51,
+      "en": "Right, to bump.",
+      "cn": "对，传球。"
+    },
+    {
+      "id": 52,
+      "en": "All right, so in volleyball, when you are going to receive the ball, you put your arms together and you hit it with your forearms.",
+      "cn": "在排球中，当你要接球时，你将双臂合并，用前臂击球。"
+    },
+    {
+      "id": 53,
+      "en": "That's right, so at the top of your arm.",
+      "cn": "没错，就是在手臂的上部。"
+    },
+    {
+      "id": 54,
+      "en": "Right, and that's how you pass it to another player.",
+      "cn": "对，这样你就可以将球传给另一个球员。"
+    },
+    {
+      "id": 55,
+      "en": "That's called a bump.",
+      "cn": "这叫做传球。"
+    },
+    {
+      "id": 56,
+      "en": "So it is a noun and a verb.",
+      "cn": "所以它既是名词也是动词。"
+    },
+    {
+      "id": 57,
+      "en": "A bump to bump.",
+      "cn": "传球，传球。"
+    },
+    {
+      "id": 58,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 59,
+      "en": "Now another type of way to move the ball in volleyball we heard in the dialogue is a set.",
+      "cn": "现在在对话中提到的另一种传球方式是传球。"
+    },
+    {
+      "id": 60,
+      "en": "A very nice set by Chen.",
+      "cn": "Chen的传球非常漂亮。"
+    },
+    {
+      "id": 61,
+      "en": "So a set or to set.",
+      "cn": "所以传球或传球。"
+    },
+    {
+      "id": 62,
+      "en": "Right, the word can be used as a verb and a noun.",
+      "cn": "对，这个词可以用作动词和名词。"
+    },
+    {
+      "id": 63,
+      "en": "And again, you take the ball and you move it with the tips of your fingers.",
+      "cn": "再次，你用手指尖移动球。"
+    },
+    {
+      "id": 64,
+      "en": "That is actually done by the setter.",
+      "cn": "这实际上是由传球手完成的。"
+    },
+    {
+      "id": 65,
+      "en": "Right, that is done by the setter.",
+      "cn": "对，这由传球手完成。"
+    },
+    {
+      "id": 66,
+      "en": "And he does this, he sets the ball so then the attacker can spike the ball.",
+      "cn": "他这样做，传球给攻击手，以便攻击手可以扣杀。"
+    },
+    {
+      "id": 67,
+      "en": "That's our next word, to spike.",
+      "cn": "这是我们的下一个词，扣杀。"
+    },
+    {
+      "id": 68,
+      "en": "So to spike the ball.",
+      "cn": "所以扣杀球。"
+    },
+    {
+      "id": 69,
+      "en": "Or a spike.",
+      "cn": "或者一个扣杀。"
+    },
+    {
+      "id": 70,
+      "en": "Is when you hit the ball very hard and very fast with the palm of your hand.",
+      "cn": "是当你用手掌非常用力和快速地击打球。"
+    },
+    {
+      "id": 71,
+      "en": "That's right, and that's how you score your points, right?",
+      "cn": "没错，这就是你得分的方式，对吧？"
+    },
+    {
+      "id": 72,
+      "en": "Exactly, so you'll see three basic moves.",
+      "cn": "正是如此，所以你会看到三种基本动作。"
+    },
+    {
+      "id": 73,
+      "en": "The bump, set, and spike.",
+      "cn": "传球、传球和扣杀。"
+    },
+    {
+      "id": 74,
+      "en": "But what about the serve?",
+      "cn": "但是发球呢？"
+    },
+    {
+      "id": 75,
+      "en": "Alright, so our fourth word in volleyball is service.",
+      "cn": "好的，排球中的第四个词是发球。"
+    },
+    {
+      "id": 76,
+      "en": "So it's China's service now.",
+      "cn": "现在是中国发球。"
+    },
+    {
+      "id": 77,
+      "en": "Right, so the service is the opportunity for the team to serve the ball.",
+      "cn": "对，发球是球队发球的机会。"
+    },
+    {
+      "id": 78,
+      "en": "Yeah, pretty simple.",
+      "cn": "是的，非常简单。"
+    },
+    {
+      "id": 79,
+      "en": "Right, and that means basically to start the game by hitting it to the other side.",
+      "cn": "对，这基本上意味着通过将球击向另一侧来开始比赛。"
+    },
+    {
+      "id": 80,
+      "en": "Now one type of serve is the jump serve.",
+      "cn": "现在一种发球方式是跳发球。"
+    },
+    {
+      "id": 81,
+      "en": "Jump serve.",
+      "cn": "跳发球。"
+    },
+    {
+      "id": 82,
+      "en": "Jump serve.",
+      "cn": "跳发球。"
+    },
+    {
+      "id": 83,
+      "en": "Now this is very popular and you will see some players do this.",
+      "cn": "这非常流行，你会看到一些球员这样做。"
+    },
+    {
+      "id": 84,
+      "en": "They will throw the ball in the air and then jump in the air and hit it.",
+      "cn": "他们会将球抛向空中，然后跳起来击打它。"
+    },
+    {
+      "id": 85,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 86,
+      "en": "Alright, so that's a jump serve.",
+      "cn": "好的，这就是跳发球。"
+    },
+    {
+      "id": 87,
+      "en": "And our last word for today is let's serve.",
+      "cn": "今天我们的最后一个词是让球。"
+    },
+    {
+      "id": 88,
+      "en": "A let's serve.",
+      "cn": "一个让球。"
+    },
+    {
+      "id": 89,
+      "en": "Okay, we have a let's serve today.",
+      "cn": "好的，今天我们有一个让球。"
+    },
+    {
+      "id": 90,
+      "en": "So a let's serve is when you serve the ball and it sort of brushes over the net.",
+      "cn": "所以让球是当你发球时，球轻轻掠过网。"
+    },
+    {
+      "id": 91,
+      "en": "Right, it'll hit the net but it will still pass to the other side.",
+      "cn": "对，它会碰到网，但仍然会传到另一侧。"
+    },
+    {
+      "id": 92,
+      "en": "That's right, and that's an illegal move in volleyball, isn't it?",
+      "cn": "没错，这在排球中是一个非法动作，不是吗？"
+    },
+    {
+      "id": 93,
+      "en": "When you are serving, yes.",
+      "cn": "当你发球时，是的。"
+    },
+    {
+      "id": 94,
+      "en": "So a let's serve.",
+      "cn": "所以一个让球。"
+    },
+    {
+      "id": 95,
+      "en": "Right, so those are the six terms related to volleyball that we're going to be looking at today.",
+      "cn": "对，所以这些是我们今天要看的与排球相关的六个术语。"
+    },
+    {
+      "id": 96,
+      "en": "And well, with this in mind, let's move on to looking at some phrases now in, what is it, Fluency Builder.",
+      "cn": "那么，考虑到这一点，让我们继续看看一些短语，现在在流利构建中。"
+    },
+    {
+      "id": 97,
+      "en": "Fluency Builder.",
+      "cn": "流利构建。"
+    },
+    {
+      "id": 98,
+      "en": "Alright, so our two announcers, Bob and Rick, said that we've got an exciting encounter ahead of us.",
+      "cn": "好的，我们的两位解说员Bob和Rick说我们有一场激动人心的遭遇在前面。"
+    },
+    {
+      "id": 99,
+      "en": "Right, so they use this phrase ahead of us.",
+      "cn": "对，他们使用了这个短语在我们面前。"
+    },
+    {
+      "id": 100,
+      "en": "Ahead of us.",
+      "cn": "在我们面前。"
+    },
+    {
+      "id": 101,
+      "en": "So basically, what does that mean?",
+      "cn": "基本上，这意味着什么？"
+    },
+    {
+      "id": 102,
+      "en": "Something will happen in the very near future.",
+      "cn": "很快就会发生一些事情。"
+    },
+    {
+      "id": 103,
+      "en": "So they are expecting it or they will encounter it maybe.",
+      "cn": "所以他们在期待，或者可能会遇到。"
+    },
+    {
+      "id": 104,
+      "en": "Yes, so why don't we give a few examples of this phrase.",
+      "cn": "是的，那我们为什么不举几个这个短语的例子呢。"
+    },
+    {
+      "id": 105,
+      "en": "Marco, we've got a long day ahead of us.",
+      "cn": "马尔科，我们今天有很长的一天。"
+    },
+    {
+      "id": 106,
+      "en": "We have a very exciting trip ahead of us today.",
+      "cn": "我们今天有一个非常激动人心的旅行。"
+    },
+    {
+      "id": 107,
+      "en": "Okay, so ahead of us.",
+      "cn": "好的，前方有我们。"
+    },
+    {
+      "id": 108,
+      "en": "So we know it's an exciting game and we heard the announcers say without a doubt both teams are in top shape.",
+      "cn": "所以我们知道这是一个激动人心的比赛，我们听到解说员毫无疑问地说两队状态都很好。"
+    },
+    {
+      "id": 109,
+      "en": "Okay, so the phrase without a doubt.",
+      "cn": "好的，所以短语“毫无疑问”。"
+    },
+    {
+      "id": 110,
+      "en": "Without a doubt.",
+      "cn": "毫无疑问。"
+    },
+    {
+      "id": 111,
+      "en": "So if I start a phrase using without a doubt.",
+      "cn": "所以如果我用“毫无疑问”开始一个短语。"
+    },
+    {
+      "id": 112,
+      "en": "You're basically saying there's no question.",
+      "cn": "你基本上是在说没有问题。"
+    },
+    {
+      "id": 113,
+      "en": "It's so obvious.",
+      "cn": "这太明显了。"
+    },
+    {
+      "id": 114,
+      "en": "This definitely is true.",
+      "cn": "这绝对是真的。"
+    },
+    {
+      "id": 115,
+      "en": "It's very true.",
+      "cn": "这非常真实。"
+    },
+    {
+      "id": 116,
+      "en": "Okay, so without a doubt, EnglishPod is the best podcast out there.",
+      "cn": "好的，所以毫无疑问，EnglishPod是最好的播客。"
+    },
+    {
+      "id": 117,
+      "en": "Without a doubt, this is the strategy we should take.",
+      "cn": "毫无疑问，这是我们应该采取的策略。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 119,
+      "en": "So without a doubt, why don't we move on to our third phrase now.",
+      "cn": "所以毫无疑问，我们现在为什么不继续我们的第三个短语呢。"
+    },
+    {
+      "id": 120,
+      "en": "This will prove to be a competitive match.",
+      "cn": "这将证明是一场竞争激烈的比赛。"
+    },
+    {
+      "id": 121,
+      "en": "So let's look at the phrase will prove to be something will prove to be.",
+      "cn": "所以让我们看看短语“将证明是某事”。"
+    },
+    {
+      "id": 122,
+      "en": "Okay, so before we get into it, why don't we listen to some examples.",
+      "cn": "好的，在我们深入之前，为什么不听一些例子。"
+    },
+    {
+      "id": 123,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 124,
+      "en": "And I think you will prove to be the greatest president we've ever had.",
+      "cn": "我认为你将证明是我们有过的最伟大的总统。"
+    },
+    {
+      "id": 125,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 126,
+      "en": "The new HR policy is proving to be a waste of time.",
+      "cn": "新的人力资源政策证明是浪费时间。"
+    },
+    {
+      "id": 127,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 128,
+      "en": "We were worried that we were going to get laid off, but our fears proved to be untrue.",
+      "cn": "我们担心会被裁员，但我们的担忧证明是错误的。"
+    },
+    {
+      "id": 129,
+      "en": "Okay, so when something will prove to be it will show itself to be this thing, right?",
+      "cn": "好的，所以当某事将证明是时，它将显示自己是这个东西，对吗？"
+    },
+    {
+      "id": 130,
+      "en": "It will demonstrate.",
+      "cn": "它将展示。"
+    },
+    {
+      "id": 131,
+      "en": "We will see it.",
+      "cn": "我们会看到它。"
+    },
+    {
+      "id": 132,
+      "en": "We will see for sure how it will be.",
+      "cn": "我们会确实看到它将会如何。"
+    },
+    {
+      "id": 133,
+      "en": "And now for our fourth phrase, a very simple one, but very common in sports commentators or when you're watching a game.",
+      "cn": "现在是我们的第四个短语，一个非常简单的，但在体育评论员或观看比赛时非常常见。"
+    },
+    {
+      "id": 134,
+      "en": "You'll say great play.",
+      "cn": "你会说精彩的表现。"
+    },
+    {
+      "id": 135,
+      "en": "Great play.",
+      "cn": "精彩的表现。"
+    },
+    {
+      "id": 136,
+      "en": "Great play.",
+      "cn": "精彩的表现。"
+    },
+    {
+      "id": 137,
+      "en": "A great play.",
+      "cn": "一次精彩的表现。"
+    },
+    {
+      "id": 138,
+      "en": "Now we know play is usually a verb, right?",
+      "cn": "现在我们知道“表现”通常是一个动词，对吗？"
+    },
+    {
+      "id": 139,
+      "en": "But here it's acting as a noun.",
+      "cn": "但在这里它作为名词使用。"
+    },
+    {
+      "id": 140,
+      "en": "A play is basically a move in a sport or a game.",
+      "cn": "一次表现基本上是体育或游戏中的一个动作。"
+    },
+    {
+      "id": 141,
+      "en": "So when somebody says a great play it means all the succession of moves and passes and hits to make the point.",
+      "cn": "所以当有人说一次精彩的表现时，它意味着所有的动作、传球和击球的连续过程以得分。"
+    },
+    {
+      "id": 142,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 143,
+      "en": "So it was a great play.",
+      "cn": "所以这是一次精彩的表现。"
+    },
+    {
+      "id": 144,
+      "en": "And you can use that for any sport.",
+      "cn": "你可以在任何运动中使用这个。"
+    },
+    {
+      "id": 145,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 146,
+      "en": "So why don't we listen to our dialogue now for the second time and then we'll come back and talk about this very popular sport, volleyball.",
+      "cn": "所以我们现在为什么不再听一次我们的对话，然后我们再回来谈谈这个非常受欢迎的运动，排球。"
+    },
+    {
+      "id": 147,
+      "en": "It's a beautiful day here in New Zealand at the men's volleyball world championship.",
+      "cn": "新西兰男子排球世界锦标赛的今天是个美丽的日子。"
+    },
+    {
+      "id": 148,
+      "en": "My name is Rick Fields and I'm joined by the man of the plan, Bob Copeland.",
+      "cn": "我叫瑞克·菲尔兹，我的搭档是计划之人，鲍勃·科普兰。"
+    },
+    {
+      "id": 149,
+      "en": "Thank you, Rick.",
+      "cn": "谢谢你，瑞克。"
+    },
+    {
+      "id": 150,
+      "en": "We've got a very exciting encounter ahead of us today as two powerhouse teams, Brazil and China, face off against each other and try to qualify for the next round.",
+      "cn": "今天我们有一场非常激动人心的对决，两支强队，巴西和中国，互相对抗，争取晋级下一轮。"
+    },
+    {
+      "id": 151,
+      "en": "Without a doubt, both teams are in top shape and this will prove to be a competitive match.",
+      "cn": "毫无疑问，两队状态都很好，这将证明是一场竞争激烈的比赛。"
+    },
+    {
+      "id": 152,
+      "en": "The ref signals the start of the game and here we go.",
+      "cn": "裁判发出比赛开始的信号，开始了。"
+    },
+    {
+      "id": 153,
+      "en": "Ribeiro serves and China quickly receives the ball.",
+      "cn": "里贝罗发球，中国迅速接到球。"
+    },
+    {
+      "id": 154,
+      "en": "Chun bumps it to the center and a very nice set by Chun.",
+      "cn": "春将球传到中间，春的传球非常漂亮。"
+    },
+    {
+      "id": 155,
+      "en": "Shu spikes it.",
+      "cn": "书猛扣。"
+    },
+    {
+      "id": 156,
+      "en": "Wow, what a great hit.",
+      "cn": "哇，真是一次精彩的击球。"
+    },
+    {
+      "id": 157,
+      "en": "The Brazilian blockers anticipated the play and tried to block him, but he managed to get the ball in.",
+      "cn": "巴西的拦网者预判了这个动作并试图拦住他，但他成功地将球打入。"
+    },
+    {
+      "id": 158,
+      "en": "Great play.",
+      "cn": "精彩的表现。"
+    },
+    {
+      "id": 159,
+      "en": "It's China's service now.",
+      "cn": "现在是中国的发球。"
+    },
+    {
+      "id": 160,
+      "en": "What a superb jump serve by Lee.",
+      "cn": "李的跳发球真是太棒了。"
+    },
+    {
+      "id": 161,
+      "en": "Oh, oh, and we have a let's serve.",
+      "cn": "哦，哦，我们有一个发球失误。"
+    },
+    {
+      "id": 162,
+      "en": "The ball was coming in fast and almost made it over the net.",
+      "cn": "球飞得很快，差点越过网。"
+    },
+    {
+      "id": 163,
+      "en": "Brazil calls for a timeout and we'll be right back after a short commercial break.",
+      "cn": "巴西请求暂停，我们将在短暂的广告后回来。"
+    },
+    {
+      "id": 164,
+      "en": "So are you a volleyball fan, Marco?",
+      "cn": "所以你是排球迷吗，马尔科？"
+    },
+    {
+      "id": 165,
+      "en": "It's a very nice sport.",
+      "cn": "这是一个非常好的运动。"
+    },
+    {
+      "id": 166,
+      "en": "It's very fast and it's very hard.",
+      "cn": "它非常快，非常难。"
+    },
+    {
+      "id": 167,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 168,
+      "en": "But it's very interesting to get together with friends, maybe at the beach and play some beach volleyball or something like that.",
+      "cn": "但和朋友们聚在一起，可能在海滩上打沙滩排球或类似的事情是非常有趣的。"
+    },
+    {
+      "id": 169,
+      "en": "Yeah, I think that's the best place to play volleyball.",
+      "cn": "是的，我认为那是打排球的最佳场所。"
+    },
+    {
+      "id": 170,
+      "en": "And, you know, we even have beach volleyball up in freezing cold Canada.",
+      "cn": "而且，你知道，我们甚至在寒冷的加拿大也有沙滩排球。"
+    },
+    {
+      "id": 171,
+      "en": "And do you have sand?",
+      "cn": "你们有沙子吗？"
+    },
+    {
+      "id": 172,
+      "en": "Occasionally.",
+      "cn": "偶尔有。"
+    },
+    {
+      "id": 173,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 174,
+      "en": "So volleyball is a great sport, but now we want to know what sport you want to learn about.",
+      "cn": "所以排球是一个很棒的运动，但现在我们想知道你想了解什么运动。"
+    },
+    {
+      "id": 175,
+      "en": "We've covered soccer, we've covered basketball, we've covered volleyball.",
+      "cn": "我们已经涵盖了足球、篮球和排球。"
+    },
+    {
+      "id": 176,
+      "en": "So tell us what other sports you would like to learn vocabulary and phrases on.",
+      "cn": "所以告诉我们你还想学习哪些运动的词汇和短语。"
+    },
+    {
+      "id": 177,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 178,
+      "en": "You can tell us this and many more things at EnglishPod.com, our website.",
+      "cn": "你可以在我们的官网EnglishPod.com告诉我们这些和更多的事情。"
+    },
+    {
+      "id": 179,
+      "en": "So check it out.",
+      "cn": "所以请查看一下。"
+    },
+    {
+      "id": 180,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 181,
+      "en": "Leave your questions and comments, and we'll see you guys there.",
+      "cn": "留下你的问题和评论，我们会在那里见到你们。"
+    },
+    {
+      "id": 182,
+      "en": "Thanks for downloading.",
+      "cn": "感谢下载。"
+    },
+    {
+      "id": 183,
+      "en": "And until next time, goodbye.",
+      "cn": "下次再见，再见。"
+    },
+    {
+      "id": 184,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

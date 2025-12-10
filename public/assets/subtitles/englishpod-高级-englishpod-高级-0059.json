@@ -1,0 +1,1959 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0059",
+  "title": "EnglishPod 高级 0059",
+  "totalSegments": 390,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're bringing you another great advanced lesson for all those advanced users out there.",
+      "cn": "今天我们为所有高级用户带来另一节精彩的高级课程。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "This is a really, really useful lesson for all of our advanced users.",
+      "cn": "这对我们的高级用户来说是非常有用的一课。"
+    },
+    {
+      "id": 8,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 9,
+      "en": "You asked for a lesson about job interviews and, well, here we are.",
+      "cn": "你们要求一节关于求职面试的课程，嗯，我们来了。"
+    },
+    {
+      "id": 10,
+      "en": "We're bringing you the first of three parts of the job interview series.",
+      "cn": "我们将带来求职面试系列的第一部分，共三部分。"
+    },
+    {
+      "id": 11,
+      "en": "Alright, so Marco, you said it is the first of three parts.",
+      "cn": "好的，Marco，你说这是三部分中的第一部分。"
+    },
+    {
+      "id": 12,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 13,
+      "en": "So tell me, what are these three parts?",
+      "cn": "那么这三部分是什么呢？"
+    },
+    {
+      "id": 14,
+      "en": "Okay, in this lesson we're going to be looking at preparing for a job interview.",
+      "cn": "好吧，在这节课中，我们将讨论如何准备求职面试。"
+    },
+    {
+      "id": 15,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 16,
+      "en": "So everything you got to do before the job interview.",
+      "cn": "所以在求职面试之前你需要做的所有事情。"
+    },
+    {
+      "id": 17,
+      "en": "Part two will be talking about your education, your background, your work experience.",
+      "cn": "第二部分将讨论你的教育背景和工作经验。"
+    },
+    {
+      "id": 18,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 19,
+      "en": "And in part three we'll take a look at some of the common questions that are asked at a job interview.",
+      "cn": "第三部分我们将看看面试中常见的问题。"
+    },
+    {
+      "id": 20,
+      "en": "And so we'll talk about some great ways to answer these questions.",
+      "cn": "然后我们会讨论一些很好的回答这些问题的方法。"
+    },
+    {
+      "id": 21,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 22,
+      "en": "Alright, these three lessons will be coming out over the next month or so.",
+      "cn": "好的，这三节课将在下个月左右发布。"
+    },
+    {
+      "id": 23,
+      "en": "Exactly.",
+      "cn": "确切地说。"
+    },
+    {
+      "id": 24,
+      "en": "So we're going to be looking at part one today.",
+      "cn": "所以今天我们将看第一部分。"
+    },
+    {
+      "id": 25,
+      "en": "So let's take a look at some vocabulary preview.",
+      "cn": "让我们先看看一些词汇预览。"
+    },
+    {
+      "id": 26,
+      "en": "VOCABULARY PREVIEW We have three words here in vocabulary preview that you'll hear in the dialogue in a moment.",
+      "cn": "词汇预览 我们在词汇预览中有三个单词，你将在对话中听到。"
+    },
+    {
+      "id": 27,
+      "en": "And the first one is actually not really a word but an acronym.",
+      "cn": "第一个实际上不是一个单词，而是一个缩写。"
+    },
+    {
+      "id": 28,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 29,
+      "en": "CRM.",
+      "cn": "CRM。"
+    },
+    {
+      "id": 30,
+      "en": "CRM.",
+      "cn": "CRM。"
+    },
+    {
+      "id": 31,
+      "en": "So Marco, you are our marketing guy.",
+      "cn": "所以Marco，你是我们的市场营销专家。"
+    },
+    {
+      "id": 32,
+      "en": "Tell us what is a CRM?",
+      "cn": "告诉我们什么是CRM？"
+    },
+    {
+      "id": 33,
+      "en": "Well, it's really common in marketing.",
+      "cn": "嗯，这在市场营销中非常常见。"
+    },
+    {
+      "id": 34,
+      "en": "It stands for customer relationship management.",
+      "cn": "它代表客户关系管理。"
+    },
+    {
+      "id": 35,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 36,
+      "en": "Or customer relation management.",
+      "cn": "或者客户关系管理。"
+    },
+    {
+      "id": 37,
+      "en": "But basically it's the relationship that the company has with its customers.",
+      "cn": "基本上就是公司与客户之间的关系。"
+    },
+    {
+      "id": 38,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 39,
+      "en": "So CRM basically has parts like feedback or customer support, problems that they might have, and also information about habits and likes and dislikes from their customers or users.",
+      "cn": "所以CRM基本上包括反馈或客户支持、他们可能遇到的问题，以及关于客户或用户的习惯和喜好信息。"
+    },
+    {
+      "id": 40,
+      "en": "Okay, but I commonly hear this word used as a noun.",
+      "cn": "好的，但我通常听到这个词作为名词使用。"
+    },
+    {
+      "id": 41,
+      "en": "So something like, can you check in the CRM?",
+      "cn": "比如说，你能在CRM中查一下吗？"
+    },
+    {
+      "id": 42,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 43,
+      "en": "There is some software out there that's called the CRM.",
+      "cn": "有一些软件叫做CRM。"
+    },
+    {
+      "id": 44,
+      "en": "So Sugar CRM or many different softwares which basically manages your database of customers.",
+      "cn": "比如Sugar CRM或许多不同的软件，基本上管理你的客户数据库。"
+    },
+    {
+      "id": 45,
+      "en": "Basically software that englobes this whole thing.",
+      "cn": "基本上是涵盖这一切的软件。"
+    },
+    {
+      "id": 46,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 47,
+      "en": "Got it.",
+      "cn": "明白了。"
+    },
+    {
+      "id": 48,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 49,
+      "en": "Our next phrase in vocabulary preview.",
+      "cn": "我们词汇预览中的下一个短语。"
+    },
+    {
+      "id": 50,
+      "en": "CUSTOM DESIGNED.",
+      "cn": "定制设计。"
+    },
+    {
+      "id": 51,
+      "en": "Custom designed.",
+      "cn": "定制设计。"
+    },
+    {
+      "id": 52,
+      "en": "Custom designed.",
+      "cn": "定制设计。"
+    },
+    {
+      "id": 53,
+      "en": "Custom designed.",
+      "cn": "定制设计。"
+    },
+    {
+      "id": 54,
+      "en": "So when something is custom designed, it means it's a special design just for you.",
+      "cn": "当某样东西是定制设计时，意味着它是专门为你设计的。"
+    },
+    {
+      "id": 55,
+      "en": "So it's unique.",
+      "cn": "所以它是独特的。"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 57,
+      "en": "That's what the word custom means.",
+      "cn": "这就是“定制”这个词的意思。"
+    },
+    {
+      "id": 58,
+      "en": "Unique.",
+      "cn": "独特。"
+    },
+    {
+      "id": 59,
+      "en": "Like made especially for one person.",
+      "cn": "就像是特别为一个人制作的。"
+    },
+    {
+      "id": 60,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 61,
+      "en": "So you have custom designed or also custom made.",
+      "cn": "所以你有定制设计或定制制作。"
+    },
+    {
+      "id": 62,
+      "en": "You see that a lot, for example, in cars, right?",
+      "cn": "你在汽车中经常看到这个，对吧？"
+    },
+    {
+      "id": 63,
+      "en": "A custom made car.",
+      "cn": "一辆定制制作的汽车。"
+    },
+    {
+      "id": 64,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 65,
+      "en": "Or maybe a custom built house.",
+      "cn": "或者一栋定制建造的房子。"
+    },
+    {
+      "id": 66,
+      "en": "A custom built house with your specific likes and dislikes.",
+      "cn": "一栋根据你的具体喜好和不喜欢而建造的房子。"
+    },
+    {
+      "id": 67,
+      "en": "Yeah, your requirements.",
+      "cn": "是的，你的要求。"
+    },
+    {
+      "id": 68,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 69,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 70,
+      "en": "And our last word.",
+      "cn": "我们的最后一个词。"
+    },
+    {
+      "id": 71,
+      "en": "CORE VALUES.",
+      "cn": "核心价值观。"
+    },
+    {
+      "id": 72,
+      "en": "CORE VALUES.",
+      "cn": "核心价值观。"
+    },
+    {
+      "id": 73,
+      "en": "CORE VALUES.",
+      "cn": "核心价值观。"
+    },
+    {
+      "id": 74,
+      "en": "CORE VALUES.",
+      "cn": "核心价值观。"
+    },
+    {
+      "id": 75,
+      "en": "So the core values of a company.",
+      "cn": "所以公司的核心价值观。"
+    },
+    {
+      "id": 76,
+      "en": "What does the core mean actually?",
+      "cn": "核心实际上是什么意思？"
+    },
+    {
+      "id": 77,
+      "en": "The center.",
+      "cn": "中心。"
+    },
+    {
+      "id": 78,
+      "en": "The center, right?",
+      "cn": "中心，对吧？"
+    },
+    {
+      "id": 79,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 80,
+      "en": "So and here I think it's like the center or the most important.",
+      "cn": "所以在这里我认为它是中心或最重要的。"
+    },
+    {
+      "id": 81,
+      "en": "The most important things the company believes in, right?",
+      "cn": "公司所信仰的最重要的事情，对吧？"
+    },
+    {
+      "id": 82,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 83,
+      "en": "So maybe respect for the environment.",
+      "cn": "所以可能是对环境的尊重。"
+    },
+    {
+      "id": 84,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 85,
+      "en": "Or developing their employees.",
+      "cn": "或者发展他们的员工。"
+    },
+    {
+      "id": 86,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 87,
+      "en": "So the core values.",
+      "cn": "所以核心价值观。"
+    },
+    {
+      "id": 88,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 89,
+      "en": "The main things that the company believes in.",
+      "cn": "公司所信仰的主要事情。"
+    },
+    {
+      "id": 90,
+      "en": "A great phrase for job interviews.",
+      "cn": "一个很好的求职面试短语。"
+    },
+    {
+      "id": 91,
+      "en": "Oh yes.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 92,
+      "en": "Very good phrase.",
+      "cn": "非常好的短语。"
+    },
+    {
+      "id": 93,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 94,
+      "en": "So why don't we listen to our dialogue?",
+      "cn": "那么我们为什么不听听我们的对话呢？"
+    },
+    {
+      "id": 95,
+      "en": "Erika, what exactly is happening?",
+      "cn": "Erika，究竟发生了什么？"
+    },
+    {
+      "id": 96,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 97,
+      "en": "We're going to be listening to two friends.",
+      "cn": "我们将听到两个朋友。"
+    },
+    {
+      "id": 98,
+      "en": "And this guy is getting ready to go on a job interview.",
+      "cn": "这个家伙正在准备去参加求职面试。"
+    },
+    {
+      "id": 99,
+      "en": "So his friend is helping him to prepare.",
+      "cn": "所以他的朋友正在帮助他准备。"
+    },
+    {
+      "id": 100,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 101,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 102,
+      "en": "So let's go over everything one more time.",
+      "cn": "那我们再复习一遍。"
+    },
+    {
+      "id": 103,
+      "en": "I really want you to get this job.",
+      "cn": "我真的希望你能得到这份工作。"
+    },
+    {
+      "id": 104,
+      "en": "I know it's an amazing growth opportunity.",
+      "cn": "我知道这是一个很好的成长机会。"
+    },
+    {
+      "id": 105,
+      "en": "They're true industry leaders.",
+      "cn": "他们是真正的行业领导者。"
+    },
+    {
+      "id": 106,
+      "en": "And it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.",
+      "cn": "成为一个在业务流程平台开发中无可争议的领导者的组织的一部分，真是太有趣了。"
+    },
+    {
+      "id": 107,
+      "en": "So let's see.",
+      "cn": "那我们来看看。"
+    },
+    {
+      "id": 108,
+      "en": "You did your research on the company, right?",
+      "cn": "你对公司做了研究，对吧？"
+    },
+    {
+      "id": 109,
+      "en": "Well, I visited the website and read up on what they do.",
+      "cn": "嗯，我访问了他们的网站，了解了他们的业务。"
+    },
+    {
+      "id": 110,
+      "en": "They're an IT service company that offers comprehensive business solutions for large corporations.",
+      "cn": "他们是一家IT服务公司，为大型企业提供全面的商业解决方案。"
+    },
+    {
+      "id": 111,
+      "en": "They provide services such as CRM development, and they also offer custom designed applications.",
+      "cn": "他们提供CRM开发等服务，还提供定制设计的应用程序。"
+    },
+    {
+      "id": 112,
+      "en": "So what would be your role in the company?",
+      "cn": "那你在公司里的角色是什么？"
+    },
+    {
+      "id": 113,
+      "en": "Well, the position is for an account manager.",
+      "cn": "嗯，这个职位是客户经理。"
+    },
+    {
+      "id": 114,
+      "en": "That basically means that I would be the link between our clients and our development team.",
+      "cn": "这基本上意味着我将是客户和开发团队之间的联系。"
+    },
+    {
+      "id": 115,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 116,
+      "en": "And so why do you want to work with them?",
+      "cn": "那你为什么想和他们合作？"
+    },
+    {
+      "id": 117,
+      "en": "Well, as I said, they're the industry leaders.",
+      "cn": "嗯，正如我所说，他们是行业领导者。"
+    },
+    {
+      "id": 118,
+      "en": "They have a really great growth strategy, amazing development opportunities for employees.",
+      "cn": "他们有很好的增长战略，为员工提供了惊人的发展机会。"
+    },
+    {
+      "id": 119,
+      "en": "And it seems like they have a strong corporate governance.",
+      "cn": "而且他们似乎有很强的公司治理。"
+    },
+    {
+      "id": 120,
+      "en": "They're all about helping companies grow and unleashing potential.",
+      "cn": "他们致力于帮助公司成长，释放潜力。"
+    },
+    {
+      "id": 121,
+      "en": "I guess their core values and mission really resonated with me.",
+      "cn": "我想他们的核心价值观和使命与我产生了共鸣。"
+    },
+    {
+      "id": 122,
+      "en": "Oh, and they offer six weeks vacation stock options and bonuses.",
+      "cn": "哦，他们还提供六周的假期、股票期权和奖金。"
+    },
+    {
+      "id": 123,
+      "en": "I'm totally gonna cash in on that.",
+      "cn": "我一定会好好利用这些。"
+    },
+    {
+      "id": 124,
+      "en": "You idiot.",
+      "cn": "你这个傻瓜。"
+    },
+    {
+      "id": 125,
+      "en": "You don't say that.",
+      "cn": "你可不能这么说。"
+    },
+    {
+      "id": 126,
+      "en": "Do you want this job or not?",
+      "cn": "你想要这份工作还是不想？"
+    },
+    {
+      "id": 127,
+      "en": "All right, so he was doing great.",
+      "cn": "好吧，他表现得很好。"
+    },
+    {
+      "id": 128,
+      "en": "But in the end, he said something he shouldn't write.",
+      "cn": "但最后他说了一些不该说的话。"
+    },
+    {
+      "id": 129,
+      "en": "Yeah, I don't think talking about money as your primary motivation for coming on to new companies.",
+      "cn": "是的，我觉得把钱作为你加入新公司的主要动机并不合适。"
+    },
+    {
+      "id": 130,
+      "en": "Yeah, really the way to go.",
+      "cn": "是的，这真的不是个好主意。"
+    },
+    {
+      "id": 131,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 132,
+      "en": "And we're talking about that a little bit later.",
+      "cn": "我们稍后再谈这个。"
+    },
+    {
+      "id": 133,
+      "en": "But let's take a look real quick at some language takeaway.",
+      "cn": "但我们先快速看看一些语言要点。"
+    },
+    {
+      "id": 134,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 135,
+      "en": "All right, in this lesson, we have five keywords for you from the dialogue, which we hope that you will remember.",
+      "cn": "好吧，在这节课中，我们有五个关键词，希望你能记住。"
+    },
+    {
+      "id": 136,
+      "en": "Let's take a look at the first one.",
+      "cn": "让我们看看第一个。"
+    },
+    {
+      "id": 137,
+      "en": "Undisputed.",
+      "cn": "无可争议。"
+    },
+    {
+      "id": 138,
+      "en": "Undisputed.",
+      "cn": "无可争议。"
+    },
+    {
+      "id": 139,
+      "en": "Undisputed.",
+      "cn": "无可争议。"
+    },
+    {
+      "id": 140,
+      "en": "Undisputed.",
+      "cn": "无可争议。"
+    },
+    {
+      "id": 141,
+      "en": "So this is kind of a strange word.",
+      "cn": "这个词有点奇怪。"
+    },
+    {
+      "id": 142,
+      "en": "Let's listen to some examples before we explain it.",
+      "cn": "在解释之前，我们先听一些例子。"
+    },
+    {
+      "id": 143,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 144,
+      "en": "It's undisputed that she's the best person for the job.",
+      "cn": "她是这份工作的最佳人选，这是无可争议的。"
+    },
+    {
+      "id": 145,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 146,
+      "en": "The undisputed truth is that unemployment is rising.",
+      "cn": "无可争议的事实是失业率在上升。"
+    },
+    {
+      "id": 147,
+      "en": "No one doubts that.",
+      "cn": "没有人对此有疑问。"
+    },
+    {
+      "id": 148,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 149,
+      "en": "It's the undisputed champion of the world.",
+      "cn": "它是世界无可争议的冠军。"
+    },
+    {
+      "id": 150,
+      "en": "Well, I can understand from these examples that it means there is no doubt.",
+      "cn": "从这些例子中，我可以理解它的意思是毫无疑问。"
+    },
+    {
+      "id": 151,
+      "en": "There is no doubt.",
+      "cn": "毫无疑问。"
+    },
+    {
+      "id": 152,
+      "en": "There's no question.",
+      "cn": "没有问题。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, now let's take a look at our second word.",
+      "cn": "好的，现在让我们看看第二个词。"
+    },
+    {
+      "id": 154,
+      "en": "Growth opportunity.",
+      "cn": "成长机会。"
+    },
+    {
+      "id": 155,
+      "en": "Growth opportunity.",
+      "cn": "成长机会。"
+    },
+    {
+      "id": 156,
+      "en": "It's a great growth opportunity.",
+      "cn": "这是一个很好的成长机会。"
+    },
+    {
+      "id": 157,
+      "en": "So it's an excellent chance to improve, right?",
+      "cn": "所以这是一个提升的绝佳机会，对吧？"
+    },
+    {
+      "id": 158,
+      "en": "To improve professionally and also on a personal side, right?",
+      "cn": "在职业上和个人方面都有提升，对吧？"
+    },
+    {
+      "id": 159,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 160,
+      "en": "So talking about growth opportunities, we can also use the phrase a development opportunity.",
+      "cn": "所以谈到成长机会，我们也可以使用“发展机会”这个短语。"
+    },
+    {
+      "id": 161,
+      "en": "And it's the same thing, right?",
+      "cn": "这两个是一样的，对吧？"
+    },
+    {
+      "id": 162,
+      "en": "To develop, to grow, to improve yourself.",
+      "cn": "发展、成长、提升自己。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, now let's take a look at our third word.",
+      "cn": "好的，现在让我们看看第三个词。"
+    },
+    {
+      "id": 164,
+      "en": "Read up.",
+      "cn": "阅读。"
+    },
+    {
+      "id": 165,
+      "en": "Read up.",
+      "cn": "阅读。"
+    },
+    {
+      "id": 166,
+      "en": "Read up.",
+      "cn": "阅读。"
+    },
+    {
+      "id": 167,
+      "en": "Read up.",
+      "cn": "阅读。"
+    },
+    {
+      "id": 168,
+      "en": "So when you read up on something... Well, obviously you read it, right?",
+      "cn": "当你阅读某个内容时……显然你是在阅读，对吧？"
+    },
+    {
+      "id": 169,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 170,
+      "en": "But you're reading it specifically for some information so you can know more about the subject.",
+      "cn": "但你是专门为了获取信息而阅读，以便更了解这个主题。"
+    },
+    {
+      "id": 171,
+      "en": "So it's kind of similar to study, right?",
+      "cn": "所以这有点类似于学习，对吧？"
+    },
+    {
+      "id": 172,
+      "en": "Kind of, but really with the idea that you're trying to improve your knowledge about a particular field.",
+      "cn": "有点，但实际上是为了提高你对某个领域的知识。"
+    },
+    {
+      "id": 173,
+      "en": "Okay, now for our fourth word.",
+      "cn": "好的，现在是我们的第四个词。"
+    },
+    {
+      "id": 174,
+      "en": "Unleash potential.",
+      "cn": "释放潜力。"
+    },
+    {
+      "id": 175,
+      "en": "Unleash potential.",
+      "cn": "释放潜力。"
+    },
+    {
+      "id": 176,
+      "en": "Unleash potential.",
+      "cn": "释放潜力。"
+    },
+    {
+      "id": 177,
+      "en": "Unleash potential.",
+      "cn": "释放潜力。"
+    },
+    {
+      "id": 178,
+      "en": "Okay, so to unleash.",
+      "cn": "好的，释放。"
+    },
+    {
+      "id": 179,
+      "en": "Alright, well I'm gonna paint a picture for you.",
+      "cn": "好吧，我给你画个图。"
+    },
+    {
+      "id": 180,
+      "en": "Alright.",
+      "cn": "好的。"
+    },
+    {
+      "id": 181,
+      "en": "So imagine you have your dog, right?",
+      "cn": "想象一下你有一只狗，对吧？"
+    },
+    {
+      "id": 182,
+      "en": "And your dog is walking on a leash.",
+      "cn": "你的狗在牵引绳上走。"
+    },
+    {
+      "id": 183,
+      "en": "Like it has a string or a rope attached to it, right?",
+      "cn": "就像它有一根绳子或绳索绑着，对吧？"
+    },
+    {
+      "id": 184,
+      "en": "So then when you undo the leash, you unleash the dog and then what happens?",
+      "cn": "然后当你解开牵引绳时，你释放了狗，然后发生了什么？"
+    },
+    {
+      "id": 185,
+      "en": "It goes around and it's running.",
+      "cn": "它四处跑，奔跑。"
+    },
+    {
+      "id": 186,
+      "en": "Yeah, yeah, it's going everywhere.",
+      "cn": "是的，是的，它到处跑。"
+    },
+    {
+      "id": 187,
+      "en": "So if you unleash potential, you release it and let it go and help it grow and become bigger.",
+      "cn": "所以如果你释放潜力，你就是释放它，让它成长，变得更大。"
+    },
+    {
+      "id": 188,
+      "en": "So you give it freedom.",
+      "cn": "所以你给了它自由。"
+    },
+    {
+      "id": 189,
+      "en": "So potential is the capabilities or abilities that a person has, right?",
+      "cn": "潜力就是一个人拥有的能力或才能，对吧？"
+    },
+    {
+      "id": 190,
+      "en": "To do something great.",
+      "cn": "做一些伟大的事情。"
+    },
+    {
+      "id": 191,
+      "en": "Okay, unleash potential.",
+      "cn": "好的，释放潜力。"
+    },
+    {
+      "id": 192,
+      "en": "This I think is an excellent word to use in a job interview.",
+      "cn": "我认为这是在面试中使用的一个很好的词。"
+    },
+    {
+      "id": 193,
+      "en": "I think it is really descriptive and really powerful.",
+      "cn": "我觉得它非常形象且有力。"
+    },
+    {
+      "id": 194,
+      "en": "Yeah, it is.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 195,
+      "en": "Yeah, that's a good word.",
+      "cn": "是的，这是个好词。"
+    },
+    {
+      "id": 196,
+      "en": "Okay, so let's take a look at our last one now.",
+      "cn": "好的，现在让我们看看最后一个。"
+    },
+    {
+      "id": 197,
+      "en": "Resonate with.",
+      "cn": "与……产生共鸣。"
+    },
+    {
+      "id": 198,
+      "en": "Resonate with.",
+      "cn": "与……产生共鸣。"
+    },
+    {
+      "id": 199,
+      "en": "Resonate with.",
+      "cn": "与……产生共鸣。"
+    },
+    {
+      "id": 200,
+      "en": "Resonate with.",
+      "cn": "与……产生共鸣。"
+    },
+    {
+      "id": 201,
+      "en": "So he mentioned this really resonated with me.",
+      "cn": "所以他说这让我很有共鸣。"
+    },
+    {
+      "id": 202,
+      "en": "So what does he mean by resonated?",
+      "cn": "那么他所说的共鸣是什么意思？"
+    },
+    {
+      "id": 203,
+      "en": "I guess he means it connected to him, right?",
+      "cn": "我想他是说这与他有联系，对吧？"
+    },
+    {
+      "id": 204,
+      "en": "It touched him.",
+      "cn": "这触动了他。"
+    },
+    {
+      "id": 205,
+      "en": "So he agrees with this idea or he feels that he can relate to it.",
+      "cn": "所以他同意这个想法，或者他觉得自己能与之相关。"
+    },
+    {
+      "id": 206,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 207,
+      "en": "You know what, I think this one needs a few examples to really show its meaning.",
+      "cn": "你知道吗，我觉得这个需要几个例子来真正展示它的意思。"
+    },
+    {
+      "id": 208,
+      "en": "Okay, let's listen.",
+      "cn": "好的，让我们听听。"
+    },
+    {
+      "id": 209,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 210,
+      "en": "The candidate's speech really resonated with the voters.",
+      "cn": "候选人的演讲真的与选民产生了共鸣。"
+    },
+    {
+      "id": 211,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 212,
+      "en": "Their music doesn't really resonate with me.",
+      "cn": "他们的音乐对我来说并没有真正产生共鸣。"
+    },
+    {
+      "id": 213,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 214,
+      "en": "Their commitment to fight global warming resonates with me.",
+      "cn": "他们对抗全球变暖的承诺让我产生共鸣。"
+    },
+    {
+      "id": 215,
+      "en": "All right, so it's clear now to resonate with, right?",
+      "cn": "好的，现在很清楚“与...产生共鸣”了，对吧？"
+    },
+    {
+      "id": 216,
+      "en": "Okay, so why don't we go and listen to our dialogue for the last time and then we'll come back and give you some great pointers about preparing for a job interview.",
+      "cn": "好的，那我们为什么不去听听我们的对话最后一次，然后我们再回来给你一些关于准备工作面试的好建议。"
+    },
+    {
+      "id": 217,
+      "en": "Okay, so let's go over everything one more time.",
+      "cn": "好的，让我们再复习一遍。"
+    },
+    {
+      "id": 218,
+      "en": "I really want you to get this job.",
+      "cn": "我真的希望你能得到这份工作。"
+    },
+    {
+      "id": 219,
+      "en": "I know, it's an amazing growth opportunity.",
+      "cn": "我知道，这是一个很好的成长机会。"
+    },
+    {
+      "id": 220,
+      "en": "They're true industry leaders and it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.",
+      "cn": "他们是真正的行业领导者，成为一个在业务流程平台开发中无可争议的领导者的组织将会非常有趣。"
+    },
+    {
+      "id": 221,
+      "en": "So let's see, you did your research on the company, right?",
+      "cn": "那么，让我们看看，你对这家公司做了研究，对吧？"
+    },
+    {
+      "id": 222,
+      "en": "Well, I visited the website and read up on what they do.",
+      "cn": "嗯，我访问了他们的网站，了解了他们的业务。"
+    },
+    {
+      "id": 223,
+      "en": "They're an IT service company that offers comprehensive business solutions for large corporations.",
+      "cn": "他们是一家IT服务公司，为大型企业提供全面的商业解决方案。"
+    },
+    {
+      "id": 224,
+      "en": "They provide services such as CRM development and they also offer custom designed applications.",
+      "cn": "他们提供CRM开发等服务，还提供定制设计的应用程序。"
+    },
+    {
+      "id": 225,
+      "en": "So what would be your role in the company?",
+      "cn": "那么你在公司中的角色是什么？"
+    },
+    {
+      "id": 226,
+      "en": "Well, the position is for an account manager.",
+      "cn": "嗯，这个职位是客户经理。"
+    },
+    {
+      "id": 227,
+      "en": "That basically means that I would be the between our clients and our development team.",
+      "cn": "这基本上意味着我将是我们的客户和开发团队之间的桥梁。"
+    },
+    {
+      "id": 228,
+      "en": "Sounds good.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 229,
+      "en": "And so why do you want to work with them?",
+      "cn": "那么你为什么想和他们一起工作？"
+    },
+    {
+      "id": 230,
+      "en": "Well, as I said, they're the industry leaders.",
+      "cn": "嗯，正如我所说，他们是行业领导者。"
+    },
+    {
+      "id": 231,
+      "en": "They have a really great growth strategy, amazing development opportunities for employees.",
+      "cn": "他们有很好的增长战略，为员工提供了惊人的发展机会。"
+    },
+    {
+      "id": 232,
+      "en": "And it seems like they have a strong corporate governance.",
+      "cn": "而且他们似乎有很强的公司治理。"
+    },
+    {
+      "id": 233,
+      "en": "They're all about helping companies grow and unleashing potential.",
+      "cn": "他们致力于帮助公司成长，释放潜力。"
+    },
+    {
+      "id": 234,
+      "en": "I guess their core values and mission really resonated with me.",
+      "cn": "我想他们的核心价值观和使命真的让我产生共鸣。"
+    },
+    {
+      "id": 235,
+      "en": "Oh, and they offer six weeks vacation stock options and bonuses.",
+      "cn": "哦，他们还提供六周的假期、股票期权和奖金。"
+    },
+    {
+      "id": 236,
+      "en": "I'm totally going to cash in on that.",
+      "cn": "我绝对会利用这些。"
+    },
+    {
+      "id": 237,
+      "en": "You idiot.",
+      "cn": "你这个傻瓜。"
+    },
+    {
+      "id": 238,
+      "en": "You don't say that.",
+      "cn": "你别这么说。"
+    },
+    {
+      "id": 239,
+      "en": "Do you want this job or not?",
+      "cn": "你想要这份工作还是不想？"
+    },
+    {
+      "id": 240,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 241,
+      "en": "So preparing for a job interview is really important, right?",
+      "cn": "所以准备工作面试真的很重要，对吧？"
+    },
+    {
+      "id": 242,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 243,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 244,
+      "en": "And we're going to give you some really basic tips about how you can prepare for a job interview.",
+      "cn": "我们将给你一些关于如何准备工作面试的基本建议。"
+    },
+    {
+      "id": 245,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 246,
+      "en": "I got to confess something to you, Marco.",
+      "cn": "我得向你坦白一件事，马尔科。"
+    },
+    {
+      "id": 247,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 248,
+      "en": "I love job interviews.",
+      "cn": "我喜欢工作面试。"
+    },
+    {
+      "id": 249,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 250,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 251,
+      "en": "I know it's really weird.",
+      "cn": "我知道这很奇怪。"
+    },
+    {
+      "id": 252,
+      "en": "Most people hate them, but I love them.",
+      "cn": "大多数人讨厌它们，但我喜欢。"
+    },
+    {
+      "id": 253,
+      "en": "So you love being the interviewer or going to job interviews?",
+      "cn": "所以你喜欢当面试官还是参加工作面试？"
+    },
+    {
+      "id": 254,
+      "en": "Both.",
+      "cn": "两者都喜欢。"
+    },
+    {
+      "id": 255,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 256,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 257,
+      "en": "I like everything about them.",
+      "cn": "我喜欢它们的每一个方面。"
+    },
+    {
+      "id": 258,
+      "en": "So I feel like I have a lot of passion to share with you about this.",
+      "cn": "所以我觉得我有很多热情可以和你分享。"
+    },
+    {
+      "id": 259,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 260,
+      "en": "So let's take a look at the first point or the first tip that you can help us out with.",
+      "cn": "那么让我们看看你可以帮助我们的第一个要点或第一个建议。"
+    },
+    {
+      "id": 261,
+      "en": "So before you go to a job interview, you should do a little bit of research, right?",
+      "cn": "在你去工作面试之前，你应该做一些研究，对吧？"
+    },
+    {
+      "id": 262,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 263,
+      "en": "And that's our first point.",
+      "cn": "这就是我们的第一点。"
+    },
+    {
+      "id": 264,
+      "en": "It's really important to know as much as you can about the company, their history, their product, their management style, just as much information as you can find out about how they work and what they do.",
+      "cn": "了解尽可能多的关于公司的信息、他们的历史、他们的产品、他们的管理风格，尽可能多地了解他们的工作和业务。"
+    },
+    {
+      "id": 265,
+      "en": "And why do you think this is important?",
+      "cn": "你认为这为什么重要？"
+    },
+    {
+      "id": 266,
+      "en": "Well, basically, you'll be asked about it in the interview.",
+      "cn": "嗯，基本上，你会在面试中被问到这些。"
+    },
+    {
+      "id": 267,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 268,
+      "en": "And so if you show that you haven't prepared, you haven't done any research, you show that you don't care.",
+      "cn": "所以如果你表现出没有准备，没有做任何研究，就会显示出你不在乎。"
+    },
+    {
+      "id": 269,
+      "en": "One of the best ways that you can impress in a job interview is to show that you know about the company.",
+      "cn": "在工作面试中给人留下深刻印象的最佳方法之一是展示你对公司的了解。"
+    },
+    {
+      "id": 270,
+      "en": "Important things like you know what kind of products they offer, or what's their largest market.",
+      "cn": "重要的事情，比如你知道他们提供什么样的产品，或者他们最大的市场是什么。"
+    },
+    {
+      "id": 271,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 272,
+      "en": "And I guess that really impresses the interviewer because it shows that you are interested in this company, they really want the job.",
+      "cn": "我想这真的会给面试官留下深刻印象，因为这表明你对这家公司感兴趣，你真的想要这份工作。"
+    },
+    {
+      "id": 273,
+      "en": "And that you are willing to do the extra work it takes to prepare yourself.",
+      "cn": "而且你愿意付出额外的努力来准备自己。"
+    },
+    {
+      "id": 274,
+      "en": "Because I think that will show the interviewer that later on, when you're working for them, you'll do that extra work on the job.",
+      "cn": "因为我认为这会向面试官表明，等你为他们工作时，你会在工作中付出额外的努力。"
+    },
+    {
+      "id": 275,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 276,
+      "en": "That's a really good point.",
+      "cn": "这是一个很好的观点。"
+    },
+    {
+      "id": 277,
+      "en": "So that's our first point, our first tip to do some research.",
+      "cn": "所以这是我们的第一点，我们的第一个建议是做一些研究。"
+    },
+    {
+      "id": 278,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 279,
+      "en": "Now you've done your research, you know everything about the company.",
+      "cn": "现在你已经做了研究，了解了公司的所有信息。"
+    },
+    {
+      "id": 280,
+      "en": "What else should you do?",
+      "cn": "你还应该做什么？"
+    },
+    {
+      "id": 281,
+      "en": "Once you've read up on the company, you've got to spend some time thinking about yourself.",
+      "cn": "一旦你了解了公司，你就要花一些时间思考自己。"
+    },
+    {
+      "id": 282,
+      "en": "You've got to prepare to sell yourself to the company.",
+      "cn": "你必须准备好向公司推销自己。"
+    },
+    {
+      "id": 283,
+      "en": "So to sell yourself to really demonstrate them why you are the perfect person for the job.",
+      "cn": "所以要向他们展示你为什么是这份工作的完美人选。"
+    },
+    {
+      "id": 284,
+      "en": "Right, because a lot of people think about why they want to work for the company, right?",
+      "cn": "对，因为很多人会考虑他们为什么想为公司工作，对吧？"
+    },
+    {
+      "id": 285,
+      "en": "Because they feel like they're aligned with the core values or the message of the company resonates with them.",
+      "cn": "因为他们觉得自己与公司的核心价值观一致，或者公司的信息与他们产生共鸣。"
+    },
+    {
+      "id": 286,
+      "en": "But what the interviewer really wants to hear is how you, the interviewee, is going to benefit the company.",
+      "cn": "但面试官真正想听的是你，作为面试者，如何为公司带来好处。"
+    },
+    {
+      "id": 287,
+      "en": "What are you going to bring to the company?",
+      "cn": "你将为公司带来什么？"
+    },
+    {
+      "id": 288,
+      "en": "Right, and this is the most important part, is to know what are your skills, right?",
+      "cn": "对，这部分是最重要的，就是要知道你的技能是什么，对吧？"
+    },
+    {
+      "id": 289,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 290,
+      "en": "And it's not enough to just say, well, I am a great leader, right?",
+      "cn": "仅仅说“我是一位优秀的领导者”是不够的，对吧？"
+    },
+    {
+      "id": 291,
+      "en": "So if you are a great leader, you should be ready to give an example of how you have demonstrated to be a great leader, right?",
+      "cn": "所以如果你是一位优秀的领导者，你应该准备好举例说明你是如何证明自己是一位优秀的领导者的，对吧？"
+    },
+    {
+      "id": 292,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 293,
+      "en": "All right, so maybe like an example like, I'm a really strong leader because in my previous job, I had the best JD Power ratings for employee satisfaction.",
+      "cn": "好吧，比如说，我是一位非常强的领导者，因为在我之前的工作中，我的员工满意度获得了最佳JD Power评级。"
+    },
+    {
+      "id": 294,
+      "en": "Okay, so you're actually showing with numbers or with facts that you are a great leader.",
+      "cn": "好的，所以你实际上是用数字或事实来展示你是一位优秀的领导者。"
+    },
+    {
+      "id": 295,
+      "en": "Yeah, so the key thing here, I think, is identify what your strengths and skills are.",
+      "cn": "是的，所以这里的关键是识别你的优势和技能是什么。"
+    },
+    {
+      "id": 296,
+      "en": "Think of specific examples.",
+      "cn": "想想具体的例子。"
+    },
+    {
+      "id": 297,
+      "en": "If you can, give numbers and show how you can bring this skill and your experiences to the new company.",
+      "cn": "如果可以的话，给出数字，展示你如何将这些技能和经验带到新公司。"
+    },
+    {
+      "id": 298,
+      "en": "And now, well, you're ready to sell yourself.",
+      "cn": "现在，你准备好推销自己了。"
+    },
+    {
+      "id": 299,
+      "en": "You've done your research.",
+      "cn": "你已经做了研究。"
+    },
+    {
+      "id": 300,
+      "en": "Now you have all of these things in your mind.",
+      "cn": "现在你脑海中有了这些东西。"
+    },
+    {
+      "id": 301,
+      "en": "You have to practice.",
+      "cn": "你必须练习。"
+    },
+    {
+      "id": 302,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 303,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 304,
+      "en": "A much overlooked stage in the preparation.",
+      "cn": "这是准备过程中一个被忽视的阶段。"
+    },
+    {
+      "id": 305,
+      "en": "Yeah, a lot of people think it through.",
+      "cn": "是的，很多人考虑过。"
+    },
+    {
+      "id": 306,
+      "en": "They write things down but don't really practice.",
+      "cn": "他们写下东西，但并没有真正练习。"
+    },
+    {
+      "id": 307,
+      "en": "Yeah, so I know you have a few tips about how you can practice interviewing effectively.",
+      "cn": "是的，我知道你有一些关于如何有效练习面试的建议。"
+    },
+    {
+      "id": 308,
+      "en": "Okay, well, the first thing that you should do is use your friends.",
+      "cn": "好吧，你应该做的第一件事是利用你的朋友。"
+    },
+    {
+      "id": 309,
+      "en": "Yeah, right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 310,
+      "en": "They gotta be good for something.",
+      "cn": "他们总得对你有点帮助。"
+    },
+    {
+      "id": 311,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 312,
+      "en": "And well, probably your friends are also working at a company.",
+      "cn": "而且，你的朋友可能也在公司工作。"
+    },
+    {
+      "id": 313,
+      "en": "Maybe they're managers or maybe they've interviewed someone before already.",
+      "cn": "也许他们是经理，或者他们之前已经面试过某人。"
+    },
+    {
+      "id": 314,
+      "en": "So you can set up a mini interview and have them pretend that they are the interviewer and ask you these questions and you're trying to answer seriously.",
+      "cn": "所以你可以安排一个小型面试，让他们假装是面试官，问你这些问题，而你要认真回答。"
+    },
+    {
+      "id": 315,
+      "en": "And I'm sure that your friends can give you some great feedback.",
+      "cn": "我相信你的朋友能给你一些很好的反馈。"
+    },
+    {
+      "id": 316,
+      "en": "Maybe what you did right, maybe what you did wrong.",
+      "cn": "也许是你做得对的地方，也许是你做错的地方。"
+    },
+    {
+      "id": 317,
+      "en": "So that's a really good way.",
+      "cn": "所以这是一个很好的方法。"
+    },
+    {
+      "id": 318,
+      "en": "And another thing is also you can record yourself.",
+      "cn": "另一个方法是你可以录下自己。"
+    },
+    {
+      "id": 319,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 320,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 321,
+      "en": "Yeah, if you have a video camera or even a web, I mean many people have a webcam like right in your laptop, record yourself actually doing the practice interview with your friend.",
+      "cn": "是的，如果你有摄像机，甚至是网络摄像头，很多人都有笔记本电脑上的网络摄像头，录下你和朋友进行练习面试的过程。"
+    },
+    {
+      "id": 322,
+      "en": "And this is really useful because you can later see what you recorded and detect some of the things that maybe aren't really useful or good.",
+      "cn": "这非常有用，因为你可以在之后查看录制的内容，发现一些可能不太有用或不好的地方。"
+    },
+    {
+      "id": 323,
+      "en": "You know, for example, posture is a really important aspect.",
+      "cn": "例如，姿势是一个非常重要的方面。"
+    },
+    {
+      "id": 324,
+      "en": "So what do you mean posture?",
+      "cn": "你说的姿势是什么意思？"
+    },
+    {
+      "id": 325,
+      "en": "So the way that you are sitting down in your seat.",
+      "cn": "就是你坐在椅子上的姿势。"
+    },
+    {
+      "id": 326,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 327,
+      "en": "And how you are expressing yourself with your hands.",
+      "cn": "以及你用手表达自己的方式。"
+    },
+    {
+      "id": 328,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 329,
+      "en": "Some people, you know, they move a lot during the interview because of course you're nervous.",
+      "cn": "有些人，你知道，他们在面试中会移动很多，因为当然你会紧张。"
+    },
+    {
+      "id": 330,
+      "en": "So maybe they're moving from side to side or playing with their feet or playing with something on the table or moving their hands in an awkward way.",
+      "cn": "所以他们可能会左右摇摆，或者玩弄自己的脚，或者玩弄桌子上的东西，或者以尴尬的方式移动手。"
+    },
+    {
+      "id": 331,
+      "en": "So those are the things that you have to watch out for.",
+      "cn": "所以这些都是你需要注意的事情。"
+    },
+    {
+      "id": 332,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 333,
+      "en": "So I guess it's really important to sit up straight and to show that you are powerful and in control.",
+      "cn": "所以我想坐直并展示你有力量和控制力是非常重要的。"
+    },
+    {
+      "id": 334,
+      "en": "And another really great thing is eye contact, right?",
+      "cn": "另一个非常重要的事情是眼神交流，对吧？"
+    },
+    {
+      "id": 335,
+      "en": "Yeah, we were talking about this earlier.",
+      "cn": "是的，我们之前谈过这个。"
+    },
+    {
+      "id": 336,
+      "en": "And why is eye contact so important?",
+      "cn": "为什么眼神交流如此重要？"
+    },
+    {
+      "id": 337,
+      "en": "If an interviewee maintains eye contact with me for like most of the interview, I feel like they have really good people skills.",
+      "cn": "如果面试者在面试的大部分时间里与我保持眼神交流，我会觉得他们有很好的交际能力。"
+    },
+    {
+      "id": 338,
+      "en": "In my opinion, I would say they have a lot of self-confidence.",
+      "cn": "在我看来，我会说他们非常自信。"
+    },
+    {
+      "id": 339,
+      "en": "Yeah, I'd agree.",
+      "cn": "是的，我同意。"
+    },
+    {
+      "id": 340,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 341,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 342,
+      "en": "Because if a person is looking down or not looking directly at you, it's either one of two things in my opinion.",
+      "cn": "因为如果一个人低头或不直接看着你，在我看来，这可能是两种情况。"
+    },
+    {
+      "id": 343,
+      "en": "It's either they are not confident enough with themselves or they are lying to you.",
+      "cn": "要么他们对自己没有足够的自信，要么他们在对你撒谎。"
+    },
+    {
+      "id": 344,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 345,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 346,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 347,
+      "en": "Or also they just they don't have good people skills.",
+      "cn": "或者他们只是没有良好的交际能力。"
+    },
+    {
+      "id": 348,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 349,
+      "en": "Yeah, which is a problem in today's sort of knowledge-based economy.",
+      "cn": "是的，这在今天的知识经济中是个问题。"
+    },
+    {
+      "id": 350,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 351,
+      "en": "So it's really important to maintain eye contact.",
+      "cn": "所以保持眼神交流是非常重要的。"
+    },
+    {
+      "id": 352,
+      "en": "And one other really important thing related to eye contact posture is the handshake.",
+      "cn": "还有一个与眼神交流相关的重要事情是握手。"
+    },
+    {
+      "id": 353,
+      "en": "When you get to the interview, it's really, really important to give a firm, good handshake.",
+      "cn": "当你到达面试时，给一个坚定、良好的握手是非常重要的。"
+    },
+    {
+      "id": 354,
+      "en": "So what qualifies as a firm, good handshake?",
+      "cn": "那么什么算是一个坚定、良好的握手呢？"
+    },
+    {
+      "id": 355,
+      "en": "Well, you don't have to prove that you are ultra strong, right?",
+      "cn": "嗯，你不必证明你非常强壮，对吧？"
+    },
+    {
+      "id": 356,
+      "en": "So you don't have to squeeze the other person's hand really hard.",
+      "cn": "所以你不必用力握住对方的手。"
+    },
+    {
+      "id": 357,
+      "en": "And like break their hand.",
+      "cn": "也不要把他们的手弄断。"
+    },
+    {
+      "id": 358,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 359,
+      "en": "It's not like a strength contest.",
+      "cn": "这不是力量比赛。"
+    },
+    {
+      "id": 360,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 361,
+      "en": "A good firm handshake is squeezing normally, not too tight, not too loose.",
+      "cn": "一个良好的坚定握手是正常用力，不太紧，也不太松。"
+    },
+    {
+      "id": 362,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 363,
+      "en": "But your entire palm, your entire hand has to be in contact with the other person's palm or hand.",
+      "cn": "但你的整个手掌必须与对方的手掌或手接触。"
+    },
+    {
+      "id": 364,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 365,
+      "en": "Don't give them the fingers, you know, like some people give you only four fingers or half their hand.",
+      "cn": "不要只给他们手指，你知道，有些人只给你四根手指或半只手。"
+    },
+    {
+      "id": 366,
+      "en": "Yeah, I hate that.",
+      "cn": "是的，我讨厌那样。"
+    },
+    {
+      "id": 367,
+      "en": "I hate it too.",
+      "cn": "我也讨厌。"
+    },
+    {
+      "id": 368,
+      "en": "And this goes for men and for women because a lot of women do this.",
+      "cn": "这对男性和女性都适用，因为很多女性这样做。"
+    },
+    {
+      "id": 369,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 370,
+      "en": "I call this the dead fish handshake.",
+      "cn": "我称之为“死鱼握手”。"
+    },
+    {
+      "id": 371,
+      "en": "It is kind of like a dead fish or the dead hand handshake.",
+      "cn": "这就像一只死鱼或死手握手。"
+    },
+    {
+      "id": 372,
+      "en": "Yeah, I absolutely agree with you on this one.",
+      "cn": "是的，我完全同意你的看法。"
+    },
+    {
+      "id": 373,
+      "en": "So nice firm handshake.",
+      "cn": "所以要有一个坚定的握手。"
+    },
+    {
+      "id": 374,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 375,
+      "en": "Firm handshake.",
+      "cn": "坚定的握手。"
+    },
+    {
+      "id": 376,
+      "en": "And well, these are our tips for preparing for the interview, everything you have to do before it.",
+      "cn": "这些就是我们为面试准备的建议，所有你在面试前需要做的事情。"
+    },
+    {
+      "id": 377,
+      "en": "I'm sure there are a lot more things out there.",
+      "cn": "我相信还有很多其他的事情。"
+    },
+    {
+      "id": 378,
+      "en": "So, and I'm sure our users have some insight on this as well.",
+      "cn": "我相信我们的用户也有一些见解。"
+    },
+    {
+      "id": 379,
+      "en": "Yeah, I'd love to hear it.",
+      "cn": "是的，我很想听听。"
+    },
+    {
+      "id": 380,
+      "en": "Cause like I told you, I love job interviews.",
+      "cn": "因为就像我告诉你的一样，我喜欢工作面试。"
+    },
+    {
+      "id": 381,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 382,
+      "en": "So come to our website at EnglishPod.com.",
+      "cn": "所以请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 383,
+      "en": "Leave us your comments.",
+      "cn": "留下你的评论。"
+    },
+    {
+      "id": 384,
+      "en": "Maybe you've had a good experience with a job interview or maybe a bad one, or maybe even as an interviewer, you've interviewed some really interesting people.",
+      "cn": "也许你在工作面试中有过好的经历，或者不好的经历，或者作为面试官，你面试过一些非常有趣的人。"
+    },
+    {
+      "id": 385,
+      "en": "And you've got some great tips to share with us.",
+      "cn": "你有一些很好的建议可以与我们分享。"
+    },
+    {
+      "id": 386,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 387,
+      "en": "So come to our website, leave your questions, leave your comments, share your experiences with our other users and Eric and I will also be there to participate in the discussion.",
+      "cn": "所以请访问我们的网站，留下你的问题，评论，与其他用户分享你的经历，Eric和我也会参与讨论。"
+    },
+    {
+      "id": 388,
+      "en": "All right, guys.",
+      "cn": "好吧，大家。"
+    },
+    {
+      "id": 389,
+      "en": "Well, thanks for listening and until next time.",
+      "cn": "感谢你的收听，期待下次再见。"
+    },
+    {
+      "id": 390,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    }
+  ]
+}

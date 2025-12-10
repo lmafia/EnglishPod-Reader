@@ -1,0 +1,1054 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0265",
+  "title": "EnglishPod 中级 0265",
+  "totalSegments": 209,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "Hi everyone, my name is Catherine, and today we have an elementary level lesson for you.",
+      "cn": "大家好，我叫Catherine，今天我们为你们准备了一节初级课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "Today we are dealing with a house that is filled with different types of bugs.",
+      "cn": "今天我们要处理的是一个充满各种虫子的房子。"
+    },
+    {
+      "id": 6,
+      "en": "Ew, bugs.",
+      "cn": "呃，虫子。"
+    },
+    {
+      "id": 7,
+      "en": "Well, it's summertime, so it's not that uncommon, but not a pleasant thing to deal with.",
+      "cn": "嗯，现在是夏天，所以这并不罕见，但处理起来并不愉快。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So we're going to call an exterminator, so you might be asking yourself what that is.",
+      "cn": "所以我们要叫灭虫师，你可能会问这是什么。"
+    },
+    {
+      "id": 10,
+      "en": "But before we explain, why don't you listen to the dialogue for the first time.",
+      "cn": "但在我们解释之前，为什么不先听一次对话呢。"
+    },
+    {
+      "id": 11,
+      "en": "Hi, did you call for an exterminator?",
+      "cn": "你好，你叫灭虫师吗？"
+    },
+    {
+      "id": 12,
+      "en": "Yes, thank goodness you're here.",
+      "cn": "是的，感谢你来了。"
+    },
+    {
+      "id": 13,
+      "en": "These bugs are driving us crazy.",
+      "cn": "这些虫子快把我们逼疯了。"
+    },
+    {
+      "id": 14,
+      "en": "What sort of pests are we dealing with?",
+      "cn": "我们在处理什么样的害虫？"
+    },
+    {
+      "id": 15,
+      "en": "We just bought this house, and it is infected with just about everything.",
+      "cn": "我们刚买了这栋房子，里面几乎感染了所有东西。"
+    },
+    {
+      "id": 16,
+      "en": "We have termites in the wood, cockroaches all over the place, and last night I saw a huge rat out in the backyard.",
+      "cn": "我们的木头里有白蚁，四处都是蟑螂，昨晚我在后院看到一只巨大的老鼠。"
+    },
+    {
+      "id": 17,
+      "en": "Well, there's nothing that we can't handle.",
+      "cn": "嗯，没有什么是我们处理不了的。"
+    },
+    {
+      "id": 18,
+      "en": "I'll spray the floorboards and walls to get rid of the cockroaches, but the termites will be harder to get rid of.",
+      "cn": "我会喷洒地板和墙壁来消灭蟑螂，但白蚁会更难处理。"
+    },
+    {
+      "id": 19,
+      "en": "We will have to cover the entire house and fumigate it.",
+      "cn": "我们必须覆盖整个房子并进行熏蒸。"
+    },
+    {
+      "id": 20,
+      "en": "Unfortunately, that means you will have to find a place to stay for the next three days.",
+      "cn": "不幸的是，这意味着你需要找个地方住三天。"
+    },
+    {
+      "id": 21,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 22,
+      "en": "Just get rid of the bugs.",
+      "cn": "只要消灭虫子就行。"
+    },
+    {
+      "id": 23,
+      "en": "Alright, we're back, so now we have six keywords that we've chosen out for you.",
+      "cn": "好的，我们回来了，现在我们为你们挑选了六个关键词。"
+    },
+    {
+      "id": 24,
+      "en": "Let's take a look at those now on Language Takeaway.",
+      "cn": "让我们现在在Language Takeaway上看看这些。"
+    },
+    {
+      "id": 25,
+      "en": "Well, Marco, you've already told our users the very first word.",
+      "cn": "嗯，Marco，你已经告诉我们的用户第一个词了。"
+    },
+    {
+      "id": 26,
+      "en": "That would be exterminator.",
+      "cn": "那就是灭虫师。"
+    },
+    {
+      "id": 27,
+      "en": "What is an exterminator?",
+      "cn": "灭虫师是什么？"
+    },
+    {
+      "id": 28,
+      "en": "It's a person, right?",
+      "cn": "是一个人，对吧？"
+    },
+    {
+      "id": 29,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 30,
+      "en": "It's a person that has the job to exterminate or to delete or eliminate different types of bugs or pests.",
+      "cn": "这是一个负责消灭或清除各种虫子或害虫的人。"
+    },
+    {
+      "id": 31,
+      "en": "So an exterminator's job is to kill bugs.",
+      "cn": "所以灭虫师的工作就是杀虫子。"
+    },
+    {
+      "id": 32,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 33,
+      "en": "And usually an exterminator comes to your home or your office to do this, right?",
+      "cn": "通常灭虫师会到你的家或办公室来做这件事，对吧？"
+    },
+    {
+      "id": 34,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 35,
+      "en": "So maybe in your house you have a lot of different types of bugs.",
+      "cn": "所以也许在你的家里有很多不同种类的虫子。"
+    },
+    {
+      "id": 36,
+      "en": "Maybe you have, I don't know, spiders.",
+      "cn": "也许你有，我不知道，蜘蛛。"
+    },
+    {
+      "id": 37,
+      "en": "So an exterminator will come and he will try to get rid of the spiders.",
+      "cn": "所以灭虫师会来，他会试图消灭蜘蛛。"
+    },
+    {
+      "id": 38,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 39,
+      "en": "So an exterminator, in a general sense, gets rid of pests.",
+      "cn": "所以从一般意义上说，灭虫师消灭害虫。"
+    },
+    {
+      "id": 40,
+      "en": "And pest is our next word.",
+      "cn": "而害虫是我们的下一个词。"
+    },
+    {
+      "id": 41,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 42,
+      "en": "A pest.",
+      "cn": "一种害虫。"
+    },
+    {
+      "id": 43,
+      "en": "Now, we're talking about bugs and they can be considered a sort of pest.",
+      "cn": "现在，我们在谈论虫子，它们可以被视为一种害虫。"
+    },
+    {
+      "id": 44,
+      "en": "Well, pest, though, is a more general term, right?",
+      "cn": "嗯，害虫是一个更通用的术语，对吧？"
+    },
+    {
+      "id": 45,
+      "en": "So you can say pest about something like rats or mice.",
+      "cn": "所以你可以把老鼠或小鼠称为害虫。"
+    },
+    {
+      "id": 46,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 47,
+      "en": "So basically some type of animal that is very annoying and also causes some sort of harm or danger.",
+      "cn": "所以基本上是某种非常烦人的动物，也会造成某种伤害或危险。"
+    },
+    {
+      "id": 48,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 49,
+      "en": "So there was a movie, if I remember correctly, in the 1990s.",
+      "cn": "所以如果我没记错的话，90年代有部电影。"
+    },
+    {
+      "id": 50,
+      "en": "It was terrible and it was called The Pest.",
+      "cn": "它很糟糕，叫做《害虫》。"
+    },
+    {
+      "id": 51,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 52,
+      "en": "And it's all about this person who is very annoying.",
+      "cn": "整个故事都是关于一个非常烦人的人。"
+    },
+    {
+      "id": 53,
+      "en": "So you can even say an annoying person or a bothersome person is a pest.",
+      "cn": "所以你甚至可以说一个烦人的人或一个讨厌的人是害虫。"
+    },
+    {
+      "id": 54,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 55,
+      "en": "You're such a pest.",
+      "cn": "你真是个害虫。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so obviously our home is filled with bugs.",
+      "cn": "好吧，显然我们的家里充满了虫子。"
+    },
+    {
+      "id": 57,
+      "en": "And that's what the person said, that it is infested.",
+      "cn": "而那个人说它是感染的。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, so a place, like an office building, or like you said, Marco, a home is infested if it is filled with something.",
+      "cn": "好吧，像办公大楼，或者像你说的，Marco，家里如果充满了某种东西就被称为感染。"
+    },
+    {
+      "id": 59,
+      "en": "And so infested means it's filled with something bad.",
+      "cn": "所以感染意味着充满了坏东西。"
+    },
+    {
+      "id": 60,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 61,
+      "en": "So in this case, the house is infested with bugs.",
+      "cn": "所以在这种情况下，房子里充满了虫子。"
+    },
+    {
+      "id": 62,
+      "en": "They're living upstairs, downstairs, in the basement, in the kitchen.",
+      "cn": "它们住在楼上、楼下、地下室、厨房。"
+    },
+    {
+      "id": 63,
+      "en": "They're everywhere.",
+      "cn": "它们无处不在。"
+    },
+    {
+      "id": 64,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 65,
+      "en": "And she said that we, well, actually they have termites in the wood.",
+      "cn": "她说我们，实际上是他们的木头里有白蚁。"
+    },
+    {
+      "id": 66,
+      "en": "All right, so termites are a special kind of bug that almost always live in wood, right?",
+      "cn": "好吧，白蚁是一种特殊的虫子，几乎总是生活在木头里，对吧？"
+    },
+    {
+      "id": 67,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 68,
+      "en": "They're little bugs that I think eat the wood.",
+      "cn": "它们是小虫子，我想是吃木头的。"
+    },
+    {
+      "id": 69,
+      "en": "And this is why they're so dangerous, because they make the house weak, because they eat off all the wood that supports it.",
+      "cn": "这就是它们如此危险的原因，因为它们使房子变得脆弱，因为它们吃掉支撑房子的所有木头。"
+    },
+    {
+      "id": 70,
+      "en": "So we can say the house fell down because it was infested with termites.",
+      "cn": "所以我们可以说房子倒塌是因为它被白蚁感染。"
+    },
+    {
+      "id": 71,
+      "en": "That's right, termites.",
+      "cn": "没错，白蚁。"
+    },
+    {
+      "id": 72,
+      "en": "And also we have a very common pest or a bug.",
+      "cn": "我们还有一种非常常见的害虫或虫子。"
+    },
+    {
+      "id": 73,
+      "en": "We have cockroaches.",
+      "cn": "我们有蟑螂。"
+    },
+    {
+      "id": 74,
+      "en": "Ugh, I hate these, and they're everywhere this summer.",
+      "cn": "呃，我讨厌这些，它们这个夏天到处都是。"
+    },
+    {
+      "id": 75,
+      "en": "Cockroaches come in different sizes.",
+      "cn": "蟑螂有不同的大小。"
+    },
+    {
+      "id": 76,
+      "en": "Some are big, some are small, but they're very, very strong bugs.",
+      "cn": "有些大，有些小，但它们都是非常强壮的虫子。"
+    },
+    {
+      "id": 77,
+      "en": "They can live through anything.",
+      "cn": "它们可以活过任何东西。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "They're small, usually brown, but sometimes I think you can see black cockroaches.",
+      "cn": "它们小，通常是棕色的，但有时我觉得你可以看到黑色的蟑螂。"
+    },
+    {
+      "id": 80,
+      "en": "That's right, and they love to be near food and decaying things, like garbage bins.",
+      "cn": "没错，它们喜欢靠近食物和腐烂的东西，比如垃圾桶。"
+    },
+    {
+      "id": 81,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 82,
+      "en": "So a very common type of pest, cockroach.",
+      "cn": "所以一种非常常见的害虫，蟑螂。"
+    },
+    {
+      "id": 83,
+      "en": "And in order to get rid of termites and cockroaches and all these types of bugs, we have to fumigate the house.",
+      "cn": "为了消灭白蚁和蟑螂以及所有这些虫子，我们必须对房子进行熏蒸。"
+    },
+    {
+      "id": 84,
+      "en": "Okay, so this is one method that the exterminator uses to kill bugs.",
+      "cn": "好吧，这是一种灭虫师用来杀虫子的方式。"
+    },
+    {
+      "id": 85,
+      "en": "And like in the dialogue, when you fumigate a house, basically you fill the house with fumes or gases that kill bugs.",
+      "cn": "就像在对话中，当你熏蒸一栋房子时，基本上是用气体或烟雾填满房子来杀死虫子。"
+    },
+    {
+      "id": 86,
+      "en": "So people, like you and me, we can't be in the house when that happens, right?",
+      "cn": "所以像你我这样的人，在那时不能在房子里，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 88,
+      "en": "Actually, if you see an exterminator, he will always fumigate wearing a mask so he doesn't inhale those poisonous gas.",
+      "cn": "实际上，如果你看到一个灭虫师，他总是会戴上口罩进行熏蒸，以免吸入那些有毒气体。"
+    },
+    {
+      "id": 89,
+      "en": "Right, so it's very dangerous for people, and you'll have to make sure you talk to your exterminator to make sure that the gases he's using aren't getting into your body.",
+      "cn": "对，所以对人来说非常危险，你必须确保与你的灭虫师沟通，以确保他使用的气体不会进入你的身体。"
+    },
+    {
+      "id": 90,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, so why don't we listen to the dialogue again, and we'll be back in a bit.",
+      "cn": "好吧，为什么我们不再听一次对话，我们很快就会回来。"
+    },
+    {
+      "id": 92,
+      "en": "Hi, did you call for an exterminator?",
+      "cn": "你好，你叫灭虫师吗？"
+    },
+    {
+      "id": 93,
+      "en": "Yes, thank goodness you're here.",
+      "cn": "是的，感谢你来了。"
+    },
+    {
+      "id": 94,
+      "en": "These bugs are driving us crazy.",
+      "cn": "这些虫子快把我们逼疯了。"
+    },
+    {
+      "id": 95,
+      "en": "What sort of pests are we dealing with?",
+      "cn": "我们在处理什么样的害虫？"
+    },
+    {
+      "id": 96,
+      "en": "We just bought this house, and it is infected with just about everything.",
+      "cn": "我们刚买了这栋房子，里面几乎感染了所有东西。"
+    },
+    {
+      "id": 97,
+      "en": "We have termites in the wood, cockroaches all over the place, and last night I saw a huge rat out in the backyard.",
+      "cn": "我们的木头里有白蚁，四处都是蟑螂，昨晚我在后院看到一只巨大的老鼠。"
+    },
+    {
+      "id": 98,
+      "en": "Well, there's nothing that we can't handle.",
+      "cn": "嗯，没有什么是我们处理不了的。"
+    },
+    {
+      "id": 99,
+      "en": "I'll spray the floorboards and walls to get rid of the cockroaches, but the termites will be harder to get rid of.",
+      "cn": "我会喷洒地板和墙壁来消灭蟑螂，但白蚁会更难处理。"
+    },
+    {
+      "id": 100,
+      "en": "We will have to cover the entire house and fumigate it.",
+      "cn": "我们必须覆盖整个房子并进行熏蒸。"
+    },
+    {
+      "id": 101,
+      "en": "Unfortunately, that means you will have to find a place to stay for the next three days.",
+      "cn": "不幸的是，这意味着你需要找到一个地方住三天。"
+    },
+    {
+      "id": 102,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 103,
+      "en": "Just get rid of the bugs.",
+      "cn": "只要把虫子处理掉就行。"
+    },
+    {
+      "id": 104,
+      "en": "Alright, so now we've chosen three key phrases for you on Fluency Builder.",
+      "cn": "好的，现在我们为你选择了三个关键短语用于流利表达构建器。"
+    },
+    {
+      "id": 105,
+      "en": "Fluency Builder Well, this first phrase comes from the very beginning of today's dialogue.",
+      "cn": "流利表达构建器，第一个短语来自今天对话的开头。"
+    },
+    {
+      "id": 106,
+      "en": "The second person in the dialogue says these bugs are driving us crazy.",
+      "cn": "对话中的第二个人说这些虫子让我们发疯。"
+    },
+    {
+      "id": 107,
+      "en": "So to drive someone crazy.",
+      "cn": "所以让某人发疯。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, so if you're driving someone crazy, it means that you're making them crazy.",
+      "cn": "好吧，如果你让某人发疯，这意味着你让他们疯狂。"
+    },
+    {
+      "id": 109,
+      "en": "Alright, so it could be you're making them angry, or you're making them frustrated, but it has nothing to do with cars, right?",
+      "cn": "好的，这可能是你让他们生气，或者让他们沮丧，但这与汽车无关，对吧？"
+    },
+    {
+      "id": 110,
+      "en": "Yeah, there's no driving involved.",
+      "cn": "是的，没有驾驶的意思。"
+    },
+    {
+      "id": 111,
+      "en": "So driving here means making.",
+      "cn": "所以这里的驾驶意味着制造。"
+    },
+    {
+      "id": 112,
+      "en": "You're making me crazy.",
+      "cn": "你让我发疯。"
+    },
+    {
+      "id": 113,
+      "en": "You're really making me frustrated.",
+      "cn": "你真的让我沮丧。"
+    },
+    {
+      "id": 114,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 115,
+      "en": "So in this case, the animals, the bugs were driving them crazy.",
+      "cn": "所以在这种情况下，动物，虫子让他们发疯。"
+    },
+    {
+      "id": 116,
+      "en": "They were so annoying that they were very irritated.",
+      "cn": "它们太烦人了，以至于他们非常恼火。"
+    },
+    {
+      "id": 117,
+      "en": "So I could do something, Marco, that will drive you crazy.",
+      "cn": "所以我可以做一些事情，马尔科，会让你发疯。"
+    },
+    {
+      "id": 118,
+      "en": "I could tap, tap, tap, tap, tap, tap, tap.",
+      "cn": "我可以轻轻敲打，敲打，敲打，敲打，敲打，敲打。"
+    },
+    {
+      "id": 119,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 120,
+      "en": "That's driving me crazy.",
+      "cn": "这让我发疯。"
+    },
+    {
+      "id": 121,
+      "en": "Doesn't know you?",
+      "cn": "不知道你？"
+    },
+    {
+      "id": 122,
+      "en": "Yes, yes.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 123,
+      "en": "So I'll stop so it doesn't drive you crazy anymore.",
+      "cn": "所以我会停下来，这样就不会再让你发疯了。"
+    },
+    {
+      "id": 124,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 125,
+      "en": "Okay, so now obviously bugs are driving them crazy.",
+      "cn": "好的，显然虫子让他们发疯。"
+    },
+    {
+      "id": 126,
+      "en": "And she went on to explain that it's because the house is infested with just about everything.",
+      "cn": "她接着解释说，这是因为房子里几乎到处都是虫子。"
+    },
+    {
+      "id": 127,
+      "en": "Well, this is a great phrase because we can say it in a lot of different contexts.",
+      "cn": "这个短语很好，因为我们可以在很多不同的语境中使用它。"
+    },
+    {
+      "id": 128,
+      "en": "In this context, it means there is not everything, every single bug in the house, but just about everything.",
+      "cn": "在这个语境中，它的意思是房子里几乎有所有的虫子。"
+    },
+    {
+      "id": 129,
+      "en": "That means almost every bug you can think of is in this house.",
+      "cn": "这意味着你能想到的几乎所有虫子都在这个房子里。"
+    },
+    {
+      "id": 130,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 131,
+      "en": "So it's kind of a way of exaggerating also.",
+      "cn": "所以这也是一种夸张的方式。"
+    },
+    {
+      "id": 132,
+      "en": "Because obviously, well, they have cockroaches, they have termites, but they're saying we have a lot of different types of bugs.",
+      "cn": "因为显然，他们有蟑螂，有白蚁，但他们说我们有很多不同种类的虫子。"
+    },
+    {
+      "id": 133,
+      "en": "We have just about everything that you can imagine.",
+      "cn": "我们有你能想象的几乎所有东西。"
+    },
+    {
+      "id": 134,
+      "en": "You could even say, this restaurant has just about every Chinese dish you could ever think of.",
+      "cn": "你甚至可以说，这家餐厅有你能想到的几乎所有中餐。"
+    },
+    {
+      "id": 135,
+      "en": "That's not true.",
+      "cn": "这不是真的。"
+    },
+    {
+      "id": 136,
+      "en": "It doesn't have every single one.",
+      "cn": "它并没有每一种。"
+    },
+    {
+      "id": 137,
+      "en": "But it has a lot.",
+      "cn": "但它有很多。"
+    },
+    {
+      "id": 138,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 139,
+      "en": "Okay, so that's the way that you use just about everything.",
+      "cn": "好的，这就是你使用“几乎所有”的方式。"
+    },
+    {
+      "id": 140,
+      "en": "And for our final phrase, we used it a little bit earlier on.",
+      "cn": "对于我们的最后一个短语，我们稍早使用过。"
+    },
+    {
+      "id": 141,
+      "en": "Let's explain it a little bit.",
+      "cn": "让我们稍微解释一下。"
+    },
+    {
+      "id": 142,
+      "en": "When we're talking about bugs, we want to get rid of bugs.",
+      "cn": "当我们谈论虫子时，我们想要处理掉虫子。"
+    },
+    {
+      "id": 143,
+      "en": "This is why we call the exterminator, to get rid of the cockroaches.",
+      "cn": "这就是我们叫灭虫师来处理蟑螂的原因。"
+    },
+    {
+      "id": 144,
+      "en": "You might hear this phrase a lot when you're watching movies about gangsters or mobsters like The Sopranos, the TV show, Get Rid of Him.",
+      "cn": "你可能在看关于黑帮或黑手党的电影时经常听到这个短语，比如《黑道家族》，电视节目，处理掉他。"
+    },
+    {
+      "id": 145,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 146,
+      "en": "So this is a phrase that means, in this case, to kill something or to kill someone, to get rid of it, to get rid of him.",
+      "cn": "所以这个短语在这种情况下意味着杀掉某物或某人，处理掉它，处理掉他。"
+    },
+    {
+      "id": 147,
+      "en": "To not have it anymore.",
+      "cn": "不再拥有它。"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 149,
+      "en": "So, rid means to get away or to throw away.",
+      "cn": "所以，rid意味着摆脱或扔掉。"
+    },
+    {
+      "id": 150,
+      "en": "But in this case, you're not just throwing it away, you're killing these bugs.",
+      "cn": "但在这种情况下，你不仅仅是扔掉它，你是在杀掉这些虫子。"
+    },
+    {
+      "id": 151,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 152,
+      "en": "So we want to get rid of the bugs.",
+      "cn": "所以我们想要处理掉虫子。"
+    },
+    {
+      "id": 153,
+      "en": "Now, obviously, as you said, we can also throw away.",
+      "cn": "现在，显然，正如你所说，我们也可以扔掉。"
+    },
+    {
+      "id": 154,
+      "en": "For example, these shoes are too old.",
+      "cn": "例如，这些鞋子太旧了。"
+    },
+    {
+      "id": 155,
+      "en": "I'm going to get rid of them.",
+      "cn": "我打算处理掉它们。"
+    },
+    {
+      "id": 156,
+      "en": "Or, hey Marco, this milk smells funny.",
+      "cn": "或者，嘿马尔科，这牛奶闻起来很奇怪。"
+    },
+    {
+      "id": 157,
+      "en": "Can you get rid of it?",
+      "cn": "你能处理掉它吗？"
+    },
+    {
+      "id": 158,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 159,
+      "en": "So that's the way that you would use that phrase, to get rid of something.",
+      "cn": "所以这就是你使用这个短语，处理掉某物的方式。"
+    },
+    {
+      "id": 160,
+      "en": "So why don't we listen to our dialogue for the very last time, and we're back to talk a little bit more.",
+      "cn": "那么我们为什么不最后一次听我们的对话，然后再回来聊聊。"
+    },
+    {
+      "id": 161,
+      "en": "Well, there's nothing that we can't handle.",
+      "cn": "好吧，没有什么是我们无法处理的。"
+    },
+    {
+      "id": 162,
+      "en": "I'll spray the floorboards and walls to get rid of the cockroaches, but the termites will be harder to get rid of.",
+      "cn": "我会喷洒地板和墙壁来处理掉蟑螂，但白蚁会更难处理。"
+    },
+    {
+      "id": 163,
+      "en": "We will have to cover the entire house and fumigate it.",
+      "cn": "我们必须覆盖整个房子并进行熏蒸。"
+    },
+    {
+      "id": 164,
+      "en": "Unfortunately, that means you will have to find a place to stay for the next three days.",
+      "cn": "不幸的是，这意味着你需要找到一个地方住三天。"
+    },
+    {
+      "id": 165,
+      "en": "No problem.",
+      "cn": "没问题。"
+    },
+    {
+      "id": 166,
+      "en": "Just get rid of the bugs.",
+      "cn": "只要把虫子处理掉就行。"
+    },
+    {
+      "id": 167,
+      "en": "So bugs.",
+      "cn": "所以虫子。"
+    },
+    {
+      "id": 168,
+      "en": "Everyone loves bugs, right?",
+      "cn": "每个人都喜欢虫子，对吧？"
+    },
+    {
+      "id": 169,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 170,
+      "en": "I'm actually okay with termites, or for example, cockroaches are a little bit weird, but I actually really dislike spiders.",
+      "cn": "我其实对白蚁还好，或者说蟑螂有点奇怪，但我真的很讨厌蜘蛛。"
+    },
+    {
+      "id": 171,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 172,
+      "en": "So you're okay with cockroaches, but spiders make you nervous.",
+      "cn": "所以你对蟑螂还好，但蜘蛛让你紧张。"
+    },
+    {
+      "id": 173,
+      "en": "Yeah, spiders are... Well, the thing is, spiders can actually hurt you.",
+      "cn": "是的，蜘蛛是……好吧，问题是，蜘蛛实际上可以伤害你。"
+    },
+    {
+      "id": 174,
+      "en": "And cockroaches generally cannot.",
+      "cn": "而蟑螂通常不能。"
+    },
+    {
+      "id": 175,
+      "en": "They're gross, they're dirty.",
+      "cn": "它们很恶心，很脏。"
+    },
+    {
+      "id": 176,
+      "en": "But spiders, there are very, very many kinds of dangerous spiders out there that are poisonous.",
+      "cn": "但蜘蛛，有很多种危险的蜘蛛是有毒的。"
+    },
+    {
+      "id": 177,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 178,
+      "en": "So for example, termites, nothing's going to happen.",
+      "cn": "所以例如，白蚁，没什么会发生。"
+    },
+    {
+      "id": 179,
+      "en": "Or cockroaches, they're nasty.",
+      "cn": "或者蟑螂，它们很讨厌。"
+    },
+    {
+      "id": 180,
+      "en": "Well, not unless your house is weakened by hundreds of millions of termites.",
+      "cn": "好吧，除非你的房子被数以亿计的白蚁侵蚀。"
+    },
+    {
+      "id": 181,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 182,
+      "en": "But for example, I think other people have snakes sometimes as pests.",
+      "cn": "但例如，我认为其他人有时会把蛇当作害虫。"
+    },
+    {
+      "id": 183,
+      "en": "Because they live in areas that have a lot of snakes, or mice, because snakes are attracted by mice.",
+      "cn": "因为他们生活在有很多蛇的地方，或者老鼠，因为蛇会被老鼠吸引。"
+    },
+    {
+      "id": 184,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 185,
+      "en": "So some people keep cats for that reason.",
+      "cn": "所以有些人出于这个原因养猫。"
+    },
+    {
+      "id": 186,
+      "en": "They want the cats, especially on farms, the cats to catch the mice.",
+      "cn": "他们希望猫，尤其是在农场上，猫能抓老鼠。"
+    },
+    {
+      "id": 187,
+      "en": "Or to scare the snakes away.",
+      "cn": "或者吓跑蛇。"
+    },
+    {
+      "id": 188,
+      "en": "But I don't really have a problem with snakes or spiders, but I do have a problem with scorpions.",
+      "cn": "但我对蛇或蜘蛛没有太大问题，但我确实对蝎子有问题。"
+    },
+    {
+      "id": 189,
+      "en": "Oh, scorpions.",
+      "cn": "哦，蝎子。"
+    },
+    {
+      "id": 190,
+      "en": "If you live close to a desert or very dry area, scorpions, they really scare me.",
+      "cn": "如果你住在靠近沙漠或非常干燥的地方，蝎子真的让我害怕。"
+    },
+    {
+      "id": 191,
+      "en": "I've seen on, I think, Discovery Channel that in Australia they're very common.",
+      "cn": "我在发现频道上看到过，在澳大利亚它们非常常见。"
+    },
+    {
+      "id": 192,
+      "en": "And so, not only scorpions, but also spiders.",
+      "cn": "所以，不仅是蝎子，还有蜘蛛。"
+    },
+    {
+      "id": 193,
+      "en": "So whenever you put your shoes on, you have to check that there's nothing in it.",
+      "cn": "所以每当你穿鞋时，你必须检查里面有没有东西。"
+    },
+    {
+      "id": 194,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 195,
+      "en": "Also, shower drains.",
+      "cn": "还有淋浴排水口。"
+    },
+    {
+      "id": 196,
+      "en": "You know where the water goes down the hole in the shower?",
+      "cn": "你知道水是如何流入淋浴的洞里吗？"
+    },
+    {
+      "id": 197,
+      "en": "Often times you get things like scorpions in the desert areas that come out of the drains.",
+      "cn": "经常会有像蝎子这样的东西从沙漠地区的排水口出来。"
+    },
+    {
+      "id": 198,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 199,
+      "en": "Oh wow, that looks like something from a horror movie or something.",
+      "cn": "哦，哇，那看起来像是恐怖电影里的东西。"
+    },
+    {
+      "id": 200,
+      "en": "Yeah, and all of a sudden you're in the shower and there's pests coming out of the drains.",
+      "cn": "是的，突然间你在淋浴时，害虫从排水口出来。"
+    },
+    {
+      "id": 201,
+      "en": "Yeah, that's nasty.",
+      "cn": "是啊，那太恶心了。"
+    },
+    {
+      "id": 202,
+      "en": "Terrifying.",
+      "cn": "令人恐惧。"
+    },
+    {
+      "id": 203,
+      "en": "Alright, so a lot of different types of kind of scary bugs and pests.",
+      "cn": "好吧，有很多不同类型的可怕虫子和害虫。"
+    },
+    {
+      "id": 204,
+      "en": "But we would like to know if you've ever had an infestation in your home, or what pests are you afraid of?",
+      "cn": "但我们想知道你家里有没有过虫害，或者你害怕什么害虫？"
+    },
+    {
+      "id": 205,
+      "en": "So let us know.",
+      "cn": "所以请告诉我们。"
+    },
+    {
+      "id": 206,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 207,
+      "en": "We hope to see you there.",
+      "cn": "希望在那里见到你。"
+    },
+    {
+      "id": 208,
+      "en": "Alright, we'll see you guys next time.",
+      "cn": "好吧，下次见。"
+    },
+    {
+      "id": 209,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

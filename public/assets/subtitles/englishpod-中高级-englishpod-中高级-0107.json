@@ -1,0 +1,1319 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0107",
+  "title": "EnglishPod 中高级 0107",
+  "totalSegments": 262,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another great podcast here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一期精彩播客。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marko.",
+      "cn": "我叫Marko。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be talking about one of our favorite topics, as always.",
+      "cn": "今天我们将讨论我们最喜欢的话题之一，一如既往。"
+    },
+    {
+      "id": 6,
+      "en": "Food.",
+      "cn": "食物。"
+    },
+    {
+      "id": 7,
+      "en": "Food.",
+      "cn": "食物。"
+    },
+    {
+      "id": 8,
+      "en": "We're going to be at a restaurant.",
+      "cn": "我们将在一家餐厅。"
+    },
+    {
+      "id": 9,
+      "en": "And one of the most difficult or embarrassing things to deal with at a restaurant is what to say when you don't like the food or when it's bad quality food.",
+      "cn": "在餐厅中，最困难或尴尬的事情之一就是当你不喜欢食物或食物质量差时该说什么。"
+    },
+    {
+      "id": 10,
+      "en": "Right, so maybe we have to complain about the food or maybe even the service, right?",
+      "cn": "对，所以也许我们需要抱怨食物，甚至服务，对吧？"
+    },
+    {
+      "id": 11,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 12,
+      "en": "And in this lesson, we're going to be learning some really wonderful words and phrases that you can use when you need to complain about the food or the service in a restaurant.",
+      "cn": "在这节课中，我们将学习一些非常好的单词和短语，当你需要抱怨餐厅的食物或服务时可以使用。"
+    },
+    {
+      "id": 13,
+      "en": "Okay, so before we listen to what happens in this restaurant with this food, let's take a look very quickly at vocabulary preview.",
+      "cn": "好的，在我们听听这家餐厅的食物发生了什么之前，让我们快速看一下词汇预览。"
+    },
+    {
+      "id": 14,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, we're only going to do one word today.",
+      "cn": "好的，今天我们只会做一个单词。"
+    },
+    {
+      "id": 16,
+      "en": "And this you'll hear in dialogue.",
+      "cn": "你将在对话中听到这个。"
+    },
+    {
+      "id": 17,
+      "en": "An establishment.",
+      "cn": "一家机构。"
+    },
+    {
+      "id": 18,
+      "en": "Establishment.",
+      "cn": "机构。"
+    },
+    {
+      "id": 19,
+      "en": "This kind of establishment.",
+      "cn": "这种机构。"
+    },
+    {
+      "id": 20,
+      "en": "Okay, so when I say an establishment, that's a noun.",
+      "cn": "好的，当我说一家机构时，这是一个名词。"
+    },
+    {
+      "id": 21,
+      "en": "What is an establishment?",
+      "cn": "什么是机构？"
+    },
+    {
+      "id": 22,
+      "en": "It's basically a fancy word for a business or a restaurant in this case.",
+      "cn": "基本上，这是一个商业或餐厅的高级词汇。"
+    },
+    {
+      "id": 23,
+      "en": "In this case, it's a restaurant.",
+      "cn": "在这种情况下，它是一家餐厅。"
+    },
+    {
+      "id": 24,
+      "en": "But in general, you can say it's a business.",
+      "cn": "但一般来说，你可以说它是一个商业。"
+    },
+    {
+      "id": 25,
+      "en": "So you have a very fine establishment.",
+      "cn": "所以你有一家非常好的机构。"
+    },
+    {
+      "id": 26,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 27,
+      "en": "So an establishment, a type of business, a place of business, really.",
+      "cn": "所以一家机构，一种商业，真正的商业场所。"
+    },
+    {
+      "id": 28,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 29,
+      "en": "All right, so now it's time for us to listen to our dialogue.",
+      "cn": "好的，现在是我们听对话的时候了。"
+    },
+    {
+      "id": 30,
+      "en": "We're gonna find out what's going on here.",
+      "cn": "我们要找出这里发生了什么。"
+    },
+    {
+      "id": 31,
+      "en": "Apparently, there is a very angry customer.",
+      "cn": "显然，有一位非常生气的顾客。"
+    },
+    {
+      "id": 32,
+      "en": "And we're gonna find out why.",
+      "cn": "我们要找出原因。"
+    },
+    {
+      "id": 33,
+      "en": "Excuse me, waiter.",
+      "cn": "劳驾，服务员。"
+    },
+    {
+      "id": 34,
+      "en": "Yes, sir.",
+      "cn": "是的，先生。"
+    },
+    {
+      "id": 35,
+      "en": "What can I do for you?",
+      "cn": "我能为您做些什么？"
+    },
+    {
+      "id": 36,
+      "en": "I've been sitting here for the past 20 minutes and no one has offered me a glass of water, brought any bread to the table, and our appetizer haven't been served yet.",
+      "cn": "我在这里坐了20分钟，没有人给我提供一杯水，也没有人把面包送到桌上，我们的开胃菜还没有上。"
+    },
+    {
+      "id": 37,
+      "en": "You know, in this kind of establishment, I'd expect much better service.",
+      "cn": "你知道，在这种机构中，我期待更好的服务。"
+    },
+    {
+      "id": 38,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 39,
+      "en": "I'll check on your order right away.",
+      "cn": "我马上检查您的订单。"
+    },
+    {
+      "id": 40,
+      "en": "Relax, honey.",
+      "cn": "放松，亲爱的。"
+    },
+    {
+      "id": 41,
+      "en": "The place is busy tonight.",
+      "cn": "今晚地方很忙。"
+    },
+    {
+      "id": 42,
+      "en": "And I've heard the food is amazing.",
+      "cn": "我听说食物很棒。"
+    },
+    {
+      "id": 43,
+      "en": "Anyway, here you are, sir, the foie gras for the lady and a mushroom soup for you.",
+      "cn": "无论如何，先生，这是给女士的鹅肝，给您的蘑菇汤。"
+    },
+    {
+      "id": 44,
+      "en": "Waiter!",
+      "cn": "服务员！"
+    },
+    {
+      "id": 45,
+      "en": "I heard a cream of mushroom soup with asparagus.",
+      "cn": "我听到的是芦笋奶油蘑菇汤。"
+    },
+    {
+      "id": 46,
+      "en": "This soup is obviously too runny and it's over seasoned.",
+      "cn": "这汤显然太稀了，调味过重。"
+    },
+    {
+      "id": 47,
+      "en": "It's completely inedible.",
+      "cn": "完全无法食用。"
+    },
+    {
+      "id": 48,
+      "en": "Okay, I do apologize for that.",
+      "cn": "好的，我对此表示歉意。"
+    },
+    {
+      "id": 49,
+      "en": "Can I bring you another soup or would you like to order something else?",
+      "cn": "我可以给您换一碗汤，还是您想点别的？"
+    },
+    {
+      "id": 50,
+      "en": "Take this foie gras back as well.",
+      "cn": "也把这鹅肝拿回去。"
+    },
+    {
+      "id": 51,
+      "en": "It's rubbery and completely overcooked.",
+      "cn": "它很有嚼劲，完全煮过头了。"
+    },
+    {
+      "id": 52,
+      "en": "And look at the portion size.",
+      "cn": "看看份量。"
+    },
+    {
+      "id": 53,
+      "en": "How can you charge $25 for a sliver of duck liver?",
+      "cn": "你怎么能为一小块鸭肝收25美元？"
+    },
+    {
+      "id": 54,
+      "en": "Right away, sir.",
+      "cn": "马上就来，先生。"
+    },
+    {
+      "id": 55,
+      "en": "Honey, come on.",
+      "cn": "亲爱的，别这样。"
+    },
+    {
+      "id": 56,
+      "en": "The foie gras was fine.",
+      "cn": "鹅肝很好。"
+    },
+    {
+      "id": 57,
+      "en": "Why are you making such a big deal?",
+      "cn": "你为什么要大惊小怪？"
+    },
+    {
+      "id": 58,
+      "en": "Are you trying to get our meal comped again?",
+      "cn": "你是在试图让我们的餐费免单吗？"
+    },
+    {
+      "id": 59,
+      "en": "What do you mean?",
+      "cn": "你什么意思？"
+    },
+    {
+      "id": 60,
+      "en": "We are paying for this and I'm shelling out my hard-earned bucks.",
+      "cn": "我们为此付钱，我花的是我辛苦挣来的钱。"
+    },
+    {
+      "id": 61,
+      "en": "I expect value for money.",
+      "cn": "我期待物有所值。"
+    },
+    {
+      "id": 62,
+      "en": "Here you are, sir.",
+      "cn": "这是给您的，先生。"
+    },
+    {
+      "id": 63,
+      "en": "I hope it is all right now.",
+      "cn": "我希望现在一切都好。"
+    },
+    {
+      "id": 64,
+      "en": "The chef has prepared it especially for you.",
+      "cn": "厨师特意为您准备的。"
+    },
+    {
+      "id": 65,
+      "en": "Yes, fine.",
+      "cn": "是的，好的。"
+    },
+    {
+      "id": 66,
+      "en": "Honey, are you all right?",
+      "cn": "亲爱的，你还好吗？"
+    },
+    {
+      "id": 67,
+      "en": "Oh, God!",
+      "cn": "哦，天哪！"
+    },
+    {
+      "id": 68,
+      "en": "Well,",
+      "cn": "好吧，"
+    },
+    {
+      "id": 69,
+      "en": "I guess that's one lesson.",
+      "cn": "我想这是一课。"
+    },
+    {
+      "id": 70,
+      "en": "Hey, if you're in a restaurant, don't be too rude to the waiter.",
+      "cn": "嘿，如果你在餐厅，不要对服务员太无礼。"
+    },
+    {
+      "id": 71,
+      "en": "You never know what's going to happen.",
+      "cn": "你永远不知道会发生什么。"
+    },
+    {
+      "id": 72,
+      "en": "The waiter and the cook, right?",
+      "cn": "服务员和厨师，对吧？"
+    },
+    {
+      "id": 73,
+      "en": "Yeah, you don't want to offend that kitchen staff.",
+      "cn": "是的，你不想冒犯厨房工作人员。"
+    },
+    {
+      "id": 74,
+      "en": "All right, so we'll talk about that a little bit later on.",
+      "cn": "好的，我们稍后会谈谈这个。"
+    },
+    {
+      "id": 75,
+      "en": "But now I think we had some really interesting vocabulary of how to describe food that is not well prepared.",
+      "cn": "但现在我认为我们有一些非常有趣的词汇来描述准备不好的食物。"
+    },
+    {
+      "id": 76,
+      "en": "And we can take a look at that now in Language Takeaway.",
+      "cn": "我们现在可以在语言收获中看看。"
+    },
+    {
+      "id": 77,
+      "en": "Language Takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 78,
+      "en": "All right, so the guy in this dialogue, he ordered a mushroom soup and he complained that the mushroom soup was too runny.",
+      "cn": "好的，这个对话中的人，他点了一碗蘑菇汤，并抱怨蘑菇汤太稀了。"
+    },
+    {
+      "id": 79,
+      "en": "Okay, the soup is too runny.",
+      "cn": "好的，汤太稀了。"
+    },
+    {
+      "id": 80,
+      "en": "Runny.",
+      "cn": "稀。"
+    },
+    {
+      "id": 81,
+      "en": "So he wanted a cream of mushroom, so it should be a little bit thicker.",
+      "cn": "所以他想要的是奶油蘑菇汤，所以应该稍微浓一点。"
+    },
+    {
+      "id": 82,
+      "en": "But in this case, it was runny.",
+      "cn": "但在这种情况下，它是稀的。"
+    },
+    {
+      "id": 83,
+      "en": "So when something is runny, it's too liquid.",
+      "cn": "所以当某物稀的时候，它是太液体。"
+    },
+    {
+      "id": 84,
+      "en": "Too liquid.",
+      "cn": "太液体。"
+    },
+    {
+      "id": 85,
+      "en": "And I think we can relate it to a runny nose, right?",
+      "cn": "我认为我们可以把它与流鼻涕联系起来，对吧？"
+    },
+    {
+      "id": 86,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 87,
+      "en": "Okay, so when liquid is coming out of your nose, a runny nose, in this case, the soup is runny.",
+      "cn": "好的，所以当液体从你的鼻子流出时，流鼻涕，在这种情况下，汤是稀的。"
+    },
+    {
+      "id": 88,
+      "en": "All right, and another thing that he was complaining about, the food was over-seasoned.",
+      "cn": "好的，还有他抱怨的另一件事，食物调味过重。"
+    },
+    {
+      "id": 89,
+      "en": "Over-seasoned.",
+      "cn": "调味过重。"
+    },
+    {
+      "id": 90,
+      "en": "The food is over-seasoned.",
+      "cn": "食物调味过重。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, so if the food is over-seasoned... It's too salty.",
+      "cn": "好的，所以如果食物调味过重……太咸了。"
+    },
+    {
+      "id": 92,
+      "en": "So it's another way of saying it's too salty.",
+      "cn": "所以这是另一种说法，意思是太咸了。"
+    },
+    {
+      "id": 93,
+      "en": "Yeah, it's kind of a fancy cooking term.",
+      "cn": "是的，这是一种高级的烹饪术语。"
+    },
+    {
+      "id": 94,
+      "en": "Now, can I say if there's too much pepper in the food, can I say it's over-seasoned?",
+      "cn": "现在，我可以说如果食物里胡椒太多，我可以说它调味过重吗？"
+    },
+    {
+      "id": 95,
+      "en": "Well, technically, no.",
+      "cn": "嗯，技术上来说，不可以。"
+    },
+    {
+      "id": 96,
+      "en": "When a cook says something is over-seasoned, he's talking salt only.",
+      "cn": "当厨师说某物调味过重时，他只是在谈论盐。"
+    },
+    {
+      "id": 97,
+      "en": "Only salt, okay.",
+      "cn": "只有盐，好的。"
+    },
+    {
+      "id": 98,
+      "en": "So the cream of mushroom is very runny, it's over-seasoned, and he said it's completely inedible.",
+      "cn": "所以奶油蘑菇汤非常稀，调味过重，他说完全无法食用。"
+    },
+    {
+      "id": 99,
+      "en": "Inedible.",
+      "cn": "无法食用。"
+    },
+    {
+      "id": 100,
+      "en": "It's inedible.",
+      "cn": "它无法食用。"
+    },
+    {
+      "id": 101,
+      "en": "Inedible.",
+      "cn": "不可食用。"
+    },
+    {
+      "id": 102,
+      "en": "Now, this word, edible.",
+      "cn": "现在，这个词，可食用。"
+    },
+    {
+      "id": 103,
+      "en": "You can eat it.",
+      "cn": "你可以吃它。"
+    },
+    {
+      "id": 104,
+      "en": "You can eat it.",
+      "cn": "你可以吃它。"
+    },
+    {
+      "id": 105,
+      "en": "So we have this prefix, inedible.",
+      "cn": "所以我们有这个前缀，不可食用。"
+    },
+    {
+      "id": 106,
+      "en": "You cannot eat it.",
+      "cn": "你不能吃它。"
+    },
+    {
+      "id": 107,
+      "en": "This is not possible.",
+      "cn": "这是不可能的。"
+    },
+    {
+      "id": 108,
+      "en": "Yeah, and it doesn't mean that physically you can't eat it, it just means it's pretty disgusting.",
+      "cn": "是的，这并不意味着你在身体上不能吃它，只是意味着它非常恶心。"
+    },
+    {
+      "id": 109,
+      "en": "Okay, this food is inedible.",
+      "cn": "好吧，这道食物是不可食用的。"
+    },
+    {
+      "id": 110,
+      "en": "And then he started to complain about the other dish, and he said that it's rubbery.",
+      "cn": "然后他开始抱怨另一道菜，说它是橡胶状的。"
+    },
+    {
+      "id": 111,
+      "en": "Rubbery.",
+      "cn": "橡胶状的。"
+    },
+    {
+      "id": 112,
+      "en": "The foie gras was rubbery.",
+      "cn": "鹅肝是橡胶状的。"
+    },
+    {
+      "id": 113,
+      "en": "All right, so I think we noticed the word rubber.",
+      "cn": "好吧，所以我想我们注意到了这个词橡胶。"
+    },
+    {
+      "id": 114,
+      "en": "Mm-hmm.",
+      "cn": "嗯嗯。"
+    },
+    {
+      "id": 115,
+      "en": "So obviously, if a food is rubbery, it's too chewy.",
+      "cn": "所以显然，如果食物是橡胶状的，那就太嚼了。"
+    },
+    {
+      "id": 116,
+      "en": "It's like chewing on the bottom of your shoe, right?",
+      "cn": "就像在嚼你的鞋底，对吧？"
+    },
+    {
+      "id": 117,
+      "en": "Okay, so it's too hard to chew or to swallow.",
+      "cn": "好吧，所以它太硬了，无法咀嚼或吞咽。"
+    },
+    {
+      "id": 118,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 119,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 120,
+      "en": "Apparently, the food was rubbery because it's completely overcooked.",
+      "cn": "显然，这道食物是橡胶状的，因为它完全煮过头了。"
+    },
+    {
+      "id": 121,
+      "en": "Overcooked.",
+      "cn": "煮过头了。"
+    },
+    {
+      "id": 122,
+      "en": "All right, we have overcooked.",
+      "cn": "好吧，我们有煮过头了。"
+    },
+    {
+      "id": 123,
+      "en": "So when something is overcooked, I mean, it's easy to understand that it's cooked too much.",
+      "cn": "所以当某样东西煮过头时，我的意思是，很容易理解它煮得太多了。"
+    },
+    {
+      "id": 124,
+      "en": "But it doesn't mean that it's burnt, right?",
+      "cn": "但这并不意味着它烧焦了，对吧？"
+    },
+    {
+      "id": 125,
+      "en": "No, so maybe you've ordered your steak to be rare, but it comes to you well done.",
+      "cn": "不，所以也许你点的牛排是五分熟，但它给你的是全熟。"
+    },
+    {
+      "id": 126,
+      "en": "So it's not burnt, but it's cooked too much.",
+      "cn": "所以它不是烧焦的，但它煮得太多了。"
+    },
+    {
+      "id": 127,
+      "en": "So also I guess we can say like chicken.",
+      "cn": "所以我想我们也可以说像鸡肉。"
+    },
+    {
+      "id": 128,
+      "en": "Sometimes if you overcook chicken, it comes out too dry.",
+      "cn": "有时如果你把鸡肉煮过头，它会变得太干。"
+    },
+    {
+      "id": 129,
+      "en": "All right, so to overcook something.",
+      "cn": "好吧，所以煮过头的东西。"
+    },
+    {
+      "id": 130,
+      "en": "And finally, he was complaining about the size of the dish, and he said this is a sliver of duck liver.",
+      "cn": "最后，他抱怨菜肴的大小，说这是一片鸭肝。"
+    },
+    {
+      "id": 131,
+      "en": "Okay, a sliver.",
+      "cn": "好吧，一片。"
+    },
+    {
+      "id": 132,
+      "en": "A sliver.",
+      "cn": "一片。"
+    },
+    {
+      "id": 133,
+      "en": "All right, now this word sliver is like a slice, right?",
+      "cn": "好吧，现在这个词片就像一片，对吧？"
+    },
+    {
+      "id": 134,
+      "en": "A very small, tiny little slice.",
+      "cn": "一小片，非常小的片。"
+    },
+    {
+      "id": 135,
+      "en": "Okay, so we can say, okay, I just want a sliver of bacon for breakfast.",
+      "cn": "好吧，所以我们可以说，好吧，我只想要一片培根作为早餐。"
+    },
+    {
+      "id": 136,
+      "en": "All right, why don't we hear a few more examples of how we can use sliver.",
+      "cn": "好吧，为什么我们不听几个关于如何使用片的例子。"
+    },
+    {
+      "id": 137,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 138,
+      "en": "No, John's on a diet.",
+      "cn": "不，约翰在节食。"
+    },
+    {
+      "id": 139,
+      "en": "He'll just have a sliver of cake and no ice cream.",
+      "cn": "他只会吃一片蛋糕，不吃冰淇淋。"
+    },
+    {
+      "id": 140,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 141,
+      "en": "I'm really full, but it looks so delicious.",
+      "cn": "我真的很饱，但它看起来太美味了。"
+    },
+    {
+      "id": 142,
+      "en": "Can you just cut me a sliver?",
+      "cn": "你能给我切一片吗？"
+    },
+    {
+      "id": 143,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 144,
+      "en": "You call this sliver of beef on my plate a meal?",
+      "cn": "你把我盘子上的这片牛肉称为一顿饭？"
+    },
+    {
+      "id": 145,
+      "en": "There's almost nothing here.",
+      "cn": "这里几乎没有东西。"
+    },
+    {
+      "id": 146,
+      "en": "And those are all the words we had for language takeaway.",
+      "cn": "这些就是我们为语言学习准备的所有词汇。"
+    },
+    {
+      "id": 147,
+      "en": "Now you have... So we've given you different adjectives of describing food that is not well prepared.",
+      "cn": "现在你有了……所以我们给你提供了不同的形容词来描述食物不佳的情况。"
+    },
+    {
+      "id": 148,
+      "en": "So now let's move on to some other phrases that the customer used to complain.",
+      "cn": "现在让我们继续一些顾客用来抱怨的其他短语。"
+    },
+    {
+      "id": 149,
+      "en": "Influency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 150,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 151,
+      "en": "Okay, so before we get to the customer complaining language, I want to look at a phrase that the waiter used to apologize.",
+      "cn": "好吧，在我们进入顾客抱怨的语言之前，我想看看服务员用来道歉的一个短语。"
+    },
+    {
+      "id": 152,
+      "en": "He said, I do apologize.",
+      "cn": "他说，我深表歉意。"
+    },
+    {
+      "id": 153,
+      "en": "I do apologize.",
+      "cn": "我深表歉意。"
+    },
+    {
+      "id": 154,
+      "en": "I do apologize.",
+      "cn": "我深表歉意。"
+    },
+    {
+      "id": 155,
+      "en": "Now, why is this phrase so interesting?",
+      "cn": "现在，这个短语为什么这么有趣？"
+    },
+    {
+      "id": 156,
+      "en": "Well, I mean, it's pretty easy to understand the meaning, but I want to look at why he added this verb do.",
+      "cn": "嗯，我的意思是，理解其含义很简单，但我想看看他为什么加上这个动词do。"
+    },
+    {
+      "id": 157,
+      "en": "Well, he added the verb do it to this phrase to make it seem a little bit stronger, to give a little more power to his apology.",
+      "cn": "嗯，他在这个短语中添加动词do是为了让它看起来更强烈，给他的道歉增添一点力量。"
+    },
+    {
+      "id": 158,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 159,
+      "en": "So if you have an affirmative phrase like I apologize, it's good.",
+      "cn": "所以如果你有一个肯定的短语，比如我道歉，那很好。"
+    },
+    {
+      "id": 160,
+      "en": "But if you want to give it a little bit more emphasis, you can say I do apologize.",
+      "cn": "但如果你想给它更多的强调，你可以说我深表歉意。"
+    },
+    {
+      "id": 161,
+      "en": "Why don't we give an example?",
+      "cn": "为什么我们不举个例子呢？"
+    },
+    {
+      "id": 162,
+      "en": "So I might say this, Marco, I didn't know we had a party tonight.",
+      "cn": "所以我可能会这样说，马尔科，我不知道我们今晚有派对。"
+    },
+    {
+      "id": 163,
+      "en": "And I might say, what?",
+      "cn": "我可能会说，什么？"
+    },
+    {
+      "id": 164,
+      "en": "I did tell you about it last week.",
+      "cn": "我上周告诉过你。"
+    },
+    {
+      "id": 165,
+      "en": "Right, so you're just giving a little bit more power to the statement that you told me.",
+      "cn": "对，所以你只是给了我你告诉我的陈述更多的力量。"
+    },
+    {
+      "id": 166,
+      "en": "So this do, did, does, becomes an auxiliary to make it more powerful, to give it more emphasis.",
+      "cn": "所以这个do，did，does，成为了一个助动词，使其更强大，给它更多的强调。"
+    },
+    {
+      "id": 167,
+      "en": "Yeah, exactly.",
+      "cn": "是的，正是如此。"
+    },
+    {
+      "id": 168,
+      "en": "So a neat little phrase, something you can use if you want to make your apologies sound maybe a little bit stronger.",
+      "cn": "所以这是一个很好的短语，如果你想让你的道歉听起来更强烈。"
+    },
+    {
+      "id": 169,
+      "en": "All right, now moving on to the next phrase.",
+      "cn": "好吧，现在继续下一个短语。"
+    },
+    {
+      "id": 170,
+      "en": "He was complaining about the food and it was terrible and he said, I'm shelling out my hard-earned bucks.",
+      "cn": "他在抱怨食物，觉得很糟糕，他说，我花了我辛苦挣来的钱。"
+    },
+    {
+      "id": 171,
+      "en": "Okay, let's break this one down into two sections.",
+      "cn": "好吧，让我们把这个分成两个部分。"
+    },
+    {
+      "id": 172,
+      "en": "We'll start with shelling out.",
+      "cn": "我们先从花钱开始。"
+    },
+    {
+      "id": 173,
+      "en": "All right, so to shell out.",
+      "cn": "好吧，所以花钱。"
+    },
+    {
+      "id": 174,
+      "en": "So when you shell out, you pay for something.",
+      "cn": "所以当你花钱时，你为某样东西付钱。"
+    },
+    {
+      "id": 175,
+      "en": "All right, but this gives you the sensation that you are, that you don't really want to pay.",
+      "cn": "好吧，但这给你一种感觉，你并不真的想付钱。"
+    },
+    {
+      "id": 176,
+      "en": "You're a bit unhappy about it.",
+      "cn": "你对此有点不满。"
+    },
+    {
+      "id": 177,
+      "en": "Right, so you want to shell out your money.",
+      "cn": "对，所以你想花掉你的钱。"
+    },
+    {
+      "id": 178,
+      "en": "Why don't we listen to some examples to show us how we can use this phrase to shell out.",
+      "cn": "为什么我们不听一些例子，看看我们如何使用这个短语花钱。"
+    },
+    {
+      "id": 179,
+      "en": "Great, it's my girlfriend's birthday this month.",
+      "cn": "太好了，这是我女朋友这个月的生日。"
+    },
+    {
+      "id": 180,
+      "en": "So I'm going to have to shell out for a present.",
+      "cn": "所以我得为礼物花钱。"
+    },
+    {
+      "id": 181,
+      "en": "I really want those shoes, but I can't really afford to shell out $400.",
+      "cn": "我真的想要那双鞋，但我真的负担不起花400美元。"
+    },
+    {
+      "id": 182,
+      "en": "I can't believe it.",
+      "cn": "我简直不敢相信。"
+    },
+    {
+      "id": 183,
+      "en": "Ella shelled out the $800 for the tickets.",
+      "cn": "艾拉花了800美元买票。"
+    },
+    {
+      "id": 184,
+      "en": "I thought I would have to pay.",
+      "cn": "我以为我会付钱。"
+    },
+    {
+      "id": 185,
+      "en": "All right, so now that we understand shell out, let's move on to the second part of that sentence.",
+      "cn": "好吧，所以现在我们理解了花钱，让我们继续这句话的第二部分。"
+    },
+    {
+      "id": 186,
+      "en": "My hard-earned bucks.",
+      "cn": "我辛苦挣来的钱。"
+    },
+    {
+      "id": 187,
+      "en": "Hard -earned bucks.",
+      "cn": "辛苦挣来的钱。"
+    },
+    {
+      "id": 188,
+      "en": "My hard-earned bucks.",
+      "cn": "我辛苦挣来的钱。"
+    },
+    {
+      "id": 189,
+      "en": "Okay, so bucks are dollars, right?",
+      "cn": "好吧，所以钱是美元，对吧？"
+    },
+    {
+      "id": 190,
+      "en": "Dollars, only dollars, right?",
+      "cn": "美元，只有美元，对吧？"
+    },
+    {
+      "id": 191,
+      "en": "Yeah, not pounds, not Euros.",
+      "cn": "是的，不是英镑，不是欧元。"
+    },
+    {
+      "id": 192,
+      "en": "But his hard-earned bucks is money he had to work really hard for.",
+      "cn": "但他辛苦挣来的钱是他必须非常努力工作才能得到的钱。"
+    },
+    {
+      "id": 193,
+      "en": "So I can also say my hard-earned money, right?",
+      "cn": "所以我也可以说我辛苦挣来的钱，对吧？"
+    },
+    {
+      "id": 194,
+      "en": "Or my hard-earned cash.",
+      "cn": "或者我辛苦挣来的现金。"
+    },
+    {
+      "id": 195,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 196,
+      "en": "So you worked hard to get it.",
+      "cn": "所以你努力工作来获得它。"
+    },
+    {
+      "id": 197,
+      "en": "All right, so three great phrases that can be used when you're complaining in a restaurant.",
+      "cn": "好吧，所以三个很好的短语可以在餐厅抱怨时使用。"
+    },
+    {
+      "id": 198,
+      "en": "And why don't we hear them one last time in context by listening to the dialogue.",
+      "cn": "为什么我们不再听一遍这些短语在对话中的使用。"
+    },
+    {
+      "id": 199,
+      "en": "Excuse me, waiter.",
+      "cn": "劳驾，服务员。"
+    },
+    {
+      "id": 200,
+      "en": "Yes sir, what can I do for you?",
+      "cn": "是的，先生，我能为您做些什么？"
+    },
+    {
+      "id": 201,
+      "en": "I've been sitting here for the past 20 minutes and no one has offered me a glass of water, brought any bread to the table, and our appetizers haven't been served yet.",
+      "cn": "我在这里坐了20分钟，没有人给我倒水，也没有人把面包送到桌上，我们的开胃菜还没上。"
+    },
+    {
+      "id": 202,
+      "en": "You know, in this kind of establishment, I'd expect much better service.",
+      "cn": "你知道，在这种地方，我期待更好的服务。"
+    },
+    {
+      "id": 203,
+      "en": "I'm sorry, sir.",
+      "cn": "对不起，先生。"
+    },
+    {
+      "id": 204,
+      "en": "I'll check on your order right away.",
+      "cn": "我马上去查您的订单。"
+    },
+    {
+      "id": 205,
+      "en": "Relax, honey.",
+      "cn": "放松，亲爱的。"
+    },
+    {
+      "id": 206,
+      "en": "The place is busy tonight, and I've heard the food is amazing.",
+      "cn": "今晚地方很忙，我听说食物很棒。"
+    },
+    {
+      "id": 207,
+      "en": "Anyway... Here you are, sir.",
+      "cn": "不管怎样……给您，先生。"
+    },
+    {
+      "id": 208,
+      "en": "The foie gras for the lady and a mushroom soup for you.",
+      "cn": "给女士的鹅肝和给您的蘑菇汤。"
+    },
+    {
+      "id": 209,
+      "en": "Waiter!",
+      "cn": "服务员！"
+    },
+    {
+      "id": 210,
+      "en": "I heard a cream of mushroom soup with asparagus.",
+      "cn": "我听说有芦笋奶油蘑菇汤。"
+    },
+    {
+      "id": 211,
+      "en": "This soup is obviously too runny and it's over seasoned.",
+      "cn": "这汤显然太稀了，而且调味过重。"
+    },
+    {
+      "id": 212,
+      "en": "It's completely inedible.",
+      "cn": "完全无法食用。"
+    },
+    {
+      "id": 213,
+      "en": "Okay, I do apologize for that.",
+      "cn": "好吧，我对此表示歉意。"
+    },
+    {
+      "id": 214,
+      "en": "Can I bring you another soup, or would you like to order something else?",
+      "cn": "我可以给您换一碗汤，还是您想点别的？"
+    },
+    {
+      "id": 215,
+      "en": "Take this foie gras back as well.",
+      "cn": "也把这鹅肝拿回去。"
+    },
+    {
+      "id": 216,
+      "en": "It's rubbery and completely overcooked.",
+      "cn": "它很有嚼劲，完全煮过头了。"
+    },
+    {
+      "id": 217,
+      "en": "And look at the portion size!",
+      "cn": "你看看份量！"
+    },
+    {
+      "id": 218,
+      "en": "How can you charge $25 for a sliver of duck liver?",
+      "cn": "怎么能为一小块鸭肝收25美元？"
+    },
+    {
+      "id": 219,
+      "en": "Right away, sir.",
+      "cn": "马上就来，先生。"
+    },
+    {
+      "id": 220,
+      "en": "Honey, come on.",
+      "cn": "亲爱的，别这样。"
+    },
+    {
+      "id": 221,
+      "en": "The foie gras was fine.",
+      "cn": "鹅肝很好。"
+    },
+    {
+      "id": 222,
+      "en": "Why are you making such a big deal?",
+      "cn": "你为什么要大惊小怪？"
+    },
+    {
+      "id": 223,
+      "en": "Are you trying to get our meal comped again?",
+      "cn": "你是在试图让我们的餐费免单吗？"
+    },
+    {
+      "id": 224,
+      "en": "What do you mean?",
+      "cn": "你什么意思？"
+    },
+    {
+      "id": 225,
+      "en": "We are paying for this, and I'm shelling out my hard-earned bucks!",
+      "cn": "我们是要付钱的，我花的是我辛苦挣来的钱！"
+    },
+    {
+      "id": 226,
+      "en": "I expect value for money!",
+      "cn": "我期待物有所值！"
+    },
+    {
+      "id": 227,
+      "en": "Here you are, sir.",
+      "cn": "给您，先生。"
+    },
+    {
+      "id": 228,
+      "en": "I hope it is alright now.",
+      "cn": "希望现在可以了。"
+    },
+    {
+      "id": 229,
+      "en": "The chef has prepared it especially for you.",
+      "cn": "厨师特意为您准备的。"
+    },
+    {
+      "id": 230,
+      "en": "Yes, fine.",
+      "cn": "是的，好的。"
+    },
+    {
+      "id": 231,
+      "en": "Honey, are you alright?",
+      "cn": "亲爱的，你还好吗？"
+    },
+    {
+      "id": 232,
+      "en": "So complaining at a restaurant and actually sending food back is not uncommon in the US.",
+      "cn": "在美国，抱怨餐厅并且退菜并不罕见。"
+    },
+    {
+      "id": 233,
+      "en": "Yeah, of course.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 234,
+      "en": "If the food's bad, of course you're going to send it back.",
+      "cn": "如果食物不好，当然会退回去。"
+    },
+    {
+      "id": 235,
+      "en": "But maybe in other cultures, I think people would be a little bit more reluctant to do something like this.",
+      "cn": "但也许在其他文化中，人们会对这样做有些犹豫。"
+    },
+    {
+      "id": 236,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 237,
+      "en": "But hey, you know what's an interesting thing about the way Americans eat in restaurants is sometimes at the end of the meal, if they haven't finished everything, they might ask for a doggy bag.",
+      "cn": "但是嘿，你知道美国人在餐厅用餐的一个有趣之处是，有时在用餐结束时，如果他们没有吃完所有的食物，他们可能会要求一个打包袋。"
+    },
+    {
+      "id": 238,
+      "en": "A doggy bag, yeah.",
+      "cn": "打包袋，是的。"
+    },
+    {
+      "id": 239,
+      "en": "So what is that, a doggy bag?",
+      "cn": "那是什么，打包袋？"
+    },
+    {
+      "id": 240,
+      "en": "Well, usually if you order a big meal or half your steak is left over on your plate, you would ask for a doggy bag and they would bring you a little box or a bag and you would take it to supposedly give it to your dog.",
+      "cn": "通常如果你点了一份大餐，或者盘子上剩下了一半的牛排，你会要求一个打包袋，他们会给你一个小盒子或袋子，你可以带回去， supposedly 给你的狗。"
+    },
+    {
+      "id": 241,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 242,
+      "en": "So it's sort of like you tell the waiter, oh, you know, the steak was so good, I couldn't finish it.",
+      "cn": "所以你就像告诉服务员，哦，你知道，牛排太好吃了，我吃不完。"
+    },
+    {
+      "id": 243,
+      "en": "Can I take some home to my dog?",
+      "cn": "我可以带一些回家给我的狗吗？"
+    },
+    {
+      "id": 244,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 245,
+      "en": "So you would just ask, where can I have a doggy bag?",
+      "cn": "所以你只需问，哪里可以要一个打包袋？"
+    },
+    {
+      "id": 246,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 247,
+      "en": "But it's sort of like code for I'm going to eat this tomorrow for lunch.",
+      "cn": "但这有点像暗示我明天会把它当午餐吃。"
+    },
+    {
+      "id": 248,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 249,
+      "en": "Because people wouldn't really give it to their dogs.",
+      "cn": "因为人们其实不会真的给他们的狗。"
+    },
+    {
+      "id": 250,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 251,
+      "en": "You know, that steak wrapped up in a fancy sort of foil salon is going to be pretty delicious the next day.",
+      "cn": "你知道，那块用精美铝箔包裹的牛排，第二天吃会非常美味。"
+    },
+    {
+      "id": 252,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 253,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 254,
+      "en": "It's actually very common in the US, but in other countries, people will leave entire plates of food on the table.",
+      "cn": "在美国这其实很常见，但在其他国家，人们会把整盘食物留在桌上。"
+    },
+    {
+      "id": 255,
+      "en": "Totally impolite to ask the waiter to pack up the food for you.",
+      "cn": "要求服务员为你打包食物是完全不礼貌的。"
+    },
+    {
+      "id": 256,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 257,
+      "en": "So a little bit of cultural differences, but we want to know what you think and how things are done maybe in your country with complaining or sending food back or even this whole doggy bag situation.",
+      "cn": "所以有一点文化差异，但我们想知道您怎么看，以及在您所在的国家，抱怨或退菜，甚至这个打包袋的情况是如何处理的。"
+    },
+    {
+      "id": 258,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 259,
+      "en": "Why don't you visit our website, EnglishPod.com, and tell us about it.",
+      "cn": "为什么不访问我们的网站，EnglishPod.com，告诉我们您的看法。"
+    },
+    {
+      "id": 260,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 261,
+      "en": "We'll be there to answer any questions or comments, but we got to go now.",
+      "cn": "我们会在那儿回答任何问题或评论，但我们现在得走了。"
+    },
+    {
+      "id": 262,
+      "en": "So until then... Goodbye!",
+      "cn": "所以在那之前……再见！"
+    }
+  ]
+}

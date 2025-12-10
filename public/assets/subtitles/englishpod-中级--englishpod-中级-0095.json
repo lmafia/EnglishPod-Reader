@@ -1,0 +1,1444 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0095",
+  "title": "EnglishPod 中级 0095",
+  "totalSegments": 287,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we have a very special lesson because we're going to be focusing a little bit more on grammar.",
+      "cn": "今天我们有一节非常特别的课，因为我们将更多地关注语法。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to look today at the difference between past simple and past progressive, or sometimes called past continuous.",
+      "cn": "今天我们要看过去简单时和过去进行时之间的区别，有时也称为过去持续时。"
+    },
+    {
+      "id": 8,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 9,
+      "en": "So we are going to take a look at these two structures, which are a little bit confusing at times, and we're going to be practicing today.",
+      "cn": "所以我们将看看这两种结构，有时会有点混淆，我们今天会进行练习。"
+    },
+    {
+      "id": 10,
+      "en": "But before we get started, why don't we take a look at vocabulary preview.",
+      "cn": "但在开始之前，我们先来看一下词汇预览。"
+    },
+    {
+      "id": 11,
+      "en": "Well, this dialogue is all about telling a story in the past.",
+      "cn": "好吧，这段对话是关于讲述过去的故事。"
+    },
+    {
+      "id": 12,
+      "en": "And we're going to hear two words in the dialogue that we need to understand the meaning of.",
+      "cn": "我们将在对话中听到两个我们需要理解的单词。"
+    },
+    {
+      "id": 13,
+      "en": "So Okay, so if I tell you, I haven't seen you in ages.",
+      "cn": "好的，如果我告诉你，我好久没见到你了。"
+    },
+    {
+      "id": 14,
+      "en": "Basically, you haven't seen me in a really long time.",
+      "cn": "基本上，你很久没见到我了。"
+    },
+    {
+      "id": 15,
+      "en": "Okay, so it's a way of exaggerating a little bit.",
+      "cn": "好吧，这是一种夸张的说法。"
+    },
+    {
+      "id": 16,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 17,
+      "en": "And this word, ages, we can use in many different ways.",
+      "cn": "这个词，\"ages\"，我们可以用很多不同的方式。"
+    },
+    {
+      "id": 18,
+      "en": "Like, I've been studying English for ages.",
+      "cn": "比如，我学习英语已经很久了。"
+    },
+    {
+      "id": 19,
+      "en": "Or for example, I can say, I haven't been to the dentist in ages.",
+      "cn": "或者我可以说，我好久没去看牙医了。"
+    },
+    {
+      "id": 20,
+      "en": "Oh, well, guess you better go, huh?",
+      "cn": "哦，好吧，看来你最好去看一下，嗯？"
+    },
+    {
+      "id": 21,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 22,
+      "en": "So ages a very long time.",
+      "cn": "所以\"ages\"是指很长一段时间。"
+    },
+    {
+      "id": 23,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 24,
+      "en": "Now another phrase, to run into somebody.",
+      "cn": "现在另一个短语，\"碰见某人\"。"
+    },
+    {
+      "id": 25,
+      "en": "So to run into somebody, I ran into Matt.",
+      "cn": "所以\"碰见某人\"，我碰见了Matt。"
+    },
+    {
+      "id": 26,
+      "en": "Okay, so if you ran into Matt the other day, you met him unexpectedly.",
+      "cn": "好吧，如果你前几天碰见了Matt，那就是你意外地遇见了他。"
+    },
+    {
+      "id": 27,
+      "en": "Okay, so you didn't plan to meet, you didn't have a date, just casually on the street met.",
+      "cn": "好吧，所以你没有计划见面，没有约会，只是在街上偶然遇见。"
+    },
+    {
+      "id": 28,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 29,
+      "en": "Okay, so I ran into your friend the other day.",
+      "cn": "好吧，我前几天碰见了你的朋友。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, so two good words.",
+      "cn": "好吧，这两个词很好。"
+    },
+    {
+      "id": 31,
+      "en": "We're gonna hear both of these in the dialogue.",
+      "cn": "我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 32,
+      "en": "So why don't we get started with dialogue first time?",
+      "cn": "那么我们为什么不先开始对话呢？"
+    },
+    {
+      "id": 33,
+      "en": "Mike, what's going on, man?",
+      "cn": "Mike，怎么了，伙计？"
+    },
+    {
+      "id": 34,
+      "en": "Long time no see.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 35,
+      "en": "Hey, Pat.",
+      "cn": "嘿，Pat。"
+    },
+    {
+      "id": 36,
+      "en": "Yeah, I haven't seen you in ages.",
+      "cn": "是的，我好久没见到你了。"
+    },
+    {
+      "id": 37,
+      "en": "How's it going?",
+      "cn": "你怎么样？"
+    },
+    {
+      "id": 38,
+      "en": "Things are going great.",
+      "cn": "一切都很好。"
+    },
+    {
+      "id": 39,
+      "en": "It's funny running into you like this.",
+      "cn": "这样碰见你真有趣。"
+    },
+    {
+      "id": 40,
+      "en": "Small world, huh?",
+      "cn": "小世界，嗯？"
+    },
+    {
+      "id": 41,
+      "en": "You know, just last week I ran into Matt as well.",
+      "cn": "你知道吗，就在上周我也碰见了Matt。"
+    },
+    {
+      "id": 42,
+      "en": "Yeah, how's he doing?",
+      "cn": "是吗，他怎么样？"
+    },
+    {
+      "id": 43,
+      "en": "He's doing well.",
+      "cn": "他很好。"
+    },
+    {
+      "id": 44,
+      "en": "We went out for a couple of beers and the funniest thing happened.",
+      "cn": "我们出去喝了几杯，发生了非常有趣的事情。"
+    },
+    {
+      "id": 45,
+      "en": "Oh, yeah?",
+      "cn": "哦，是吗？"
+    },
+    {
+      "id": 46,
+      "en": "Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden, Matt saw a mouse run under the chair and he completely lost it.",
+      "cn": "我们在聊天，聊着我们在做什么，谈论工作和家庭，突然，Matt看到一只老鼠跑到椅子下面，他完全失控了。"
+    },
+    {
+      "id": 47,
+      "en": "He started freaking out and screaming.",
+      "cn": "他开始惊慌失措并尖叫。"
+    },
+    {
+      "id": 48,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 49,
+      "en": "Yeah, and the funniest thing was, then he jumped onto his chair and started shrieking like a girl.",
+      "cn": "是的，最有趣的是，他跳到椅子上，像个女孩一样尖叫。"
+    },
+    {
+      "id": 50,
+      "en": "He should have been there.",
+      "cn": "他应该在那儿。"
+    },
+    {
+      "id": 51,
+      "en": "Everyone was staring and laughing.",
+      "cn": "每个人都在盯着他笑。"
+    },
+    {
+      "id": 52,
+      "en": "It was hilarious.",
+      "cn": "太搞笑了。"
+    },
+    {
+      "id": 53,
+      "en": "All right, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 54,
+      "en": "So a funny story.",
+      "cn": "所以这是一个有趣的故事。"
+    },
+    {
+      "id": 55,
+      "en": "And as we saw, a lot of stuff in the past, right?",
+      "cn": "正如我们所看到的，很多事情发生在过去，对吧？"
+    },
+    {
+      "id": 56,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 57,
+      "en": "And we're going to look at that in a moment.",
+      "cn": "我们马上就要看这个。"
+    },
+    {
+      "id": 58,
+      "en": "But first, we've got lots of exciting language to describe when somebody gets really emotional.",
+      "cn": "但首先，我们有很多激动人心的语言来描述当某人变得非常情绪化时。"
+    },
+    {
+      "id": 59,
+      "en": "OK, so why don't we start now with language takeaway?",
+      "cn": "好吧，那我们现在开始语言要点吧？"
+    },
+    {
+      "id": 60,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 61,
+      "en": "We have four words here now in the dialog, the guy in the story lost it.",
+      "cn": "我们在对话中有四个单词，故事中的那个家伙失控了。"
+    },
+    {
+      "id": 62,
+      "en": "So he saw a mouse and he completely lost it to lose it.",
+      "cn": "所以他看到一只老鼠，他完全失控了，\"失控\"。"
+    },
+    {
+      "id": 63,
+      "en": "OK, so when you lose some, you lose it.",
+      "cn": "好吧，当你失去控制时，你失去的是什么？"
+    },
+    {
+      "id": 64,
+      "en": "What are you losing?",
+      "cn": "你失去的是对自己和情绪的控制。"
+    },
+    {
+      "id": 65,
+      "en": "You're losing control of yourself and your emotion.",
+      "cn": "好吧，所以你可能会失去脾气？"
+    },
+    {
+      "id": 66,
+      "en": "OK, so you lose your temper, maybe?",
+      "cn": "是的。"
+    },
+    {
+      "id": 67,
+      "en": "Yep.",
+      "cn": "所以当我失控时，我只是生气，愤怒，或者沮丧，甚至悲伤吗？"
+    },
+    {
+      "id": 68,
+      "en": "So when I lose it, do I just get angry, angry or upset or even sad?",
+      "cn": "但通常是负面情绪。"
+    },
+    {
+      "id": 70,
+      "en": "OK, so it's not a good thing to lose it.",
+      "cn": "好吧，所以失控不是好事。"
+    },
+    {
+      "id": 71,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 72,
+      "en": "So, for example, when I showed my boss the sales figures, he completely lost it.",
+      "cn": "所以，例如，当我向我的老板展示销售数据时，他完全失控了。"
+    },
+    {
+      "id": 73,
+      "en": "OK, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 74,
+      "en": "So that's what lose it means.",
+      "cn": "所以这就是\"失控\"的意思。"
+    },
+    {
+      "id": 75,
+      "en": "And now our second word is very similar, but has a little bit of a difference.",
+      "cn": "现在我们的第二个词非常相似，但有一点不同。"
+    },
+    {
+      "id": 76,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 77,
+      "en": "He started freaking out.",
+      "cn": "他开始惊慌失措。"
+    },
+    {
+      "id": 78,
+      "en": "OK, so to freak out, to freak out.",
+      "cn": "好吧，\"惊慌失措\"，\"惊慌失措\"。"
+    },
+    {
+      "id": 79,
+      "en": "Now, freak out is very similar to lose it, right?",
+      "cn": "现在，\"惊慌失措\"和\"失控\"非常相似，对吧？"
+    },
+    {
+      "id": 80,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 81,
+      "en": "But why don't we hear an example now of somebody freaking out?",
+      "cn": "但我们为什么不听听一个人惊慌失措的例子呢？"
+    },
+    {
+      "id": 82,
+      "en": "It's just no, no.",
+      "cn": "这就是不，不。"
+    },
+    {
+      "id": 83,
+      "en": "OK, forget it.",
+      "cn": "好吧，算了。"
+    },
+    {
+      "id": 84,
+      "en": "Forget it.",
+      "cn": "算了。"
+    },
+    {
+      "id": 85,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 86,
+      "en": "Just forget it.",
+      "cn": "就是算了。"
+    },
+    {
+      "id": 87,
+      "en": "I don't even want to just I just want to forget it.",
+      "cn": "我甚至不想，我只想忘记它。"
+    },
+    {
+      "id": 88,
+      "en": "I just want to forget it.",
+      "cn": "我只想忘记它。"
+    },
+    {
+      "id": 89,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 90,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 91,
+      "en": "OK, calm down.",
+      "cn": "好吧，冷静下来。"
+    },
+    {
+      "id": 92,
+      "en": "I got to calm down.",
+      "cn": "我得冷静下来。"
+    },
+    {
+      "id": 93,
+      "en": "I'm so happy.",
+      "cn": "我太高兴了。"
+    },
+    {
+      "id": 94,
+      "en": "I can't I can't even express it.",
+      "cn": "我甚至无法表达。"
+    },
+    {
+      "id": 95,
+      "en": "I'm like, I haven't.",
+      "cn": "我就像，我没有。"
+    },
+    {
+      "id": 96,
+      "en": "Have I even finished one sentence?",
+      "cn": "我是否甚至完成了一句话？"
+    },
+    {
+      "id": 97,
+      "en": "I'm like, give me a high five, baby.",
+      "cn": "我就像，给我一个击掌，宝贝。"
+    },
+    {
+      "id": 98,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 99,
+      "en": "So we heard this person freaking out.",
+      "cn": "所以我们听到了这个人惊慌失措。"
+    },
+    {
+      "id": 100,
+      "en": "And basically, it could be losing control or losing your temper, but also in a positive way.",
+      "cn": "基本上，这可能是失去控制或失去脾气，但也可以是积极的方式。"
+    },
+    {
+      "id": 101,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 102,
+      "en": "So maybe you're really excited about something that's going to happen.",
+      "cn": "所以也许你对即将发生的事情感到非常兴奋。"
+    },
+    {
+      "id": 103,
+      "en": "So you're freaking out.",
+      "cn": "所以你在崩溃。"
+    },
+    {
+      "id": 104,
+      "en": "OK, maybe you're very nervous or you're very excited.",
+      "cn": "好吧，也许你非常紧张或非常兴奋。"
+    },
+    {
+      "id": 105,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 106,
+      "en": "And now moving on to our third word.",
+      "cn": "现在我们进入第三个词。"
+    },
+    {
+      "id": 107,
+      "en": "Stare.",
+      "cn": "盯着。"
+    },
+    {
+      "id": 108,
+      "en": "To stare.",
+      "cn": "盯着。"
+    },
+    {
+      "id": 109,
+      "en": "People started to stare.",
+      "cn": "人们开始盯着。"
+    },
+    {
+      "id": 110,
+      "en": "Staring.",
+      "cn": "盯着。"
+    },
+    {
+      "id": 111,
+      "en": "OK, now, when you stare at someone or at something, you look at and focus at something for a really long time.",
+      "cn": "好吧，现在，当你盯着某人或某物时，你会长时间看着并专注于某事。"
+    },
+    {
+      "id": 112,
+      "en": "OK, so you are looking at it.",
+      "cn": "好吧，所以你在看它。"
+    },
+    {
+      "id": 113,
+      "en": "Yeah, I'm focusing on it.",
+      "cn": "是的，我在专注于它。"
+    },
+    {
+      "id": 114,
+      "en": "Yeah, longer than usual.",
+      "cn": "是的，比平常更长。"
+    },
+    {
+      "id": 115,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 116,
+      "en": "Maybe when we were small, our parents taught us that it's not nice to stare at other people.",
+      "cn": "也许当我们小的时候，父母教我们盯着别人是不好的。"
+    },
+    {
+      "id": 117,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 118,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 119,
+      "en": "So to stare.",
+      "cn": "所以盯着。"
+    },
+    {
+      "id": 120,
+      "en": "And our final word, when Matt saw the mouse, he started shrieking.",
+      "cn": "我们的最后一个词，当马特看到老鼠时，他开始尖叫。"
+    },
+    {
+      "id": 121,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 122,
+      "en": "So to shriek.",
+      "cn": "所以尖叫。"
+    },
+    {
+      "id": 123,
+      "en": "Shriek.",
+      "cn": "尖叫。"
+    },
+    {
+      "id": 124,
+      "en": "Shriek.",
+      "cn": "尖叫。"
+    },
+    {
+      "id": 125,
+      "en": "Very similar to that movie Shrek.",
+      "cn": "非常类似于那部电影《怪物史瑞克》。"
+    },
+    {
+      "id": 126,
+      "en": "Oh, yeah, it sounds quite similar.",
+      "cn": "哦，是的，听起来很相似。"
+    },
+    {
+      "id": 127,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 128,
+      "en": "But it's different.",
+      "cn": "但它是不同的。"
+    },
+    {
+      "id": 129,
+      "en": "What does shriek mean?",
+      "cn": "尖叫是什么意思？"
+    },
+    {
+      "id": 130,
+      "en": "Well, why don't we listen to an example?",
+      "cn": "嗯，为什么我们不听一个例子呢？"
+    },
+    {
+      "id": 131,
+      "en": "OK, so I think shrieking is to shout in a very high pitched voice.",
+      "cn": "好吧，我认为尖叫是用非常高的音调喊叫。"
+    },
+    {
+      "id": 132,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 133,
+      "en": "That's to shriek.",
+      "cn": "这就是尖叫。"
+    },
+    {
+      "id": 134,
+      "en": "OK, so we saw four really great words in language take away.",
+      "cn": "好吧，所以我们在语言中看到四个非常好的词。"
+    },
+    {
+      "id": 135,
+      "en": "And why don't we listen now to the dialogue for a second time, a little bit slower, and then we'll come back and look at the differences between simple past and past progressive.",
+      "cn": "现在我们为什么不再听一次对话，稍微慢一点，然后我们再回来看看简单过去时和过去进行时之间的区别。"
+    },
+    {
+      "id": 136,
+      "en": "Mike, what's going on, man?",
+      "cn": "迈克，发生了什么事，伙计？"
+    },
+    {
+      "id": 137,
+      "en": "Long time no see.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 138,
+      "en": "Hey, Pat.",
+      "cn": "嘿，帕特。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah, I haven't seen you in ages.",
+      "cn": "是的，我好久没见你了。"
+    },
+    {
+      "id": 140,
+      "en": "How's it going?",
+      "cn": "你怎么样？"
+    },
+    {
+      "id": 141,
+      "en": "Things are going great.",
+      "cn": "一切都很好。"
+    },
+    {
+      "id": 142,
+      "en": "It's funny running into you like this.",
+      "cn": "这样碰到你真有趣。"
+    },
+    {
+      "id": 143,
+      "en": "Small world, eh?",
+      "cn": "小世界，是吧？"
+    },
+    {
+      "id": 144,
+      "en": "You know, just last week I ran into Matt as well.",
+      "cn": "你知道，上周我也碰到了马特。"
+    },
+    {
+      "id": 145,
+      "en": "Yeah?",
+      "cn": "是吗？"
+    },
+    {
+      "id": 146,
+      "en": "How's he doing?",
+      "cn": "他怎么样？"
+    },
+    {
+      "id": 147,
+      "en": "He's doing well.",
+      "cn": "他很好。"
+    },
+    {
+      "id": 148,
+      "en": "We went out for a couple of beers and the funniest thing happened.",
+      "cn": "我们出去喝了几杯，发生了非常有趣的事情。"
+    },
+    {
+      "id": 149,
+      "en": "Oh, yeah?",
+      "cn": "哦，是吗？"
+    },
+    {
+      "id": 150,
+      "en": "Well, we were talking and catching up on what we've been doing, talking about work and family.",
+      "cn": "嗯，我们在聊天，聊着我们在做什么，谈论工作和家庭。"
+    },
+    {
+      "id": 151,
+      "en": "When all of a sudden, Matt saw a mouse run under his chair and he completely lost it.",
+      "cn": "突然，马特看到一只老鼠跑到他的椅子下面，他完全崩溃了。"
+    },
+    {
+      "id": 152,
+      "en": "He started freaking out and screaming.",
+      "cn": "他开始崩溃和尖叫。"
+    },
+    {
+      "id": 153,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 154,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 155,
+      "en": "And the funniest thing was that he jumped on his chair and started shrieking like a girl.",
+      "cn": "最有趣的是他跳上椅子，像女孩一样尖叫。"
+    },
+    {
+      "id": 156,
+      "en": "You should have been there.",
+      "cn": "你应该在那儿。"
+    },
+    {
+      "id": 157,
+      "en": "Everyone was staring and laughing.",
+      "cn": "每个人都在盯着和笑。"
+    },
+    {
+      "id": 158,
+      "en": "It was hilarious.",
+      "cn": "太搞笑了。"
+    },
+    {
+      "id": 159,
+      "en": "OK,",
+      "cn": "好吧，"
+    },
+    {
+      "id": 160,
+      "en": "so there was a lot of different uses of past tense here in this dialogue, wasn't there?",
+      "cn": "所以在这个对话中有很多不同的过去时用法，是吧？"
+    },
+    {
+      "id": 161,
+      "en": "Yeah, since he was telling a story that happened, he used the past a lot.",
+      "cn": "是的，因为他在讲述一个发生过的故事，他使用了很多过去时。"
+    },
+    {
+      "id": 162,
+      "en": "Well, let's now, as promised, look at past simple and past progressive in Grammar Breakdown.",
+      "cn": "好吧，现在我们如承诺的那样，看看语法分析中的简单过去时和过去进行时。"
+    },
+    {
+      "id": 163,
+      "en": "OK, Marco, before we start our discussion, why don't we hear one example of past simple and one example of past progressive?",
+      "cn": "好吧，马尔科，在我们开始讨论之前，为什么不听一个简单过去时的例子和一个过去进行时的例子呢？"
+    },
+    {
+      "id": 164,
+      "en": "You know, just last week I ran into Matt as well.",
+      "cn": "你知道，上周我也碰到了马特。"
+    },
+    {
+      "id": 165,
+      "en": "Well, we were talking and catching up on what we've been doing.",
+      "cn": "嗯，我们在聊天，聊着我们在做什么。"
+    },
+    {
+      "id": 166,
+      "en": "OK, so we heard that just last week I ran into Matt.",
+      "cn": "好吧，所以我们听到的是上周我碰到了马特。"
+    },
+    {
+      "id": 167,
+      "en": "So we discussed what run into means to meet someone by surprise.",
+      "cn": "所以我们讨论了“碰到”的意思是意外见到某人。"
+    },
+    {
+      "id": 168,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 169,
+      "en": "And now this structure is the simple past, right?",
+      "cn": "现在这个结构是简单过去时，对吧？"
+    },
+    {
+      "id": 170,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 171,
+      "en": "Now, the second example that we heard was we were talking and catching up.",
+      "cn": "现在，我们听到的第二个例子是我们在聊天和赶上进度。"
+    },
+    {
+      "id": 172,
+      "en": "OK, so let's look at the difference in meaning here.",
+      "cn": "好吧，所以让我们看看这里的意义差异。"
+    },
+    {
+      "id": 173,
+      "en": "I ran into Matt, happened in the past, right?",
+      "cn": "我碰到了马特，发生在过去，对吧？"
+    },
+    {
+      "id": 174,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 175,
+      "en": "Simple past, but one moment in the past.",
+      "cn": "简单过去时，但是过去的一个时刻。"
+    },
+    {
+      "id": 176,
+      "en": "So the action finished, concluded, started and finished all around the same time.",
+      "cn": "所以这个动作结束了，完成了，开始并在同一时间结束。"
+    },
+    {
+      "id": 177,
+      "en": "So it's one simple moment.",
+      "cn": "所以这是一个简单的时刻。"
+    },
+    {
+      "id": 178,
+      "en": "OK, now the other example is in the past progressive.",
+      "cn": "好吧，现在另一个例子是过去进行时。"
+    },
+    {
+      "id": 179,
+      "en": "So the action was happening for a longer period of time.",
+      "cn": "所以这个动作持续了一段较长的时间。"
+    },
+    {
+      "id": 180,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 181,
+      "en": "OK, so let's let's attach some times to this.",
+      "cn": "好吧，所以让我们给这个附加一些时间。"
+    },
+    {
+      "id": 182,
+      "en": "Maybe you ran into Matt at eight oh four.",
+      "cn": "也许你在八点零四分碰到了马特。"
+    },
+    {
+      "id": 183,
+      "en": "OK.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 184,
+      "en": "And so the action started at eight oh four.",
+      "cn": "所以这个动作在八点零四分开始。"
+    },
+    {
+      "id": 185,
+      "en": "But you were talking and catching up from eight oh five until nine oh five.",
+      "cn": "但你在八点零五分到九点零五分之间聊天和赶上进度。"
+    },
+    {
+      "id": 186,
+      "en": "OK, so you were talking for an hour.",
+      "cn": "好吧，所以你聊了一个小时。"
+    },
+    {
+      "id": 187,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 188,
+      "en": "So it's the past progressive you use when you're when the action is happening for a longer period of time.",
+      "cn": "所以当动作持续较长时间时，你使用过去进行时。"
+    },
+    {
+      "id": 189,
+      "en": "OK, so to better understand this, let's have another example.",
+      "cn": "好吧，为了更好地理解这一点，让我们再举一个例子。"
+    },
+    {
+      "id": 190,
+      "en": "Matt saw a mouse run under his chair and he completely lost it.",
+      "cn": "马特看到一只老鼠跑到他的椅子下面，他完全崩溃了。"
+    },
+    {
+      "id": 191,
+      "en": "Everyone was staring and laughing.",
+      "cn": "每个人都在盯着和笑。"
+    },
+    {
+      "id": 192,
+      "en": "So as we heard in the example, he saw a mouse run under his chair.",
+      "cn": "所以正如我们在例子中听到的，他看到一只老鼠跑到他的椅子下面。"
+    },
+    {
+      "id": 193,
+      "en": "So a quick action that started and finished quickly.",
+      "cn": "所以这是一个快速的动作，开始并迅速结束。"
+    },
+    {
+      "id": 194,
+      "en": "OK, he saw the mouse and it ran under the chair.",
+      "cn": "好吧，他看到老鼠，它跑到椅子下面。"
+    },
+    {
+      "id": 195,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 196,
+      "en": "Now, the second example we heard was everyone was staring and laughing.",
+      "cn": "现在，我们听到的第二个例子是大家都在盯着看并笑。"
+    },
+    {
+      "id": 197,
+      "en": "So maybe this happened over four or five minutes.",
+      "cn": "所以这可能发生在四五分钟内。"
+    },
+    {
+      "id": 198,
+      "en": "OK, so people were looking at him and laughing and talking about how he was screaming like a girl.",
+      "cn": "好吧，人们在看着他，笑着谈论他像女孩一样尖叫。"
+    },
+    {
+      "id": 199,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 200,
+      "en": "OK, so that's the main difference between the simple past and the past progressive.",
+      "cn": "好吧，这就是简单过去时和过去进行时之间的主要区别。"
+    },
+    {
+      "id": 201,
+      "en": "The amount of time that the action happened.",
+      "cn": "动作发生的时间量。"
+    },
+    {
+      "id": 202,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 203,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 204,
+      "en": "Well, now that we understand a little bit more about the past tense, why don't we hear it again in context by listening to the dialogue for a third time?",
+      "cn": "好吧，现在我们对过去时有了更多的理解，为什么不再听一次对话呢？"
+    },
+    {
+      "id": 205,
+      "en": "Mike, what's going on, man?",
+      "cn": "迈克，怎么了，兄弟？"
+    },
+    {
+      "id": 206,
+      "en": "Long time no see.",
+      "cn": "好久不见。"
+    },
+    {
+      "id": 207,
+      "en": "Hey, Pat.",
+      "cn": "嘿，帕特。"
+    },
+    {
+      "id": 208,
+      "en": "Yeah, I haven't seen you in ages.",
+      "cn": "是的，我好久没见你了。"
+    },
+    {
+      "id": 209,
+      "en": "How's it going?",
+      "cn": "你怎么样？"
+    },
+    {
+      "id": 210,
+      "en": "Things are going great.",
+      "cn": "一切都很好。"
+    },
+    {
+      "id": 211,
+      "en": "It's funny running into you like this small world.",
+      "cn": "碰到你真有趣，小世界。"
+    },
+    {
+      "id": 212,
+      "en": "You know, just last week I ran into Matt as well.",
+      "cn": "你知道，上周我也碰到了马特。"
+    },
+    {
+      "id": 213,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 214,
+      "en": "How's he doing?",
+      "cn": "他怎么样？"
+    },
+    {
+      "id": 215,
+      "en": "He's doing well.",
+      "cn": "他很好。"
+    },
+    {
+      "id": 216,
+      "en": "We went out for a couple of beers and the funniest thing happened.",
+      "cn": "我们出去喝了几杯，发生了非常搞笑的事情。"
+    },
+    {
+      "id": 217,
+      "en": "Oh, yeah.",
+      "cn": "哦，是吗。"
+    },
+    {
+      "id": 218,
+      "en": "Well, we were talking and catching up on what we've been doing, talking about work and family, when all of a sudden Matt saw a mouse run under the chair and he completely lost it.",
+      "cn": "我们在聊天，聊着我们在做什么，谈论工作和家庭，突然马特看到一只老鼠跑到椅子下，他完全失控了。"
+    },
+    {
+      "id": 219,
+      "en": "He started freaking out and screaming.",
+      "cn": "他开始惊慌失措并尖叫。"
+    },
+    {
+      "id": 220,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 221,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 222,
+      "en": "And the funniest thing was then he jumped onto his chair and started shrieking like a girl.",
+      "cn": "最搞笑的是他跳到椅子上，开始像女孩一样尖叫。"
+    },
+    {
+      "id": 223,
+      "en": "He should have been there.",
+      "cn": "他应该在那儿。"
+    },
+    {
+      "id": 224,
+      "en": "Everyone was staring and laughing.",
+      "cn": "大家都在盯着看并笑。"
+    },
+    {
+      "id": 225,
+      "en": "It was hilarious.",
+      "cn": "太搞笑了。"
+    },
+    {
+      "id": 226,
+      "en": "OK, perfect.",
+      "cn": "好的，完美。"
+    },
+    {
+      "id": 227,
+      "en": "So now that we understand the words and the grammar behind it, there are some interesting phrases here that you can use casually with your friends.",
+      "cn": "现在我们理解了这些词和背后的语法，这里有一些有趣的短语可以和朋友随意使用。"
+    },
+    {
+      "id": 228,
+      "en": "Yeah, there's actually a lot of great sort of meeting and greeting and saying hello language.",
+      "cn": "是的，实际上有很多很好的问候和打招呼的语言。"
+    },
+    {
+      "id": 229,
+      "en": "So, for example, when they met up, since they were old friends, he said, Hey, Pat.",
+      "cn": "例如，当他们见面时，因为他们是老朋友，他说，嘿，帕特。"
+    },
+    {
+      "id": 230,
+      "en": "Hey.",
+      "cn": "嘿。"
+    },
+    {
+      "id": 231,
+      "en": "OK, so this word, hey, it's kind of like hi.",
+      "cn": "好吧，这个词，嘿，有点像嗨。"
+    },
+    {
+      "id": 232,
+      "en": "It's hi.",
+      "cn": "就是嗨。"
+    },
+    {
+      "id": 233,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 234,
+      "en": "Normally you would use it to get somebody's attention.",
+      "cn": "通常你会用它来引起某人的注意。"
+    },
+    {
+      "id": 235,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 236,
+      "en": "Like, hey, I'm over here.",
+      "cn": "比如，嘿，我在这里。"
+    },
+    {
+      "id": 237,
+      "en": "Hey, waiter.",
+      "cn": "嘿，服务员。"
+    },
+    {
+      "id": 238,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 239,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 240,
+      "en": "But in this case, like, hey, how's it going?",
+      "cn": "但在这种情况下，比如，嘿，你怎么样？"
+    },
+    {
+      "id": 241,
+      "en": "Or hi.",
+      "cn": "或者嗨。"
+    },
+    {
+      "id": 242,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 243,
+      "en": "So it's a really friendly and informal way of saying hi.",
+      "cn": "所以这是一种非常友好和非正式的打招呼方式。"
+    },
+    {
+      "id": 244,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 245,
+      "en": "And then he asked, how's it going?",
+      "cn": "然后他问，怎么样？"
+    },
+    {
+      "id": 246,
+      "en": "How's it going?",
+      "cn": "怎么样？"
+    },
+    {
+      "id": 247,
+      "en": "So again, this is a way of saying, how are you?",
+      "cn": "所以这又是问你好吗的一种方式。"
+    },
+    {
+      "id": 248,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 249,
+      "en": "Marco, what's the correct answer to this greeting?",
+      "cn": "马尔科，回答这个问候的正确方式是什么？"
+    },
+    {
+      "id": 250,
+      "en": "Well, well, for example, he said things are going great.",
+      "cn": "好吧，例如，他说一切都很好。"
+    },
+    {
+      "id": 251,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 252,
+      "en": "You can say, yeah, things are great or I'm doing well.",
+      "cn": "你可以说，是的，一切都很好，或者我很好。"
+    },
+    {
+      "id": 253,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 254,
+      "en": "Or even great.",
+      "cn": "甚至可以说很好。"
+    },
+    {
+      "id": 255,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 256,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 257,
+      "en": "So how's it going?",
+      "cn": "所以怎么样？"
+    },
+    {
+      "id": 258,
+      "en": "Oh, it's great.",
+      "cn": "哦，很好。"
+    },
+    {
+      "id": 259,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 260,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 261,
+      "en": "Now, another one that we didn't see in the dialogue, but it's very popular is when somebody asks, hey, what's up?",
+      "cn": "现在，还有一个我们在对话中没有看到，但非常流行的是当有人问，嘿，怎么了？"
+    },
+    {
+      "id": 262,
+      "en": "Yeah, what's up?",
+      "cn": "是的，怎么了？"
+    },
+    {
+      "id": 263,
+      "en": "So again, what is the right way to answer this question?",
+      "cn": "所以再次，回答这个问题的正确方式是什么？"
+    },
+    {
+      "id": 264,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 265,
+      "en": "So when somebody says, what's up?",
+      "cn": "所以当有人说，怎么了？"
+    },
+    {
+      "id": 266,
+      "en": "You can say, well, not much.",
+      "cn": "你可以说，嗯，不多。"
+    },
+    {
+      "id": 267,
+      "en": "Or if maybe you have news or something that you want to share, you would say, well, I just got back from the doctor's office.",
+      "cn": "或者如果你有新闻或想分享的事情，你可以说，嗯，我刚从医生那里回来。"
+    },
+    {
+      "id": 268,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 269,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 270,
+      "en": "But you wouldn't say fine.",
+      "cn": "但你不会说很好。"
+    },
+    {
+      "id": 271,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 272,
+      "en": "Or you wouldn't say very good or any of these other common answers to what's up.",
+      "cn": "或者你不会说很好或其他常见的回答。"
+    },
+    {
+      "id": 273,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 274,
+      "en": "It can be a little bit tricky.",
+      "cn": "这可能有点棘手。"
+    },
+    {
+      "id": 275,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 276,
+      "en": "So the rule is the normal thing to say when someone says, hey, what's up is nothing much.",
+      "cn": "所以规则是，当有人说，嘿，怎么了？时，正常的回答是没什么。"
+    },
+    {
+      "id": 277,
+      "en": "Not much.",
+      "cn": "不多。"
+    },
+    {
+      "id": 278,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 279,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 280,
+      "en": "So interesting ways of greeting casually with people, right?",
+      "cn": "所以与人随意打招呼的有趣方式，对吧？"
+    },
+    {
+      "id": 281,
+      "en": "You wouldn't use this for it with your boss maybe or in an office setting.",
+      "cn": "你可能不会在老板面前或在办公室环境中使用这个。"
+    },
+    {
+      "id": 282,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 283,
+      "en": "More, more useful with your friends.",
+      "cn": "更适合和朋友。"
+    },
+    {
+      "id": 284,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 285,
+      "en": "So if you have any other questions or have any other informal greetings that you would like to share with us, come to EnglishPod.com.",
+      "cn": "所以如果你有其他问题或想与我们分享的非正式问候，请访问 EnglishPod.com。"
+    },
+    {
+      "id": 286,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 287,
+      "en": "Marco and I are always around to answer your questions and we look forward to hearing from you.",
+      "cn": "马尔科和我随时准备回答你的问题，期待听到你的消息。"
+    },
+    {
+      "id": 288,
+      "en": "So until next time, bye.",
+      "cn": "所以下次见，拜。"
+    }
+  ]
+}

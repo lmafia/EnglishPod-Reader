@@ -1,0 +1,1134 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0346",
+  "title": "EnglishPod 高级 0346",
+  "totalSegments": 225,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and we're going to be purchasing some wine today, right, Marco?",
+      "cn": "我叫Katherine，今天我们要去买一些葡萄酒，对吧，Marco？"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "Today we're going to go to the shop and we're going to try to look for some wine that will go well with the type of food that we're having.",
+      "cn": "今天我们要去商店，寻找一些适合我们吃的食物的葡萄酒。"
+    },
+    {
+      "id": 6,
+      "en": "All right, so we're going to be learning a lot of specific terms.",
+      "cn": "好的，所以我们将学习很多具体的术语。"
+    },
+    {
+      "id": 7,
+      "en": "This is an advanced lesson, so we expect that most of the basics you already know, but some of these more difficult words and phrases are going to be our focus.",
+      "cn": "这是一个高级课程，所以我们希望你们已经知道大部分基础知识，但一些更难的单词和短语将是我们的重点。"
+    },
+    {
+      "id": 8,
+      "en": "So let's take a listen to today's dialogue.",
+      "cn": "那么让我们来听听今天的对话。"
+    },
+    {
+      "id": 9,
+      "en": "Hello there, welcome to Wine World.",
+      "cn": "你好，欢迎来到Wine World。"
+    },
+    {
+      "id": 10,
+      "en": "Let me know if I can help you out at all.",
+      "cn": "如果我能帮上忙，请告诉我。"
+    },
+    {
+      "id": 11,
+      "en": "Um, yes, please.",
+      "cn": "嗯，是的，请。"
+    },
+    {
+      "id": 12,
+      "en": "I could really use some help.",
+      "cn": "我真的需要一些帮助。"
+    },
+    {
+      "id": 13,
+      "en": "I'm going over to my boss's house for dinner tonight, and I don't know what kind of wine I should bring.",
+      "cn": "我今晚要去我老板家吃晚餐，我不知道应该带什么样的葡萄酒。"
+    },
+    {
+      "id": 14,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 15,
+      "en": "Uh, do you know what kind of food will be served?",
+      "cn": "嗯，你知道会提供什么食物吗？"
+    },
+    {
+      "id": 16,
+      "en": "Well, his wife is Japanese.",
+      "cn": "嗯，他的妻子是日本人。"
+    },
+    {
+      "id": 17,
+      "en": "He said she makes really good Sushi.",
+      "cn": "他说她做的寿司非常好。"
+    },
+    {
+      "id": 18,
+      "en": "Hmm, that's a bit of a challenge.",
+      "cn": "嗯，这有点挑战。"
+    },
+    {
+      "id": 19,
+      "en": "Sushi is notoriously difficult to pair with wine.",
+      "cn": "寿司与葡萄酒的搭配 notoriously 难。"
+    },
+    {
+      "id": 20,
+      "en": "Well, let's see.",
+      "cn": "嗯，让我们看看。"
+    },
+    {
+      "id": 21,
+      "en": "It'll have to be a white wine, of course.",
+      "cn": "当然必须是白葡萄酒。"
+    },
+    {
+      "id": 22,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 23,
+      "en": "Wouldn't a red wine go well with Sushi?",
+      "cn": "红葡萄酒不适合寿司吗？"
+    },
+    {
+      "id": 24,
+      "en": "No, I don't think so.",
+      "cn": "不，我不这样认为。"
+    },
+    {
+      "id": 25,
+      "en": "Sushi is a very delicately flavored food, and red wine would be a jarring contrast.",
+      "cn": "寿司是一种味道非常细腻的食物，红葡萄酒会形成强烈的对比。"
+    },
+    {
+      "id": 26,
+      "en": "You need a white wine which has more subtle flavors to complement the fish.",
+      "cn": "你需要一种味道更微妙的白葡萄酒来衬托鱼的味道。"
+    },
+    {
+      "id": 27,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 28,
+      "en": "So I should get a bottle of Chardonnay.",
+      "cn": "所以我应该买一瓶霞多丽。"
+    },
+    {
+      "id": 29,
+      "en": "That's a white wine, right?",
+      "cn": "那是一种白葡萄酒，对吧？"
+    },
+    {
+      "id": 30,
+      "en": "Yes, Chardonnay is a white wine, but I'm not sure it'd be your best bet.",
+      "cn": "是的，霞多丽是一种白葡萄酒，但我不确定它是否是你最好的选择。"
+    },
+    {
+      "id": 31,
+      "en": "Chardonnay is one of the more full-bodied whites, and tends to be a bit oaky.",
+      "cn": "霞多丽是比较饱满的白葡萄酒，往往有点橡木味。"
+    },
+    {
+      "id": 32,
+      "en": "I'd suggest you go for something brighter, like the Sauvignon Blanc from New Zealand.",
+      "cn": "我建议你选择一些更清新的，比如来自新西兰的长相思。"
+    },
+    {
+      "id": 33,
+      "en": "Oh, the Sauvignon Blanc?",
+      "cn": "哦，长相思？"
+    },
+    {
+      "id": 34,
+      "en": "What's that?",
+      "cn": "那是什么？"
+    },
+    {
+      "id": 35,
+      "en": "That's another varietal, or type of grape, just like Chardonnay.",
+      "cn": "那是另一种品种，或葡萄类型，就像霞多丽一样。"
+    },
+    {
+      "id": 36,
+      "en": "Let's see, the label says it's got attractive citrus and grassy aromas that give way to crisp mineral flavors and a bone-dry finish, served chilled.",
+      "cn": "让我们看看，标签上说它有迷人的柑橘和草本香气，带来清脆的矿物风味和干爽的收尾，冷饮。"
+    },
+    {
+      "id": 37,
+      "en": "Oh no, how long will it take to chill the wine?",
+      "cn": "哦不，冷却葡萄酒需要多长时间？"
+    },
+    {
+      "id": 38,
+      "en": "I'm on my way to dinner now.",
+      "cn": "我现在正要去吃晚餐。"
+    },
+    {
+      "id": 39,
+      "en": "Oh, it's okay, don't worry.",
+      "cn": "哦，没关系，别担心。"
+    },
+    {
+      "id": 40,
+      "en": "We'll just choose a wine from the cooler.",
+      "cn": "我们只需从冷藏柜中选择一款葡萄酒。"
+    },
+    {
+      "id": 41,
+      "en": "We don't have quite as extensive a selection over here, but this Rhone Valley white would be lovely.",
+      "cn": "我们这边的选择不算丰富，但这款罗纳河谷的白葡萄酒会很不错。"
+    },
+    {
+      "id": 42,
+      "en": "Alright, what varietal is that?",
+      "cn": "好吧，那是什么品种？"
+    },
+    {
+      "id": 43,
+      "en": "Well, this is a French wine, so they don't always specify the varietal on the label.",
+      "cn": "嗯，这是法国葡萄酒，所以他们不总是在标签上注明品种。"
+    },
+    {
+      "id": 44,
+      "en": "The French believe that the soil a grape is grown in is one of the most important factors in the final flavor of the wine.",
+      "cn": "法国人认为，葡萄生长的土壤是葡萄酒最终风味中最重要的因素之一。"
+    },
+    {
+      "id": 45,
+      "en": "This wine is probably a blend of a few different types of grapes, mostly Viognier, I'd guess.",
+      "cn": "这款葡萄酒可能是几种不同类型葡萄的混合，主要是维欧尼。"
+    },
+    {
+      "id": 46,
+      "en": "And do you think this is a good wine?",
+      "cn": "你认为这是一款好酒吗？"
+    },
+    {
+      "id": 47,
+      "en": "Yes, this is one of our best sellers.",
+      "cn": "是的，这是我们最畅销的产品之一。"
+    },
+    {
+      "id": 48,
+      "en": "It's not quite as dry as the Sauvignon Blanc we were looking at earlier, which means it's more approachable.",
+      "cn": "它没有我们之前看的长相思那么干，这意味着它更容易接受。"
+    },
+    {
+      "id": 49,
+      "en": "It's light and crisp with a bit of a vanilla aroma.",
+      "cn": "它轻盈清脆，带有一点香草香气。"
+    },
+    {
+      "id": 50,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 51,
+      "en": "I'll take it.",
+      "cn": "我就要这个。"
+    },
+    {
+      "id": 52,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 53,
+      "en": "So, now we're talking about wines and one of the first things that really pop up is when we're talking about Sushi and how we're trying to get a wine to go well with Sushi.",
+      "cn": "现在我们在谈论葡萄酒，其中一个首先出现的事情是我们在谈论寿司时，如何寻找与寿司搭配的葡萄酒。"
+    },
+    {
+      "id": 54,
+      "en": "Alright, so the phrase here was to pair with wine.",
+      "cn": "好的，所以这里的短语是与葡萄酒搭配。"
+    },
+    {
+      "id": 55,
+      "en": "So, Sushi is notoriously difficult to pair with wine.",
+      "cn": "所以，寿司与葡萄酒的搭配 notoriously 难。"
+    },
+    {
+      "id": 56,
+      "en": "Alright, so when you talk about wine, you talk about pairing it with food.",
+      "cn": "好的，所以当你谈论葡萄酒时，你会谈论它与食物的搭配。"
+    },
+    {
+      "id": 57,
+      "en": "P -A-I-R, to pair.",
+      "cn": "P -A-I-R，搭配。"
+    },
+    {
+      "id": 58,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 59,
+      "en": "So, for example, if you're having meat or poultry or chicken, you try to pair it with a wine so basically that the flavors go well together.",
+      "cn": "例如，如果你吃肉或家禽或鸡肉，你会尝试将其与葡萄酒搭配，以便味道能够很好地结合。"
+    },
+    {
+      "id": 60,
+      "en": "So, commonly we say that red wine pairs well with red meat or fish and white wine pair well together.",
+      "cn": "所以，我们通常说红葡萄酒与红肉或鱼搭配得很好，而白葡萄酒也能很好搭配。"
+    },
+    {
+      "id": 61,
+      "en": "So, you're pairing these two things which means you're using them in the same meal.",
+      "cn": "所以，你在搭配这两样东西，这意味着你在同一餐中使用它们。"
+    },
+    {
+      "id": 62,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 63,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 64,
+      "en": "So, when we were talking about pairing a wine with Sushi, the girl said, well, what about red wine?",
+      "cn": "所以，当我们在谈论将葡萄酒与寿司搭配时，女孩说，嗯，红葡萄酒呢？"
+    },
+    {
+      "id": 65,
+      "en": "Wouldn't that pair well with Sushi?",
+      "cn": "难道那不适合寿司吗？"
+    },
+    {
+      "id": 66,
+      "en": "And the attendant said, no.",
+      "cn": "而服务员说，不。"
+    },
+    {
+      "id": 67,
+      "en": "The red wine would be a jarring contrast.",
+      "cn": "红葡萄酒会形成强烈的对比。"
+    },
+    {
+      "id": 68,
+      "en": "So, first of all, we have this word jarring.",
+      "cn": "首先，我们有这个词强烈。"
+    },
+    {
+      "id": 69,
+      "en": "Something is jarring if it's loud, shocking, abrasive, difficult, annoying.",
+      "cn": "如果某事是强烈的，那就是响亮、震惊、刺耳、困难、恼人。"
+    },
+    {
+      "id": 70,
+      "en": "So, something that's jarring is loud.",
+      "cn": "所以，强烈的东西是响亮的。"
+    },
+    {
+      "id": 71,
+      "en": "And a contrast is something that shows the differences in something.",
+      "cn": "而对比是显示某事之间差异的东西。"
+    },
+    {
+      "id": 72,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 73,
+      "en": "So, when we're saying that it would be a jarring contrast to have Sushi with red wine, we're saying that they're just too different.",
+      "cn": "所以，当我们说将寿司与红葡萄酒搭配会形成强烈的对比时，我们是在说它们太不同了。"
+    },
+    {
+      "id": 74,
+      "en": "Sushi is too different from the red wine flavor.",
+      "cn": "寿司与红葡萄酒的味道太不同了。"
+    },
+    {
+      "id": 75,
+      "en": "So, they wouldn't go well together.",
+      "cn": "所以，它们不会很好地搭配。"
+    },
+    {
+      "id": 76,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 77,
+      "en": "And since jarring means it's a bad thing, we think the flavor will be wrong.",
+      "cn": "由于强烈意味着这是个坏事，我们认为味道会不对。"
+    },
+    {
+      "id": 78,
+      "en": "It'll be bad.",
+      "cn": "会很糟糕。"
+    },
+    {
+      "id": 79,
+      "en": "So, we need to look for something else.",
+      "cn": "所以，我们需要寻找其他东西。"
+    },
+    {
+      "id": 80,
+      "en": "And the salesperson suggested a wine that has more subtle flavors.",
+      "cn": "销售员建议了一款味道更微妙的葡萄酒。"
+    },
+    {
+      "id": 81,
+      "en": "White wine.",
+      "cn": "白葡萄酒。"
+    },
+    {
+      "id": 82,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 83,
+      "en": "So, this word subtle is actually spelled S-U-B-T-L-E, but the B is silent.",
+      "cn": "所以，这个词微妙实际上拼写为S-U-B-T-L-E，但B是静音的。"
+    },
+    {
+      "id": 84,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 85,
+      "en": "So, we say subtle.",
+      "cn": "所以，我们说微妙。"
+    },
+    {
+      "id": 86,
+      "en": "And it's actually great because it's kind of like the opposite of jarring.",
+      "cn": "这实际上很好，因为它有点像强烈的反义词。"
+    },
+    {
+      "id": 87,
+      "en": "Something that's not jarring is subtle.",
+      "cn": "不强烈的东西是微妙的。"
+    },
+    {
+      "id": 88,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 89,
+      "en": "So, it's a little bit more relaxed, not as loud.",
+      "cn": "所以，它更放松，不那么响亮。"
+    },
+    {
+      "id": 90,
+      "en": "It's not obvious.",
+      "cn": "它并不明显。"
+    },
+    {
+      "id": 91,
+      "en": "You have to really think about it and look for it.",
+      "cn": "你必须认真思考并寻找它。"
+    },
+    {
+      "id": 92,
+      "en": "Something that's subtle is not obvious.",
+      "cn": "微妙的东西并不明显。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "Now, talking about one specific type of white wine, we have a Chardonnay.",
+      "cn": "现在，谈到一种特定类型的白葡萄酒，我们有霞多丽。"
+    },
+    {
+      "id": 95,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 96,
+      "en": "So, we know that there are many, many different kinds of wine out there, but there are some very common ones, and Chardonnay is one of those.",
+      "cn": "所以，我们知道有很多不同种类的葡萄酒，但有一些非常常见的，霞多丽就是其中之一。"
+    },
+    {
+      "id": 97,
+      "en": "I think Chardonnay tends to be a bit fruitier.",
+      "cn": "我认为霞多丽往往更果味。"
+    },
+    {
+      "id": 98,
+      "en": "Australia has some famous Chardonnays.",
+      "cn": "澳大利亚有一些著名的霞多丽。"
+    },
+    {
+      "id": 99,
+      "en": "California has some famous Chardonnays.",
+      "cn": "加利福尼亚也有一些著名的霞多丽。"
+    },
+    {
+      "id": 100,
+      "en": "So, just remember that Chardonnay is a kind of white wine.",
+      "cn": "所以，只需记住，霞多丽是一种白葡萄酒。"
+    },
+    {
+      "id": 101,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 102,
+      "en": "And one of the ways that they used it to describe Chardonnay is that it's one of the more full-bodied whites.",
+      "cn": "他们用来描述霞多丽的一种方式是，它是较为浓郁的白葡萄酒之一。"
+    },
+    {
+      "id": 103,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 104,
+      "en": "So, whites here, we're talking about white wines, but something that's full-bodied.",
+      "cn": "所以，这里说的白葡萄酒是指浓郁的白葡萄酒。"
+    },
+    {
+      "id": 105,
+      "en": "What does that mean, Marco?",
+      "cn": "这是什么意思，Marco？"
+    },
+    {
+      "id": 106,
+      "en": "So, if a wine is full-bodied, it means that it has a little bit of a stronger flavor, like it's a more complete flavor.",
+      "cn": "如果一款葡萄酒是浓郁的，意味着它的味道更强烈，味道更完整。"
+    },
+    {
+      "id": 107,
+      "en": "It's not as subtle.",
+      "cn": "它不那么细腻。"
+    },
+    {
+      "id": 108,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 109,
+      "en": "So, we know that white wines are a bit more subtle than red wines in this case, but within white wines, you can have one that's very full-bodied.",
+      "cn": "我们知道，白葡萄酒通常比红葡萄酒更细腻，但在白葡萄酒中，你可以找到非常浓郁的酒。"
+    },
+    {
+      "id": 110,
+      "en": "So, this is a great phrase for describing wine.",
+      "cn": "这是描述葡萄酒的一个好词。"
+    },
+    {
+      "id": 111,
+      "en": "We don't really talk about other things being full-bodied, but wine can be full-bodied if it really has what you say, Marco, this big full taste, a bright taste.",
+      "cn": "我们不太谈论其他东西是浓郁的，但如果葡萄酒真的有你所说的，Marco，这种浓烈的味道，明亮的味道，它可以是浓郁的。"
+    },
+    {
+      "id": 112,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 113,
+      "en": "And actually, the sales attendant suggested that, well, since the Chardonnay is more full-bodied, then he would recommend maybe a Sauvignon Blanc.",
+      "cn": "实际上，销售员建议说，既然霞多丽更浓郁，他可能会推荐一款长相思。"
+    },
+    {
+      "id": 114,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 115,
+      "en": "So, Sauvignon Blanc.",
+      "cn": "所以，长相思。"
+    },
+    {
+      "id": 116,
+      "en": "Blanc is the French word for white, but we use this all the time in English.",
+      "cn": "Blanc是法语中的“白色”，但我们在英语中经常使用这个词。"
+    },
+    {
+      "id": 117,
+      "en": "Sauvignon Blanc being the kind of wine.",
+      "cn": "长相思是一种葡萄酒。"
+    },
+    {
+      "id": 118,
+      "en": "Again, it's a white wine, and it's a bit brighter than the Chardonnay.",
+      "cn": "再次强调，它是一种白葡萄酒，比霞多丽更明亮。"
+    },
+    {
+      "id": 119,
+      "en": "That's what the salesperson said.",
+      "cn": "这是销售员所说的。"
+    },
+    {
+      "id": 120,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 121,
+      "en": "And when we're talking about wines, either red wines or white wines, the way to describe it or the different varieties is actually a varietal of the wines or the type of grape.",
+      "cn": "当我们谈论葡萄酒时，无论是红葡萄酒还是白葡萄酒，描述它的方式或不同的品种实际上是葡萄酒的品种或葡萄的类型。"
+    },
+    {
+      "id": 122,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 123,
+      "en": "So, varietal.",
+      "cn": "所以，品种。"
+    },
+    {
+      "id": 124,
+      "en": "So, you think of variety, varietal.",
+      "cn": "想到品种，品种。"
+    },
+    {
+      "id": 125,
+      "en": "Varietal is a specific wine word that we use to describe the kind of grape that go into a wine.",
+      "cn": "品种是我们用来描述进入葡萄酒的葡萄类型的特定葡萄酒术语。"
+    },
+    {
+      "id": 126,
+      "en": "So, we know wine generally comes from grapes, they're crushed down, and then the alcohol comes from all the sugars, but each different kind of grape has a different flavor, and that's the varietal, the kind of grape.",
+      "cn": "我们知道葡萄酒通常来自葡萄，葡萄被压榨，然后酒精来自所有的糖，但每种不同的葡萄有不同的味道，这就是品种，葡萄的种类。"
+    },
+    {
+      "id": 127,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 128,
+      "en": "So, just think of it as the variety of the wines that you have, and it's a word used specifically for wines.",
+      "cn": "所以，把它看作你拥有的葡萄酒的品种，这是一个专门用于葡萄酒的词。"
+    },
+    {
+      "id": 129,
+      "en": "And, well, when the attendant kept talking about the wines and the types of wines they have there, he mentioned that they have a small selection in the refrigerator or in the cooler.",
+      "cn": "而且，当服务员继续谈论他们那里葡萄酒的类型时，他提到他们在冰箱或冷藏柜中有少量选择。"
+    },
+    {
+      "id": 130,
+      "en": "So, selection in this case means what the store has to offer.",
+      "cn": "所以，在这种情况下，选择意味着商店提供的东西。"
+    },
+    {
+      "id": 131,
+      "en": "It means all the wines that they sell.",
+      "cn": "这意味着他们出售的所有葡萄酒。"
+    },
+    {
+      "id": 132,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 133,
+      "en": "So, maybe if you have an extensive selection, it means you have many, many, many different kinds to choose from.",
+      "cn": "所以，也许如果你有广泛的选择，意味着你有很多不同的选择。"
+    },
+    {
+      "id": 134,
+      "en": "But if you don't have an extensive selection, you have very few wines, that means that you have fewer things to sell.",
+      "cn": "但如果你没有广泛的选择，你的葡萄酒很少，那意味着你有更少的东西可以出售。"
+    },
+    {
+      "id": 135,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 136,
+      "en": "So, a wide selection of wines or a small selection of wines.",
+      "cn": "所以，广泛的葡萄酒选择或少量的葡萄酒选择。"
+    },
+    {
+      "id": 137,
+      "en": "And lastly, talking about varietals, we also have what we call a blend, a blend of a few different types of grapes.",
+      "cn": "最后，谈到品种，我们还有一种叫做混合的东西，几种不同类型的葡萄的混合。"
+    },
+    {
+      "id": 138,
+      "en": "All right, so you can have blends of different things, but in terms of wine, we're talking about using different grapes together to make one wine.",
+      "cn": "好的，所以你可以有不同东西的混合，但在葡萄酒方面，我们谈论的是将不同的葡萄一起使用来制作一种葡萄酒。"
+    },
+    {
+      "id": 139,
+      "en": "All right, so this is something that's pretty common, and it's a way to achieve different flavors.",
+      "cn": "好的，所以这是一种相当常见的做法，是实现不同风味的一种方式。"
+    },
+    {
+      "id": 140,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 141,
+      "en": "So, a blend.",
+      "cn": "所以，混合。"
+    },
+    {
+      "id": 142,
+      "en": "You also talk about it in, I think, whiskies.",
+      "cn": "你也可以在威士忌中谈论它。"
+    },
+    {
+      "id": 143,
+      "en": "You have a blended whiskies.",
+      "cn": "你有混合威士忌。"
+    },
+    {
+      "id": 144,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 145,
+      "en": "So, you can have a single malt, which is one grain in one barrel, or you can have a blend, which would be different grains fermented in different barrels mixed together later.",
+      "cn": "所以，你可以有单一麦芽，即一个桶中的一种谷物，或者你可以有混合，即不同谷物在不同桶中发酵后混合在一起。"
+    },
+    {
+      "id": 146,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 147,
+      "en": "So, a lot of great stuff here all about wines.",
+      "cn": "所以，这里有很多关于葡萄酒的好东西。"
+    },
+    {
+      "id": 148,
+      "en": "Let's listen to this dialogue one last time.",
+      "cn": "让我们最后再听一遍这个对话。"
+    },
+    {
+      "id": 149,
+      "en": "Hello there.",
+      "cn": "你好。"
+    },
+    {
+      "id": 150,
+      "en": "Welcome to Wine World.",
+      "cn": "欢迎来到葡萄酒世界。"
+    },
+    {
+      "id": 151,
+      "en": "Let me know if I can help you out at all.",
+      "cn": "如果我能帮你，请告诉我。"
+    },
+    {
+      "id": 152,
+      "en": "Yes, please.",
+      "cn": "是的，请。"
+    },
+    {
+      "id": 153,
+      "en": "I could really use some help.",
+      "cn": "我真的需要一些帮助。"
+    },
+    {
+      "id": 154,
+      "en": "I'm going over to my boss's house for dinner tonight, and I don't know what kind of wine I should bring.",
+      "cn": "我今晚要去我老板家吃晚餐，我不知道应该带什么样的葡萄酒。"
+    },
+    {
+      "id": 155,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 156,
+      "en": "Do you know what kind of food will be served?",
+      "cn": "你知道会提供什么样的食物吗？"
+    },
+    {
+      "id": 157,
+      "en": "Well, his wife is Japanese.",
+      "cn": "嗯，他的妻子是日本人。"
+    },
+    {
+      "id": 158,
+      "en": "He said she makes really good Sushi.",
+      "cn": "他说她做的寿司非常好。"
+    },
+    {
+      "id": 159,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 160,
+      "en": "That's a bit of a challenge.",
+      "cn": "这有点挑战。"
+    },
+    {
+      "id": 161,
+      "en": "Sushi is notoriously difficult to pair with wine.",
+      "cn": "寿司与葡萄酒的搭配 notoriously 难。"
+    },
+    {
+      "id": 162,
+      "en": "Well, let's see.",
+      "cn": "嗯，让我们看看。"
+    },
+    {
+      "id": 163,
+      "en": "It'll have to be a white wine, of course.",
+      "cn": "当然必须是白葡萄酒。"
+    },
+    {
+      "id": 164,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 165,
+      "en": "Wouldn't a red wine go well with Sushi?",
+      "cn": "红葡萄酒不适合寿司吗？"
+    },
+    {
+      "id": 166,
+      "en": "No.",
+      "cn": "不。"
+    },
+    {
+      "id": 167,
+      "en": "I don't think so.",
+      "cn": "我不这样认为。"
+    },
+    {
+      "id": 168,
+      "en": "Sushi is a very delicately flavored food, and red wine would be a jarring contrast.",
+      "cn": "寿司是一种味道非常细腻的食物，红葡萄酒会形成强烈的对比。"
+    },
+    {
+      "id": 169,
+      "en": "You need a white wine which has more subtle flavors to complement the fish.",
+      "cn": "你需要一种白葡萄酒，它的味道更细腻，以补充鱼的味道。"
+    },
+    {
+      "id": 170,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 171,
+      "en": "So I should get a bottle of Chardonnay.",
+      "cn": "所以我应该买一瓶霞多丽。"
+    },
+    {
+      "id": 172,
+      "en": "That's a white wine, right?",
+      "cn": "那是一种白葡萄酒，对吧？"
+    },
+    {
+      "id": 173,
+      "en": "Yes, Chardonnay is a white wine, but I'm not sure it'd be your best bet.",
+      "cn": "是的，霞多丽是一种白葡萄酒，但我不确定它是否是你最好的选择。"
+    },
+    {
+      "id": 174,
+      "en": "Chardonnay is one of the more full-bodied whites and tends to be a bit oaky.",
+      "cn": "霞多丽是较为浓郁的白葡萄酒，往往有些橡木味。"
+    },
+    {
+      "id": 175,
+      "en": "I'd suggest you go for something brighter, like this Sauvignon Blanc from New Zealand.",
+      "cn": "我建议你选择更明亮的东西，比如这款来自新西兰的长相思。"
+    },
+    {
+      "id": 176,
+      "en": "Oh, the Sauvignon Blanc?",
+      "cn": "哦，长相思？"
+    },
+    {
+      "id": 177,
+      "en": "What's that?",
+      "cn": "那是什么？"
+    },
+    {
+      "id": 178,
+      "en": "That's another varietal, or type of grape, just like Chardonnay.",
+      "cn": "那是另一种品种，或葡萄类型，就像霞多丽一样。"
+    },
+    {
+      "id": 179,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 180,
+      "en": "The label says it's got attractive citrus and grassy aromas that give way to crisp mineral flavors and a bone-dry finish, served chilled.",
+      "cn": "标签上说它有迷人的柑橘和草本香气，带来清脆的矿物风味和干爽的收尾，冷饮。"
+    },
+    {
+      "id": 181,
+      "en": "Oh, no.",
+      "cn": "哦，不。"
+    },
+    {
+      "id": 182,
+      "en": "How long will it take to chill the wine?",
+      "cn": "冷却葡萄酒需要多长时间？"
+    },
+    {
+      "id": 183,
+      "en": "I'm on my way to dinner now.",
+      "cn": "我现在正要去晚餐。"
+    },
+    {
+      "id": 184,
+      "en": "Oh, it's okay.",
+      "cn": "哦，没关系。"
+    },
+    {
+      "id": 185,
+      "en": "Don't worry.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 186,
+      "en": "We'll just choose a wine from the cooler.",
+      "cn": "我们就从冷藏柜中选择一款葡萄酒。"
+    },
+    {
+      "id": 187,
+      "en": "We don't have quite as extensive a selection over here, but this Rhone Valley White would be lovely.",
+      "cn": "我们这里的选择不算太多，但这款罗纳河谷白葡萄酒会很不错。"
+    },
+    {
+      "id": 188,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 189,
+      "en": "What varietal is that?",
+      "cn": "那是什么品种？"
+    },
+    {
+      "id": 190,
+      "en": "Well, this is a French wine, so they don't always specify the varietal on the label.",
+      "cn": "嗯，这是一款法国葡萄酒，所以他们不总是在标签上注明品种。"
+    },
+    {
+      "id": 191,
+      "en": "The French believe that the soil a grape is grown in is one of the most important factors in the final flavor of the wine.",
+      "cn": "法国人认为，葡萄生长的土壤是葡萄酒最终风味中最重要的因素之一。"
+    },
+    {
+      "id": 192,
+      "en": "This wine is probably a blend of a few different types of grapes, mostly Viognier, I guess.",
+      "cn": "这款葡萄酒可能是几种不同类型葡萄的混合，主要是维欧尼。"
+    },
+    {
+      "id": 193,
+      "en": "And do you think this is a good wine?",
+      "cn": "你认为这是一款好酒吗？"
+    },
+    {
+      "id": 194,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 195,
+      "en": "This is one of our best sellers.",
+      "cn": "这是我们最畅销的酒之一。"
+    },
+    {
+      "id": 196,
+      "en": "It's not quite as dry as the Sauvignon Blanc we were looking at earlier, which means it's more approachable.",
+      "cn": "它没有我们之前看的长相思那么干，这意味着它更容易接受。"
+    },
+    {
+      "id": 197,
+      "en": "It's light and crisp with a bit of a vanilla aroma.",
+      "cn": "它轻盈清脆，带有一点香草香气。"
+    },
+    {
+      "id": 198,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 199,
+      "en": "I'll take it.",
+      "cn": "我就要这个。"
+    },
+    {
+      "id": 200,
+      "en": "All right, so obviously there are a lot more varietals out there.",
+      "cn": "好的，显然还有很多其他品种。"
+    },
+    {
+      "id": 201,
+      "en": "We only talked about two types of wines.",
+      "cn": "我们只谈了两种类型的葡萄酒。"
+    },
+    {
+      "id": 202,
+      "en": "We have the Chardonnay and the Sauvignon Blanc.",
+      "cn": "我们有霞多丽和长相思。"
+    },
+    {
+      "id": 203,
+      "en": "That's right, and the only wines we talked about were white wines.",
+      "cn": "没错，我们谈论的只有白葡萄酒。"
+    },
+    {
+      "id": 204,
+      "en": "Of course, there's a whole world of red wines out there.",
+      "cn": "当然，还有整个红葡萄酒的世界。"
+    },
+    {
+      "id": 205,
+      "en": "And then between red and white, you have rosé, which are those pink wines.",
+      "cn": "然后在红酒和白酒之间，还有玫瑰酒，就是那些粉色的酒。"
+    },
+    {
+      "id": 206,
+      "en": "Those pink wines, yeah.",
+      "cn": "那些粉色的酒，是的。"
+    },
+    {
+      "id": 207,
+      "en": "But actually, it's interesting because the culture of drinking wine is not as extensive as we think it is.",
+      "cn": "但实际上，这很有趣，因为饮酒文化并没有我们想象的那么广泛。"
+    },
+    {
+      "id": 208,
+      "en": "In many parts of the world, they're not really used to drinking wine.",
+      "cn": "在世界许多地方，他们并不习惯喝酒。"
+    },
+    {
+      "id": 209,
+      "en": "That's right, but then you go to places like France and Italy and South America, like Argentina, Chile, and you experience these different cultures of wine that are quite, I think, quite interesting because they're so different.",
+      "cn": "没错，但如果你去法国、意大利和南美洲，比如阿根廷、智利，你会体验到这些不同的葡萄酒文化，我认为非常有趣，因为它们是如此不同。"
+    },
+    {
+      "id": 210,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 211,
+      "en": "And it's become even healthy to drink wine.",
+      "cn": "而且喝酒甚至变得健康。"
+    },
+    {
+      "id": 212,
+      "en": "Medical tests show that if you have one glass of wine with dinner every day, it reduces your chances of heart disease.",
+      "cn": "医学测试表明，如果你每天晚餐喝一杯酒，可以降低心脏病的风险。"
+    },
+    {
+      "id": 213,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 214,
+      "en": "There's some special ingredient.",
+      "cn": "有一些特殊成分。"
+    },
+    {
+      "id": 215,
+      "en": "I'm not sure what it is, but obviously you don't want to drink too much.",
+      "cn": "我不确定是什么，但显然你不想喝太多。"
+    },
+    {
+      "id": 216,
+      "en": "But if you have a little bit, it's good for your heart.",
+      "cn": "但如果喝一点，对你的心脏有好处。"
+    },
+    {
+      "id": 217,
+      "en": "I think red wine, they say, is good for your heart.",
+      "cn": "我认为红酒被说是对心脏有益的。"
+    },
+    {
+      "id": 218,
+      "en": "So it's interesting, but obviously maybe in your countries you don't drink wine, or maybe you have a particular type of wine, like in China they have, isn't it, plum wine?",
+      "cn": "所以这很有趣，但显然在你们的国家可能不喝酒，或者你们有特定类型的酒，比如在中国，他们有梅子酒，不是吗？"
+    },
+    {
+      "id": 219,
+      "en": "Or rice wine.",
+      "cn": "或者米酒。"
+    },
+    {
+      "id": 220,
+      "en": "Rice wine in China, and plum wine, I think, in Japan.",
+      "cn": "中国的米酒，梅子酒我想是在日本。"
+    },
+    {
+      "id": 221,
+      "en": "So maybe you have a specific type of wine that you want to let us know about, and of course, if you have any questions or comments, we're always there.",
+      "cn": "所以也许你有特定类型的酒想告诉我们，当然，如果你有任何问题或评论，我们随时欢迎。"
+    },
+    {
+      "id": 222,
+      "en": "Check us out at EnglishPod.com.",
+      "cn": "请访问我们的网站 EnglishPod.com。"
+    },
+    {
+      "id": 223,
+      "en": "Alright, we'll see you again.",
+      "cn": "好吧，我们下次再见。"
+    },
+    {
+      "id": 224,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 225,
+      "en": "Thanks for watching!",
+      "cn": "感谢观看！"
+    }
+  ]
+}

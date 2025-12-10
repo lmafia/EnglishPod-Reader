@@ -1,0 +1,1059 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0025",
+  "title": "EnglishPod 中高级 0025",
+  "totalSegments": 210,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners, and welcome to another great lesson with us here at EnglishPod.",
+      "cn": "你好，英语学习者，欢迎来到EnglishPod的又一堂精彩课程。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're bringing you a great upper intermediate lesson.",
+      "cn": "今天我们为你带来一堂很棒的中高级课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "We're going to talk about a topic that's been in the news recently.",
+      "cn": "我们要谈论一个最近在新闻中出现的话题。"
+    },
+    {
+      "id": 7,
+      "en": "And this topic is... The bird flu.",
+      "cn": "这个话题是……禽流感。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So, can you tell us what the bird flu really is?",
+      "cn": "那么，你能告诉我们禽流感到底是什么吗？"
+    },
+    {
+      "id": 10,
+      "en": "Basically, the story is a lot of chickens and birds keep getting this disease.",
+      "cn": "基本上，故事是很多鸡和鸟得了这种疾病。"
+    },
+    {
+      "id": 11,
+      "en": "And they've managed to pass this disease to humans.",
+      "cn": "而且它们已经成功地将这种疾病传给了人类。"
+    },
+    {
+      "id": 12,
+      "en": "And the fear is that humans will start to pass this disease to each other.",
+      "cn": "人们担心人类会开始相互传播这种疾病。"
+    },
+    {
+      "id": 13,
+      "en": "And a huge, huge number of people in the world could get really sick.",
+      "cn": "世界上会有大量的人可能会生病。"
+    },
+    {
+      "id": 14,
+      "en": "Okay, so it sounds scary.",
+      "cn": "好吧，听起来很可怕。"
+    },
+    {
+      "id": 15,
+      "en": "Well, it may be a little bit scary, but we do have some interesting language.",
+      "cn": "嗯，可能有点可怕，但我们确实有一些有趣的语言。"
+    },
+    {
+      "id": 16,
+      "en": "We've got language to talk about a disease, and language that you might use in a planning meeting at work.",
+      "cn": "我们有关于疾病的语言，还有你在工作计划会议上可能会用到的语言。"
+    },
+    {
+      "id": 17,
+      "en": "Alright, so let's start by looking at our vocabulary preview for this dialogue.",
+      "cn": "好吧，让我们先看看这段对话的词汇预览。"
+    },
+    {
+      "id": 18,
+      "en": "Vocabulary preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 19,
+      "en": "Okay, the first word on our vocabulary preview today is contingency plan.",
+      "cn": "好的，今天词汇预览的第一个词是应急计划。"
+    },
+    {
+      "id": 20,
+      "en": "Contingency plan.",
+      "cn": "应急计划。"
+    },
+    {
+      "id": 21,
+      "en": "Contingency plan.",
+      "cn": "应急计划。"
+    },
+    {
+      "id": 22,
+      "en": "Contingency plan.",
+      "cn": "应急计划。"
+    },
+    {
+      "id": 23,
+      "en": "So, a contingency plan is a... A plan that you make to prepare for an emergency.",
+      "cn": "所以，应急计划是……为应对紧急情况而制定的计划。"
+    },
+    {
+      "id": 24,
+      "en": "So, like a backup plan.",
+      "cn": "就像备份计划。"
+    },
+    {
+      "id": 25,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 26,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 27,
+      "en": "Contingency plan.",
+      "cn": "应急计划。"
+    },
+    {
+      "id": 28,
+      "en": "And our last word for the vocabulary preview today is pandemic.",
+      "cn": "今天词汇预览的最后一个词是大流行。"
+    },
+    {
+      "id": 29,
+      "en": "Pandemic.",
+      "cn": "大流行。"
+    },
+    {
+      "id": 30,
+      "en": "Pandemic.",
+      "cn": "大流行。"
+    },
+    {
+      "id": 31,
+      "en": "Pandemic.",
+      "cn": "大流行。"
+    },
+    {
+      "id": 32,
+      "en": "So, a pandemic is something scary.",
+      "cn": "所以，大流行是很可怕的事情。"
+    },
+    {
+      "id": 33,
+      "en": "Well, yes.",
+      "cn": "嗯，是的。"
+    },
+    {
+      "id": 34,
+      "en": "It's an event where a disease affects a lot of people.",
+      "cn": "这是一个疾病影响很多人的事件。"
+    },
+    {
+      "id": 35,
+      "en": "Like, we're talking millions of people.",
+      "cn": "比如，我们说的是数百万的人。"
+    },
+    {
+      "id": 36,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 37,
+      "en": "And it spreads very quickly.",
+      "cn": "而且传播得非常快。"
+    },
+    {
+      "id": 38,
+      "en": "Uh-huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 39,
+      "en": "And it goes international.",
+      "cn": "而且它会国际传播。"
+    },
+    {
+      "id": 40,
+      "en": "Okay, so a disease that spreads very fast and goes everywhere.",
+      "cn": "好吧，所以一种传播非常快并且无处不在的疾病。"
+    },
+    {
+      "id": 41,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 42,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 43,
+      "en": "Pandemic.",
+      "cn": "大流行。"
+    },
+    {
+      "id": 44,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 45,
+      "en": "Okay, so we're ready to listen to our dialogue.",
+      "cn": "好吧，我们准备好听我们的对话了。"
+    },
+    {
+      "id": 46,
+      "en": "We are going to be at a business meeting where people are talking about a contingency plan.",
+      "cn": "我们将参加一个商务会议，讨论应急计划。"
+    },
+    {
+      "id": 47,
+      "en": "Well, right.",
+      "cn": "嗯，没错。"
+    },
+    {
+      "id": 48,
+      "en": "Let's move to our next order of business.",
+      "cn": "让我们进入下一个议程。"
+    },
+    {
+      "id": 49,
+      "en": "As many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue.",
+      "cn": "正如你们所知，最近几周媒体对禽流感问题进行了大量报道。"
+    },
+    {
+      "id": 50,
+      "en": "And it's come to my attention that our company lacks any sort of bird flu contingency plan.",
+      "cn": "我注意到我们公司缺乏任何禽流感应急计划。"
+    },
+    {
+      "id": 51,
+      "en": "Basically, we need to come up with a clear plan.",
+      "cn": "基本上，我们需要制定一个明确的计划。"
+    },
+    {
+      "id": 52,
+      "en": "We need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.",
+      "cn": "我们需要列出具体的行动，以便在大流行发生时保持关键业务功能。"
+    },
+    {
+      "id": 53,
+      "en": "So, what I'd like to do is first appoint someone to look after drafting our plan.",
+      "cn": "所以，我想先任命一个人来负责起草我们的计划。"
+    },
+    {
+      "id": 54,
+      "en": "Ralph, I'd like you to head up this project.",
+      "cn": "Ralph，我希望你来负责这个项目。"
+    },
+    {
+      "id": 55,
+      "en": "Sure, no problem.",
+      "cn": "当然，没问题。"
+    },
+    {
+      "id": 56,
+      "en": "What issues do you want me to consider?",
+      "cn": "你希望我考虑哪些问题？"
+    },
+    {
+      "id": 57,
+      "en": "Well, let's see.",
+      "cn": "嗯，让我看看。"
+    },
+    {
+      "id": 58,
+      "en": "There are a few points we need to be thinking about.",
+      "cn": "有几个要点我们需要考虑。"
+    },
+    {
+      "id": 59,
+      "en": "First, I'll need you to analyse our numbers and figure out what kind of financial impact and outbreak I have.",
+      "cn": "首先，我需要你分析我们的数字，弄清楚疫情会带来什么样的财务影响。"
+    },
+    {
+      "id": 60,
+      "en": "You'll also need to think about how we can avoid any of our employees getting infected.",
+      "cn": "你还需要考虑如何避免我们的员工被感染。"
+    },
+    {
+      "id": 61,
+      "en": "Think of ways to reduce employee customer contact.",
+      "cn": "想想减少员工与客户接触的方法。"
+    },
+    {
+      "id": 62,
+      "en": "Perhaps some IT solutions that will allow our people to work from home.",
+      "cn": "也许一些IT解决方案可以让我们的员工在家工作。"
+    },
+    {
+      "id": 63,
+      "en": "I guess you'll need me to forecast employee absences as well, right?",
+      "cn": "我想你还需要我预测员工缺勤，对吧？"
+    },
+    {
+      "id": 64,
+      "en": "And I'll think about the impact this will have on our clients.",
+      "cn": "我还会考虑这对我们的客户的影响。"
+    },
+    {
+      "id": 65,
+      "en": "Hey, what about vaccines?",
+      "cn": "嘿，疫苗呢？"
+    },
+    {
+      "id": 66,
+      "en": "Should we be thinking about getting vaccines for our employees?",
+      "cn": "我们应该考虑为员工接种疫苗吗？"
+    },
+    {
+      "id": 67,
+      "en": "Exactly right.",
+      "cn": "正确。"
+    },
+    {
+      "id": 68,
+      "en": "So, I'll leave this to you and...",
+      "cn": "所以，我把这个留给你……"
+    },
+    {
+      "id": 69,
+      "en": "Well, we'll review the draft plan in two weeks.",
+      "cn": "嗯，我们将在两周内审查草案计划。"
+    },
+    {
+      "id": 70,
+      "en": "Okay, so anyone want to order some KFC for lunch?",
+      "cn": "好吧，有人想点一些KFC作为午餐吗？"
+    },
+    {
+      "id": 71,
+      "en": "Alright, what an ironic meeting.",
+      "cn": "好吧，真是一个讽刺的会议。"
+    },
+    {
+      "id": 72,
+      "en": "They are talking about the bird flu and they are going to have chicken.",
+      "cn": "他们在谈论禽流感，却要吃鸡肉。"
+    },
+    {
+      "id": 73,
+      "en": "Yes, after a sneezing all over.",
+      "cn": "是的，刚刚打了喷嚏。"
+    },
+    {
+      "id": 74,
+      "en": "Yeah, I guess now we could take a look at our language takeaway for this dialogue.",
+      "cn": "是的，我想现在我们可以看看这段对话的语言要点。"
+    },
+    {
+      "id": 75,
+      "en": "We heard a lot of really useful language in this dialogue.",
+      "cn": "我们在这段对话中听到了很多非常有用的语言。"
+    },
+    {
+      "id": 76,
+      "en": "And right now we are going to look at four different words from the dialogue.",
+      "cn": "现在我们将看看对话中的四个不同的词。"
+    },
+    {
+      "id": 77,
+      "en": "The first one is critical.",
+      "cn": "第一个是关键的。"
+    },
+    {
+      "id": 78,
+      "en": "Critical.",
+      "cn": "关键的。"
+    },
+    {
+      "id": 79,
+      "en": "Critical.",
+      "cn": "关键的。"
+    },
+    {
+      "id": 80,
+      "en": "Critical.",
+      "cn": "关键的。"
+    },
+    {
+      "id": 81,
+      "en": "We've got some examples of this word that will help us to understand the meaning, so let's listen.",
+      "cn": "我们有一些这个词的例子，可以帮助我们理解其含义，所以让我们听听。"
+    },
+    {
+      "id": 82,
+      "en": "It's absolutely critical that we increase our sales.",
+      "cn": "我们必须增加销售额，这绝对是关键。"
+    },
+    {
+      "id": 83,
+      "en": "If not, the company will go bankrupt.",
+      "cn": "否则，公司将破产。"
+    },
+    {
+      "id": 84,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 85,
+      "en": "We have a critical shortage of food.",
+      "cn": "我们面临严重的食品短缺。"
+    },
+    {
+      "id": 86,
+      "en": "If we don't get help, people will die.",
+      "cn": "如果我们得不到帮助，人们会死。"
+    },
+    {
+      "id": 87,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 88,
+      "en": "This is a critical step in the process.",
+      "cn": "这是过程中的关键步骤。"
+    },
+    {
+      "id": 89,
+      "en": "You can't make a mistake here.",
+      "cn": "你不能在这里犯错。"
+    },
+    {
+      "id": 90,
+      "en": "So when something is critical, it's basically... Really important, really urgent.",
+      "cn": "所以当某事是关键时，它基本上是……非常重要，非常紧急。"
+    },
+    {
+      "id": 91,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 92,
+      "en": "Okay, great word.",
+      "cn": "好的，很好的词。"
+    },
+    {
+      "id": 93,
+      "en": "Critical.",
+      "cn": "关键的。"
+    },
+    {
+      "id": 94,
+      "en": "The next word we have is outbreak.",
+      "cn": "下一个词是疫情。"
+    },
+    {
+      "id": 95,
+      "en": "Outbreak.",
+      "cn": "疫情。"
+    },
+    {
+      "id": 96,
+      "en": "Outbreak.",
+      "cn": "疫情。"
+    },
+    {
+      "id": 97,
+      "en": "An outbreak.",
+      "cn": "一场疫情。"
+    },
+    {
+      "id": 98,
+      "en": "So an outbreak is a sudden start of a disease, right?",
+      "cn": "所以疫情是疾病的突然开始，对吧？"
+    },
+    {
+      "id": 99,
+      "en": "Can I say, oh, I got an outbreak of flu?",
+      "cn": "我可以说，哦，我得了流感疫情吗？"
+    },
+    {
+      "id": 100,
+      "en": "Can outbreak describe one person?",
+      "cn": "疫情可以描述一个人吗？"
+    },
+    {
+      "id": 101,
+      "en": "No, an outbreak means that it's infecting a lot of people.",
+      "cn": "不，疫情意味着它正在感染很多人。"
+    },
+    {
+      "id": 102,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 103,
+      "en": "Not only one person.",
+      "cn": "不仅仅是一个人。"
+    },
+    {
+      "id": 104,
+      "en": "So that we could say there was an outbreak of the flu at the office.",
+      "cn": "所以我们可以说办公室里爆发了流感疫情。"
+    },
+    {
+      "id": 105,
+      "en": "Which there was.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 106,
+      "en": "Yeah, a lot of people got sick here with the flu.",
+      "cn": "是的，很多人得了流感。"
+    },
+    {
+      "id": 107,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 108,
+      "en": "Okay, why don't you tell us about our third word.",
+      "cn": "好的，为什么不告诉我们第三个词呢。"
+    },
+    {
+      "id": 109,
+      "en": "Our third word is forecast.",
+      "cn": "我们的第三个词是预测。"
+    },
+    {
+      "id": 110,
+      "en": "Forecast.",
+      "cn": "预测。"
+    },
+    {
+      "id": 111,
+      "en": "Forecast.",
+      "cn": "预测。"
+    },
+    {
+      "id": 112,
+      "en": "Forecast.",
+      "cn": "预测。"
+    },
+    {
+      "id": 113,
+      "en": "So to forecast basically means to predict.",
+      "cn": "所以预测基本上意味着预言。"
+    },
+    {
+      "id": 114,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 115,
+      "en": "For example, you talk about the weather forecast.",
+      "cn": "例如，你谈论天气预报。"
+    },
+    {
+      "id": 116,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 117,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 118,
+      "en": "And the last word for a language takeaway is vaccines.",
+      "cn": "最后一个语言要点是疫苗。"
+    },
+    {
+      "id": 119,
+      "en": "Vaccines.",
+      "cn": "疫苗。"
+    },
+    {
+      "id": 120,
+      "en": "Vaccines.",
+      "cn": "疫苗。"
+    },
+    {
+      "id": 121,
+      "en": "So vaccines are something we all had when we were children.",
+      "cn": "所以疫苗是我们小时候都打过的东西。"
+    },
+    {
+      "id": 122,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 123,
+      "en": "They are injections that you get to prevent you from getting sick later.",
+      "cn": "它们是你为了防止将来生病而接种的注射。"
+    },
+    {
+      "id": 124,
+      "en": "Right, so an injection of medicine from your doctor so that you don't get a disease in the future.",
+      "cn": "对，所以是医生给你的药物注射，以便你将来不生病。"
+    },
+    {
+      "id": 125,
+      "en": "Right, when we are small we get polio vaccines.",
+      "cn": "对，当我们小的时候，我们接种脊髓灰质炎疫苗。"
+    },
+    {
+      "id": 126,
+      "en": "Yeah, or measles vaccines.",
+      "cn": "是的，或者麻疹疫苗。"
+    },
+    {
+      "id": 127,
+      "en": "Measles, right.",
+      "cn": "麻疹，对。"
+    },
+    {
+      "id": 128,
+      "en": "A lot of common diseases.",
+      "cn": "很多常见疾病。"
+    },
+    {
+      "id": 129,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, so that's all for language takeaway.",
+      "cn": "好的，这就是语言要点的全部内容。"
+    },
+    {
+      "id": 131,
+      "en": "Some great language related to health and disease.",
+      "cn": "一些与健康和疾病相关的好词汇。"
+    },
+    {
+      "id": 132,
+      "en": "But we also heard some great business related words in this dialogue.",
+      "cn": "但我们在这个对话中也听到了很多与商业相关的好词汇。"
+    },
+    {
+      "id": 133,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 134,
+      "en": "There's a lot of words that you can use in a planning meeting.",
+      "cn": "有很多词可以在计划会议中使用。"
+    },
+    {
+      "id": 135,
+      "en": "So let's look at those now in Fluency Builder.",
+      "cn": "所以现在让我们在流利度构建器中看看这些。"
+    },
+    {
+      "id": 136,
+      "en": "Fluency Builder In today's Fluency Builder we're going to look at four useful phrases.",
+      "cn": "流利度构建器 在今天的流利度构建器中，我们将看四个有用的短语。"
+    },
+    {
+      "id": 137,
+      "en": "Now this first phrase you can use when you want to change the subject at a meeting.",
+      "cn": "现在这个第一个短语你可以在会议上想要换话题时使用。"
+    },
+    {
+      "id": 138,
+      "en": "Let's listen to what they said in the dialogue.",
+      "cn": "让我们听听他们在对话中说了什么。"
+    },
+    {
+      "id": 139,
+      "en": "Let's move to our next order of business.",
+      "cn": "让我们转到下一个议程。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, so let's move to our next order of business.",
+      "cn": "好的，所以让我们转到下一个议程。"
+    },
+    {
+      "id": 141,
+      "en": "It's a great way of saying let's move on.",
+      "cn": "这是一个很好的说法，表示让我们继续。"
+    },
+    {
+      "id": 142,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 143,
+      "en": "Let's pass to the next topic.",
+      "cn": "让我们转到下一个主题。"
+    },
+    {
+      "id": 144,
+      "en": "Speaking of passing to the next topic, we heard another really interesting phrase in the dialogue.",
+      "cn": "说到转到下一个主题，我们在对话中听到了另一个非常有趣的短语。"
+    },
+    {
+      "id": 145,
+      "en": "Let's listen.",
+      "cn": "让我们听听。"
+    },
+    {
+      "id": 146,
+      "en": "We need to come up with a clear plan.",
+      "cn": "我们需要制定一个明确的计划。"
+    },
+    {
+      "id": 147,
+      "en": "So we need to come up with a clear plan.",
+      "cn": "所以我们需要制定一个明确的计划。"
+    },
+    {
+      "id": 148,
+      "en": "We need to...",
+      "cn": "我们需要..."
+    },
+    {
+      "id": 149,
+      "en": "Think of.",
+      "cn": "想出。"
+    },
+    {
+      "id": 150,
+      "en": "Think of a clear plan.",
+      "cn": "想出一个明确的计划。"
+    },
+    {
+      "id": 151,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 152,
+      "en": "We need to come up with.",
+      "cn": "我们需要想出。"
+    },
+    {
+      "id": 153,
+      "en": "Okay, our third phrase we heard in the dialogue is this.",
+      "cn": "好的，我们在对话中听到的第三个短语是这个。"
+    },
+    {
+      "id": 154,
+      "en": "Okay, I'd like you to head up this project.",
+      "cn": "好的，我希望你负责这个项目。"
+    },
+    {
+      "id": 155,
+      "en": "So this phrase, head up, this is a great phrase.",
+      "cn": "所以这个短语，负责，这是一个很好的短语。"
+    },
+    {
+      "id": 156,
+      "en": "It means I'd like you to lead or take care of this project.",
+      "cn": "它意味着我希望你领导或照顾这个项目。"
+    },
+    {
+      "id": 157,
+      "en": "Okay, and the last phrase for Fluency Builder you can use when you want to give someone the responsibility of a job.",
+      "cn": "好的，流利度构建器的最后一个短语是当你想把某人的工作责任交给他们时可以使用的。"
+    },
+    {
+      "id": 158,
+      "en": "We heard this.",
+      "cn": "我们听到了这个。"
+    },
+    {
+      "id": 159,
+      "en": "So I'll leave this to you.",
+      "cn": "所以我把这个留给你。"
+    },
+    {
+      "id": 160,
+      "en": "So I'll leave this to you.",
+      "cn": "所以我把这个留给你。"
+    },
+    {
+      "id": 161,
+      "en": "This is you take charge.",
+      "cn": "这就是你负责。"
+    },
+    {
+      "id": 162,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 163,
+      "en": "I'll leave this to you.",
+      "cn": "我把这个留给你。"
+    },
+    {
+      "id": 164,
+      "en": "That's a great way of delegating a responsibility.",
+      "cn": "这是一个很好的委派责任的方式。"
+    },
+    {
+      "id": 165,
+      "en": "And so we're going to leave you to listen to our dialogue last time.",
+      "cn": "所以我们将让你听听我们上次的对话。"
+    },
+    {
+      "id": 166,
+      "en": "And be sure to pick up all the great vocabulary that we just talked about.",
+      "cn": "并确保记住我们刚刚讨论的所有好词汇。"
+    },
+    {
+      "id": 167,
+      "en": "Well, right.",
+      "cn": "好吧，没错。"
+    },
+    {
+      "id": 168,
+      "en": "Let's move to our next order of business.",
+      "cn": "让我们转到下一个议程。"
+    },
+    {
+      "id": 169,
+      "en": "As many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue.",
+      "cn": "正如你们许多人所知道的，最近几周媒体对禽流感问题进行了大量报道。"
+    },
+    {
+      "id": 170,
+      "en": "And it's come to my attention that our company lacks any sort of bird flu contingency plan.",
+      "cn": "我注意到我们公司缺乏任何禽流感应急计划。"
+    },
+    {
+      "id": 171,
+      "en": "Basically, we need to come up with a clear plan.",
+      "cn": "基本上，我们需要制定一个明确的计划。"
+    },
+    {
+      "id": 172,
+      "en": "We need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.",
+      "cn": "我们需要概述我们公司在疫情发生时可以采取的具体行动，以维持关键业务功能。"
+    },
+    {
+      "id": 173,
+      "en": "So what I'd like to do is first appoint someone to look after drafting our plan.",
+      "cn": "所以我想做的是首先任命某人来负责起草我们的计划。"
+    },
+    {
+      "id": 174,
+      "en": "Ralph, I'd like you to head up this project.",
+      "cn": "拉尔夫，我希望你负责这个项目。"
+    },
+    {
+      "id": 175,
+      "en": "Sure, no problem.",
+      "cn": "当然，没问题。"
+    },
+    {
+      "id": 176,
+      "en": "What issues do you want me to consider?",
+      "cn": "你希望我考虑哪些问题？"
+    },
+    {
+      "id": 177,
+      "en": "Well, let's see.",
+      "cn": "嗯，让我看看。"
+    },
+    {
+      "id": 178,
+      "en": "There are a few points we need to be thinking about.",
+      "cn": "有几个要点我们需要考虑。"
+    },
+    {
+      "id": 179,
+      "en": "First, I'll need you to analyse our numbers and figure out what kind of financial impact an outbreak might have.",
+      "cn": "首先，我需要你分析我们的数字，弄清楚疫情可能带来的财务影响。"
+    },
+    {
+      "id": 180,
+      "en": "You'll also need to think about how we can avoid any of our employees getting infected.",
+      "cn": "你还需要考虑如何避免我们的员工被感染。"
+    },
+    {
+      "id": 181,
+      "en": "Think of ways to reduce employee customer contact.",
+      "cn": "想想减少员工与客户接触的方法。"
+    },
+    {
+      "id": 182,
+      "en": "Perhaps some IT solutions that will allow our people to work from home.",
+      "cn": "也许一些IT解决方案可以让我们的员工在家工作。"
+    },
+    {
+      "id": 183,
+      "en": "I guess you'll need me to forecast employee absences as well, right?",
+      "cn": "我想你还需要我预测员工缺勤，对吧？"
+    },
+    {
+      "id": 184,
+      "en": "And I'll think about the impact this will have on our clients.",
+      "cn": "我还会考虑这对我们的客户的影响。"
+    },
+    {
+      "id": 185,
+      "en": "Hey, what about vaccines?",
+      "cn": "嘿，疫苗呢？"
+    },
+    {
+      "id": 186,
+      "en": "Should we be thinking about getting vaccines for our employees?",
+      "cn": "我们应该考虑为员工接种疫苗吗？"
+    },
+    {
+      "id": 187,
+      "en": "Exactly right.",
+      "cn": "正确。"
+    },
+    {
+      "id": 188,
+      "en": "So I'll leave this to you and...",
+      "cn": "所以我把这个留给你，..."
+    },
+    {
+      "id": 189,
+      "en": "Well, we'll review the draft plan in two weeks.",
+      "cn": "好吧，我们将在两周内审查草案计划。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, so anyone want to order some KFC for lunch?",
+      "cn": "好的，有人想点一些KFC作为午餐吗？"
+    },
+    {
+      "id": 191,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 192,
+      "en": "So this contingency plan idea is really interesting, right?",
+      "cn": "所以这个应急计划的想法真的很有趣，对吧？"
+    },
+    {
+      "id": 193,
+      "en": "Yeah, it makes sense for a company to prepare in case there is an outbreak of bird flu.",
+      "cn": "是的，公司准备应对禽流感疫情是有意义的。"
+    },
+    {
+      "id": 194,
+      "en": "I mean, they need to maintain their critical business functions, even if all the employees are sick, hey?",
+      "cn": "我的意思是，他们需要维持关键业务功能，即使所有员工都生病，对吧？"
+    },
+    {
+      "id": 195,
+      "en": "Right, I guess that's really important and you have to forecast all these possibilities.",
+      "cn": "对，我想这真的很重要，你必须预测所有这些可能性。"
+    },
+    {
+      "id": 196,
+      "en": "Like people are going to be away from the office or even forecast less sales, etc.",
+      "cn": "比如人们会离开办公室，或者预测销售减少等等。"
+    },
+    {
+      "id": 197,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 198,
+      "en": "The interesting thing is that businesses that may not actually be involved in food production or raising chickens or something like that are making these contingency plans.",
+      "cn": "有趣的是，那些可能与食品生产或养鸡无关的企业也在制定这些应急计划。"
+    },
+    {
+      "id": 199,
+      "en": "I find that really fascinating.",
+      "cn": "我觉得这真的很吸引人。"
+    },
+    {
+      "id": 200,
+      "en": "So it seems there is a lot of fear out there about the possibility of a pandemic.",
+      "cn": "所以似乎大家对疫情的可能性感到很恐惧。"
+    },
+    {
+      "id": 201,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 202,
+      "en": "Well, hopefully they'll come out with a vaccine so we don't have to worry about these things.",
+      "cn": "好吧，希望他们能推出疫苗，这样我们就不必担心这些事情。"
+    },
+    {
+      "id": 203,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 204,
+      "en": "But until then... We'll have to create contingency plans.",
+      "cn": "但在那之前……我们必须制定应急计划。"
+    },
+    {
+      "id": 205,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 206,
+      "en": "Okay guys, we're out of time today and I hope you enjoyed our lesson and found all these words and phrases really useful and you can apply them in real life.",
+      "cn": "好吧，大家，今天时间到了，希望你们喜欢我们的课程，并发现这些单词和短语真的很有用，可以在现实生活中应用。"
+    },
+    {
+      "id": 207,
+      "en": "Alright guys, thanks for listening and be sure to check out our website, EnglishPod.com where you can leave all your questions and comments.",
+      "cn": "好的，感谢大家的聆听，务必查看我们的网站，EnglishPod.com，您可以在上面留下所有问题和评论。"
+    },
+    {
+      "id": 208,
+      "en": "Marco and I are always around to answer your questions.",
+      "cn": "马尔科和我随时准备回答你的问题。"
+    },
+    {
+      "id": 209,
+      "en": "Until then, it's bye.",
+      "cn": "在那之前，再见。"
+    },
+    {
+      "id": 210,
+      "en": "Goodbye.",
+      "cn": "再见。"
+    }
+  ]
+}

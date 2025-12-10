@@ -1,0 +1,1489 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0057",
+  "title": "EnglishPod 中级 0057",
+  "totalSegments": 296,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to EnglishPod.",
+      "cn": "欢迎回到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're back in the office.",
+      "cn": "今天我们回到办公室。"
+    },
+    {
+      "id": 6,
+      "en": "We have a lesson that's talking about something that goes wrong in the office.",
+      "cn": "我们有一节课讨论办公室里出现的问题。"
+    },
+    {
+      "id": 7,
+      "en": "Yes, something that I can really understand well.",
+      "cn": "是的，我非常能理解这个。"
+    },
+    {
+      "id": 8,
+      "en": "But we'll talk about that later.",
+      "cn": "但我们稍后再谈。"
+    },
+    {
+      "id": 9,
+      "en": "So this lesson is about a photocopier.",
+      "cn": "这节课是关于复印机的。"
+    },
+    {
+      "id": 10,
+      "en": "A photocopier.",
+      "cn": "复印机。"
+    },
+    {
+      "id": 11,
+      "en": "So let's take a look at this word in vocabulary preview.",
+      "cn": "让我们先看看这个词的词汇预览。"
+    },
+    {
+      "id": 12,
+      "en": "All right, so a photocopier makes copies.",
+      "cn": "好的，复印机是用来复印的。"
+    },
+    {
+      "id": 13,
+      "en": "Yeah, it makes copies of documents.",
+      "cn": "是的，它复印文件。"
+    },
+    {
+      "id": 14,
+      "en": "We often call it a copier or a copy machine.",
+      "cn": "我们通常称它为复印机或复印设备。"
+    },
+    {
+      "id": 15,
+      "en": "Yeah, so you can call it a photocopier, copy machine, or copier.",
+      "cn": "是的，你可以称它为复印机、复印设备或复印机。"
+    },
+    {
+      "id": 16,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 17,
+      "en": "Or a Xerox machine as well.",
+      "cn": "也可以叫做Xerox机。"
+    },
+    {
+      "id": 18,
+      "en": "Xerox machine, yeah.",
+      "cn": "Xerox机，是的。"
+    },
+    {
+      "id": 19,
+      "en": "We can talk about that a little bit later because that's an interesting story.",
+      "cn": "我们稍后可以谈谈这个，因为这是个有趣的故事。"
+    },
+    {
+      "id": 20,
+      "en": "All right, let's take a look at our next word.",
+      "cn": "好的，让我们看看下一个词。"
+    },
+    {
+      "id": 21,
+      "en": "Toner.",
+      "cn": "碳粉。"
+    },
+    {
+      "id": 22,
+      "en": "Toner.",
+      "cn": "碳粉。"
+    },
+    {
+      "id": 23,
+      "en": "Toner.",
+      "cn": "碳粉。"
+    },
+    {
+      "id": 24,
+      "en": "Toner.",
+      "cn": "碳粉。"
+    },
+    {
+      "id": 25,
+      "en": "So toner is what the copy machine uses to make copies.",
+      "cn": "碳粉是复印机用来复印的东西。"
+    },
+    {
+      "id": 26,
+      "en": "It's like the ink.",
+      "cn": "它就像墨水。"
+    },
+    {
+      "id": 27,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 28,
+      "en": "It's a very fine black powder.",
+      "cn": "它是一种非常细的黑色粉末。"
+    },
+    {
+      "id": 29,
+      "en": "Oh.",
+      "cn": "哦。"
+    },
+    {
+      "id": 30,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 31,
+      "en": "So it's not an ink.",
+      "cn": "所以这不是墨水。"
+    },
+    {
+      "id": 32,
+      "en": "No, it's actually dry.",
+      "cn": "不，它实际上是干的。"
+    },
+    {
+      "id": 33,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 34,
+      "en": "Yeah, yeah, it's dry.",
+      "cn": "是的，是的，它是干的。"
+    },
+    {
+      "id": 35,
+      "en": "It's a powder, so you don't want to get that all over you.",
+      "cn": "它是粉末，所以你不想让它弄得到处都是。"
+    },
+    {
+      "id": 36,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 37,
+      "en": "Well, good advice, Marco.",
+      "cn": "好吧，好的建议，Marco。"
+    },
+    {
+      "id": 38,
+      "en": "And our last word in vocabulary preview, malfunction.",
+      "cn": "我们词汇预览中的最后一个词，故障。"
+    },
+    {
+      "id": 39,
+      "en": "Malfunction.",
+      "cn": "故障。"
+    },
+    {
+      "id": 40,
+      "en": "Malfunction.",
+      "cn": "故障。"
+    },
+    {
+      "id": 41,
+      "en": "Malfunction.",
+      "cn": "故障。"
+    },
+    {
+      "id": 42,
+      "en": "Let's break down this word.",
+      "cn": "让我们拆解这个词。"
+    },
+    {
+      "id": 43,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 44,
+      "en": "Function.",
+      "cn": "功能。"
+    },
+    {
+      "id": 45,
+      "en": "To work.",
+      "cn": "工作。"
+    },
+    {
+      "id": 46,
+      "en": "Uh-huh.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 47,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 48,
+      "en": "Mal.",
+      "cn": "故。"
+    },
+    {
+      "id": 49,
+      "en": "I guess mal maybe comes from Latin or something because in Spanish we say mal, which is something evil or not good.",
+      "cn": "我想“故”可能来自拉丁语，因为在西班牙语中我们说“mal”，意思是邪恶或不好。"
+    },
+    {
+      "id": 50,
+      "en": "Okay, so I think we can understand malfunction is not good working.",
+      "cn": "好的，所以我认为我们可以理解故障就是不好的工作。"
+    },
+    {
+      "id": 51,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 52,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 53,
+      "en": "Um, okay, more or less.",
+      "cn": "嗯，好吧，差不多。"
+    },
+    {
+      "id": 54,
+      "en": "It's not working properly.",
+      "cn": "它工作不正常。"
+    },
+    {
+      "id": 55,
+      "en": "Not working properly.",
+      "cn": "不正常工作。"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, well, why don't we listen to the dialogue and find out what isn't working properly.",
+      "cn": "好吧，我们为什么不听听对话，找出什么不正常工作。"
+    },
+    {
+      "id": 58,
+      "en": "Hey, Carl, can you make a copy of this contract for me, please?",
+      "cn": "嘿，Carl，你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 59,
+      "en": "And when you have it ready, send it out ASAP to our sub-branch.",
+      "cn": "当你准备好后，尽快发给我们的分支。"
+    },
+    {
+      "id": 60,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 61,
+      "en": "I think I broke this thing.",
+      "cn": "我想我把这个东西弄坏了。"
+    },
+    {
+      "id": 62,
+      "en": "Maxine, can you help me out here?",
+      "cn": "Maxine，你能帮我一下吗？"
+    },
+    {
+      "id": 63,
+      "en": "I'm not really a tech guy.",
+      "cn": "我不是技术人员。"
+    },
+    {
+      "id": 64,
+      "en": "Yeah, sure.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 65,
+      "en": "I think it's just out of toner.",
+      "cn": "我想它只是缺少碳粉。"
+    },
+    {
+      "id": 66,
+      "en": "You can go use the other one upstairs.",
+      "cn": "你可以去楼上用另一个。"
+    },
+    {
+      "id": 67,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "cn": "上楼时，你能传真这个吗，我试着修这个东西？"
+    },
+    {
+      "id": 68,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 69,
+      "en": "Damn it.",
+      "cn": "该死。"
+    },
+    {
+      "id": 70,
+      "en": "Everything in this office seems to be breaking down.",
+      "cn": "这个办公室里的所有东西似乎都在坏。"
+    },
+    {
+      "id": 71,
+      "en": "I'll send the stupid fax later.",
+      "cn": "我稍后会发那个愚蠢的传真。"
+    },
+    {
+      "id": 72,
+      "en": "Oh, great!",
+      "cn": "哦，太好了！"
+    },
+    {
+      "id": 73,
+      "en": "Is someone playing a practical joke on me?",
+      "cn": "是有人在对我开玩笑吗？"
+    },
+    {
+      "id": 74,
+      "en": "This is ridiculous!",
+      "cn": "这太荒谬了！"
+    },
+    {
+      "id": 75,
+      "en": "The elevator has some sort of malfunction.",
+      "cn": "电梯出现了某种故障。"
+    },
+    {
+      "id": 76,
+      "en": "Just take the stairs, dude.",
+      "cn": "直接走楼梯，伙计。"
+    },
+    {
+      "id": 77,
+      "en": "What floor are you going to?",
+      "cn": "你要去几楼？"
+    },
+    {
+      "id": 78,
+      "en": "I have to go up 15 floors!",
+      "cn": "我得上15层！"
+    },
+    {
+      "id": 79,
+      "en": "Never mind.",
+      "cn": "算了。"
+    },
+    {
+      "id": 80,
+      "en": "Made.",
+      "cn": "完成了。"
+    },
+    {
+      "id": 81,
+      "en": "it.",
+      "cn": "它有一台复印机。"
+    },
+    {
+      "id": 82,
+      "en": "There's a copier.",
+      "cn": "好的，这台复印机显然工作不正常。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, so this copy machine is definitely not working properly.",
+      "cn": "严重故障。"
+    },
+    {
+      "id": 84,
+      "en": "A serious malfunction.",
+      "cn": "严重故障。"
+    },
+    {
+      "id": 85,
+      "en": "A serious malfunction.",
+      "cn": "我觉得整个大楼都爆炸了。"
+    },
+    {
+      "id": 86,
+      "en": "I think the whole building exploded.",
+      "cn": "好吧，在EnglishPod这里非常戏剧化，但我们很开心，对吧？"
+    },
+    {
+      "id": 87,
+      "en": "Alright, very dramatic here at EnglishPod, but we have fun, right?",
+      "cn": "正是。"
+    },
+    {
+      "id": 88,
+      "en": "Exactly.",
+      "cn": "好的，让我们看看在语言收获中看到的一些精彩语言。"
+    },
+    {
+      "id": 90,
+      "en": "Language Takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 91,
+      "en": "Alright, three words for you here in Language Takeaway.",
+      "cn": "好的，这里有三个词在语言收获中。"
+    },
+    {
+      "id": 92,
+      "en": "And we heard all of these in the dialogue.",
+      "cn": "我们在对话中听到了这些。"
+    },
+    {
+      "id": 93,
+      "en": "Mm-hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 94,
+      "en": "So this guy needs to get a copy ASAP.",
+      "cn": "所以这个家伙需要尽快复印。"
+    },
+    {
+      "id": 95,
+      "en": "ASAP.",
+      "cn": "尽快。"
+    },
+    {
+      "id": 96,
+      "en": "ASAP.",
+      "cn": "尽快。"
+    },
+    {
+      "id": 97,
+      "en": "Or ASAP.",
+      "cn": "或者尽快。"
+    },
+    {
+      "id": 98,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 99,
+      "en": "Meaning?",
+      "cn": "意思是？"
+    },
+    {
+      "id": 100,
+      "en": "As soon as possible.",
+      "cn": "尽快。"
+    },
+    {
+      "id": 101,
+      "en": "So really, really fast.",
+      "cn": "所以真的，非常快。"
+    },
+    {
+      "id": 102,
+      "en": "Really fast.",
+      "cn": "非常快。"
+    },
+    {
+      "id": 103,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 104,
+      "en": "This is a very, very common phrase.",
+      "cn": "这是一个非常常见的短语。"
+    },
+    {
+      "id": 105,
+      "en": "Mm-hmm.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 106,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 107,
+      "en": "So it's an acronym and you can say it like ASAP or ASAP.",
+      "cn": "所以这是一个缩写，你可以说成ASAP或ASAP。"
+    },
+    {
+      "id": 108,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 109,
+      "en": "Yeah, usually people say it like that because it's too long, I guess, to say as soon as possible.",
+      "cn": "是的，通常人们这样说，因为“尽可能快”太长了，我想。"
+    },
+    {
+      "id": 110,
+      "en": "So, hey, I need this document ASAP.",
+      "cn": "所以，嘿，我需要这份文件尽快。"
+    },
+    {
+      "id": 111,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 112,
+      "en": "Or ASAP.",
+      "cn": "或者尽快。"
+    },
+    {
+      "id": 113,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, let's look at our next word.",
+      "cn": "好的，我们来看下一个词。"
+    },
+    {
+      "id": 115,
+      "en": "A practical joke.",
+      "cn": "恶作剧。"
+    },
+    {
+      "id": 116,
+      "en": "Practical joke.",
+      "cn": "恶作剧。"
+    },
+    {
+      "id": 117,
+      "en": "Practical joke.",
+      "cn": "恶作剧。"
+    },
+    {
+      "id": 118,
+      "en": "Practical joke.",
+      "cn": "恶作剧。"
+    },
+    {
+      "id": 119,
+      "en": "Okay, so a practical joke.",
+      "cn": "好的，所以恶作剧。"
+    },
+    {
+      "id": 120,
+      "en": "I'm sure we have all played a practical joke on some of our friends, right?",
+      "cn": "我相信我们都对一些朋友开过恶作剧，对吧？"
+    },
+    {
+      "id": 121,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 122,
+      "en": "Basically what you do is you do something funny on purpose to someone.",
+      "cn": "基本上你做的就是故意对某人做一些有趣的事情。"
+    },
+    {
+      "id": 123,
+      "en": "Yeah, but something crazy.",
+      "cn": "是的，但要做一些疯狂的事情。"
+    },
+    {
+      "id": 124,
+      "en": "Crazy, right?",
+      "cn": "疯狂，对吧？"
+    },
+    {
+      "id": 125,
+      "en": "For example, when I was in university there was this guy in our building and we took all of his bedroom furniture, so his bed, his desk, everything, and put it down on the football field.",
+      "cn": "例如，当我在大学时，我们楼里有个家伙，我们把他的卧室家具，包括床、桌子、所有东西，都搬到足球场上。"
+    },
+    {
+      "id": 126,
+      "en": "Nice.",
+      "cn": "不错。"
+    },
+    {
+      "id": 127,
+      "en": "Yeah, that was a practical joke.",
+      "cn": "是的，那是一个恶作剧。"
+    },
+    {
+      "id": 128,
+      "en": "That is a very good and elaborate practical joke.",
+      "cn": "那是一个非常好且复杂的恶作剧。"
+    },
+    {
+      "id": 129,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, so practical joke.",
+      "cn": "好的，所以恶作剧。"
+    },
+    {
+      "id": 131,
+      "en": "Do something crazy or funny to your friends.",
+      "cn": "对朋友做一些疯狂或有趣的事情。"
+    },
+    {
+      "id": 132,
+      "en": "Mm-hmm.",
+      "cn": "嗯哼。"
+    },
+    {
+      "id": 133,
+      "en": "Okay, and now let's look at our last word.",
+      "cn": "好的，现在我们来看最后一个词。"
+    },
+    {
+      "id": 134,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 135,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 136,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 137,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 138,
+      "en": "Okay, so if you say never mind it means... Don't worry about it.",
+      "cn": "好的，所以如果你说没关系，意思是……别担心。"
+    },
+    {
+      "id": 139,
+      "en": "Don't worry about it.",
+      "cn": "别担心。"
+    },
+    {
+      "id": 140,
+      "en": "Forget it.",
+      "cn": "忘了它。"
+    },
+    {
+      "id": 141,
+      "en": "Forget it.",
+      "cn": "忘了它。"
+    },
+    {
+      "id": 142,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 143,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 144,
+      "en": "Yeah, this is a, you know, this is so common and I think it would be helpful to understand how it's used.",
+      "cn": "是的，这个短语非常常见，我认为理解它的用法会很有帮助。"
+    },
+    {
+      "id": 145,
+      "en": "So let's hear some examples.",
+      "cn": "所以我们来听一些例子。"
+    },
+    {
+      "id": 146,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 147,
+      "en": "Someone stole my wallet.",
+      "cn": "有人偷了我的钱包。"
+    },
+    {
+      "id": 148,
+      "en": "Oh, wait.",
+      "cn": "哦，等一下。"
+    },
+    {
+      "id": 149,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 150,
+      "en": "Here it is.",
+      "cn": "在这里。"
+    },
+    {
+      "id": 151,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 152,
+      "en": "Can you get some milk on your way home?",
+      "cn": "你能在回家的路上买些牛奶吗？"
+    },
+    {
+      "id": 153,
+      "en": "Oh, never mind.",
+      "cn": "哦，没关系。"
+    },
+    {
+      "id": 154,
+      "en": "We still have some.",
+      "cn": "我们还有一些。"
+    },
+    {
+      "id": 155,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 156,
+      "en": "The printer's broken?",
+      "cn": "打印机坏了吗？"
+    },
+    {
+      "id": 157,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 158,
+      "en": "I'll do this later.",
+      "cn": "我稍后再做。"
+    },
+    {
+      "id": 159,
+      "en": "Okay, great examples.",
+      "cn": "好的，很好的例子。"
+    },
+    {
+      "id": 160,
+      "en": "And I think our language takeaway is clear.",
+      "cn": "我认为我们的语言要点很清楚。"
+    },
+    {
+      "id": 161,
+      "en": "So why don't we listen to our dialogue for the second time and then we'll come back and talk about putting it together.",
+      "cn": "所以我们为什么不再听一次对话，然后再回来讨论如何整合它。"
+    },
+    {
+      "id": 162,
+      "en": "Hey, Carl.",
+      "cn": "嘿，卡尔。"
+    },
+    {
+      "id": 163,
+      "en": "Can you make a copy of this contract for me, please?",
+      "cn": "你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 164,
+      "en": "And when you have it ready, send it out ASAP to our sub branch.",
+      "cn": "当你准备好时，尽快发给我们的分支。"
+    },
+    {
+      "id": 165,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 166,
+      "en": "I think I broke this thing.",
+      "cn": "我想我把这个弄坏了。"
+    },
+    {
+      "id": 167,
+      "en": "Maxine, can you help me out here?",
+      "cn": "麦克辛，你能帮我一下吗？"
+    },
+    {
+      "id": 168,
+      "en": "I'm not really a tech guy.",
+      "cn": "我不是技术人员。"
+    },
+    {
+      "id": 169,
+      "en": "Yeah, sure.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 170,
+      "en": "I think it's just out of toner.",
+      "cn": "我想只是缺少墨粉。"
+    },
+    {
+      "id": 171,
+      "en": "You can go use the other one upstairs.",
+      "cn": "你可以去楼上的另一台使用。"
+    },
+    {
+      "id": 172,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "cn": "上楼时，你能传真这个吗，我试着修理这个？"
+    },
+    {
+      "id": 173,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 174,
+      "en": "Damn it.",
+      "cn": "该死。"
+    },
+    {
+      "id": 175,
+      "en": "Everything in this office seems to be breaking down.",
+      "cn": "这个办公室里的所有东西似乎都在坏。"
+    },
+    {
+      "id": 176,
+      "en": "I'll send the stupid fax later.",
+      "cn": "我稍后再发这个愚蠢的传真。"
+    },
+    {
+      "id": 177,
+      "en": "Oh, great.",
+      "cn": "哦，太好了。"
+    },
+    {
+      "id": 178,
+      "en": "Is someone playing a practical joke on me?",
+      "cn": "是有人在对我开恶作剧吗？"
+    },
+    {
+      "id": 179,
+      "en": "This is ridiculous.",
+      "cn": "这太荒谬了。"
+    },
+    {
+      "id": 180,
+      "en": "The elevator has some sort of malfunction.",
+      "cn": "电梯出现了故障。"
+    },
+    {
+      "id": 181,
+      "en": "Just take the stairs, dude.",
+      "cn": "走楼梯吧，伙计。"
+    },
+    {
+      "id": 182,
+      "en": "What floor are you going to?",
+      "cn": "你要去几楼？"
+    },
+    {
+      "id": 183,
+      "en": "I have to go up 15 floors.",
+      "cn": "我得上15楼。"
+    },
+    {
+      "id": 184,
+      "en": "Never mind.",
+      "cn": "没关系。"
+    },
+    {
+      "id": 185,
+      "en": "Made it.",
+      "cn": "到了。"
+    },
+    {
+      "id": 186,
+      "en": "There's a copier.",
+      "cn": "有复印机。"
+    },
+    {
+      "id": 187,
+      "en": "No!",
+      "cn": "不！"
+    },
+    {
+      "id": 188,
+      "en": "In this dialogue, there's some great language that can be used in many different patterns or in many different ways.",
+      "cn": "在这个对话中，有一些很好的语言可以用在许多不同的模式或方式中。"
+    },
+    {
+      "id": 189,
+      "en": "In today's Putting It Together, we're going to show you how to use three of these patterns.",
+      "cn": "在今天的整合中，我们将向你展示如何使用这三种模式。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, the first pattern that we can look at is out of toner.",
+      "cn": "好的，我们可以看的第一个模式是缺少墨粉。"
+    },
+    {
+      "id": 191,
+      "en": "Out of toner.",
+      "cn": "缺少墨粉。"
+    },
+    {
+      "id": 192,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 193,
+      "en": "We already talked about toner.",
+      "cn": "我们已经谈过墨粉。"
+    },
+    {
+      "id": 194,
+      "en": "Let's talk about out of.",
+      "cn": "让我们谈谈缺少。"
+    },
+    {
+      "id": 195,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 196,
+      "en": "When you are out of, you have none.",
+      "cn": "当你没有的时候，你就没有了。"
+    },
+    {
+      "id": 197,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 198,
+      "en": "Let's change a little bit.",
+      "cn": "我们换个说法。"
+    },
+    {
+      "id": 199,
+      "en": "I can say, I am out of milk.",
+      "cn": "我可以说，我没有牛奶。"
+    },
+    {
+      "id": 200,
+      "en": "I'm out of time.",
+      "cn": "我没有时间。"
+    },
+    {
+      "id": 201,
+      "en": "Out of time, right.",
+      "cn": "没有时间，对。"
+    },
+    {
+      "id": 202,
+      "en": "If you're driving, I'm out of gas or gasoline.",
+      "cn": "如果你在开车，我没有汽油。"
+    },
+    {
+      "id": 203,
+      "en": "So out of plus noun.",
+      "cn": "所以“没有”加名词。"
+    },
+    {
+      "id": 204,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 205,
+      "en": "It means you don't have none.",
+      "cn": "这意味着你没有。"
+    },
+    {
+      "id": 206,
+      "en": "EnglishPod.com You ain't got none.",
+      "cn": "EnglishPod.com 你没有。"
+    },
+    {
+      "id": 207,
+      "en": "Eubonics.com Alright, out of time.",
+      "cn": "Eubonics.com 好吧，没时间了。"
+    },
+    {
+      "id": 208,
+      "en": "Let's take a look at our second one.",
+      "cn": "让我们看看第二个。"
+    },
+    {
+      "id": 209,
+      "en": "On your way up.",
+      "cn": "在你上楼的路上。"
+    },
+    {
+      "id": 210,
+      "en": "Yeah, on your way up.",
+      "cn": "是的，在你上楼的路上。"
+    },
+    {
+      "id": 211,
+      "en": "On your way, right.",
+      "cn": "在你去的路上，对。"
+    },
+    {
+      "id": 212,
+      "en": "So this is a great way when you are talking to someone and they're going somewhere.",
+      "cn": "所以这是一个很好的方式，当你和某人交谈，他们要去某个地方。"
+    },
+    {
+      "id": 213,
+      "en": "So on your way up.",
+      "cn": "所以在你上楼的路上。"
+    },
+    {
+      "id": 214,
+      "en": "Can you bring this to HR?",
+      "cn": "你能把这个带给人力资源吗？"
+    },
+    {
+      "id": 215,
+      "en": "On your way to the store.",
+      "cn": "在你去商店的路上。"
+    },
+    {
+      "id": 216,
+      "en": "Can you mail this letter?",
+      "cn": "你能寄这封信吗？"
+    },
+    {
+      "id": 217,
+      "en": "Or maybe on your way home.",
+      "cn": "或者在你回家的路上。"
+    },
+    {
+      "id": 218,
+      "en": "Can you buy me some flowers?",
+      "cn": "你能给我买些花吗？"
+    },
+    {
+      "id": 219,
+      "en": "Nice, alright.",
+      "cn": "不错，好吧。"
+    },
+    {
+      "id": 220,
+      "en": "So on your way, it means... It means while you are going there.",
+      "cn": "所以在你去的路上，这意味着... 这意味着在你去那里时。"
+    },
+    {
+      "id": 221,
+      "en": "Taking advantage of the fact that you are going somewhere.",
+      "cn": "利用你去某个地方的事实。"
+    },
+    {
+      "id": 222,
+      "en": "Now let's take a look at our last one.",
+      "cn": "现在让我们看看最后一个。"
+    },
+    {
+      "id": 223,
+      "en": "And this is a really great phrase.",
+      "cn": "这是一个非常好的短语。"
+    },
+    {
+      "id": 224,
+      "en": "Break down.",
+      "cn": "故障。"
+    },
+    {
+      "id": 225,
+      "en": "In our dialogue we heard breaking down.",
+      "cn": "在我们的对话中，我们听到了“故障”。"
+    },
+    {
+      "id": 226,
+      "en": "Everything in the office seems to be breaking down.",
+      "cn": "办公室里的所有东西似乎都在故障。"
+    },
+    {
+      "id": 227,
+      "en": "So when something breaks down... It stops working.",
+      "cn": "所以当某样东西故障时... 它停止工作。"
+    },
+    {
+      "id": 228,
+      "en": "So we can change it a little bit.",
+      "cn": "所以我们可以稍微改变一下。"
+    },
+    {
+      "id": 229,
+      "en": "What happens if we say break up?",
+      "cn": "如果我们说“分手”会发生什么？"
+    },
+    {
+      "id": 230,
+      "en": "Boyfriend and girlfriend.",
+      "cn": "男朋友和女朋友。"
+    },
+    {
+      "id": 231,
+      "en": "They end their relationship.",
+      "cn": "他们结束了他们的关系。"
+    },
+    {
+      "id": 232,
+      "en": "So we can maybe think about it as their relationship stops working.",
+      "cn": "所以我们可以把它看作他们的关系停止工作。"
+    },
+    {
+      "id": 233,
+      "en": "Nice one.",
+      "cn": "不错。"
+    },
+    {
+      "id": 234,
+      "en": "What about break in?",
+      "cn": "那“闯入”呢？"
+    },
+    {
+      "id": 235,
+      "en": "Enter a place using force.",
+      "cn": "用暴力进入一个地方。"
+    },
+    {
+      "id": 236,
+      "en": "You enter a house that's not yours.",
+      "cn": "你进入一个不是你的房子。"
+    },
+    {
+      "id": 237,
+      "en": "So if you break into a house maybe you break the window and climb in.",
+      "cn": "所以如果你闯入一个房子，也许你打破窗户爬进去。"
+    },
+    {
+      "id": 238,
+      "en": "What about break out?",
+      "cn": "那“逃脱”呢？"
+    },
+    {
+      "id": 239,
+      "en": "The opposite.",
+      "cn": "相反。"
+    },
+    {
+      "id": 240,
+      "en": "So for example you might break out of jail.",
+      "cn": "例如，你可能会逃出监狱。"
+    },
+    {
+      "id": 241,
+      "en": "Break out of prison.",
+      "cn": "逃出监狱。"
+    },
+    {
+      "id": 242,
+      "en": "This is a great phrase.",
+      "cn": "这是一个很好的短语。"
+    },
+    {
+      "id": 243,
+      "en": "You can change the last word from break down, break up, break in.",
+      "cn": "你可以把“故障”、“分手”、“闯入”的最后一个词换掉。"
+    },
+    {
+      "id": 244,
+      "en": "And it means different things.",
+      "cn": "它们的意思不同。"
+    },
+    {
+      "id": 245,
+      "en": "So use different prepositions for different meanings.",
+      "cn": "所以使用不同的介词来表达不同的意思。"
+    },
+    {
+      "id": 246,
+      "en": "So now let's listen to our dialogue for the last time.",
+      "cn": "现在让我们最后一次听我们的对话。"
+    },
+    {
+      "id": 247,
+      "en": "And then Erika and I will be back.",
+      "cn": "然后Erika和我会回来。"
+    },
+    {
+      "id": 248,
+      "en": "And talk a little bit more about malfunctioning office supplies.",
+      "cn": "再谈谈故障的办公用品。"
+    },
+    {
+      "id": 249,
+      "en": "Hey Carl, can you make a copy of this contract for me please?",
+      "cn": "嘿Carl，你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 250,
+      "en": "And when you have it ready, send it out ASAP to our sub branch.",
+      "cn": "当你准备好后，尽快把它发给我们的分支。"
+    },
+    {
+      "id": 251,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 252,
+      "en": "I think I broke this thing.",
+      "cn": "我想我把这个弄坏了。"
+    },
+    {
+      "id": 253,
+      "en": "Maxine, can you help me out here?",
+      "cn": "Maxine，你能帮我一下吗？"
+    },
+    {
+      "id": 254,
+      "en": "I'm not really a tech guy.",
+      "cn": "我不是技术人员。"
+    },
+    {
+      "id": 255,
+      "en": "Yeah, sure.",
+      "cn": "是的，当然。"
+    },
+    {
+      "id": 256,
+      "en": "I think it's just out of toner.",
+      "cn": "我想这只是没有墨粉了。"
+    },
+    {
+      "id": 257,
+      "en": "You can go use the other one upstairs.",
+      "cn": "你可以去楼上的另一台使用。"
+    },
+    {
+      "id": 258,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "cn": "在你上楼的路上，你能传真这个吗，我试着修这个？"
+    },
+    {
+      "id": 259,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 260,
+      "en": "Damn it!",
+      "cn": "该死！"
+    },
+    {
+      "id": 261,
+      "en": "Everything in this office seems to be breaking down.",
+      "cn": "办公室里的所有东西似乎都在故障。"
+    },
+    {
+      "id": 262,
+      "en": "I'll send this stupid fax later.",
+      "cn": "我稍后会发这个愚蠢的传真。"
+    },
+    {
+      "id": 263,
+      "en": "Oh great!",
+      "cn": "哦太好了！"
+    },
+    {
+      "id": 264,
+      "en": "Is someone playing a practical joke on me?",
+      "cn": "是有人在对我开玩笑吗？"
+    },
+    {
+      "id": 265,
+      "en": "This is ridiculous!",
+      "cn": "这太荒谬了！"
+    },
+    {
+      "id": 266,
+      "en": "The elevator has some sort of malfunction.",
+      "cn": "电梯出现了某种故障。"
+    },
+    {
+      "id": 267,
+      "en": "Just take the stairs dude.",
+      "cn": "直接走楼梯吧，伙计。"
+    },
+    {
+      "id": 268,
+      "en": "What floor are you going to?",
+      "cn": "你要去几楼？"
+    },
+    {
+      "id": 269,
+      "en": "I have to go up 15 floors!",
+      "cn": "我得上15楼！"
+    },
+    {
+      "id": 270,
+      "en": "Never mind.",
+      "cn": "算了。"
+    },
+    {
+      "id": 271,
+      "en": "Made it.",
+      "cn": "到了。"
+    },
+    {
+      "id": 272,
+      "en": "There's a copier.",
+      "cn": "有复印机。"
+    },
+    {
+      "id": 273,
+      "en": "No!",
+      "cn": "不！"
+    },
+    {
+      "id": 274,
+      "en": "Alright, so Erica, everything that you touch that's electronic seems to malfunction, right?",
+      "cn": "好吧，Erica，你碰到的所有电子设备似乎都在故障，对吧？"
+    },
+    {
+      "id": 275,
+      "en": "This is absolutely true.",
+      "cn": "这绝对是真的。"
+    },
+    {
+      "id": 276,
+      "en": "I don't know what it is, but you know what, if I turn on a computer, it will suddenly get a virus.",
+      "cn": "我不知道是什么，但你知道吗，如果我打开一台电脑，它会突然感染病毒。"
+    },
+    {
+      "id": 277,
+      "en": "And even if I'm very careful, it still breaks.",
+      "cn": "即使我非常小心，它仍然会坏。"
+    },
+    {
+      "id": 278,
+      "en": "Yeah, it happens sometimes.",
+      "cn": "是的，有时会发生。"
+    },
+    {
+      "id": 279,
+      "en": "I can relate to that.",
+      "cn": "我能理解。"
+    },
+    {
+      "id": 280,
+      "en": "But you are much better at computers and technology than I am.",
+      "cn": "但你在电脑和技术方面比我强多了。"
+    },
+    {
+      "id": 281,
+      "en": "Well, I really, really like them.",
+      "cn": "嗯，我真的很喜欢它们。"
+    },
+    {
+      "id": 282,
+      "en": "And I guess even I know a little bit about copy machines or copiers because my uncles are like copy technicians.",
+      "cn": "我想即使我对复印机也知道一点，因为我的叔叔们是复印技术人员。"
+    },
+    {
+      "id": 283,
+      "en": "Yeah, so they fix copiers that broke down or they replace toner and they do all that stuff so that's why I know a little bit about it.",
+      "cn": "是的，他们修理坏掉的复印机，或者更换墨粉，做所有这些事情，所以我才知道一点。"
+    },
+    {
+      "id": 284,
+      "en": "But actually the original term is a Xerox machine.",
+      "cn": "但实际上原始术语是“施乐机”。"
+    },
+    {
+      "id": 285,
+      "en": "Yes, why is that?",
+      "cn": "是的，为什么呢？"
+    },
+    {
+      "id": 286,
+      "en": "From the brand, right?",
+      "cn": "来自品牌，对吧？"
+    },
+    {
+      "id": 287,
+      "en": "Ah, right.",
+      "cn": "啊，对。"
+    },
+    {
+      "id": 288,
+      "en": "There's a brand called Xerox and Xerox invented and patented this technology of making copies.",
+      "cn": "有一个叫施乐的品牌，施乐发明并专利了这种复印技术。"
+    },
+    {
+      "id": 289,
+      "en": "Alright, well the next time my photocopier explodes, I'll call you.",
+      "cn": "好吧，下次我的复印机爆炸时，我会打电话给你。"
+    },
+    {
+      "id": 290,
+      "en": "Call my uncles, right?",
+      "cn": "打电话给我的叔叔们，对吧？"
+    },
+    {
+      "id": 291,
+      "en": "Alright, and well let us know how things in your office break down or if you have any stories of like Erica that breaks everything she touches.",
+      "cn": "好吧，告诉我们你办公室的设备如何损坏，或者如果你有像埃里卡那样的故事，她碰到什么都坏。"
+    },
+    {
+      "id": 292,
+      "en": "Yeah, it's true.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 293,
+      "en": "Alright, so come to our website, come to our comments section and leave your opinions and we'll be there to also answer any doubts or questions you might have.",
+      "cn": "好吧，来我们的网站，来我们的评论区，留下你的意见，我们也会回答你可能有的任何疑问或问题。"
+    },
+    {
+      "id": 294,
+      "en": "That's right, you can find us at EnglishPod.com and Marco and I are always around.",
+      "cn": "没错，你可以在 EnglishPod.com 找到我们，马尔科和我总是在这里。"
+    },
+    {
+      "id": 295,
+      "en": "Alright, so we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 296,
+      "en": "Yep, we will.",
+      "cn": "是的，我们会的。"
+    },
+    {
+      "id": 297,
+      "en": "Okay guys, thanks for listening and until next time, bye-bye.",
+      "cn": "好的，感谢大家的收听，下次再见，拜拜。"
+    }
+  ]
+}

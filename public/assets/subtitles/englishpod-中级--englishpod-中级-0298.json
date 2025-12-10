@@ -1,0 +1,924 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0298",
+  "title": "EnglishPod 中级 0298",
+  "totalSegments": 183,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And for those of you who have been following, this is the very last episode of our 10-part series about giving a presentation in English.",
+      "cn": "对于一直在关注的朋友们，这是我们关于用英语做演讲的10集系列的最后一集。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "This is part 10, where we are going to receive questions from the audience.",
+      "cn": "这是第10部分，我们将接受观众的问题。"
+    },
+    {
+      "id": 7,
+      "en": "So this is called a Q&A session, or question and answer session.",
+      "cn": "这被称为问答环节。"
+    },
+    {
+      "id": 8,
+      "en": "Let's take a listen to our dialogue.",
+      "cn": "让我们来听听我们的对话。"
+    },
+    {
+      "id": 9,
+      "en": "We'll be back in a moment.",
+      "cn": "我们马上回来。"
+    },
+    {
+      "id": 10,
+      "en": "Well, everyone, I'm sure you'd like to join me in thanking Michael for what was a really inspirational presentation.",
+      "cn": "好吧，大家，我相信你们都想和我一起感谢Michael，他的演讲真的很鼓舞人心。"
+    },
+    {
+      "id": 11,
+      "en": "Sincere thanks, Michael.",
+      "cn": "真诚的感谢，Michael。"
+    },
+    {
+      "id": 12,
+      "en": "Now, I'm sure many of you will be keen to ask some questions.",
+      "cn": "现在，我相信你们中的许多人都想问一些问题。"
+    },
+    {
+      "id": 13,
+      "en": "So I'd like to open up a Q&A session.",
+      "cn": "所以我想开启问答环节。"
+    },
+    {
+      "id": 14,
+      "en": "Please raise your hand if you have any questions at all.",
+      "cn": "如果你有任何问题，请举手。"
+    },
+    {
+      "id": 15,
+      "en": "Yes, Janice, go ahead.",
+      "cn": "是的，Janice，请说。"
+    },
+    {
+      "id": 16,
+      "en": "Yes, thank you, Jonathan.",
+      "cn": "是的，谢谢你，Jonathan。"
+    },
+    {
+      "id": 17,
+      "en": "I would just like to go back to the comment Mr. Ford made in regards to our competitors, particularly Orange.",
+      "cn": "我想回到Ford先生关于我们竞争对手，特别是Orange的评论。"
+    },
+    {
+      "id": 18,
+      "en": "Now, as you know, Orange has established themselves as the market leader in the high-end laptop market.",
+      "cn": "如你所知，Orange已经确立了他们在高端笔记本市场的市场领导地位。"
+    },
+    {
+      "id": 19,
+      "en": "How does Mr. Ford expect to compete with a company that has such a huge reputation and huge resources?",
+      "cn": "Ford先生如何期望与这样一个拥有巨大声誉和资源的公司竞争？"
+    },
+    {
+      "id": 20,
+      "en": "Well, Janice, first of all, thanks for a very good question.",
+      "cn": "好的，Janice，首先感谢你提出了一个很好的问题。"
+    },
+    {
+      "id": 21,
+      "en": "I think you have hit the nail on the head, actually.",
+      "cn": "我认为你说得很对。"
+    },
+    {
+      "id": 22,
+      "en": "Orange are the global leaders precisely because of their size and power.",
+      "cn": "Orange之所以是全球领导者，正是因为他们的规模和实力。"
+    },
+    {
+      "id": 23,
+      "en": "But although we can't compete in terms of size, I do believe we hold an advantage in terms of dedication to customer service.",
+      "cn": "但尽管我们在规模上无法竞争，我相信我们在客户服务的专注上有优势。"
+    },
+    {
+      "id": 24,
+      "en": "Yes, I admit this is a David and Goliath battle, but don't forget who won that contest.",
+      "cn": "是的，我承认这是大卫与歌利亚的战斗，但别忘了谁赢得了那场比赛。"
+    },
+    {
+      "id": 25,
+      "en": "Mr. Ford, could you elaborate on actual technical details of the X420 a little more?",
+      "cn": "Ford先生，您能否详细说明一下X420的实际技术细节？"
+    },
+    {
+      "id": 26,
+      "en": "I'd love to, but I think we're a little pressed for time right now.",
+      "cn": "我很乐意，但我认为我们现在有点时间紧迫。"
+    },
+    {
+      "id": 27,
+      "en": "However, Jonathan, is all the technical specs for you on the PowerPoint presentation, which you can look over in your own time.",
+      "cn": "不过，Jonathan，所有的技术规格都在PowerPoint演示文稿中，你可以在自己的时间查看。"
+    },
+    {
+      "id": 28,
+      "en": "Mr. Ford, one final question.",
+      "cn": "Ford先生，最后一个问题。"
+    },
+    {
+      "id": 29,
+      "en": "Would you like to join me for a game of golf this Sunday?",
+      "cn": "你想这个星期天和我一起打球吗？"
+    },
+    {
+      "id": 30,
+      "en": "Alright, we're back, so now let's take a look at some words on language takeaway.",
+      "cn": "好的，我们回来了，现在让我们看看一些语言要点。"
+    },
+    {
+      "id": 31,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 32,
+      "en": "Well, at the beginning of today's dialogue, Jonathan said, I'm sure many of you will be keen to ask some questions.",
+      "cn": "在今天对话的开始，Jonathan说，我相信你们中的许多人都想问一些问题。"
+    },
+    {
+      "id": 33,
+      "en": "What does this word keen mean?",
+      "cn": "这个词keen是什么意思？"
+    },
+    {
+      "id": 34,
+      "en": "Alright, so to be keen to do something, which basically means that you want to or would like to do something.",
+      "cn": "好的，keen做某事基本上意味着你想做某事。"
+    },
+    {
+      "id": 35,
+      "en": "Right, are you keen?",
+      "cn": "对，你想吗？"
+    },
+    {
+      "id": 36,
+      "en": "Would you like to do it?",
+      "cn": "你想做吗？"
+    },
+    {
+      "id": 37,
+      "en": "Are you interested in doing it?",
+      "cn": "你对做这件事感兴趣吗？"
+    },
+    {
+      "id": 38,
+      "en": "Now, this is a very British form of addressing something, right?",
+      "cn": "这是非常英国的表达方式，对吗？"
+    },
+    {
+      "id": 39,
+      "en": "That's right, this is very British.",
+      "cn": "没错，这非常英国。"
+    },
+    {
+      "id": 40,
+      "en": "We don't really say this as much in America, but you can.",
+      "cn": "我们在美国不太这样说，但你可以。"
+    },
+    {
+      "id": 41,
+      "en": "People will understand you.",
+      "cn": "人们会理解你。"
+    },
+    {
+      "id": 42,
+      "en": "I would say, I'm sure many of you would like to ask some questions, and so you could say that both ways.",
+      "cn": "我会说，我相信你们中的许多人想问一些问题，所以你可以这样说。"
+    },
+    {
+      "id": 43,
+      "en": "That's right, that's right.",
+      "cn": "没错，没错。"
+    },
+    {
+      "id": 44,
+      "en": "Okay, so many people want to ask questions, and Jonathan said, so I'd like to open it up to a Q&A session.",
+      "cn": "好的，很多人想问问题，Jonathan说，所以我想开启问答环节。"
+    },
+    {
+      "id": 45,
+      "en": "So this series of words here, to open it up to a Q&A session, what does that mean?",
+      "cn": "这句话“开启问答环节”是什么意思？"
+    },
+    {
+      "id": 46,
+      "en": "To open it up, it means the discussion.",
+      "cn": "开启它，意味着讨论。"
+    },
+    {
+      "id": 47,
+      "en": "So he would like to invite people to ask questions.",
+      "cn": "所以他想邀请人们提问。"
+    },
+    {
+      "id": 48,
+      "en": "So I'd like to open it up for questions, meaning I would like to give you guys the opportunity to ask.",
+      "cn": "所以我想给你们机会提问。"
+    },
+    {
+      "id": 49,
+      "en": "So to open up a discussion or to open up a conversation, right?",
+      "cn": "所以开启讨论或开启对话，对吗？"
+    },
+    {
+      "id": 50,
+      "en": "I would like to open this up to you guys.",
+      "cn": "我想把这个机会留给你们。"
+    },
+    {
+      "id": 51,
+      "en": "Okay, now one of the audience members asked about another company, which is their competitors, and said that they have a huge reputation and huge resources, this competitor.",
+      "cn": "好的，现在观众中的一位成员询问了关于另一家公司的问题，这是一家竞争对手，并说他们有很大的声誉和资源。"
+    },
+    {
+      "id": 52,
+      "en": "So what is this word, reputation?",
+      "cn": "那么这个词，声誉是什么意思？"
+    },
+    {
+      "id": 53,
+      "en": "Reputation is important.",
+      "cn": "声誉很重要。"
+    },
+    {
+      "id": 54,
+      "en": "A person can have a reputation, but a company can also have a reputation.",
+      "cn": "一个人可以有声誉，但公司也可以有声誉。"
+    },
+    {
+      "id": 55,
+      "en": "Now, reputation means the way that other people talk about you.",
+      "cn": "现在，声誉意味着其他人对你的看法。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so he has a good reputation means people say good things about him, right?",
+      "cn": "好的，他有良好的声誉意味着人们对他说好话，对吗？"
+    },
+    {
+      "id": 57,
+      "en": "Or the media, like newspapers and websites, they say good things about him.",
+      "cn": "或者媒体，比如报纸和网站，他们对他说好话。"
+    },
+    {
+      "id": 58,
+      "en": "But if you have a bad reputation, it means people are saying bad things about you.",
+      "cn": "但如果你有坏声誉，意味着人们在说坏话。"
+    },
+    {
+      "id": 59,
+      "en": "Right, okay.",
+      "cn": "对，好的。"
+    },
+    {
+      "id": 60,
+      "en": "So that pretty much sums it up, a reputation, what other people say about you or how other people see you.",
+      "cn": "所以这基本上总结了声誉，其他人对你说的或其他人如何看待你。"
+    },
+    {
+      "id": 61,
+      "en": "So maybe if a company like this has a huge reputation, it means that it's very well respected and people talk very good things and people talk well about this company.",
+      "cn": "所以如果像这样的公司有很大的声誉，意味着它受到很高的尊重，人们对这家公司说好话。"
+    },
+    {
+      "id": 62,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 63,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 64,
+      "en": "Now, another question came along and they wanted to know a little bit more about the technical details of this product that they are introducing.",
+      "cn": "现在，另一个问题来了，他们想知道更多关于他们正在介绍的产品的技术细节。"
+    },
+    {
+      "id": 65,
+      "en": "And Mr. Ford said that, you know what, right now, we don't really have time, but I'm going to leave all the technical specs on this PowerPoint presentation, and you can look at it later.",
+      "cn": "Ford先生说，你知道，现在我们真的没有时间，但我会把所有的技术规格留在这个PowerPoint演示文稿中，你可以稍后查看。"
+    },
+    {
+      "id": 66,
+      "en": "Okay, so specs.",
+      "cn": "好的，规格。"
+    },
+    {
+      "id": 67,
+      "en": "This is something you'll hear very, very often, especially in technical areas.",
+      "cn": "这是你在技术领域会经常听到的。"
+    },
+    {
+      "id": 68,
+      "en": "But it means specifications, right for details.",
+      "cn": "但它意味着规格，详细信息。"
+    },
+    {
+      "id": 69,
+      "en": "So maybe I have a computer, and it's I know it's an IBM computer, but I don't know the specs.",
+      "cn": "所以也许我有一台电脑，我知道它是IBM电脑，但我不知道规格。"
+    },
+    {
+      "id": 70,
+      "en": "I don't have the details.",
+      "cn": "我没有详细信息。"
+    },
+    {
+      "id": 71,
+      "en": "So that's something that that you would want to find out if you have a problem or you want to look into it more closely.",
+      "cn": "所以这是你想要了解的，如果你有问题或想更仔细地查看。"
+    },
+    {
+      "id": 72,
+      "en": "And so specs.",
+      "cn": "所以规格。"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "Okay, so these are the specs.",
+      "cn": "好的，这些是规格。"
+    },
+    {
+      "id": 75,
+      "en": "Now, why don't we take a break.",
+      "cn": "现在，我们休息一下。"
+    },
+    {
+      "id": 76,
+      "en": "Let's take a look at our dialogue again.",
+      "cn": "让我们再看看我们的对话。"
+    },
+    {
+      "id": 77,
+      "en": "And we'll be back in a bit.",
+      "cn": "我们马上回来。"
+    },
+    {
+      "id": 78,
+      "en": "Well, everyone, I'm sure you'd like to join me in thanking Michael for what was a really inspirational presentation.",
+      "cn": "好吧，大家，我相信你们都想和我一起感谢Michael，他的演讲真的很鼓舞人心。"
+    },
+    {
+      "id": 79,
+      "en": "Sincere, thanks, Michael.",
+      "cn": "真诚的感谢，Michael。"
+    },
+    {
+      "id": 80,
+      "en": "Now, I'm sure many of you will be keen to ask some questions.",
+      "cn": "现在，我相信你们中的许多人都想问一些问题。"
+    },
+    {
+      "id": 81,
+      "en": "So I'd like to open up a Q&A session.",
+      "cn": "所以我想开启问答环节。"
+    },
+    {
+      "id": 82,
+      "en": "Please raise your hand if you have any questions at all.",
+      "cn": "如果你有任何问题，请举手。"
+    },
+    {
+      "id": 83,
+      "en": "Yes, Janice, go ahead.",
+      "cn": "是的，Janice，请说。"
+    },
+    {
+      "id": 84,
+      "en": "Yes, thank you, Jonathan.",
+      "cn": "是的，谢谢你，Jonathan。"
+    },
+    {
+      "id": 85,
+      "en": "I would just like to go back to the comment Mr. Ford made in regards to our competitors, particularly orange.",
+      "cn": "我想回到Ford先生关于我们竞争对手，特别是Orange的评论。"
+    },
+    {
+      "id": 86,
+      "en": "Now, as you know, orange has established themselves as the market leader in the high end laptop market.",
+      "cn": "如你所知，Orange已经确立了他们在高端笔记本市场的市场领导地位。"
+    },
+    {
+      "id": 87,
+      "en": "How does Mr. Ford expect to compete with a company that has such a huge reputation and huge resources?",
+      "cn": "Ford先生如何期望与这样一个拥有巨大声誉和资源的公司竞争？"
+    },
+    {
+      "id": 88,
+      "en": "Well, Janice, first of all, thanks for a very good question.",
+      "cn": "好的，Janice，首先感谢你提出了一个很好的问题。"
+    },
+    {
+      "id": 89,
+      "en": "I think you have hit the nail on the head actually.",
+      "cn": "我认为你说得很对。"
+    },
+    {
+      "id": 90,
+      "en": "Orange are the global leaders precisely because of their size and power.",
+      "cn": "Orange之所以是全球领导者，正是因为他们的规模和实力。"
+    },
+    {
+      "id": 91,
+      "en": "But although we can't compete in terms of size, I do believe we hold an advantage in terms of dedication to customer service.",
+      "cn": "但尽管我们在规模上无法竞争，我相信我们在客户服务的专注上有优势。"
+    },
+    {
+      "id": 92,
+      "en": "Yes, I admit this is a David and Goliath battle, but don't forget who won that contest.",
+      "cn": "是的，我承认这是大卫与歌利亚的战斗，但别忘了谁赢得了那场比赛。"
+    },
+    {
+      "id": 93,
+      "en": "Mr. Ford, could you elaborate on actual technical details of the X420 a little more?",
+      "cn": "Ford先生，您能否详细说明一下X420的实际技术细节？"
+    },
+    {
+      "id": 94,
+      "en": "I'd love to, but I think we're a little pressed for time right now.",
+      "cn": "我很乐意，但我认为我们现在有点时间紧迫。"
+    },
+    {
+      "id": 95,
+      "en": "However, Jonathan is all the technical specs for you on the PowerPoint presentation, which you can look over in your own time.",
+      "cn": "不过，Jonathan，所有的技术规格都在PowerPoint演示文稿中，你可以在自己的时间查看。"
+    },
+    {
+      "id": 96,
+      "en": "Mr. Ford, one final question.",
+      "cn": "Ford先生，最后一个问题。"
+    },
+    {
+      "id": 97,
+      "en": "Would you like to join me for a game of golf this Sunday?",
+      "cn": "你想这个星期天和我一起打球吗？"
+    },
+    {
+      "id": 98,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 99,
+      "en": "So now let's take a look at some of those phrases on Fluency Builder.",
+      "cn": "现在让我们看看一些流利表达的短语。"
+    },
+    {
+      "id": 100,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 101,
+      "en": "The first phrase we have here is one that I really like and I use very often.",
+      "cn": "我们这里的第一个短语是我非常喜欢并且经常使用的。"
+    },
+    {
+      "id": 102,
+      "en": "It's, I think you have hit the nail on the head.",
+      "cn": "这是，我认为你说得很对。"
+    },
+    {
+      "id": 103,
+      "en": "That's right, to hit the nail on the head.",
+      "cn": "没错，击中要害。"
+    },
+    {
+      "id": 104,
+      "en": "So this is a very common phrase, which basically means I think you got it exactly right.",
+      "cn": "这是一个非常常见的短语，基本上意味着我认为你说得完全正确。"
+    },
+    {
+      "id": 105,
+      "en": "Okay, so think about a nail that you're hammering something.",
+      "cn": "好吧，想象一下你在锤钉子。"
+    },
+    {
+      "id": 106,
+      "en": "You have a hammer in your hand.",
+      "cn": "你手里拿着锤子。"
+    },
+    {
+      "id": 107,
+      "en": "It's very easy to miss, but boom, when you hit it, hit the nail on the head.",
+      "cn": "很容易打偏，但当你击中时，就是击中要害。"
+    },
+    {
+      "id": 108,
+      "en": "It means you have it exactly right.",
+      "cn": "这意味着你完全正确。"
+    },
+    {
+      "id": 109,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 110,
+      "en": "So this was actually a response to one of the questions because it was a very good question and it had a valid point.",
+      "cn": "这实际上是对一个问题的回应，因为这是一个非常好的问题，并且有一个有效的观点。"
+    },
+    {
+      "id": 111,
+      "en": "So this is why Mr. Ford said, you hit the nail on the head.",
+      "cn": "所以这就是福特先生说你击中要害的原因。"
+    },
+    {
+      "id": 112,
+      "en": "This is exactly right.",
+      "cn": "这完全正确。"
+    },
+    {
+      "id": 113,
+      "en": "I completely agree with you.",
+      "cn": "我完全同意你。"
+    },
+    {
+      "id": 114,
+      "en": "After that, though, we had this interesting phrase.",
+      "cn": "不过之后，我们有了这个有趣的短语。"
+    },
+    {
+      "id": 115,
+      "en": "He said, I admit this is a David and Goliath battle.",
+      "cn": "他说，我承认这是一个大卫与歌利亚的战斗。"
+    },
+    {
+      "id": 116,
+      "en": "Okay, so now this is obviously he's speaking metaphorically, right?",
+      "cn": "好吧，这显然是他在比喻地说，对吧？"
+    },
+    {
+      "id": 117,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 118,
+      "en": "So David and Goliath, that's actually a story that we often talk about.",
+      "cn": "所以大卫与歌利亚，实际上是一个我们经常谈论的故事。"
+    },
+    {
+      "id": 119,
+      "en": "It's a biblical story.",
+      "cn": "这是一个圣经故事。"
+    },
+    {
+      "id": 120,
+      "en": "So it comes from Christianity and David and Goliath fought, but David was very, very small and Goliath was a monster.",
+      "cn": "它来自基督教，大卫和歌利亚作战，但大卫非常非常小，而歌利亚是个怪物。"
+    },
+    {
+      "id": 121,
+      "en": "He was very, very huge.",
+      "cn": "他非常非常巨大。"
+    },
+    {
+      "id": 122,
+      "en": "And so everyone said, Goliath will win the fight, but David won the fight.",
+      "cn": "所以每个人都说，歌利亚会赢得战斗，但大卫赢了。"
+    },
+    {
+      "id": 123,
+      "en": "And so this is an example or a story that people often use when they say, listen, it may be the case that you think the big giants will win, but actually the small man or our small company will win.",
+      "cn": "这就是人们常用的一个例子或故事，当他们说，听着，你可能认为大巨人会赢，但实际上小人或我们的小公司会赢。"
+    },
+    {
+      "id": 124,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 125,
+      "en": "As you said, we many times make reference to this, even not in the biblical sense, but it's just the size.",
+      "cn": "正如你所说，我们很多时候提到这个，即使不是在圣经的意义上，而只是大小。"
+    },
+    {
+      "id": 126,
+      "en": "Maybe we're a small company, we're going to fight this big company.",
+      "cn": "也许我们是一家小公司，我们要与这家大公司竞争。"
+    },
+    {
+      "id": 127,
+      "en": "So we say it's a David and Goliath battle or even athletes, maybe two boxers.",
+      "cn": "所以我们说这是一个大卫与歌利亚的战斗，甚至运动员，可能是两个拳击手。"
+    },
+    {
+      "id": 128,
+      "en": "One is bigger than the other.",
+      "cn": "一个比另一个大。"
+    },
+    {
+      "id": 129,
+      "en": "So they'll say it's a David and Goliath boxing match.",
+      "cn": "所以他们会说这是一个大卫与歌利亚的拳击赛。"
+    },
+    {
+      "id": 130,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 131,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 132,
+      "en": "Now, when we got the questions about the technical details of the computer, Mr. Ford said that we are a little bit pressed for time right now.",
+      "cn": "现在，当我们收到关于计算机技术细节的问题时，福特先生说我们现在有点时间紧迫。"
+    },
+    {
+      "id": 133,
+      "en": "That's why we can't really answer that question.",
+      "cn": "这就是为什么我们不能真正回答那个问题。"
+    },
+    {
+      "id": 134,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 135,
+      "en": "And so to be pressed for time means that you don't have a lot of time.",
+      "cn": "所以时间紧迫意味着你没有很多时间。"
+    },
+    {
+      "id": 136,
+      "en": "You are in a rush.",
+      "cn": "你很匆忙。"
+    },
+    {
+      "id": 137,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 138,
+      "en": "So if you are pressed for time, you don't have too much time.",
+      "cn": "所以如果你时间紧迫，你没有太多时间。"
+    },
+    {
+      "id": 139,
+      "en": "You can't.",
+      "cn": "你不能。"
+    },
+    {
+      "id": 140,
+      "en": "You're in a hurry, basically.",
+      "cn": "你基本上很着急。"
+    },
+    {
+      "id": 141,
+      "en": "So I could say, hey, Marco, can you come here and look at this thing on my computer, please?",
+      "cn": "所以我可以说，嘿，马尔科，你能过来看看我电脑上的这个东西吗？"
+    },
+    {
+      "id": 142,
+      "en": "I'm sorry.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 143,
+      "en": "I'm a little bit pressed for time right now.",
+      "cn": "我现在有点时间紧迫。"
+    },
+    {
+      "id": 144,
+      "en": "Take a look at it in an hour.",
+      "cn": "一个小时后再看看。"
+    },
+    {
+      "id": 145,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 146,
+      "en": "So those are all of our phrases from Fluency Builder.",
+      "cn": "所以这些都是我们流利构建器中的短语。"
+    },
+    {
+      "id": 147,
+      "en": "Let's take another listen to our dialogue and we'll be right back.",
+      "cn": "让我们再听一遍我们的对话，我们马上回来。"
+    },
+    {
+      "id": 148,
+      "en": "Well, everyone, I'm sure you'd like to join me in thanking Michael for what was a really inspirational presentation.",
+      "cn": "好吧，大家，我相信你们都想和我一起感谢迈克尔，感谢他做了一个真正鼓舞人心的演讲。"
+    },
+    {
+      "id": 149,
+      "en": "Sincere thanks, Michael.",
+      "cn": "真诚的感谢，迈克尔。"
+    },
+    {
+      "id": 150,
+      "en": "Now, I'm sure many of you will be keen to ask some questions.",
+      "cn": "现在，我相信你们中的许多人都想问一些问题。"
+    },
+    {
+      "id": 151,
+      "en": "So I'd like to open up a Q and A session.",
+      "cn": "所以我想开启一个问答环节。"
+    },
+    {
+      "id": 152,
+      "en": "Please raise your hand if you have any questions at all.",
+      "cn": "如果你有任何问题，请举手。"
+    },
+    {
+      "id": 153,
+      "en": "Yes, Janice, go ahead.",
+      "cn": "是的，贾尼斯，请说。"
+    },
+    {
+      "id": 154,
+      "en": "Yes, thank you, Jonathan.",
+      "cn": "是的，谢谢你，乔纳森。"
+    },
+    {
+      "id": 155,
+      "en": "I would just like to go back to the comment Mr. Ford made in regards to our competitors, particularly Orange.",
+      "cn": "我想回到福特先生关于我们竞争对手，特别是橙色的评论。"
+    },
+    {
+      "id": 156,
+      "en": "Now, as you know, Orange has established themselves as the market leader in the high end laptop market.",
+      "cn": "现在，正如你所知，橙色已经确立了自己在高端笔记本市场的市场领导地位。"
+    },
+    {
+      "id": 157,
+      "en": "How does Mr. Ford expect to compete with a company that has such a huge reputation and huge resources?",
+      "cn": "福特先生如何期望与这样一个拥有巨大声誉和资源的公司竞争？"
+    },
+    {
+      "id": 158,
+      "en": "Well, Janice, first of all, thanks for a very good question.",
+      "cn": "好吧，贾尼斯，首先感谢你提出了一个非常好的问题。"
+    },
+    {
+      "id": 159,
+      "en": "I think you have hit the nail on the head actually.",
+      "cn": "我认为你说得很对。"
+    },
+    {
+      "id": 160,
+      "en": "Orange are the global leaders precisely because of their size and power.",
+      "cn": "橙色是全球领导者，正是因为他们的规模和实力。"
+    },
+    {
+      "id": 161,
+      "en": "But although we can't compete in terms of size, I do believe we hold an advantage in terms of dedication to customer service.",
+      "cn": "但尽管我们在规模上无法竞争，我确实相信我们在客户服务的奉献精神上占有优势。"
+    },
+    {
+      "id": 162,
+      "en": "Yes, I admit this is a David and Goliath battle, but don't forget who won that contest.",
+      "cn": "是的，我承认这是一个大卫与歌利亚的战斗，但不要忘记谁赢得了那场比赛。"
+    },
+    {
+      "id": 163,
+      "en": "Mr. Ford, could you elaborate on actual technical details of the X420 a little more?",
+      "cn": "福特先生，您能详细说明一下X420的实际技术细节吗？"
+    },
+    {
+      "id": 164,
+      "en": "I'd love to, but I think we're a little pressed for time right now.",
+      "cn": "我很乐意，但我认为我们现在有点时间紧迫。"
+    },
+    {
+      "id": 165,
+      "en": "However, Jonathan is all the technical specs for you on the PowerPoint presentation, which you can look over in your own time.",
+      "cn": "不过，乔纳森在PowerPoint演示中为您准备了所有技术规格，您可以在自己的时间查看。"
+    },
+    {
+      "id": 166,
+      "en": "Mr. Ford, one final question.",
+      "cn": "福特先生，最后一个问题。"
+    },
+    {
+      "id": 167,
+      "en": "Would you like to join me for a game of golf this Sunday?",
+      "cn": "你想这个星期天和我一起打高尔夫吗？"
+    },
+    {
+      "id": 168,
+      "en": "All right, so that was part 10 of our 10 part series about presentations, we took a look at many different aspects where you can take it as an example as we talked about computers and marketing.",
+      "cn": "好的，这就是我们关于演示的10部分系列的第10部分，我们看到了许多不同的方面，你可以把它作为我们谈论计算机和市场营销的例子。"
+    },
+    {
+      "id": 169,
+      "en": "But you can more or less have an idea of how a presentation should go and the type of vocab you can use.",
+      "cn": "但你可以大致了解演示应该如何进行以及可以使用的词汇类型。"
+    },
+    {
+      "id": 170,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 171,
+      "en": "And I think that this particular dialogue today was very, very useful because a lot of times you're going to have people asking you questions and filling in details.",
+      "cn": "我认为今天这个对话非常非常有用，因为很多时候你会有人问你问题并填补细节。"
+    },
+    {
+      "id": 172,
+      "en": "And so you can use some of these phrases to help explain exactly what your presentation was about when people do have questions.",
+      "cn": "所以你可以使用一些这些短语来帮助解释你的演示内容，当人们确实有问题时。"
+    },
+    {
+      "id": 173,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 174,
+      "en": "So we hope that you enjoyed this series.",
+      "cn": "所以我们希望你喜欢这个系列。"
+    },
+    {
+      "id": 175,
+      "en": "And we would like to hear from you if you have any other suggestions about a series of dialogues or a series of lessons that we can do.",
+      "cn": "如果你有任何其他关于对话系列或我们可以做的课程系列的建议，请告诉我们。"
+    },
+    {
+      "id": 176,
+      "en": "We had one about a job interview, all the steps and everything, how a job interview would go.",
+      "cn": "我们有一个关于求职面试的系列，所有步骤和一切，求职面试将如何进行。"
+    },
+    {
+      "id": 177,
+      "en": "We just had a series about presentations.",
+      "cn": "我们刚刚有一个关于演示的系列。"
+    },
+    {
+      "id": 178,
+      "en": "So maybe you can give us some feedback or some ideas of what you would like to learn.",
+      "cn": "所以也许你可以给我们一些反馈或你想学习的想法。"
+    },
+    {
+      "id": 179,
+      "en": "Let us know.",
+      "cn": "让我们知道。"
+    },
+    {
+      "id": 180,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是EnglishPod.com。"
+    },
+    {
+      "id": 181,
+      "en": "We'll see you there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 182,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 183,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

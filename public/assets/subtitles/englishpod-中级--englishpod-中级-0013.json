@@ -1,0 +1,1319 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0013",
+  "title": "EnglishPod 中级 0013",
+  "totalSegments": 262,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name's Erica.",
+      "cn": "我叫Erica。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Marco.",
+      "cn": "我是Marco。"
+    },
+    {
+      "id": 4,
+      "en": "So Marco, how are you doing today?",
+      "cn": "Marco，今天你怎么样？"
+    },
+    {
+      "id": 5,
+      "en": "I'm great.",
+      "cn": "我很好。"
+    },
+    {
+      "id": 6,
+      "en": "I'm really happy to be back, ready to deliver another great podcast for all our listeners.",
+      "cn": "我很高兴能回来，为我们的听众带来另一期精彩的播客。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "And we've got an intermediate lesson today about spending money.",
+      "cn": "今天我们有一节关于花钱的中级课程。"
+    },
+    {
+      "id": 9,
+      "en": "Yeah, specifically spending money in a company.",
+      "cn": "是的，特别是公司花钱。"
+    },
+    {
+      "id": 10,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 11,
+      "en": "We're going to be listening to a business meeting as a company describes how they're spending money.",
+      "cn": "我们将听一场商业会议，讨论公司如何花钱。"
+    },
+    {
+      "id": 12,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 13,
+      "en": "And they're actually looking at their profit and loss statement.",
+      "cn": "他们实际上在查看他们的损益表。"
+    },
+    {
+      "id": 14,
+      "en": "So that's kind of interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 15,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 16,
+      "en": "Well, Marco, can you tell us a little bit about a profit and loss statement?",
+      "cn": "Marco，你能告诉我们一点关于损益表的事吗？"
+    },
+    {
+      "id": 17,
+      "en": "Yeah, sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 18,
+      "en": "Well, all companies come out with a profit and loss statement every year or every three months.",
+      "cn": "所有公司每年或每三个月都会发布损益表。"
+    },
+    {
+      "id": 19,
+      "en": "And it's basically a document that shows all the money that the company is spending and all the money that the company is earning.",
+      "cn": "这基本上是一个文件，显示公司花费的所有钱和公司赚取的所有钱。"
+    },
+    {
+      "id": 20,
+      "en": "So it's a document that outlines how much money the company makes and how much it spends.",
+      "cn": "所以这是一个概述公司赚多少钱和花多少钱的文件。"
+    },
+    {
+      "id": 21,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 22,
+      "en": "So in the end, basically it'll tell you we're making money or we're losing money.",
+      "cn": "所以最后，它基本上会告诉你我们是在赚钱还是在亏钱。"
+    },
+    {
+      "id": 23,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 24,
+      "en": "So we're going to be listening to some people discuss a profit and loss statement in just a moment.",
+      "cn": "我们将听一些人讨论损益表，稍后就开始。"
+    },
+    {
+      "id": 25,
+      "en": "But before we do that, it's time for vocabulary preview.",
+      "cn": "但在此之前，是时候进行词汇预览了。"
+    },
+    {
+      "id": 26,
+      "en": "Okay, great.",
+      "cn": "好的，太好了。"
+    },
+    {
+      "id": 27,
+      "en": "So today on our vocabulary preview, we have two words for you.",
+      "cn": "今天我们的词汇预览有两个词。"
+    },
+    {
+      "id": 28,
+      "en": "So let's take a look at the first one.",
+      "cn": "让我们先看看第一个。"
+    },
+    {
+      "id": 29,
+      "en": "Expenses.",
+      "cn": "费用。"
+    },
+    {
+      "id": 30,
+      "en": "Expenses.",
+      "cn": "费用。"
+    },
+    {
+      "id": 31,
+      "en": "Expenses.",
+      "cn": "费用。"
+    },
+    {
+      "id": 32,
+      "en": "Expenses.",
+      "cn": "费用。"
+    },
+    {
+      "id": 33,
+      "en": "So expenses are things that you have to spend money on regularly.",
+      "cn": "费用是你必须定期花钱的东西。"
+    },
+    {
+      "id": 34,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 35,
+      "en": "So for example, in a company, regular company expenses are salaries or office supplies or the phone bills, Internet bills.",
+      "cn": "例如，在公司中，常规的公司费用包括工资、办公用品、电话费和互联网费。"
+    },
+    {
+      "id": 36,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 37,
+      "en": "And maybe in a household or a family, your expenses might be your food, perhaps your transportation or your rent or your heating bill.",
+      "cn": "在家庭中，你的费用可能是食物、交通、租金或取暖费。"
+    },
+    {
+      "id": 38,
+      "en": "So these are all things you spend money on regularly.",
+      "cn": "所以这些都是你定期花钱的东西。"
+    },
+    {
+      "id": 39,
+      "en": "They're expenses.",
+      "cn": "它们是费用。"
+    },
+    {
+      "id": 40,
+      "en": "Expenses.",
+      "cn": "费用。"
+    },
+    {
+      "id": 41,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 42,
+      "en": "Let's take a look at our second word.",
+      "cn": "让我们看看第二个词。"
+    },
+    {
+      "id": 43,
+      "en": "Through the roof.",
+      "cn": "屋顶上。"
+    },
+    {
+      "id": 44,
+      "en": "Through the roof.",
+      "cn": "屋顶上。"
+    },
+    {
+      "id": 45,
+      "en": "Through the roof.",
+      "cn": "屋顶上。"
+    },
+    {
+      "id": 46,
+      "en": "Through the roof.",
+      "cn": "屋顶上。"
+    },
+    {
+      "id": 47,
+      "en": "So when something is through the roof, it's really, really, really, really high.",
+      "cn": "当某事“屋顶上”时，它真的非常非常高。"
+    },
+    {
+      "id": 48,
+      "en": "Really high.",
+      "cn": "非常高。"
+    },
+    {
+      "id": 49,
+      "en": "So for example, we can talk about gas prices are through the roof lately.",
+      "cn": "例如，我们可以说最近油价“屋顶上”了。"
+    },
+    {
+      "id": 50,
+      "en": "Yeah, that's totally true.",
+      "cn": "是的，完全正确。"
+    },
+    {
+      "id": 51,
+      "en": "Gas prices have gone really high in the past couple of months.",
+      "cn": "过去几个月油价真的涨得很高。"
+    },
+    {
+      "id": 52,
+      "en": "So when we talk about through the roof, it means that the number is really high.",
+      "cn": "所以当我们说“屋顶上”时，意味着数字真的很高。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "We typically use this word with numbers.",
+      "cn": "我们通常用这个词来形容数字。"
+    },
+    {
+      "id": 55,
+      "en": "It also gives you the idea that the number has risen really quickly.",
+      "cn": "这也给你一种数字迅速上升的感觉。"
+    },
+    {
+      "id": 56,
+      "en": "Yeah, exactly.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 57,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 58,
+      "en": "So through the roof.",
+      "cn": "所以“屋顶上”。"
+    },
+    {
+      "id": 59,
+      "en": "Through the roof.",
+      "cn": "屋顶上。"
+    },
+    {
+      "id": 60,
+      "en": "All right, Marco, do you think it's time for the dialogue?",
+      "cn": "好吧，Marco，你觉得是时候进行对话了吗？"
+    },
+    {
+      "id": 61,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 62,
+      "en": "Let's listen to the dialogue.",
+      "cn": "让我们听听对话。"
+    },
+    {
+      "id": 63,
+      "en": "As always, the first dialogue is going to be a little bit fast, so it might be a little bit difficult.",
+      "cn": "和往常一样，第一个对话会有点快，所以可能会有点困难。"
+    },
+    {
+      "id": 64,
+      "en": "But don't worry if you don't understand everything because we will explain all of the key language in a minute.",
+      "cn": "但如果你不理解所有内容也不用担心，因为我们会在一分钟内解释所有关键语言。"
+    },
+    {
+      "id": 65,
+      "en": "Okay, so now the last point on our agenda.",
+      "cn": "好的，现在我们议程上的最后一点。"
+    },
+    {
+      "id": 66,
+      "en": "Jill, let's go over the profit and loss statement.",
+      "cn": "Jill，让我们看看损益表。"
+    },
+    {
+      "id": 67,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 68,
+      "en": "Well, the main issue here, as you can see, is that our expenses are through the roof.",
+      "cn": "嗯，主要问题是，你可以看到我们的费用“屋顶上”了。"
+    },
+    {
+      "id": 69,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 70,
+      "en": "These numbers are off the charts.",
+      "cn": "这些数字超出了图表。"
+    },
+    {
+      "id": 71,
+      "en": "What's going on here?",
+      "cn": "这里发生了什么？"
+    },
+    {
+      "id": 72,
+      "en": "Well, um, sir, the company expenditures on entertainment and travel are out of control.",
+      "cn": "嗯，先生，公司在娱乐和旅行上的支出失控了。"
+    },
+    {
+      "id": 73,
+      "en": "Look at these bills, for example.",
+      "cn": "看看这些账单，例如。"
+    },
+    {
+      "id": 74,
+      "en": "Just this month, we've paid over $20,000 for hotel charges.",
+      "cn": "仅这个月，我们支付了超过20,000美元的酒店费用。"
+    },
+    {
+      "id": 75,
+      "en": "Oh, okay.",
+      "cn": "哦，好的。"
+    },
+    {
+      "id": 76,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 77,
+      "en": "I'll look into it.",
+      "cn": "我会调查的。"
+    },
+    {
+      "id": 78,
+      "en": "The list goes on and on.",
+      "cn": "列表还在继续。"
+    },
+    {
+      "id": 79,
+      "en": "Here, this is a bill for $5,000 for spa treatments.",
+      "cn": "这是一个5,000美元的水疗费用账单。"
+    },
+    {
+      "id": 80,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 81,
+      "en": "That will be all.",
+      "cn": "这就够了。"
+    },
+    {
+      "id": 82,
+      "en": "I'll take care of it.",
+      "cn": "我会处理的。"
+    },
+    {
+      "id": 83,
+      "en": "Look at this one, sir.",
+      "cn": "看看这个，先生。"
+    },
+    {
+      "id": 84,
+      "en": "$8,000 were expensed in one night at a place called Wild Thing.",
+      "cn": "在一个叫Wild Thing的地方，一晚花费了8,000美元。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, I get it.",
+      "cn": "好的，我明白了。"
+    },
+    {
+      "id": 86,
+      "en": "Thank you for your very thorough analysis.",
+      "cn": "谢谢你非常详细的分析。"
+    },
+    {
+      "id": 87,
+      "en": "Okay, so this accountant, she's pretty thorough, hey?",
+      "cn": "好的，这位会计师，她很细致，是吧？"
+    },
+    {
+      "id": 88,
+      "en": "She's really persistent about her job, and the manager apparently is a little bit embarrassed.",
+      "cn": "她对她的工作非常执着，而经理显然有点尴尬。"
+    },
+    {
+      "id": 89,
+      "en": "Hmm, I wonder why that could be.",
+      "cn": "嗯，我想知道这可能是什么原因。"
+    },
+    {
+      "id": 90,
+      "en": "Well, we'll talk about that in a little while.",
+      "cn": "嗯，我们稍后会讨论这个。"
+    },
+    {
+      "id": 91,
+      "en": "Why don't we take a look at our language takeaway for today.",
+      "cn": "我们来看看今天的语言要点。"
+    },
+    {
+      "id": 92,
+      "en": "In today's language takeaway, we're going to look at three words.",
+      "cn": "在今天的语言要点中，我们将看三个词。"
+    },
+    {
+      "id": 93,
+      "en": "And the first word is expenditures.",
+      "cn": "第一个词是支出。"
+    },
+    {
+      "id": 94,
+      "en": "Expenditures.",
+      "cn": "支出。"
+    },
+    {
+      "id": 95,
+      "en": "Expenditures.",
+      "cn": "支出。"
+    },
+    {
+      "id": 96,
+      "en": "Expenditures.",
+      "cn": "支出。"
+    },
+    {
+      "id": 97,
+      "en": "So, expenditures sounds pretty close to expenses, right?",
+      "cn": "所以，支出听起来和费用很相似，对吧？"
+    },
+    {
+      "id": 98,
+      "en": "It's pretty similar, but it has a little bit of a difference.",
+      "cn": "它们很相似，但有一点不同。"
+    },
+    {
+      "id": 99,
+      "en": "So, why don't we listen to some examples and see if we can understand.",
+      "cn": "那么，我们来听一些例子，看看我们能否理解。"
+    },
+    {
+      "id": 100,
+      "en": "We really need to control our travel expenditures.",
+      "cn": "我们真的需要控制我们的旅行支出。"
+    },
+    {
+      "id": 101,
+      "en": "From now on, all managers will fly economy class.",
+      "cn": "从现在开始，所有经理将乘坐经济舱。"
+    },
+    {
+      "id": 102,
+      "en": "Because of the rise in oil prices, expenditures on food are higher than they have ever been.",
+      "cn": "由于油价上涨，食品支出比以往任何时候都高。"
+    },
+    {
+      "id": 103,
+      "en": "So, expenditures is the total amount of money that you're spending on something.",
+      "cn": "所以，支出是你在某件事情上花费的总金额。"
+    },
+    {
+      "id": 104,
+      "en": "Right, that's the total amount of money versus expenses is the things that you spend money on.",
+      "cn": "对，支出是总金额，而费用是你花钱的东西。"
+    },
+    {
+      "id": 105,
+      "en": "Okay, that's really clear.",
+      "cn": "好的，这很清楚。"
+    },
+    {
+      "id": 106,
+      "en": "Our next word is out of control.",
+      "cn": "我们下一个词是失控。"
+    },
+    {
+      "id": 107,
+      "en": "Out of control.",
+      "cn": "失控。"
+    },
+    {
+      "id": 108,
+      "en": "Out of control.",
+      "cn": "失控。"
+    },
+    {
+      "id": 109,
+      "en": "So, when something is out of control, it's... It's crazy.",
+      "cn": "所以，当某事失控时，它是... 是疯狂的。"
+    },
+    {
+      "id": 110,
+      "en": "Crazy, you can't control it.",
+      "cn": "疯狂，你无法控制它。"
+    },
+    {
+      "id": 111,
+      "en": "Exactly, you can't stop it.",
+      "cn": "正是如此，你无法停止它。"
+    },
+    {
+      "id": 112,
+      "en": "You can't stop it.",
+      "cn": "你无法停止它。"
+    },
+    {
+      "id": 113,
+      "en": "Out of control.",
+      "cn": "失控。"
+    },
+    {
+      "id": 114,
+      "en": "Okay, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 115,
+      "en": "Now, let's take a look at our last word for today.",
+      "cn": "现在，让我们看看今天的最后一个词。"
+    },
+    {
+      "id": 116,
+      "en": "Go over.",
+      "cn": "复习。"
+    },
+    {
+      "id": 117,
+      "en": "Go over.",
+      "cn": "复习。"
+    },
+    {
+      "id": 118,
+      "en": "Go over.",
+      "cn": "复习。"
+    },
+    {
+      "id": 119,
+      "en": "Go over.",
+      "cn": "复习。"
+    },
+    {
+      "id": 120,
+      "en": "So, go over is a pretty simple word.",
+      "cn": "所以，复习是一个相当简单的词。"
+    },
+    {
+      "id": 121,
+      "en": "Why don't we listen to some examples so we can understand go over.",
+      "cn": "我们为什么不听一些例子，以便理解复习。"
+    },
+    {
+      "id": 122,
+      "en": "Can you help me go over my presentation?",
+      "cn": "你能帮我复习我的演示文稿吗？"
+    },
+    {
+      "id": 123,
+      "en": "I want to make sure it's perfect.",
+      "cn": "我想确保它是完美的。"
+    },
+    {
+      "id": 124,
+      "en": "Let's go over these numbers one more time and make sure there are no mistakes.",
+      "cn": "让我们再复习一遍这些数字，确保没有错误。"
+    },
+    {
+      "id": 125,
+      "en": "Yeah, this is a really common word and it basically means look at carefully.",
+      "cn": "是的，这是一个非常常见的词，基本上意味着仔细查看。"
+    },
+    {
+      "id": 126,
+      "en": "Yeah, or review.",
+      "cn": "是的，或者复习。"
+    },
+    {
+      "id": 127,
+      "en": "In English, we often find simple little words, they fit together really well.",
+      "cn": "在英语中，我们经常发现简单的小词，它们组合得很好。"
+    },
+    {
+      "id": 128,
+      "en": "And you think, oh, they're so easy, like the word go, over, so easy.",
+      "cn": "你会想，哦，它们太简单了，比如词汇复习，太简单了。"
+    },
+    {
+      "id": 129,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 130,
+      "en": "But it's the way that they interact with each other that makes them...",
+      "cn": "但它们相互之间的互动使得它们..."
+    },
+    {
+      "id": 131,
+      "en": "Or it makes you sound much better.",
+      "cn": "或者让你听起来更好。"
+    },
+    {
+      "id": 132,
+      "en": "Exactly, so go over in this case.",
+      "cn": "正是如此，所以在这种情况下复习。"
+    },
+    {
+      "id": 133,
+      "en": "We might say, let's go over the lesson.",
+      "cn": "我们可能会说，让我们复习一下课程。"
+    },
+    {
+      "id": 134,
+      "en": "Let's go over the lesson.",
+      "cn": "让我们复习一下课程。"
+    },
+    {
+      "id": 135,
+      "en": "Yeah, that sounds great.",
+      "cn": "是的，听起来不错。"
+    },
+    {
+      "id": 136,
+      "en": "Yeah, and that's a more natural way of saying something like that.",
+      "cn": "是的，这是一种更自然的表达方式。"
+    },
+    {
+      "id": 137,
+      "en": "Okay, so we've taken a look at our language takeaways for today.",
+      "cn": "好的，所以我们今天已经看过了我们的语言要点。"
+    },
+    {
+      "id": 138,
+      "en": "I think it's time to listen to the dialogue one more time.",
+      "cn": "我想是时候再听一遍对话了。"
+    },
+    {
+      "id": 139,
+      "en": "And this time, the dialogue will be slower so we can understand and listen to all the words we just talked about.",
+      "cn": "这次，对话会慢一些，以便我们理解并听到我们刚刚讨论的所有单词。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, so now, the last point on our agenda.",
+      "cn": "好的，现在，议程上的最后一点。"
+    },
+    {
+      "id": 141,
+      "en": "Jill, let's go over the profit and loss statement.",
+      "cn": "Jill，让我们复习一下损益表。"
+    },
+    {
+      "id": 142,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 143,
+      "en": "Well, the main issue here, as you can see, is that our expenses are through the roof.",
+      "cn": "嗯，主要问题是，你可以看到，我们的支出高得离谱。"
+    },
+    {
+      "id": 144,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 145,
+      "en": "These numbers are off the charts.",
+      "cn": "这些数字超出了正常范围。"
+    },
+    {
+      "id": 146,
+      "en": "What's going on here?",
+      "cn": "这里发生了什么？"
+    },
+    {
+      "id": 147,
+      "en": "Well, um, sir, the company expenditures on entertainment and travel are out of control.",
+      "cn": "嗯，先生，公司在娱乐和旅行上的支出失控了。"
+    },
+    {
+      "id": 148,
+      "en": "Look at these bills, for example.",
+      "cn": "看看这些账单，例如。"
+    },
+    {
+      "id": 149,
+      "en": "Just this month, we've paid over $20,000 for hotel charges.",
+      "cn": "就在这个月，我们支付了超过20,000美元的酒店费用。"
+    },
+    {
+      "id": 150,
+      "en": "Okay, thank you.",
+      "cn": "好的，谢谢。"
+    },
+    {
+      "id": 151,
+      "en": "I'll look into it.",
+      "cn": "我会调查的。"
+    },
+    {
+      "id": 152,
+      "en": "The list goes on and on.",
+      "cn": "列表还在继续。"
+    },
+    {
+      "id": 153,
+      "en": "Here, this is a bill for $5,000 for spa treatments.",
+      "cn": "这里，这是一个5,000美元的水疗费用账单。"
+    },
+    {
+      "id": 154,
+      "en": "Thank you, that will be all.",
+      "cn": "谢谢，这就够了。"
+    },
+    {
+      "id": 155,
+      "en": "I'll take care of it.",
+      "cn": "我会处理的。"
+    },
+    {
+      "id": 156,
+      "en": "Look at this one, sir.",
+      "cn": "看看这个，先生。"
+    },
+    {
+      "id": 157,
+      "en": "$8,000 were expensed in one night at a place called Wild Things.",
+      "cn": "在一个叫Wild Things的地方，一晚花费了8,000美元。"
+    },
+    {
+      "id": 158,
+      "en": "Okay, I get it.",
+      "cn": "好的，我明白了。"
+    },
+    {
+      "id": 159,
+      "en": "Thank you for your very thorough analysis.",
+      "cn": "谢谢你非常详细的分析。"
+    },
+    {
+      "id": 160,
+      "en": "Okay, so I got it.",
+      "cn": "好的，我明白了。"
+    },
+    {
+      "id": 161,
+      "en": "Yeah, it's clear now.",
+      "cn": "是的，现在很清楚。"
+    },
+    {
+      "id": 162,
+      "en": "Yeah, and you know, I heard a lot of really great phrases in this dialogue that I'd like to look at now in Fluency Builder.",
+      "cn": "是的，你知道，我在这个对话中听到了很多很好的短语，我想现在在流利度提升中看看。"
+    },
+    {
+      "id": 163,
+      "en": "Great, so today on Fluency Builder we have three words for you.",
+      "cn": "很好，所以今天在流利度提升中我们有三个词。"
+    },
+    {
+      "id": 164,
+      "en": "Let's start by looking at the first one.",
+      "cn": "让我们先看看第一个。"
+    },
+    {
+      "id": 165,
+      "en": "Off the charts.",
+      "cn": "超出正常范围。"
+    },
+    {
+      "id": 166,
+      "en": "Off the charts.",
+      "cn": "超出正常范围。"
+    },
+    {
+      "id": 167,
+      "en": "Off the charts.",
+      "cn": "超出正常范围。"
+    },
+    {
+      "id": 168,
+      "en": "Off the charts.",
+      "cn": "超出正常范围。"
+    },
+    {
+      "id": 169,
+      "en": "So this word is very similar to through the roof.",
+      "cn": "所以这个词与高得离谱非常相似。"
+    },
+    {
+      "id": 170,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 171,
+      "en": "It also means really high.",
+      "cn": "它也意味着非常高。"
+    },
+    {
+      "id": 172,
+      "en": "Right, so let's listen to some examples of how we can use off the charts in a different situation.",
+      "cn": "对，所以让我们听一些例子，看看如何在不同情况下使用超出正常范围。"
+    },
+    {
+      "id": 173,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 174,
+      "en": "Oil prices have gone up and our costs are off the charts.",
+      "cn": "油价上涨，我们的成本超出正常范围。"
+    },
+    {
+      "id": 175,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 176,
+      "en": "Excellent job, Susan.",
+      "cn": "干得好，Susan。"
+    },
+    {
+      "id": 177,
+      "en": "Your sales are off the charts this year.",
+      "cn": "你今年的销售额超出正常范围。"
+    },
+    {
+      "id": 178,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 179,
+      "en": "Our losses are off the charts.",
+      "cn": "我们的损失超出正常范围。"
+    },
+    {
+      "id": 180,
+      "en": "That's it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 181,
+      "en": "No bonuses for anyone.",
+      "cn": "没有任何人的奖金。"
+    },
+    {
+      "id": 182,
+      "en": "So Marco, do you think I can change off the charts for through the roof in these examples?",
+      "cn": "所以Marco，你认为我可以在这些例子中把超出正常范围换成高得离谱吗？"
+    },
+    {
+      "id": 183,
+      "en": "Yeah, you can.",
+      "cn": "是的，可以。"
+    },
+    {
+      "id": 184,
+      "en": "Definitely.",
+      "cn": "绝对可以。"
+    },
+    {
+      "id": 185,
+      "en": "You can use off the charts or through the roof.",
+      "cn": "你可以使用超出正常范围或高得离谱。"
+    },
+    {
+      "id": 186,
+      "en": "Both of them mean the same thing.",
+      "cn": "它们的意思是一样的。"
+    },
+    {
+      "id": 187,
+      "en": "Okay, so two ways of saying really really really high.",
+      "cn": "好的，所以有两种说法表示非常非常高。"
+    },
+    {
+      "id": 188,
+      "en": "Really high.",
+      "cn": "非常高。"
+    },
+    {
+      "id": 189,
+      "en": "But they're very commonly used in a business setting.",
+      "cn": "但它们在商业环境中非常常用。"
+    },
+    {
+      "id": 190,
+      "en": "Yeah, that's true.",
+      "cn": "是的，确实如此。"
+    },
+    {
+      "id": 191,
+      "en": "Okay, so this next word is a phrase that you can use if you want to tell somebody that you'll check something or you'll investigate something.",
+      "cn": "好的，所以下一个词是一个短语，如果你想告诉某人你会检查或调查某事，可以使用。"
+    },
+    {
+      "id": 192,
+      "en": "Right, and we heard it in our dialogue, so let's listen to the clip.",
+      "cn": "对，我们在对话中听到了它，所以让我们听一下片段。"
+    },
+    {
+      "id": 193,
+      "en": "I'll look into it.",
+      "cn": "我会调查的。"
+    },
+    {
+      "id": 194,
+      "en": "I'll look into it.",
+      "cn": "我会调查的。"
+    },
+    {
+      "id": 195,
+      "en": "So look into that.",
+      "cn": "所以调查一下。"
+    },
+    {
+      "id": 196,
+      "en": "That means I'll check something.",
+      "cn": "这意味着我会检查某事。"
+    },
+    {
+      "id": 197,
+      "en": "Yeah, I'll see what's happening.",
+      "cn": "是的，我会看看发生了什么。"
+    },
+    {
+      "id": 198,
+      "en": "Yeah, does it mean you're going to take action?",
+      "cn": "是的，这是否意味着你会采取行动？"
+    },
+    {
+      "id": 199,
+      "en": "No, it doesn't.",
+      "cn": "不，这并不意味着。"
+    },
+    {
+      "id": 200,
+      "en": "Okay, so I think we've got another word that does mean you're going to take action.",
+      "cn": "好的，所以我想我们还有另一个词确实意味着你会采取行动。"
+    },
+    {
+      "id": 201,
+      "en": "I'll take care of it.",
+      "cn": "我会处理它。"
+    },
+    {
+      "id": 202,
+      "en": "I'll take care of it.",
+      "cn": "我会处理它。"
+    },
+    {
+      "id": 203,
+      "en": "So this word means that you're going to do something about it.",
+      "cn": "所以这个词意味着你会对此采取行动。"
+    },
+    {
+      "id": 204,
+      "en": "I'll take care of it.",
+      "cn": "我会处理它。"
+    },
+    {
+      "id": 205,
+      "en": "I will take responsibility.",
+      "cn": "我会承担责任。"
+    },
+    {
+      "id": 206,
+      "en": "Exactly, so I will do something about it.",
+      "cn": "正是，所以我会对此采取行动。"
+    },
+    {
+      "id": 207,
+      "en": "I will investigate and I'll do it.",
+      "cn": "我会调查并且我会做到。"
+    },
+    {
+      "id": 208,
+      "en": "Yeah, again, two great phrases.",
+      "cn": "是的，再一次，两个很好的短语。"
+    },
+    {
+      "id": 209,
+      "en": "I'll look into it.",
+      "cn": "我会调查一下。"
+    },
+    {
+      "id": 210,
+      "en": "I'll take care of it.",
+      "cn": "我会处理它。"
+    },
+    {
+      "id": 211,
+      "en": "Okay, so now let's listen to the dialogue a third time.",
+      "cn": "好吧，现在让我们第三次听对话。"
+    },
+    {
+      "id": 212,
+      "en": "It's going to be at its normal speed, but now you have all the tools you need to understand it a lot better.",
+      "cn": "这将以正常速度进行，但现在你有了所有理解它的工具。"
+    },
+    {
+      "id": 213,
+      "en": "Okay, so now the last point on our agenda.",
+      "cn": "好吧，现在是我们议程上的最后一点。"
+    },
+    {
+      "id": 214,
+      "en": "Jill, let's go over the profit and loss statement.",
+      "cn": "Jill，让我们看看损益表。"
+    },
+    {
+      "id": 215,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 216,
+      "en": "Well, the main issue here, as you can see, is that our expenses are through the roof.",
+      "cn": "嗯，主要问题是，你可以看到，我们的开支高得离谱。"
+    },
+    {
+      "id": 217,
+      "en": "Let's see.",
+      "cn": "让我们看看。"
+    },
+    {
+      "id": 218,
+      "en": "These numbers are off the charts.",
+      "cn": "这些数字超出了正常范围。"
+    },
+    {
+      "id": 219,
+      "en": "What's going on here?",
+      "cn": "这里发生了什么？"
+    },
+    {
+      "id": 220,
+      "en": "Well, um, sir, the company expenditures on entertainment and travel are out of control.",
+      "cn": "嗯，先生，公司在娱乐和旅行上的开支失控了。"
+    },
+    {
+      "id": 221,
+      "en": "Look at these bills, for example.",
+      "cn": "看看这些账单，例如。"
+    },
+    {
+      "id": 222,
+      "en": "Just this month, we've paid over $20,000 for hotel charges.",
+      "cn": "仅这个月，我们在酒店费用上花了超过20,000美元。"
+    },
+    {
+      "id": 223,
+      "en": "Oh, okay.",
+      "cn": "哦，好吧。"
+    },
+    {
+      "id": 224,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 225,
+      "en": "I'll look into it.",
+      "cn": "我会调查一下。"
+    },
+    {
+      "id": 226,
+      "en": "The list goes on and on.",
+      "cn": "列表还在继续。"
+    },
+    {
+      "id": 227,
+      "en": "Here, this is a bill for $5,000 for spa treatments.",
+      "cn": "这里，这是一个5,000美元的水疗费用账单。"
+    },
+    {
+      "id": 228,
+      "en": "Thank you.",
+      "cn": "谢谢。"
+    },
+    {
+      "id": 229,
+      "en": "That will be all.",
+      "cn": "这就够了。"
+    },
+    {
+      "id": 230,
+      "en": "I'll take care of it.",
+      "cn": "我会处理它。"
+    },
+    {
+      "id": 231,
+      "en": "Look at this one, sir.",
+      "cn": "看看这个，先生。"
+    },
+    {
+      "id": 232,
+      "en": "$8,000 were expensed in one night at a place called Wild Things.",
+      "cn": "在一个叫Wild Things的地方，一晚花费了8,000美元。"
+    },
+    {
+      "id": 233,
+      "en": "Okay, I get it.",
+      "cn": "好吧，我明白了。"
+    },
+    {
+      "id": 234,
+      "en": "Thank you for your very thorough analysis.",
+      "cn": "谢谢你非常详细的分析。"
+    },
+    {
+      "id": 235,
+      "en": "Well, Marco, I guess one of the benefits of being an executive in a company, especially a large company, is you get a lot of amazing benefits.",
+      "cn": "嗯，Marco，我想在公司，尤其是大公司当高管的好处之一是你会得到很多惊人的福利。"
+    },
+    {
+      "id": 236,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 237,
+      "en": "When you are a manager or a CEO of one of these big companies, you get a lot of great things like, I don't know, a private jet, maybe.",
+      "cn": "当你是这些大公司的经理或首席执行官时，你会得到很多很好的东西，比如，我不知道，私人飞机，也许。"
+    },
+    {
+      "id": 238,
+      "en": "Well, that's nice.",
+      "cn": "嗯，那很好。"
+    },
+    {
+      "id": 239,
+      "en": "Or the company often pays for your house or for your car.",
+      "cn": "或者公司通常会为你的房子或车子买单。"
+    },
+    {
+      "id": 240,
+      "en": "They'll give you a company car.",
+      "cn": "他们会给你一辆公司车。"
+    },
+    {
+      "id": 241,
+      "en": "They'll pay for your kids' or your children's tuition for high school.",
+      "cn": "他们会支付你孩子的高中学费。"
+    },
+    {
+      "id": 242,
+      "en": "So there are school fees.",
+      "cn": "所以有学费。"
+    },
+    {
+      "id": 243,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 244,
+      "en": "And also, I've heard about entertainment bonuses.",
+      "cn": "而且，我听说过娱乐奖金。"
+    },
+    {
+      "id": 245,
+      "en": "Yeah, so you can go out to a restaurant, get the receipt, and claim the expenses at work.",
+      "cn": "是的，所以你可以去餐厅，拿到收据，然后在工作中报销。"
+    },
+    {
+      "id": 246,
+      "en": "Those are some great benefits, right?",
+      "cn": "这些都是很好的福利，对吧？"
+    },
+    {
+      "id": 247,
+      "en": "So, Marco, I'm curious to know what our listeners' expenses are.",
+      "cn": "所以，Marco，我很好奇我们的听众的开支是什么。"
+    },
+    {
+      "id": 248,
+      "en": "Yes, we definitely want to know what crazy expenses you have.",
+      "cn": "是的，我们绝对想知道你们有什么疯狂的开支。"
+    },
+    {
+      "id": 249,
+      "en": "For example...",
+      "cn": "例如..."
+    },
+    {
+      "id": 250,
+      "en": "Well, let's see.",
+      "cn": "嗯，让我们看看。"
+    },
+    {
+      "id": 251,
+      "en": "My spending on Coke Zero has gone through the roof since we started this podcast.",
+      "cn": "自从我们开始这个播客以来，我在可乐零上的开支高得离谱。"
+    },
+    {
+      "id": 252,
+      "en": "Yes, you spend a lot of money on Coke Zeros every week, right?",
+      "cn": "是的，你每周在可乐零上花很多钱，对吧？"
+    },
+    {
+      "id": 253,
+      "en": "Yeah, I probably have about, I don't know, ten a week.",
+      "cn": "是的，我每周大约喝十瓶。"
+    },
+    {
+      "id": 254,
+      "en": "Well, for example, I spend a lot on DVDs each week.",
+      "cn": "嗯，例如，我每周在DVD上花很多钱。"
+    },
+    {
+      "id": 255,
+      "en": "I usually buy two or three movies.",
+      "cn": "我通常买两到三部电影。"
+    },
+    {
+      "id": 256,
+      "en": "That is off the charts.",
+      "cn": "这真是离谱。"
+    },
+    {
+      "id": 257,
+      "en": "That is off the charts for DVD spending.",
+      "cn": "这在DVD开支上真是离谱。"
+    },
+    {
+      "id": 258,
+      "en": "So we want to know what you spend your money on.",
+      "cn": "所以我们想知道你们把钱花在了什么上。"
+    },
+    {
+      "id": 259,
+      "en": "Be sure to go into our community website and tell us what you spend money on.",
+      "cn": "一定要进入我们的社区网站，告诉我们你们花钱的地方。"
+    },
+    {
+      "id": 260,
+      "en": "That's right, you can find us at EnglishPod.com.",
+      "cn": "没错，你可以在EnglishPod.com找到我们。"
+    },
+    {
+      "id": 261,
+      "en": "And Marco and I are always there to respond to your questions and comments.",
+      "cn": "Marco和我总是在那里回答你们的问题和评论。"
+    },
+    {
+      "id": 262,
+      "en": "Great, so we'll see you there, and until then, it's goodbye.",
+      "cn": "很好，所以我们在那里见，直到那时，再见。"
+    }
+  ]
+}

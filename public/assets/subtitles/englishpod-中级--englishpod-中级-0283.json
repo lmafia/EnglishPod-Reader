@@ -1,0 +1,914 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0283",
+  "title": "EnglishPod 中级 0283",
+  "totalSegments": 181,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And as you've noticed on our website, we have a number of lessons about giving a presentation in English.",
+      "cn": "正如你们在我们的网站上看到的，我们有许多关于用英语做演讲的课程。"
+    },
+    {
+      "id": 5,
+      "en": "So this is one of those lessons.",
+      "cn": "所以这是其中一节课。"
+    },
+    {
+      "id": 6,
+      "en": "Today, we're talking about avoiding questions.",
+      "cn": "今天，我们要讨论如何避免提问。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "Today, in part five of our presentation series, we're going to try and handle some questions or avoid questions, as Catherine said.",
+      "cn": "今天，在我们演讲系列的第五部分，我们将尝试处理一些问题或避免提问，正如Catherine所说。"
+    },
+    {
+      "id": 9,
+      "en": "So why don't we jump into the dialogue.",
+      "cn": "那我们就开始对话吧。"
+    },
+    {
+      "id": 10,
+      "en": "Let's see what Mr. Ford is talking about now.",
+      "cn": "让我们看看Ford先生现在在谈论什么。"
+    },
+    {
+      "id": 11,
+      "en": "And we'll be back in a bit.",
+      "cn": "我们稍后会回来。"
+    },
+    {
+      "id": 12,
+      "en": "Now as we've already discussed, there's a huge untapped market out there, both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+      "cn": "正如我们已经讨论过的，那里有一个巨大的未开发市场，无论是在亚洲、其他发展中市场，还是在更成熟的市场中。"
+    },
+    {
+      "id": 13,
+      "en": "Now of course, this represents an enormous challenge with enormous rewards for the winners.",
+      "cn": "当然，这对赢家来说是一个巨大的挑战和丰厚的回报。"
+    },
+    {
+      "id": 14,
+      "en": "But for any new product, we need a great marketing message and marketing campaign.",
+      "cn": "但对于任何新产品，我们需要一个出色的营销信息和营销活动。"
+    },
+    {
+      "id": 15,
+      "en": "It needs to be directed and focused at our target consumer, and needs to be pitched at exactly the right level.",
+      "cn": "它需要针对我们的目标消费者，并且需要以恰当的水平进行推销。"
+    },
+    {
+      "id": 16,
+      "en": "The question we must first address is, of course, who is our target consumer?",
+      "cn": "我们首先需要解决的问题是，当然，我们的目标消费者是谁？"
+    },
+    {
+      "id": 17,
+      "en": "And secondly, what do they expect from the next generation Alpha laptop?",
+      "cn": "其次，他们对下一代Alpha笔记本电脑有什么期待？"
+    },
+    {
+      "id": 18,
+      "en": "Let's first of all tackle the first question.",
+      "cn": "首先让我们解决第一个问题。"
+    },
+    {
+      "id": 19,
+      "en": "Our target consumer for the X420 is the middle class, white collar worker with an above average income.",
+      "cn": "我们的X420目标消费者是中产阶级的白领工人，收入高于平均水平。"
+    },
+    {
+      "id": 20,
+      "en": "However, as we mentioned before, the total number of computer owners is expanding rapidly, and we need to broaden our audience for this product.",
+      "cn": "然而，正如我们之前提到的，电脑拥有者的总数正在迅速增长，我们需要扩大这个产品的受众。"
+    },
+    {
+      "id": 21,
+      "en": "For example, the X420 is also ideally suited to the younger student sector, who might use laptops both for studying and gaming.",
+      "cn": "例如，X420也非常适合年轻学生群体，他们可能会将笔记本电脑用于学习和游戏。"
+    },
+    {
+      "id": 22,
+      "en": "There's no doubt that... Mr. Ford, if I could just interrupt a moment.",
+      "cn": "毫无疑问…… Ford先生，如果我可以打断一下。"
+    },
+    {
+      "id": 23,
+      "en": "You say that the computer is suitable for students, but you don't think the price of the X420 is just too much for most students?",
+      "cn": "您说这款电脑适合学生，但您不认为X420的价格对大多数学生来说太高了吗？"
+    },
+    {
+      "id": 24,
+      "en": "Well, that's a fair point.",
+      "cn": "嗯，这是个合理的观点。"
+    },
+    {
+      "id": 25,
+      "en": "If you don't mind, I'd like to tackle your question a little bit later in the Q&A section.",
+      "cn": "如果您不介意，我想在问答环节稍后再回答您的问题。"
+    },
+    {
+      "id": 26,
+      "en": "Is that okay?",
+      "cn": "可以吗？"
+    },
+    {
+      "id": 27,
+      "en": "Yes, sure.",
+      "cn": "是的，当然可以。"
+    },
+    {
+      "id": 28,
+      "en": "Okay, so as I was saying, we have an exciting campaign planned for the X420.",
+      "cn": "好的，正如我所说，我们为X420计划了一场激动人心的活动。"
+    },
+    {
+      "id": 29,
+      "en": "Firstly, we'll have a nationwide television campaign, as well as advertising on radio, and also in many computer publications.",
+      "cn": "首先，我们将进行全国性的电视广告活动，以及在广播和许多电脑出版物上的广告。"
+    },
+    {
+      "id": 30,
+      "en": "We also intend to... I'm sorry to stop you, Mr. Ford, but do you really think that a television campaign is cost-effective?",
+      "cn": "我们还打算…… 对不起，Ford先生，但您真的认为电视广告是划算的吗？"
+    },
+    {
+      "id": 31,
+      "en": "I mean, how much is that going to cost?",
+      "cn": "我是说，这将花费多少？"
+    },
+    {
+      "id": 32,
+      "en": "Well, I don't have the figures to hand, but I'd be happy to discuss those figures with you after the presentation.",
+      "cn": "嗯，我手头没有具体数字，但我很乐意在演讲后与您讨论这些数字。"
+    },
+    {
+      "id": 33,
+      "en": "Okay, let me just go on and talk a little more about the exciting campaign we have in store.",
+      "cn": "好的，让我继续谈谈我们计划中的激动人心的活动。"
+    },
+    {
+      "id": 34,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 35,
+      "en": "And now we can get started with Language Takeaway.",
+      "cn": "现在我们可以开始语言要点。"
+    },
+    {
+      "id": 36,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 37,
+      "en": "Okay, so Marco, a lot of the conversation today was about markets and a target consumer.",
+      "cn": "好的，Marco，今天的对话很多是关于市场和目标消费者的。"
+    },
+    {
+      "id": 38,
+      "en": "So perhaps we should start talking a little bit about who Mr. Ford thinks this company's consumers are.",
+      "cn": "所以也许我们应该开始谈谈Ford先生认为这家公司的消费者是谁。"
+    },
+    {
+      "id": 39,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 40,
+      "en": "He mentioned that the Alpha laptop could also be aimed at the middle class.",
+      "cn": "他提到Alpha笔记本电脑也可以面向中产阶级。"
+    },
+    {
+      "id": 41,
+      "en": "We have different classes in society, especially in America, where we talk about people who are low income.",
+      "cn": "我们在社会中有不同的阶层，尤其是在美国，我们谈论低收入人群。"
+    },
+    {
+      "id": 42,
+      "en": "They don't make very much money.",
+      "cn": "他们的收入不高。"
+    },
+    {
+      "id": 43,
+      "en": "Or people who make a lot of money.",
+      "cn": "或者是收入很高的人。"
+    },
+    {
+      "id": 44,
+      "en": "They're rich.",
+      "cn": "他们很富有。"
+    },
+    {
+      "id": 45,
+      "en": "They're on top.",
+      "cn": "他们处于顶层。"
+    },
+    {
+      "id": 46,
+      "en": "That's the high class.",
+      "cn": "这就是上层阶级。"
+    },
+    {
+      "id": 47,
+      "en": "Yeah, high class.",
+      "cn": "是的，上层阶级。"
+    },
+    {
+      "id": 48,
+      "en": "But in the middle, we have the middle class.",
+      "cn": "但在中间，我们有中产阶级。"
+    },
+    {
+      "id": 49,
+      "en": "And this is just average people.",
+      "cn": "这就是普通人。"
+    },
+    {
+      "id": 50,
+      "en": "They make money.",
+      "cn": "他们有收入。"
+    },
+    {
+      "id": 51,
+      "en": "They have a car.",
+      "cn": "他们有车。"
+    },
+    {
+      "id": 52,
+      "en": "They're not rich, but they're not poor.",
+      "cn": "他们不是富人，但也不是穷人。"
+    },
+    {
+      "id": 53,
+      "en": "Okay, so they're in the middle.",
+      "cn": "好的，所以他们处于中间。"
+    },
+    {
+      "id": 54,
+      "en": "So this is the middle class.",
+      "cn": "这就是中产阶级。"
+    },
+    {
+      "id": 55,
+      "en": "The computer is aimed at the middle class market, but he said that it's middle class white collar worker.",
+      "cn": "这款电脑是针对中产阶级市场的，但他说它是中产阶级的白领工人。"
+    },
+    {
+      "id": 56,
+      "en": "Okay, so I know this phrase exists in many other languages, but a white collar worker in English refers to the color of the shirt that you wear.",
+      "cn": "好的，我知道这个短语在许多其他语言中存在，但英语中的白领工人指的是你穿的衬衫的颜色。"
+    },
+    {
+      "id": 57,
+      "en": "So white collar workers usually work in offices.",
+      "cn": "所以白领工人通常在办公室工作。"
+    },
+    {
+      "id": 58,
+      "en": "So because they're usually wearing suits.",
+      "cn": "因为他们通常穿西装。"
+    },
+    {
+      "id": 59,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 60,
+      "en": "They have to wear nice clothes, like suits and button-down shirts.",
+      "cn": "他们必须穿得体的衣服，比如西装和扣领衬衫。"
+    },
+    {
+      "id": 61,
+      "en": "But we sometimes also talk about blue collar workers.",
+      "cn": "但我们有时也谈论蓝领工人。"
+    },
+    {
+      "id": 62,
+      "en": "Who are these guys?",
+      "cn": "他们是谁？"
+    },
+    {
+      "id": 63,
+      "en": "Blue collar workers are usually people that are in trades.",
+      "cn": "蓝领工人通常是从事体力劳动的人。"
+    },
+    {
+      "id": 64,
+      "en": "Like, for example, a mechanic or a plumber, because usually you see them wearing those blue shirts.",
+      "cn": "比如说，机械师或水管工，因为你通常看到他们穿着蓝色衬衫。"
+    },
+    {
+      "id": 65,
+      "en": "Yeah, uniforms.",
+      "cn": "是的，制服。"
+    },
+    {
+      "id": 66,
+      "en": "They're usually people who work with their hands or who are not likely to work in a big office.",
+      "cn": "他们通常是用手工作的人，或者不太可能在大办公室工作的人。"
+    },
+    {
+      "id": 67,
+      "en": "So usually maybe these people are not middle class.",
+      "cn": "所以通常这些人可能不是中产阶级。"
+    },
+    {
+      "id": 68,
+      "en": "Maybe they are lower class.",
+      "cn": "他们可能是下层阶级。"
+    },
+    {
+      "id": 69,
+      "en": "They can be both.",
+      "cn": "他们可以是两者。"
+    },
+    {
+      "id": 70,
+      "en": "In America right now, I think you can make quite a bit of money if you're a plumber or a construction worker.",
+      "cn": "在美国，现在我认为如果你是水管工或建筑工人，你可以赚很多钱。"
+    },
+    {
+      "id": 71,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 72,
+      "en": "But he also mentioned middle class white collar worker with an above average income.",
+      "cn": "但他也提到中产阶级的白领工人，收入高于平均水平。"
+    },
+    {
+      "id": 73,
+      "en": "Okay, so an income is the amount of money that a person earns, usually in a year.",
+      "cn": "好的，所以收入是一个人通常一年赚的钱。"
+    },
+    {
+      "id": 74,
+      "en": "So we say $30,000 a year.",
+      "cn": "所以我们说每年$30,000。"
+    },
+    {
+      "id": 75,
+      "en": "That's your annual income.",
+      "cn": "这就是你的年收入。"
+    },
+    {
+      "id": 76,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 77,
+      "en": "So when we talk about something that's average, that means it's normal.",
+      "cn": "所以当我们谈论平均时，这意味着它是正常的。"
+    },
+    {
+      "id": 78,
+      "en": "But in this case, we're not talking about something that's average.",
+      "cn": "但在这种情况下，我们不是在谈论平均水平。"
+    },
+    {
+      "id": 79,
+      "en": "What are we talking about?",
+      "cn": "我们在谈论什么？"
+    },
+    {
+      "id": 80,
+      "en": "It's above average.",
+      "cn": "是高于平均水平。"
+    },
+    {
+      "id": 81,
+      "en": "Above average.",
+      "cn": "高于平均水平。"
+    },
+    {
+      "id": 82,
+      "en": "So if the average income of a person in America is $36,000 a year, an above average income is $70,000 a year or $65,000 a year.",
+      "cn": "所以如果美国人的平均收入是每年$36,000，高于平均收入是每年$70,000或$65,000。"
+    },
+    {
+      "id": 83,
+      "en": "But for the middle class, maybe that's different.",
+      "cn": "但对于中产阶级来说，也许情况不同。"
+    },
+    {
+      "id": 84,
+      "en": "So in the middle class, an average annual income is $70,000.",
+      "cn": "所以在中产阶级中，平均年收入是$70,000。"
+    },
+    {
+      "id": 85,
+      "en": "An above average income in the middle class is $120,000 a year.",
+      "cn": "中产阶级的高于平均收入是每年$120,000。"
+    },
+    {
+      "id": 86,
+      "en": "So the phrase there, above average, you're just referring to something that's more than the normal.",
+      "cn": "所以这里的短语，高于平均水平，指的是超过正常的东西。"
+    },
+    {
+      "id": 87,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 88,
+      "en": "So in this case, more than the normal income for a middle class worker, you can also say below average.",
+      "cn": "所以在这种情况下，中产阶级工人的正常收入也可以说是低于平均水平。"
+    },
+    {
+      "id": 89,
+      "en": "So a below average income is lower than most people earn.",
+      "cn": "所以低于平均收入是低于大多数人赚的钱。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 91,
+      "en": "And while continuing on talking about markets and the demographics, who we're selling the computer to, we also talked about our target consumer.",
+      "cn": "在继续谈论市场和人口统计，谁是我们销售电脑的对象时，我们也谈到了我们的目标消费者。"
+    },
+    {
+      "id": 92,
+      "en": "Oh, this is something that you often hear in meetings at work or in marketing departments.",
+      "cn": "哦，这在工作会议或市场部门中经常听到。"
+    },
+    {
+      "id": 93,
+      "en": "A target is something you aim for.",
+      "cn": "目标是你瞄准的东西。"
+    },
+    {
+      "id": 94,
+      "en": "It's something you want to hit or achieve.",
+      "cn": "它是你想要达到或实现的东西。"
+    },
+    {
+      "id": 95,
+      "en": "And so a target consumer is the buyer, is a customer that you aim to have.",
+      "cn": "所以目标消费者是你希望拥有的买家，是你想要的客户。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so maybe you have some customers that they're students, and you have some customers that they're very old, but your target consumer, the people that you really want to reach out to, in this case, the middle class white collar worker.",
+      "cn": "好的，所以也许你有一些客户是学生，还有一些客户是非常老的人，但你的目标消费者，真正想要接触的人，在这种情况下，就是中产阶级的白领工人。"
+    },
+    {
+      "id": 97,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 98,
+      "en": "So in the case of our dialogue, our target consumer is a middle class white collar worker, for example.",
+      "cn": "所以在我们对话的情况下，我们的目标消费者是中产阶级的白领工人，例如。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, so a lot of marketing stuff here, talking about the computer and what Mr. Ford was saying.",
+      "cn": "好的，所以这里有很多关于电脑和Ford先生所说的营销内容。"
+    },
+    {
+      "id": 100,
+      "en": "Let's take a pause.",
+      "cn": "让我们暂停一下。"
+    },
+    {
+      "id": 101,
+      "en": "Let's listen to the dialogue again, and we'll be back with some phrases on how to defer questions.",
+      "cn": "让我们再听一遍对话，然后我们会回来讨论一些如何推迟问题的短语。"
+    },
+    {
+      "id": 102,
+      "en": "Now, as we've already discussed, there's a huge untapped market out there, both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+      "cn": "现在，正如我们已经讨论过的，那里有一个巨大的未开发市场，无论是在亚洲、其他发展中市场，还是在我们可以进入的更成熟市场。"
+    },
+    {
+      "id": 103,
+      "en": "Now, of course, this represents an enormous challenge with enormous rewards for the winners.",
+      "cn": "当然，这代表着巨大的挑战和巨大的回报给赢家。"
+    },
+    {
+      "id": 104,
+      "en": "But for any new product, we need a great marketing message and marketing campaign.",
+      "cn": "但对于任何新产品，我们需要一个出色的营销信息和营销活动。"
+    },
+    {
+      "id": 105,
+      "en": "It needs to be directed and focused at our target consumer, and needs to be pitched at exactly the right level.",
+      "cn": "它需要针对我们的目标消费者，并且需要在恰当的水平上进行推销。"
+    },
+    {
+      "id": 106,
+      "en": "The question we must first address is, of course, who is our target consumer?",
+      "cn": "我们首先必须解决的问题是，当然，我们的目标消费者是谁？"
+    },
+    {
+      "id": 107,
+      "en": "And secondly, what do they expect from the next generation Alpha laptop?",
+      "cn": "其次，他们对下一代Alpha笔记本电脑有什么期望？"
+    },
+    {
+      "id": 108,
+      "en": "Let's first of all tackle the first question.",
+      "cn": "首先让我们解决第一个问题。"
+    },
+    {
+      "id": 109,
+      "en": "Our target consumer for the X420 is the middle class white collar worker with an above average income.",
+      "cn": "我们X420的目标消费者是收入高于平均水平的中产阶级白领工人。"
+    },
+    {
+      "id": 110,
+      "en": "However, as we mentioned before, the total number of computer owners is expanding rapidly, and we need to broaden our audience for this product.",
+      "cn": "然而，正如我们之前提到的，计算机拥有者的总数正在迅速增长，我们需要扩大这个产品的受众。"
+    },
+    {
+      "id": 111,
+      "en": "For example, the X420 is also ideally suited to the younger student sector, who might use laptops both for studying and gaming.",
+      "cn": "例如，X420也非常适合年轻学生群体，他们可能会将笔记本电脑用于学习和游戏。"
+    },
+    {
+      "id": 112,
+      "en": "There's no doubt that... Mr. Ford, if I could just interrupt a moment.",
+      "cn": "毫无疑问……福特先生，如果我可以打断一下。"
+    },
+    {
+      "id": 113,
+      "en": "You say that the computer is suitable for students, but you don't think the price of the X420 is just too much for most students?",
+      "cn": "你说这台计算机适合学生，但你不认为X420的价格对大多数学生来说太高了吗？"
+    },
+    {
+      "id": 114,
+      "en": "Well, that's a fair point.",
+      "cn": "嗯，这是个合理的观点。"
+    },
+    {
+      "id": 115,
+      "en": "If you don't mind, I'd like to tackle your question a little bit later in the Q&A section.",
+      "cn": "如果你不介意，我想在问答环节稍后再回答你的问题。"
+    },
+    {
+      "id": 116,
+      "en": "Is that okay?",
+      "cn": "可以吗？"
+    },
+    {
+      "id": 117,
+      "en": "Yes, sure.",
+      "cn": "是的，当然可以。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, so as I was saying, we have an exciting campaign planned for the X420.",
+      "cn": "好的，正如我所说的，我们为X420计划了一场激动人心的活动。"
+    },
+    {
+      "id": 119,
+      "en": "Firstly, we'll have a nationwide television campaign, as well as advertising on radio, and also in many computer publications.",
+      "cn": "首先，我们将进行全国性的电视广告活动，以及在广播和许多计算机出版物上的广告。"
+    },
+    {
+      "id": 120,
+      "en": "We also intend to... I'm sorry to stop you, Mr. Ford, but do you really think that a television campaign is cost-effective?",
+      "cn": "我们还打算……抱歉打断你，福特先生，但你真的认为电视广告活动是划算的吗？"
+    },
+    {
+      "id": 121,
+      "en": "I mean, how much is that going to cost?",
+      "cn": "我是说，这将花费多少？"
+    },
+    {
+      "id": 122,
+      "en": "Well, I don't have the figures to hand, but I'd be happy to discuss those figures with you after the presentation.",
+      "cn": "嗯，我手头没有具体数字，但我很乐意在演示后和你讨论这些数字。"
+    },
+    {
+      "id": 123,
+      "en": "Okay, let me just go on to talk a little more about the exciting campaign we have in store.",
+      "cn": "好的，让我继续谈谈我们计划中的激动人心的活动。"
+    },
+    {
+      "id": 124,
+      "en": "All right, we're back, so now let's take a look at those phrases that we mentioned on Fluency Builder.",
+      "cn": "好的，我们回来了，现在让我们看看我们在流利度提升中提到的那些短语。"
+    },
+    {
+      "id": 125,
+      "en": "Fluency Builder So, Margo, there was a phrase that I heard twice in today's dialogue that I think we should talk about.",
+      "cn": "流利度提升 所以，玛戈，我在今天的对话中听到一个短语两次，我认为我们应该谈谈。"
+    },
+    {
+      "id": 126,
+      "en": "The verb is to tackle, so we heard to tackle a question.",
+      "cn": "动词是 tackle，所以我们听到 tackle 一个问题。"
+    },
+    {
+      "id": 127,
+      "en": "Right, so when Mr. Ford says, I'll tackle that question a little bit later on, he's talking about, I'll answer the question, or I'll talk about that question later on.",
+      "cn": "对，所以当福特先生说，我稍后会 tackle 那个问题时，他是在说，我会回答那个问题，或者我稍后会谈论那个问题。"
+    },
+    {
+      "id": 128,
+      "en": "All right, but in this word, to tackle, there's something kind of physical about it, because, you know, in football, we say that when someone tries to hit the ball from someone else, it's a slide tackle, and so to tackle a question means to really jump into it and try and solve it, and it's, you know, maybe not an easy question, so I'm going to tackle that later.",
+      "cn": "好的，但在这个词 tackle 中，有点物理的感觉，因为你知道，在足球中，我们说当某人试图从别人那里抢球时，这是一个滑铲，所以 tackle 一个问题意味着真正跳进去并尝试解决它，而且，这可能不是一个简单的问题，所以我稍后会 tackle 那个。"
+    },
+    {
+      "id": 129,
+      "en": "I'm going to tackle a challenge.",
+      "cn": "我要 tackle 一个挑战。"
+    },
+    {
+      "id": 130,
+      "en": "It's more than just to solve a problem or to answer a question.",
+      "cn": "这不仅仅是解决一个问题或回答一个问题。"
+    },
+    {
+      "id": 131,
+      "en": "So maybe you can also tackle a project, a difficult project.",
+      "cn": "所以你也许可以 tackle 一个项目，一个困难的项目。"
+    },
+    {
+      "id": 132,
+      "en": "That's right, so you know what?",
+      "cn": "没错，所以你知道吗？"
+    },
+    {
+      "id": 133,
+      "en": "I'm going to give us two weeks to tackle this project, because it's a very difficult one.",
+      "cn": "我会给我们两周的时间来 tackle 这个项目，因为这是一个非常困难的项目。"
+    },
+    {
+      "id": 134,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 135,
+      "en": "And, well, actually, when he was getting some questions from the audience members specifically, because he was kind of being interrupted, he was very polite about it, and to kind of defer the question, he said, you know what, that's a fair point, but I'll tackle that question later on.",
+      "cn": "而且，实际上，当他从观众那里得到一些问题时，因为他有点被打断，他对此非常礼貌，为了推迟问题，他说，你知道，这是个合理的观点，但我稍后会 tackle 那个问题。"
+    },
+    {
+      "id": 136,
+      "en": "Okay, and so this is a really great phrase if you want to flatter someone, make them feel good before you tell them that you're not going to answer their question.",
+      "cn": "好的，所以这是一个非常好的短语，如果你想让某人感到受宠若惊，在告诉他们你不会回答他们的问题之前让他们感觉良好。"
+    },
+    {
+      "id": 137,
+      "en": "Or maybe you disagree with someone.",
+      "cn": "或者也许你不同意某人。"
+    },
+    {
+      "id": 138,
+      "en": "So I could say, you know what, Marco?",
+      "cn": "所以我可以说，你知道吗，马尔科？"
+    },
+    {
+      "id": 139,
+      "en": "Chocolate cake is the only cake in the entire world that people should eat.",
+      "cn": "巧克力蛋糕是全世界唯一应该吃的蛋糕。"
+    },
+    {
+      "id": 140,
+      "en": "Okay, and I could say something like that's a fair point, but in my opinion, vanilla cake is better.",
+      "cn": "好的，我可以说类似于这是个合理的观点，但在我看来，香草蛋糕更好。"
+    },
+    {
+      "id": 141,
+      "en": "All right, so see what Marco did?",
+      "cn": "好的，所以看看马尔科做了什么？"
+    },
+    {
+      "id": 142,
+      "en": "He made me feel good.",
+      "cn": "他让我感觉良好。"
+    },
+    {
+      "id": 143,
+      "en": "He said, you know, fair point.",
+      "cn": "他说，你知道，合理的观点。"
+    },
+    {
+      "id": 144,
+      "en": "That's a good idea, but I disagree.",
+      "cn": "这是个好主意，但我不同意。"
+    },
+    {
+      "id": 145,
+      "en": "Or but, you know, in the case of today's dialogue, but we'll talk about that later.",
+      "cn": "或者，但在今天的对话中，但我们稍后会谈论这个。"
+    },
+    {
+      "id": 146,
+      "en": "Right, and actually he did another smart thing or in the way that he used his language skills here.",
+      "cn": "对，实际上他做了另一件聪明的事情，或者在他使用语言技能的方式上。"
+    },
+    {
+      "id": 147,
+      "en": "When he was interrupted again, he said, hey, you know what, I'd be happy to answer your questions at a later time or in the Q&A session.",
+      "cn": "当他再次被打断时，他说，嘿，你知道吗，我很乐意在稍后的时间或在问答环节回答你的问题。"
+    },
+    {
+      "id": 148,
+      "en": "Okay, so this phrase, I'd be happy to.",
+      "cn": "好的，所以这个短语，我很乐意。"
+    },
+    {
+      "id": 149,
+      "en": "I'd be happy to talk about that at a later time, but right now I'm trying to explain something else.",
+      "cn": "我很乐意在稍后的时间谈论这个，但现在我正在尝试解释其他事情。"
+    },
+    {
+      "id": 150,
+      "en": "Exactly, so these are two really, really key phrases for trying to, in a nice way, change the topic or change the conversation.",
+      "cn": "确切地说，这些都是非常关键的短语，用于以友好的方式改变话题或改变对话。"
+    },
+    {
+      "id": 151,
+      "en": "So yeah, I guess you can say, yeah, I'd be happy to talk about that later on, or I'll tackle that question in a little bit, or that's a fair point, but we'll talk about it later on.",
+      "cn": "所以是的，我想你可以说，是的，我很乐意稍后谈论这个，或者我稍后会 tackle 那个问题，或者这是个合理的观点，但我们稍后会谈论它。"
+    },
+    {
+      "id": 152,
+      "en": "Okay, so a lot of great language there.",
+      "cn": "好的，所以有很多很好的语言。"
+    },
+    {
+      "id": 153,
+      "en": "Why don't we take a last listen to our dialogue and review everything we've just learned.",
+      "cn": "我们为什么不最后再听一遍我们的对话，复习一下我们刚刚学到的所有内容。"
+    },
+    {
+      "id": 154,
+      "en": "Now, as we've already discussed, there's a huge untapped market out there, both in Asia, in other developing markets, and in the more mature markets for us to push into.",
+      "cn": "现在，正如我们已经讨论过的，那里有一个巨大的未开发市场，无论是在亚洲、其他发展中市场，还是在我们可以进入的更成熟市场。"
+    },
+    {
+      "id": 155,
+      "en": "Now, of course, this represents an enormous challenge with enormous rewards for the winners, but for any new product, we need a great marketing message and marketing campaign.",
+      "cn": "当然，这代表着巨大的挑战和巨大的回报给赢家，但对于任何新产品，我们需要一个出色的营销信息和营销活动。"
+    },
+    {
+      "id": 156,
+      "en": "It needs to be directed and focused at our target consumer and needs to be pitched at exactly the right level.",
+      "cn": "它需要针对我们的目标消费者，并且需要在恰当的水平上进行推销。"
+    },
+    {
+      "id": 157,
+      "en": "The question we must first address is, of course, who is our target consumer?",
+      "cn": "我们首先必须解决的问题是，当然，我们的目标消费者是谁？"
+    },
+    {
+      "id": 158,
+      "en": "And secondly, what do they expect from the next generation Alpha laptop?",
+      "cn": "其次，他们对下一代Alpha笔记本电脑有什么期望？"
+    },
+    {
+      "id": 159,
+      "en": "Let's first of all tackle the first question.",
+      "cn": "首先让我们解决第一个问题。"
+    },
+    {
+      "id": 160,
+      "en": "Our target consumer for the X420 is the middle class white collar worker with an above average income.",
+      "cn": "我们X420的目标消费者是收入高于平均水平的中产阶级白领工人。"
+    },
+    {
+      "id": 161,
+      "en": "However, as we mentioned before, the total number of computer owners is expanding rapidly, and we need to broaden our audience for this product.",
+      "cn": "然而，正如我们之前提到的，计算机拥有者的总数正在迅速增长，我们需要扩大这个产品的受众。"
+    },
+    {
+      "id": 162,
+      "en": "For example, the X420 is also ideally suited to the younger student sector, who might use laptops both for studying and gaming.",
+      "cn": "例如，X420也非常适合年轻学生群体，他们可能会将笔记本电脑用于学习和游戏。"
+    },
+    {
+      "id": 163,
+      "en": "There's no doubt that... Mr. Ford, if I could just interrupt a moment.",
+      "cn": "毫无疑问……福特先生，如果我可以打断一下。"
+    },
+    {
+      "id": 164,
+      "en": "You say that the computer is suitable for students, but you don't think the price of the X420 is just too much for most students?",
+      "cn": "你说这台计算机适合学生，但你不认为X420的价格对大多数学生来说太高了吗？"
+    },
+    {
+      "id": 165,
+      "en": "Well, that's a fair point.",
+      "cn": "嗯，这是个合理的观点。"
+    },
+    {
+      "id": 166,
+      "en": "If you don't mind, I'd like to tackle your question a little bit later in the Q&A section.",
+      "cn": "如果你不介意，我想在问答环节稍后再回答你的问题。"
+    },
+    {
+      "id": 167,
+      "en": "Is that okay?",
+      "cn": "可以吗？"
+    },
+    {
+      "id": 168,
+      "en": "Yes, sure.",
+      "cn": "是的，当然可以。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, so as I was saying, we have an exciting campaign planned for the X420.",
+      "cn": "好的，正如我所说的，我们为X420计划了一场激动人心的活动。"
+    },
+    {
+      "id": 170,
+      "en": "Firstly, we'll have a nationwide television campaign as well as advertising on radio, and also in many computer publications.",
+      "cn": "首先，我们将进行全国性的电视广告活动，以及在广播和许多计算机出版物上的广告。"
+    },
+    {
+      "id": 171,
+      "en": "We also intend to... I'm sorry to stop you, Mr. Ford, but do you really think that a television campaign is cost-effective?",
+      "cn": "我们还打算……抱歉打断你，福特先生，但你真的认为电视广告活动是划算的吗？"
+    },
+    {
+      "id": 172,
+      "en": "I mean, how much is that going to cost?",
+      "cn": "我是说，这将花费多少？"
+    },
+    {
+      "id": 173,
+      "en": "Well, I don't have the figures to hand, but I'd be happy to discuss those figures with you after the presentation.",
+      "cn": "嗯，我手头没有具体数字，但我很乐意在演示后和你讨论这些数字。"
+    },
+    {
+      "id": 174,
+      "en": "Okay, let me just go on to talk a little more about the exciting campaign we have in store.",
+      "cn": "好的，让我继续谈谈我们计划中的激动人心的活动。"
+    },
+    {
+      "id": 175,
+      "en": "All right, so this was part five of our presentation series, we're halfway done with it, and so far we've seen a lot of interesting things, and as you notice, it's an intermediate lesson, so it is a little bit more challenging and a little bit longer than your previous lessons.",
+      "cn": "好的，这就是我们演示系列的第五部分，我们已经完成了一半，到目前为止我们看到很多有趣的事情，正如你注意到的，这是一个中级课程，所以比你之前的课程稍微具有挑战性和稍微长一些。"
+    },
+    {
+      "id": 176,
+      "en": "That's right, these are longer, and some of the phrases that you've learned, these words are very difficult, but as a reminder, some of the words repeat.",
+      "cn": "没错，这些课程更长，你学到的一些短语，这些词非常困难，但作为提醒，有些词是重复的。"
+    },
+    {
+      "id": 177,
+      "en": "So for example, in today's dialogue, we heard a lot about developing markets and campaigns, but we also heard about these last week in episode four, so, you know, if you're confused or you want some extra practice, I would recommend listening to some of the older lessons again just to review,",
+      "cn": "例如，在今天的对话中，我们听到了很多关于发展中市场和活动的内容，但我们在第四集也听到了这些，所以，如果你感到困惑或想要额外的练习，我建议你再听一些旧课程以复习，"
+    },
+    {
+      "id": 178,
+      "en": "because you're going to hear a lot of these words and phrases over and over again.",
+      "cn": "因为你会一次又一次地听到很多这些词和短语。"
+    },
+    {
+      "id": 179,
+      "en": "That's right, and of course, if you have any questions about this or any suggestions, you can also come to our website, EnglishPod.com, where we'll see everyone there.",
+      "cn": "没错，当然，如果你对这个或任何建议有任何问题，你也可以访问我们的网站，EnglishPod.com，我们会在那里见到大家。"
+    },
+    {
+      "id": 180,
+      "en": "That's right, so until next week, bye everyone.",
+      "cn": "没错，所以直到下周，大家再见。"
+    },
+    {
+      "id": 181,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

@@ -1,0 +1,1219 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0208",
+  "title": "EnglishPod 中高级 0208",
+  "totalSegments": 242,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Katherine, and today we've got an upper intermediate level lesson for you all about money.",
+      "cn": "我叫Katherine，今天我们有一节关于金钱的中高级课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We are going to talk about the stock market.",
+      "cn": "我们将讨论股市。"
+    },
+    {
+      "id": 6,
+      "en": "So a very interesting topic, very current as well, because, well, throughout the world, stock markets are not doing very well.",
+      "cn": "这是一个非常有趣的话题，也很时事，因为，全球的股市表现都不太好。"
+    },
+    {
+      "id": 7,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 8,
+      "en": "And you may have seen on the television a lot of information about this.",
+      "cn": "你可能在电视上看到很多关于这个的信息。"
+    },
+    {
+      "id": 9,
+      "en": "So today we're going to hopefully explain some of the things and phrases and words that you've been hearing.",
+      "cn": "所以今天我们希望能解释一些你们听到的事情、短语和词汇。"
+    },
+    {
+      "id": 10,
+      "en": "But first, we've got a couple of important indicators, a couple of acronyms, actually, that you're going to hear about.",
+      "cn": "但首先，我们有几个重要的指标，实际上是几个缩略词，你将会听到。"
+    },
+    {
+      "id": 11,
+      "en": "So let's look at those in today's vocabulary preview.",
+      "cn": "那么让我们在今天的词汇预览中看看这些。"
+    },
+    {
+      "id": 12,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 13,
+      "en": "So the first word that we have on vocabulary preview is the NASDAQ.",
+      "cn": "所以我们在词汇预览中的第一个词是NASDAQ。"
+    },
+    {
+      "id": 14,
+      "en": "NASDAQ.",
+      "cn": "NASDAQ。"
+    },
+    {
+      "id": 15,
+      "en": "NASDAQ.",
+      "cn": "NASDAQ。"
+    },
+    {
+      "id": 16,
+      "en": "N-A-S-D-A-Q.",
+      "cn": "N-A-S-D-A-Q。"
+    },
+    {
+      "id": 17,
+      "en": "So this is basically the American stock market.",
+      "cn": "这基本上是美国的股市。"
+    },
+    {
+      "id": 18,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 19,
+      "en": "It's an acronym.",
+      "cn": "这是一个缩略词。"
+    },
+    {
+      "id": 20,
+      "en": "Now, it's a really, really long acronym, so we're not going to get into it, but it is basically the American stock market where all these companies are trading stock, publicly traded companies.",
+      "cn": "现在，这是一个非常非常长的缩略词，所以我们不深入讨论，但它基本上是所有这些公司交易股票的美国股市，公开交易的公司。"
+    },
+    {
+      "id": 21,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 22,
+      "en": "So publicly traded companies, you're basically trading their stocks through NASDAQ.",
+      "cn": "所以公开交易的公司，你基本上是通过NASDAQ交易他们的股票。"
+    },
+    {
+      "id": 23,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 24,
+      "en": "And now the next one that we have is an indicator which tells us how well some companies or some stock are doing, and that's the Dow Jones indicator.",
+      "cn": "现在我们下一个是一个指标，它告诉我们一些公司或股票的表现如何，那就是道琼斯指标。"
+    },
+    {
+      "id": 25,
+      "en": "Dow Jones indicator.",
+      "cn": "道琼斯指标。"
+    },
+    {
+      "id": 26,
+      "en": "So maybe if the Dow Jones is really low for something, we think, man, it's not doing so well.",
+      "cn": "所以如果道琼斯很低，我们可能会想，嗯，它表现得不好。"
+    },
+    {
+      "id": 27,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 28,
+      "en": "If it goes up, things are improving.",
+      "cn": "如果它上涨，情况就好转了。"
+    },
+    {
+      "id": 29,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 30,
+      "en": "So usually the Dow Jones has the... it's based upon the 50 biggest companies in the United States, the 50 biggest publicly traded companies.",
+      "cn": "所以通常道琼斯是基于美国50家最大的公司，50家最大的公开交易公司。"
+    },
+    {
+      "id": 31,
+      "en": "Now, you can divide it into like industrial companies or pharmaceutical companies, et cetera.",
+      "cn": "现在，你可以将其分为工业公司或制药公司等。"
+    },
+    {
+      "id": 32,
+      "en": "But in general, that's the indicator and how it works.",
+      "cn": "但一般来说，这就是指标及其运作方式。"
+    },
+    {
+      "id": 33,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 34,
+      "en": "So let's take a listen to today's dialogue and find out how these words are used in context.",
+      "cn": "那么让我们听听今天的对话，看看这些词是如何在上下文中使用的。"
+    },
+    {
+      "id": 35,
+      "en": "And we're back in a moment to talk about what's going on.",
+      "cn": "我们马上回来讨论发生了什么。"
+    },
+    {
+      "id": 36,
+      "en": "Sorry to bother you, sir, but I have some bad news.",
+      "cn": "抱歉打扰您，先生，但我有一些坏消息。"
+    },
+    {
+      "id": 37,
+      "en": "What is it?",
+      "cn": "什么事？"
+    },
+    {
+      "id": 38,
+      "en": "Well, the stock market just took a huge plunge and we've lost a lot of money.",
+      "cn": "嗯，股市刚刚大幅下跌，我们损失了很多钱。"
+    },
+    {
+      "id": 39,
+      "en": "What do you mean?",
+      "cn": "你是什么意思？"
+    },
+    {
+      "id": 40,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 41,
+      "en": "There are many factors that weigh in, but NASDAQ is down 200 points.",
+      "cn": "有很多因素在影响，但NASDAQ下跌了200点。"
+    },
+    {
+      "id": 42,
+      "en": "The Dow Jones indicator also suffered.",
+      "cn": "道琼斯指标也受到了影响。"
+    },
+    {
+      "id": 43,
+      "en": "Our portfolio is worth half of what it was worth one week ago.",
+      "cn": "我们的投资组合价值只有一周前的一半。"
+    },
+    {
+      "id": 44,
+      "en": "How is this possible?",
+      "cn": "这怎么可能？"
+    },
+    {
+      "id": 45,
+      "en": "You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return.",
+      "cn": "你应该和我们的股票经纪人沟通，确保我们的证券和投资是安全的，并且能获得盈利回报。"
+    },
+    {
+      "id": 46,
+      "en": "I know, sir.",
+      "cn": "我知道，先生。"
+    },
+    {
+      "id": 47,
+      "en": "We didn't expect a bull market to become a bear market all of a sudden.",
+      "cn": "我们没想到牛市会突然变成熊市。"
+    },
+    {
+      "id": 48,
+      "en": "On the other hand, you still have some high yield, trash bonds and government bonds that will give us enough liquidity to cut our losses and reinvest in emerging markets.",
+      "cn": "另一方面，你仍然有一些高收益的垃圾债券和政府债券，这将给我们足够的流动性来减少损失并重新投资于新兴市场。"
+    },
+    {
+      "id": 49,
+      "en": "We could potentially make this tragedy work for us and make us think outside the box.",
+      "cn": "我们可以将这场悲剧转化为我们的优势，激发我们的创新思维。"
+    },
+    {
+      "id": 50,
+      "en": "Do what you have to do.",
+      "cn": "你该做什么就做什么。"
+    },
+    {
+      "id": 51,
+      "en": "One other thing.",
+      "cn": "还有一件事。"
+    },
+    {
+      "id": 52,
+      "en": "Don't tell the rest of the stockholders about this if they find out it's the end of this company.",
+      "cn": "如果其他股东知道这件事，那这家公司就完了，别告诉他们。"
+    },
+    {
+      "id": 53,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 54,
+      "en": "So a lot of interesting words there.",
+      "cn": "所以有很多有趣的词。"
+    },
+    {
+      "id": 55,
+      "en": "I think a lot of them were very specific to the stock market and very maybe a little bit difficult.",
+      "cn": "我觉得很多词非常特定于股市，可能有点难。"
+    },
+    {
+      "id": 56,
+      "en": "So why don't we take a look at a couple of those and language takeaway.",
+      "cn": "那么我们来看看其中几个词和语言要点。"
+    },
+    {
+      "id": 57,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 58,
+      "en": "OK, so this first word is a very important word in banking and finance.",
+      "cn": "好的，第一个词在银行和金融中非常重要。"
+    },
+    {
+      "id": 59,
+      "en": "We talk about portfolios a lot.",
+      "cn": "我们经常谈论投资组合。"
+    },
+    {
+      "id": 60,
+      "en": "So portfolio.",
+      "cn": "所以投资组合。"
+    },
+    {
+      "id": 61,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 62,
+      "en": "So basically a portfolio is the variety of things that you own.",
+      "cn": "所以投资组合基本上是你拥有的各种东西。"
+    },
+    {
+      "id": 63,
+      "en": "For example, in the stock market, it could be stocks, it could be bonds, it can be mutual funds, etc.",
+      "cn": "例如，在股市中，它可以是股票、债券、共同基金等。"
+    },
+    {
+      "id": 64,
+      "en": "Or, for example, if you're a company, your product portfolio could be all the products that your company owns.",
+      "cn": "或者，例如，如果你是一家公司，你的产品组合可以是你公司拥有的所有产品。"
+    },
+    {
+      "id": 65,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 66,
+      "en": "So in this case, our portfolio is worth half what it was a week ago.",
+      "cn": "所以在这种情况下，我们的投资组合价值只有一周前的一半。"
+    },
+    {
+      "id": 67,
+      "en": "And so this is this is a sentence that means we've lost half of the money we invested.",
+      "cn": "这句话的意思是我们损失了我们投资的一半钱。"
+    },
+    {
+      "id": 68,
+      "en": "All of our investments are in a portfolio.",
+      "cn": "我们所有的投资都在一个投资组合中。"
+    },
+    {
+      "id": 69,
+      "en": "We talk about them as a portfolio.",
+      "cn": "我们将它们称为投资组合。"
+    },
+    {
+      "id": 70,
+      "en": "And when we lose money, we mean our portfolio is worth less now than it was before.",
+      "cn": "当我们亏损时，我们的投资组合的价值比之前少了。"
+    },
+    {
+      "id": 71,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 72,
+      "en": "And well, moving on, he starts to talk about the bull market and the bear market.",
+      "cn": "接下来，他开始谈论牛市和熊市。"
+    },
+    {
+      "id": 73,
+      "en": "So what is what is this all about?",
+      "cn": "这到底是怎么回事？"
+    },
+    {
+      "id": 74,
+      "en": "Well, a bull is an animal with horns, right?",
+      "cn": "嗯，牛是一种有角的动物，对吧？"
+    },
+    {
+      "id": 75,
+      "en": "And a bear is another animal.",
+      "cn": "而熊是另一种动物。"
+    },
+    {
+      "id": 76,
+      "en": "So we're not talking about animals here, right?",
+      "cn": "所以我们这里不是在谈论动物，对吧？"
+    },
+    {
+      "id": 77,
+      "en": "We're talking about special finance phrases.",
+      "cn": "我们在谈论特殊的金融术语。"
+    },
+    {
+      "id": 78,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 79,
+      "en": "So the bull market would be a again, talking about companies and trading.",
+      "cn": "所以牛市是再次谈论公司和交易。"
+    },
+    {
+      "id": 80,
+      "en": "It would be maybe a market that's growing very rapidly.",
+      "cn": "这可能是一个快速增长的市场。"
+    },
+    {
+      "id": 81,
+      "en": "That's very, very strong.",
+      "cn": "非常强劲。"
+    },
+    {
+      "id": 82,
+      "en": "That's a bull market.",
+      "cn": "这就是牛市。"
+    },
+    {
+      "id": 83,
+      "en": "So people often talk about China's bull market, right?",
+      "cn": "所以人们常常谈论中国的牛市，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "How China continues to grow and grow and grow and grow.",
+      "cn": "中国如何不断增长。"
+    },
+    {
+      "id": 85,
+      "en": "But a market that slows down, like the United States last year, would be a bear market.",
+      "cn": "但像去年美国那样放缓的市场就是熊市。"
+    },
+    {
+      "id": 86,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 87,
+      "en": "So think of a bear.",
+      "cn": "所以想象一下熊。"
+    },
+    {
+      "id": 88,
+      "en": "Maybe it's sleeping.",
+      "cn": "也许它在睡觉。"
+    },
+    {
+      "id": 89,
+      "en": "It goes into hibernation.",
+      "cn": "它进入冬眠。"
+    },
+    {
+      "id": 90,
+      "en": "That's a bear market.",
+      "cn": "这就是熊市。"
+    },
+    {
+      "id": 91,
+      "en": "So a slow market.",
+      "cn": "所以是一个缓慢的市场。"
+    },
+    {
+      "id": 92,
+      "en": "It's not really growing.",
+      "cn": "它并没有真正增长。"
+    },
+    {
+      "id": 93,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 94,
+      "en": "But talking about a portfolio again, we might have stocks, but in this case, the two people are talking about their bonds.",
+      "cn": "但再次谈论投资组合，我们可能有股票，但在这种情况下，两个人在谈论他们的债券。"
+    },
+    {
+      "id": 95,
+      "en": "So he says you still have some high yield to trash bonds and government bonds.",
+      "cn": "所以他说你仍然有一些高收益的垃圾债券和政府债券。"
+    },
+    {
+      "id": 96,
+      "en": "What's a high yield bond and what's a trash bond?",
+      "cn": "什么是高收益债券，什么是垃圾债券？"
+    },
+    {
+      "id": 97,
+      "en": "OK, so when we think about the word yield is how much it gives, right?",
+      "cn": "好的，当我们想到收益这个词时，就是它给了多少，对吧？"
+    },
+    {
+      "id": 98,
+      "en": "So how much we are getting from it.",
+      "cn": "所以我们从中获得了多少。"
+    },
+    {
+      "id": 99,
+      "en": "So something that is high yield means that you're getting a lot from it.",
+      "cn": "所以高收益意味着你从中获得了很多。"
+    },
+    {
+      "id": 100,
+      "en": "For example, this orange tree yields 300 oranges per year.",
+      "cn": "例如，这棵橙树每年产300个橙子。"
+    },
+    {
+      "id": 101,
+      "en": "OK, so how much we get from it.",
+      "cn": "好的，那我们能得到多少。"
+    },
+    {
+      "id": 102,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 103,
+      "en": "So we're getting 300 oranges.",
+      "cn": "所以我们得到300个橙子。"
+    },
+    {
+      "id": 104,
+      "en": "That's how much it's yielding.",
+      "cn": "这就是它的产量。"
+    },
+    {
+      "id": 105,
+      "en": "And so basically that's what yield means.",
+      "cn": "所以基本上这就是产量的意思。"
+    },
+    {
+      "id": 106,
+      "en": "So when we talk about trash bonds, this on the other hand, it's a word that's maybe a little bit tricky, but a bond is a promise that you get from the seller that he's going to pay you back the money that you give him with interest.",
+      "cn": "当我们谈论垃圾债券时，这个词可能有点棘手，但债券是你从卖方那里得到的承诺，他会把你给他的钱连同利息还给你。"
+    },
+    {
+      "id": 107,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 108,
+      "en": "But a trash bond is a very risky bond.",
+      "cn": "但垃圾债券是非常高风险的债券。"
+    },
+    {
+      "id": 109,
+      "en": "It means that the seller might not pay you back because, you know, he's still trying to get all the money.",
+      "cn": "这意味着卖方可能不会还你钱，因为他还在努力筹集所有的钱。"
+    },
+    {
+      "id": 110,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 111,
+      "en": "But a high yield trash bond means that you might make a lot of money from this bond unless, of course, it's not very dependable.",
+      "cn": "但高收益垃圾债券意味着你可能会从这债券中赚很多钱，当然，前提是它不是很可靠。"
+    },
+    {
+      "id": 112,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 113,
+      "en": "So it's risky.",
+      "cn": "所以这是有风险的。"
+    },
+    {
+      "id": 114,
+      "en": "Of course, since it's riskier, it has more yield.",
+      "cn": "当然，由于它更具风险性，它的收益也更高。"
+    },
+    {
+      "id": 115,
+      "en": "Great.",
+      "cn": "很好。"
+    },
+    {
+      "id": 116,
+      "en": "So high yields trash bond.",
+      "cn": "所以高收益垃圾债券。"
+    },
+    {
+      "id": 117,
+      "en": "And then what about this?",
+      "cn": "那么这个呢？"
+    },
+    {
+      "id": 118,
+      "en": "They will give us liquidity to cut our losses.",
+      "cn": "它们会给我们流动性以减少损失。"
+    },
+    {
+      "id": 119,
+      "en": "Liquidity.",
+      "cn": "流动性。"
+    },
+    {
+      "id": 120,
+      "en": "We hear all about liquidity in finance.",
+      "cn": "我们在金融中听到很多关于流动性的讨论。"
+    },
+    {
+      "id": 121,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 122,
+      "en": "Maybe in your company, the accountant will talk about this.",
+      "cn": "也许在你的公司，会计会谈论这个。"
+    },
+    {
+      "id": 123,
+      "en": "And that's basically just to have money cash in hand.",
+      "cn": "基本上就是手头有现金。"
+    },
+    {
+      "id": 124,
+      "en": "So you have money to pay things or to buy things.",
+      "cn": "所以你有钱支付或购买东西。"
+    },
+    {
+      "id": 125,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 126,
+      "en": "So it's available.",
+      "cn": "所以它是可用的。"
+    },
+    {
+      "id": 127,
+      "en": "Available.",
+      "cn": "可用的。"
+    },
+    {
+      "id": 128,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 129,
+      "en": "Not with credit.",
+      "cn": "不是用信用。"
+    },
+    {
+      "id": 130,
+      "en": "The opposite of credit.",
+      "cn": "信用的反面。"
+    },
+    {
+      "id": 131,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 132,
+      "en": "Liquidity.",
+      "cn": "流动性。"
+    },
+    {
+      "id": 133,
+      "en": "And finally, instead, what are we going to do?",
+      "cn": "最后，我们要做什么？"
+    },
+    {
+      "id": 134,
+      "en": "Let's think outside the box.",
+      "cn": "让我们跳出框框思考。"
+    },
+    {
+      "id": 135,
+      "en": "We could reinvest in emerging markets.",
+      "cn": "我们可以再投资于新兴市场。"
+    },
+    {
+      "id": 136,
+      "en": "And this is a very hot topic lately, talking about emerging markets.",
+      "cn": "最近谈论新兴市场是一个非常热门的话题。"
+    },
+    {
+      "id": 137,
+      "en": "So to emerge means to come up, right?",
+      "cn": "所以“新兴”意味着崛起，对吧？"
+    },
+    {
+      "id": 138,
+      "en": "To rise.",
+      "cn": "上升。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 140,
+      "en": "To come out.",
+      "cn": "出现。"
+    },
+    {
+      "id": 141,
+      "en": "So it's almost like new or growing markets.",
+      "cn": "所以这几乎就像是新的或正在增长的市场。"
+    },
+    {
+      "id": 142,
+      "en": "So in this case, a market, an emerging market would be, for example, the Southeast Asian market, which is growing quickly, or even, you could say, West African market.",
+      "cn": "在这种情况下，新兴市场可能是，例如，快速增长的东南亚市场，或者你甚至可以说是西非市场。"
+    },
+    {
+      "id": 143,
+      "en": "We're talking about places in the world that aren't established.",
+      "cn": "我们谈论的是世界上那些尚未建立的地方。"
+    },
+    {
+      "id": 144,
+      "en": "They're not old and dependable.",
+      "cn": "它们不是老旧和可靠的。"
+    },
+    {
+      "id": 145,
+      "en": "They're new and exciting.",
+      "cn": "它们是新的和令人兴奋的。"
+    },
+    {
+      "id": 146,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 147,
+      "en": "So they're coming up.",
+      "cn": "所以它们正在崛起。"
+    },
+    {
+      "id": 148,
+      "en": "So that's an emerging market.",
+      "cn": "所以这就是新兴市场。"
+    },
+    {
+      "id": 149,
+      "en": "So a lot of very interesting words and phrases.",
+      "cn": "所以有很多非常有趣的词和短语。"
+    },
+    {
+      "id": 150,
+      "en": "They're very related to our topic.",
+      "cn": "它们与我们的主题非常相关。"
+    },
+    {
+      "id": 151,
+      "en": "And so why don't we move on now?",
+      "cn": "那么我们现在为什么不继续呢？"
+    },
+    {
+      "id": 152,
+      "en": "Let's take a look at two key phrases on Fluency Builder.",
+      "cn": "让我们看看流利构建器上的两个关键短语。"
+    },
+    {
+      "id": 153,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 154,
+      "en": "This first phrase is something we've heard a lot about in the last year or two with things not going so well in the world of finance.",
+      "cn": "第一个短语是我们在过去一两年中听到很多的，尤其是在金融世界不太顺利的时候。"
+    },
+    {
+      "id": 155,
+      "en": "The first one, here we go, to cut our losses.",
+      "cn": "第一个，来吧，减少我们的损失。"
+    },
+    {
+      "id": 156,
+      "en": "OK, so let's cut our losses.",
+      "cn": "好的，所以让我们减少损失。"
+    },
+    {
+      "id": 157,
+      "en": "So when you talk about cutting your losses, that means to try and stop losing money somehow, maybe sell early.",
+      "cn": "当你谈论减少损失时，这意味着试图以某种方式停止亏损，也许提前出售。"
+    },
+    {
+      "id": 158,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 159,
+      "en": "So in this case, we're losing money.",
+      "cn": "所以在这种情况下，我们正在亏损。"
+    },
+    {
+      "id": 160,
+      "en": "Let's stop now.",
+      "cn": "让我们现在停止。"
+    },
+    {
+      "id": 161,
+      "en": "Let's stop everything.",
+      "cn": "让我们停止一切。"
+    },
+    {
+      "id": 162,
+      "en": "Cut our losses.",
+      "cn": "减少我们的损失。"
+    },
+    {
+      "id": 163,
+      "en": "That means cut them away.",
+      "cn": "这意味着切断它们。"
+    },
+    {
+      "id": 164,
+      "en": "Forget about them.",
+      "cn": "忘记它们。"
+    },
+    {
+      "id": 165,
+      "en": "Throw them away.",
+      "cn": "把它们扔掉。"
+    },
+    {
+      "id": 166,
+      "en": "And start again.",
+      "cn": "然后重新开始。"
+    },
+    {
+      "id": 167,
+      "en": "OK, so we could say, my business is failing.",
+      "cn": "好的，所以我们可以说，我的生意正在失败。"
+    },
+    {
+      "id": 168,
+      "en": "I'm going to cut my losses, sell the business and start again.",
+      "cn": "我打算减少损失，出售业务并重新开始。"
+    },
+    {
+      "id": 169,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 170,
+      "en": "That's exactly it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 171,
+      "en": "So to cut your losses means to stop doing something, maybe sell it and stop losing money.",
+      "cn": "所以减少损失意味着停止做某事，也许出售它并停止亏损。"
+    },
+    {
+      "id": 172,
+      "en": "Basically, you accept the fact that you lost it.",
+      "cn": "基本上，你接受你已经失去的事实。"
+    },
+    {
+      "id": 173,
+      "en": "You can't get it back and you start again.",
+      "cn": "你无法找回它，然后重新开始。"
+    },
+    {
+      "id": 174,
+      "en": "So when they were talking about investing in emerging markets, he said, well, maybe we could do this and that would force us to think outside the box.",
+      "cn": "所以当他们谈论投资于新兴市场时，他说，嗯，也许我们可以这样做，这将迫使我们跳出框框思考。"
+    },
+    {
+      "id": 175,
+      "en": "OK, this is a great phrase and you might hear this in meetings a lot or from your manager.",
+      "cn": "好的，这是一个很好的短语，你可能在会议上或从你的经理那里听到很多。"
+    },
+    {
+      "id": 176,
+      "en": "What's going on here is these two people are talking about how they lost a lot of money.",
+      "cn": "这里发生的事情是这两个人在谈论他们如何损失了很多钱。"
+    },
+    {
+      "id": 177,
+      "en": "The economy is bad and they've been doing things in a normal way for a long time.",
+      "cn": "经济不好，他们已经以正常的方式做了很长时间。"
+    },
+    {
+      "id": 178,
+      "en": "It's not working.",
+      "cn": "这行不通。"
+    },
+    {
+      "id": 179,
+      "en": "Let's think outside the box.",
+      "cn": "让我们跳出框框思考。"
+    },
+    {
+      "id": 180,
+      "en": "That means let's be creative.",
+      "cn": "这意味着让我们有创意。"
+    },
+    {
+      "id": 181,
+      "en": "Let's try and discover new ways of doing things that will yield positive results.",
+      "cn": "让我们尝试发现新的做事方式，以获得积极的结果。"
+    },
+    {
+      "id": 182,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 183,
+      "en": "This is a very, very common phrase, very widely used in business or when you're talking about ideas is people tell you to think outside the box, to maybe break some of the rules, right?",
+      "cn": "这是一个非常非常常见的短语，在商业中或当你谈论想法时，人们会告诉你跳出框框思考，也许打破一些规则，对吧？"
+    },
+    {
+      "id": 184,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 185,
+      "en": "Don't just think the way that you always do.",
+      "cn": "不要只按照你一直以来的方式思考。"
+    },
+    {
+      "id": 186,
+      "en": "Don't do the same thing over and over.",
+      "cn": "不要一遍又一遍地做同样的事情。"
+    },
+    {
+      "id": 187,
+      "en": "Do something new, be creative, come up with something great.",
+      "cn": "做一些新的事情，发挥创意，想出一些伟大的东西。"
+    },
+    {
+      "id": 188,
+      "en": "So that's thinking outside the box.",
+      "cn": "所以这就是跳出框框思考。"
+    },
+    {
+      "id": 189,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 190,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 191,
+      "en": "So a lot of great phrases there.",
+      "cn": "所以有很多很棒的短语。"
+    },
+    {
+      "id": 192,
+      "en": "I think we've learned quite a bit.",
+      "cn": "我觉得我们学到了很多。"
+    },
+    {
+      "id": 193,
+      "en": "Why don't we listen to the dialogue one last time and we'll be back to talk a little bit more about this very interesting topic.",
+      "cn": "为什么我们不再听一次对话，然后我们会回来谈谈这个非常有趣的话题。"
+    },
+    {
+      "id": 194,
+      "en": "Sorry to bother you, sir, but I have some bad news.",
+      "cn": "抱歉打扰您，先生，但我有一些坏消息。"
+    },
+    {
+      "id": 195,
+      "en": "What is it?",
+      "cn": "什么事？"
+    },
+    {
+      "id": 196,
+      "en": "Well, the stock market just took a huge plunge and we've lost a lot of money.",
+      "cn": "嗯，股市刚刚大幅下跌，我们损失了很多钱。"
+    },
+    {
+      "id": 197,
+      "en": "What do you mean?",
+      "cn": "你是什么意思？"
+    },
+    {
+      "id": 198,
+      "en": "What happened?",
+      "cn": "发生了什么？"
+    },
+    {
+      "id": 199,
+      "en": "There are many factors that weigh in, but Nasdaq is down 200 points.",
+      "cn": "有许多因素在起作用，但纳斯达克下跌了200点。"
+    },
+    {
+      "id": 200,
+      "en": "The Dow Jones indicator also suffered.",
+      "cn": "道琼斯指数也受到了影响。"
+    },
+    {
+      "id": 201,
+      "en": "Our portfolio is worth half of what it was worth one week ago.",
+      "cn": "我们的投资组合现在只值一周前的一半。"
+    },
+    {
+      "id": 202,
+      "en": "How is this possible?",
+      "cn": "这怎么可能？"
+    },
+    {
+      "id": 203,
+      "en": "You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return.",
+      "cn": "你应该和我们的股票经纪人沟通，确保我们的证券和投资是安全的，并且能获得盈利。"
+    },
+    {
+      "id": 204,
+      "en": "I know, sir.",
+      "cn": "我知道，先生。"
+    },
+    {
+      "id": 205,
+      "en": "We didn't expect a bull market to become a bear market all of a sudden.",
+      "cn": "我们没想到牛市会突然变成熊市。"
+    },
+    {
+      "id": 206,
+      "en": "On the other hand, you still have some high-yield trash bonds and government bonds that will give us enough liquidity to cut our losses and reinvest in emerging markets.",
+      "cn": "另一方面，你们还有一些高收益的垃圾债券和政府债券，可以为我们提供足够的流动性，以减少损失并重新投资于新兴市场。"
+    },
+    {
+      "id": 207,
+      "en": "We could potentially make this tragedy work for us and make us think outside the box.",
+      "cn": "我们可以让这场悲剧为我们所用，激发我们的创新思维。"
+    },
+    {
+      "id": 208,
+      "en": "Do what you have to do.",
+      "cn": "你该做的就去做吧。"
+    },
+    {
+      "id": 209,
+      "en": "One other thing.",
+      "cn": "还有一件事。"
+    },
+    {
+      "id": 210,
+      "en": "Don't tell the rest of the stockholders about this.",
+      "cn": "不要告诉其他股东这件事。"
+    },
+    {
+      "id": 211,
+      "en": "If they find out, it's the end of this company.",
+      "cn": "如果他们知道了，这家公司就完了。"
+    },
+    {
+      "id": 212,
+      "en": "So, I remember being a little kid and watching TV with my parents.",
+      "cn": "我记得小时候和父母一起看电视。"
+    },
+    {
+      "id": 213,
+      "en": "And on the news, there was always the business segment.",
+      "cn": "新闻中总有商业板块。"
+    },
+    {
+      "id": 214,
+      "en": "And in this, you'd always hear the Nasdaq is down 10 points.",
+      "cn": "你总能听到纳斯达克下跌10点。"
+    },
+    {
+      "id": 215,
+      "en": "The Dow Jones Industrial today is down 10 points.",
+      "cn": "今天道琼斯工业下跌10点。"
+    },
+    {
+      "id": 216,
+      "en": "Yesterday was up two.",
+      "cn": "昨天上涨了2点。"
+    },
+    {
+      "id": 217,
+      "en": "That's an average of H.",
+      "cn": "这平均是H。"
+    },
+    {
+      "id": 218,
+      "en": "Okay, uh... Yeah, it's very complicated, especially if you take a look also in the newspaper.",
+      "cn": "好吧，呃……是的，这非常复杂，尤其是如果你还看看报纸。"
+    },
+    {
+      "id": 219,
+      "en": "Sometimes it shows you different publicly traded companies and it has a bunch of numbers.",
+      "cn": "有时它会显示不同的上市公司，并且有一堆数字。"
+    },
+    {
+      "id": 220,
+      "en": "It's a very interesting topic.",
+      "cn": "这是一个非常有趣的话题。"
+    },
+    {
+      "id": 221,
+      "en": "It's almost a science, I think.",
+      "cn": "我觉得这几乎是一门科学。"
+    },
+    {
+      "id": 222,
+      "en": "Very much a science.",
+      "cn": "确实是一门科学。"
+    },
+    {
+      "id": 223,
+      "en": "And some people have made a lot of money playing the stock market and trying to buy stocks when they're low, wait until they're high, sell them off and make tons.",
+      "cn": "有些人通过股市赚了很多钱，试图在股票低的时候买入，等到高的时候卖出，赚取巨额利润。"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, it's pretty much analyzing risk.",
+      "cn": "是的，这基本上就是分析风险。"
+    },
+    {
+      "id": 225,
+      "en": "So, making calculated decisions.",
+      "cn": "所以，做出经过计算的决策。"
+    },
+    {
+      "id": 226,
+      "en": "And that's why they use all these formulas and all these different ratios and ways to ponder how much they should invest or what would they gain.",
+      "cn": "这就是为什么他们使用所有这些公式和不同的比率，来考虑他们应该投资多少或能获得多少收益。"
+    },
+    {
+      "id": 227,
+      "en": "And so, it's very, very interesting.",
+      "cn": "所以，这非常非常有趣。"
+    },
+    {
+      "id": 228,
+      "en": "Many people compare it to gambling, but it's kind of like gambling, but not really because you don't really depend on luck.",
+      "cn": "很多人把它与赌博相提并论，但这有点像赌博，但又不完全是，因为你并不完全依赖运气。"
+    },
+    {
+      "id": 229,
+      "en": "You kind of make calculated decisions.",
+      "cn": "你是做出经过计算的决策。"
+    },
+    {
+      "id": 230,
+      "en": "And sometimes you're trading for big, big companies or even parts of big markets, like parts of entire countries' businesses.",
+      "cn": "有时你是在为大公司交易，甚至是整个国家的部分市场。"
+    },
+    {
+      "id": 231,
+      "en": "A lot of people, for example, stockbrokers will invest a group of workers' retirement funds.",
+      "cn": "例如，很多股票经纪人会投资一群工人的退休基金。"
+    },
+    {
+      "id": 232,
+      "en": "They will take those funds and be like, hey, you're maybe getting 5% from the bank for keeping your money there.",
+      "cn": "他们会拿这些资金说，嘿，你在银行存钱可能只能得到5%的利息。"
+    },
+    {
+      "id": 233,
+      "en": "Give me the money and I'll give you 25% yield on your investment.",
+      "cn": "把钱给我，我会给你25%的投资收益。"
+    },
+    {
+      "id": 234,
+      "en": "And so, obviously, they're playing not only their reputation, but also with other people's life savings.",
+      "cn": "所以，显然，他们不仅在玩自己的声誉，还在玩其他人的生活储蓄。"
+    },
+    {
+      "id": 235,
+      "en": "And that's why a lot of people lost money when two years ago, the bubble really burst in a lot of areas like real estate.",
+      "cn": "这就是为什么两年前，泡沫在很多领域如房地产破裂时，很多人都亏了钱。"
+    },
+    {
+      "id": 236,
+      "en": "Stock prices went down, the United States went into a recession, and all these people's retirement funds, their savings, they lost it.",
+      "cn": "股票价格下跌，美国进入衰退，所有这些人的退休基金和储蓄都损失了。"
+    },
+    {
+      "id": 237,
+      "en": "So, you got to be careful with this kind of stuff and do your homework.",
+      "cn": "所以，你必须小心这类事情，做好功课。"
+    },
+    {
+      "id": 238,
+      "en": "But that's about it for us today.",
+      "cn": "但今天就到这里。"
+    },
+    {
+      "id": 239,
+      "en": "Hope that you've enjoyed this lesson.",
+      "cn": "希望你喜欢这节课。"
+    },
+    {
+      "id": 240,
+      "en": "If you have questions or comments, please do visit us on our website, EnglishPod.com.",
+      "cn": "如果你有问题或评论，请访问我们的网站，EnglishPod.com。"
+    },
+    {
+      "id": 241,
+      "en": "All right, we'll see everyone there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 242,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

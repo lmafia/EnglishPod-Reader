@@ -1,0 +1,1079 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0186",
+  "title": "EnglishPod 中高级 0186",
+  "totalSegments": 214,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "cn": "大家好，欢迎回到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we have an upper intermediate level lesson for all of you.",
+      "cn": "我叫Catherine，今天我们为大家准备了一节中高级水平的课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We're going to be talking business on this occasion on EnglishPod, but specifically about planning a business.",
+      "cn": "这次我们将在EnglishPod讨论商业，特别是关于商业计划。"
+    },
+    {
+      "id": 6,
+      "en": "Right, so before a business opens, a lot of planning has to happen.",
+      "cn": "对，在一个企业开业之前，需要进行大量的规划。"
+    },
+    {
+      "id": 7,
+      "en": "That means people will decide what kind of a product they want to sell, what kind of a market they want to sell to, etc.",
+      "cn": "这意味着人们需要决定他们想要销售什么产品，想要销售给什么样的市场等等。"
+    },
+    {
+      "id": 8,
+      "en": "So that is the focus of today's lesson.",
+      "cn": "所以这就是今天课程的重点。"
+    },
+    {
+      "id": 9,
+      "en": "Let's take a listen to the dialogue for the first time, and we'll be back in a minute to talk about what's going on.",
+      "cn": "让我们第一次听听对话，稍后我们会回来讨论发生了什么。"
+    },
+    {
+      "id": 10,
+      "en": "I've had it.",
+      "cn": "我受够了。"
+    },
+    {
+      "id": 11,
+      "en": "I'm done working for a company that is taking me nowhere.",
+      "cn": "我不想再为一家没有前途的公司工作了。"
+    },
+    {
+      "id": 12,
+      "en": "So what are you going to do?",
+      "cn": "那你打算怎么办？"
+    },
+    {
+      "id": 13,
+      "en": "Just quit?",
+      "cn": "就这样辞职？"
+    },
+    {
+      "id": 14,
+      "en": "That's exactly what I'm going to do.",
+      "cn": "我就是要这样做。"
+    },
+    {
+      "id": 15,
+      "en": "I've decided to create my own company.",
+      "cn": "我决定创建自己的公司。"
+    },
+    {
+      "id": 16,
+      "en": "I'm going to write up a business plan, get some investors, and start working for myself.",
+      "cn": "我要写一份商业计划，找一些投资者，开始为自己工作。"
+    },
+    {
+      "id": 17,
+      "en": "Have you ever written up a business plan before?",
+      "cn": "你以前写过商业计划吗？"
+    },
+    {
+      "id": 18,
+      "en": "Well, no.",
+      "cn": "嗯，没有。"
+    },
+    {
+      "id": 19,
+      "en": "It can't be that hard.",
+      "cn": "这应该没那么难吧。"
+    },
+    {
+      "id": 20,
+      "en": "I mean, all you have to do is explain your business, how are you going to do things, and that's it, right?",
+      "cn": "我的意思是，你只需要解释你的业务，怎么做就行了，对吧？"
+    },
+    {
+      "id": 21,
+      "en": "You couldn't be more wrong.",
+      "cn": "你错得离谱。"
+    },
+    {
+      "id": 22,
+      "en": "A well-written business plan will include an executive summary which highlights the idea of the business in two pages or less.",
+      "cn": "一份写得好的商业计划会包括一个执行摘要，突出业务的想法，控制在两页以内。"
+    },
+    {
+      "id": 23,
+      "en": "Then you need to describe your company with information such as what type of legal structure it has, history, etc.",
+      "cn": "然后你需要描述你的公司，包括法律结构、历史等信息。"
+    },
+    {
+      "id": 24,
+      "en": "Well, that seems easy enough.",
+      "cn": "嗯，这似乎还算简单。"
+    },
+    {
+      "id": 25,
+      "en": "Wait, there's more!",
+      "cn": "等等，还有更多！"
+    },
+    {
+      "id": 26,
+      "en": "Then you need to introduce and describe your goods or services, what they are and how they're different from competitors.",
+      "cn": "然后你需要介绍和描述你的商品或服务，它们是什么，以及与竞争对手的不同之处。"
+    },
+    {
+      "id": 27,
+      "en": "Then comes the hard part, a market analysis.",
+      "cn": "接下来是难点，市场分析。"
+    },
+    {
+      "id": 28,
+      "en": "You need to investigate and analyze hundreds of variables.",
+      "cn": "你需要调查和分析数百个变量。"
+    },
+    {
+      "id": 29,
+      "en": "You need to take into consideration socioeconomic factors from GDP per capita to how many children on average the population has.",
+      "cn": "你需要考虑从人均GDP到人口平均有多少孩子等社会经济因素。"
+    },
+    {
+      "id": 30,
+      "en": "All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.",
+      "cn": "所有这些信息都是有用的，以便你可以进入战略和实施阶段，详细描述你将如何实际执行你的想法。"
+    },
+    {
+      "id": 31,
+      "en": "Geez, is that all?",
+      "cn": "天哪，这就是全部吗？"
+    },
+    {
+      "id": 32,
+      "en": "Almost.",
+      "cn": "差不多。"
+    },
+    {
+      "id": 33,
+      "en": "The most important piece of information for your investors will be the financial analysis.",
+      "cn": "对于你的投资者来说，最重要的信息将是财务分析。"
+    },
+    {
+      "id": 34,
+      "en": "Here you will calculate and estimate sales, cash flow and profits.",
+      "cn": "在这里你将计算和估算销售、现金流和利润。"
+    },
+    {
+      "id": 35,
+      "en": "After all, people will want to know when they will begin to see a return on their investment.",
+      "cn": "毕竟，人们想知道他们何时能开始看到投资回报。"
+    },
+    {
+      "id": 36,
+      "en": "I think I'll just stick to my old job and save myself all the hassle of trying to start up a business.",
+      "cn": "我想我还是继续我的老工作，省去创业的麻烦。"
+    },
+    {
+      "id": 37,
+      "en": "Alright, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 38,
+      "en": "So the guy wanted to open up a business but his friend explained that it's not so easy and gave a lot of interesting words and phrases there.",
+      "cn": "所以那个人想开一家企业，但他的朋友解释说这并不容易，并给出了一些有趣的词汇和短语。"
+    },
+    {
+      "id": 39,
+      "en": "He did.",
+      "cn": "他确实如此。"
+    },
+    {
+      "id": 40,
+      "en": "He seemed a little naive, like he didn't really know how much work is involved in opening a business.",
+      "cn": "他似乎有点天真，像是不知道开一家企业需要多少工作。"
+    },
+    {
+      "id": 41,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 42,
+      "en": "So I think we should take a look at some of the words used on language takeaway.",
+      "cn": "所以我认为我们应该看看语言要点中使用的一些词汇。"
+    },
+    {
+      "id": 43,
+      "en": "The first word is the heart and soul of the process before you open a business.",
+      "cn": "第一个词是开办企业前过程的核心。"
+    },
+    {
+      "id": 44,
+      "en": "It's the business plan.",
+      "cn": "就是商业计划。"
+    },
+    {
+      "id": 45,
+      "en": "Alright, so the business plan, as you said, it's a noun and it's basically a document that explains what's going on in the business.",
+      "cn": "好吧，商业计划，正如你所说，是一个名词，基本上是一个解释企业运作的文件。"
+    },
+    {
+      "id": 46,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 47,
+      "en": "It's a paper that you write about the business that you want to open and it's a plan.",
+      "cn": "这是你为想要开办的企业写的一份文件，它是一个计划。"
+    },
+    {
+      "id": 48,
+      "en": "So that's what the name says.",
+      "cn": "所以这就是名字的意思。"
+    },
+    {
+      "id": 49,
+      "en": "You have to tell what you will do, how much money you will spend, how much money you will need.",
+      "cn": "你必须说明你将做什么，花多少钱，需要多少钱。"
+    },
+    {
+      "id": 50,
+      "en": "You know, because if you're asking people for money, they want to know where the money will be spent, if it's going to be spent on wise decisions.",
+      "cn": "你知道，因为如果你向人们要钱，他们想知道钱将如何花费，是否会做出明智的决策。"
+    },
+    {
+      "id": 51,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 52,
+      "en": "And as you mentioned, so you show this business plan maybe to a bank, but also maybe to an investor.",
+      "cn": "正如你提到的，你可能会将这份商业计划展示给银行，也可能展示给投资者。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "So investor is our next word.",
+      "cn": "所以投资者是我们的下一个词。"
+    },
+    {
+      "id": 55,
+      "en": "It's another noun, but this noun is a person.",
+      "cn": "这是另一个名词，但这个名词是一个人。"
+    },
+    {
+      "id": 56,
+      "en": "A person is an investor if he or she gives money to someone else and expects more money to come back.",
+      "cn": "如果一个人给别人钱并期望得到更多的钱回来，那么这个人就是投资者。"
+    },
+    {
+      "id": 57,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 58,
+      "en": "So a person that's starting out a business maybe has enough money himself to open up a business, but sometimes you need extra money.",
+      "cn": "所以一个刚开始创业的人可能有足够的钱开办企业，但有时你需要额外的钱。"
+    },
+    {
+      "id": 59,
+      "en": "So you look for investors, people who are interested in giving you money.",
+      "cn": "所以你寻找投资者，愿意给你钱的人。"
+    },
+    {
+      "id": 60,
+      "en": "For example, I have a cupcake company.",
+      "cn": "例如，我有一家杯子蛋糕公司。"
+    },
+    {
+      "id": 61,
+      "en": "I want to sell cupcakes to people and I need a thousand dollars.",
+      "cn": "我想把杯子蛋糕卖给人们，我需要一千美元。"
+    },
+    {
+      "id": 62,
+      "en": "So Marco, do you want to be an investor?",
+      "cn": "所以Marco，你想成为投资者吗？"
+    },
+    {
+      "id": 63,
+      "en": "Do you want to invest some money?",
+      "cn": "你想投资一些钱吗？"
+    },
+    {
+      "id": 64,
+      "en": "Yes, for sure.",
+      "cn": "当然可以。"
+    },
+    {
+      "id": 65,
+      "en": "A cupcake company.",
+      "cn": "一家杯子蛋糕公司。"
+    },
+    {
+      "id": 66,
+      "en": "That sounds great.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 67,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 68,
+      "en": "But what happens if I don't sell cupcakes?",
+      "cn": "但如果我不卖出杯子蛋糕怎么办？"
+    },
+    {
+      "id": 69,
+      "en": "That's the problem for you because you have made a risky investment.",
+      "cn": "那就是你的问题，因为你做了一个风险投资。"
+    },
+    {
+      "id": 70,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 71,
+      "en": "So that's what happens with investors.",
+      "cn": "这就是投资者的情况。"
+    },
+    {
+      "id": 72,
+      "en": "But now if you want to attract the attention of your investors with your business plan, I think part of the most important aspects of this plan is the executive summary.",
+      "cn": "但现在如果你想通过商业计划吸引投资者的注意，我认为这份计划中最重要的部分是执行摘要。"
+    },
+    {
+      "id": 73,
+      "en": "A summary is usually an outline of the important points of a paper or document.",
+      "cn": "摘要通常是文件或文档重要点的概述。"
+    },
+    {
+      "id": 74,
+      "en": "So in this case, I could say, Catherine's cupcake company will sell delicious cupcakes of 10 different flavors to the market of five year olds to 55 year olds.",
+      "cn": "所以在这种情况下，我可以说，Catherine的杯子蛋糕公司将向五岁到五十五岁的人群销售十种不同口味的美味杯子蛋糕。"
+    },
+    {
+      "id": 75,
+      "en": "People will love them.",
+      "cn": "人们会喜欢它们。"
+    },
+    {
+      "id": 76,
+      "en": "She has a great secret recipe and she plans to triple her investments by next year.",
+      "cn": "她有一个绝妙的秘密食谱，计划在明年将投资翻三倍。"
+    },
+    {
+      "id": 77,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 78,
+      "en": "That's exactly it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 79,
+      "en": "So if an investor reads the executive summary, which shouldn't be more than two pages long, you can pretty much get the idea of what the business is about.",
+      "cn": "所以如果投资者阅读执行摘要，应该不会超过两页，你基本上可以了解这个业务的内容。"
+    },
+    {
+      "id": 80,
+      "en": "So if you want more details, you have to read the rest of the business plan.",
+      "cn": "所以如果你想要更多细节，你必须阅读其余的商业计划。"
+    },
+    {
+      "id": 81,
+      "en": "But mainly with the executive summary, you can more or less know what it's all about.",
+      "cn": "但主要通过执行摘要，你可以大致了解它的内容。"
+    },
+    {
+      "id": 82,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 83,
+      "en": "So a summary, like I said, is something that should be short and it should give you all of the most important information about something.",
+      "cn": "所以摘要，正如我所说，应该简短，并提供关于某事的所有重要信息。"
+    },
+    {
+      "id": 84,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 85,
+      "en": "And while they were talking more in depth about analyzing things and doing some research, and among those things, the girl mentioned the socio economic factors.",
+      "cn": "当他们更深入地讨论分析和研究时，女孩提到了社会经济因素。"
+    },
+    {
+      "id": 86,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 87,
+      "en": "When I said we're going to sell cupcakes for my company to people between the ages of five and 55, we need to analyze, we need to look at their socio economic factors.",
+      "cn": "当我说我们要把杯子蛋糕卖给五到五十五岁的人时，我们需要分析，查看他们的社会经济因素。"
+    },
+    {
+      "id": 88,
+      "en": "Socio comes from the word social.",
+      "cn": "社会来自于社会这个词。"
+    },
+    {
+      "id": 89,
+      "en": "It means where in society they are, they're upper class, middle class or lower class.",
+      "cn": "它意味着他们在社会中的地位，是上层、中层还是下层。"
+    },
+    {
+      "id": 90,
+      "en": "Economic means how much money do they make?",
+      "cn": "经济意味着他们赚多少钱？"
+    },
+    {
+      "id": 91,
+      "en": "Do they make $10,000 a year or $100,000 a year?",
+      "cn": "他们年收入一万美元还是十万美元？"
+    },
+    {
+      "id": 92,
+      "en": "And so the kind of people we want to sell my cupcakes to will change according to their socio economic factors.",
+      "cn": "所以我们想要销售杯子蛋糕的人会根据他们的社会经济因素而变化。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "So as you mentioned, socio comes from the word social or from society.",
+      "cn": "所以正如你提到的，社会来自于社会或社会的词。"
+    },
+    {
+      "id": 95,
+      "en": "So you're analyzing these factors from society.",
+      "cn": "所以你在分析这些社会因素。"
+    },
+    {
+      "id": 96,
+      "en": "And well, part of these factors is the GDP per capita.",
+      "cn": "而这些因素的一部分是人均GDP。"
+    },
+    {
+      "id": 97,
+      "en": "So we have two different words there, an acronym, GDP, GDP, gross domestic products.",
+      "cn": "所以我们有两个不同的词，一个缩写，GDP，GDP，国内生产总值。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, that might seem confusing, because gross means different things at different times.",
+      "cn": "好吧，这可能会让人困惑，因为“总”在不同的情况下有不同的含义。"
+    },
+    {
+      "id": 99,
+      "en": "But in this case, domestic means our country.",
+      "cn": "但在这种情况下，国内意味着我们的国家。"
+    },
+    {
+      "id": 100,
+      "en": "So within a country, all of the products added up together, right.",
+      "cn": "所以在一个国家内，所有产品加起来，对吧。"
+    },
+    {
+      "id": 101,
+      "en": "And gross is basically that just all the products added up together without taking into consideration any other things.",
+      "cn": "而“总值”基本上就是所有产品加在一起，而不考虑其他因素。"
+    },
+    {
+      "id": 102,
+      "en": "So the GDP is basically all the goods and services produced in a country within a given time.",
+      "cn": "所以GDP基本上是一个国家在特定时间内生产的所有商品和服务。"
+    },
+    {
+      "id": 103,
+      "en": "And what about per capita, though?",
+      "cn": "那么人均呢？"
+    },
+    {
+      "id": 104,
+      "en": "So per capita comes from Latin, per means for or each, and capita is a head.",
+      "cn": "所以“人均”来自拉丁语，“per”意味着每个，而“capita”是头。"
+    },
+    {
+      "id": 105,
+      "en": "So this is per person.",
+      "cn": "所以这是每个人。"
+    },
+    {
+      "id": 106,
+      "en": "So GDP per capita means how much how many goods and services are made divided by the number of people in that place.",
+      "cn": "所以人均GDP意味着生产的商品和服务的数量除以该地区的人口数量。"
+    },
+    {
+      "id": 107,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 108,
+      "en": "So you probably have these, these indicators in your country or your own language as well.",
+      "cn": "所以你可能在你的国家或自己的语言中也有这些指标。"
+    },
+    {
+      "id": 109,
+      "en": "But that's basically it.",
+      "cn": "但基本上就是这样。"
+    },
+    {
+      "id": 110,
+      "en": "And the acronym is gross domestic product.",
+      "cn": "而这个缩写是国内生产总值。"
+    },
+    {
+      "id": 111,
+      "en": "And just to explain a little bit, if you see this in Wikipedia, or in an encyclopedia, normally a very low GDP per capita is $500 American dollars and a high one would be 35,000 35.",
+      "cn": "只是稍微解释一下，如果你在维基百科或百科全书中看到这个，通常人均GDP非常低是500美元，而高的则是35000。"
+    },
+    {
+      "id": 112,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 113,
+      "en": "And that's usually per year, right?",
+      "cn": "而且通常是每年，对吧？"
+    },
+    {
+      "id": 114,
+      "en": "Because you that's usually how it's taken into consideration.",
+      "cn": "因为这通常是考虑的时间。"
+    },
+    {
+      "id": 115,
+      "en": "The time is a year.",
+      "cn": "时间是一年。"
+    },
+    {
+      "id": 116,
+      "en": "Alright, so those are the words that we have for you on language takeaway.",
+      "cn": "好吧，这就是我们为你准备的语言要点。"
+    },
+    {
+      "id": 117,
+      "en": "Now, why don't we move on to a couple of different phrases on fluency builder.",
+      "cn": "现在，我们为什么不继续进行几个不同的短语来提高流利度呢？"
+    },
+    {
+      "id": 118,
+      "en": "fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 119,
+      "en": "Okay, so this important first phrase Marco has to do with our last first phrase, we had a business plan.",
+      "cn": "好的，这个重要的第一个短语与我们上一个短语有关，我们有一个商业计划。"
+    },
+    {
+      "id": 120,
+      "en": "So what do you do you write up a business plan, right?",
+      "cn": "那么你是怎么做的，你写一个商业计划，对吧？"
+    },
+    {
+      "id": 121,
+      "en": "And that's a common way of saying to write or to create to work on a business plan to write up.",
+      "cn": "这是一种常见的说法，表示写或创建一个商业计划。"
+    },
+    {
+      "id": 122,
+      "en": "Right.",
+      "cn": "对吧。"
+    },
+    {
+      "id": 123,
+      "en": "So it's it's something that we say that's very colloquial, something that is very spoken.",
+      "cn": "所以这是我们说的非常口语化的东西，非常口语化。"
+    },
+    {
+      "id": 124,
+      "en": "And I can't explain why we say it.",
+      "cn": "我无法解释为什么我们这样说。"
+    },
+    {
+      "id": 125,
+      "en": "But you'll sound very fluent if you say I'm going to write up a business plan or why don't you write up a business plan, right?",
+      "cn": "但如果你说“我将写一个商业计划”或“你为什么不写一个商业计划”，你会听起来非常流利，对吧？"
+    },
+    {
+      "id": 126,
+      "en": "So it would be correct to say, I'm going to write a business plan or I have to write a business plan.",
+      "cn": "所以说“我将写一个商业计划”或“我必须写一个商业计划”是正确的。"
+    },
+    {
+      "id": 127,
+      "en": "But if you use this phrase, I'm going to write up a business plan.",
+      "cn": "但如果你使用这个短语“我将写一个商业计划”。"
+    },
+    {
+      "id": 128,
+      "en": "It just it's more fluent, right?",
+      "cn": "这听起来更流利，对吧？"
+    },
+    {
+      "id": 129,
+      "en": "It's just more native like exactly.",
+      "cn": "这更像是母语者的说法，确实如此。"
+    },
+    {
+      "id": 130,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 131,
+      "en": "And our next phrase is a return on investment.",
+      "cn": "我们下一个短语是投资回报。"
+    },
+    {
+      "id": 132,
+      "en": "Okay, so early we talked about investors, the money that they invest is called an investment.",
+      "cn": "好的，早些时候我们谈到了投资者，他们投资的钱称为投资。"
+    },
+    {
+      "id": 133,
+      "en": "Okay, these words are all very closely related.",
+      "cn": "好的，这些词都是非常相关的。"
+    },
+    {
+      "id": 134,
+      "en": "And when Marco decided to give money to my cupcake business, he he expects the money to come back.",
+      "cn": "当Marco决定给我的杯子蛋糕生意投资时，他希望钱能回来。"
+    },
+    {
+      "id": 135,
+      "en": "And he expects more actually to come back than what he put in.",
+      "cn": "而且他实际上希望能比他投入的更多。"
+    },
+    {
+      "id": 136,
+      "en": "So that's called a return on investment, the money that's the difference.",
+      "cn": "所以这叫做投资回报，钱的差额。"
+    },
+    {
+      "id": 137,
+      "en": "So if he gives me $1,000, and I give him back $1,500 in a year, he made $500.",
+      "cn": "所以如果他给我1000美元，而我在一年后还给他1500美元，他赚了500美元。"
+    },
+    {
+      "id": 138,
+      "en": "That's amazing.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 139,
+      "en": "That means it's a good return on his investment.",
+      "cn": "这意味着他的投资回报很好。"
+    },
+    {
+      "id": 140,
+      "en": "Right.",
+      "cn": "对吧。"
+    },
+    {
+      "id": 141,
+      "en": "So that's the that's the term that we use a return on investment to.",
+      "cn": "所以这就是我们使用的术语，投资回报。"
+    },
+    {
+      "id": 142,
+      "en": "So you don't say to return on investment, you see a return on investment.",
+      "cn": "所以你不说“回报投资”，你说“投资回报”。"
+    },
+    {
+      "id": 143,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 144,
+      "en": "It's a thing.",
+      "cn": "这是一种东西。"
+    },
+    {
+      "id": 145,
+      "en": "It's a number.",
+      "cn": "这是一种数字。"
+    },
+    {
+      "id": 146,
+      "en": "It's a quantity.",
+      "cn": "这是一种数量。"
+    },
+    {
+      "id": 147,
+      "en": "It's something you can count.",
+      "cn": "这是你可以计算的东西。"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对吧。"
+    },
+    {
+      "id": 149,
+      "en": "And well, in the end, after seeing that this business plan is not so easy, the guy said, you know what, I'm not going to quit my job and just save myself the hassle.",
+      "cn": "好吧，最后，在看到这个商业计划并不那么简单后，那个人说，你知道吗，我不打算辞掉我的工作，省去麻烦。"
+    },
+    {
+      "id": 150,
+      "en": "What's the hassle?",
+      "cn": "什么麻烦？"
+    },
+    {
+      "id": 151,
+      "en": "The hassle.",
+      "cn": "麻烦。"
+    },
+    {
+      "id": 152,
+      "en": "That's it.",
+      "cn": "就是这样。"
+    },
+    {
+      "id": 153,
+      "en": "That's an interesting word.",
+      "cn": "这是一个有趣的词。"
+    },
+    {
+      "id": 154,
+      "en": "So if I'm going to save myself the hassle, the hassle is like the problem or the hard work that it involves.",
+      "cn": "所以如果我打算省去麻烦，麻烦就像是涉及到的问题或艰苦的工作。"
+    },
+    {
+      "id": 155,
+      "en": "It's a lot of trouble, a lot of trouble.",
+      "cn": "这是很多麻烦，很多麻烦。"
+    },
+    {
+      "id": 156,
+      "en": "So I was going to cook some dinner tonight, but I'm going to save myself the hassle of going to the grocery store and buying it and cooking it by just ordering food.",
+      "cn": "所以我今晚打算做晚餐，但我打算省去去杂货店买东西和做饭的麻烦，直接点外卖。"
+    },
+    {
+      "id": 157,
+      "en": "Right.",
+      "cn": "对吧。"
+    },
+    {
+      "id": 158,
+      "en": "So that's a good example.",
+      "cn": "所以这是一个很好的例子。"
+    },
+    {
+      "id": 159,
+      "en": "Instead of doing all the work of cooking, you just save yourself a hassle, pick up the phone and get food delivered to your house.",
+      "cn": "与其做所有的烹饪工作，你不如省去麻烦，拿起电话让食物送到你家。"
+    },
+    {
+      "id": 160,
+      "en": "Right.",
+      "cn": "对吧。"
+    },
+    {
+      "id": 161,
+      "en": "And the word we change here, you can say save myself, save yourself, save his self.",
+      "cn": "而我们在这里改变的词，你可以说“省去麻烦”，或“我只是要省去麻烦”。"
+    },
+    {
+      "id": 162,
+      "en": "So you change that pronoun.",
+      "cn": "所以你改变那个代词。"
+    },
+    {
+      "id": 163,
+      "en": "The pronoun.",
+      "cn": "代词。"
+    },
+    {
+      "id": 164,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 165,
+      "en": "So you can save yourself the hassle or I'm just going to save myself the hassle.",
+      "cn": "所以你可以省去麻烦，或者“我只是要省去麻烦”。"
+    },
+    {
+      "id": 166,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 167,
+      "en": "So that's about it for Fluency Builder.",
+      "cn": "所以这就是流利度提升的内容。"
+    },
+    {
+      "id": 168,
+      "en": "Let's listen to today's dialogue one more time.",
+      "cn": "让我们再听一遍今天的对话。"
+    },
+    {
+      "id": 169,
+      "en": "And we'll be back in a minute to talk about business.",
+      "cn": "我们一会儿再回来谈谈商业。"
+    },
+    {
+      "id": 170,
+      "en": "I've had it.",
+      "cn": "我受够了。"
+    },
+    {
+      "id": 171,
+      "en": "I'm done working for a company that is taking me nowhere.",
+      "cn": "我不想再为一家没有前途的公司工作。"
+    },
+    {
+      "id": 172,
+      "en": "So what are you going to do?",
+      "cn": "那你打算怎么做？"
+    },
+    {
+      "id": 173,
+      "en": "Just quit?",
+      "cn": "就辞职？"
+    },
+    {
+      "id": 174,
+      "en": "That's exactly what I'm going to do.",
+      "cn": "我正是要这么做。"
+    },
+    {
+      "id": 175,
+      "en": "I've decided to create my own company.",
+      "cn": "我决定创建自己的公司。"
+    },
+    {
+      "id": 176,
+      "en": "I'm going to write up a business plan, get some investors and start working for myself.",
+      "cn": "我打算写一个商业计划，找一些投资者，开始为自己工作。"
+    },
+    {
+      "id": 177,
+      "en": "Have you ever written up a business plan before?",
+      "cn": "你以前写过商业计划吗？"
+    },
+    {
+      "id": 178,
+      "en": "Well, no, it can't be that hard.",
+      "cn": "嗯，不，应该没那么难。"
+    },
+    {
+      "id": 179,
+      "en": "I mean, all you have to do is explain your business.",
+      "cn": "我的意思是，你只需要解释你的业务。"
+    },
+    {
+      "id": 180,
+      "en": "How are you going to do things?",
+      "cn": "你打算怎么做？"
+    },
+    {
+      "id": 181,
+      "en": "And that's it, right?",
+      "cn": "就这样，对吧？"
+    },
+    {
+      "id": 182,
+      "en": "You can be more wrong.",
+      "cn": "你错得更离谱。"
+    },
+    {
+      "id": 183,
+      "en": "A well written business plan will include an executive summary, which highlights the idea of the business in two pages or less.",
+      "cn": "一份写得好的商业计划将包括一份执行摘要，突出业务的想法，控制在两页以内。"
+    },
+    {
+      "id": 184,
+      "en": "Then you need to describe your company with information such as what type of legal structure it has history, etc.",
+      "cn": "然后你需要描述你的公司，包括它的法律结构、历史等信息。"
+    },
+    {
+      "id": 185,
+      "en": "Well, that seems easy enough.",
+      "cn": "嗯，这似乎足够简单。"
+    },
+    {
+      "id": 186,
+      "en": "Wait, there's more.",
+      "cn": "等等，还有更多。"
+    },
+    {
+      "id": 187,
+      "en": "Then you need to introduce and describe your goods or services, what they are and how they're different from competitors.",
+      "cn": "然后你需要介绍和描述你的商品或服务，它们是什么，以及它们与竞争对手的不同之处。"
+    },
+    {
+      "id": 188,
+      "en": "Then comes the hard part, a market analysis.",
+      "cn": "然后是困难的部分，市场分析。"
+    },
+    {
+      "id": 189,
+      "en": "You need to investigate and analyse hundreds of variables.",
+      "cn": "你需要调查和分析数百个变量。"
+    },
+    {
+      "id": 190,
+      "en": "You need to take into consideration socio economic factors from GDP per capita to how many children on average the population has.",
+      "cn": "你需要考虑从人均GDP到平均每个家庭有多少孩子的社会经济因素。"
+    },
+    {
+      "id": 191,
+      "en": "All this information is useful so that you can move on to your strategy and implementation stage, where you will describe in detail how you will actually execute your idea.",
+      "cn": "所有这些信息都是有用的，以便你可以进入你的战略和实施阶段，在那里你将详细描述你将如何实际执行你的想法。"
+    },
+    {
+      "id": 192,
+      "en": "Geez, is that all?",
+      "cn": "天哪，这就是全部吗？"
+    },
+    {
+      "id": 193,
+      "en": "Almost.",
+      "cn": "几乎。"
+    },
+    {
+      "id": 194,
+      "en": "The most important piece of information for your investors will be the financial analysis.",
+      "cn": "对于你的投资者来说，最重要的信息将是财务分析。"
+    },
+    {
+      "id": 195,
+      "en": "Here you will calculate and estimate sales, cash flow and profits.",
+      "cn": "在这里你将计算和估算销售、现金流和利润。"
+    },
+    {
+      "id": 196,
+      "en": "After all, people will want to know when they will begin to see a return on their investment.",
+      "cn": "毕竟，人们想知道他们何时会开始看到投资回报。"
+    },
+    {
+      "id": 197,
+      "en": "Um, I think I'll just stick to my old job and save myself all the hassle of trying to start up a business.",
+      "cn": "嗯，我想我还是继续做我的老工作，省去创业的麻烦。"
+    },
+    {
+      "id": 198,
+      "en": "So it was pretty interesting that he wanted to quit his job and just, you know, set up a business.",
+      "cn": "所以他想辞职并创业，这真的很有趣。"
+    },
+    {
+      "id": 199,
+      "en": "But actually many people say that business plans are unnecessary.",
+      "cn": "但实际上很多人说商业计划是多余的。"
+    },
+    {
+      "id": 200,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 201,
+      "en": "Do these people have lots of money and they don't need investors or?",
+      "cn": "这些人有很多钱，不需要投资者吗？"
+    },
+    {
+      "id": 202,
+      "en": "I think the problem is that there are many books out there that give you clear examples of companies, fortune 500 companies that started out without a business plan.",
+      "cn": "我认为问题在于，有很多书籍提供了明确的例子，像财富500强公司那样没有商业计划就开始了。"
+    },
+    {
+      "id": 203,
+      "en": "So I think many people take this as a, well, you know, a rule, a rule like, well, they didn't need one or it's not really necessary or why should I write up a business plan?",
+      "cn": "所以我认为很多人把这当作一种规则，像是，他们不需要商业计划，或者这并不必要，或者我为什么要写商业计划？"
+    },
+    {
+      "id": 204,
+      "en": "Well, I'm not an entrepreneur and I'm not a business person, but my feeling is that a business plan is as much for investors as it is for yourself.",
+      "cn": "嗯，我不是企业家，也不是商人，但我觉得商业计划对投资者和自己都是重要的。"
+    },
+    {
+      "id": 205,
+      "en": "It helps you clarify your goals.",
+      "cn": "它帮助您明确目标。"
+    },
+    {
+      "id": 206,
+      "en": "It helps you explain your objectives to your future colleagues.",
+      "cn": "它帮助您向未来的同事解释您的目标。"
+    },
+    {
+      "id": 207,
+      "en": "And I think it's just a really good way to map out the first year of a business because it attempts to, a lot of businesses fail in that first year.",
+      "cn": "我认为这是一种很好的方式来规划企业的第一年，因为很多企业在第一年就失败了。"
+    },
+    {
+      "id": 208,
+      "en": "So I think this is a really important step.",
+      "cn": "所以我认为这是一个非常重要的步骤。"
+    },
+    {
+      "id": 209,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 210,
+      "en": "So it's very interesting.",
+      "cn": "所以这非常有趣。"
+    },
+    {
+      "id": 211,
+      "en": "We've talked a little bit about business here, but we would like to know your ideas or your comments or any other suggestions that you have about this topic or any topic on English pod.",
+      "cn": "我们在这里谈了一点商业，但我们想知道您对这个话题或任何关于英语播客的话题的想法、评论或其他建议。"
+    },
+    {
+      "id": 212,
+      "en": "So why don't you send us a comment or a personal message?",
+      "cn": "所以为什么不给我们发送评论或个人消息呢？"
+    },
+    {
+      "id": 213,
+      "en": "We are at English pod.com and we'll see you guys there.",
+      "cn": "我们在 English pod.com，期待在那里见到大家。"
+    },
+    {
+      "id": 214,
+      "en": "Bye everyone.",
+      "cn": "大家再见。"
+    }
+  ]
+}

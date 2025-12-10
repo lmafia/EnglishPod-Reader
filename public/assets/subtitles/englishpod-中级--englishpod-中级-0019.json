@@ -1,0 +1,1344 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0019",
+  "title": "EnglishPod 中级 0019",
+  "totalSegments": 267,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners, and welcome to another lesson with EnglishPod.",
+      "cn": "你好，英语学习者，欢迎来到另一个英语播客的课程。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫马尔科。"
+    },
+    {
+      "id": 3,
+      "en": "And I'm Erika.",
+      "cn": "我是艾瑞卡。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're bringing you a great Christmas lesson.",
+      "cn": "今天我们为你带来一个很棒的圣诞课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right, we've got a lot of Christmas vocabulary in today's lesson for you.",
+      "cn": "没错，今天的课程中有很多圣诞词汇。"
+    },
+    {
+      "id": 6,
+      "en": "Yeah, it's almost Christmas time, so everyone is getting into the spirit, especially here at EnglishPod.",
+      "cn": "是的，快到圣诞节了，大家都在感受节日气氛，尤其是在英语播客这里。"
+    },
+    {
+      "id": 7,
+      "en": "So we're going to teach you a little bit more about this.",
+      "cn": "所以我们将教你更多关于这个的内容。"
+    },
+    {
+      "id": 8,
+      "en": "Speaking of the spirit, I think it's time for us to look at our vocabulary preview.",
+      "cn": "说到节日气氛，我想是时候看看我们的词汇预览了。"
+    },
+    {
+      "id": 9,
+      "en": "VOCABULARY PREVIEW So in this part of our show, we'll look at some key language in the dialogue that you'll need to know to understand the dialogue.",
+      "cn": "词汇预览 在我们节目的这一部分，我们将查看对话中一些你需要了解的关键语言，以便理解对话。"
+    },
+    {
+      "id": 10,
+      "en": "And actually today we only have one word.",
+      "cn": "其实今天我们只有一个词。"
+    },
+    {
+      "id": 11,
+      "en": "Eggnog.",
+      "cn": "蛋酒。"
+    },
+    {
+      "id": 12,
+      "en": "Eggnog.",
+      "cn": "蛋酒。"
+    },
+    {
+      "id": 13,
+      "en": "Eggnog.",
+      "cn": "蛋酒。"
+    },
+    {
+      "id": 14,
+      "en": "E-G-G-N-O-G.",
+      "cn": "E-G-G-N-O-G。"
+    },
+    {
+      "id": 15,
+      "en": "Eggnog.",
+      "cn": "蛋酒。"
+    },
+    {
+      "id": 16,
+      "en": "So eggnog is a really popular Christmas drink.",
+      "cn": "蛋酒是一种非常受欢迎的圣诞饮品。"
+    },
+    {
+      "id": 17,
+      "en": "It's a traditional Christmas drink.",
+      "cn": "这是一种传统的圣诞饮品。"
+    },
+    {
+      "id": 18,
+      "en": "Right, what is it made of?",
+      "cn": "对，它是用什么做的？"
+    },
+    {
+      "id": 19,
+      "en": "Eggs, cream, sugar, and usually rum.",
+      "cn": "鸡蛋、奶油、糖，通常还有朗姆酒。"
+    },
+    {
+      "id": 20,
+      "en": "Rum, oh, so it has alcohol.",
+      "cn": "朗姆酒，哦，所以它含有酒精。"
+    },
+    {
+      "id": 21,
+      "en": "Yep, normally it has alcohol.",
+      "cn": "是的，通常是含酒精的。"
+    },
+    {
+      "id": 22,
+      "en": "Okay, all right, that's interesting.",
+      "cn": "好的，明白了，这很有趣。"
+    },
+    {
+      "id": 23,
+      "en": "There's actually a drink very similar to this in chili.",
+      "cn": "其实在智利有一种非常类似的饮品。"
+    },
+    {
+      "id": 24,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 25,
+      "en": "Yep, they call it monkey tail.",
+      "cn": "是的，他们叫它猴尾。"
+    },
+    {
+      "id": 26,
+      "en": "So in Spanish that would be... Cola de mono.",
+      "cn": "所以用西班牙语就是…… Cola de mono。"
+    },
+    {
+      "id": 27,
+      "en": "Very nice.",
+      "cn": "很不错。"
+    },
+    {
+      "id": 28,
+      "en": "Yeah, so it's actually really, really good.",
+      "cn": "是的，实际上它真的很好喝。"
+    },
+    {
+      "id": 29,
+      "en": "And it's really similar to eggnog.",
+      "cn": "而且和蛋酒非常相似。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, well with that in mind, let's take a listen to our dialogue for the first time.",
+      "cn": "好吧，考虑到这一点，让我们第一次听听我们的对话。"
+    },
+    {
+      "id": 31,
+      "en": "I hate working on Christmas Eve.",
+      "cn": "我讨厌在平安夜工作。"
+    },
+    {
+      "id": 32,
+      "en": "Whoa, get a load of this guy.",
+      "cn": "哇，看看这个家伙。"
+    },
+    {
+      "id": 33,
+      "en": "Come in Central, I think we got ourselves a situation here.",
+      "cn": "中央，请进，我想我们这里有情况。"
+    },
+    {
+      "id": 34,
+      "en": "License and registration, please.",
+      "cn": "请出示驾照和注册证明。"
+    },
+    {
+      "id": 35,
+      "en": "Have you been drinking tonight, sir?",
+      "cn": "先生，今晚你喝酒了吗？"
+    },
+    {
+      "id": 36,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "cn": "我喝了一两杯蛋酒，但没有别的。"
+    },
+    {
+      "id": 37,
+      "en": "Step out of the vehicle, please.",
+      "cn": "请下车。"
+    },
+    {
+      "id": 38,
+      "en": "Sir, what do you have in the back?",
+      "cn": "先生，你后面有什么？"
+    },
+    {
+      "id": 39,
+      "en": "Just a few Christmas gifts.",
+      "cn": "只是一些圣诞礼物。"
+    },
+    {
+      "id": 40,
+      "en": "Tis the season after all.",
+      "cn": "毕竟是这个季节。"
+    },
+    {
+      "id": 41,
+      "en": "Don't take that tone with me.",
+      "cn": "不要用那种语气跟我说话。"
+    },
+    {
+      "id": 42,
+      "en": "Do you have an invoice for these items?",
+      "cn": "你有这些物品的发票吗？"
+    },
+    {
+      "id": 43,
+      "en": "Oh no, I make these in my workshop in the North Pole.",
+      "cn": "哦不，我是在北极的工作坊里做的这些。"
+    },
+    {
+      "id": 44,
+      "en": "You are under arrest, sir.",
+      "cn": "你被逮捕了，先生。"
+    },
+    {
+      "id": 45,
+      "en": "You have the right to remain silent.",
+      "cn": "你有权保持沉默。"
+    },
+    {
+      "id": 46,
+      "en": "You better not pout, you better not cry.",
+      "cn": "你最好不要发脾气，也不要哭。"
+    },
+    {
+      "id": 47,
+      "en": "Anything you say can and will be used against you.",
+      "cn": "你所说的任何话都可以并将被用作对你不利的证据。"
+    },
+    {
+      "id": 48,
+      "en": "You have the right to an attorney.",
+      "cn": "你有权请律师。"
+    },
+    {
+      "id": 49,
+      "en": "If you can't afford one, the state will appoint one for you.",
+      "cn": "如果你负担不起，国家会为你指派一位。"
+    },
+    {
+      "id": 50,
+      "en": "Do you understand these rights that have just been read to you?",
+      "cn": "你明白刚刚读给你的这些权利吗？"
+    },
+    {
+      "id": 51,
+      "en": "You can't take me to jail.",
+      "cn": "你不能把我带进监狱。"
+    },
+    {
+      "id": 52,
+      "en": "What about my sleigh?",
+      "cn": "我的雪橇怎么办？"
+    },
+    {
+      "id": 53,
+      "en": "It's Christmas Eve.",
+      "cn": "今天是平安夜。"
+    },
+    {
+      "id": 54,
+      "en": "I have presents to deliver.",
+      "cn": "我有礼物要送。"
+    },
+    {
+      "id": 55,
+      "en": "Rudolph, Prancer, Dancer, good help!",
+      "cn": "鲁道夫、普兰瑟、丹瑟，快来帮忙！"
+    },
+    {
+      "id": 56,
+      "en": "Well,",
+      "cn": "好吧，"
+    },
+    {
+      "id": 57,
+      "en": "I did not see that one coming.",
+      "cn": "我没想到这一点。"
+    },
+    {
+      "id": 58,
+      "en": "That was interesting.",
+      "cn": "这很有趣。"
+    },
+    {
+      "id": 59,
+      "en": "Santa Claus is being taken to jail.",
+      "cn": "圣诞老人被带进监狱了。"
+    },
+    {
+      "id": 60,
+      "en": "What's gonna happen next, Marco?",
+      "cn": "接下来会发生什么，马尔科？"
+    },
+    {
+      "id": 61,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 62,
+      "en": "We'll talk about that in a little while.",
+      "cn": "我们稍后会讨论这个。"
+    },
+    {
+      "id": 63,
+      "en": "Let's take a look at some language from this dialogue.",
+      "cn": "让我们看看这个对话中的一些语言。"
+    },
+    {
+      "id": 64,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 65,
+      "en": "So the first word that we have on our language takeaway today is vehicle.",
+      "cn": "所以我们今天语言要点中的第一个词是车辆。"
+    },
+    {
+      "id": 66,
+      "en": "Vehicle.",
+      "cn": "车辆。"
+    },
+    {
+      "id": 67,
+      "en": "Vehicle.",
+      "cn": "车辆。"
+    },
+    {
+      "id": 68,
+      "en": "Vehicle.",
+      "cn": "车辆。"
+    },
+    {
+      "id": 69,
+      "en": "So this is a vehicle.",
+      "cn": "所以这是一辆车辆。"
+    },
+    {
+      "id": 70,
+      "en": "Vehicle.",
+      "cn": "车辆。"
+    },
+    {
+      "id": 71,
+      "en": "And this is a vehicle.",
+      "cn": "这是一辆车辆。"
+    },
+    {
+      "id": 72,
+      "en": "And this is a vehicle.",
+      "cn": "这也是一辆车辆。"
+    },
+    {
+      "id": 73,
+      "en": "So all of those are vehicles.",
+      "cn": "所以这些都是车辆。"
+    },
+    {
+      "id": 74,
+      "en": "Now I thought that a vehicle was a car specifically.",
+      "cn": "现在我以为车辆特指汽车。"
+    },
+    {
+      "id": 75,
+      "en": "No, any machine that carries people from one place to another is a vehicle.",
+      "cn": "不，任何能把人从一个地方运送到另一个地方的机器都是车辆。"
+    },
+    {
+      "id": 76,
+      "en": "Great.",
+      "cn": "太好了。"
+    },
+    {
+      "id": 77,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 78,
+      "en": "Let's take a look now at our second word.",
+      "cn": "现在让我们看看我们的第二个词。"
+    },
+    {
+      "id": 79,
+      "en": "Attorney.",
+      "cn": "律师。"
+    },
+    {
+      "id": 80,
+      "en": "Attorney.",
+      "cn": "律师。"
+    },
+    {
+      "id": 81,
+      "en": "So what is an attorney?",
+      "cn": "那么律师是什么？"
+    },
+    {
+      "id": 82,
+      "en": "A lawyer.",
+      "cn": "律师。"
+    },
+    {
+      "id": 83,
+      "en": "Well, that's simple enough.",
+      "cn": "嗯，这很简单。"
+    },
+    {
+      "id": 84,
+      "en": "Yeah, a lawyer.",
+      "cn": "是的，律师。"
+    },
+    {
+      "id": 85,
+      "en": "Let's move to our third word, which is...",
+      "cn": "让我们进入我们的第三个词，那个是……"
+    },
+    {
+      "id": 86,
+      "en": "Appoint.",
+      "cn": "指派。"
+    },
+    {
+      "id": 87,
+      "en": "Appoint.",
+      "cn": "指派。"
+    },
+    {
+      "id": 88,
+      "en": "Appoint.",
+      "cn": "指派。"
+    },
+    {
+      "id": 89,
+      "en": "Appoint.",
+      "cn": "指派。"
+    },
+    {
+      "id": 90,
+      "en": "So, appoint means choose.",
+      "cn": "所以，指派意味着选择。"
+    },
+    {
+      "id": 91,
+      "en": "Okay, so the president of a country might appoint his chief of staff.",
+      "cn": "好吧，所以一个国家的总统可能会指派他的幕僚长。"
+    },
+    {
+      "id": 92,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 93,
+      "en": "Or I can appoint my attorney.",
+      "cn": "或者我可以指派我的律师。"
+    },
+    {
+      "id": 94,
+      "en": "True.",
+      "cn": "对。"
+    },
+    {
+      "id": 95,
+      "en": "So can you appoint a thing?",
+      "cn": "那么你可以指派一个东西吗？"
+    },
+    {
+      "id": 96,
+      "en": "Can I appoint my coffee cup?",
+      "cn": "我可以指派我的咖啡杯吗？"
+    },
+    {
+      "id": 97,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 98,
+      "en": "You only use it for people.",
+      "cn": "你只能用它来指派人。"
+    },
+    {
+      "id": 99,
+      "en": "You choose someone.",
+      "cn": "你选择某人。"
+    },
+    {
+      "id": 100,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 101,
+      "en": "So I appoint someone.",
+      "cn": "所以我任命了某人。"
+    },
+    {
+      "id": 102,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 103,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 104,
+      "en": "Let's move to our final word.",
+      "cn": "让我们进入最后一个词。"
+    },
+    {
+      "id": 105,
+      "en": "Slay.",
+      "cn": "雪橇。"
+    },
+    {
+      "id": 106,
+      "en": "Slay.",
+      "cn": "雪橇。"
+    },
+    {
+      "id": 107,
+      "en": "Slay.",
+      "cn": "雪橇。"
+    },
+    {
+      "id": 108,
+      "en": "So Erica, you're from Canada.",
+      "cn": "所以Erica，你来自加拿大。"
+    },
+    {
+      "id": 109,
+      "en": "You can tell us about sleighs.",
+      "cn": "你可以告诉我们关于雪橇的事。"
+    },
+    {
+      "id": 110,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 111,
+      "en": "A sleigh is a vehicle that is pulled by a horse and travels over snow or ice.",
+      "cn": "雪橇是一种由马拉动的交通工具，可以在雪或冰上行驶。"
+    },
+    {
+      "id": 112,
+      "en": "So, you know, like Santa drives a sleigh.",
+      "cn": "所以，你知道，像圣诞老人开雪橇。"
+    },
+    {
+      "id": 113,
+      "en": "He drives a sleigh.",
+      "cn": "他开雪橇。"
+    },
+    {
+      "id": 114,
+      "en": "So do you drive a sleigh or ride a sleigh?",
+      "cn": "那你是开雪橇还是坐雪橇？"
+    },
+    {
+      "id": 115,
+      "en": "Um, good question.",
+      "cn": "嗯，好的问题。"
+    },
+    {
+      "id": 116,
+      "en": "Well, the song says you ride in a one horse open sleigh.",
+      "cn": "嗯，歌曲里说你坐在一匹马的敞篷雪橇里。"
+    },
+    {
+      "id": 117,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 118,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 119,
+      "en": "Well, you know what?",
+      "cn": "嗯，你知道吗？"
+    },
+    {
+      "id": 120,
+      "en": "I think it's time for us to look at some interesting phrases that we found in this dialogue.",
+      "cn": "我想是时候看看我们在这个对话中发现的一些有趣短语了。"
+    },
+    {
+      "id": 121,
+      "en": "So let's look at putting it together.",
+      "cn": "所以让我们看看如何把它们结合起来。"
+    },
+    {
+      "id": 122,
+      "en": "Putting it together.",
+      "cn": "结合起来。"
+    },
+    {
+      "id": 123,
+      "en": "Today on putting it together, we have two great phrases for you.",
+      "cn": "今天在结合起来中，我们有两个很棒的短语给你。"
+    },
+    {
+      "id": 124,
+      "en": "And let's take a look at the first one.",
+      "cn": "让我们看看第一个。"
+    },
+    {
+      "id": 125,
+      "en": "Step out.",
+      "cn": "走出去。"
+    },
+    {
+      "id": 126,
+      "en": "Step out.",
+      "cn": "走出去。"
+    },
+    {
+      "id": 127,
+      "en": "Step out.",
+      "cn": "走出去。"
+    },
+    {
+      "id": 128,
+      "en": "So step out means to go out of a place for a short period of time.",
+      "cn": "所以走出去的意思是短时间离开一个地方。"
+    },
+    {
+      "id": 129,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 130,
+      "en": "So in our dialogue, for example, the police officer said, step out of the vehicle.",
+      "cn": "所以在我们的对话中，例如，警察说，走出车辆。"
+    },
+    {
+      "id": 131,
+      "en": "Get out of your vehicle.",
+      "cn": "下车。"
+    },
+    {
+      "id": 132,
+      "en": "You can also say step out of the office.",
+      "cn": "你也可以说走出办公室。"
+    },
+    {
+      "id": 133,
+      "en": "You can say I just stepped out of the shower.",
+      "cn": "你可以说我刚刚洗完澡。"
+    },
+    {
+      "id": 134,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 135,
+      "en": "Now we can also say step in.",
+      "cn": "现在我们也可以说走进。"
+    },
+    {
+      "id": 136,
+      "en": "It's the opposite.",
+      "cn": "这是相反的。"
+    },
+    {
+      "id": 137,
+      "en": "The opposite.",
+      "cn": "相反的。"
+    },
+    {
+      "id": 138,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 139,
+      "en": "I can ask Marco step into my office for a moment.",
+      "cn": "我可以叫Marco进我的办公室一会儿。"
+    },
+    {
+      "id": 140,
+      "en": "Oh, okay.",
+      "cn": "哦，好的。"
+    },
+    {
+      "id": 141,
+      "en": "So that's step out and step in.",
+      "cn": "所以这就是走出去和走进。"
+    },
+    {
+      "id": 142,
+      "en": "Great phrases.",
+      "cn": "很棒的短语。"
+    },
+    {
+      "id": 143,
+      "en": "Let's take a look at our final phrase.",
+      "cn": "让我们看看最后一个短语。"
+    },
+    {
+      "id": 144,
+      "en": "Get a load of.",
+      "cn": "看一下。"
+    },
+    {
+      "id": 145,
+      "en": "Get a load of.",
+      "cn": "看一下。"
+    },
+    {
+      "id": 146,
+      "en": "Get a load of.",
+      "cn": "看一下。"
+    },
+    {
+      "id": 147,
+      "en": "So when I say get a load of something, I mean, look at, right?",
+      "cn": "所以当我说看一下某事时，我的意思是，看吧，对吧？"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 149,
+      "en": "Look at this guy.",
+      "cn": "看这个家伙。"
+    },
+    {
+      "id": 150,
+      "en": "Get a load of this guy.",
+      "cn": "看这个家伙。"
+    },
+    {
+      "id": 151,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 152,
+      "en": "That's what we heard in the dialogue.",
+      "cn": "这就是我们在对话中听到的。"
+    },
+    {
+      "id": 153,
+      "en": "Now you can use this phrase in a number of different ways.",
+      "cn": "现在你可以用这个短语以多种不同的方式。"
+    },
+    {
+      "id": 154,
+      "en": "And we have some examples for you.",
+      "cn": "我们有一些例子给你。"
+    },
+    {
+      "id": 155,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 156,
+      "en": "Give a little of this.",
+      "cn": "给一点这个。"
+    },
+    {
+      "id": 157,
+      "en": "A war has started in Antarctica.",
+      "cn": "南极洲爆发了一场战争。"
+    },
+    {
+      "id": 158,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 159,
+      "en": "Get a load of that house.",
+      "cn": "看那座房子。"
+    },
+    {
+      "id": 160,
+      "en": "It's so big.",
+      "cn": "它太大了。"
+    },
+    {
+      "id": 161,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 162,
+      "en": "Get a load of him.",
+      "cn": "看他。"
+    },
+    {
+      "id": 163,
+      "en": "He's wearing a pink suit.",
+      "cn": "他穿着一套粉色的西装。"
+    },
+    {
+      "id": 164,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 165,
+      "en": "I think we've covered a lot of interesting words and phrases.",
+      "cn": "我想我们已经涵盖了很多有趣的单词和短语。"
+    },
+    {
+      "id": 166,
+      "en": "So we are ready to listen to our dialogue a second time.",
+      "cn": "所以我们准备第二次听我们的对话。"
+    },
+    {
+      "id": 167,
+      "en": "But this time it's going to be a little bit slower so we can pick up all these great words.",
+      "cn": "但这次会慢一点，这样我们可以听到所有这些很棒的单词。"
+    },
+    {
+      "id": 168,
+      "en": "I hate working on Christmas Eve.",
+      "cn": "我讨厌在平安夜工作。"
+    },
+    {
+      "id": 169,
+      "en": "Whoa, get a load of this guy.",
+      "cn": "哇，看看这个家伙。"
+    },
+    {
+      "id": 170,
+      "en": "Come in Central.",
+      "cn": "进来中央。"
+    },
+    {
+      "id": 171,
+      "en": "I think we got ourselves a situation here.",
+      "cn": "我想我们遇到了一些情况。"
+    },
+    {
+      "id": 172,
+      "en": "License and registration, please.",
+      "cn": "请出示驾照和注册。"
+    },
+    {
+      "id": 173,
+      "en": "Have you been drinking tonight, sir?",
+      "cn": "先生，您今晚喝酒了吗？"
+    },
+    {
+      "id": 174,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "cn": "我喝了一两杯蛋酒，但没有别的。"
+    },
+    {
+      "id": 175,
+      "en": "Step out of the vehicle, please.",
+      "cn": "请下车。"
+    },
+    {
+      "id": 176,
+      "en": "Sir, what do you have in the back?",
+      "cn": "先生，您后面有什么？"
+    },
+    {
+      "id": 177,
+      "en": "Just a few Christmas gifts.",
+      "cn": "只是一些圣诞礼物。"
+    },
+    {
+      "id": 178,
+      "en": "Tis the season, after all.",
+      "cn": "毕竟是这个季节。"
+    },
+    {
+      "id": 179,
+      "en": "Don't take that tone with me.",
+      "cn": "不要用那种语气跟我说话。"
+    },
+    {
+      "id": 180,
+      "en": "Do you have an invoice for these items?",
+      "cn": "你有这些物品的发票吗？"
+    },
+    {
+      "id": 181,
+      "en": "Um, no.",
+      "cn": "嗯，没有。"
+    },
+    {
+      "id": 182,
+      "en": "I make these in my workshop in the North Pole.",
+      "cn": "我在北极的工作坊里做这些。"
+    },
+    {
+      "id": 183,
+      "en": "You are under arrest, sir.",
+      "cn": "先生，您被逮捕了。"
+    },
+    {
+      "id": 184,
+      "en": "You have the right to remain silent.",
+      "cn": "您有权保持沉默。"
+    },
+    {
+      "id": 185,
+      "en": "You better not pout, you better not cry.",
+      "cn": "你最好不要发脾气，也不要哭。"
+    },
+    {
+      "id": 186,
+      "en": "Anything you say can and will be used against you.",
+      "cn": "你所说的任何话都可以并将被用作对你不利的证据。"
+    },
+    {
+      "id": 187,
+      "en": "You have the right to an attorney.",
+      "cn": "你有权请律师。"
+    },
+    {
+      "id": 188,
+      "en": "If you cannot afford one, the state will appoint one for you.",
+      "cn": "如果你负担不起，国家会为你指派一位。"
+    },
+    {
+      "id": 189,
+      "en": "Do you understand all these rights that have just been read to you?",
+      "cn": "你明白刚才读给你的所有权利吗？"
+    },
+    {
+      "id": 190,
+      "en": "You can't take me to jail.",
+      "cn": "你不能把我带到监狱。"
+    },
+    {
+      "id": 191,
+      "en": "What about my sleigh?",
+      "cn": "我的雪橇怎么办？"
+    },
+    {
+      "id": 192,
+      "en": "It's Christmas Eve.",
+      "cn": "今天是平安夜。"
+    },
+    {
+      "id": 193,
+      "en": "I have presents to deliver.",
+      "cn": "我有礼物要送。"
+    },
+    {
+      "id": 194,
+      "en": "Rudolph, prancer, dancer, get help.",
+      "cn": "鲁道夫，普兰瑟，舞者，快去求助。"
+    },
+    {
+      "id": 195,
+      "en": "Okay, so we noticed some really great words and phrases.",
+      "cn": "好的，所以我们注意到了一些非常棒的单词和短语。"
+    },
+    {
+      "id": 196,
+      "en": "And with this, now we can start with some Fluency Builder.",
+      "cn": "有了这个，我们现在可以开始一些流利度提升。"
+    },
+    {
+      "id": 197,
+      "en": "Fluency Builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 198,
+      "en": "Today on Fluency Builder, we have two great phrases that you can use to sound a little bit more natural when you speak.",
+      "cn": "今天在流利度提升中，我们有两个很棒的短语，你可以用来让你的说话听起来更自然。"
+    },
+    {
+      "id": 199,
+      "en": "That's right, our first phrase you can use if you want to say, Don't speak to me like that.",
+      "cn": "没错，我们的第一个短语是，如果你想说，不要那样跟我说话。"
+    },
+    {
+      "id": 200,
+      "en": "Don't take that tone with me.",
+      "cn": "不要用那种语气跟我说话。"
+    },
+    {
+      "id": 201,
+      "en": "Don't take that tone with me.",
+      "cn": "不要用那种语气跟我说话。"
+    },
+    {
+      "id": 202,
+      "en": "So you often hear this phrase coming out of the mouth of a mother or a father.",
+      "cn": "这个短语通常是母亲或父亲说的。"
+    },
+    {
+      "id": 203,
+      "en": "Yeah, when their children are maybe talking back.",
+      "cn": "是的，当他们的孩子可能在顶嘴时。"
+    },
+    {
+      "id": 204,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 205,
+      "en": "Don't take that tone with me, young man.",
+      "cn": "不要用那种语气跟我说话，年轻人。"
+    },
+    {
+      "id": 206,
+      "en": "I used to get that a lot.",
+      "cn": "我以前常常听到这个。"
+    },
+    {
+      "id": 207,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 208,
+      "en": "Sorry about that.",
+      "cn": "对不起。"
+    },
+    {
+      "id": 209,
+      "en": "Okay, our second phrase, we use it when we have a problem.",
+      "cn": "好的，第二个短语是，当我们有问题时使用的。"
+    },
+    {
+      "id": 210,
+      "en": "The phrase we heard in the dialogue was, I think we've got ourselves a situation here.",
+      "cn": "我们在对话中听到的短语是，我想我们遇到麻烦了。"
+    },
+    {
+      "id": 211,
+      "en": "Let's listen to another example.",
+      "cn": "让我们听另一个例子。"
+    },
+    {
+      "id": 212,
+      "en": "Houston, we've got ourselves a situation here.",
+      "cn": "休斯顿，我们遇到麻烦了。"
+    },
+    {
+      "id": 213,
+      "en": "Houston, we've got ourselves a situation here.",
+      "cn": "休斯顿，我们遇到麻烦了。"
+    },
+    {
+      "id": 214,
+      "en": "Sometimes I use this phrase when I want to tell my boss that I have a problem.",
+      "cn": "有时我用这个短语告诉我的老板我有问题。"
+    },
+    {
+      "id": 215,
+      "en": "I might say, boss, I've got a bit of a situation.",
+      "cn": "我可能会说，老板，我有点麻烦。"
+    },
+    {
+      "id": 216,
+      "en": "Can you help me with it?",
+      "cn": "你能帮我吗？"
+    },
+    {
+      "id": 217,
+      "en": "Okay, yeah, I have a little bit of a problem.",
+      "cn": "好的，是的，我有点问题。"
+    },
+    {
+      "id": 218,
+      "en": "Yeah, useful phrases, hey?",
+      "cn": "是的，有用的短语，对吧？"
+    },
+    {
+      "id": 219,
+      "en": "Really useful phrases.",
+      "cn": "真的很有用的短语。"
+    },
+    {
+      "id": 220,
+      "en": "Great stuff.",
+      "cn": "很棒的内容。"
+    },
+    {
+      "id": 221,
+      "en": "So now we can listen to our dialogue a final time.",
+      "cn": "现在我们可以最后一次听我们的对话。"
+    },
+    {
+      "id": 222,
+      "en": "And this time we can understand everything that's in it.",
+      "cn": "这次我们可以理解里面的所有内容。"
+    },
+    {
+      "id": 223,
+      "en": "I hate working on Christmas Eve.",
+      "cn": "我讨厌在平安夜工作。"
+    },
+    {
+      "id": 224,
+      "en": "Whoa, get a load of this guy.",
+      "cn": "哇，看看这个家伙。"
+    },
+    {
+      "id": 225,
+      "en": "Come in, Central.",
+      "cn": "进来，中央。"
+    },
+    {
+      "id": 226,
+      "en": "I think we got ourselves a situation here.",
+      "cn": "我想我们遇到麻烦了。"
+    },
+    {
+      "id": 227,
+      "en": "License and registration, please.",
+      "cn": "请出示您的驾照和注册。"
+    },
+    {
+      "id": 228,
+      "en": "Have you been drinking tonight, sir?",
+      "cn": "先生，您今晚喝酒了吗？"
+    },
+    {
+      "id": 229,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "cn": "我喝了一两杯蛋酒，但没有别的。"
+    },
+    {
+      "id": 230,
+      "en": "Step out of the vehicle, please.",
+      "cn": "请下车。"
+    },
+    {
+      "id": 231,
+      "en": "Sir, what do you have in the back?",
+      "cn": "先生，您后面有什么？"
+    },
+    {
+      "id": 232,
+      "en": "Just a few Christmas gifts.",
+      "cn": "只是一些圣诞礼物。"
+    },
+    {
+      "id": 233,
+      "en": "Tis the season, after all.",
+      "cn": "毕竟是这个季节。"
+    },
+    {
+      "id": 234,
+      "en": "Don't take that tone with me.",
+      "cn": "不要用那种语气跟我说话。"
+    },
+    {
+      "id": 235,
+      "en": "Do you have an invoice for these items?",
+      "cn": "这些物品有发票吗？"
+    },
+    {
+      "id": 236,
+      "en": "Oh, no.",
+      "cn": "哦，没有。"
+    },
+    {
+      "id": 237,
+      "en": "I make these in my workshop in the North Pole.",
+      "cn": "我在北极的工作坊里做这些。"
+    },
+    {
+      "id": 238,
+      "en": "You are under arrest, sir.",
+      "cn": "先生，您被逮捕了。"
+    },
+    {
+      "id": 239,
+      "en": "You have the right to remain silent.",
+      "cn": "您有权保持沉默。"
+    },
+    {
+      "id": 240,
+      "en": "You better not pout, you better not cry.",
+      "cn": "你最好不要哭，最好不要发脾气。"
+    },
+    {
+      "id": 241,
+      "en": "Anything you say can and will be used against you.",
+      "cn": "你所说的任何话都可以并将被用作对你不利的证据。"
+    },
+    {
+      "id": 242,
+      "en": "You have the right to an attorney.",
+      "cn": "你有权请律师。"
+    },
+    {
+      "id": 243,
+      "en": "If you can't afford one, the state will appoint one for you.",
+      "cn": "如果你负担不起，国家会为你指派一个。"
+    },
+    {
+      "id": 244,
+      "en": "Do you understand these rights that have just been read to you?",
+      "cn": "你明白刚刚读给你的这些权利吗？"
+    },
+    {
+      "id": 245,
+      "en": "You can't take me to jail.",
+      "cn": "你不能把我带到监狱。"
+    },
+    {
+      "id": 246,
+      "en": "What about my sleigh?",
+      "cn": "我的雪橇怎么办？"
+    },
+    {
+      "id": 247,
+      "en": "It's Christmas Eve.",
+      "cn": "今天是平安夜。"
+    },
+    {
+      "id": 248,
+      "en": "I have presents to deliver.",
+      "cn": "我有礼物要送。"
+    },
+    {
+      "id": 249,
+      "en": "Rudolph!",
+      "cn": "鲁道夫！"
+    },
+    {
+      "id": 250,
+      "en": "Prancer!",
+      "cn": "普兰瑟！"
+    },
+    {
+      "id": 251,
+      "en": "Dancer!",
+      "cn": "丹瑟！"
+    },
+    {
+      "id": 252,
+      "en": "Good help!",
+      "cn": "好帮手！"
+    },
+    {
+      "id": 253,
+      "en": "So,",
+      "cn": "所以，"
+    },
+    {
+      "id": 254,
+      "en": "when the police officer was arresting Santa Claus, he said something a little bit strange, hey?",
+      "cn": "当警察逮捕圣诞老人时，他说了一些有点奇怪的话，对吧？"
+    },
+    {
+      "id": 255,
+      "en": "Yeah, he said, you better not pout, you better not cry.",
+      "cn": "是的，他说，你最好不要发脾气，最好不要哭。"
+    },
+    {
+      "id": 256,
+      "en": "Now, are those part of the normal rights that a police officer reads?",
+      "cn": "现在，这些是警察通常会读的权利吗？"
+    },
+    {
+      "id": 257,
+      "en": "No, no.",
+      "cn": "不，不是。"
+    },
+    {
+      "id": 258,
+      "en": "They're not part of the normal rights.",
+      "cn": "这不是正常的权利。"
+    },
+    {
+      "id": 259,
+      "en": "It's actually from a Christmas song, so let's listen to how it goes in the song.",
+      "cn": "这实际上来自一首圣诞歌曲，所以让我们听听这首歌是怎么唱的。"
+    },
+    {
+      "id": 260,
+      "en": "You better watch out, you better not cry.",
+      "cn": "你最好小心，最好不要哭。"
+    },
+    {
+      "id": 261,
+      "en": "Better not pout, I'm telling you why.",
+      "cn": "你最好不要发脾气，我告诉你原因。"
+    },
+    {
+      "id": 262,
+      "en": "Santa Claus is coming to town.",
+      "cn": "圣诞老人要来了。"
+    },
+    {
+      "id": 263,
+      "en": "I'm pretty happy we had a song to play there instead of us having to sing.",
+      "cn": "我很高兴我们有一首歌可以播放，而不是我们自己唱。"
+    },
+    {
+      "id": 264,
+      "en": "But that's great, because if the children cry or if they are not good kids, then Santa Claus will not give them presents.",
+      "cn": "但这很好，因为如果孩子们哭或者他们不是好孩子，那么圣诞老人就不会给他们礼物。"
+    },
+    {
+      "id": 265,
+      "en": "So, that's why.",
+      "cn": "所以，这就是原因。"
+    },
+    {
+      "id": 266,
+      "en": "Okay, listeners, I hope that you're not pouting, I hope you're not crying, but it's time for us to go, so... Be sure to go to our website at EnglishPod.com, and be sure to leave all your questions and comments, and maybe some of your Christmas stories.",
+      "cn": "好的，听众们，我希望你们没有发脾气，也希望你们没有哭，但现在是我们该走的时候了，所以... 一定要去我们的网站 EnglishPod.com，留下你们的所有问题和评论，或许还有你们的一些圣诞故事。"
+    },
+    {
+      "id": 267,
+      "en": "Alright, thanks for listening, and until next time, goodbye.",
+      "cn": "好吧，谢谢收听，下次再见，再见。"
+    }
+  ]
+}

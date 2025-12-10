@@ -1,0 +1,1089 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0336",
+  "title": "EnglishPod 中级 0336",
+  "totalSegments": 216,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and it's the holiday season.",
+      "cn": "我叫Catherine，现在是节日季节。"
+    },
+    {
+      "id": 4,
+      "en": "Today we have a lesson all about a special December holiday.",
+      "cn": "今天我们有一节关于特殊的十二月节日的课程。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "We are getting close to Christmas.",
+      "cn": "我们快到圣诞节了。"
+    },
+    {
+      "id": 7,
+      "en": "And of course, today we are going to talk about Christmas in the United States and some of the typical traditions that you see over there.",
+      "cn": "当然，今天我们要谈谈美国的圣诞节和那里的典型传统。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So we're going to be looking at a family as they wait for Christmas morning to arrive.",
+      "cn": "所以我们将观察一个家庭在等待圣诞早晨的情景。"
+    },
+    {
+      "id": 10,
+      "en": "If you don't know what that is, don't worry.",
+      "cn": "如果你不知道那是什么，别担心。"
+    },
+    {
+      "id": 11,
+      "en": "You'll hear us talk about it in a moment.",
+      "cn": "你马上就会听到我们谈论它。"
+    },
+    {
+      "id": 12,
+      "en": "But first, let's listen to our dialogue.",
+      "cn": "但首先，让我们听听我们的对话。"
+    },
+    {
+      "id": 13,
+      "en": "What are you doing awake?",
+      "cn": "你为什么还醒着？"
+    },
+    {
+      "id": 14,
+      "en": "I can't sleep, but it's almost midnight.",
+      "cn": "我睡不着，但快到午夜了。"
+    },
+    {
+      "id": 15,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 16,
+      "en": "I'm too excited for Christmas morning.",
+      "cn": "我对圣诞早晨太兴奋了。"
+    },
+    {
+      "id": 17,
+      "en": "Also, I thought I heard Santa.",
+      "cn": "而且，我觉得我听到了圣诞老人。"
+    },
+    {
+      "id": 18,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 19,
+      "en": "How do you know it was Santa?",
+      "cn": "你怎么知道是圣诞老人？"
+    },
+    {
+      "id": 20,
+      "en": "Well, I heard that naughty boys and girls get coal in their stockings.",
+      "cn": "嗯，我听说调皮的男孩和女孩会在他们的长袜里得到煤炭。"
+    },
+    {
+      "id": 21,
+      "en": "So I thought I'd be nice and make Santa cookies.",
+      "cn": "所以我想我应该乖一点，给圣诞老人做饼干。"
+    },
+    {
+      "id": 22,
+      "en": "I even left out some milk.",
+      "cn": "我甚至还留了一些牛奶。"
+    },
+    {
+      "id": 23,
+      "en": "I heard someone in the kitchen eating the cookies.",
+      "cn": "我听到厨房里有人在吃饼干。"
+    },
+    {
+      "id": 24,
+      "en": "So I came downstairs.",
+      "cn": "所以我下楼来了。"
+    },
+    {
+      "id": 25,
+      "en": "Hmm.",
+      "cn": "嗯。"
+    },
+    {
+      "id": 26,
+      "en": "Well, I know that Santa won't come down the chimney with you hiding behind the tree spying on him.",
+      "cn": "嗯，我知道圣诞老人不会在你躲在树后面监视他的情况下从烟囱下来。"
+    },
+    {
+      "id": 27,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 28,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 29,
+      "en": "Let's go back upstairs and get back to bed.",
+      "cn": "我们回楼上，继续睡觉吧。"
+    },
+    {
+      "id": 30,
+      "en": "That way we can let Santa do his job.",
+      "cn": "这样我们可以让圣诞老人做他的工作。"
+    },
+    {
+      "id": 31,
+      "en": "Then when you wake up, it will be Christmas already.",
+      "cn": "然后当你醒来时，圣诞节就到了。"
+    },
+    {
+      "id": 32,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 33,
+      "en": "Hey, honey, is that you?",
+      "cn": "嘿，亲爱的，是你吗？"
+    },
+    {
+      "id": 34,
+      "en": "Don't eat all the cookies.",
+      "cn": "不要吃光所有的饼干。"
+    },
+    {
+      "id": 35,
+      "en": "I want some too.",
+      "cn": "我也想要一些。"
+    },
+    {
+      "id": 36,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 37,
+      "en": "So now let's take a look at some language on language takeaway.",
+      "cn": "现在让我们看看一些语言要点。"
+    },
+    {
+      "id": 38,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 39,
+      "en": "OK, I just said it, but here's that phrase again, Christmas morning.",
+      "cn": "好的，我刚才说过，但这里再说一遍，圣诞早晨。"
+    },
+    {
+      "id": 40,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 41,
+      "en": "So Christmas morning is December 25th in the morning.",
+      "cn": "所以圣诞早晨是12月25日的早晨。"
+    },
+    {
+      "id": 42,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 43,
+      "en": "OK, so the tradition is that small children will wake up early and run downstairs and they will find Christmas presents under the Christmas tree.",
+      "cn": "好的，传统是小孩子会早起，跑下楼，发现圣诞树下有圣诞礼物。"
+    },
+    {
+      "id": 44,
+      "en": "So this is the Christmas morning tradition.",
+      "cn": "这就是圣诞早晨的传统。"
+    },
+    {
+      "id": 45,
+      "en": "Many countries, they celebrate Christmas on Christmas Eve, the 24th, right?",
+      "cn": "很多国家在平安夜，即24日庆祝圣诞节，对吧？"
+    },
+    {
+      "id": 46,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 47,
+      "en": "So Christmas Eve is December 24th, Christmas Day, or if it's in the morning, Christmas morning is December 25th.",
+      "cn": "所以平安夜是12月24日，圣诞节，或者如果是在早晨，圣诞早晨是12月25日。"
+    },
+    {
+      "id": 48,
+      "en": "And as you said, kids come downstairs or go to the where the Christmas tree is to look for their presents that Santa came in and left for them.",
+      "cn": "正如你所说，孩子们会下楼或去圣诞树那里寻找圣诞老人留下的礼物。"
+    },
+    {
+      "id": 49,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 50,
+      "en": "So the idea, the story is that Santa comes at night.",
+      "cn": "所以这个故事是圣诞老人晚上来。"
+    },
+    {
+      "id": 51,
+      "en": "Late at night and brings presents for the children.",
+      "cn": "深夜时带来礼物给孩子们。"
+    },
+    {
+      "id": 52,
+      "en": "And when the children wake up, they see the presents.",
+      "cn": "当孩子们醒来时，他们看到礼物。"
+    },
+    {
+      "id": 53,
+      "en": "But Santa has already gone.",
+      "cn": "但圣诞老人已经离开了。"
+    },
+    {
+      "id": 54,
+      "en": "So Santa is a man.",
+      "cn": "所以圣诞老人是一个人。"
+    },
+    {
+      "id": 55,
+      "en": "He's kind of a mythical figure with a big white beard and a red outfit and a red hat.",
+      "cn": "他是一个有着大白胡子、红色服装和红色帽子的神话人物。"
+    },
+    {
+      "id": 56,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 57,
+      "en": "So his name is Santa Claus or just Santa.",
+      "cn": "所以他的名字是圣诞老人或简称圣诞。"
+    },
+    {
+      "id": 58,
+      "en": "There are many, many different names for the for Santa in different cultures in different countries.",
+      "cn": "在不同文化和国家中，圣诞老人有很多不同的名字。"
+    },
+    {
+      "id": 59,
+      "en": "Yeah, some people like to call him Saint Nick or Saint Nicholas.",
+      "cn": "是的，有些人喜欢叫他圣尼克或圣尼古拉斯。"
+    },
+    {
+      "id": 60,
+      "en": "But most people will call him Santa in America.",
+      "cn": "但大多数人会在美国称他为圣诞老人。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "So this is what happens or part of what happens during Christmas Eve and Christmas Day.",
+      "cn": "所以这就是发生的事情，或者说是平安夜和圣诞节的一部分。"
+    },
+    {
+      "id": 63,
+      "en": "And usually also boys and girls will find our stockings that will be filled with candy or small toys as well.",
+      "cn": "通常，男孩和女孩还会发现装满糖果或小玩具的长袜。"
+    },
+    {
+      "id": 64,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 65,
+      "en": "Stockings are basically socks.",
+      "cn": "长袜基本上就是袜子。"
+    },
+    {
+      "id": 66,
+      "en": "But these are special socks that you don't wear.",
+      "cn": "但这些是你不穿的特殊袜子。"
+    },
+    {
+      "id": 67,
+      "en": "You hang them.",
+      "cn": "你挂起来。"
+    },
+    {
+      "id": 68,
+      "en": "And a lot of people like to put them on the fireplace.",
+      "cn": "很多人喜欢把它们挂在壁炉上。"
+    },
+    {
+      "id": 69,
+      "en": "They hang them from the fireplace.",
+      "cn": "他们把它们挂在壁炉上。"
+    },
+    {
+      "id": 70,
+      "en": "And like you said, Marco, they're filled with sweets.",
+      "cn": "正如你所说，Marco，它们装满了糖果。"
+    },
+    {
+      "id": 71,
+      "en": "The story says that boys and girls who are nice get good things like sweets and toys.",
+      "cn": "故事说，乖的男孩和女孩会得到像糖果和玩具这样的好东西。"
+    },
+    {
+      "id": 72,
+      "en": "And boys and girls who are naughty get coal.",
+      "cn": "而调皮的男孩和女孩会得到煤炭。"
+    },
+    {
+      "id": 73,
+      "en": "Coal.",
+      "cn": "煤炭。"
+    },
+    {
+      "id": 74,
+      "en": "That's that black material that we use to make a barbecue, for example.",
+      "cn": "那是我们用来烧烤的黑色材料，例如。"
+    },
+    {
+      "id": 75,
+      "en": "Yeah, exactly.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 76,
+      "en": "It's very dirty and it's not something you want in your stocking.",
+      "cn": "它非常脏，不是你想在长袜里得到的东西。"
+    },
+    {
+      "id": 77,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 78,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 79,
+      "en": "So that's what we get in our stockings.",
+      "cn": "所以这就是我们在长袜里得到的东西。"
+    },
+    {
+      "id": 80,
+      "en": "And now when the small boy and his father were talking, they were saying that, you know, he should go back to bed and not hide behind the tree.",
+      "cn": "现在，当小男孩和他的父亲在谈话时，他们说他应该回去睡觉，而不是躲在树后面。"
+    },
+    {
+      "id": 81,
+      "en": "So if they're in the living room or they're downstairs in the house, what tree do they have?",
+      "cn": "所以如果他们在客厅或在家里楼下，他们有什么树？"
+    },
+    {
+      "id": 82,
+      "en": "We're not talking about a big real tree outside.",
+      "cn": "我们不是在谈论外面的那棵大真树。"
+    },
+    {
+      "id": 83,
+      "en": "We're talking about the Christmas tree.",
+      "cn": "我们在谈论圣诞树。"
+    },
+    {
+      "id": 84,
+      "en": "But, you know, it's a long phrase, the Christmas tree.",
+      "cn": "但你知道，这是一个长短语，圣诞树。"
+    },
+    {
+      "id": 85,
+      "en": "We don't have to say it that way.",
+      "cn": "我们不必那样说。"
+    },
+    {
+      "id": 86,
+      "en": "When we have a Christmas tree inside the house, we can just call it the tree.",
+      "cn": "当我们在屋内有一棵圣诞树时，我们可以称之为树。"
+    },
+    {
+      "id": 87,
+      "en": "OK.",
+      "cn": "好的。"
+    },
+    {
+      "id": 88,
+      "en": "And the Christmas tree, as many of you may have seen already, is a pine tree usually.",
+      "cn": "而圣诞树，正如你们许多人可能已经看到的，通常是一棵松树。"
+    },
+    {
+      "id": 89,
+      "en": "And you put decorations on it and the presents go under it.",
+      "cn": "你在上面放装饰，礼物放在下面。"
+    },
+    {
+      "id": 90,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 91,
+      "en": "So you might hear this phrase, there are presents under the tree or there are many nice presents under the tree.",
+      "cn": "所以你可能会听到这个短语，树下有礼物，或者树下有很多漂亮的礼物。"
+    },
+    {
+      "id": 92,
+      "en": "That means there are lots of nice presents under the Christmas tree.",
+      "cn": "这意味着圣诞树下有很多漂亮的礼物。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "And, well, the kid wanted to stay behind the tree and spy on Santa Claus.",
+      "cn": "嗯，那个孩子想躲在树后面监视圣诞老人。"
+    },
+    {
+      "id": 95,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 96,
+      "en": "So this is a verb, to spy.",
+      "cn": "所以这是一个动词，监视。"
+    },
+    {
+      "id": 97,
+      "en": "This means to watch someone, but to watch them while they don't know that you're watching them.",
+      "cn": "这意味着看着某人，但在他们不知道你在看他们的时候看着他们。"
+    },
+    {
+      "id": 98,
+      "en": "So you're hiding, but looking at someone else.",
+      "cn": "所以你在隐藏，但在看着别人。"
+    },
+    {
+      "id": 99,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 100,
+      "en": "You're spying.",
+      "cn": "你在监视。"
+    },
+    {
+      "id": 101,
+      "en": "This is where the noun comes, a spy, like James Bond.",
+      "cn": "这就是名词的来源，间谍，就像詹姆斯·邦德。"
+    },
+    {
+      "id": 102,
+      "en": "James Bond spies.",
+      "cn": "詹姆斯·邦德是间谍。"
+    },
+    {
+      "id": 103,
+      "en": "He is a very famous spy.",
+      "cn": "他是一个非常著名的间谍。"
+    },
+    {
+      "id": 104,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 105,
+      "en": "But in this case, the boy does not want Santa Claus to see him.",
+      "cn": "但在这种情况下，男孩不想让圣诞老人看到他。"
+    },
+    {
+      "id": 106,
+      "en": "So he is spying on Santa Claus.",
+      "cn": "所以他在监视圣诞老人。"
+    },
+    {
+      "id": 107,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 108,
+      "en": "Very good stuff.",
+      "cn": "很好的内容。"
+    },
+    {
+      "id": 109,
+      "en": "Why don't we listen to the dialogue again and review this vocab.",
+      "cn": "我们再听一遍对话，复习一下这个词汇。"
+    },
+    {
+      "id": 110,
+      "en": "What are you doing awake?",
+      "cn": "你为什么还醒着？"
+    },
+    {
+      "id": 111,
+      "en": "I can't sleep.",
+      "cn": "我无法入睡。"
+    },
+    {
+      "id": 112,
+      "en": "But it's almost midnight.",
+      "cn": "但快到午夜了。"
+    },
+    {
+      "id": 113,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 114,
+      "en": "I'm too excited for Christmas morning.",
+      "cn": "我对圣诞早晨太兴奋了。"
+    },
+    {
+      "id": 115,
+      "en": "Also, I thought I heard Santa.",
+      "cn": "另外，我以为我听到了圣诞老人。"
+    },
+    {
+      "id": 116,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 117,
+      "en": "How do you know it was Santa?",
+      "cn": "你怎么知道是圣诞老人？"
+    },
+    {
+      "id": 118,
+      "en": "Well, I heard that naughty boys and girls get coal in their stockings.",
+      "cn": "嗯，我听说调皮的男孩和女孩会在他们的长袜里得到煤炭。"
+    },
+    {
+      "id": 119,
+      "en": "So I thought I'd be nice and make Santa cookies.",
+      "cn": "所以我想我会乖一点，给圣诞老人做饼干。"
+    },
+    {
+      "id": 120,
+      "en": "I even left out some milk.",
+      "cn": "我甚至还留了一些牛奶。"
+    },
+    {
+      "id": 121,
+      "en": "I heard someone in the kitchen eating the cookies.",
+      "cn": "我听到厨房里有人在吃饼干。"
+    },
+    {
+      "id": 122,
+      "en": "So I came downstairs.",
+      "cn": "所以我下楼了。"
+    },
+    {
+      "id": 123,
+      "en": "Well, I know that Santa won't come down the chimney with you hiding behind the tree spying on him.",
+      "cn": "嗯，我知道如果你躲在树后面监视他，圣诞老人是不会从烟囱下来的。"
+    },
+    {
+      "id": 124,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 125,
+      "en": "Really.",
+      "cn": "真的。"
+    },
+    {
+      "id": 126,
+      "en": "Let's go back upstairs and get back to bed.",
+      "cn": "我们回到楼上，回去睡觉吧。"
+    },
+    {
+      "id": 127,
+      "en": "That way we can let Santa do his job.",
+      "cn": "这样我们就可以让圣诞老人做他的工作。"
+    },
+    {
+      "id": 128,
+      "en": "Then when you wake up, it will be Christmas already.",
+      "cn": "然后当你醒来时，圣诞节就到了。"
+    },
+    {
+      "id": 129,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 130,
+      "en": "Hey, honey, is that you?",
+      "cn": "嘿，亲爱的，是你吗？"
+    },
+    {
+      "id": 131,
+      "en": "Don't eat all the cookies.",
+      "cn": "不要把所有的饼干都吃了。"
+    },
+    {
+      "id": 132,
+      "en": "I want some too.",
+      "cn": "我也想要一些。"
+    },
+    {
+      "id": 133,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 134,
+      "en": "So now let's take a look at three phrases on Fluency Builder.",
+      "cn": "现在让我们看看流利构建器上的三个短语。"
+    },
+    {
+      "id": 135,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 136,
+      "en": "All right, so Marco, there's another great phrase in here that we often use around Christmas.",
+      "cn": "好吧，马尔科，这里有一个我们在圣诞节期间经常使用的好短语。"
+    },
+    {
+      "id": 137,
+      "en": "What is it that Santa Claus does?",
+      "cn": "圣诞老人做什么？"
+    },
+    {
+      "id": 138,
+      "en": "Well, the way Santa Claus leaves presents for boys and girls is that he will come down the chimney.",
+      "cn": "嗯，圣诞老人给男孩和女孩留下礼物的方式是他会从烟囱下来。"
+    },
+    {
+      "id": 139,
+      "en": "And we saw that when the dad said, well, Santa Claus won't come down the chimney if you're here hiding behind the tree.",
+      "cn": "我们看到当爸爸说，嗯，圣诞老人不会从烟囱下来，如果你躲在树后面。"
+    },
+    {
+      "id": 140,
+      "en": "All right, so the chimney is part of the fireplace.",
+      "cn": "好吧，烟囱是壁炉的一部分。"
+    },
+    {
+      "id": 141,
+      "en": "A fireplace is where you have a fire in your house to keep warm.",
+      "cn": "壁炉是你在家里生火取暖的地方。"
+    },
+    {
+      "id": 142,
+      "en": "And the chimney is where the smoke goes to come outside.",
+      "cn": "烟囱是烟雾排出到外面的地方。"
+    },
+    {
+      "id": 143,
+      "en": "But Santa Claus goes the other way.",
+      "cn": "但圣诞老人是从另一边进来的。"
+    },
+    {
+      "id": 144,
+      "en": "He comes down the chimney from the roof into your house.",
+      "cn": "他从屋顶的烟囱下来进入你的家。"
+    },
+    {
+      "id": 145,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 146,
+      "en": "And then he leaves the presents.",
+      "cn": "然后他留下礼物。"
+    },
+    {
+      "id": 147,
+      "en": "So the father said, all right, so, you know, stop spying on Santa.",
+      "cn": "所以父亲说，好吧，停止监视圣诞老人。"
+    },
+    {
+      "id": 148,
+      "en": "Let's go back upstairs and get back to bed.",
+      "cn": "我们回到楼上，回去睡觉吧。"
+    },
+    {
+      "id": 149,
+      "en": "All right, get back to bed.",
+      "cn": "好吧，回去睡觉。"
+    },
+    {
+      "id": 150,
+      "en": "And this is a phrase that you're going to hear parents say a lot to their children.",
+      "cn": "这是你会听到父母对孩子说的很多短语。"
+    },
+    {
+      "id": 151,
+      "en": "So if the children are awake or walking around, you say get back to bed.",
+      "cn": "所以如果孩子们还醒着或在走动，你会说回去睡觉。"
+    },
+    {
+      "id": 152,
+      "en": "That means go back to sleep, go back to sleep.",
+      "cn": "这意味着回去睡觉，回去睡觉。"
+    },
+    {
+      "id": 153,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 154,
+      "en": "And we want the kid to go back to sleep so we can let Santa do his job.",
+      "cn": "我们希望孩子回去睡觉，这样我们就可以让圣诞老人做他的工作。"
+    },
+    {
+      "id": 155,
+      "en": "All right, like that last phrase, this is a phrase that you can use in other ways.",
+      "cn": "好吧，就像最后那个短语，这个短语你可以用其他方式使用。"
+    },
+    {
+      "id": 156,
+      "en": "It's not just for Christmas.",
+      "cn": "不仅仅是为了圣诞节。"
+    },
+    {
+      "id": 157,
+      "en": "But we said, you know, let Santa do his job.",
+      "cn": "但我们说，让圣诞老人做他的工作。"
+    },
+    {
+      "id": 158,
+      "en": "Let Santa leave his presence.",
+      "cn": "让圣诞老人留下他的礼物。"
+    },
+    {
+      "id": 159,
+      "en": "Let's not bother Santa.",
+      "cn": "不要打扰圣诞老人。"
+    },
+    {
+      "id": 160,
+      "en": "But we can change Santa with any other name.",
+      "cn": "但我们可以用任何其他名字替换圣诞老人。"
+    },
+    {
+      "id": 161,
+      "en": "So you can say, I don't know, maybe your dad is working in the office and your mom will tell you, you know, come out here, let dad do his job.",
+      "cn": "所以你可以说，我不知道，也许你爸爸在办公室工作，你妈妈会告诉你，出来，让爸爸做他的工作。"
+    },
+    {
+      "id": 162,
+      "en": "That means don't bother dad.",
+      "cn": "这意味着不要打扰爸爸。"
+    },
+    {
+      "id": 163,
+      "en": "Don't distract him.",
+      "cn": "不要分散他的注意力。"
+    },
+    {
+      "id": 164,
+      "en": "Let him work.",
+      "cn": "让他工作。"
+    },
+    {
+      "id": 165,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 166,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 167,
+      "en": "So that's the way that you use those phrases.",
+      "cn": "所以这就是你使用这些短语的方式。"
+    },
+    {
+      "id": 168,
+      "en": "Very good stuff here.",
+      "cn": "这里的内容非常好。"
+    },
+    {
+      "id": 169,
+      "en": "Why don't we review one last time?",
+      "cn": "我们再复习最后一次吧？"
+    },
+    {
+      "id": 170,
+      "en": "What are you doing awake?",
+      "cn": "你为什么还醒着？"
+    },
+    {
+      "id": 171,
+      "en": "I can't sleep.",
+      "cn": "我无法入睡。"
+    },
+    {
+      "id": 172,
+      "en": "But it's almost midnight.",
+      "cn": "但快到午夜了。"
+    },
+    {
+      "id": 173,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 174,
+      "en": "I'm too excited for Christmas morning.",
+      "cn": "我对圣诞早晨太兴奋了。"
+    },
+    {
+      "id": 175,
+      "en": "Also, I thought I heard Santa.",
+      "cn": "另外，我以为我听到了圣诞老人。"
+    },
+    {
+      "id": 176,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 177,
+      "en": "How do you know it was Santa?",
+      "cn": "你怎么知道是圣诞老人？"
+    },
+    {
+      "id": 178,
+      "en": "Well, I heard that naughty boys and girls get coal in their stockings.",
+      "cn": "嗯，我听说调皮的男孩和女孩会在他们的长袜里得到煤炭。"
+    },
+    {
+      "id": 179,
+      "en": "So I thought I'd be nice and make Santa cookies.",
+      "cn": "所以我想我会乖一点，给圣诞老人做饼干。"
+    },
+    {
+      "id": 180,
+      "en": "I even left out some milk.",
+      "cn": "我甚至还留了一些牛奶。"
+    },
+    {
+      "id": 181,
+      "en": "I heard someone in the kitchen eating the cookies.",
+      "cn": "我听到厨房里有人在吃饼干。"
+    },
+    {
+      "id": 182,
+      "en": "So I came downstairs.",
+      "cn": "所以我下楼了。"
+    },
+    {
+      "id": 183,
+      "en": "Well, I know that Santa won't come down the chimney with you hiding behind the tree, spying on him.",
+      "cn": "嗯，我知道如果你躲在树后面监视他，圣诞老人是不会从烟囱下来的。"
+    },
+    {
+      "id": 184,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 185,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 186,
+      "en": "Let's go back upstairs and get back to bed.",
+      "cn": "我们回到楼上，回去睡觉吧。"
+    },
+    {
+      "id": 187,
+      "en": "That way we can let Santa do his job.",
+      "cn": "这样我们就可以让圣诞老人做他的工作。"
+    },
+    {
+      "id": 188,
+      "en": "Then when you wake up, it will be Christmas already.",
+      "cn": "然后当你醒来时，圣诞节就到了。"
+    },
+    {
+      "id": 189,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 190,
+      "en": "Hey, honey, is that you?",
+      "cn": "嘿，亲爱的，是你吗？"
+    },
+    {
+      "id": 191,
+      "en": "Don't eat all the cookies.",
+      "cn": "不要把所有的饼干都吃了。"
+    },
+    {
+      "id": 192,
+      "en": "I want some too.",
+      "cn": "我也想要一些。"
+    },
+    {
+      "id": 193,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 194,
+      "en": "So these Christmas traditions are, as we said, they're typically American, but many other cultures share similar traditions like this.",
+      "cn": "所以这些圣诞传统，正如我们所说，它们通常是美国的，但许多其他文化也有类似的传统。"
+    },
+    {
+      "id": 195,
+      "en": "That's correct.",
+      "cn": "这是正确的。"
+    },
+    {
+      "id": 196,
+      "en": "So obviously, traditions are different in every family.",
+      "cn": "显然，每个家庭的传统都不同。"
+    },
+    {
+      "id": 197,
+      "en": "Not everyone celebrates Christmas morning.",
+      "cn": "并不是每个人都在圣诞早晨庆祝。"
+    },
+    {
+      "id": 198,
+      "en": "Some people celebrate Christmas Eve, but most people will be familiar with Christmas stockings, Christmas trees, and Santa who comes down the chimney.",
+      "cn": "有些人在平安夜庆祝，但大多数人会熟悉圣诞袜、圣诞树和从烟囱下来的圣诞老人。"
+    },
+    {
+      "id": 199,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 200,
+      "en": "So it also depends, I guess, on the culture and religion.",
+      "cn": "所以这也取决于文化和宗教。"
+    },
+    {
+      "id": 201,
+      "en": "Some religions celebrate Christmas differently or not at all.",
+      "cn": "一些宗教以不同的方式庆祝圣诞节，或者根本不庆祝。"
+    },
+    {
+      "id": 202,
+      "en": "So it's actually a very interesting time of the year.",
+      "cn": "所以这实际上是一年中非常有趣的时刻。"
+    },
+    {
+      "id": 203,
+      "en": "But if you look or if you can see any American movies, like I remember this one called The Santa Claus, it's very, you can see the typical American Christmas, you know, snow and trees and presents and Santa Claus, a lot of things.",
+      "cn": "但是如果你看，或者如果你能看到任何美国电影，比如我记得有部叫《圣诞老人》的电影，你可以看到典型的美国圣诞节，知道的，雪、树、礼物和圣诞老人，还有很多东西。"
+    },
+    {
+      "id": 204,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 205,
+      "en": "So a good way to end this would be to say have a very Merry Christmas.",
+      "cn": "所以结束这段话的好方法是说祝你圣诞快乐。"
+    },
+    {
+      "id": 206,
+      "en": "That means, you know, have a nice holiday.",
+      "cn": "这意味着，知道的，祝你假期愉快。"
+    },
+    {
+      "id": 207,
+      "en": "Enjoy Christmas.",
+      "cn": "享受圣诞节。"
+    },
+    {
+      "id": 208,
+      "en": "If you're not going to celebrate Christmas for whatever reason, you can just say Happy Holidays.",
+      "cn": "如果你因为任何原因不庆祝圣诞节，你可以说节日快乐。"
+    },
+    {
+      "id": 209,
+      "en": "Happy Holidays.",
+      "cn": "节日快乐。"
+    },
+    {
+      "id": 210,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 211,
+      "en": "And of course, you can go to our website, EnglishPod.com, where we want to know if you celebrate Christmas or what are the Christmas traditions in your country.",
+      "cn": "当然，你可以访问我们的网站，EnglishPod.com，我们想知道你是否庆祝圣诞节，或者你所在国家的圣诞传统是什么。"
+    },
+    {
+      "id": 212,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 213,
+      "en": "We're very curious to hear those.",
+      "cn": "我们非常好奇想听听这些。"
+    },
+    {
+      "id": 214,
+      "en": "So we'll see you soon on EnglishPod.com.",
+      "cn": "所以我们很快在EnglishPod.com见。"
+    },
+    {
+      "id": 215,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 216,
+      "en": "We'll see you guys.",
+      "cn": "我们下次见。"
+    }
+  ]
+}

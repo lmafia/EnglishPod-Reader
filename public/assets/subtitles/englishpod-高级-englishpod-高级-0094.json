@@ -1,0 +1,1334 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0094",
+  "title": "EnglishPod 高级 0094",
+  "totalSegments": 265,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another lesson with us here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一节课。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be talking about physics.",
+      "cn": "今天我们要谈论物理学。"
+    },
+    {
+      "id": 6,
+      "en": "That's right, an advanced lesson for all you physics lovers out there.",
+      "cn": "没错，这是给所有物理爱好者的高级课程。"
+    },
+    {
+      "id": 7,
+      "en": "And even for those of you who maybe don't love physics so much, there's still some great language here.",
+      "cn": "即使是那些可能不太喜欢物理的人，这里也有很棒的语言。"
+    },
+    {
+      "id": 8,
+      "en": "Right, we're going to be talking about the Big Bang Theory, a very popular theory of how the universe or the world and how we came upon being created.",
+      "cn": "对，我们将讨论大爆炸理论，这是关于宇宙或世界如何被创造的非常流行的理论。"
+    },
+    {
+      "id": 9,
+      "en": "That's right, so we've got some physics language, but we've also got some really tough words that I bet many of our users have never seen before, which we're going to look at those in this lesson.",
+      "cn": "没错，所以我们有一些物理学的语言，但也有一些我敢打赌许多用户从未见过的难词，我们将在这节课中讨论这些。"
+    },
+    {
+      "id": 10,
+      "en": "Alright, so why don't we get started with this great and interesting lesson, and let's listen to the dialogue for the first time.",
+      "cn": "好吧，那我们为什么不开始这节精彩有趣的课，第一次听对话呢。"
+    },
+    {
+      "id": 11,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 12,
+      "en": "You don't look too good.",
+      "cn": "你看起来不太好。"
+    },
+    {
+      "id": 13,
+      "en": "Yeah, my head hurts, that's all.",
+      "cn": "是的，我头疼，仅此而已。"
+    },
+    {
+      "id": 14,
+      "en": "I've been in physics class all day.",
+      "cn": "我整天都在上物理课。"
+    },
+    {
+      "id": 15,
+      "en": "It's killer.",
+      "cn": "真是受不了。"
+    },
+    {
+      "id": 16,
+      "en": "I liked physics.",
+      "cn": "我喜欢物理。"
+    },
+    {
+      "id": 17,
+      "en": "It's all math, really.",
+      "cn": "其实都是数学。"
+    },
+    {
+      "id": 18,
+      "en": "Arcs, curves, velocity, cool stuff.",
+      "cn": "弧线、曲线、速度，酷东西。"
+    },
+    {
+      "id": 19,
+      "en": "Yeah, yeah.",
+      "cn": "是啊，是啊。"
+    },
+    {
+      "id": 20,
+      "en": "But today's lesson was all about the creation of the universe.",
+      "cn": "但今天的课全是关于宇宙的创造。"
+    },
+    {
+      "id": 21,
+      "en": "A physics class about the creation of the universe?",
+      "cn": "一节关于宇宙创造的物理课？"
+    },
+    {
+      "id": 22,
+      "en": "That's some pretty unscientific language there.",
+      "cn": "那可真是些不科学的语言。"
+    },
+    {
+      "id": 23,
+      "en": "It sounds more religious to me.",
+      "cn": "听起来更像是宗教。"
+    },
+    {
+      "id": 24,
+      "en": "It's all religion.",
+      "cn": "这全是宗教。"
+    },
+    {
+      "id": 25,
+      "en": "Take the theory of the Big Bang.",
+      "cn": "以大爆炸理论为例。"
+    },
+    {
+      "id": 26,
+      "en": "How is it possible that all of the stuff in the universe comes from an explosion?",
+      "cn": "怎么可能宇宙中的所有东西都来自一次爆炸？"
+    },
+    {
+      "id": 27,
+      "en": "That's no better than Atlas carrying the globe on his back, or African myths about turtles and stuff.",
+      "cn": "这和阿特拉斯背着地球，或非洲关于乌龟的神话没什么区别。"
+    },
+    {
+      "id": 28,
+      "en": "Turtles?",
+      "cn": "乌龟？"
+    },
+    {
+      "id": 29,
+      "en": "Whatever.",
+      "cn": "随便吧。"
+    },
+    {
+      "id": 30,
+      "en": "Look, all that's required for the creation of matter is an imbalance of particles and anti-particles.",
+      "cn": "看，创造物质所需的只是粒子和反粒子的不平衡。"
+    },
+    {
+      "id": 31,
+      "en": "At least, that's what the math says.",
+      "cn": "至少，数学是这么说的。"
+    },
+    {
+      "id": 32,
+      "en": "Math?",
+      "cn": "数学？"
+    },
+    {
+      "id": 33,
+      "en": "Shmath?",
+      "cn": "嗯？"
+    },
+    {
+      "id": 34,
+      "en": "What's the evidence?",
+      "cn": "证据在哪里？"
+    },
+    {
+      "id": 35,
+      "en": "There is evidence.",
+      "cn": "有证据。"
+    },
+    {
+      "id": 36,
+      "en": "You know Edwin Hubble, the guy who in the early 20th century was the first scientist to measure the drift of matter in the universe, thus advancing notions of an expanding universe.",
+      "cn": "你知道埃德温·哈勃吗？他是20世纪初第一个测量宇宙中物质漂移的科学家，从而推动了扩展宇宙的概念。"
+    },
+    {
+      "id": 37,
+      "en": "What would it be expanding from?",
+      "cn": "它是从什么扩展的？"
+    },
+    {
+      "id": 38,
+      "en": "Well, the Big Bang, duh.",
+      "cn": "嗯，大爆炸，当然。"
+    },
+    {
+      "id": 39,
+      "en": "Anyway, it's just a theory.",
+      "cn": "不管怎样，这只是一个理论。"
+    },
+    {
+      "id": 40,
+      "en": "Why do people go around touting theories?",
+      "cn": "为什么人们到处宣扬理论？"
+    },
+    {
+      "id": 41,
+      "en": "Where's the rigor in that?",
+      "cn": "这有什么严谨性？"
+    },
+    {
+      "id": 42,
+      "en": "Dude, don't equivocate.",
+      "cn": "伙计，别模棱两可。"
+    },
+    {
+      "id": 43,
+      "en": "A theory only becomes a theory after withstanding rigorous testing.",
+      "cn": "理论只有在经过严格测试后才能成为理论。"
+    },
+    {
+      "id": 44,
+      "en": "You slept through class, didn't you?",
+      "cn": "你在课堂上睡着了，是吧？"
+    },
+    {
+      "id": 45,
+      "en": "You're making my head hurt again.",
+      "cn": "你又让我头疼了。"
+    },
+    {
+      "id": 46,
+      "en": "Quit with the question.",
+      "cn": "别问了。"
+    },
+    {
+      "id": 47,
+      "en": "Well, it sure does sound like a difficult class, doesn't it?",
+      "cn": "好吧，听起来确实是一门难课，不是吗？"
+    },
+    {
+      "id": 48,
+      "en": "It's a very interesting topic and very controversial, so there are many opinions on it.",
+      "cn": "这是一个非常有趣且有争议的话题，所以有很多不同的观点。"
+    },
+    {
+      "id": 49,
+      "en": "But before we get into that, why don't we take a look at some of those physics-related words that we listen to in Language Takeaway.",
+      "cn": "但在我们深入讨论之前，为什么不先看看我们在语言要点中听到的一些与物理相关的词汇呢？"
+    },
+    {
+      "id": 50,
+      "en": "Language Takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 51,
+      "en": "We've got four words we've heard in the dialogue that are all related to physics, so let's start with the first one, which is matter.",
+      "cn": "我们在对话中听到的四个与物理相关的词汇，首先是物质。"
+    },
+    {
+      "id": 52,
+      "en": "Matter.",
+      "cn": "物质。"
+    },
+    {
+      "id": 53,
+      "en": "Matter.",
+      "cn": "物质。"
+    },
+    {
+      "id": 54,
+      "en": "Okay, so you probably know this word from What's the Matter?",
+      "cn": "好吧，你可能从“有什么问题？”这个词知道这个词。"
+    },
+    {
+      "id": 55,
+      "en": "What's Wrong?",
+      "cn": "有什么不对？"
+    },
+    {
+      "id": 56,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 57,
+      "en": "In this case, we're talking about matter, so anything that occupies space, that has a mass or that is related to energy.",
+      "cn": "在这种情况下，我们谈论的是物质，任何占据空间、具有质量或与能量相关的东西。"
+    },
+    {
+      "id": 58,
+      "en": "So matter.",
+      "cn": "所以是物质。"
+    },
+    {
+      "id": 59,
+      "en": "So all things in the world are made up of matter, right?",
+      "cn": "所以世界上的所有事物都是由物质构成的，对吧？"
+    },
+    {
+      "id": 60,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 61,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 62,
+      "en": "Now let's move on to another one.",
+      "cn": "现在我们来看看另一个。"
+    },
+    {
+      "id": 63,
+      "en": "Particles.",
+      "cn": "粒子。"
+    },
+    {
+      "id": 64,
+      "en": "Particles.",
+      "cn": "粒子。"
+    },
+    {
+      "id": 65,
+      "en": "Particles.",
+      "cn": "粒子。"
+    },
+    {
+      "id": 66,
+      "en": "Now particles are a little bit more... now particles are a little bit easier.",
+      "cn": "现在粒子稍微简单一点。"
+    },
+    {
+      "id": 67,
+      "en": "They're just very small pieces of a hole.",
+      "cn": "它们只是一个整体的非常小的部分。"
+    },
+    {
+      "id": 68,
+      "en": "An apple is made up of apple particles?",
+      "cn": "一个苹果是由苹果粒子组成的吗？"
+    },
+    {
+      "id": 69,
+      "en": "Something like that.",
+      "cn": "差不多。"
+    },
+    {
+      "id": 70,
+      "en": "You can, if you want to understand it easily, yeah, apple has many small particles that make up the apple.",
+      "cn": "如果你想简单理解，是的，苹果由许多小粒子组成。"
+    },
+    {
+      "id": 71,
+      "en": "So like, let's paint a picture here.",
+      "cn": "所以，想象一下。"
+    },
+    {
+      "id": 72,
+      "en": "Imagine we've got a beach and all the pieces of sand are particles of the beach.",
+      "cn": "想象我们有一个海滩，所有的沙粒都是海滩的粒子。"
+    },
+    {
+      "id": 73,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 74,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 75,
+      "en": "So those are particles.",
+      "cn": "所以这些就是粒子。"
+    },
+    {
+      "id": 76,
+      "en": "Now the next one is a little bit difficult for me, I don't understand this.",
+      "cn": "现在下一个对我来说有点难，我不太明白。"
+    },
+    {
+      "id": 77,
+      "en": "Antiparticles.",
+      "cn": "反粒子。"
+    },
+    {
+      "id": 78,
+      "en": "Alright, so antiparticles.",
+      "cn": "好吧，反粒子。"
+    },
+    {
+      "id": 79,
+      "en": "Antiparticles.",
+      "cn": "反粒子。"
+    },
+    {
+      "id": 80,
+      "en": "Now this prefix, anti, it means something that is against, right?",
+      "cn": "这个前缀“反”意味着反对的东西，对吧？"
+    },
+    {
+      "id": 81,
+      "en": "Right, and I've seen this one in anti-clockwise.",
+      "cn": "对，我在“逆时针”中见过这个。"
+    },
+    {
+      "id": 82,
+      "en": "Alright, so antiparticles are those that are against particles.",
+      "cn": "好吧，反粒子是与粒子相对的。"
+    },
+    {
+      "id": 83,
+      "en": "So basically if you have a particle that has a positive charge, and another one comes in with a negative charge in the same weight and the same type of particle, if they get together they cancel each other out and they both die.",
+      "cn": "基本上，如果你有一个带正电荷的粒子，另一个带负电荷的粒子，质量和类型相同，如果它们结合在一起，它们会相互抵消并消失。"
+    },
+    {
+      "id": 84,
+      "en": "Oh.",
+      "cn": "哦。"
+    },
+    {
+      "id": 85,
+      "en": "So that's an antiparticle.",
+      "cn": "所以这就是反粒子。"
+    },
+    {
+      "id": 86,
+      "en": "Alright, well you heard it first here at EnglishPod.",
+      "cn": "好吧，你在EnglishPod第一次听到这个。"
+    },
+    {
+      "id": 87,
+      "en": "So antiparticles are not a good thing to have around.",
+      "cn": "所以反粒子不是好东西。"
+    },
+    {
+      "id": 88,
+      "en": "Now we also heard them talk about the drift of matter.",
+      "cn": "现在我们还听到他们谈论物质的漂移。"
+    },
+    {
+      "id": 89,
+      "en": "Right, drift of matter.",
+      "cn": "对，物质的漂移。"
+    },
+    {
+      "id": 90,
+      "en": "Drift of matter.",
+      "cn": "物质的漂移。"
+    },
+    {
+      "id": 91,
+      "en": "Also sometimes called drift of dark matter.",
+      "cn": "有时也称为暗物质的漂移。"
+    },
+    {
+      "id": 92,
+      "en": "Okay, well I know the verb to drift, right?",
+      "cn": "好吧，我知道“漂移”这个动词，对吧？"
+    },
+    {
+      "id": 93,
+      "en": "To sort of float away on the sea.",
+      "cn": "有点像在海上漂浮。"
+    },
+    {
+      "id": 94,
+      "en": "Right, if you have a little ship, you leave it on the beach, it'll drift away.",
+      "cn": "对，如果你有一艘小船，把它留在海滩上，它会漂走。"
+    },
+    {
+      "id": 95,
+      "en": "It'll go slowly away.",
+      "cn": "它会慢慢离开。"
+    },
+    {
+      "id": 96,
+      "en": "Yeah, but what about drift of matter?",
+      "cn": "是的，但物质的漂移呢？"
+    },
+    {
+      "id": 97,
+      "en": "So residue, the remains of the big bang, of the explosion.",
+      "cn": "所以是大爆炸的残留物。"
+    },
+    {
+      "id": 98,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 99,
+      "en": "So matter and radiation keeps on drifting through the universe.",
+      "cn": "所以物质和辐射在宇宙中不断漂移。"
+    },
+    {
+      "id": 100,
+      "en": "So it's moving slowly through the universe.",
+      "cn": "所以它在宇宙中缓慢移动。"
+    },
+    {
+      "id": 101,
+      "en": "Moving slowly.",
+      "cn": "缓慢移动。"
+    },
+    {
+      "id": 102,
+      "en": "So this big explosion, and just consider it to be like this ripple, and it's expanding and expanding.",
+      "cn": "所以这个大爆炸，可以把它看作是这样的涟漪，它在扩展和扩展。"
+    },
+    {
+      "id": 103,
+      "en": "That's the drift of matter.",
+      "cn": "这就是物质的漂移。"
+    },
+    {
+      "id": 104,
+      "en": "Alright, well I learned something else today.",
+      "cn": "好吧，今天我学到了其他东西。"
+    },
+    {
+      "id": 105,
+      "en": "Some very specific words related to physics, but it's very interesting.",
+      "cn": "一些与物理相关的非常具体的词汇，但这非常有趣。"
+    },
+    {
+      "id": 106,
+      "en": "Once you get into reading about these things, it will help you to understand it better.",
+      "cn": "一旦你开始阅读这些东西，它会帮助你更好地理解。"
+    },
+    {
+      "id": 107,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 108,
+      "en": "But we've also got some non-physics related language that we want to look at now in Language Takeaway Part 2.",
+      "cn": "但我们现在也有一些与物理无关的语言想要在语言收获第二部分中讨论。"
+    },
+    {
+      "id": 109,
+      "en": "So they were talking about the drift of matter, and how it's drifting through the universe.",
+      "cn": "他们在谈论物质的漂移，以及它是如何在宇宙中漂移的。"
+    },
+    {
+      "id": 110,
+      "en": "And then he said, thus advancing the notions of an expanding universe.",
+      "cn": "然后他说，从而推进扩展宇宙的概念。"
+    },
+    {
+      "id": 111,
+      "en": "So I want to look at the phrase thus advancing notions.",
+      "cn": "所以我想看看这个短语“从而推进概念”。"
+    },
+    {
+      "id": 112,
+      "en": "Thus advancing notions.",
+      "cn": "从而推进概念。"
+    },
+    {
+      "id": 113,
+      "en": "Okay, let's start with the first word here.",
+      "cn": "好吧，让我们从这里的第一个词开始。"
+    },
+    {
+      "id": 114,
+      "en": "Thus.",
+      "cn": "从而。"
+    },
+    {
+      "id": 115,
+      "en": "Okay, so this is a good connector.",
+      "cn": "好吧，这是一个很好的连接词。"
+    },
+    {
+      "id": 116,
+      "en": "A conjunction.",
+      "cn": "一个连词。"
+    },
+    {
+      "id": 117,
+      "en": "A conjunction.",
+      "cn": "一个连词。"
+    },
+    {
+      "id": 118,
+      "en": "And basically it means therefore.",
+      "cn": "基本上它的意思是因此。"
+    },
+    {
+      "id": 119,
+      "en": "Therefore or in consequence.",
+      "cn": "因此或作为结果。"
+    },
+    {
+      "id": 120,
+      "en": "Yeah, so thus advancing notions.",
+      "cn": "是的，所以从而推进概念。"
+    },
+    {
+      "id": 121,
+      "en": "Now notions are ideas.",
+      "cn": "现在概念是想法。"
+    },
+    {
+      "id": 122,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 123,
+      "en": "And so when you advance notions or advance ideas, you help them make progress.",
+      "cn": "所以当你推进概念或推进想法时，你帮助它们取得进展。"
+    },
+    {
+      "id": 124,
+      "en": "You help them go forward and become known.",
+      "cn": "你帮助它们向前发展并被人们所知。"
+    },
+    {
+      "id": 125,
+      "en": "Okay, so in order to understand this in the context, they are saying that the drift of matter thus advances notions of an expanding universe.",
+      "cn": "好吧，为了在上下文中理解这一点，他们说物质的漂移因此推进了扩展宇宙的概念。"
+    },
+    {
+      "id": 126,
+      "en": "So it is making progress to people believing that the universe is getting bigger.",
+      "cn": "所以它使人们相信宇宙在变大。"
+    },
+    {
+      "id": 127,
+      "en": "Okay, so interesting phrase.",
+      "cn": "好吧，这是一个有趣的短语。"
+    },
+    {
+      "id": 128,
+      "en": "Now I really like this word thus, and a lot of people are afraid to use it.",
+      "cn": "现在我真的很喜欢这个词“从而”，很多人害怕使用它。"
+    },
+    {
+      "id": 129,
+      "en": "So why don't we hear a few examples of how it's used in context.",
+      "cn": "那么我们为什么不听几个它在上下文中使用的例子呢。"
+    },
+    {
+      "id": 130,
+      "en": "Example one.",
+      "cn": "示例一。"
+    },
+    {
+      "id": 131,
+      "en": "So you can see that we've studied the fossil record and thus we can conclude that evolution is a fact.",
+      "cn": "所以你可以看到我们研究了化石记录，因此我们可以得出结论，进化是一个事实。"
+    },
+    {
+      "id": 132,
+      "en": "Example two.",
+      "cn": "示例二。"
+    },
+    {
+      "id": 133,
+      "en": "He broke severe company policies thus we had to fire him.",
+      "cn": "他违反了严重的公司政策，因此我们不得不解雇他。"
+    },
+    {
+      "id": 134,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 135,
+      "en": "I did not receive the documents on time thus I was unable to send them to you.",
+      "cn": "我没有及时收到文件，因此我无法将它们发送给你。"
+    },
+    {
+      "id": 136,
+      "en": "Alright, good examples of thus and I guess now we can use it a little bit better.",
+      "cn": "好吧，很好的“从而”的例子，我想现在我们可以更好地使用它。"
+    },
+    {
+      "id": 137,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 138,
+      "en": "Now let's move on to our next word.",
+      "cn": "现在让我们继续下一个词。"
+    },
+    {
+      "id": 139,
+      "en": "So they were talking about people who go around touting theories.",
+      "cn": "他们在谈论那些到处宣传理论的人。"
+    },
+    {
+      "id": 140,
+      "en": "Tout.",
+      "cn": "宣传。"
+    },
+    {
+      "id": 141,
+      "en": "To tout.",
+      "cn": "宣传。"
+    },
+    {
+      "id": 142,
+      "en": "Okay, so what what does this mean tout?",
+      "cn": "好吧，这个“宣传”是什么意思？"
+    },
+    {
+      "id": 143,
+      "en": "Well, basically when you tout something, you talk about it in a positive way.",
+      "cn": "基本上，当你宣传某事时，你以积极的方式谈论它。"
+    },
+    {
+      "id": 144,
+      "en": "So as to almost like sell that thing.",
+      "cn": "就像是几乎在推销那件事。"
+    },
+    {
+      "id": 145,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 146,
+      "en": "So for example, we can say the company is touting the many benefits of its product.",
+      "cn": "例如，我们可以说公司正在宣传其产品的许多好处。"
+    },
+    {
+      "id": 147,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 148,
+      "en": "So to talk positively about something.",
+      "cn": "所以积极地谈论某事。"
+    },
+    {
+      "id": 149,
+      "en": "Yeah, with the idea of trying to sell that thing or make people buy into it or believe it.",
+      "cn": "是的，带着试图推销那件事或让人们相信它的想法。"
+    },
+    {
+      "id": 150,
+      "en": "Alright, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 151,
+      "en": "What about our next word?",
+      "cn": "我们下一个词呢？"
+    },
+    {
+      "id": 152,
+      "en": "Well, we heard two related words in the dialogue.",
+      "cn": "好吧，我们在对话中听到了两个相关的词。"
+    },
+    {
+      "id": 153,
+      "en": "They were talking about where's the rigor in these theories and rigorous testing.",
+      "cn": "他们在谈论这些理论中的严谨性和严格测试。"
+    },
+    {
+      "id": 154,
+      "en": "Okay, so what's the difference between rigor and rigorous?",
+      "cn": "好吧，严谨和严格之间有什么区别？"
+    },
+    {
+      "id": 155,
+      "en": "Rigor is the state of being very clear and careful and exact.",
+      "cn": "严谨是非常清晰、谨慎和准确的状态。"
+    },
+    {
+      "id": 156,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 157,
+      "en": "And rigorous is just the adjective.",
+      "cn": "而严格只是形容词。"
+    },
+    {
+      "id": 158,
+      "en": "Clear, careful, attention to detail and exact.",
+      "cn": "清晰、谨慎、注重细节和准确。"
+    },
+    {
+      "id": 159,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 160,
+      "en": "So rigorous training.",
+      "cn": "所以严格的训练。"
+    },
+    {
+      "id": 161,
+      "en": "I'm going over my notes in rigorous detail.",
+      "cn": "我在仔细审阅我的笔记。"
+    },
+    {
+      "id": 162,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 163,
+      "en": "And now we have one more word today in language takeaway and that is equivocate.",
+      "cn": "现在我们今天在语言收获中还有一个词，那就是模棱两可。"
+    },
+    {
+      "id": 164,
+      "en": "So we heard dude, don't equivocate.",
+      "cn": "所以我们听到“伙计，别模棱两可”。"
+    },
+    {
+      "id": 165,
+      "en": "Don't equivocate.",
+      "cn": "别模棱两可。"
+    },
+    {
+      "id": 166,
+      "en": "Don't equivocate.",
+      "cn": "别模棱两可。"
+    },
+    {
+      "id": 167,
+      "en": "Alright, so what what does he what does he mean by this?",
+      "cn": "好吧，他这是什么意思？"
+    },
+    {
+      "id": 168,
+      "en": "Well, when you equivocate, you use big words to try and mislead somebody.",
+      "cn": "嗯，当你模棱两可时，你使用大词试图误导某人。"
+    },
+    {
+      "id": 169,
+      "en": "Okay, so using big words to confuse or to mislead.",
+      "cn": "好吧，使用大词来混淆或误导。"
+    },
+    {
+      "id": 170,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 171,
+      "en": "So for example, we could say the job candidate.",
+      "cn": "例如，我们可以说求职者。"
+    },
+    {
+      "id": 172,
+      "en": "We could say when asked about his experience, the job candidate equivocated.",
+      "cn": "我们可以说当被问及他的经历时，求职者模棱两可。"
+    },
+    {
+      "id": 173,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 174,
+      "en": "Or even the presidential nominee did not equivocate when he explained his tax policy.",
+      "cn": "或者甚至总统提名人在解释他的税收政策时没有模棱两可。"
+    },
+    {
+      "id": 175,
+      "en": "Alright, so some good examples, good phrases, a lot of interesting stuff and a little bit more educational podcast today.",
+      "cn": "好吧，一些好的例子，好的短语，很多有趣的东西，今天的播客有点更具教育意义。"
+    },
+    {
+      "id": 176,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 177,
+      "en": "So let's continue with our education by listening to the dialogue one last time.",
+      "cn": "所以让我们通过最后一次听对话来继续我们的教育。"
+    },
+    {
+      "id": 178,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 179,
+      "en": "You don't look too good.",
+      "cn": "你看起来不太好。"
+    },
+    {
+      "id": 180,
+      "en": "Yeah, my head hurts.",
+      "cn": "是的，我头疼。"
+    },
+    {
+      "id": 181,
+      "en": "That's all.",
+      "cn": "就这样。"
+    },
+    {
+      "id": 182,
+      "en": "I've been in physics class all day.",
+      "cn": "我整天都在上物理课。"
+    },
+    {
+      "id": 183,
+      "en": "It's killer.",
+      "cn": "太难了。"
+    },
+    {
+      "id": 184,
+      "en": "I liked physics.",
+      "cn": "我喜欢物理。"
+    },
+    {
+      "id": 185,
+      "en": "It's all math, really.",
+      "cn": "其实都是数学。"
+    },
+    {
+      "id": 186,
+      "en": "Arcs, curves, velocity, cool stuff.",
+      "cn": "弧、曲线、速度，酷东西。"
+    },
+    {
+      "id": 187,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 188,
+      "en": "But today's lesson was all about the creation of the universe.",
+      "cn": "但今天的课程完全是关于宇宙的创造。"
+    },
+    {
+      "id": 189,
+      "en": "A physics class about the creation of the universe?",
+      "cn": "一门关于宇宙创造的物理课？"
+    },
+    {
+      "id": 190,
+      "en": "That's some pretty unscientific language there.",
+      "cn": "那可真是一些不科学的语言。"
+    },
+    {
+      "id": 191,
+      "en": "Sounds more religious to me.",
+      "cn": "听起来更像是宗教。"
+    },
+    {
+      "id": 192,
+      "en": "It's all religion.",
+      "cn": "这全是宗教。"
+    },
+    {
+      "id": 193,
+      "en": "Take the theory of the Big Bang.",
+      "cn": "以大爆炸理论为例。"
+    },
+    {
+      "id": 194,
+      "en": "How is it possible that all of the stuff in the universe comes from an explosion?",
+      "cn": "怎么可能宇宙中的所有物质都来自一次爆炸？"
+    },
+    {
+      "id": 195,
+      "en": "That's no better than Atlas carrying the globe on his back or African myths about turtles and stuff.",
+      "cn": "这和阿特拉斯背负地球或非洲关于乌龟和其他东西的神话没有什么区别。"
+    },
+    {
+      "id": 196,
+      "en": "Turtles?",
+      "cn": "乌龟？"
+    },
+    {
+      "id": 197,
+      "en": "Whatever.",
+      "cn": "随便。"
+    },
+    {
+      "id": 198,
+      "en": "Look, all that's required for the creation of matter is an imbalance of particles and anti-particles.",
+      "cn": "看，创造物质所需的只是粒子和反粒子的不平衡。"
+    },
+    {
+      "id": 199,
+      "en": "At least, that's what the math says.",
+      "cn": "至少，数学是这么说的。"
+    },
+    {
+      "id": 200,
+      "en": "Math?",
+      "cn": "数学？"
+    },
+    {
+      "id": 201,
+      "en": "Shmath?",
+      "cn": "数学？"
+    },
+    {
+      "id": 202,
+      "en": "What's the evidence?",
+      "cn": "证据在哪里？"
+    },
+    {
+      "id": 203,
+      "en": "There is evidence.",
+      "cn": "有证据。"
+    },
+    {
+      "id": 204,
+      "en": "You know Edwin Hubble, the guy who in the early 20th century was the first scientist to measure the drift of matter in the universe, thus advancing notions of an expanding universe.",
+      "cn": "你知道埃德温·哈勃吗，他是20世纪初第一个测量宇宙中物质漂移的科学家，从而推动了膨胀宇宙的概念。"
+    },
+    {
+      "id": 205,
+      "en": "What would it be expanding from?",
+      "cn": "它是从什么扩展的？"
+    },
+    {
+      "id": 206,
+      "en": "Well, the Big Bang, duh.",
+      "cn": "嗯，大爆炸，当然。"
+    },
+    {
+      "id": 207,
+      "en": "Anyway, it's just a theory.",
+      "cn": "不管怎样，这只是一个理论。"
+    },
+    {
+      "id": 208,
+      "en": "Why do people go around touting theories?",
+      "cn": "为什么人们总是宣传理论？"
+    },
+    {
+      "id": 209,
+      "en": "Where's the rigor in that?",
+      "cn": "这有什么严谨性？"
+    },
+    {
+      "id": 210,
+      "en": "Dude, don't equivocate.",
+      "cn": "伙计，别模棱两可。"
+    },
+    {
+      "id": 211,
+      "en": "A theory only becomes a theory after withstanding rigorous testing.",
+      "cn": "理论只有在经过严格测试后才能成为理论。"
+    },
+    {
+      "id": 212,
+      "en": "You slept through class, didn't you?",
+      "cn": "你在课堂上睡觉了，是吗？"
+    },
+    {
+      "id": 213,
+      "en": "You're making my head hurt again.",
+      "cn": "你又让我头疼了。"
+    },
+    {
+      "id": 214,
+      "en": "Quit with the question.",
+      "cn": "别问了。"
+    },
+    {
+      "id": 215,
+      "en": "All right, so the Big Bang theory, very controversial.",
+      "cn": "好吧，大爆炸理论，非常有争议。"
+    },
+    {
+      "id": 216,
+      "en": "In some schools in the United States, they have prohibited the teachers from teaching it.",
+      "cn": "在美国的一些学校，他们禁止老师教授这个。"
+    },
+    {
+      "id": 217,
+      "en": "I know, which seems quite interesting to me.",
+      "cn": "我知道，这让我觉得很有趣。"
+    },
+    {
+      "id": 218,
+      "en": "But it is actually very controversial, and people can get really, really upset about this in America.",
+      "cn": "但这确实非常有争议，人们在美国对此会非常生气。"
+    },
+    {
+      "id": 219,
+      "en": "So it is an interesting topic.",
+      "cn": "所以这是一个有趣的话题。"
+    },
+    {
+      "id": 220,
+      "en": "Take it from the point of view of just something else, maybe just to learn a little bit more about this topic, such as physics, right?",
+      "cn": "从另一个角度来看，也许只是为了多了解一下这个话题，比如物理，对吧？"
+    },
+    {
+      "id": 221,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 222,
+      "en": "But there's something that is uncontroversial that I did want to talk about now that we heard in the dialogue.",
+      "cn": "但有些东西是无争议的，我想谈谈我们在对话中听到的。"
+    },
+    {
+      "id": 223,
+      "en": "There's a lot of really interesting sort of slang words here in the dialogue, isn't there?",
+      "cn": "对话中有很多有趣的俚语，不是吗？"
+    },
+    {
+      "id": 224,
+      "en": "Yeah, we heard in the first part of the dialogue when he said, I've been in physics class all day.",
+      "cn": "是的，我们在对话的第一部分听到他说，我整天都在物理课上。"
+    },
+    {
+      "id": 225,
+      "en": "Killer.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 226,
+      "en": "Killer.",
+      "cn": "太棒了。"
+    },
+    {
+      "id": 227,
+      "en": "So what does he mean by killer?",
+      "cn": "那么他所说的“太棒了”是什么意思？"
+    },
+    {
+      "id": 228,
+      "en": "Oh, he's just basically saying it's really hard.",
+      "cn": "哦，他基本上是在说这真的很难。"
+    },
+    {
+      "id": 229,
+      "en": "You know, it's like it's so difficult that it's murderous.",
+      "cn": "你知道，这就像是难得让人窒息。"
+    },
+    {
+      "id": 230,
+      "en": "It was intense.",
+      "cn": "这很紧张。"
+    },
+    {
+      "id": 231,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 232,
+      "en": "But this word we can use positively as well, can't we?",
+      "cn": "但这个词我们也可以积极使用，对吧？"
+    },
+    {
+      "id": 233,
+      "en": "Yeah, I guess you could say that was a killer party.",
+      "cn": "是的，我想你可以说那是一个很棒的派对。"
+    },
+    {
+      "id": 234,
+      "en": "Yeah, killer moves on the dance floor.",
+      "cn": "是的，舞池上的精彩动作。"
+    },
+    {
+      "id": 235,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 236,
+      "en": "Another interesting thing is that he said math shmath.",
+      "cn": "另一个有趣的事情是他说数学无所谓。"
+    },
+    {
+      "id": 237,
+      "en": "Now, shmath isn't really a word.",
+      "cn": "现在，“无所谓”并不是真正的词。"
+    },
+    {
+      "id": 238,
+      "en": "No, but this is a really common structure we use in English when we want to take away from the importance of an idea.",
+      "cn": "不，但这是我们在英语中常用的结构，当我们想淡化一个想法的重要性时。"
+    },
+    {
+      "id": 239,
+      "en": "Okay, so you're saying it's not important, I don't care about it, or it's not worth it.",
+      "cn": "好吧，所以你是在说这不重要，我不在乎，或者不值得。"
+    },
+    {
+      "id": 240,
+      "en": "Yeah, so for example, I'm on a diet.",
+      "cn": "是的，比如说，我在节食。"
+    },
+    {
+      "id": 241,
+      "en": "Right, and I would say diet schmiet.",
+      "cn": "对，我会说节食无所谓。"
+    },
+    {
+      "id": 242,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 243,
+      "en": "So basically the structure is just add an S-H and then just kind of make it rhyme.",
+      "cn": "所以基本上这个结构就是加一个S-H，然后让它押韵。"
+    },
+    {
+      "id": 244,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 245,
+      "en": "Schmiet or like... Like work schmerk.",
+      "cn": "无所谓，或者像... 像工作无所谓。"
+    },
+    {
+      "id": 246,
+      "en": "Yeah, work schmerk or something like that.",
+      "cn": "是的，工作无所谓或者类似的。"
+    },
+    {
+      "id": 247,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 248,
+      "en": "So you're just making fun of it and you're taking away importance.",
+      "cn": "所以你只是在取笑它，淡化重要性。"
+    },
+    {
+      "id": 249,
+      "en": "Yeah, that's a pretty neat phrase.",
+      "cn": "是的，这是个很不错的短语。"
+    },
+    {
+      "id": 250,
+      "en": "And one more.",
+      "cn": "还有一个。"
+    },
+    {
+      "id": 251,
+      "en": "We heard them say duh.",
+      "cn": "我们听到他们说“当然”。"
+    },
+    {
+      "id": 252,
+      "en": "Duh.",
+      "cn": "当然。"
+    },
+    {
+      "id": 253,
+      "en": "So when we say this, we're just saying like, you should know this, stupid.",
+      "cn": "所以当我们这么说时，我们只是在说，你应该知道这个，笨蛋。"
+    },
+    {
+      "id": 254,
+      "en": "Yeah, this is obvious.",
+      "cn": "是的，这显而易见。"
+    },
+    {
+      "id": 255,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 256,
+      "en": "It's kind of making fun of the person or just saying it's so obvious, how can you not know it?",
+      "cn": "这有点在取笑那个人，或者只是说这太明显了，你怎么会不知道呢？"
+    },
+    {
+      "id": 257,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 258,
+      "en": "And it always goes either at the beginning or at the end of a sentence.",
+      "cn": "而且它总是放在句子的开头或结尾。"
+    },
+    {
+      "id": 259,
+      "en": "Yeah, so duh, Marco, we're recording a podcast.",
+      "cn": "是的，所以“当然，马尔科，我们在录制播客。”"
+    },
+    {
+      "id": 260,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 261,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 262,
+      "en": "So some great words and phrases in this dialogue and a little bit of slang as well so you can use it maybe with your friends.",
+      "cn": "所以在这个对话中有一些很棒的单词和短语，还有一点俚语，你可以和朋友们使用。"
+    },
+    {
+      "id": 263,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 264,
+      "en": "If you have any questions about the language in this dialogue or any thoughts on physics or the big bang theory, come and check out our website at EnglishPod.com.",
+      "cn": "如果你对这个对话中的语言有任何问题，或者对物理或大爆炸理论有任何想法，请来我们的网站EnglishPod.com看看。"
+    },
+    {
+      "id": 265,
+      "en": "All right, we'll see you guys there and until next time,",
+      "cn": "好吧，我们下次见，"
+    }
+  ]
+}

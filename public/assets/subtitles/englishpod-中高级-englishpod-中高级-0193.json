@@ -1,0 +1,1559 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0193",
+  "title": "EnglishPod 中高级 0193",
+  "totalSegments": 310,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine.",
+      "cn": "我叫Catherine。"
+    },
+    {
+      "id": 4,
+      "en": "And today we're talking about a dream home, so building the home of your dreams.",
+      "cn": "今天我们要谈论梦想家园，建造你梦想中的家。"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "And this lesson today is advanced, so it might be a little bit hard.",
+      "cn": "今天的课程是高级的，可能会有点难。"
+    },
+    {
+      "id": 7,
+      "en": "And we're going to be taking a look at not only some vocabulary related to your home or decorations and stuff, but also how to treat your loved one in a nice way, or little, what do you call them, nicknames.",
+      "cn": "我们将不仅讨论与家或装饰相关的一些词汇，还会谈到如何以一种好的方式对待你所爱的人，或者说，昵称。"
+    },
+    {
+      "id": 8,
+      "en": "Cute names, pet names.",
+      "cn": "可爱的名字，宠物名字。"
+    },
+    {
+      "id": 9,
+      "en": "Pet names.",
+      "cn": "宠物名字。"
+    },
+    {
+      "id": 10,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 11,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 12,
+      "en": "So stay tuned.",
+      "cn": "所以请继续关注。"
+    },
+    {
+      "id": 13,
+      "en": "We'll be talking about very specific things having to do with building a home and home remodeling.",
+      "cn": "我们将讨论与建造家和家居改造相关的非常具体的事情。"
+    },
+    {
+      "id": 14,
+      "en": "And so we'll hear this dialogue one time, but when we're back, in just a minute here we'll be talking about what those things mean.",
+      "cn": "我们将听一次对话，但回来后，我们会讨论这些事情的含义。"
+    },
+    {
+      "id": 15,
+      "en": "Mr. and Mrs. Robinson, let's get straight to it.",
+      "cn": "罗宾逊夫妇，我们直接开始吧。"
+    },
+    {
+      "id": 16,
+      "en": "You have saved up your money for years and are now ready to build your dream home.",
+      "cn": "你们已经存了多年的钱，现在准备建造你们的梦想家园。"
+    },
+    {
+      "id": 17,
+      "en": "What did you have in mind?",
+      "cn": "你们有什么想法？"
+    },
+    {
+      "id": 18,
+      "en": "A suburban bungalow straight out of the 60s.",
+      "cn": "一座60年代风格的郊区平房。"
+    },
+    {
+      "id": 19,
+      "en": "A perfect lawn with minimal landscaping, a brick patio in the backyard with an old-fashioned grill, quaint lawn furniture, and a swimming pool.",
+      "cn": "完美的草坪，最少的景观设计，后院有一个砖砌露台和一个老式烤架，古雅的草坪家具，还有一个游泳池。"
+    },
+    {
+      "id": 20,
+      "en": "A two-car carport, pastel siding, and a gable roof, completed with white shutters and a white picket fence.",
+      "cn": "一个双车车棚，淡色外墙，山墙屋顶，配有白色百叶窗和白色栅栏。"
+    },
+    {
+      "id": 21,
+      "en": "Uh, honey?",
+      "cn": "嗯，亲爱的？"
+    },
+    {
+      "id": 22,
+      "en": "In the living room, we would have moss green rugs, and a fireplace with a stone mantle and wood paneling on the walls.",
+      "cn": "在客厅里，我们会有苔藓绿色的地毯，还有一个带石质壁炉和木质墙板的壁炉。"
+    },
+    {
+      "id": 23,
+      "en": "In the kitchen, the cupboards would be a pale yellow, and we would have a turquoise metal oven and vinyl flooring.",
+      "cn": "在厨房，橱柜是淡黄色的，我们会有一个蓝绿色的金属烤箱和乙烯基地板。"
+    },
+    {
+      "id": 24,
+      "en": "Um, sweetie, but I was thinking of more modern-style house, an open-concept house or glass, wood, metal, and concrete.",
+      "cn": "嗯，亲爱的，但我想要更现代风格的房子，开放式设计，或者玻璃、木材、金属和混凝土。"
+    },
+    {
+      "id": 25,
+      "en": "But sweetums, there's always a lot of wasted space in those kinds of homes.",
+      "cn": "但是亲爱的，这种房子总是有很多浪费的空间。"
+    },
+    {
+      "id": 26,
+      "en": "Besides, it's just a fad.",
+      "cn": "而且，这只是一个潮流。"
+    },
+    {
+      "id": 27,
+      "en": "It doesn't have the homey feeling the old homes do.",
+      "cn": "它没有老房子那种温馨的感觉。"
+    },
+    {
+      "id": 28,
+      "en": "Sweetie pie, it's not a lot of wasted space.",
+      "cn": "亲爱的，这并不是很多浪费的空间。"
+    },
+    {
+      "id": 29,
+      "en": "It is relaxing, and the house would be eco-friendly with an in-floor heating system, and designed to retain the heat of the sun in the winter, and keep the house cool in the summer.",
+      "cn": "这很放松，房子会是环保的，配有地暖系统，设计能在冬天保持阳光的热量，夏天保持房子凉爽。"
+    },
+    {
+      "id": 30,
+      "en": "We would have solar panels on the roof.",
+      "cn": "我们会在屋顶上安装太阳能电池板。"
+    },
+    {
+      "id": 31,
+      "en": "Do you know how much those things cost?",
+      "cn": "你知道这些东西多少钱吗？"
+    },
+    {
+      "id": 32,
+      "en": "What about your vintage furniture, dearest?",
+      "cn": "亲爱的，你的复古家具呢？"
+    },
+    {
+      "id": 33,
+      "en": "And instead of a lawn, which is also a lot of wasted space, and would require environmentally harmful pesticides, we would have a fish pond in the backyard, and a garden that would cover the whole yard so we could grow our own food.",
+      "cn": "而且，后院没有草坪，这也是很多浪费的空间，还需要对环境有害的农药，我们会在后院有一个鱼塘，还有一个覆盖整个院子的花园，这样我们就可以自己种食物。"
+    },
+    {
+      "id": 34,
+      "en": "But, Buttercup, I thought you always said that you love visiting your grandmother's house.",
+      "cn": "但是，黄花菜，我以为你总是说你喜欢去你奶奶的家。"
+    },
+    {
+      "id": 35,
+      "en": "And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements.",
+      "cn": "而我以为你，科学家先生，都是在用你的技术进步来拯救地球。"
+    },
+    {
+      "id": 36,
+      "en": "Um, well, I am just going to get some coffee while you two keep discussing.",
+      "cn": "嗯，好吧，我去喝点咖啡，你们继续讨论。"
+    },
+    {
+      "id": 37,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 38,
+      "en": "So apparently the couple can't seem to agree.",
+      "cn": "显然这对夫妇似乎无法达成一致。"
+    },
+    {
+      "id": 39,
+      "en": "He wants something different than what she does, and in the end, I think they were a little bit irritated with each other.",
+      "cn": "他想要的和她想要的不同，最后，我想他们有点互相恼火。"
+    },
+    {
+      "id": 40,
+      "en": "Doesn't this always happen, though?",
+      "cn": "这不是总是发生吗？"
+    },
+    {
+      "id": 41,
+      "en": "I mean, my dream home is probably not your dream home.",
+      "cn": "我的梦想家园可能不是你的梦想家园。"
+    },
+    {
+      "id": 42,
+      "en": "I don't know, it's weird.",
+      "cn": "我不知道，这很奇怪。"
+    },
+    {
+      "id": 43,
+      "en": "But, I mean, you would probably have to, I don't know, compensate somehow.",
+      "cn": "但是，我的意思是，你可能需要，我不知道，以某种方式补偿。"
+    },
+    {
+      "id": 44,
+      "en": "Well, that's the beauty of compromise, I think.",
+      "cn": "嗯，我认为这就是妥协的美。"
+    },
+    {
+      "id": 45,
+      "en": "You can go back and forth, but with your loved one or your spouse, you have to make some decisions about what you want and what they want.",
+      "cn": "你可以来回讨论，但和你所爱的人或配偶，你必须做出一些关于你想要什么和他们想要什么的决定。"
+    },
+    {
+      "id": 46,
+      "en": "All you need to do is give a guy his own room in which he can decorate and do whatever he wants with it.",
+      "cn": "你只需要给一个人一个他可以装饰和随意使用的房间。"
+    },
+    {
+      "id": 47,
+      "en": "That's all you need.",
+      "cn": "这就是你所需要的。"
+    },
+    {
+      "id": 48,
+      "en": "No, no, not me, just any guy.",
+      "cn": "不，不是我，只是任何一个人。"
+    },
+    {
+      "id": 49,
+      "en": "You want to decorate the house in any way you want, fine.",
+      "cn": "你想以任何方式装饰房子，没问题。"
+    },
+    {
+      "id": 50,
+      "en": "But just give us one room, you know, like five meters by five meters where we can put anything we want.",
+      "cn": "但只要给我们一个房间，你知道，像五米乘五米的地方，我们可以放任何我们想要的东西。"
+    },
+    {
+      "id": 51,
+      "en": "A beer cooler, a TV, a PS3, a sound system, and a couple of guitars.",
+      "cn": "一个啤酒冷却器，一个电视，一个PS3，一个音响系统，还有几把吉他。"
+    },
+    {
+      "id": 52,
+      "en": "Yeah, probably, yeah, yeah.",
+      "cn": "是的，可能是的，是的。"
+    },
+    {
+      "id": 53,
+      "en": "That's enough.",
+      "cn": "这就够了。"
+    },
+    {
+      "id": 54,
+      "en": "You described it.",
+      "cn": "你描述的就是这样。"
+    },
+    {
+      "id": 55,
+      "en": "I've been to your house, I know.",
+      "cn": "我去过你的家，我知道。"
+    },
+    {
+      "id": 56,
+      "en": "Anyway, we've got a lot of great words here in Language Takeaways, so let's take a peek at some of those.",
+      "cn": "不管怎样，我们在语言收获中有很多很棒的词汇，所以让我们来看看其中一些。"
+    },
+    {
+      "id": 57,
+      "en": "All right, so the first word that we have, or it's actually a concept, minimal landscaping.",
+      "cn": "好的，所以我们有的第一个词，实际上是一个概念，最小景观设计。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, so minimal is a style, minimal list, actually.",
+      "cn": "好的，所以最小是一种风格，实际上是最小主义。"
+    },
+    {
+      "id": 59,
+      "en": "And minimal landscaping is this kind of style of, well, designing your lawn or your garden.",
+      "cn": "最小景观设计是一种设计草坪或花园的风格。"
+    },
+    {
+      "id": 60,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 61,
+      "en": "So minimal means not having adornments or decorations.",
+      "cn": "所以最小意味着没有装饰或装饰物。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, so it's kind of like the less is more type thing.",
+      "cn": "好的，所以这有点像少即是多的概念。"
+    },
+    {
+      "id": 63,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 64,
+      "en": "So minimal architecture could be very simple, lots of clean lines, not much decoration.",
+      "cn": "所以最小建筑可以非常简单，很多干净的线条，没有太多装饰。"
+    },
+    {
+      "id": 65,
+      "en": "It's the opposite of something that's baroque and highly ornamented.",
+      "cn": "它与华丽和高度装饰的东西相反。"
+    },
+    {
+      "id": 66,
+      "en": "Yeah, no, I don't like that.",
+      "cn": "是的，不，我不喜欢那样。"
+    },
+    {
+      "id": 67,
+      "en": "I'm into minimal.",
+      "cn": "我喜欢最小主义。"
+    },
+    {
+      "id": 68,
+      "en": "All right, minimalist.",
+      "cn": "好吧，极简主义者。"
+    },
+    {
+      "id": 69,
+      "en": "Anyways, we have minimal landscaping, and, well, he's talking about his patio and old-fashioned grill, and he said quaint lawn furniture.",
+      "cn": "不管怎样，我们有最小景观设计，他在谈论他的露台和老式烤架，他说古雅的草坪家具。"
+    },
+    {
+      "id": 70,
+      "en": "Quaint is sometimes, well, it's usually kind of a bad thing.",
+      "cn": "古雅有时，嗯，通常是个坏事。"
+    },
+    {
+      "id": 71,
+      "en": "We say something is quaint in the way of saying that it's cute, but we don't really like it because it's maybe old-fashioned or, you know, kind of old style.",
+      "cn": "我们说某样东西古雅是说它可爱，但我们并不真的喜欢它，因为它可能是老式的，或者，你知道，有点老派。"
+    },
+    {
+      "id": 72,
+      "en": "So, oh, isn't that quaint?",
+      "cn": "所以，哦，那不是很古雅吗？"
+    },
+    {
+      "id": 73,
+      "en": "It's something that people from the city often say about people in the country, at least in America.",
+      "cn": "这是城市里的人常常对乡村的人说的，至少在美国。"
+    },
+    {
+      "id": 74,
+      "en": "So, oh, because, you know, I went to school on the East Coast, and I'm from the Midwest.",
+      "cn": "所以，哦，因为，你知道，我在东海岸上学，我来自中西部。"
+    },
+    {
+      "id": 75,
+      "en": "So people on the East Coast would say, oh, your house is so quaint, you know, small and cute and old-fashioned.",
+      "cn": "所以东海岸的人会说，哦，你的房子真古雅，你知道，小而可爱而老式。"
+    },
+    {
+      "id": 76,
+      "en": "Because they live in a big, fancy New York apartment or whatever.",
+      "cn": "因为他们住在一个大而豪华的纽约公寓里，或者其他什么。"
+    },
+    {
+      "id": 77,
+      "en": "So quaint is usually something that's not the nicest, but... So he's looking for some lawn furniture that's not like plastic or new.",
+      "cn": "所以古雅通常不是最好的，但……所以他在寻找一些不是塑料或新的草坪家具。"
+    },
+    {
+      "id": 78,
+      "en": "It's more like old-fashioned, maybe wood, right?",
+      "cn": "更像是老式的，也许是木制的，对吧？"
+    },
+    {
+      "id": 79,
+      "en": "Right, and kind of traditional and not, yeah, not fancy.",
+      "cn": "对，传统的，不，嗯，不奢华。"
+    },
+    {
+      "id": 80,
+      "en": "It's kind of simple.",
+      "cn": "有点简单。"
+    },
+    {
+      "id": 81,
+      "en": "Now he's also talking about the house, and he wants, well, a two-car port, pastel siding, and a gable roof.",
+      "cn": "现在他还在谈论房子，他想要，嗯，一个双车车棚，淡色外墙和山墙屋顶。"
+    },
+    {
+      "id": 82,
+      "en": "So now we know what a roof is, but what is a gable roof?",
+      "cn": "所以现在我们知道屋顶是什么，但山墙屋顶是什么？"
+    },
+    {
+      "id": 83,
+      "en": "A gable is a thing, right?",
+      "cn": "山墙是一个东西，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "And it's almost like an extension of the roof in certain parts.",
+      "cn": "它几乎像是屋顶在某些部分的延伸。"
+    },
+    {
+      "id": 85,
+      "en": "For example, on a traditional Cape COD-style house, you have windows in the front.",
+      "cn": "例如，在传统的Cape COD风格的房子上，前面有窗户。"
+    },
+    {
+      "id": 86,
+      "en": "They're not a part of the roof.",
+      "cn": "它们不是屋顶的一部分。"
+    },
+    {
+      "id": 87,
+      "en": "They're an extension.",
+      "cn": "它们是一个延伸。"
+    },
+    {
+      "id": 88,
+      "en": "They come out.",
+      "cn": "它们突出。"
+    },
+    {
+      "id": 89,
+      "en": "Popping out like eyes.",
+      "cn": "像眼睛一样突出。"
+    },
+    {
+      "id": 90,
+      "en": "Exactly, they're coming out like eyes.",
+      "cn": "正是如此，它们像眼睛一样突出。"
+    },
+    {
+      "id": 91,
+      "en": "And so the roof, obviously you need a roof on top of those windows.",
+      "cn": "所以屋顶，显然你需要在那些窗户上方有一个屋顶。"
+    },
+    {
+      "id": 92,
+      "en": "So that kind of roof, that little extension, that's called a gable.",
+      "cn": "所以那种屋顶，那小延伸，叫做山墙。"
+    },
+    {
+      "id": 93,
+      "en": "And so there's a wonderful book that's famous in American history called The House of Seven Gables.",
+      "cn": "所以有一本在美国历史上非常著名的书叫《七个山墙的房子》。"
+    },
+    {
+      "id": 94,
+      "en": "That means that on this roof of the house, there are seven different parts that come out.",
+      "cn": "这意味着在这座房子的屋顶上，有七个不同的部分突出。"
+    },
+    {
+      "id": 95,
+      "en": "Seven gables, it's very unique.",
+      "cn": "七个山墙，非常独特。"
+    },
+    {
+      "id": 96,
+      "en": "Those houses usually look a little bit scary.",
+      "cn": "那些房子通常看起来有点吓人。"
+    },
+    {
+      "id": 97,
+      "en": "They do, Victorian and imposing.",
+      "cn": "确实，维多利亚风格和令人印象深刻。"
+    },
+    {
+      "id": 98,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 99,
+      "en": "So you have a gable roof.",
+      "cn": "所以你有一个山墙屋顶。"
+    },
+    {
+      "id": 100,
+      "en": "Now you have shutters and a white picket fence.",
+      "cn": "现在你有百叶窗和白色栅栏。"
+    },
+    {
+      "id": 101,
+      "en": "This is typical.",
+      "cn": "这很典型。"
+    },
+    {
+      "id": 102,
+      "en": "Everyone talks about a white picket fence around their house.",
+      "cn": "每个人都谈论自己房子周围的白色栅栏。"
+    },
+    {
+      "id": 103,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 104,
+      "en": "There was even a TV show in America years ago called Picket Fences.",
+      "cn": "多年前在美国甚至有个叫《栅栏》的电视节目。"
+    },
+    {
+      "id": 105,
+      "en": "And I think a picket fence is kind of this ideal in American culture about having your own home in the suburbs and having your own space.",
+      "cn": "我认为，栅栏在美国文化中代表着在郊区拥有自己家的理想，拥有自己的空间。"
+    },
+    {
+      "id": 106,
+      "en": "And so around your yard, around your garden, you have this white picket fence.",
+      "cn": "所以在你的院子、花园周围，你有这道白色栅栏。"
+    },
+    {
+      "id": 107,
+      "en": "And so a picket is, I think, the pointed part.",
+      "cn": "我认为，栅栏是指尖的部分。"
+    },
+    {
+      "id": 108,
+      "en": "So a picket fence is thin pieces of wood that stand in the ground and are connected to protect your property from other people coming inside.",
+      "cn": "所以，栅栏是竖立在地面上的细木条，连接在一起以保护你的财产不被他人进入。"
+    },
+    {
+      "id": 109,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 110,
+      "en": "So that's a white picket fence.",
+      "cn": "这就是白色栅栏。"
+    },
+    {
+      "id": 111,
+      "en": "You'll hear it all the time, usually in movies or in TV shows, they talk about having their own little house with their dog and a white picket fence.",
+      "cn": "你会经常听到，通常在电影或电视节目中，他们谈论拥有自己的小房子、狗和白色栅栏。"
+    },
+    {
+      "id": 112,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 113,
+      "en": "Two kids, two cars.",
+      "cn": "两个孩子，两辆车。"
+    },
+    {
+      "id": 114,
+      "en": "And a white picket fence.",
+      "cn": "还有一道白色栅栏。"
+    },
+    {
+      "id": 115,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 116,
+      "en": "So now the woman argued that she wanted something a little bit more modern.",
+      "cn": "现在这位女士争辩说她想要一些更现代的东西。"
+    },
+    {
+      "id": 117,
+      "en": "And well, the guy said, you know what?",
+      "cn": "而那位男士说，你知道吗？"
+    },
+    {
+      "id": 118,
+      "en": "It's just wasted space.",
+      "cn": "这只是浪费空间。"
+    },
+    {
+      "id": 119,
+      "en": "And those types of homes are just a fad.",
+      "cn": "这种类型的房子只是个时尚。"
+    },
+    {
+      "id": 120,
+      "en": "A fad.",
+      "cn": "一种时尚。"
+    },
+    {
+      "id": 121,
+      "en": "So a fad is something that is passing.",
+      "cn": "所以时尚是指一种短暂的东西。"
+    },
+    {
+      "id": 122,
+      "en": "It's something that's popular for a short time, but then it goes away.",
+      "cn": "它在短时间内流行，但随后就消失了。"
+    },
+    {
+      "id": 123,
+      "en": "It's not popular anymore.",
+      "cn": "不再流行了。"
+    },
+    {
+      "id": 124,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 125,
+      "en": "For example, I think for a while, remember those shoes?",
+      "cn": "例如，我记得有一段时间，那些鞋子？"
+    },
+    {
+      "id": 126,
+      "en": "They used to have little red lights in the back in the heel.",
+      "cn": "它们后跟有小红灯。"
+    },
+    {
+      "id": 127,
+      "en": "Oh yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 128,
+      "en": "LA lights.",
+      "cn": "洛杉矶灯。"
+    },
+    {
+      "id": 129,
+      "en": "LA lights.",
+      "cn": "洛杉矶灯。"
+    },
+    {
+      "id": 130,
+      "en": "Those were a fad.",
+      "cn": "那些是时尚。"
+    },
+    {
+      "id": 131,
+      "en": "It was really popular for like a year.",
+      "cn": "大约流行了一年。"
+    },
+    {
+      "id": 132,
+      "en": "Everyone had them.",
+      "cn": "每个人都有。"
+    },
+    {
+      "id": 133,
+      "en": "Everyone wore them.",
+      "cn": "每个人都穿。"
+    },
+    {
+      "id": 134,
+      "en": "And then they just went away.",
+      "cn": "然后它们就消失了。"
+    },
+    {
+      "id": 135,
+      "en": "One of my favorite fads of the 1980s were those shirts that would change color if the room temperature changed color.",
+      "cn": "我最喜欢的1980年代的时尚之一是那些在室温变化时会变色的衬衫。"
+    },
+    {
+      "id": 136,
+      "en": "So if you go outside and it's hot, they would become bright pink.",
+      "cn": "所以如果你出去，天气热，它们会变成亮粉色。"
+    },
+    {
+      "id": 137,
+      "en": "But if you're in a cold room, they would go blue and green.",
+      "cn": "但如果你在一个冷的房间，它们会变成蓝色和绿色。"
+    },
+    {
+      "id": 138,
+      "en": "It was really fun, but they're definitely out of fashion.",
+      "cn": "这真的很有趣，但它们肯定已经过时了。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah, I don't think they wear them anymore.",
+      "cn": "是的，我觉得他们不再穿了。"
+    },
+    {
+      "id": 140,
+      "en": "So that's a fad.",
+      "cn": "所以这就是时尚。"
+    },
+    {
+      "id": 141,
+      "en": "Something that's temporary.",
+      "cn": "一种暂时的东西。"
+    },
+    {
+      "id": 142,
+      "en": "It's popular for a while.",
+      "cn": "它流行一段时间。"
+    },
+    {
+      "id": 143,
+      "en": "So he called her house a fad and she says, Well, what about your house?",
+      "cn": "所以他称她的房子为时尚，她说，那你的房子呢？"
+    },
+    {
+      "id": 144,
+      "en": "All this vintage furniture.",
+      "cn": "所有这些复古家具。"
+    },
+    {
+      "id": 145,
+      "en": "What's vintage?",
+      "cn": "什么是复古？"
+    },
+    {
+      "id": 146,
+      "en": "Vintage?",
+      "cn": "复古？"
+    },
+    {
+      "id": 147,
+      "en": "Well, some people think that vintage is a fad.",
+      "cn": "嗯，有些人认为复古是一种时尚。"
+    },
+    {
+      "id": 148,
+      "en": "A lot of people really enjoy buying vintage furniture or vintage clothing.",
+      "cn": "很多人真的喜欢购买复古家具或复古服装。"
+    },
+    {
+      "id": 149,
+      "en": "Vintage means old.",
+      "cn": "复古意味着旧。"
+    },
+    {
+      "id": 150,
+      "en": "Old.",
+      "cn": "旧。"
+    },
+    {
+      "id": 151,
+      "en": "It's a nice way of saying old.",
+      "cn": "这是说旧的一种好方式。"
+    },
+    {
+      "id": 152,
+      "en": "Or like a nice or cool way of saying old.",
+      "cn": "或者说旧的一种好或酷的方式。"
+    },
+    {
+      "id": 153,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 154,
+      "en": "So it's almost like, for example, right now, 1940s and 50s clothes are very popular.",
+      "cn": "所以几乎就像，例如，现在1940年代和50年代的衣服非常流行。"
+    },
+    {
+      "id": 155,
+      "en": "A lot of girls are into this kind of style.",
+      "cn": "很多女孩喜欢这种风格。"
+    },
+    {
+      "id": 156,
+      "en": "So it's called vintage clothing because it's not from today's styles.",
+      "cn": "所以这被称为复古服装，因为它不是今天的风格。"
+    },
+    {
+      "id": 157,
+      "en": "It's an old style.",
+      "cn": "这是一种旧风格。"
+    },
+    {
+      "id": 158,
+      "en": "Or you could even call those big, flowing dresses from the 1970s vintage clothing.",
+      "cn": "或者你甚至可以称那些1970年代的大流动裙子为复古服装。"
+    },
+    {
+      "id": 159,
+      "en": "So vintage furniture would be furniture that comes from a different time, a different era.",
+      "cn": "所以复古家具就是来自不同时间、不同年代的家具。"
+    },
+    {
+      "id": 160,
+      "en": "And it's popular now.",
+      "cn": "现在很流行。"
+    },
+    {
+      "id": 161,
+      "en": "They're popular now.",
+      "cn": "现在它们很流行。"
+    },
+    {
+      "id": 162,
+      "en": "Or people like to buy them now.",
+      "cn": "或者人们现在喜欢购买它们。"
+    },
+    {
+      "id": 163,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 164,
+      "en": "So they're special because they come from a different time.",
+      "cn": "所以它们特别，因为它们来自不同的时代。"
+    },
+    {
+      "id": 165,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 166,
+      "en": "So those are the words that we have for today on language takeaway.",
+      "cn": "所以今天我们有这些词作为语言收获。"
+    },
+    {
+      "id": 167,
+      "en": "Why don't we move on now to some pet names or some sweet ways that you can call your loved ones on Fluency Builder.",
+      "cn": "我们现在为什么不转到一些宠物名字或一些你可以称呼你爱人的甜蜜方式，在流利构建者上。"
+    },
+    {
+      "id": 168,
+      "en": "Fluency Builder.",
+      "cn": "流利构建者。"
+    },
+    {
+      "id": 169,
+      "en": "So the reason this dialogue is very funny is because we have these two people who are clearly in disagreement about the kinds of furniture and house they want, but they're being so nice to each other.",
+      "cn": "这个对话之所以很有趣，是因为这两个人显然在对他们想要的家具和房子类型上存在分歧，但他们对彼此非常友好。"
+    },
+    {
+      "id": 170,
+      "en": "They have these cute names for each other.",
+      "cn": "他们有这些可爱的称呼。"
+    },
+    {
+      "id": 171,
+      "en": "So it's really, I don't know, it's really funny.",
+      "cn": "所以真的，我不知道，这真的很有趣。"
+    },
+    {
+      "id": 172,
+      "en": "It almost seems like they're newlyweds, but apparently they've been saving up their entire life.",
+      "cn": "他们几乎看起来像新婚夫妇，但显然他们已经存钱一辈子。"
+    },
+    {
+      "id": 173,
+      "en": "So maybe they're just one of those really loving couples.",
+      "cn": "所以也许他们只是那种非常恩爱的一对。"
+    },
+    {
+      "id": 174,
+      "en": "Oh, sweetums, kitty pie, kitty.",
+      "cn": "哦，甜心，猫咪派，猫咪。"
+    },
+    {
+      "id": 175,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 176,
+      "en": "So that's the first one.",
+      "cn": "所以这是第一个。"
+    },
+    {
+      "id": 177,
+      "en": "Sweetums.",
+      "cn": "甜心。"
+    },
+    {
+      "id": 178,
+      "en": "Sweetums.",
+      "cn": "甜心。"
+    },
+    {
+      "id": 179,
+      "en": "So obviously the main part of this word is sweet.",
+      "cn": "所以显然这个词的主要部分是甜。"
+    },
+    {
+      "id": 180,
+      "en": "Sweetums.",
+      "cn": "甜心。"
+    },
+    {
+      "id": 181,
+      "en": "Sweetums.",
+      "cn": "甜心。"
+    },
+    {
+      "id": 182,
+      "en": "And this is a way to say, hey, sweetie sweetums.",
+      "cn": "这是一种说，嘿，亲爱的甜心。"
+    },
+    {
+      "id": 183,
+      "en": "Sweetums.",
+      "cn": "甜心。"
+    },
+    {
+      "id": 184,
+      "en": "So you can say sweetie or sweetums.",
+      "cn": "所以你可以说亲爱的或甜心。"
+    },
+    {
+      "id": 185,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 186,
+      "en": "And that's a nice way of saying something.",
+      "cn": "这是一种说某事的好方式。"
+    },
+    {
+      "id": 187,
+      "en": "Or you can go sweetie pie.",
+      "cn": "或者你可以说甜心派。"
+    },
+    {
+      "id": 188,
+      "en": "Sweetie pie.",
+      "cn": "甜心派。"
+    },
+    {
+      "id": 189,
+      "en": "So pie is a food, you know, it's like a dessert.",
+      "cn": "所以派是一种食物，你知道，它就像一种甜点。"
+    },
+    {
+      "id": 190,
+      "en": "It's a sweet.",
+      "cn": "这是一种甜食。"
+    },
+    {
+      "id": 191,
+      "en": "So sweetie pie.",
+      "cn": "所以甜心派。"
+    },
+    {
+      "id": 192,
+      "en": "We could say honey pie.",
+      "cn": "我们可以说蜂蜜派。"
+    },
+    {
+      "id": 193,
+      "en": "Honey pie, sweetie pie.",
+      "cn": "蜂蜜派，甜心派。"
+    },
+    {
+      "id": 194,
+      "en": "So these are all cute.",
+      "cn": "所以这些都很可爱。"
+    },
+    {
+      "id": 195,
+      "en": "And you know, the nice thing about these kind of pet names, these cute names is you can change them if you want.",
+      "cn": "你知道，这些可爱的宠物名字的好处是你可以根据需要更改它们。"
+    },
+    {
+      "id": 196,
+      "en": "And they're yours.",
+      "cn": "而且它们是你的。"
+    },
+    {
+      "id": 197,
+      "en": "So you could say honey pie, sugar bun.",
+      "cn": "所以你可以说蜂蜜派，糖包。"
+    },
+    {
+      "id": 198,
+      "en": "You know, they're silly, but there's no real rule.",
+      "cn": "你知道，它们很傻，但没有真正的规则。"
+    },
+    {
+      "id": 199,
+      "en": "But these are the most common.",
+      "cn": "但这些是最常见的。"
+    },
+    {
+      "id": 200,
+      "en": "So sweetums and sweetie pie.",
+      "cn": "所以甜心和甜心派。"
+    },
+    {
+      "id": 201,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 202,
+      "en": "Now moving on to something a little bit maybe more formal.",
+      "cn": "现在转向一些可能更正式的东西。"
+    },
+    {
+      "id": 203,
+      "en": "Dearest.",
+      "cn": "亲爱的。"
+    },
+    {
+      "id": 204,
+      "en": "Dearest.",
+      "cn": "亲爱的。"
+    },
+    {
+      "id": 205,
+      "en": "This makes me think of my grandparents.",
+      "cn": "这让我想起我的祖父母。"
+    },
+    {
+      "id": 206,
+      "en": "Oh, really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 207,
+      "en": "Dearest.",
+      "cn": "亲爱的。"
+    },
+    {
+      "id": 208,
+      "en": "So dearest comes from deer.",
+      "cn": "所以亲爱的来自于deer。"
+    },
+    {
+      "id": 209,
+      "en": "Dearest is the most deer.",
+      "cn": "亲爱的是最珍贵的。"
+    },
+    {
+      "id": 210,
+      "en": "So someone who's the most important to you.",
+      "cn": "所以对你最重要的人。"
+    },
+    {
+      "id": 211,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 212,
+      "en": "And so you could say mummy dearest, mother dearest.",
+      "cn": "所以你可以说妈妈亲爱的，母亲亲爱的。"
+    },
+    {
+      "id": 213,
+      "en": "Oh, really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 214,
+      "en": "You've heard that so many?",
+      "cn": "你听过那么多吗？"
+    },
+    {
+      "id": 215,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 216,
+      "en": "Do people call that their mother's like mother dearest?",
+      "cn": "人们会称他们的母亲为母亲亲爱的？"
+    },
+    {
+      "id": 217,
+      "en": "Mother dearest.",
+      "cn": "母亲亲爱的。"
+    },
+    {
+      "id": 218,
+      "en": "No, it's very 1930s.",
+      "cn": "不，这很1930年代。"
+    },
+    {
+      "id": 219,
+      "en": "I'm so arrogant.",
+      "cn": "我真自大。"
+    },
+    {
+      "id": 220,
+      "en": "It is, well, it's an old time thing.",
+      "cn": "是的，这是一种老旧的说法。"
+    },
+    {
+      "id": 221,
+      "en": "It's not, we do not say this anymore, but you can say, you know, dearest, would you mind moving the car, please?",
+      "cn": "我们不再这么说了，但你可以说，亲爱的，能请你把车移一下吗？"
+    },
+    {
+      "id": 222,
+      "en": "I like the accent, you know, kind of like English.",
+      "cn": "我喜欢这个口音，听起来有点像英语。"
+    },
+    {
+      "id": 223,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 224,
+      "en": "And the last one, buttercup.",
+      "cn": "最后一个，黄水仙。"
+    },
+    {
+      "id": 225,
+      "en": "This is really popular.",
+      "cn": "这个真的很受欢迎。"
+    },
+    {
+      "id": 226,
+      "en": "It is really popular.",
+      "cn": "确实很受欢迎。"
+    },
+    {
+      "id": 227,
+      "en": "And you've heard this in a song before.",
+      "cn": "你之前听过这首歌。"
+    },
+    {
+      "id": 228,
+      "en": "You want to sing the song?",
+      "cn": "你想唱这首歌吗？"
+    },
+    {
+      "id": 229,
+      "en": "Uh, no, you sing the song.",
+      "cn": "嗯，不，你唱这首歌。"
+    },
+    {
+      "id": 230,
+      "en": "Why do you... Why do you build me up, buttercup baby?",
+      "cn": "你为什么... 你为什么让我振作起来，黄水仙宝贝？"
+    },
+    {
+      "id": 231,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 232,
+      "en": "So that was in a lot of movies.",
+      "cn": "这在很多电影中都有。"
+    },
+    {
+      "id": 233,
+      "en": "The word is buttercup.",
+      "cn": "这个词是黄水仙。"
+    },
+    {
+      "id": 234,
+      "en": "Buttercup.",
+      "cn": "黄水仙。"
+    },
+    {
+      "id": 235,
+      "en": "Also in the movie, the Princess bride was the character Princess buttercup.",
+      "cn": "在电影《公主新娘》中也有角色公主黄水仙。"
+    },
+    {
+      "id": 236,
+      "en": "And so this is a sweet, you know, obviously a sweet thing.",
+      "cn": "所以这显然是一个甜蜜的称呼。"
+    },
+    {
+      "id": 237,
+      "en": "I think a buttercup is a flower.",
+      "cn": "我认为黄水仙是一种花。"
+    },
+    {
+      "id": 238,
+      "en": "Oh, really?",
+      "cn": "哦，真的？"
+    },
+    {
+      "id": 239,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 240,
+      "en": "And so these are all words you can use, names you could use with men and women, but buttercup is mostly women.",
+      "cn": "所以这些都是你可以用的词，适用于男性和女性，但黄水仙主要是女性。"
+    },
+    {
+      "id": 241,
+      "en": "I think the other ones are more, more general.",
+      "cn": "我认为其他的更通用。"
+    },
+    {
+      "id": 242,
+      "en": "But do you think, like, do guys say to their loved ones, like, sweetum, sweetie pie?",
+      "cn": "但你觉得，男生会对他们的爱人说，甜心，甜蜜的宝贝吗？"
+    },
+    {
+      "id": 243,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 244,
+      "en": "Yeah?",
+      "cn": "是吗？"
+    },
+    {
+      "id": 245,
+      "en": "Oh, yeah.",
+      "cn": "哦，是的。"
+    },
+    {
+      "id": 246,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 247,
+      "en": "So I guess, guys, if you want to be really sweet and you want to win over the hearts of the ladies, you can use these, uh, these words as well.",
+      "cn": "所以我想，男生，如果你想真的很甜蜜，想赢得女士们的心，你也可以使用这些词。"
+    },
+    {
+      "id": 248,
+      "en": "Another popular one is babe, which is more of a young person thing to say.",
+      "cn": "另一个受欢迎的词是宝贝，这更像是年轻人说的。"
+    },
+    {
+      "id": 249,
+      "en": "Yeah, I think it's more modern as well.",
+      "cn": "是的，我认为这更现代。"
+    },
+    {
+      "id": 250,
+      "en": "Honey or babe.",
+      "cn": "亲爱的或宝贝。"
+    },
+    {
+      "id": 251,
+      "en": "Baby.",
+      "cn": "宝宝。"
+    },
+    {
+      "id": 252,
+      "en": "Baby.",
+      "cn": "宝宝。"
+    },
+    {
+      "id": 253,
+      "en": "You're verging on.",
+      "cn": "你有点过了。"
+    },
+    {
+      "id": 254,
+      "en": "Not so, not so sweet.",
+      "cn": "不太，不太甜。"
+    },
+    {
+      "id": 255,
+      "en": "Hey, baby, how are you?",
+      "cn": "嘿，宝贝，你好吗？"
+    },
+    {
+      "id": 256,
+      "en": "It's like, nice.",
+      "cn": "听起来不错。"
+    },
+    {
+      "id": 257,
+      "en": "It's like, not like, hey, baby.",
+      "cn": "听起来不像，嘿，宝贝。"
+    },
+    {
+      "id": 258,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 259,
+      "en": "Well, we're going to leave you with that thought and go listen to this dialogue one more time, but we'll be back in a moment.",
+      "cn": "好吧，我们就留给你这个想法，去再听一次这个对话，但我们马上会回来。"
+    },
+    {
+      "id": 260,
+      "en": "Mr. and Mrs. Robinson, let's get straight to it.",
+      "cn": "罗宾逊夫妇，我们直接进入主题。"
+    },
+    {
+      "id": 261,
+      "en": "You have saved up your money for years and are now ready to build your dream home.",
+      "cn": "你们已经存了多年的钱，现在准备建造你们的梦想家园。"
+    },
+    {
+      "id": 262,
+      "en": "What did you have in mind?",
+      "cn": "你们有什么想法？"
+    },
+    {
+      "id": 263,
+      "en": "A suburban bungalow straight out of the 60s.",
+      "cn": "一座60年代风格的郊区平房。"
+    },
+    {
+      "id": 264,
+      "en": "A perfect lawn with minimal landscaping, a brick patio in the backyard with an old-fashioned grill, quaint lawn furniture, and a swimming pool.",
+      "cn": "完美的草坪，最小的景观设计，后院有一个砖砌露台和一个老式烤架，别致的草坪家具和一个游泳池。"
+    },
+    {
+      "id": 265,
+      "en": "A two-car carport, pastel siding, and a gable roof, completed with white shutters and a white picket fence.",
+      "cn": "一个双车车棚，淡色外墙，山形屋顶，配有白色百叶窗和白色栅栏。"
+    },
+    {
+      "id": 266,
+      "en": "Uh, honey?",
+      "cn": "嗯，亲爱的？"
+    },
+    {
+      "id": 267,
+      "en": "In the living room, we would have moss green rugs and a fireplace with a stone mantle and wood paneling on the walls.",
+      "cn": "在客厅，我们会有苔藓绿色的地毯和一个带石质壁炉的壁炉，墙上有木质镶板。"
+    },
+    {
+      "id": 268,
+      "en": "In the kitchen, the cupboards would be a pale yellow and we would have a turquoise metal oven and vinyl flooring.",
+      "cn": "在厨房，橱柜是淡黄色的，我们会有一个蓝绿色的金属烤箱和乙烯基地板。"
+    },
+    {
+      "id": 269,
+      "en": "Um, sweetie, but I was thinking of more a modern-style house, an open-concept house, all glass, wood, metal, and concrete.",
+      "cn": "嗯，亲爱的，但我想的是更现代风格的房子，开放式设计，全部是玻璃、木材、金属和混凝土。"
+    },
+    {
+      "id": 270,
+      "en": "But sweetums, there's always a lot of wasted space in those kinds of homes.",
+      "cn": "但亲爱的，这种房子总是有很多浪费的空间。"
+    },
+    {
+      "id": 271,
+      "en": "Besides, it's just a fad.",
+      "cn": "而且，这只是一个时尚。"
+    },
+    {
+      "id": 272,
+      "en": "It doesn't have the homey feeling the old homes do.",
+      "cn": "它没有老房子那种温馨的感觉。"
+    },
+    {
+      "id": 273,
+      "en": "Sweetie pie, it's not a lot of wasted space.",
+      "cn": "亲爱的，这并不是很多浪费的空间。"
+    },
+    {
+      "id": 274,
+      "en": "It is relaxing and the house would be eco-friendly with an in-floor heating system and designed to retain the heat of the sun in the winter and keep the house cool in the summer.",
+      "cn": "这很放松，房子会是环保的，配有地暖系统，设计能在冬天保持阳光的热量，夏天保持房子凉爽。"
+    },
+    {
+      "id": 275,
+      "en": "We would have solar panels on the roof.",
+      "cn": "我们会在屋顶上安装太阳能电池板。"
+    },
+    {
+      "id": 276,
+      "en": "Do you know how much those things cost?",
+      "cn": "你知道这些东西多少钱吗？"
+    },
+    {
+      "id": 277,
+      "en": "What about your vintage furniture, dearest?",
+      "cn": "亲爱的，你的复古家具呢？"
+    },
+    {
+      "id": 278,
+      "en": "And instead of a lawn, which is also a lot of wasted space and would require environmentally harmful pesticides, we would have a fish pond in the backyard and a garden that would cover the whole yard so we could grow our own food.",
+      "cn": "而且，代替草坪，这也是很多浪费的空间，还需要对环境有害的杀虫剂，我们会在后院有一个鱼塘和一个覆盖整个院子的花园，这样我们就可以自己种食物。"
+    },
+    {
+      "id": 279,
+      "en": "But, buttercup, I thought you always said that you love visiting your grandmother's house.",
+      "cn": "但是，黄水仙，我以为你总是说你喜欢去你祖母的家。"
+    },
+    {
+      "id": 280,
+      "en": "And I thought you, Mr. Scientist, were all up on saving the planet with your technological advancements.",
+      "cn": "而我以为你，科学家先生，都是在用你的技术进步拯救地球。"
+    },
+    {
+      "id": 281,
+      "en": "Um, well, I am just going to get some coffee while you two keep discussing.",
+      "cn": "嗯，好吧，我要去喝点咖啡，而你们两个继续讨论。"
+    },
+    {
+      "id": 282,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 283,
+      "en": "So, um, apart from this, uh, decorations and stuff, are you-do you agree with the vintage home?",
+      "cn": "所以，除了这些装饰和东西，你们同意复古的家吗？"
+    },
+    {
+      "id": 284,
+      "en": "The more like, uh, minimalist thing?",
+      "cn": "更像是，嗯，极简风格的？"
+    },
+    {
+      "id": 285,
+      "en": "Or do you like the open concept one?",
+      "cn": "还是你喜欢开放式的？"
+    },
+    {
+      "id": 286,
+      "en": "The bigger one?",
+      "cn": "更大的？"
+    },
+    {
+      "id": 287,
+      "en": "I- I love the look of minimalism, but as a place to live, it's not comfortable, right?",
+      "cn": "我-我喜欢极简主义的外观，但作为居住的地方，它并不舒适，对吧？"
+    },
+    {
+      "id": 288,
+      "en": "And so when I think of an aesthetic that I like, you know, a look that I like, I-I really like kind of dark wood, velvety, 19th century kind of-Wow.",
+      "cn": "所以当我想到我喜欢的美学时，你知道，我喜欢的外观，我-我真的喜欢那种深色木材、天鹅绒、19世纪的风格-哇。"
+    },
+    {
+      "id": 289,
+      "en": "Like, I think of old Vienna.",
+      "cn": "我想到的是旧维也纳。"
+    },
+    {
+      "id": 290,
+      "en": "You like Castle Dracula.",
+      "cn": "你喜欢德古拉城堡。"
+    },
+    {
+      "id": 291,
+      "en": "No, not dark.",
+      "cn": "不，不是黑暗的。"
+    },
+    {
+      "id": 292,
+      "en": "I like things to be open.",
+      "cn": "我喜欢东西开放。"
+    },
+    {
+      "id": 293,
+      "en": "Um, and I like a lot of natural light, but I also like oversized kind of heavy furniture and really luscious, um, fabrics and things like that.",
+      "cn": "嗯，我喜欢很多自然光，但我也喜欢超大、沉重的家具和非常华丽的面料和类似的东西。"
+    },
+    {
+      "id": 294,
+      "en": "So that's my-I'm actually completely different because I do like this open concept.",
+      "cn": "所以这是我的-我实际上完全不同，因为我确实喜欢这种开放式设计。"
+    },
+    {
+      "id": 295,
+      "en": "I like those houses that-I like the way they look inside as well as outside when they're kind of squared, big windows, clean lines.",
+      "cn": "我喜欢那些房子-我喜欢它们内部和外部的样子，当它们是方形的，大窗户，干净的线条。"
+    },
+    {
+      "id": 296,
+      "en": "Um, inside is like, for example, in the kitchen you have polished aluminum or polished steel furniture in the kitchen, um, as well as a lot of white and red or black, especially.",
+      "cn": "嗯，内部就像，比如说，在厨房里你有抛光铝或抛光钢的家具，嗯，还有很多白色和红色或黑色，尤其是。"
+    },
+    {
+      "id": 297,
+      "en": "Um, I kind of like that kind of open spaces.",
+      "cn": "嗯，我有点喜欢那种开放的空间。"
+    },
+    {
+      "id": 298,
+      "en": "Primary colors.",
+      "cn": "原色。"
+    },
+    {
+      "id": 299,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 300,
+      "en": "Flat screen TVs on the wall and stuff like that.",
+      "cn": "墙上的平板电视和类似的东西。"
+    },
+    {
+      "id": 301,
+      "en": "Remote controls.",
+      "cn": "遥控器。"
+    },
+    {
+      "id": 302,
+      "en": "Ikea lamps.",
+      "cn": "宜家灯。"
+    },
+    {
+      "id": 303,
+      "en": "Yeah, you know, like those remote controls where you can, um, open your curtains, your TV, and the lights all at the same time.",
+      "cn": "是的，你知道的，那种遥控器可以，嗯，同时打开窗帘、电视和灯。"
+    },
+    {
+      "id": 304,
+      "en": "I kind of like that stuff.",
+      "cn": "我有点喜欢那些东西。"
+    },
+    {
+      "id": 305,
+      "en": "Cool.",
+      "cn": "酷。"
+    },
+    {
+      "id": 306,
+      "en": "Well, let us know what you guys like because everyone has their own opinion on what a beautiful house is.",
+      "cn": "好吧，让我们知道你们喜欢什么，因为每个人对美丽房子的看法都不同。"
+    },
+    {
+      "id": 307,
+      "en": "And if you have any pictures, feel free to share them with us on our website, EnglishPod.com.",
+      "cn": "如果你有任何照片，欢迎在我们的网站 EnglishPod.com 上与我们分享。"
+    },
+    {
+      "id": 308,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 309,
+      "en": "We'll see you guys there.",
+      "cn": "我们在那里见。"
+    },
+    {
+      "id": 310,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

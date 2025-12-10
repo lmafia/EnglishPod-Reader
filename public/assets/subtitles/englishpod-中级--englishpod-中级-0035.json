@@ -1,0 +1,1084 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0035",
+  "title": "EnglishPod 中级 0035",
+  "totalSegments": 215,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome to EnglishPod.",
+      "cn": "欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "I'm joined here today with... Erica.",
+      "cn": "今天我和... Erica 一起。"
+    },
+    {
+      "id": 4,
+      "en": "And my name is Marco.",
+      "cn": "我叫 Marco。"
+    },
+    {
+      "id": 5,
+      "en": "And we're going to be looking at an office lesson today.",
+      "cn": "今天我们将讨论一个办公室的课程。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We've got a lesson about describing somebody who's not such a good employee.",
+      "cn": "我们有一节课是关于描述一个不太好的员工。"
+    },
+    {
+      "id": 8,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 9,
+      "en": "So, we're going to be talking about how to describe this type of situation and language for making your point.",
+      "cn": "所以，我们将讨论如何描述这种情况以及表达观点的语言。"
+    },
+    {
+      "id": 10,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 11,
+      "en": "So, let's look at some vocabulary from the dialogue in Vocabulary Preview.",
+      "cn": "那么，让我们看看词汇预览中的一些词汇。"
+    },
+    {
+      "id": 12,
+      "en": "Vocabulary Preview.",
+      "cn": "词汇预览。"
+    },
+    {
+      "id": 13,
+      "en": "So, two words today.",
+      "cn": "今天有两个词。"
+    },
+    {
+      "id": 14,
+      "en": "The first one is a good fit.",
+      "cn": "第一个是合适。"
+    },
+    {
+      "id": 15,
+      "en": "A good fit.",
+      "cn": "合适。"
+    },
+    {
+      "id": 16,
+      "en": "A good fit.",
+      "cn": "合适。"
+    },
+    {
+      "id": 17,
+      "en": "A good fit.",
+      "cn": "合适。"
+    },
+    {
+      "id": 18,
+      "en": "So, when we're talking about an employee and he's a good fit, it means he's suitable for the job.",
+      "cn": "所以，当我们谈论一个员工时，如果他合适，意味着他适合这份工作。"
+    },
+    {
+      "id": 19,
+      "en": "Yes, he's suitable for the job or for the company.",
+      "cn": "是的，他适合这份工作或公司。"
+    },
+    {
+      "id": 20,
+      "en": "Or for the company, right?",
+      "cn": "或者公司，对吧？"
+    },
+    {
+      "id": 21,
+      "en": "So, the opposite would be not a good fit.",
+      "cn": "所以，反义词就是不合适。"
+    },
+    {
+      "id": 22,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 23,
+      "en": "The title of today's lesson.",
+      "cn": "今天课程的标题。"
+    },
+    {
+      "id": 24,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 25,
+      "en": "And our last word for Vocabulary Preview, perfect.",
+      "cn": "我们词汇预览的最后一个词，完美。"
+    },
+    {
+      "id": 26,
+      "en": "Performance.",
+      "cn": "表现。"
+    },
+    {
+      "id": 27,
+      "en": "Performance.",
+      "cn": "表现。"
+    },
+    {
+      "id": 28,
+      "en": "Performance.",
+      "cn": "表现。"
+    },
+    {
+      "id": 29,
+      "en": "Performance.",
+      "cn": "表现。"
+    },
+    {
+      "id": 30,
+      "en": "Your performance is?",
+      "cn": "你的表现是？"
+    },
+    {
+      "id": 31,
+      "en": "How good or bad you do your job.",
+      "cn": "你工作做得好或坏。"
+    },
+    {
+      "id": 32,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 33,
+      "en": "So, you can have good performance or bad performance.",
+      "cn": "所以，你可以有好的表现或坏的表现。"
+    },
+    {
+      "id": 34,
+      "en": "Just how well you do your job.",
+      "cn": "就是你工作做得多好。"
+    },
+    {
+      "id": 35,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 36,
+      "en": "So, now we're ready to listen to our dialogue for the first time.",
+      "cn": "现在我们准备第一次听对话。"
+    },
+    {
+      "id": 37,
+      "en": "And as always, it's going to be at a normal speed.",
+      "cn": "和往常一样，速度是正常的。"
+    },
+    {
+      "id": 38,
+      "en": "But you don't have to worry about it.",
+      "cn": "但你不必担心。"
+    },
+    {
+      "id": 39,
+      "en": "Because we'll come back and explain all the key language.",
+      "cn": "因为我们会回来解释所有关键语言。"
+    },
+    {
+      "id": 40,
+      "en": "Now, we're going to listen as two managers discuss the performance of one employee.",
+      "cn": "现在，我们将听两个经理讨论一个员工的表现。"
+    },
+    {
+      "id": 41,
+      "en": "So, Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Hundley.",
+      "cn": "所以，Lauren，我想快速和你谈谈我们的新客户支持代表，Jason Hundley。"
+    },
+    {
+      "id": 42,
+      "en": "Sure, what's up?",
+      "cn": "当然，怎么了？"
+    },
+    {
+      "id": 43,
+      "en": "Basically, I've got a few concerns about him.",
+      "cn": "基本上，我对他有一些担忧。"
+    },
+    {
+      "id": 44,
+      "en": "And the bottom line is, I don't think he's a good fit for our company.",
+      "cn": "关键是，我认为他不适合我们公司。"
+    },
+    {
+      "id": 45,
+      "en": "Okay, what makes you say that?",
+      "cn": "好吧，是什么让你这么说的？"
+    },
+    {
+      "id": 46,
+      "en": "I thought you were pleased with his overall performance.",
+      "cn": "我以为你对他的整体表现很满意。"
+    },
+    {
+      "id": 47,
+      "en": "Didn't you just tell me last week how impressed you were with his attitude?",
+      "cn": "你上周不是刚告诉我你对他的态度印象深刻吗？"
+    },
+    {
+      "id": 48,
+      "en": "Yeah, his attitude is great, but he's really unreliable.",
+      "cn": "是的，他的态度很好，但他真的不可靠。"
+    },
+    {
+      "id": 49,
+      "en": "Sometimes he's really productive, but then other times, take last Tuesday for instance, he was 45 minutes late for our morning meeting.",
+      "cn": "有时候他很高效，但有时候，比如上周二，他早上会议迟到了45分钟。"
+    },
+    {
+      "id": 50,
+      "en": "Well, I'm sure he had a perfectly good reason.",
+      "cn": "嗯，我相信他有很好的理由。"
+    },
+    {
+      "id": 51,
+      "en": "But that's not the only thing.",
+      "cn": "但这不是唯一的问题。"
+    },
+    {
+      "id": 52,
+      "en": "You know, he really doesn't have the best work ethic.",
+      "cn": "你知道，他的工作伦理真的不好。"
+    },
+    {
+      "id": 53,
+      "en": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+      "cn": "我经常发现他在 MSN 和 Facebook 上，而他应该在和客户交谈。"
+    },
+    {
+      "id": 54,
+      "en": "Yeah, but come on, Jeff.",
+      "cn": "是的，但来吧，Jeff。"
+    },
+    {
+      "id": 55,
+      "en": "As if you don't check Facebook at work.",
+      "cn": "好像你在工作时不检查 Facebook。"
+    },
+    {
+      "id": 56,
+      "en": "Look, you hired this guy.",
+      "cn": "听着，你雇了这个家伙。"
+    },
+    {
+      "id": 57,
+      "en": "We've invested a lot of time and money in his training.",
+      "cn": "我们在他的培训上投入了很多时间和金钱。"
+    },
+    {
+      "id": 58,
+      "en": "So now it's up to you to coach him.",
+      "cn": "所以现在你得去指导他。"
+    },
+    {
+      "id": 59,
+      "en": "Make it work, Jeff.",
+      "cn": "让它成功，Jeff。"
+    },
+    {
+      "id": 60,
+      "en": "Make it work, Jeff.",
+      "cn": "让它成功，Jeff。"
+    },
+    {
+      "id": 61,
+      "en": "You would say that, wouldn't you?",
+      "cn": "你会这么说的，不是吗？"
+    },
+    {
+      "id": 62,
+      "en": "He is your cousin.",
+      "cn": "他是你的表弟。"
+    },
+    {
+      "id": 63,
+      "en": "What a jerk.",
+      "cn": "真是个混蛋。"
+    },
+    {
+      "id": 64,
+      "en": "Make me quite your stupid, useless cousin.",
+      "cn": "让我觉得你这个愚蠢、无用的表弟。"
+    },
+    {
+      "id": 65,
+      "en": "So apparently Lauren hired her cousin.",
+      "cn": "所以显然 Lauren 雇了她的表弟。"
+    },
+    {
+      "id": 66,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 67,
+      "en": "That's always a complicated situation working with family members.",
+      "cn": "和家人一起工作总是复杂的情况。"
+    },
+    {
+      "id": 68,
+      "en": "Yeah, it makes it really difficult for Jeff, doesn't it?",
+      "cn": "是的，这让 Jeff 真的很困难，不是吗？"
+    },
+    {
+      "id": 69,
+      "en": "Yeah, and apparently Jeff isn't very happy.",
+      "cn": "是的，显然 Jeff 并不太高兴。"
+    },
+    {
+      "id": 70,
+      "en": "Well, let's look at the language he used to tell us that he's unhappy about this.",
+      "cn": "好吧，让我们看看他用来告诉我们他对这件事不满的语言。"
+    },
+    {
+      "id": 71,
+      "en": "Language takeaway Ok, the first word on language takeaway today.",
+      "cn": "语言要点 好的，今天语言要点的第一个词。"
+    },
+    {
+      "id": 72,
+      "en": "Unreliable.",
+      "cn": "不可靠。"
+    },
+    {
+      "id": 73,
+      "en": "Unreliable.",
+      "cn": "不可靠。"
+    },
+    {
+      "id": 74,
+      "en": "Unreliable.",
+      "cn": "不可靠。"
+    },
+    {
+      "id": 75,
+      "en": "Unreliable.",
+      "cn": "不可靠。"
+    },
+    {
+      "id": 76,
+      "en": "So let's listen to some examples of unreliable so then you can understand what it means.",
+      "cn": "所以让我们听一些不可靠的例子，这样你就能理解它的意思。"
+    },
+    {
+      "id": 77,
+      "en": "Example 1 The trains here are so unreliable.",
+      "cn": "示例 1 这里的火车非常不可靠。"
+    },
+    {
+      "id": 78,
+      "en": "They never arrive on time.",
+      "cn": "它们从不准时到达。"
+    },
+    {
+      "id": 79,
+      "en": "Example 2 Thomas is pretty unreliable.",
+      "cn": "示例 2 Thomas 非常不可靠。"
+    },
+    {
+      "id": 80,
+      "en": "He never finishes his projects on time.",
+      "cn": "他从不按时完成他的项目。"
+    },
+    {
+      "id": 81,
+      "en": "Example 3 You promised you would pick me up from work today.",
+      "cn": "示例 3 你答应今天来接我下班。"
+    },
+    {
+      "id": 82,
+      "en": "You're so unreliable.",
+      "cn": "你真不可靠。"
+    },
+    {
+      "id": 83,
+      "en": "We can understand that if someone is unreliable, we can't trust them to do their job, right?",
+      "cn": "我们可以理解，如果某人不可靠，我们就不能信任他们完成工作，对吧？"
+    },
+    {
+      "id": 84,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 85,
+      "en": "So you don't want to be unreliable.",
+      "cn": "所以你不想不可靠。"
+    },
+    {
+      "id": 86,
+      "en": "The opposite would be?",
+      "cn": "反义词是什么？"
+    },
+    {
+      "id": 87,
+      "en": "Reliable.",
+      "cn": "可靠。"
+    },
+    {
+      "id": 88,
+      "en": "Reliable.",
+      "cn": "可靠。"
+    },
+    {
+      "id": 89,
+      "en": "You can trust them.",
+      "cn": "你可以信任他们。"
+    },
+    {
+      "id": 90,
+      "en": "Ok.",
+      "cn": "好的。"
+    },
+    {
+      "id": 91,
+      "en": "Our second word today, productive.",
+      "cn": "我们今天的第二个词，富有成效。"
+    },
+    {
+      "id": 92,
+      "en": "Productive.",
+      "cn": "富有成效。"
+    },
+    {
+      "id": 93,
+      "en": "Productive.",
+      "cn": "富有成效。"
+    },
+    {
+      "id": 94,
+      "en": "Productive.",
+      "cn": "富有成效。"
+    },
+    {
+      "id": 95,
+      "en": "When you're productive, it means that you accomplish your job, right?",
+      "cn": "当你富有成效时，意味着你完成了工作，对吧？"
+    },
+    {
+      "id": 96,
+      "en": "You do a lot of work in a short amount of time.",
+      "cn": "你在短时间内完成了很多工作。"
+    },
+    {
+      "id": 97,
+      "en": "Productive.",
+      "cn": "富有成效。"
+    },
+    {
+      "id": 98,
+      "en": "You want to be a productive employee.",
+      "cn": "你想成为一个富有成效的员工。"
+    },
+    {
+      "id": 99,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 100,
+      "en": "Our third word, work ethic.",
+      "cn": "我们的第三个词，工作伦理。"
+    },
+    {
+      "id": 101,
+      "en": "Work ethic.",
+      "cn": "工作伦理。"
+    },
+    {
+      "id": 102,
+      "en": "Work ethic.",
+      "cn": "工作伦理。"
+    },
+    {
+      "id": 103,
+      "en": "Work ethic.",
+      "cn": "工作伦理。"
+    },
+    {
+      "id": 104,
+      "en": "So a person's work ethic is that person's attitude towards work.",
+      "cn": "所以一个人的工作伦理就是他对工作的态度。"
+    },
+    {
+      "id": 105,
+      "en": "Yes, if someone has a good work ethic, then they are always hardworking, and they come to work early, and they finish their jobs on time, and they stay and do lots of overtime, so that's a good work ethic.",
+      "cn": "是的，如果某人有良好的工作伦理，他们总是勤奋工作，早到，按时完成工作，并且加班很多，这就是良好的工作伦理。"
+    },
+    {
+      "id": 106,
+      "en": "Ok, great.",
+      "cn": "好的，很好。"
+    },
+    {
+      "id": 107,
+      "en": "And our last word, coach.",
+      "cn": "我们最后一个词，教练。"
+    },
+    {
+      "id": 108,
+      "en": "Coach.",
+      "cn": "教练。"
+    },
+    {
+      "id": 109,
+      "en": "Coach.",
+      "cn": "教练。"
+    },
+    {
+      "id": 110,
+      "en": "Coach.",
+      "cn": "教练。"
+    },
+    {
+      "id": 111,
+      "en": "When you coach an employee, you train them, right?",
+      "cn": "当你指导一名员工时，你是在培训他们，对吗？"
+    },
+    {
+      "id": 112,
+      "en": "Yeah, you help that employee out by showing him or her how to do certain tasks.",
+      "cn": "是的，你通过向他们展示如何完成某些任务来帮助他们。"
+    },
+    {
+      "id": 113,
+      "en": "Or how to do their job better.",
+      "cn": "或者如何更好地完成他们的工作。"
+    },
+    {
+      "id": 114,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 115,
+      "en": "So we've got some great language to describe work performance.",
+      "cn": "所以我们有一些很好的语言来描述工作表现。"
+    },
+    {
+      "id": 116,
+      "en": "Let's listen to our dialogue a second time.",
+      "cn": "让我们再听一次对话。"
+    },
+    {
+      "id": 117,
+      "en": "This time it'll be a little bit slower so you can understand these words and phrases a little bit more clearly.",
+      "cn": "这次会慢一点，这样你可以更清楚地理解这些词和短语。"
+    },
+    {
+      "id": 118,
+      "en": "So Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Huntley.",
+      "cn": "所以，劳伦，我想快速和你谈谈我们的新客户支持代表，杰森·亨特利。"
+    },
+    {
+      "id": 119,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 120,
+      "en": "What's up?",
+      "cn": "怎么了？"
+    },
+    {
+      "id": 121,
+      "en": "Basically, I've got a few concerns about him.",
+      "cn": "基本上，我对他有一些担忧。"
+    },
+    {
+      "id": 122,
+      "en": "And the bottom line is I don't think he's a good fit for our company.",
+      "cn": "关键是我认为他不适合我们公司。"
+    },
+    {
+      "id": 123,
+      "en": "Ok.",
+      "cn": "好的。"
+    },
+    {
+      "id": 124,
+      "en": "What makes you say that?",
+      "cn": "你为什么这么说？"
+    },
+    {
+      "id": 125,
+      "en": "I thought you were pleased with his overall performance.",
+      "cn": "我以为你对他的整体表现很满意。"
+    },
+    {
+      "id": 126,
+      "en": "Didn't you just tell me last week how impressed you were with his attitude?",
+      "cn": "你上周不是刚告诉我你对他的态度印象深刻吗？"
+    },
+    {
+      "id": 127,
+      "en": "Yeah, his attitude is great.",
+      "cn": "是的，他的态度很好。"
+    },
+    {
+      "id": 128,
+      "en": "But he's really unreliable.",
+      "cn": "但他真的不可靠。"
+    },
+    {
+      "id": 129,
+      "en": "Sometimes he's really productive.",
+      "cn": "有时候他很高效。"
+    },
+    {
+      "id": 130,
+      "en": "But then other times...",
+      "cn": "但有时……"
+    },
+    {
+      "id": 131,
+      "en": "Take last Tuesday, for instance.",
+      "cn": "比如上周二。"
+    },
+    {
+      "id": 132,
+      "en": "He was 45 minutes late for our morning meeting.",
+      "cn": "他早上会议迟到了45分钟。"
+    },
+    {
+      "id": 133,
+      "en": "Well, I'm sure he had a perfectly good reason.",
+      "cn": "嗯，我相信他有很好的理由。"
+    },
+    {
+      "id": 134,
+      "en": "But that's not the only thing.",
+      "cn": "但这不是唯一的问题。"
+    },
+    {
+      "id": 135,
+      "en": "You know, he really doesn't have the best work ethic.",
+      "cn": "你知道，他的工作伦理真的不好。"
+    },
+    {
+      "id": 136,
+      "en": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+      "cn": "我经常在他应该和客户交谈时看到他在MSN和Facebook上。"
+    },
+    {
+      "id": 137,
+      "en": "Yeah, but come on, Jeff.",
+      "cn": "是的，但拜托，杰夫。"
+    },
+    {
+      "id": 138,
+      "en": "As if you don't check Facebook at work.",
+      "cn": "好像你在工作时不检查Facebook。"
+    },
+    {
+      "id": 139,
+      "en": "Look, you hired this guy.",
+      "cn": "听着，你雇了这个家伙。"
+    },
+    {
+      "id": 140,
+      "en": "We've invested a lot of time and money in his training.",
+      "cn": "我们在他的培训上投入了很多时间和金钱。"
+    },
+    {
+      "id": 141,
+      "en": "So now, it's up to you to coach him.",
+      "cn": "所以现在，教练他就靠你了。"
+    },
+    {
+      "id": 142,
+      "en": "Make it work, Jeff.",
+      "cn": "让它成功，杰夫。"
+    },
+    {
+      "id": 143,
+      "en": "You would say that, wouldn't you?",
+      "cn": "你会这么说的，不是吗？"
+    },
+    {
+      "id": 144,
+      "en": "He is your cousin.",
+      "cn": "他是你的表弟。"
+    },
+    {
+      "id": 145,
+      "en": "What a jerk.",
+      "cn": "真是个混蛋。"
+    },
+    {
+      "id": 146,
+      "en": "Make me hire your stupid useless cousin.",
+      "cn": "让我雇你的无用表弟。"
+    },
+    {
+      "id": 147,
+      "en": "Alright, so if you noticed, a lot of useful phrases have come up.",
+      "cn": "好吧，如果你注意到，出现了很多有用的短语。"
+    },
+    {
+      "id": 148,
+      "en": "So let's take a look at Fluency Builder.",
+      "cn": "所以让我们看看流利构建器。"
+    },
+    {
+      "id": 149,
+      "en": "Fluency Builder.",
+      "cn": "流利构建器。"
+    },
+    {
+      "id": 150,
+      "en": "Fluency Builder, today we have three phrases.",
+      "cn": "流利构建器，今天我们有三个短语。"
+    },
+    {
+      "id": 151,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 152,
+      "en": "Three phrases that will help us make our point better.",
+      "cn": "三个短语将帮助我们更好地表达观点。"
+    },
+    {
+      "id": 153,
+      "en": "The first one is bottom line.",
+      "cn": "第一个是关键。"
+    },
+    {
+      "id": 154,
+      "en": "The bottom line.",
+      "cn": "关键。"
+    },
+    {
+      "id": 155,
+      "en": "The bottom line.",
+      "cn": "关键。"
+    },
+    {
+      "id": 156,
+      "en": "Let's listen to how this was used in the dialogue.",
+      "cn": "让我们听听在对话中是如何使用的。"
+    },
+    {
+      "id": 157,
+      "en": "And the bottom line is I don't think he's a good fit for our company.",
+      "cn": "关键是我认为他不适合我们公司。"
+    },
+    {
+      "id": 158,
+      "en": "So basically, it means... Like the most important point.",
+      "cn": "所以基本上，它意味着……最重要的点。"
+    },
+    {
+      "id": 159,
+      "en": "The most important point.",
+      "cn": "最重要的点。"
+    },
+    {
+      "id": 160,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 161,
+      "en": "The bottom line.",
+      "cn": "关键。"
+    },
+    {
+      "id": 162,
+      "en": "Our second word, overall.",
+      "cn": "我们的第二个词，整体。"
+    },
+    {
+      "id": 163,
+      "en": "Overall.",
+      "cn": "整体。"
+    },
+    {
+      "id": 164,
+      "en": "Overall.",
+      "cn": "整体。"
+    },
+    {
+      "id": 165,
+      "en": "So this is the same as saying on the whole.",
+      "cn": "所以这和说总体上是一样的。"
+    },
+    {
+      "id": 166,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 167,
+      "en": "The big picture, how you would say.",
+      "cn": "大局，你可以这么说。"
+    },
+    {
+      "id": 168,
+      "en": "Yeah, in general.",
+      "cn": "是的，总体上。"
+    },
+    {
+      "id": 169,
+      "en": "So his overall performance is good.",
+      "cn": "所以他的整体表现很好。"
+    },
+    {
+      "id": 170,
+      "en": "It means in general...",
+      "cn": "这意味着一般来说……"
+    },
+    {
+      "id": 171,
+      "en": "His performance is good.",
+      "cn": "他的表现很好。"
+    },
+    {
+      "id": 172,
+      "en": "Perfect.",
+      "cn": "完美。"
+    },
+    {
+      "id": 173,
+      "en": "And our last phrase is very interesting because we can mix it up a little bit.",
+      "cn": "我们最后一个短语很有趣，因为我们可以稍微混合一下。"
+    },
+    {
+      "id": 174,
+      "en": "Perfectly good.",
+      "cn": "完全合理。"
+    },
+    {
+      "id": 175,
+      "en": "So this is an interesting phrase because you can describe different objects in this way.",
+      "cn": "这个短语很有趣，因为你可以用这种方式描述不同的对象。"
+    },
+    {
+      "id": 176,
+      "en": "A perfectly good reason.",
+      "cn": "一个完全合理的理由。"
+    },
+    {
+      "id": 177,
+      "en": "A perfectly good car.",
+      "cn": "一辆完全合理的车。"
+    },
+    {
+      "id": 178,
+      "en": "A perfectly good computer.",
+      "cn": "一台完全合理的电脑。"
+    },
+    {
+      "id": 179,
+      "en": "So by the sounds of it, it's kind of like justifying.",
+      "cn": "听起来像是在辩解。"
+    },
+    {
+      "id": 180,
+      "en": "Yeah, it's saying there's no problem with it.",
+      "cn": "是的，这表示没有问题。"
+    },
+    {
+      "id": 181,
+      "en": "There's no problem with it.",
+      "cn": "没有问题。"
+    },
+    {
+      "id": 182,
+      "en": "Why would you throw it away if it's a perfectly good computer?",
+      "cn": "如果它是一台完全合理的电脑，为什么要扔掉它？"
+    },
+    {
+      "id": 183,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 184,
+      "en": "Okay, perfectly good.",
+      "cn": "好的，完全合理。"
+    },
+    {
+      "id": 185,
+      "en": "Okay, so now we can listen to our dialogue a third time at a normal speed.",
+      "cn": "好的，现在我们可以以正常速度听我们的对话第三次。"
+    },
+    {
+      "id": 186,
+      "en": "And now we're ready to understand everything.",
+      "cn": "现在我们准备好理解一切。"
+    },
+    {
+      "id": 187,
+      "en": "So Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Huntley.",
+      "cn": "所以，劳伦，我想快速和你谈谈我们的新客户支持代表，杰森·亨特利。"
+    },
+    {
+      "id": 188,
+      "en": "Sure, what's up?",
+      "cn": "当然，怎么了？"
+    },
+    {
+      "id": 189,
+      "en": "Basically, I've got a few concerns about him.",
+      "cn": "基本上，我对他有一些担忧。"
+    },
+    {
+      "id": 190,
+      "en": "And the bottom line is, I don't think he's a good fit for our company.",
+      "cn": "关键是，我认为他不适合我们公司。"
+    },
+    {
+      "id": 191,
+      "en": "Okay, what makes you say that?",
+      "cn": "好的，你为什么这么说？"
+    },
+    {
+      "id": 192,
+      "en": "I thought you were pleased with his overall performance.",
+      "cn": "我以为你对他的整体表现很满意。"
+    },
+    {
+      "id": 193,
+      "en": "Didn't you just tell me last week how impressed you were with his attitude?",
+      "cn": "你上周不是刚告诉我你对他的态度印象深刻吗？"
+    },
+    {
+      "id": 194,
+      "en": "Yeah, his attitude is great, but he's really unreliable.",
+      "cn": "是的，他的态度很好，但他真的不可靠。"
+    },
+    {
+      "id": 195,
+      "en": "Sometimes he's really productive, but then other times, take last Tuesday for instance, he was 45 minutes late for our morning meeting.",
+      "cn": "有时候他很高效，但有时，比如上周二，他早上会议迟到了45分钟。"
+    },
+    {
+      "id": 196,
+      "en": "Well, I'm sure he had a perfectly good reason.",
+      "cn": "嗯，我相信他有很好的理由。"
+    },
+    {
+      "id": 197,
+      "en": "But that's not the only thing.",
+      "cn": "但这不是唯一的问题。"
+    },
+    {
+      "id": 198,
+      "en": "You know, he really doesn't have the best work ethic.",
+      "cn": "你知道，他的工作伦理真的不好。"
+    },
+    {
+      "id": 199,
+      "en": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+      "cn": "我经常在他应该和客户交谈时看到他在MSN和Facebook上。"
+    },
+    {
+      "id": 200,
+      "en": "Yeah, but come on, Jeff.",
+      "cn": "是的，但拜托，杰夫。"
+    },
+    {
+      "id": 201,
+      "en": "As if you don't check Facebook at work.",
+      "cn": "就好像你在工作时不查看Facebook一样。"
+    },
+    {
+      "id": 202,
+      "en": "Look, you hired this guy.",
+      "cn": "听着，你雇了这个家伙。"
+    },
+    {
+      "id": 203,
+      "en": "We've invested a lot of time and money in his training.",
+      "cn": "我们在他的培训上投入了很多时间和金钱。"
+    },
+    {
+      "id": 204,
+      "en": "So now it's up to you to coach him.",
+      "cn": "所以现在就看你怎么指导他了。"
+    },
+    {
+      "id": 205,
+      "en": "Make it work, Jeff.",
+      "cn": "让它成功，杰夫。"
+    },
+    {
+      "id": 206,
+      "en": "Make it work, Jeff.",
+      "cn": "让它成功，杰夫。"
+    },
+    {
+      "id": 207,
+      "en": "You would say that, wouldn't you?",
+      "cn": "你会这么说的，对吧？"
+    },
+    {
+      "id": 208,
+      "en": "He is your cousin, you jerk.",
+      "cn": "他是你的表弟，你这个混蛋。"
+    },
+    {
+      "id": 209,
+      "en": "Make me hire your stupid, useless cousin.",
+      "cn": "让我雇你的无用表弟。"
+    },
+    {
+      "id": 210,
+      "en": "Okay, I hope everyone enjoyed our lesson today.",
+      "cn": "好吧，我希望大家今天的课程都很愉快。"
+    },
+    {
+      "id": 211,
+      "en": "We've found some really useful vocabulary for a business situation.",
+      "cn": "我们找到了在商业场合中非常有用的词汇。"
+    },
+    {
+      "id": 212,
+      "en": "So go to our website at EnglishPod.com where you can leave all your questions and comments and also find a lot of other resources.",
+      "cn": "所以请访问我们的网站EnglishPod.com，您可以留下所有问题和评论，还可以找到很多其他资源。"
+    },
+    {
+      "id": 213,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 214,
+      "en": "Marco and I are always on the site and we're happy to answer your questions.",
+      "cn": "马尔科和我总是在网站上，我们很乐意回答你的问题。"
+    },
+    {
+      "id": 215,
+      "en": "Right, so until then, it's goodbye.",
+      "cn": "好吧，那么在那之前，再见。"
+    }
+  ]
+}

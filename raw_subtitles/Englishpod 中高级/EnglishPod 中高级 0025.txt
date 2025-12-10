@@ -1,0 +1,839 @@
+﻿1
+Hello, English learners, and welcome to another great lesson with us here at EnglishPod.
+你好，英语学习者，欢迎来到EnglishPod的又一堂精彩课程。
+
+2
+My name is Marco.
+我叫Marco。
+
+3
+And I'm Erica.
+我是Erica。
+
+4
+And today we're bringing you a great upper intermediate lesson.
+今天我们为你带来一堂很棒的中高级课程。
+
+5
+That's right.
+没错。
+
+6
+We're going to talk about a topic that's been in the news recently.
+我们要谈论一个最近在新闻中出现的话题。
+
+7
+And this topic is... The bird flu.
+这个话题是……禽流感。
+
+8
+That's right.
+没错。
+
+9
+So, can you tell us what the bird flu really is?
+那么，你能告诉我们禽流感到底是什么吗？
+
+10
+Basically, the story is a lot of chickens and birds keep getting this disease.
+基本上，故事是很多鸡和鸟得了这种疾病。
+
+11
+And they've managed to pass this disease to humans.
+而且它们已经成功地将这种疾病传给了人类。
+
+12
+And the fear is that humans will start to pass this disease to each other.
+人们担心人类会开始相互传播这种疾病。
+
+13
+And a huge, huge number of people in the world could get really sick.
+世界上会有大量的人可能会生病。
+
+14
+Okay, so it sounds scary.
+好吧，听起来很可怕。
+
+15
+Well, it may be a little bit scary, but we do have some interesting language.
+嗯，可能有点可怕，但我们确实有一些有趣的语言。
+
+16
+We've got language to talk about a disease, and language that you might use in a planning meeting at work.
+我们有关于疾病的语言，还有你在工作计划会议上可能会用到的语言。
+
+17
+Alright, so let's start by looking at our vocabulary preview for this dialogue.
+好吧，让我们先看看这段对话的词汇预览。
+
+18
+Vocabulary preview.
+词汇预览。
+
+19
+Okay, the first word on our vocabulary preview today is contingency plan.
+好的，今天词汇预览的第一个词是应急计划。
+
+20
+Contingency plan.
+应急计划。
+
+21
+Contingency plan.
+应急计划。
+
+22
+Contingency plan.
+应急计划。
+
+23
+So, a contingency plan is a... A plan that you make to prepare for an emergency.
+所以，应急计划是……为应对紧急情况而制定的计划。
+
+24
+So, like a backup plan.
+就像备份计划。
+
+25
+Exactly.
+正确。
+
+26
+Okay.
+好的。
+
+27
+Contingency plan.
+应急计划。
+
+28
+And our last word for the vocabulary preview today is pandemic.
+今天词汇预览的最后一个词是大流行。
+
+29
+Pandemic.
+大流行。
+
+30
+Pandemic.
+大流行。
+
+31
+Pandemic.
+大流行。
+
+32
+So, a pandemic is something scary.
+所以，大流行是很可怕的事情。
+
+33
+Well, yes.
+嗯，是的。
+
+34
+It's an event where a disease affects a lot of people.
+这是一个疾病影响很多人的事件。
+
+35
+Like, we're talking millions of people.
+比如，我们说的是数百万的人。
+
+36
+Okay.
+好的。
+
+37
+And it spreads very quickly.
+而且传播得非常快。
+
+38
+Uh-huh.
+嗯。
+
+39
+And it goes international.
+而且它会国际传播。
+
+40
+Okay, so a disease that spreads very fast and goes everywhere.
+好吧，所以一种传播非常快并且无处不在的疾病。
+
+41
+Exactly.
+正确。
+
+42
+Okay.
+好的。
+
+43
+Pandemic.
+大流行。
+
+44
+Okay.
+好的。
+
+45
+Okay, so we're ready to listen to our dialogue.
+好吧，我们准备好听我们的对话了。
+
+46
+We are going to be at a business meeting where people are talking about a contingency plan.
+我们将参加一个商务会议，讨论应急计划。
+
+47
+Well, right.
+嗯，没错。
+
+48
+Let's move to our next order of business.
+让我们进入下一个议程。
+
+49
+As many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue.
+正如你们所知，最近几周媒体对禽流感问题进行了大量报道。
+
+50
+And it's come to my attention that our company lacks any sort of bird flu contingency plan.
+我注意到我们公司缺乏任何禽流感应急计划。
+
+51
+Basically, we need to come up with a clear plan.
+基本上，我们需要制定一个明确的计划。
+
+52
+We need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.
+我们需要列出具体的行动，以便在大流行发生时保持关键业务功能。
+
+53
+So, what I'd like to do is first appoint someone to look after drafting our plan.
+所以，我想先任命一个人来负责起草我们的计划。
+
+54
+Ralph, I'd like you to head up this project.
+Ralph，我希望你来负责这个项目。
+
+55
+Sure, no problem.
+当然，没问题。
+
+56
+What issues do you want me to consider?
+你希望我考虑哪些问题？
+
+57
+Well, let's see.
+嗯，让我看看。
+
+58
+There are a few points we need to be thinking about.
+有几个要点我们需要考虑。
+
+59
+First, I'll need you to analyse our numbers and figure out what kind of financial impact and outbreak I have.
+首先，我需要你分析我们的数字，弄清楚疫情会带来什么样的财务影响。
+
+60
+You'll also need to think about how we can avoid any of our employees getting infected.
+你还需要考虑如何避免我们的员工被感染。
+
+61
+Think of ways to reduce employee customer contact.
+想想减少员工与客户接触的方法。
+
+62
+Perhaps some IT solutions that will allow our people to work from home.
+也许一些IT解决方案可以让我们的员工在家工作。
+
+63
+I guess you'll need me to forecast employee absences as well, right?
+我想你还需要我预测员工缺勤，对吧？
+
+64
+And I'll think about the impact this will have on our clients.
+我还会考虑这对我们的客户的影响。
+
+65
+Hey, what about vaccines?
+嘿，疫苗呢？
+
+66
+Should we be thinking about getting vaccines for our employees?
+我们应该考虑为员工接种疫苗吗？
+
+67
+Exactly right.
+正确。
+
+68
+So, I'll leave this to you and...
+所以，我把这个留给你……
+
+69
+Well, we'll review the draft plan in two weeks.
+嗯，我们将在两周内审查草案计划。
+
+70
+Okay, so anyone want to order some KFC for lunch?
+好吧，有人想点一些KFC作为午餐吗？
+
+71
+Alright, what an ironic meeting.
+好吧，真是一个讽刺的会议。
+
+72
+They are talking about the bird flu and they are going to have chicken.
+他们在谈论禽流感，却要吃鸡肉。
+
+73
+Yes, after a sneezing all over.
+是的，刚刚打了喷嚏。
+
+74
+Yeah, I guess now we could take a look at our language takeaway for this dialogue.
+是的，我想现在我们可以看看这段对话的语言要点。
+
+75
+We heard a lot of really useful language in this dialogue.
+我们在这段对话中听到了很多非常有用的语言。
+
+76
+And right now we are going to look at four different words from the dialogue.
+现在我们将看看对话中的四个不同的词。
+
+77
+The first one is critical.
+第一个是关键的。
+
+78
+Critical.
+关键的。
+
+79
+Critical.
+关键的。
+
+80
+Critical.
+关键的。
+
+81
+We've got some examples of this word that will help us to understand the meaning, so let's listen.
+我们有一些这个词的例子，可以帮助我们理解其含义，所以让我们听听。
+
+82
+It's absolutely critical that we increase our sales.
+我们必须增加销售额，这绝对是关键。
+
+83
+If not, the company will go bankrupt.
+否则，公司将破产。
+
+84
+Example two.
+例子二。
+
+85
+We have a critical shortage of food.
+我们面临严重的食品短缺。
+
+86
+If we don't get help, people will die.
+如果我们得不到帮助，人们会死。
+
+87
+Example three.
+例子三。
+
+88
+This is a critical step in the process.
+这是过程中的关键步骤。
+
+89
+You can't make a mistake here.
+你不能在这里犯错。
+
+90
+So when something is critical, it's basically... Really important, really urgent.
+所以当某事是关键时，它基本上是……非常重要，非常紧急。
+
+91
+Right.
+对。
+
+92
+Okay, great word.
+好的，很好的词。
+
+93
+Critical.
+关键的。
+
+94
+The next word we have is outbreak.
+下一个词是疫情。
+
+95
+Outbreak.
+疫情。
+
+96
+Outbreak.
+疫情。
+
+97
+An outbreak.
+一场疫情。
+
+98
+So an outbreak is a sudden start of a disease, right?
+所以疫情是疾病的突然开始，对吧？
+
+99
+Can I say, oh, I got an outbreak of flu?
+我可以说，哦，我得了流感疫情吗？
+
+100
+Can outbreak describe one person?
+疫情可以描述一个人吗？
+
+101
+No, an outbreak means that it's infecting a lot of people.
+不，疫情意味着它正在感染很多人。
+
+102
+Okay.
+好的。
+
+103
+Not only one person.
+不仅仅是一个人。
+
+104
+So that we could say there was an outbreak of the flu at the office.
+所以我们可以说办公室里爆发了流感疫情。
+
+105
+Which there was.
+确实如此。
+
+106
+Yeah, a lot of people got sick here with the flu.
+是的，很多人得了流感。
+
+107
+Yeah.
+是的。
+
+108
+Okay, why don't you tell us about our third word.
+好的，为什么不告诉我们第三个词呢。
+
+109
+Our third word is forecast.
+我们的第三个词是预测。
+
+110
+Forecast.
+预测。
+
+111
+Forecast.
+预测。
+
+112
+Forecast.
+预测。
+
+113
+So to forecast basically means to predict.
+所以预测基本上意味着预言。
+
+114
+Exactly.
+正是如此。
+
+115
+For example, you talk about the weather forecast.
+例如，你谈论天气预报。
+
+116
+Yep.
+是的。
+
+117
+Okay, great.
+好的，很好。
+
+118
+And the last word for a language takeaway is vaccines.
+最后一个语言要点是疫苗。
+
+119
+Vaccines.
+疫苗。
+
+120
+Vaccines.
+疫苗。
+
+121
+So vaccines are something we all had when we were children.
+所以疫苗是我们小时候都打过的东西。
+
+122
+That's true.
+这是真的。
+
+123
+They are injections that you get to prevent you from getting sick later.
+它们是你为了防止将来生病而接种的注射。
+
+124
+Right, so an injection of medicine from your doctor so that you don't get a disease in the future.
+对，所以是医生给你的药物注射，以便你将来不生病。
+
+125
+Right, when we are small we get polio vaccines.
+对，当我们小的时候，我们接种脊髓灰质炎疫苗。
+
+126
+Yeah, or measles vaccines.
+是的，或者麻疹疫苗。
+
+127
+Measles, right.
+麻疹，对。
+
+128
+A lot of common diseases.
+很多常见疾病。
+
+129
+Yes.
+是的。
+
+130
+Okay, so that's all for language takeaway.
+好的，这就是语言要点的全部内容。
+
+131
+Some great language related to health and disease.
+一些与健康和疾病相关的好词汇。
+
+132
+But we also heard some great business related words in this dialogue.
+但我们在这个对话中也听到了很多与商业相关的好词汇。
+
+133
+That's true.
+这是真的。
+
+134
+There's a lot of words that you can use in a planning meeting.
+有很多词可以在计划会议中使用。
+
+135
+So let's look at those now in Fluency Builder.
+所以现在让我们在流利度构建器中看看这些。
+
+136
+Fluency Builder In today's Fluency Builder we're going to look at four useful phrases.
+流利度构建器 在今天的流利度构建器中，我们将看四个有用的短语。
+
+137
+Now this first phrase you can use when you want to change the subject at a meeting.
+现在这个第一个短语你可以在会议上想要换话题时使用。
+
+138
+Let's listen to what they said in the dialogue.
+让我们听听他们在对话中说了什么。
+
+139
+Let's move to our next order of business.
+让我们转到下一个议程。
+
+140
+Okay, so let's move to our next order of business.
+好的，所以让我们转到下一个议程。
+
+141
+It's a great way of saying let's move on.
+这是一个很好的说法，表示让我们继续。
+
+142
+Exactly.
+正是如此。
+
+143
+Let's pass to the next topic.
+让我们转到下一个主题。
+
+144
+Speaking of passing to the next topic, we heard another really interesting phrase in the dialogue.
+说到转到下一个主题，我们在对话中听到了另一个非常有趣的短语。
+
+145
+Let's listen.
+让我们听听。
+
+146
+We need to come up with a clear plan.
+我们需要制定一个明确的计划。
+
+147
+So we need to come up with a clear plan.
+所以我们需要制定一个明确的计划。
+
+148
+We need to...
+我们需要...
+
+149
+Think of.
+想出。
+
+150
+Think of a clear plan.
+想出一个明确的计划。
+
+151
+Yeah.
+是的。
+
+152
+We need to come up with.
+我们需要想出。
+
+153
+Okay, our third phrase we heard in the dialogue is this.
+好的，我们在对话中听到的第三个短语是这个。
+
+154
+Okay, I'd like you to head up this project.
+好的，我希望你负责这个项目。
+
+155
+So this phrase, head up, this is a great phrase.
+所以这个短语，负责，这是一个很好的短语。
+
+156
+It means I'd like you to lead or take care of this project.
+它意味着我希望你领导或照顾这个项目。
+
+157
+Okay, and the last phrase for Fluency Builder you can use when you want to give someone the responsibility of a job.
+好的，流利度构建器的最后一个短语是当你想把某人的工作责任交给他们时可以使用的。
+
+158
+We heard this.
+我们听到了这个。
+
+159
+So I'll leave this to you.
+所以我把这个留给你。
+
+160
+So I'll leave this to you.
+所以我把这个留给你。
+
+161
+This is you take charge.
+这就是你负责。
+
+162
+Exactly.
+正是如此。
+
+163
+I'll leave this to you.
+我把这个留给你。
+
+164
+That's a great way of delegating a responsibility.
+这是一个很好的委派责任的方式。
+
+165
+And so we're going to leave you to listen to our dialogue last time.
+所以我们将让你听听我们上次的对话。
+
+166
+And be sure to pick up all the great vocabulary that we just talked about.
+并确保记住我们刚刚讨论的所有好词汇。
+
+167
+Well, right.
+好吧，没错。
+
+168
+Let's move to our next order of business.
+让我们转到下一个议程。
+
+169
+As many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue.
+正如你们许多人所知道的，最近几周媒体对禽流感问题进行了大量报道。
+
+170
+And it's come to my attention that our company lacks any sort of bird flu contingency plan.
+我注意到我们公司缺乏任何禽流感应急计划。
+
+171
+Basically, we need to come up with a clear plan.
+基本上，我们需要制定一个明确的计划。
+
+172
+We need to outline specific actions that our company can take to maintain critical business functions in case a pandemic strikes.
+我们需要概述我们公司在疫情发生时可以采取的具体行动，以维持关键业务功能。
+
+173
+So what I'd like to do is first appoint someone to look after drafting our plan.
+所以我想做的是首先任命某人来负责起草我们的计划。
+
+174
+Ralph, I'd like you to head up this project.
+拉尔夫，我希望你负责这个项目。
+
+175
+Sure, no problem.
+当然，没问题。
+
+176
+What issues do you want me to consider?
+你希望我考虑哪些问题？
+
+177
+Well, let's see.
+嗯，让我看看。
+
+178
+There are a few points we need to be thinking about.
+有几个要点我们需要考虑。
+
+179
+First, I'll need you to analyse our numbers and figure out what kind of financial impact an outbreak might have.
+首先，我需要你分析我们的数字，弄清楚疫情可能带来的财务影响。
+
+180
+You'll also need to think about how we can avoid any of our employees getting infected.
+你还需要考虑如何避免我们的员工被感染。
+
+181
+Think of ways to reduce employee customer contact.
+想想减少员工与客户接触的方法。
+
+182
+Perhaps some IT solutions that will allow our people to work from home.
+也许一些IT解决方案可以让我们的员工在家工作。
+
+183
+I guess you'll need me to forecast employee absences as well, right?
+我想你还需要我预测员工缺勤，对吧？
+
+184
+And I'll think about the impact this will have on our clients.
+我还会考虑这对我们的客户的影响。
+
+185
+Hey, what about vaccines?
+嘿，疫苗呢？
+
+186
+Should we be thinking about getting vaccines for our employees?
+我们应该考虑为员工接种疫苗吗？
+
+187
+Exactly right.
+正确。
+
+188
+So I'll leave this to you and...
+所以我把这个留给你，...
+
+189
+Well, we'll review the draft plan in two weeks.
+好吧，我们将在两周内审查草案计划。
+
+190
+Okay, so anyone want to order some KFC for lunch?
+好的，有人想点一些KFC作为午餐吗？
+
+191
+Okay, great.
+好的，很好。
+
+192
+So this contingency plan idea is really interesting, right?
+所以这个应急计划的想法真的很有趣，对吧？
+
+193
+Yeah, it makes sense for a company to prepare in case there is an outbreak of bird flu.
+是的，公司准备应对禽流感疫情是有意义的。
+
+194
+I mean, they need to maintain their critical business functions, even if all the employees are sick, hey?
+我的意思是，他们需要维持关键业务功能，即使所有员工都生病，对吧？
+
+195
+Right, I guess that's really important and you have to forecast all these possibilities.
+对，我想这真的很重要，你必须预测所有这些可能性。
+
+196
+Like people are going to be away from the office or even forecast less sales, etc.
+比如人们会离开办公室，或者预测销售减少等等。
+
+197
+That's right.
+没错。
+
+198
+The interesting thing is that businesses that may not actually be involved in food production or raising chickens or something like that are making these contingency plans.
+有趣的是，那些可能与食品生产或养鸡无关的企业也在制定这些应急计划。
+
+199
+I find that really fascinating.
+我觉得这真的很吸引人。
+
+200
+So it seems there is a lot of fear out there about the possibility of a pandemic.
+所以似乎大家对疫情的可能性感到很恐惧。
+
+201
+Yeah, yeah.
+是的，是的。
+
+202
+Well, hopefully they'll come out with a vaccine so we don't have to worry about these things.
+好吧，希望他们能推出疫苗，这样我们就不必担心这些事情。
+
+203
+That's true.
+这是真的。
+
+204
+But until then... We'll have to create contingency plans.
+但在那之前……我们必须制定应急计划。
+
+205
+That's right.
+没错。
+
+206
+Okay guys, we're out of time today and I hope you enjoyed our lesson and found all these words and phrases really useful and you can apply them in real life.
+好吧，大家，今天时间到了，希望你们喜欢我们的课程，并发现这些单词和短语真的很有用，可以在现实生活中应用。
+
+207
+Alright guys, thanks for listening and be sure to check out our website, EnglishPod.com where you can leave all your questions and comments.
+好的，感谢大家的聆听，务必查看我们的网站，EnglishPod.com，您可以在上面留下所有问题和评论。
+
+208
+Marco and I are always around to answer your questions.
+马尔科和我随时准备回答你的问题。
+
+209
+Until then, it's bye.
+在那之前，再见。
+
+210
+Goodbye.
+再见。

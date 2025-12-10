@@ -1,0 +1,1044 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0018",
+  "title": "EnglishPod 中高级 0018",
+  "totalSegments": 207,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone.",
+      "cn": "大家好。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome to EnglishPod.",
+      "cn": "欢迎来到EnglishPod。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today with Erica, we have a very aggressive lesson for you today.",
+      "cn": "今天和Erica一起，我们有一节非常激进的课程。"
+    },
+    {
+      "id": 6,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 7,
+      "en": "We've got a revolutionary lesson.",
+      "cn": "我们有一节革命性的课程。"
+    },
+    {
+      "id": 8,
+      "en": "Yes, today at EnglishPod, we're protesting.",
+      "cn": "是的，今天在EnglishPod，我们要抗议。"
+    },
+    {
+      "id": 9,
+      "en": "So, Erica, why don't you tell us what a protest is?",
+      "cn": "所以，Erica，你能告诉我们什么是抗议吗？"
+    },
+    {
+      "id": 10,
+      "en": "Well, when you protest something, you go into the streets and show your disagreement.",
+      "cn": "嗯，当你抗议某事时，你走上街头表达你的不同意见。"
+    },
+    {
+      "id": 11,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 12,
+      "en": "And you yell and you have signs and everyone's just protesting.",
+      "cn": "你会大喊，举着标语，大家都在抗议。"
+    },
+    {
+      "id": 13,
+      "en": "And the news comes.",
+      "cn": "新闻会来。"
+    },
+    {
+      "id": 14,
+      "en": "And if it's not clear now, it'll be clear after the dialogue, I'm sure.",
+      "cn": "如果现在还不清楚，经过对话后我相信会清楚的。"
+    },
+    {
+      "id": 15,
+      "en": "Definitely, definitely.",
+      "cn": "绝对是，绝对是。"
+    },
+    {
+      "id": 16,
+      "en": "So, why don't we start with our vocabulary preview?",
+      "cn": "那么，我们为什么不开始我们的词汇预览呢？"
+    },
+    {
+      "id": 17,
+      "en": "We have two words in our vocabulary preview today.",
+      "cn": "今天我们的词汇预览有两个词。"
+    },
+    {
+      "id": 18,
+      "en": "The first is bankrupt.",
+      "cn": "第一个是破产。"
+    },
+    {
+      "id": 19,
+      "en": "Bankrupt.",
+      "cn": "破产。"
+    },
+    {
+      "id": 20,
+      "en": "Bankrupt.",
+      "cn": "破产。"
+    },
+    {
+      "id": 21,
+      "en": "Bankrupt.",
+      "cn": "破产。"
+    },
+    {
+      "id": 22,
+      "en": "So, if a company goes bankrupt, what happens?",
+      "cn": "所以，如果一家公司破产，会发生什么？"
+    },
+    {
+      "id": 23,
+      "en": "It means the company doesn't have any more money.",
+      "cn": "这意味着公司没有更多的钱。"
+    },
+    {
+      "id": 24,
+      "en": "So, it can't pay salaries.",
+      "cn": "所以，它不能支付工资。"
+    },
+    {
+      "id": 25,
+      "en": "It can't pay anything.",
+      "cn": "它不能支付任何费用。"
+    },
+    {
+      "id": 26,
+      "en": "It can't pay its bills.",
+      "cn": "它不能支付账单。"
+    },
+    {
+      "id": 27,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 28,
+      "en": "So, basically, if it's bankrupt, it's probably going to close.",
+      "cn": "所以，基本上，如果它破产，可能会关闭。"
+    },
+    {
+      "id": 29,
+      "en": "Exactly.",
+      "cn": "正确。"
+    },
+    {
+      "id": 30,
+      "en": "Okay, our second word today is bailout.",
+      "cn": "好的，今天我们的第二个词是救助。"
+    },
+    {
+      "id": 31,
+      "en": "Bailout.",
+      "cn": "救助。"
+    },
+    {
+      "id": 32,
+      "en": "Bailout.",
+      "cn": "救助。"
+    },
+    {
+      "id": 33,
+      "en": "Bailout.",
+      "cn": "救助。"
+    },
+    {
+      "id": 34,
+      "en": "B-A-I-L.",
+      "cn": "B-A-I-L。"
+    },
+    {
+      "id": 35,
+      "en": "Bailout.",
+      "cn": "救助。"
+    },
+    {
+      "id": 36,
+      "en": "So, a bailout is when the government gives money to a company that is about to go bankrupt.",
+      "cn": "所以，救助是指政府给即将破产的公司提供资金。"
+    },
+    {
+      "id": 37,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 38,
+      "en": "It's emergency money that will help save the company.",
+      "cn": "这是紧急资金，将帮助拯救公司。"
+    },
+    {
+      "id": 39,
+      "en": "Well, these two words are taken directly from our dialogue.",
+      "cn": "嗯，这两个词直接来自我们的对话。"
+    },
+    {
+      "id": 40,
+      "en": "And in today's dialogue, we're going to bring you live to a newscast.",
+      "cn": "在今天的对话中，我们将带您实时收看新闻报道。"
+    },
+    {
+      "id": 41,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 42,
+      "en": "So, why don't we just listen to the dialogue?",
+      "cn": "那么，我们为什么不听听对话呢？"
+    },
+    {
+      "id": 43,
+      "en": "This is Action 5 news reporter Sarah O'Connell reporting live from Washington, D.C.",
+      "cn": "这里是Action 5新闻记者Sarah O'Connell，正在华盛顿特区进行现场直播。"
+    },
+    {
+      "id": 44,
+      "en": "where a protest has broken out.",
+      "cn": "这里发生了抗议。"
+    },
+    {
+      "id": 45,
+      "en": "Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry.",
+      "cn": "数千名愤怒的市民正在抗议提议的汽车制造业救助。"
+    },
+    {
+      "id": 46,
+      "en": "Sir.",
+      "cn": "先生。"
+    },
+    {
+      "id": 47,
+      "en": "Sir.",
+      "cn": "先生。"
+    },
+    {
+      "id": 48,
+      "en": "Sarah O'Connell, Channel 5 News.",
+      "cn": "Sarah O'Connell，Channel 5新闻。"
+    },
+    {
+      "id": 49,
+      "en": "Can you tell us what's happening?",
+      "cn": "你能告诉我们发生了什么吗？"
+    },
+    {
+      "id": 50,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 51,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 52,
+      "en": "We're here because we feel this is an injustice.",
+      "cn": "我们在这里是因为我们觉得这是不公正的。"
+    },
+    {
+      "id": 53,
+      "en": "The financial irresponsibility of big business has to stop.",
+      "cn": "大企业的财务不负责任必须停止。"
+    },
+    {
+      "id": 54,
+      "en": "We're here to show the government that we don't like the way they're spending our tax dollars.",
+      "cn": "我们在这里向政府表明我们不喜欢他们花我们的税款的方式。"
+    },
+    {
+      "id": 55,
+      "en": "Sir, but what exactly is making everyone so angry?",
+      "cn": "先生，但究竟是什么让大家如此愤怒？"
+    },
+    {
+      "id": 56,
+      "en": "It's an absolute outrage, Sarah.",
+      "cn": "这绝对是个 outrage，Sarah。"
+    },
+    {
+      "id": 57,
+      "en": "The U.S.",
+      "cn": "美国"
+    },
+    {
+      "id": 58,
+      "en": "government wants to give $25 billion of taxpayer's money to the auto industry.",
+      "cn": "政府想要把250亿美元的纳税人资金给汽车行业。"
+    },
+    {
+      "id": 59,
+      "en": "These are companies that have been mismanaged and are now nearly bankrupt.",
+      "cn": "这些公司管理不善，现在几乎破产。"
+    },
+    {
+      "id": 60,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 61,
+      "en": "But many supporters of the bailout argue that it could help save the jobs of millions of hardworking Americans.",
+      "cn": "但许多救助的支持者认为这可以帮助拯救数百万辛勤工作的美国人的工作。"
+    },
+    {
+      "id": 62,
+      "en": "That may be true, and I for one don't want to see anyone lose their job.",
+      "cn": "这可能是真的，我个人不想看到任何人失去工作。"
+    },
+    {
+      "id": 63,
+      "en": "But how can these CEOs ask for a bailout when they're making millions of dollars?",
+      "cn": "但这些CEO怎么能在赚取数百万美元时要求救助呢？"
+    },
+    {
+      "id": 64,
+      "en": "And then they have the nerve to fly to Washington in private jets.",
+      "cn": "然后他们还有胆量乘坐私人飞机飞往华盛顿。"
+    },
+    {
+      "id": 65,
+      "en": "This costs hundreds of thousands of dollars.",
+      "cn": "这花费数十万美元。"
+    },
+    {
+      "id": 66,
+      "en": "They're asking for money.",
+      "cn": "他们在要求资金。"
+    },
+    {
+      "id": 67,
+      "en": "That is just not right.",
+      "cn": "这实在是不对。"
+    },
+    {
+      "id": 68,
+      "en": "Good point.",
+      "cn": "好观点。"
+    },
+    {
+      "id": 69,
+      "en": "This is Sarah O'Connell reporting live from Washington, D.C.",
+      "cn": "这是Sarah O'Connell在华盛顿特区的现场直播报道。"
+    },
+    {
+      "id": 70,
+      "en": "Back to you, Tom.",
+      "cn": "回到你那儿，Tom。"
+    },
+    {
+      "id": 71,
+      "en": "Wow, these people are really angry.",
+      "cn": "哇，这些人真的很生气。"
+    },
+    {
+      "id": 72,
+      "en": "I think they're furious.",
+      "cn": "我觉得他们非常愤怒。"
+    },
+    {
+      "id": 73,
+      "en": "Well, I think they have some good points, and we'll talk about that later.",
+      "cn": "嗯，我认为他们有一些很好的观点，我们稍后会讨论。"
+    },
+    {
+      "id": 74,
+      "en": "But now... It's time for Language Takeaway.",
+      "cn": "但现在... 是时候进行语言总结了。"
+    },
+    {
+      "id": 75,
+      "en": "There was some great language in this dialogue.",
+      "cn": "在这段对话中有一些很好的语言。"
+    },
+    {
+      "id": 76,
+      "en": "A lot of language we use to express our anger.",
+      "cn": "许多我们用来表达愤怒的语言。"
+    },
+    {
+      "id": 77,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 78,
+      "en": "And one of those words, and the first one for Language Takeaway, is injustice.",
+      "cn": "其中一个词，也是语言总结的第一个词是不公正。"
+    },
+    {
+      "id": 79,
+      "en": "Injustice.",
+      "cn": "不公正。"
+    },
+    {
+      "id": 80,
+      "en": "Injustice.",
+      "cn": "不公正。"
+    },
+    {
+      "id": 81,
+      "en": "An injustice.",
+      "cn": "一种不公正。"
+    },
+    {
+      "id": 82,
+      "en": "So, an injustice is something that isn't fair.",
+      "cn": "所以，不公正是指不公平的事情。"
+    },
+    {
+      "id": 83,
+      "en": "It's totally unfair.",
+      "cn": "这完全不公平。"
+    },
+    {
+      "id": 84,
+      "en": "It's unfair, yeah.",
+      "cn": "这不公平，是的。"
+    },
+    {
+      "id": 85,
+      "en": "This is an injustice.",
+      "cn": "这是一个不公正。"
+    },
+    {
+      "id": 86,
+      "en": "Let's look at our second word.",
+      "cn": "让我们看看我们的第二个词。"
+    },
+    {
+      "id": 87,
+      "en": "Outrage.",
+      "cn": "愤怒。"
+    },
+    {
+      "id": 88,
+      "en": "Outrage.",
+      "cn": "愤怒。"
+    },
+    {
+      "id": 89,
+      "en": "Outrage.",
+      "cn": "愤怒。"
+    },
+    {
+      "id": 90,
+      "en": "An outrage.",
+      "cn": "一种愤怒。"
+    },
+    {
+      "id": 91,
+      "en": "So, Erica, why don't you give us an example on how you would use outrage.",
+      "cn": "所以，Erica，你能给我们一个使用愤怒的例子吗？"
+    },
+    {
+      "id": 92,
+      "en": "There's no more coffee.",
+      "cn": "没有更多的咖啡。"
+    },
+    {
+      "id": 93,
+      "en": "This is an outrage.",
+      "cn": "这真是个愤怒。"
+    },
+    {
+      "id": 94,
+      "en": "Yeah, there we go.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 95,
+      "en": "That's an outrage.",
+      "cn": "这真是个愤怒。"
+    },
+    {
+      "id": 96,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 97,
+      "en": "Let's go to our next word now.",
+      "cn": "现在让我们去下一个词。"
+    },
+    {
+      "id": 98,
+      "en": "Breakout.",
+      "cn": "突发。"
+    },
+    {
+      "id": 99,
+      "en": "Breakout.",
+      "cn": "突发。"
+    },
+    {
+      "id": 100,
+      "en": "Breakout.",
+      "cn": "突发。"
+    },
+    {
+      "id": 101,
+      "en": "Breakout.",
+      "cn": "突破。"
+    },
+    {
+      "id": 102,
+      "en": "So, we have some great examples on how we use breakout, so let's listen.",
+      "cn": "所以，我们有一些很好的例子来展示如何使用突破，听听吧。"
+    },
+    {
+      "id": 103,
+      "en": "Well, this is a wonderful phrasal verb that means... To begin suddenly.",
+      "cn": "这是一个很棒的短语动词，意思是……突然开始。"
+    },
+    {
+      "id": 104,
+      "en": "Okay, so I think that's pretty clear.",
+      "cn": "好的，我想这很清楚。"
+    },
+    {
+      "id": 105,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 106,
+      "en": "Yeah.",
+      "cn": "对。"
+    },
+    {
+      "id": 107,
+      "en": "Breakout.",
+      "cn": "突破。"
+    },
+    {
+      "id": 108,
+      "en": "Let's go to our next word now.",
+      "cn": "现在让我们进入下一个单词。"
+    },
+    {
+      "id": 109,
+      "en": "Mismanaged.",
+      "cn": "管理不善。"
+    },
+    {
+      "id": 110,
+      "en": "Mismanaged.",
+      "cn": "管理不善。"
+    },
+    {
+      "id": 111,
+      "en": "Mismanaged.",
+      "cn": "管理不善。"
+    },
+    {
+      "id": 112,
+      "en": "So, when something is mismanaged, it's... Not managed properly.",
+      "cn": "所以，当某事被管理不善时，就是……没有得到妥善管理。"
+    },
+    {
+      "id": 113,
+      "en": "Managed poorly.",
+      "cn": "管理不当。"
+    },
+    {
+      "id": 114,
+      "en": "Poorly, right.",
+      "cn": "不当，对。"
+    },
+    {
+      "id": 115,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 116,
+      "en": "Our final word today is...",
+      "cn": "我们今天的最后一个单词是……"
+    },
+    {
+      "id": 117,
+      "en": "Have the nerve to.",
+      "cn": "有胆量去。"
+    },
+    {
+      "id": 118,
+      "en": "Have the nerve to.",
+      "cn": "有胆量去。"
+    },
+    {
+      "id": 119,
+      "en": "Have the nerve to.",
+      "cn": "有胆量去。"
+    },
+    {
+      "id": 120,
+      "en": "I think this one also is a little bit difficult to understand.",
+      "cn": "我认为这个也有点难以理解。"
+    },
+    {
+      "id": 121,
+      "en": "Yeah, but we have some great examples prepared for you, so let's listen to them.",
+      "cn": "是的，但我们为你准备了一些很好的例子，所以让我们听听。"
+    },
+    {
+      "id": 122,
+      "en": "Example three.",
+      "cn": "示例三。"
+    },
+    {
+      "id": 123,
+      "en": "So,",
+      "cn": "所以，"
+    },
+    {
+      "id": 124,
+      "en": "have the nerve to is like dare to do something, right?",
+      "cn": "有胆量去就像是敢于做某事，对吧？"
+    },
+    {
+      "id": 125,
+      "en": "Yeah, how dare you.",
+      "cn": "是的，你怎么敢。"
+    },
+    {
+      "id": 126,
+      "en": "Have the nerve to.",
+      "cn": "有胆量去。"
+    },
+    {
+      "id": 127,
+      "en": "It's like, I can't believe you would do that.",
+      "cn": "就像，我无法相信你会这样做。"
+    },
+    {
+      "id": 128,
+      "en": "Yeah, I think that's quite clear.",
+      "cn": "是的，我认为这很清楚。"
+    },
+    {
+      "id": 129,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 130,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 131,
+      "en": "A lot of great words in our dialogue today.",
+      "cn": "今天的对话中有很多很好的单词。"
+    },
+    {
+      "id": 132,
+      "en": "And also, we have some really interesting grammar in today's dialogue.",
+      "cn": "而且，我们今天的对话中还有一些非常有趣的语法。"
+    },
+    {
+      "id": 133,
+      "en": "Right, so today, let's look at some grammar breakdown.",
+      "cn": "对，所以今天，让我们看看一些语法分析。"
+    },
+    {
+      "id": 134,
+      "en": "In this section, grammar breakdown, we show you a particular grammar structure and explain a little bit about how that structure affects meaning.",
+      "cn": "在这一部分，语法分析中，我们向你展示一个特定的语法结构，并解释一下这个结构如何影响意义。"
+    },
+    {
+      "id": 135,
+      "en": "So, it's not really about getting the grammar perfectly right, it's about understanding the meaning.",
+      "cn": "所以，这并不是关于完美掌握语法，而是理解意义。"
+    },
+    {
+      "id": 136,
+      "en": "Right, and in today's lesson, we saw some really great examples on how we use the present perfect tense.",
+      "cn": "对，在今天的课程中，我们看到了一些关于如何使用现在完成时的很好的例子。"
+    },
+    {
+      "id": 137,
+      "en": "Let's listen to an example from the dialogue.",
+      "cn": "让我们听听对话中的一个例子。"
+    },
+    {
+      "id": 138,
+      "en": "Where a protest has broken out.",
+      "cn": "一场抗议已经爆发。"
+    },
+    {
+      "id": 139,
+      "en": "Where a protest has broken out.",
+      "cn": "一场抗议已经爆发。"
+    },
+    {
+      "id": 140,
+      "en": "See the verb here, break out, like a protest has broken out happened in the past, right?",
+      "cn": "看到这里的动词，爆发，像是抗议在过去发生了，对吧？"
+    },
+    {
+      "id": 141,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 142,
+      "en": "And it's still going on now.",
+      "cn": "而且现在仍在继续。"
+    },
+    {
+      "id": 143,
+      "en": "So, present perfect is used when we're talking about an event that happened in the past and is continuing on now.",
+      "cn": "所以，现在完成时用于谈论一个在过去发生并且现在仍在继续的事件。"
+    },
+    {
+      "id": 144,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 145,
+      "en": "Or is continuing to affect now.",
+      "cn": "或者仍在影响现在。"
+    },
+    {
+      "id": 146,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 147,
+      "en": "Okay, I think that's pretty clear.",
+      "cn": "好的，我认为这很清楚。"
+    },
+    {
+      "id": 148,
+      "en": "Yeah, but now if you want to indicate or if you want to demonstrate that the action has finished, the event is over, then you would say it like this.",
+      "cn": "是的，但现在如果你想表明或想展示这个动作已经结束，事件已经结束，那么你可以这样说。"
+    },
+    {
+      "id": 149,
+      "en": "A protest broke out.",
+      "cn": "一场抗议爆发了。"
+    },
+    {
+      "id": 150,
+      "en": "A protest broke out.",
+      "cn": "一场抗议爆发了。"
+    },
+    {
+      "id": 151,
+      "en": "In this form, you see that the protest is over.",
+      "cn": "在这种形式中，你可以看到抗议已经结束。"
+    },
+    {
+      "id": 152,
+      "en": "It happened yesterday already.",
+      "cn": "它已经在昨天发生了。"
+    },
+    {
+      "id": 153,
+      "en": "Right, and I think it's really emphasizing the fact that it is no longer affecting the present moment.",
+      "cn": "对，我认为这确实强调了它不再影响现在这一刻的事实。"
+    },
+    {
+      "id": 154,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 155,
+      "en": "So, remember, the difference between present perfect and simple past.",
+      "cn": "所以，记住，现在完成时和简单过去时之间的区别。"
+    },
+    {
+      "id": 156,
+      "en": "Now, if you want to know more about these tenses, present perfect and simple past, be sure to go to our website at EnglishPod.com.",
+      "cn": "现在，如果你想了解更多关于这些时态，现在完成时和简单过去时，请务必访问我们的网站 EnglishPod.com。"
+    },
+    {
+      "id": 157,
+      "en": "In the grammar section, you can find some more great examples and a really clear explanation on how these tenses are formed.",
+      "cn": "在语法部分，你可以找到更多很好的例子和关于这些时态如何形成的清晰解释。"
+    },
+    {
+      "id": 158,
+      "en": "But now, we are ready to listen to our dialogue a second time.",
+      "cn": "但现在，我们准备第二次听我们的对话。"
+    },
+    {
+      "id": 159,
+      "en": "Tell us what's happening.",
+      "cn": "告诉我们发生了什么。"
+    },
+    {
+      "id": 160,
+      "en": "Yeah, yeah, we're here because we feel this is an injustice.",
+      "cn": "是的，是的，我们在这里是因为我们觉得这是不公正的。"
+    },
+    {
+      "id": 161,
+      "en": "The financial irresponsibility of big business has to stop.",
+      "cn": "大企业的财务不负责任必须停止。"
+    },
+    {
+      "id": 162,
+      "en": "We're here to show the government that we don't like the way they're spending our tax dollars.",
+      "cn": "我们在这里是为了向政府表明我们不喜欢他们花我们的税款的方式。"
+    },
+    {
+      "id": 163,
+      "en": "Sir, but what exactly is making everyone so angry?",
+      "cn": "先生，但到底是什么让每个人如此愤怒？"
+    },
+    {
+      "id": 164,
+      "en": "It's an absolute outrage, Sarah.",
+      "cn": "这真是令人愤慨，莎拉。"
+    },
+    {
+      "id": 165,
+      "en": "The U.S.",
+      "cn": "美国"
+    },
+    {
+      "id": 166,
+      "en": "government wants to give $25 billion of taxpayer's money to the auto industry.",
+      "cn": "政府想把250亿美元的纳税人钱给汽车工业。"
+    },
+    {
+      "id": 167,
+      "en": "These are companies that have been mismanaged and are now nearly bankrupt.",
+      "cn": "这些公司管理不善，现在几乎破产。"
+    },
+    {
+      "id": 168,
+      "en": "I see.",
+      "cn": "我明白了。"
+    },
+    {
+      "id": 169,
+      "en": "But many supporters of the bailout argue that it could help save the jobs of millions of hardworking Americans.",
+      "cn": "但许多救助的支持者认为这可以帮助拯救数百万辛勤工作的美国人的工作。"
+    },
+    {
+      "id": 170,
+      "en": "That may be true, and I for one don't want to see anyone lose their job.",
+      "cn": "这可能是真的，我个人不想看到任何人失去工作。"
+    },
+    {
+      "id": 171,
+      "en": "But how can these CEOs ask for a bailout when they're making millions of dollars?",
+      "cn": "但这些首席执行官怎么能在赚取数百万美元的情况下要求救助？"
+    },
+    {
+      "id": 172,
+      "en": "And then they have the nerve to fly to Washington in private jets.",
+      "cn": "然后他们竟然有胆量乘坐私人飞机飞往华盛顿。"
+    },
+    {
+      "id": 173,
+      "en": "This costs hundreds of thousands of dollars.",
+      "cn": "这花费数十万美元。"
+    },
+    {
+      "id": 174,
+      "en": "They're asking for money.",
+      "cn": "他们在要求资金。"
+    },
+    {
+      "id": 175,
+      "en": "That is just not right.",
+      "cn": "这真是不对。"
+    },
+    {
+      "id": 176,
+      "en": "Good point.",
+      "cn": "很好的观点。"
+    },
+    {
+      "id": 177,
+      "en": "This is Sarah O'Connell reporting live from Washington, D.C.",
+      "cn": "这是莎拉·奥康奈尔在华盛顿特区的现场报道。"
+    },
+    {
+      "id": 178,
+      "en": "Back to you, Tom.",
+      "cn": "回到你那儿，汤姆。"
+    },
+    {
+      "id": 179,
+      "en": "Okay, Erika, so what do you think about this situation?",
+      "cn": "好的，埃里卡，你对这个情况怎么看？"
+    },
+    {
+      "id": 180,
+      "en": "About the bailout of the auto industry?",
+      "cn": "关于汽车工业的救助？"
+    },
+    {
+      "id": 181,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 182,
+      "en": "I think it's a bad idea.",
+      "cn": "我认为这是个坏主意。"
+    },
+    {
+      "id": 183,
+      "en": "Why?",
+      "cn": "为什么？"
+    },
+    {
+      "id": 184,
+      "en": "There's so many reasons.",
+      "cn": "有很多原因。"
+    },
+    {
+      "id": 185,
+      "en": "I mean, I don't think it's fair for us as taxpayers.",
+      "cn": "我是说，我认为这对我们作为纳税人不公平。"
+    },
+    {
+      "id": 186,
+      "en": "Well, I guess I'm not really an American taxpayer.",
+      "cn": "嗯，我想我并不是真正的美国纳税人。"
+    },
+    {
+      "id": 187,
+      "en": "But I don't think it's fair for the taxpayers to have to pay for the mismanagement of these companies.",
+      "cn": "但我认为让纳税人为这些公司的管理不善买单是不公平的。"
+    },
+    {
+      "id": 188,
+      "en": "I mean, they've got so much debt, they've produced cars that nobody really wants to buy, and now they're in trouble, and it's not our money that should be spent on saving them.",
+      "cn": "我是说，他们有这么多债务，生产了没人真正想买的汽车，现在他们陷入困境，而我们的钱不应该用来拯救他们。"
+    },
+    {
+      "id": 189,
+      "en": "Yeah, I would agree with you on that.",
+      "cn": "是的，我同意你的看法。"
+    },
+    {
+      "id": 190,
+      "en": "But you do have to take into consideration the fact that if these companies go bankrupt, thousands of people will lose their jobs.",
+      "cn": "但你必须考虑到，如果这些公司破产，成千上万的人将失去工作。"
+    },
+    {
+      "id": 191,
+      "en": "And not only the people that work at the factories, but also people that work for other companies that supply these factories.",
+      "cn": "不仅是工厂里的工人，还有为这些工厂提供服务的其他公司的员工。"
+    },
+    {
+      "id": 192,
+      "en": "Yeah, I mean, I see what you're saying, Marco, but at the same time, we can't support an industry that isn't working properly.",
+      "cn": "是的，我是说，我明白你的意思，马尔科，但同时，我们不能支持一个运作不正常的行业。"
+    },
+    {
+      "id": 193,
+      "en": "I mean, if one of these companies goes bankrupt, it's going to be terrible.",
+      "cn": "我是说，如果其中一家公司破产，那将是可怕的。"
+    },
+    {
+      "id": 194,
+      "en": "But it will force the other two companies, perhaps, to manage themselves better, to streamline and become more efficient.",
+      "cn": "但这将迫使其他两家公司更好地管理自己，精简并变得更高效。"
+    },
+    {
+      "id": 195,
+      "en": "I just think it will be better in the future.",
+      "cn": "我只是认为这将对未来更好。"
+    },
+    {
+      "id": 196,
+      "en": "Well, it could be, but also maybe all three companies can go bankrupt.",
+      "cn": "嗯，可能是，但也许三家公司都可能破产。"
+    },
+    {
+      "id": 197,
+      "en": "It would be sad because the American car, the American auto industry, is a symbol of prosperity.",
+      "cn": "这会很可悲，因为美国汽车、美国汽车工业是繁荣的象征。"
+    },
+    {
+      "id": 198,
+      "en": "It's also the symbol of the American culture in general.",
+      "cn": "它也是美国文化的象征。"
+    },
+    {
+      "id": 199,
+      "en": "I guess that's true.",
+      "cn": "我想这是真的。"
+    },
+    {
+      "id": 200,
+      "en": "So it would be a shame for it to go bankrupt, because everyone owns a car in the United States, or most people.",
+      "cn": "所以如果它破产，那将是遗憾，因为在美国，每个人都有车，或者大多数人都有。"
+    },
+    {
+      "id": 201,
+      "en": "And it's just something that we can't lose.",
+      "cn": "这真的是我们不能失去的东西。"
+    },
+    {
+      "id": 202,
+      "en": "But it is an interesting topic, and we also want to know your opinions about it.",
+      "cn": "但这是一个有趣的话题，我们也想知道你们对此的看法。"
+    },
+    {
+      "id": 203,
+      "en": "Yeah, listeners, please come to our website at EnglishPod.com and tell us what you think about this bailout and about this lesson.",
+      "cn": "是的，听众们，请访问我们的网站 EnglishPod.com，告诉我们你们对这次救助和这节课的看法。"
+    },
+    {
+      "id": 204,
+      "en": "On the website, we'll post a link to the news article where you can read a little bit more about this, because this is actually going on now.",
+      "cn": "在网站上，我们会发布一篇新闻文章的链接，您可以阅读更多相关信息，因为这实际上正在发生。"
+    },
+    {
+      "id": 205,
+      "en": "That's true.",
+      "cn": "这是真的。"
+    },
+    {
+      "id": 206,
+      "en": "Well, everyone, thanks for listening, and until next time, goodbye.",
+      "cn": "好吧，大家，谢谢你们的收听，下次再见，再见。"
+    },
+    {
+      "id": 207,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

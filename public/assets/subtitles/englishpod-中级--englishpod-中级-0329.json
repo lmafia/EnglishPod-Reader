@@ -1,0 +1,1139 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0329",
+  "title": "EnglishPod 中级 0329",
+  "totalSegments": 226,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we're going to buy some food at a store for, basically, bread.",
+      "cn": "我叫Catherine，今天我们要去商店买一些食物，主要是面包。"
+    },
+    {
+      "id": 4,
+      "en": "Right, Marco?",
+      "cn": "对吧，Marco？"
+    },
+    {
+      "id": 5,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 6,
+      "en": "Today we're going to a bakery.",
+      "cn": "今天我们要去一家面包店。"
+    },
+    {
+      "id": 7,
+      "en": "So this is basically a shop where they sell bread and different types of bread, actually.",
+      "cn": "所以这基本上是一个卖面包和各种面包的商店。"
+    },
+    {
+      "id": 8,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 9,
+      "en": "So we're going to learn all about these different kinds of bread.",
+      "cn": "所以我们要了解这些不同种类的面包。"
+    },
+    {
+      "id": 10,
+      "en": "Let's take a listen to our dialogue.",
+      "cn": "让我们来听听我们的对话。"
+    },
+    {
+      "id": 11,
+      "en": "Welcome to Al's Bakery.",
+      "cn": "欢迎来到Al的面包店。"
+    },
+    {
+      "id": 12,
+      "en": "What can I get you?",
+      "cn": "我能为您提供什么？"
+    },
+    {
+      "id": 13,
+      "en": "Hi, let me get a dozen croissants, four blueberry muffins, and a loaf of sourdough bread.",
+      "cn": "嗨，我要一打可颂，四个蓝莓松饼和一条酸面包。"
+    },
+    {
+      "id": 14,
+      "en": "Sure.",
+      "cn": "好的。"
+    },
+    {
+      "id": 15,
+      "en": "Would you like to have the loaf sliced?",
+      "cn": "您想要把面包切片吗？"
+    },
+    {
+      "id": 16,
+      "en": "No, that's okay.",
+      "cn": "不用了，没关系。"
+    },
+    {
+      "id": 17,
+      "en": "Do you have any whole wheat bread?",
+      "cn": "你们有全麦面包吗？"
+    },
+    {
+      "id": 18,
+      "en": "Oh, we're out at the moment.",
+      "cn": "哦，我们现在没有。"
+    },
+    {
+      "id": 19,
+      "en": "May I suggest some rye bread?",
+      "cn": "我可以推荐一些黑麦面包吗？"
+    },
+    {
+      "id": 20,
+      "en": "Sure, that sounds good.",
+      "cn": "当然，听起来不错。"
+    },
+    {
+      "id": 21,
+      "en": "Do you have any cakes?",
+      "cn": "你们有蛋糕吗？"
+    },
+    {
+      "id": 22,
+      "en": "We have various birthday cakes and also some ice cream cakes.",
+      "cn": "我们有各种生日蛋糕，还有一些冰淇淋蛋糕。"
+    },
+    {
+      "id": 23,
+      "en": "I'll just take a cheesecake.",
+      "cn": "我就要一个奶酪蛋糕。"
+    },
+    {
+      "id": 24,
+      "en": "Will that be all?",
+      "cn": "这样就可以了吗？"
+    },
+    {
+      "id": 25,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 26,
+      "en": "Your total is $43.20.",
+      "cn": "您的总金额是43.20美元。"
+    },
+    {
+      "id": 27,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 28,
+      "en": "So now let's take a look at some vocab on Language Takeaway.",
+      "cn": "现在让我们来看看Language Takeaway的一些词汇。"
+    },
+    {
+      "id": 29,
+      "en": "Language Takeaway.",
+      "cn": "Language Takeaway。"
+    },
+    {
+      "id": 30,
+      "en": "In Language Takeaway today we have many different kinds of bread.",
+      "cn": "在今天的Language Takeaway中，我们有许多不同种类的面包。"
+    },
+    {
+      "id": 31,
+      "en": "The first kind actually comes to English from the French language.",
+      "cn": "第一种实际上是从法语引入英语的。"
+    },
+    {
+      "id": 32,
+      "en": "We have croissants.",
+      "cn": "我们有可颂。"
+    },
+    {
+      "id": 33,
+      "en": "That's right, croissants.",
+      "cn": "没错，可颂。"
+    },
+    {
+      "id": 34,
+      "en": "Now, as you say, this is a type of bread that comes from France, I guess.",
+      "cn": "现在，正如你所说，这是一种来自法国的面包，我想。"
+    },
+    {
+      "id": 35,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 36,
+      "en": "It's really delicious.",
+      "cn": "它真的很好吃。"
+    },
+    {
+      "id": 37,
+      "en": "It's buttery and flaky, and it's in the shape of a Crescent.",
+      "cn": "它是黄油味和酥脆的，形状像新月。"
+    },
+    {
+      "id": 38,
+      "en": "So it's like a curve, like a C.",
+      "cn": "所以它像一个弯曲的C。"
+    },
+    {
+      "id": 39,
+      "en": "It kind of looks like also horns, because it's got two little... it's got like a horn on each side.",
+      "cn": "它看起来也像角，因为两边都有小角。"
+    },
+    {
+      "id": 40,
+      "en": "It does, it does.",
+      "cn": "确实如此。"
+    },
+    {
+      "id": 41,
+      "en": "And many people like to eat this for breakfast in France, but you can find it everywhere in America at cafes and bakeries.",
+      "cn": "很多人喜欢在法国早餐时吃这个，但在美国的咖啡馆和面包店随处可见。"
+    },
+    {
+      "id": 42,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 43,
+      "en": "So those are croissants.",
+      "cn": "所以这就是可颂。"
+    },
+    {
+      "id": 44,
+      "en": "And now we're also buying blueberry muffins.",
+      "cn": "现在我们还要买蓝莓松饼。"
+    },
+    {
+      "id": 45,
+      "en": "Okay, muffins are a delicious baked good.",
+      "cn": "好的，松饼是一种美味的烘焙食品。"
+    },
+    {
+      "id": 46,
+      "en": "Blueberry muffins are the flavor, so we can also have strawberry or orange.",
+      "cn": "蓝莓松饼是口味，所以我们也可以有草莓或橙子口味。"
+    },
+    {
+      "id": 47,
+      "en": "But in this case, a muffin is kind of like a sweet baked good.",
+      "cn": "但在这种情况下，松饼有点像甜的烘焙食品。"
+    },
+    {
+      "id": 48,
+      "en": "It's round.",
+      "cn": "它是圆的。"
+    },
+    {
+      "id": 49,
+      "en": "So it's kind of like a cake, like a little cake.",
+      "cn": "所以它有点像蛋糕，像一个小蛋糕。"
+    },
+    {
+      "id": 50,
+      "en": "It is like a little cake.",
+      "cn": "它确实像一个小蛋糕。"
+    },
+    {
+      "id": 51,
+      "en": "The top is bigger than the bottom, so the bottom you have some paper to hold on to, and the top is round and maybe a little bit hard.",
+      "cn": "顶部比底部大，所以底部有一些纸可以抓住，顶部是圆的，可能有点硬。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 53,
+      "en": "So those are muffins.",
+      "cn": "所以这就是松饼。"
+    },
+    {
+      "id": 54,
+      "en": "We'll post pictures of these on the site so you can see what they look like.",
+      "cn": "我们会在网站上发布这些的图片，以便你们可以看到它们的样子。"
+    },
+    {
+      "id": 55,
+      "en": "But moving on now, we have a type of bread.",
+      "cn": "但现在继续，我们有一种面包。"
+    },
+    {
+      "id": 56,
+      "en": "This is a sourdough bread.",
+      "cn": "这是一种酸面包。"
+    },
+    {
+      "id": 57,
+      "en": "Alright, so there are many, many, many different kinds of breads, but sourdough is very unique, because the flavor is a little bit sour.",
+      "cn": "好吧，有很多很多不同种类的面包，但酸面包非常独特，因为它的味道有点酸。"
+    },
+    {
+      "id": 58,
+      "en": "It's strong.",
+      "cn": "它的味道很浓。"
+    },
+    {
+      "id": 59,
+      "en": "So dough is the substance or what you use to make bread, right?",
+      "cn": "所以面团是制作面包的物质，对吧？"
+    },
+    {
+      "id": 60,
+      "en": "Or before bread is baked.",
+      "cn": "或者在面包烘烤之前。"
+    },
+    {
+      "id": 61,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 62,
+      "en": "So before you make bread, it's kind of like a liquid.",
+      "cn": "所以在你制作面包之前，它有点像液体。"
+    },
+    {
+      "id": 63,
+      "en": "You have some milk or water that you mix with flour, so you have to hold it in a bowl or a cup.",
+      "cn": "你有一些牛奶或水与面粉混合，所以你必须把它放在碗或杯子里。"
+    },
+    {
+      "id": 64,
+      "en": "And after you bake it, it becomes hard.",
+      "cn": "烘烤后，它变得坚硬。"
+    },
+    {
+      "id": 65,
+      "en": "So dough is when it's soft and like a liquid.",
+      "cn": "所以面团是软的，像液体。"
+    },
+    {
+      "id": 66,
+      "en": "Right, you've seen it when they're making bread, they have this, it looks like a paste sometimes, and then it becomes hard.",
+      "cn": "对，你见过他们制作面包时，它看起来有时像糊状，然后变得坚硬。"
+    },
+    {
+      "id": 67,
+      "en": "Or when they're making pizzas, that's called dough.",
+      "cn": "或者在他们制作比萨时，那叫面团。"
+    },
+    {
+      "id": 68,
+      "en": "And sour, obviously, because it has that flavor that you said, a very strong sour flavor.",
+      "cn": "而酸，显然是因为它有你所说的那种味道，非常强烈的酸味。"
+    },
+    {
+      "id": 69,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 70,
+      "en": "And a different kind of bread that we might find is whole wheat bread.",
+      "cn": "另一种我们可能会找到的面包是全麦面包。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, now this is like the healthy choice.",
+      "cn": "好的，现在这是一种健康的选择。"
+    },
+    {
+      "id": 72,
+      "en": "Yes, it's normally the healthy choice.",
+      "cn": "是的，通常是健康的选择。"
+    },
+    {
+      "id": 73,
+      "en": "That's because the flour that we put in the dough is whole wheat flour.",
+      "cn": "这是因为我们放入面团中的面粉是全麦面粉。"
+    },
+    {
+      "id": 74,
+      "en": "It's a little bit healthier.",
+      "cn": "它稍微健康一些。"
+    },
+    {
+      "id": 75,
+      "en": "It's usually a little bit darker than white flour, so it'll be brown.",
+      "cn": "通常比白面粉稍微深色，所以它是棕色的。"
+    },
+    {
+      "id": 76,
+      "en": "So yeah, it's basically the brown bread.",
+      "cn": "所以是的，基本上就是棕色面包。"
+    },
+    {
+      "id": 77,
+      "en": "I think if you've noticed when you go to the store and you can get bread, you'll find one that looks white on the inside.",
+      "cn": "我想如果你注意到，当你去商店买面包时，你会发现一种看起来内部是白色的面包。"
+    },
+    {
+      "id": 78,
+      "en": "And this one actually looks brown on the inside.",
+      "cn": "而这个实际上看起来是棕色的。"
+    },
+    {
+      "id": 79,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 80,
+      "en": "And an even more brown colored bread, maybe even black, is rye bread.",
+      "cn": "还有一种颜色更深的面包，甚至可能是黑色的，是黑麦面包。"
+    },
+    {
+      "id": 81,
+      "en": "So what is rye?",
+      "cn": "那黑麦是什么？"
+    },
+    {
+      "id": 82,
+      "en": "Rye is another kind of grain, and when you bake this rye bread, it has a very strong flavor, and it's very, very dark, almost black.",
+      "cn": "黑麦是另一种谷物，当你烘烤这种黑麦面包时，它有非常强烈的味道，而且非常非常深，几乎是黑色的。"
+    },
+    {
+      "id": 83,
+      "en": "It's actually my favorite kind of bread.",
+      "cn": "其实这是我最喜欢的面包。"
+    },
+    {
+      "id": 84,
+      "en": "So what does it taste like, or what's the difference between whole wheat bread and rye bread?",
+      "cn": "那它的味道是什么，或者全麦面包和黑麦面包有什么区别？"
+    },
+    {
+      "id": 85,
+      "en": "Rye bread is much heavier.",
+      "cn": "黑麦面包要重得多。"
+    },
+    {
+      "id": 86,
+      "en": "It has a stronger flavor.",
+      "cn": "它的味道更浓。"
+    },
+    {
+      "id": 87,
+      "en": "Whole wheat bread is lighter.",
+      "cn": "全麦面包比较轻。"
+    },
+    {
+      "id": 88,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 89,
+      "en": "So obviously it may be a little bit difficult to understand the differences between the breads, but we'll post pictures on the site so you can see them.",
+      "cn": "所以显然，理解面包之间的差异可能有点困难，但我们会在网站上发布图片，以便你们可以看到它们。"
+    },
+    {
+      "id": 90,
+      "en": "And also, you have to go out to the bakery and try them so you can taste the difference.",
+      "cn": "而且，你必须去面包店尝试它们，这样你才能品尝到差异。"
+    },
+    {
+      "id": 91,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 92,
+      "en": "All right, so now let's move on to language takeaway part two, and talk about a little bit more of the other vocab found in this lesson.",
+      "cn": "好的，现在让我们继续进行语言外语学习的第二部分，谈谈本课中发现的其他词汇。"
+    },
+    {
+      "id": 93,
+      "en": "Welcome to Al's Bakery.",
+      "cn": "欢迎来到Al的面包店。"
+    },
+    {
+      "id": 94,
+      "en": "What can I get you?",
+      "cn": "我能为您提供什么？"
+    },
+    {
+      "id": 95,
+      "en": "Hi, let me get a dozen croissants, four blueberry muffins, and a loaf of sourdough bread.",
+      "cn": "嗨，我要一打可颂，四个蓝莓松饼和一条酸面包。"
+    },
+    {
+      "id": 96,
+      "en": "Sure.",
+      "cn": "好的。"
+    },
+    {
+      "id": 97,
+      "en": "Would you like to have the loaf sliced?",
+      "cn": "您想要把面包切片吗？"
+    },
+    {
+      "id": 98,
+      "en": "No, that's okay.",
+      "cn": "不用了，没关系。"
+    },
+    {
+      "id": 99,
+      "en": "Do you have any whole wheat bread?",
+      "cn": "你们有全麦面包吗？"
+    },
+    {
+      "id": 100,
+      "en": "Oh, we're out at the moment.",
+      "cn": "哦，我们现在没有。"
+    },
+    {
+      "id": 101,
+      "en": "May I suggest some rye bread?",
+      "cn": "我可以推荐一些黑麦面包吗？"
+    },
+    {
+      "id": 102,
+      "en": "Sure, that sounds good.",
+      "cn": "当然，听起来不错。"
+    },
+    {
+      "id": 103,
+      "en": "Do you have any cakes?",
+      "cn": "你们有蛋糕吗？"
+    },
+    {
+      "id": 104,
+      "en": "We have various birthday cakes and also some ice cream cakes.",
+      "cn": "我们有各种生日蛋糕，还有一些冰淇淋蛋糕。"
+    },
+    {
+      "id": 105,
+      "en": "I'll just take a cheesecake.",
+      "cn": "我就要一个芝士蛋糕。"
+    },
+    {
+      "id": 106,
+      "en": "Will that be all?",
+      "cn": "这就全部吗？"
+    },
+    {
+      "id": 107,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 108,
+      "en": "Your total is $43.20.",
+      "cn": "你的总共是43.20美元。"
+    },
+    {
+      "id": 109,
+      "en": "So when you want to go buy some bread or some baked goods, you have to know how to count those goods.",
+      "cn": "所以当你想去买面包或烘焙食品时，你必须知道如何计算这些商品。"
+    },
+    {
+      "id": 110,
+      "en": "So today we have a couple of words to help you count bread.",
+      "cn": "所以今天我们有几个词来帮助你计算面包。"
+    },
+    {
+      "id": 111,
+      "en": "The first one we have is dozen.",
+      "cn": "第一个是“打”。"
+    },
+    {
+      "id": 112,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 113,
+      "en": "So for croissants, as you can see, it's a countable noun.",
+      "cn": "所以对于可颂，正如你所看到的，这是一个可数名词。"
+    },
+    {
+      "id": 114,
+      "en": "And so when you ask for a dozen croissants, you're asking for 12.",
+      "cn": "所以当你要一打可颂时，你就是在要12个。"
+    },
+    {
+      "id": 115,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 116,
+      "en": "So in English, the word dozen means 12.",
+      "cn": "所以在英语中，“打”这个词意味着12。"
+    },
+    {
+      "id": 117,
+      "en": "You can buy a dozen eggs, or in this case, a dozen blueberry muffins maybe.",
+      "cn": "你可以买一打鸡蛋，或者在这种情况下，可能是一打蓝莓松饼。"
+    },
+    {
+      "id": 118,
+      "en": "Okay, so it's a very popular term, a dozen or a half a dozen.",
+      "cn": "好的，所以这是一个非常流行的术语，一打或半打。"
+    },
+    {
+      "id": 119,
+      "en": "Sometimes people just buy six.",
+      "cn": "有时人们只买六个。"
+    },
+    {
+      "id": 120,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 121,
+      "en": "So half a dozen is six.",
+      "cn": "所以半打是六个。"
+    },
+    {
+      "id": 122,
+      "en": "A whole dozen, just say dozen, is 12.",
+      "cn": "一整打，直接说“打”，是12。"
+    },
+    {
+      "id": 123,
+      "en": "You can also have something special called a baker's dozen.",
+      "cn": "你还可以有一个特别的东西叫做“面包师的打”。"
+    },
+    {
+      "id": 124,
+      "en": "Yes, I've heard about this.",
+      "cn": "是的，我听说过这个。"
+    },
+    {
+      "id": 125,
+      "en": "What is a baker's dozen?",
+      "cn": "什么是“面包师的打”？"
+    },
+    {
+      "id": 126,
+      "en": "Well, a baker's dozen is basically a present the baker gives you.",
+      "cn": "嗯，“面包师的打”基本上是面包师给你的礼物。"
+    },
+    {
+      "id": 127,
+      "en": "So you buy 12, maybe 12 croissants, and the baker gives you one more.",
+      "cn": "所以你买12个，可能是12个可颂，面包师再给你一个。"
+    },
+    {
+      "id": 128,
+      "en": "Wow, so you get 13.",
+      "cn": "哇，所以你得到13个。"
+    },
+    {
+      "id": 129,
+      "en": "Yes, a baker's dozen is 13.",
+      "cn": "是的，“面包师的打”是13。"
+    },
+    {
+      "id": 130,
+      "en": "Do you ask for a baker's dozen, or does the baker say, I'm going to give you the baker's dozen?",
+      "cn": "你是要求“面包师的打”，还是面包师说，我要给你“面包师的打”？"
+    },
+    {
+      "id": 131,
+      "en": "I don't think I've ever asked for it.",
+      "cn": "我想我从来没有要求过。"
+    },
+    {
+      "id": 132,
+      "en": "I think when I've bought bagels, and I say I want a dozen bagels, they give me a baker's dozen.",
+      "cn": "我觉得当我买百吉饼时，我说我想要一打百吉饼，他们给我一个“面包师的打”。"
+    },
+    {
+      "id": 133,
+      "en": "They give me 13.",
+      "cn": "他们给我13个。"
+    },
+    {
+      "id": 134,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 135,
+      "en": "So when you're buying bread, now obviously you don't really buy a dozen sourdough breads.",
+      "cn": "所以当你买面包时，显然你并不是真的买一打酸面包。"
+    },
+    {
+      "id": 136,
+      "en": "You buy a dozen loaves of sourdough bread.",
+      "cn": "你买的是一打酸面包。"
+    },
+    {
+      "id": 137,
+      "en": "So the countable noun here is a loaf of bread.",
+      "cn": "所以这里的可数名词是“一条面包”。"
+    },
+    {
+      "id": 138,
+      "en": "One loaf, two loaves.",
+      "cn": "一条面包，两条面包。"
+    },
+    {
+      "id": 139,
+      "en": "Now this is very interesting, because in English we don't have that many counting words, measure words.",
+      "cn": "现在这很有趣，因为在英语中我们没有那么多计数词，量词。"
+    },
+    {
+      "id": 140,
+      "en": "But for bread, we do actually have this special word.",
+      "cn": "但对于面包，我们确实有这个特殊的词。"
+    },
+    {
+      "id": 141,
+      "en": "So you can say, I would like two loaves of sourdough bread.",
+      "cn": "所以你可以说，我想要两条酸面包。"
+    },
+    {
+      "id": 142,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 143,
+      "en": "And a loaf, or loaves in the plural, what is it exactly?",
+      "cn": "一条面包，或者复数形式的面包，究竟是什么？"
+    },
+    {
+      "id": 144,
+      "en": "It's one big piece.",
+      "cn": "它是一大块。"
+    },
+    {
+      "id": 145,
+      "en": "So for example, you have maybe one little piece of bread.",
+      "cn": "例如，你可能有一小块面包。"
+    },
+    {
+      "id": 146,
+      "en": "It's called a slice.",
+      "cn": "它叫做一片。"
+    },
+    {
+      "id": 147,
+      "en": "That's what you eat.",
+      "cn": "那是你吃的。"
+    },
+    {
+      "id": 148,
+      "en": "But when you buy the bread, you have many, many, many slices together before you cut the bread.",
+      "cn": "但当你买面包时，你有很多很多片在切面包之前。"
+    },
+    {
+      "id": 149,
+      "en": "That's called a loaf.",
+      "cn": "那叫做一条面包。"
+    },
+    {
+      "id": 150,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 151,
+      "en": "So actually this is the reason why the baker, or the person attending the shop, asked if he would like to have the loaf sliced.",
+      "cn": "所以实际上这就是面包师，或者店员，问他是否想要把面包切片的原因。"
+    },
+    {
+      "id": 152,
+      "en": "Would you like the loaf sliced?",
+      "cn": "你想要把面包切片吗？"
+    },
+    {
+      "id": 153,
+      "en": "That means, would you like us to cut pieces of bread from this loaf?",
+      "cn": "这意味着，你想让我们从这条面包上切出几片吗？"
+    },
+    {
+      "id": 154,
+      "en": "Because sliced bread is how you eat it.",
+      "cn": "因为切片的面包是你吃的方式。"
+    },
+    {
+      "id": 155,
+      "en": "Right, exactly.",
+      "cn": "对，确切地说。"
+    },
+    {
+      "id": 156,
+      "en": "You don't really take a whole loaf of bread and start eating it like that.",
+      "cn": "你不会真的拿着一整条面包就这样开始吃。"
+    },
+    {
+      "id": 157,
+      "en": "Like an animal.",
+      "cn": "像动物一样。"
+    },
+    {
+      "id": 158,
+      "en": "No, you cut it into slices.",
+      "cn": "不，你把它切成片。"
+    },
+    {
+      "id": 159,
+      "en": "And so sliced bread, we say, is one option.",
+      "cn": "所以我们说切片的面包是一种选择。"
+    },
+    {
+      "id": 160,
+      "en": "You can also have unsliced, which means when you go home, you cut it yourself.",
+      "cn": "你也可以选择不切，这意味着回家后你自己切。"
+    },
+    {
+      "id": 161,
+      "en": "So this is a very particular word as well, because you have the adjective to have sliced bread, right?",
+      "cn": "所以这也是一个非常特别的词，因为你有形容词“切片的面包”，对吧？"
+    },
+    {
+      "id": 162,
+      "en": "You also have the verb to slice the bread.",
+      "cn": "你还有动词“切面包”。"
+    },
+    {
+      "id": 163,
+      "en": "That means to cut it into slices.",
+      "cn": "这意味着把它切成片。"
+    },
+    {
+      "id": 164,
+      "en": "And of course you have the noun slices of bread.",
+      "cn": "当然你还有名词“面包片”。"
+    },
+    {
+      "id": 165,
+      "en": "So you have the individual pieces.",
+      "cn": "所以你有单独的片。"
+    },
+    {
+      "id": 166,
+      "en": "So it can be a verb, an adjective, and a noun.",
+      "cn": "所以它可以是动词、形容词和名词。"
+    },
+    {
+      "id": 167,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 168,
+      "en": "So it can be a little confusing, but I recommend you all check out the website and practice a little bit in the comments section.",
+      "cn": "所以这可能有点混淆，但我建议你们都去网站上看看，并在评论区练习一下。"
+    },
+    {
+      "id": 169,
+      "en": "All right, good.",
+      "cn": "好的，好的。"
+    },
+    {
+      "id": 170,
+      "en": "So let's take a listen to the dialogue one last time.",
+      "cn": "所以让我们最后再听一遍对话。"
+    },
+    {
+      "id": 171,
+      "en": "Welcome to Al's Bakery.",
+      "cn": "欢迎来到阿尔的面包店。"
+    },
+    {
+      "id": 172,
+      "en": "What can I get you?",
+      "cn": "我能为你做些什么？"
+    },
+    {
+      "id": 173,
+      "en": "Hi, let me get a dozen croissants, four blueberry muffins, and a loaf of sourdough bread.",
+      "cn": "嗨，我要一打可颂，四个蓝莓松饼和一条酸面包。"
+    },
+    {
+      "id": 174,
+      "en": "Sure.",
+      "cn": "当然。"
+    },
+    {
+      "id": 175,
+      "en": "Would you like to have the loaf sliced?",
+      "cn": "你想要把面包切片吗？"
+    },
+    {
+      "id": 176,
+      "en": "No, that's okay.",
+      "cn": "不，没关系。"
+    },
+    {
+      "id": 177,
+      "en": "Do you have any whole wheat bread?",
+      "cn": "你们有全麦面包吗？"
+    },
+    {
+      "id": 178,
+      "en": "Oh, we're out at the moment.",
+      "cn": "哦，我们现在没有。"
+    },
+    {
+      "id": 179,
+      "en": "May I suggest some rye bread?",
+      "cn": "我可以推荐一些黑麦面包吗？"
+    },
+    {
+      "id": 180,
+      "en": "Sure, that sounds good.",
+      "cn": "当然，听起来不错。"
+    },
+    {
+      "id": 181,
+      "en": "Do you have any cakes?",
+      "cn": "你们有蛋糕吗？"
+    },
+    {
+      "id": 182,
+      "en": "We have various birthday cakes and also some ice cream cakes.",
+      "cn": "我们有各种生日蛋糕，还有一些冰淇淋蛋糕。"
+    },
+    {
+      "id": 183,
+      "en": "I'll just take a cheesecake.",
+      "cn": "我就要一个芝士蛋糕。"
+    },
+    {
+      "id": 184,
+      "en": "Will that be all?",
+      "cn": "这就全部吗？"
+    },
+    {
+      "id": 185,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 186,
+      "en": "Your total is $43.20.",
+      "cn": "你的总共是43.20美元。"
+    },
+    {
+      "id": 187,
+      "en": "All right, so speaking about breads now, there is some particular ingredients that we don't mention in the dialogue, obviously, but they're worth mentioning.",
+      "cn": "好的，所以说到面包，现在有一些特别的成分我们在对话中没有提到，显然，但值得一提。"
+    },
+    {
+      "id": 188,
+      "en": "What is the one main characteristic that most breads have?",
+      "cn": "大多数面包的一个主要特征是什么？"
+    },
+    {
+      "id": 189,
+      "en": "Yeast.",
+      "cn": "酵母。"
+    },
+    {
+      "id": 190,
+      "en": "Yeast.",
+      "cn": "酵母。"
+    },
+    {
+      "id": 191,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 192,
+      "en": "Y-E-A-S-T.",
+      "cn": "Y-E-A-S-T。"
+    },
+    {
+      "id": 193,
+      "en": "Yeast.",
+      "cn": "酵母。"
+    },
+    {
+      "id": 194,
+      "en": "And yeast is actually alive.",
+      "cn": "而且酵母实际上是活的。"
+    },
+    {
+      "id": 195,
+      "en": "It's an animal.",
+      "cn": "它是一种动物。"
+    },
+    {
+      "id": 196,
+      "en": "It's like a bacteria.",
+      "cn": "它像细菌一样。"
+    },
+    {
+      "id": 197,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 198,
+      "en": "And so you wonder why are some breads flat and why are some breads big, poofy, large?",
+      "cn": "所以你会想，为什么有些面包是扁平的，而有些面包又大又蓬松？"
+    },
+    {
+      "id": 199,
+      "en": "Well, yeast is why.",
+      "cn": "嗯，酵母就是原因。"
+    },
+    {
+      "id": 200,
+      "en": "Basically, you can't have a big poofy bread, a big, large, tall bread, unless you have this yeast.",
+      "cn": "基本上，除非你有这种酵母，否则你不能做出大而蓬松的面包。"
+    },
+    {
+      "id": 201,
+      "en": "So yeast is what makes the bread rise.",
+      "cn": "所以酵母是让面包发酵的原因。"
+    },
+    {
+      "id": 202,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 203,
+      "en": "And we also mentioned flour, which is basically just a powder made out of some type of grain, usually.",
+      "cn": "我们还提到了面粉，基本上就是由某种谷物制成的粉末，通常是这样。"
+    },
+    {
+      "id": 204,
+      "en": "Yeah, usually it's made out of wheat.",
+      "cn": "是的，通常是由小麦制成的。"
+    },
+    {
+      "id": 205,
+      "en": "Obviously, whole wheat is a little bit different from the white flour, which would be different processed wheat.",
+      "cn": "显然，全麦和白面粉有点不同，白面粉是经过不同加工的小麦。"
+    },
+    {
+      "id": 206,
+      "en": "But we also have different things that you can even have rice flour.",
+      "cn": "但我们也有不同的东西，比如米粉。"
+    },
+    {
+      "id": 207,
+      "en": "Right, corn flour.",
+      "cn": "对，玉米粉。"
+    },
+    {
+      "id": 208,
+      "en": "Corn flour.",
+      "cn": "玉米粉。"
+    },
+    {
+      "id": 209,
+      "en": "So corn bread would be, of course, yellow because corn is yellow.",
+      "cn": "所以玉米面包当然是黄色的，因为玉米是黄色的。"
+    },
+    {
+      "id": 210,
+      "en": "Now, so you can hear that we say the word flour, like a Rose is a flower, but it's actually spelled different.",
+      "cn": "现在，你可以听到我们说“面粉”这个词，就像“玫瑰是花”，但它的拼写是不同的。"
+    },
+    {
+      "id": 211,
+      "en": "F-L-O-U-R, flour.",
+      "cn": "F-L-O-U-R，面粉。"
+    },
+    {
+      "id": 212,
+      "en": "So there's two different things.",
+      "cn": "所以有两种不同的东西。"
+    },
+    {
+      "id": 213,
+      "en": "There's flowers in your garden, and there's flour, F-L-O-U-R, which is something you can cook with.",
+      "cn": "你花园里的花和可以用来烹饪的面粉，F-L-O-U-R。"
+    },
+    {
+      "id": 214,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 215,
+      "en": "These are called homophones.",
+      "cn": "这些被称为同音词。"
+    },
+    {
+      "id": 216,
+      "en": "So they basically have the same pronunciation, but very different spellings.",
+      "cn": "所以它们基本上发音相同，但拼写非常不同。"
+    },
+    {
+      "id": 217,
+      "en": "And very different meanings.",
+      "cn": "意义也非常不同。"
+    },
+    {
+      "id": 218,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 219,
+      "en": "So a very interesting lesson for us today.",
+      "cn": "今天对我们来说是一个非常有趣的课程。"
+    },
+    {
+      "id": 220,
+      "en": "Go out, get some bread, try some of these if you have them available, but also come to the questions and comments section and tell us about maybe your local bread.",
+      "cn": "出去，买些面包，如果有的话尝试一下，但也来问答和评论区告诉我们你当地的面包。"
+    },
+    {
+      "id": 221,
+      "en": "I know that many countries around the world have very specific types of bread.",
+      "cn": "我知道世界上许多国家都有非常特定类型的面包。"
+    },
+    {
+      "id": 222,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 223,
+      "en": "Write some names down for us, send us your pictures, and we'll see you on the website.",
+      "cn": "写下几个名字，给我们发你的照片，我们在网站上见。"
+    },
+    {
+      "id": 224,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 225,
+      "en": "Bye, guys.",
+      "cn": "再见，大家。"
+    },
+    {
+      "id": 226,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

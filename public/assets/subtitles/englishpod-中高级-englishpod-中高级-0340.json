@@ -1,0 +1,909 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0340",
+  "title": "EnglishPod 中高级 0340",
+  "totalSegments": 180,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and it's the start of a very new year, so we have some interesting vocabulary for you today about the new year.",
+      "cn": "我叫Catherine，新的年份开始了，所以我们今天有一些关于新年的有趣词汇。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "So, we are starting a new year.",
+      "cn": "所以，我们开始了新的一年。"
+    },
+    {
+      "id": 6,
+      "en": "Why don't we just jump right into this dialogue.",
+      "cn": "我们直接进入对话吧。"
+    },
+    {
+      "id": 7,
+      "en": "Let's see what's going on, and we'll be back in a bit.",
+      "cn": "让我们看看发生了什么，稍后再回来。"
+    },
+    {
+      "id": 8,
+      "en": "It's almost midnight.",
+      "cn": "快到午夜了。"
+    },
+    {
+      "id": 9,
+      "en": "We're about to start a brand new year.",
+      "cn": "我们即将开始崭新的一年。"
+    },
+    {
+      "id": 10,
+      "en": "I know, it's so exciting.",
+      "cn": "我知道，太令人兴奋了。"
+    },
+    {
+      "id": 11,
+      "en": "A new year is always like a clean slate.",
+      "cn": "新年总是像一张白纸。"
+    },
+    {
+      "id": 12,
+      "en": "A fresh start to accomplish any dreams, objectives, and goals.",
+      "cn": "一个新的开始，实现任何梦想、目标和计划。"
+    },
+    {
+      "id": 13,
+      "en": "Do you have a new year's resolution?",
+      "cn": "你有新年决心吗？"
+    },
+    {
+      "id": 14,
+      "en": "I was thinking about it, but I'm never able to keep my new year's resolutions.",
+      "cn": "我在考虑，但我从来无法坚持我的新年决心。"
+    },
+    {
+      "id": 15,
+      "en": "Last year, for example, I joined a gym and only went twice.",
+      "cn": "比如去年，我加入了健身房，只去了两次。"
+    },
+    {
+      "id": 16,
+      "en": "Yeah, I know what you mean.",
+      "cn": "是的，我知道你的意思。"
+    },
+    {
+      "id": 17,
+      "en": "That's why this year I am keeping things more simple.",
+      "cn": "所以今年我会简单一点。"
+    },
+    {
+      "id": 18,
+      "en": "Maybe like getting together with friends I haven't seen in a long time, or doing some volunteering work.",
+      "cn": "也许是和很久没见的朋友聚会，或者做一些志愿者工作。"
+    },
+    {
+      "id": 19,
+      "en": "That seems reasonable.",
+      "cn": "听起来合理。"
+    },
+    {
+      "id": 20,
+      "en": "We should get together and watch the ball drop in Times Square.",
+      "cn": "我们应该聚在一起看时代广场的倒计时。"
+    },
+    {
+      "id": 21,
+      "en": "Sure, as long as you don't try to kiss me at midnight.",
+      "cn": "当然，只要你不在午夜亲吻我。"
+    },
+    {
+      "id": 22,
+      "en": "Well, we can't break tradition.",
+      "cn": "嗯，我们不能打破传统。"
+    },
+    {
+      "id": 23,
+      "en": "It's bad luck!",
+      "cn": "这会带来厄运！"
+    },
+    {
+      "id": 24,
+      "en": "Alright, so we've prepared a couple of different words for you on language takeaway.",
+      "cn": "好吧，我们为你准备了一些不同的词汇作为语言收获。"
+    },
+    {
+      "id": 25,
+      "en": "Language takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 26,
+      "en": "Alright, the first word we have is actually a phrase.",
+      "cn": "好吧，第一个词实际上是一个短语。"
+    },
+    {
+      "id": 27,
+      "en": "We have this phrase, brand new.",
+      "cn": "我们有这个短语，崭新。"
+    },
+    {
+      "id": 28,
+      "en": "Something is a brand new thing.",
+      "cn": "某物是崭新的。"
+    },
+    {
+      "id": 29,
+      "en": "That's right, we said that we are starting a brand new year.",
+      "cn": "没错，我们说我们开始了崭新的一年。"
+    },
+    {
+      "id": 30,
+      "en": "And that's just another way of saying completely new.",
+      "cn": "这只是说完全新的另一种方式。"
+    },
+    {
+      "id": 31,
+      "en": "So, I want a brand new bicycle.",
+      "cn": "所以，我想要一辆崭新的自行车。"
+    },
+    {
+      "id": 32,
+      "en": "It means I want a new bicycle from the store, not one from the garage.",
+      "cn": "这意味着我想要一辆商店里的新自行车，而不是车库里的。"
+    },
+    {
+      "id": 33,
+      "en": "That's right, so it's something completely new, never been used.",
+      "cn": "没错，所以这是完全新的，从未使用过。"
+    },
+    {
+      "id": 34,
+      "en": "So we're starting a brand new year and we're saying it's exciting because it's a great opportunity like having a clean slate.",
+      "cn": "所以我们开始了崭新的一年，我们说这令人兴奋，因为这是一个像白纸一样的好机会。"
+    },
+    {
+      "id": 35,
+      "en": "So a clean slate.",
+      "cn": "所以一张白纸。"
+    },
+    {
+      "id": 36,
+      "en": "Now this is an interesting phrase because you might not know what a slate is.",
+      "cn": "现在这是一个有趣的短语，因为你可能不知道白板是什么。"
+    },
+    {
+      "id": 37,
+      "en": "But basically it means that you start from the very beginning.",
+      "cn": "但基本上它意味着你从头开始。"
+    },
+    {
+      "id": 38,
+      "en": "So there's no history, there's nothing that you have to worry about.",
+      "cn": "所以没有历史，没有你需要担心的事情。"
+    },
+    {
+      "id": 39,
+      "en": "You start completely new.",
+      "cn": "你完全是新的开始。"
+    },
+    {
+      "id": 40,
+      "en": "That's a clean slate.",
+      "cn": "这就是一张白纸。"
+    },
+    {
+      "id": 41,
+      "en": "That's right, so just imagine you're in class and you have the whiteboard or the chalkboard.",
+      "cn": "没错，所以想象一下你在课堂上，有白板或黑板。"
+    },
+    {
+      "id": 42,
+      "en": "And you just erase everything and then you start again.",
+      "cn": "你把所有东西都擦掉，然后重新开始。"
+    },
+    {
+      "id": 43,
+      "en": "That's kind of what it means to have a clean slate, a new start.",
+      "cn": "这就是拥有一张白纸、新开始的意思。"
+    },
+    {
+      "id": 44,
+      "en": "Exactly, and so we have a clean slate, we need to talk about what we will do with the clean slate.",
+      "cn": "正是如此，所以我们有一张白纸，我们需要讨论我们将如何利用这张白纸。"
+    },
+    {
+      "id": 45,
+      "en": "And so one person asks the other, do you have any new year's resolutions?",
+      "cn": "所以一个人问另一个人，你有新年决心吗？"
+    },
+    {
+      "id": 46,
+      "en": "That's right, so this is one of the most popular things during the new year's is people make a new year's resolution.",
+      "cn": "没错，所以在新年期间最流行的事情之一就是人们制定新年决心。"
+    },
+    {
+      "id": 47,
+      "en": "So a resolution is something that you have decided you will do.",
+      "cn": "所以决心是你决定要做的事情。"
+    },
+    {
+      "id": 48,
+      "en": "I have many resolutions.",
+      "cn": "我有很多决心。"
+    },
+    {
+      "id": 49,
+      "en": "I will learn to play the piano this year.",
+      "cn": "今年我会学习弹钢琴。"
+    },
+    {
+      "id": 50,
+      "en": "So in the new year I will do this thing.",
+      "cn": "所以在新年我会做这件事。"
+    },
+    {
+      "id": 51,
+      "en": "That's right, so it's basically like a promise, something that you promise yourself that you will do in the new year.",
+      "cn": "没错，所以这基本上就像一个承诺，承诺自己在新年要做的事情。"
+    },
+    {
+      "id": 52,
+      "en": "So as you say, maybe start playing the piano.",
+      "cn": "所以你说，也许开始弹钢琴。"
+    },
+    {
+      "id": 53,
+      "en": "That's right, so we call that a resolution or if we want to be specific we call it a new year's resolution.",
+      "cn": "没错，所以我们称之为决心，或者如果我们想具体一点，我们称之为新年决心。"
+    },
+    {
+      "id": 54,
+      "en": "Now at the very end of the dialogue we heard another phrase, this is quite strange.",
+      "cn": "现在在对话的最后，我们听到了另一个短语，这很奇怪。"
+    },
+    {
+      "id": 55,
+      "en": "They want to kiss at midnight and the one person says, well, we can't break tradition.",
+      "cn": "他们想在午夜亲吻，而一个人说，嗯，我们不能打破传统。"
+    },
+    {
+      "id": 56,
+      "en": "That's right, to break a tradition or to break tradition.",
+      "cn": "没错，打破传统或打破传统。"
+    },
+    {
+      "id": 57,
+      "en": "And that basically means to not do something that we usually do.",
+      "cn": "这基本上意味着不做我们通常会做的事情。"
+    },
+    {
+      "id": 58,
+      "en": "All right, so you can follow tradition.",
+      "cn": "好吧，所以你可以遵循传统。"
+    },
+    {
+      "id": 59,
+      "en": "That means that you do the same thing maybe every year.",
+      "cn": "这意味着你每年可能都做同样的事情。"
+    },
+    {
+      "id": 60,
+      "en": "But if you break tradition that means you don't do what you are expected to do.",
+      "cn": "但如果你打破传统，那就意味着你不做你被期望做的事情。"
+    },
+    {
+      "id": 61,
+      "en": "So remember that verb is to break, break tradition.",
+      "cn": "所以记住那个动词是打破，打破传统。"
+    },
+    {
+      "id": 62,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 63,
+      "en": "All right, so let's review this vocab.",
+      "cn": "好吧，让我们复习一下这些词汇。"
+    },
+    {
+      "id": 64,
+      "en": "Let's listen to the dialogue again.",
+      "cn": "让我们再听一遍对话。"
+    },
+    {
+      "id": 65,
+      "en": "It's almost midnight.",
+      "cn": "快到午夜了。"
+    },
+    {
+      "id": 66,
+      "en": "We're about to start a brand new year.",
+      "cn": "我们即将开始崭新的一年。"
+    },
+    {
+      "id": 67,
+      "en": "I know, it's so exciting.",
+      "cn": "我知道，太令人兴奋了。"
+    },
+    {
+      "id": 68,
+      "en": "A new year is always like a clean slate.",
+      "cn": "新年总是像一张白纸。"
+    },
+    {
+      "id": 69,
+      "en": "A fresh start to accomplish any dreams, objectives and goals.",
+      "cn": "一个新的开始，实现任何梦想、目标和计划。"
+    },
+    {
+      "id": 70,
+      "en": "Do you have a new year's resolution?",
+      "cn": "你有新年决心吗？"
+    },
+    {
+      "id": 71,
+      "en": "I was thinking about it, but I'm never able to keep my new year's resolutions.",
+      "cn": "我在考虑，但我从来无法坚持我的新年决心。"
+    },
+    {
+      "id": 72,
+      "en": "Last year, for example, I joined a gym and only went twice.",
+      "cn": "比如去年，我加入了健身房，只去了两次。"
+    },
+    {
+      "id": 73,
+      "en": "Yeah, I know what you mean.",
+      "cn": "是的，我知道你的意思。"
+    },
+    {
+      "id": 74,
+      "en": "That's why this year I am keeping things more simple.",
+      "cn": "所以今年我会简单一点。"
+    },
+    {
+      "id": 75,
+      "en": "Maybe like getting together with friends I haven't seen in a long time or doing some volunteering work.",
+      "cn": "也许是和很久没见的朋友聚会，或者做一些志愿者工作。"
+    },
+    {
+      "id": 76,
+      "en": "That seems reasonable.",
+      "cn": "听起来合理。"
+    },
+    {
+      "id": 77,
+      "en": "We should get together and watch the ball drop in Times Square.",
+      "cn": "我们应该聚在一起看时代广场的倒计时。"
+    },
+    {
+      "id": 78,
+      "en": "Sure, as long as you don't try to kiss me at midnight.",
+      "cn": "当然，只要你不在午夜亲吻我。"
+    },
+    {
+      "id": 79,
+      "en": "Well, we can't break tradition.",
+      "cn": "嗯，我们不能打破传统。"
+    },
+    {
+      "id": 80,
+      "en": "It's bad luck.",
+      "cn": "这会带来厄运。"
+    },
+    {
+      "id": 81,
+      "en": "All right, so let's take a look at those phrases now on Fluency Builder.",
+      "cn": "好吧，现在让我们看看这些短语在流利度提升器上的表现。"
+    },
+    {
+      "id": 82,
+      "en": "So there's a phrase in here that I use all the time.",
+      "cn": "这里有一个我一直使用的短语。"
+    },
+    {
+      "id": 83,
+      "en": "We heard about this resolution to go to the gym more often.",
+      "cn": "我们听到了这个决心，去健身房更频繁。"
+    },
+    {
+      "id": 84,
+      "en": "And the person said, you know, I never really go to the gym.",
+      "cn": "那个人说，你知道，我从来不去健身房。"
+    },
+    {
+      "id": 85,
+      "en": "And the other said, you know, I know what you mean.",
+      "cn": "另一个人说，你知道，我知道你的意思。"
+    },
+    {
+      "id": 86,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 87,
+      "en": "She says, yeah, I know what you mean.",
+      "cn": "她说，是的，我知道你的意思。"
+    },
+    {
+      "id": 88,
+      "en": "And so basically we use this when you agree with the person, you understand what they are saying.",
+      "cn": "所以基本上我们在同意对方时使用这个短语，你理解他们在说什么。"
+    },
+    {
+      "id": 89,
+      "en": "Yeah, it's almost like saying I had the same experience.",
+      "cn": "是的，这几乎就像说我有同样的经历。"
+    },
+    {
+      "id": 90,
+      "en": "So maybe I also belong to a gym and I never go to that gym, just like you.",
+      "cn": "所以也许我也属于一个健身房，我从来不去那个健身房，就像你一样。"
+    },
+    {
+      "id": 91,
+      "en": "So it means I know what you mean.",
+      "cn": "所以这意味着我知道你的意思。"
+    },
+    {
+      "id": 92,
+      "en": "I have the same problem.",
+      "cn": "我有同样的问题。"
+    },
+    {
+      "id": 93,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 94,
+      "en": "So you can just agree with someone, completely agree with someone by saying, yeah, I know what you mean or I know what you mean.",
+      "cn": "所以你可以通过说，是的，我知道你的意思，完全同意某人。"
+    },
+    {
+      "id": 95,
+      "en": "I know what you mean.",
+      "cn": "我知道你的意思。"
+    },
+    {
+      "id": 96,
+      "en": "All right, so, well, this year we want to keep things a little bit more simple.",
+      "cn": "好吧，所以，今年我们想保持事情简单一点。"
+    },
+    {
+      "id": 97,
+      "en": "And we said, well, maybe like getting together with friends I haven't seen in a long time.",
+      "cn": "我们说，嗯，也许是和很久没见的朋友聚会。"
+    },
+    {
+      "id": 98,
+      "en": "All right, so think about this.",
+      "cn": "好吧，所以想想这个。"
+    },
+    {
+      "id": 99,
+      "en": "To get together with friends.",
+      "cn": "和朋友聚会。"
+    },
+    {
+      "id": 100,
+      "en": "Lots of words there, but you can see friends.",
+      "cn": "词汇很多，但你可以看到朋友。"
+    },
+    {
+      "id": 101,
+      "en": "But to get together means to be social with, to hang out with, to do things together.",
+      "cn": "但聚会意味着社交、闲逛、一起做事情。"
+    },
+    {
+      "id": 102,
+      "en": "But it's not very specific.",
+      "cn": "但这并不具体。"
+    },
+    {
+      "id": 103,
+      "en": "It's a nice way to say just to be with your friends.",
+      "cn": "这是一种说法，就是和朋友在一起。"
+    },
+    {
+      "id": 104,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 105,
+      "en": "So maybe you are going with your friends out.",
+      "cn": "所以也许你和朋友一起出去。"
+    },
+    {
+      "id": 106,
+      "en": "Maybe shopping, maybe to the movies.",
+      "cn": "也许是购物，或者去看电影。"
+    },
+    {
+      "id": 107,
+      "en": "So you say, yeah, I'm going to get together with my friends later on this afternoon.",
+      "cn": "所以你说，是的，我今天下午要和朋友聚会。"
+    },
+    {
+      "id": 108,
+      "en": "All right, so we can get together with friends as a resolution.",
+      "cn": "好的，所以我们可以把和朋友聚会作为一个决心。"
+    },
+    {
+      "id": 109,
+      "en": "That's something we want to do in the near future.",
+      "cn": "这是我们想在不久的将来做的事情。"
+    },
+    {
+      "id": 110,
+      "en": "But for now we're going to get together and watch the ball drop in Times Square.",
+      "cn": "但现在我们要一起看时代广场的降球。"
+    },
+    {
+      "id": 111,
+      "en": "That's the New Year's plan.",
+      "cn": "这就是新年计划。"
+    },
+    {
+      "id": 112,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 113,
+      "en": "So it may seem strange.",
+      "cn": "所以这可能看起来很奇怪。"
+    },
+    {
+      "id": 114,
+      "en": "It's not actually a phrasal verb or a colloquial phrase.",
+      "cn": "这实际上不是一个短语动词或口语表达。"
+    },
+    {
+      "id": 115,
+      "en": "There is actually a ball that goes down as the countdown begins to midnight.",
+      "cn": "实际上有一个球在倒计时到午夜时下降。"
+    },
+    {
+      "id": 116,
+      "en": "And once it completely disappears, then you celebrate the New Year.",
+      "cn": "一旦它完全消失，你就庆祝新年。"
+    },
+    {
+      "id": 117,
+      "en": "So you actually see this big round ball coming down in Times Square.",
+      "cn": "所以你实际上会看到这个大圆球在时代广场下降。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, it's a way to count down to the New Year.",
+      "cn": "是的，这是一种倒计时迎接新年的方式。"
+    },
+    {
+      "id": 119,
+      "en": "So people often say ten, nine, eight, seven to the countdown.",
+      "cn": "所以人们通常会说十、九、八、七来倒计时。"
+    },
+    {
+      "id": 120,
+      "en": "And the ball will drop, and that means it's the New Year.",
+      "cn": "然后球会下降，这意味着新年到了。"
+    },
+    {
+      "id": 121,
+      "en": "So this is something that we refer to.",
+      "cn": "所以这是我们提到的事情。"
+    },
+    {
+      "id": 122,
+      "en": "It's something we talk about when we want to discuss the New Year.",
+      "cn": "这是我们在讨论新年时会谈到的事情。"
+    },
+    {
+      "id": 123,
+      "en": "So we'll watch the ball drop together.",
+      "cn": "所以我们会一起看球降。"
+    },
+    {
+      "id": 124,
+      "en": "It's an event.",
+      "cn": "这是一个活动。"
+    },
+    {
+      "id": 125,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, so a lot of great stuff there.",
+      "cn": "好的，这里有很多精彩的内容。"
+    },
+    {
+      "id": 127,
+      "en": "Why don't we listen to the dialogue one last time.",
+      "cn": "我们再听一次对话吧。"
+    },
+    {
+      "id": 128,
+      "en": "It's almost midnight.",
+      "cn": "快到午夜了。"
+    },
+    {
+      "id": 129,
+      "en": "We're about to start a brand new year.",
+      "cn": "我们即将开始一个全新的年。"
+    },
+    {
+      "id": 130,
+      "en": "I know, it's so exciting.",
+      "cn": "我知道，这太令人兴奋了。"
+    },
+    {
+      "id": 131,
+      "en": "A new year is always like a clean slate.",
+      "cn": "新年总是像一张白纸。"
+    },
+    {
+      "id": 132,
+      "en": "A fresh start to accomplish any dreams, objectives, and goals.",
+      "cn": "一个新的开始，实现任何梦想、目标和计划。"
+    },
+    {
+      "id": 133,
+      "en": "Do you have a New Year's resolution?",
+      "cn": "你有新年决心吗？"
+    },
+    {
+      "id": 134,
+      "en": "I was thinking about it, but I'm never able to keep my New Year's resolutions.",
+      "cn": "我在考虑，但我从来无法坚持我的新年决心。"
+    },
+    {
+      "id": 135,
+      "en": "Last year, for example, I joined a gym and only went twice.",
+      "cn": "例如，去年我加入了健身房，只去了两次。"
+    },
+    {
+      "id": 136,
+      "en": "Yeah, I know what you mean.",
+      "cn": "是的，我知道你的意思。"
+    },
+    {
+      "id": 137,
+      "en": "That's why this year I am keeping things more simple.",
+      "cn": "所以今年我让事情简单一点。"
+    },
+    {
+      "id": 138,
+      "en": "Maybe like getting together with friends I haven't seen in a long time, or doing some volunteering work.",
+      "cn": "也许是和很久没见的朋友聚会，或者做一些志愿工作。"
+    },
+    {
+      "id": 139,
+      "en": "That seems reasonable.",
+      "cn": "这听起来合理。"
+    },
+    {
+      "id": 140,
+      "en": "We should get together and watch the ball drop in Times Square.",
+      "cn": "我们应该聚在一起，看时代广场的降球。"
+    },
+    {
+      "id": 141,
+      "en": "Sure, as long as you don't try to kiss me at midnight.",
+      "cn": "当然，只要你在午夜时不要试图吻我。"
+    },
+    {
+      "id": 142,
+      "en": "Well, we can't break tradition.",
+      "cn": "好吧，我们不能打破传统。"
+    },
+    {
+      "id": 143,
+      "en": "It's bad luck.",
+      "cn": "这是不吉利的。"
+    },
+    {
+      "id": 144,
+      "en": "Alright, so talking about New Year's, everyone makes New Year's resolutions.",
+      "cn": "好吧，谈到新年，每个人都会制定新年决心。"
+    },
+    {
+      "id": 145,
+      "en": "And people get together to watch the ball drop in Times Square.",
+      "cn": "人们聚在一起观看时代广场的降球。"
+    },
+    {
+      "id": 146,
+      "en": "Now this is more of an American thing.",
+      "cn": "这更像是美国的事情。"
+    },
+    {
+      "id": 147,
+      "en": "Have you ever experienced anything different from New Year's?",
+      "cn": "你有没有经历过与新年不同的事情？"
+    },
+    {
+      "id": 148,
+      "en": "Some other type of tradition?",
+      "cn": "其他类型的传统？"
+    },
+    {
+      "id": 149,
+      "en": "Because also here, they kiss at midnight.",
+      "cn": "因为在这里，他们在午夜时会亲吻。"
+    },
+    {
+      "id": 150,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 151,
+      "en": "Well, that's a pretty standard American tradition.",
+      "cn": "嗯，这是一个相当标准的美国传统。"
+    },
+    {
+      "id": 152,
+      "en": "People will get together and they'll have the TV on.",
+      "cn": "人们会聚在一起，打开电视。"
+    },
+    {
+      "id": 153,
+      "en": "They'll have a party or they'll be with friends.",
+      "cn": "他们会开派对，或者和朋友在一起。"
+    },
+    {
+      "id": 154,
+      "en": "And they will maybe watch some fireworks or watch the TV as the ball drops.",
+      "cn": "他们可能会观看烟花，或者在球降时看电视。"
+    },
+    {
+      "id": 155,
+      "en": "So I've done both.",
+      "cn": "所以我都经历过。"
+    },
+    {
+      "id": 156,
+      "en": "I've gone out.",
+      "cn": "我出去过。"
+    },
+    {
+      "id": 157,
+      "en": "Because sometimes you go outside, it's very cold, but you go to a bridge or a park or somewhere public where the city government or the state will have some kind of special fireworks display.",
+      "cn": "因为有时你出去，天气很冷，但你会去桥上、公园或城市政府或州会有特别烟花表演的公共场所。"
+    },
+    {
+      "id": 158,
+      "en": "So then everyone will watch the fireworks or watch a big TV screen and then when it's midnight, when it's the New Year, then everyone will kiss.",
+      "cn": "所以大家会观看烟花，或者看大屏幕，然后在午夜时，新年到来时，大家会亲吻。"
+    },
+    {
+      "id": 159,
+      "en": "So everyone will kiss maybe...",
+      "cn": "所以大家会亲吻，也许..."
+    },
+    {
+      "id": 160,
+      "en": "I mean, is it just between couples or whoever's available, you kiss whoever's there?",
+      "cn": "我的意思是，这只是情侣之间，还是随便谁都可以亲吻？"
+    },
+    {
+      "id": 161,
+      "en": "Sometimes it's whoever is available.",
+      "cn": "有时是随便谁。"
+    },
+    {
+      "id": 162,
+      "en": "That's happened to me.",
+      "cn": "这发生在我身上。"
+    },
+    {
+      "id": 163,
+      "en": "Where you turn around and you say, oh, hi, I don't know you.",
+      "cn": "你转过身说，哦，嗨，我不认识你。"
+    },
+    {
+      "id": 164,
+      "en": "So the tradition is you have to kiss someone at midnight.",
+      "cn": "所以传统是你必须在午夜时亲吻某人。"
+    },
+    {
+      "id": 165,
+      "en": "So this is for good luck?",
+      "cn": "这是为了好运吗？"
+    },
+    {
+      "id": 166,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 167,
+      "en": "For good luck in the New Year?",
+      "cn": "为了新年的好运？"
+    },
+    {
+      "id": 168,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 169,
+      "en": "So if you don't kiss someone, then you're kind of breaking the tradition.",
+      "cn": "所以如果你不亲吻某人，你就有点打破了传统。"
+    },
+    {
+      "id": 170,
+      "en": "And it's unlucky.",
+      "cn": "这是不吉利的。"
+    },
+    {
+      "id": 171,
+      "en": "An interesting way of celebrating New Year's.",
+      "cn": "一种有趣的庆祝新年的方式。"
+    },
+    {
+      "id": 172,
+      "en": "This is, as we said, in the United States, watching the ball drop, kissing someone at midnight.",
+      "cn": "这就是我们所说的，在美国，观看降球，在午夜亲吻某人。"
+    },
+    {
+      "id": 173,
+      "en": "So we are really curious to know how you celebrate your New Year's in your country because maybe you have similar traditions or very different things.",
+      "cn": "所以我们真的很想知道你在你的国家是如何庆祝新年的，因为也许你有类似的传统或非常不同的事情。"
+    },
+    {
+      "id": 174,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 175,
+      "en": "And I know some places like Italy even have special foods you are supposed to eat to bring wealth and prosperity in the New Year.",
+      "cn": "我知道一些地方，比如意大利，甚至有特别的食物，你应该吃来带来财富和繁荣。"
+    },
+    {
+      "id": 176,
+      "en": "So let us know.",
+      "cn": "所以让我们知道。"
+    },
+    {
+      "id": 177,
+      "en": "Our website is EnglishPod.com.",
+      "cn": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 178,
+      "en": "Alright, we'll see you guys there.",
+      "cn": "好吧，我们在那里见。"
+    },
+    {
+      "id": 179,
+      "en": "Bye.",
+      "cn": "再见。"
+    },
+    {
+      "id": 180,
+      "en": "See you next time.",
+      "cn": "下次见。"
+    }
+  ]
+}

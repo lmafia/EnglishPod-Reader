@@ -1,0 +1,1394 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0233",
+  "title": "EnglishPod 中高级 0233",
+  "totalSegments": 277,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we've got an upper intermediate level lesson for you all about money.",
+      "cn": "我叫Catherine，今天我们有一节关于金钱的中高级课程。"
+    },
+    {
+      "id": 4,
+      "en": "That's right, we are trading money.",
+      "cn": "没错，我们在交易金钱。"
+    },
+    {
+      "id": 5,
+      "en": "We're actually negotiating in this very popular topic nowadays, the whole foreign exchange market.",
+      "cn": "我们实际上在谈论这个如今非常热门的话题，整个外汇市场。"
+    },
+    {
+      "id": 6,
+      "en": "Okay, so we're talking about currency, which is the money of different countries.",
+      "cn": "好的，我们在谈论货币，也就是不同国家的金钱。"
+    },
+    {
+      "id": 7,
+      "en": "For example, the currency of Ecuador is?",
+      "cn": "例如，厄瓜多尔的货币是？"
+    },
+    {
+      "id": 8,
+      "en": "The US dollar.",
+      "cn": "美元。"
+    },
+    {
+      "id": 9,
+      "en": "Yeah, yeah, hard to believe, but true.",
+      "cn": "是的，没错，难以置信，但确实如此。"
+    },
+    {
+      "id": 10,
+      "en": "I'll tell you all about it later.",
+      "cn": "我稍后会告诉你们所有的事情。"
+    },
+    {
+      "id": 11,
+      "en": "Okay, well, the currency of America is also the US dollar, so with that in mind, let's listen to today's dialogue.",
+      "cn": "好吧，美国的货币也是美元，所以考虑到这一点，让我们来听今天的对话。"
+    },
+    {
+      "id": 12,
+      "en": "Hey, John.",
+      "cn": "嘿，John。"
+    },
+    {
+      "id": 13,
+      "en": "I haven't seen you in ages.",
+      "cn": "我好久没见你了。"
+    },
+    {
+      "id": 14,
+      "en": "What's new?",
+      "cn": "最近怎么样？"
+    },
+    {
+      "id": 15,
+      "en": "What have you been up to?",
+      "cn": "你在忙什么？"
+    },
+    {
+      "id": 16,
+      "en": "Pete, nice to see you.",
+      "cn": "Pete，很高兴见到你。"
+    },
+    {
+      "id": 17,
+      "en": "Well, on top of the norm, you know, life and kids and work, I've actually gotten into doing some trading.",
+      "cn": "嗯，除了日常生活、孩子和工作，我实际上开始做一些交易。"
+    },
+    {
+      "id": 18,
+      "en": "Trading?",
+      "cn": "交易？"
+    },
+    {
+      "id": 19,
+      "en": "You, big guy?",
+      "cn": "你，老兄？"
+    },
+    {
+      "id": 20,
+      "en": "What are you trading?",
+      "cn": "你在交易什么？"
+    },
+    {
+      "id": 21,
+      "en": "Currencies.",
+      "cn": "货币。"
+    },
+    {
+      "id": 22,
+      "en": "Currencies?",
+      "cn": "货币？"
+    },
+    {
+      "id": 23,
+      "en": "As in Euros, dollars, pounds and rupees?",
+      "cn": "是指欧元、美元、英镑和卢比吗？"
+    },
+    {
+      "id": 24,
+      "en": "It's called Forex, foreign exchange.",
+      "cn": "这叫外汇，外汇交易。"
+    },
+    {
+      "id": 25,
+      "en": "The great thing about it is that I don't have to invest a huge amount.",
+      "cn": "这件事的好处是我不需要投资大量资金。"
+    },
+    {
+      "id": 26,
+      "en": "I put in a margin deposit and then I can buy and sell up to a hundred times that much.",
+      "cn": "我投入保证金，然后可以买卖多达一百倍的金额。"
+    },
+    {
+      "id": 27,
+      "en": "I don't understand.",
+      "cn": "我不明白。"
+    },
+    {
+      "id": 28,
+      "en": "You're buying and selling money?",
+      "cn": "你是在买卖钱吗？"
+    },
+    {
+      "id": 29,
+      "en": "You got it.",
+      "cn": "没错。"
+    },
+    {
+      "id": 30,
+      "en": "Just last night, I made 150 US dollars.",
+      "cn": "就在昨晚，我赚了150美元。"
+    },
+    {
+      "id": 31,
+      "en": "Last night?",
+      "cn": "昨晚？"
+    },
+    {
+      "id": 32,
+      "en": "Yeah, it's a 24-hour market.",
+      "cn": "是的，这是一个24小时的市场。"
+    },
+    {
+      "id": 33,
+      "en": "I bought some MMB earlier at a low asking price, but last night it appreciated drastically.",
+      "cn": "我之前以低价买了一些MMB，但昨晚它大幅升值。"
+    },
+    {
+      "id": 34,
+      "en": "So, I made a split-second decision and sold all of my RMB at an amazing bid.",
+      "cn": "所以，我做了一个瞬间的决定，卖掉了我所有的人民币，得到了一个惊人的报价。"
+    },
+    {
+      "id": 35,
+      "en": "I've also done some trading with Swiss francs and Australian dollars and Hong Kong dollars.",
+      "cn": "我还做了一些瑞士法郎、澳大利亚美元和港币的交易。"
+    },
+    {
+      "id": 36,
+      "en": "I've made some good profits, but I've also suffered some losses.",
+      "cn": "我赚了一些不错的利润，但也遭受了一些损失。"
+    },
+    {
+      "id": 37,
+      "en": "Depends on a lot of factors, just like any other market.",
+      "cn": "这取决于很多因素，就像其他市场一样。"
+    },
+    {
+      "id": 38,
+      "en": "In total, I've made about 500 US dollars in the past few months.",
+      "cn": "总的来说，我在过去几个月赚了大约500美元。"
+    },
+    {
+      "id": 39,
+      "en": "You're kidding.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 40,
+      "en": "I'm on.",
+      "cn": "我是认真的。"
+    },
+    {
+      "id": 41,
+      "en": "Where do I sign up?",
+      "cn": "我在哪里注册？"
+    },
+    {
+      "id": 42,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 43,
+      "en": "So, this guy is trading currencies as we heard.",
+      "cn": "所以，这家伙在交易货币，正如我们所听到的。"
+    },
+    {
+      "id": 44,
+      "en": "And well, we're going to talk about a lot of the specific vocab that he used about this topic.",
+      "cn": "我们将讨论他在这个话题上使用的许多具体词汇。"
+    },
+    {
+      "id": 45,
+      "en": "So, why don't we take a look at some of those now in Language Takeaway.",
+      "cn": "那么，为什么我们不现在看看一些这些词汇呢，在语言收获中。"
+    },
+    {
+      "id": 46,
+      "en": "Language Takeaway.",
+      "cn": "语言收获。"
+    },
+    {
+      "id": 47,
+      "en": "Well, the first thing I think we should talk about is one of the first things that he says actually.",
+      "cn": "嗯，我认为我们应该谈论的第一件事是他实际上说的第一件事。"
+    },
+    {
+      "id": 48,
+      "en": "Peter says, I haven't seen you in ages.",
+      "cn": "Peter说，我好久没见你了。"
+    },
+    {
+      "id": 49,
+      "en": "I haven't seen you in ages.",
+      "cn": "我好久没见你了。"
+    },
+    {
+      "id": 50,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 51,
+      "en": "So, obviously, he hasn't seen him in a long time.",
+      "cn": "所以，显然，他很久没见到他了。"
+    },
+    {
+      "id": 52,
+      "en": "And that's what in ages means.",
+      "cn": "这就是“in ages”的意思。"
+    },
+    {
+      "id": 53,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 54,
+      "en": "So, we haven't seen each other in ages.",
+      "cn": "所以，我们很久没见面了。"
+    },
+    {
+      "id": 55,
+      "en": "So, what other ways can we use in ages or the word ages?",
+      "cn": "那么，我们还可以用“in ages”或“ages”这个词的其他方式是什么？"
+    },
+    {
+      "id": 56,
+      "en": "Well, you could actually say it's been ages.",
+      "cn": "嗯，你实际上可以说“it's been ages”。"
+    },
+    {
+      "id": 57,
+      "en": "So, that means it's been a long time.",
+      "cn": "这意味着很久了。"
+    },
+    {
+      "id": 58,
+      "en": "It's been a long time.",
+      "cn": "很久了。"
+    },
+    {
+      "id": 59,
+      "en": "Or we haven't gone out for ages.",
+      "cn": "或者我们很久没出去过。"
+    },
+    {
+      "id": 60,
+      "en": "Okay, so then you can use it with for.",
+      "cn": "好的，那么你可以和“for”一起使用。"
+    },
+    {
+      "id": 61,
+      "en": "For ages.",
+      "cn": "“for ages”。"
+    },
+    {
+      "id": 62,
+      "en": "For ages, in ages.",
+      "cn": "“for ages”，“in ages”。"
+    },
+    {
+      "id": 63,
+      "en": "So, the key word here is ages, which means a long time.",
+      "cn": "所以，这里的关键词是“ages”，意思是很长时间。"
+    },
+    {
+      "id": 64,
+      "en": "Long time.",
+      "cn": "很长时间。"
+    },
+    {
+      "id": 65,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 66,
+      "en": "And well, he hasn't seen him in ages.",
+      "cn": "而且，他很久没见到他。"
+    },
+    {
+      "id": 67,
+      "en": "And the guy's like, well, you know what?",
+      "cn": "然后那个人说，嗯，你知道吗？"
+    },
+    {
+      "id": 68,
+      "en": "I've actually gone into trading.",
+      "cn": "我实际上开始做交易了。"
+    },
+    {
+      "id": 69,
+      "en": "So, that means he started doing some trading.",
+      "cn": "这意味着他开始做一些交易。"
+    },
+    {
+      "id": 70,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 71,
+      "en": "Now, trading is a very broad word because you can trade, as in this case, currencies, which is basically to buy and sell currencies.",
+      "cn": "现在，交易是一个非常广泛的词，因为你可以交易，像在这种情况下，货币，基本上是买卖货币。"
+    },
+    {
+      "id": 72,
+      "en": "But you could also trade stocks, right?",
+      "cn": "但你也可以交易股票，对吧？"
+    },
+    {
+      "id": 73,
+      "en": "You can trade stocks or even people that are involved in import-export.",
+      "cn": "你可以交易股票，甚至参与进出口的人。"
+    },
+    {
+      "id": 74,
+      "en": "They are involved in trading.",
+      "cn": "他们也参与交易。"
+    },
+    {
+      "id": 75,
+      "en": "Trading.",
+      "cn": "交易。"
+    },
+    {
+      "id": 76,
+      "en": "So, basically, trading is buying and selling something.",
+      "cn": "所以，基本上，交易就是买卖某物。"
+    },
+    {
+      "id": 77,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 78,
+      "en": "So, you're trading.",
+      "cn": "所以，你在交易。"
+    },
+    {
+      "id": 79,
+      "en": "You are exchanging a product for money or money for a product.",
+      "cn": "你是在用产品换钱，或者用钱换产品。"
+    },
+    {
+      "id": 80,
+      "en": "But the difference is you're not actually making any products.",
+      "cn": "但不同的是，你实际上并没有制造任何产品。"
+    },
+    {
+      "id": 81,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 82,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 83,
+      "en": "So, that's called trading.",
+      "cn": "所以，这叫做交易。"
+    },
+    {
+      "id": 84,
+      "en": "You're not really manufacturing anything.",
+      "cn": "你并没有真正制造任何东西。"
+    },
+    {
+      "id": 85,
+      "en": "You're just exchanging goods and services and money.",
+      "cn": "你只是交换商品、服务和金钱。"
+    },
+    {
+      "id": 86,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 87,
+      "en": "So, that's for trading.",
+      "cn": "所以，这就是交易。"
+    },
+    {
+      "id": 88,
+      "en": "Now, moving on, he was explaining how the foreign exchange market works.",
+      "cn": "现在，继续，他在解释外汇市场是如何运作的。"
+    },
+    {
+      "id": 89,
+      "en": "And he says, I don't have to invest a huge amount.",
+      "cn": "他说，我不需要投资大量资金。"
+    },
+    {
+      "id": 90,
+      "en": "I put in a margin deposit and then I can buy and sell up to 100 times that much.",
+      "cn": "我投入保证金，然后可以买卖多达100倍的金额。"
+    },
+    {
+      "id": 91,
+      "en": "So, Marco, here's the question.",
+      "cn": "所以，Marco，问题是。"
+    },
+    {
+      "id": 92,
+      "en": "What is a margin deposit?",
+      "cn": "什么是保证金存款？"
+    },
+    {
+      "id": 93,
+      "en": "Because a deposit is basically money that you put, invest somewhere, or that you pay in.",
+      "cn": "因为存款基本上是你放入、投资某处的钱，或者你支付的金额。"
+    },
+    {
+      "id": 94,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 95,
+      "en": "Well, basically, a margin deposit is like a percentage.",
+      "cn": "嗯，基本上，保证金存款就像一个百分比。"
+    },
+    {
+      "id": 96,
+      "en": "So, he basically puts in a percentage of what he intends to buy.",
+      "cn": "所以，他基本上投入了他打算购买的金额的一个百分比。"
+    },
+    {
+      "id": 97,
+      "en": "So, for example, a margin deposit of $1,000 might be $1 or $10.",
+      "cn": "例如，1000美元的保证金存款可能是1美元或10美元。"
+    },
+    {
+      "id": 98,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 99,
+      "en": "So, maybe if it's $10, you're talking about a 1% margin.",
+      "cn": "所以，也许如果是10美元，你在谈论1%的保证金。"
+    },
+    {
+      "id": 100,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 101,
+      "en": "So, that's what he means by a margin deposit.",
+      "cn": "所以，这就是他所说的保证金存款。"
+    },
+    {
+      "id": 102,
+      "en": "And that's why he explains that you don't have to have a large amount of money in order to trade in the foreign exchange market.",
+      "cn": "这就是为什么他解释说你不需要有大量资金才能在外汇市场交易。"
+    },
+    {
+      "id": 103,
+      "en": "You just put in a margin deposit and then you can work around that.",
+      "cn": "你只需投入保证金存款，然后你可以围绕这个进行操作。"
+    },
+    {
+      "id": 104,
+      "en": "Well, it sounds pretty easy, but then he explains some more details about it, and it gets to be a little bit more complicated.",
+      "cn": "嗯，听起来很简单，但接下来他解释了一些细节，变得有点复杂。"
+    },
+    {
+      "id": 105,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 106,
+      "en": "He explained about how he makes money and how he bought some Chinese renminbi.",
+      "cn": "他解释了他是如何赚钱的，以及他是如何购买一些中国人民币的。"
+    },
+    {
+      "id": 107,
+      "en": "And then he sold it because it appreciated drastically.",
+      "cn": "然后他卖掉了，因为它大幅升值。"
+    },
+    {
+      "id": 108,
+      "en": "So, he bought it when it was cheap and he sold it when it was expensive, so the price changed.",
+      "cn": "所以，他在便宜的时候买入，在贵的时候卖出，价格发生了变化。"
+    },
+    {
+      "id": 109,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 110,
+      "en": "So, this kind of price change when something goes from cheap to expensive, it's called appreciating, appreciation.",
+      "cn": "所以，这种价格变化，当某物从便宜变贵时，称为升值。"
+    },
+    {
+      "id": 111,
+      "en": "So, the verb is to appreciate.",
+      "cn": "所以，动词是升值。"
+    },
+    {
+      "id": 112,
+      "en": "It's very different from using it in the sense of you appreciate someone, right?",
+      "cn": "这与你欣赏某人的用法非常不同，对吧？"
+    },
+    {
+      "id": 113,
+      "en": "Like, oh, I really appreciate you.",
+      "cn": "就像，哦，我真的很欣赏你。"
+    },
+    {
+      "id": 114,
+      "en": "Yeah, no, it's very different.",
+      "cn": "是的，不，这非常不同。"
+    },
+    {
+      "id": 115,
+      "en": "We could say this about most goods or investments.",
+      "cn": "我们可以对大多数商品或投资这样说。"
+    },
+    {
+      "id": 116,
+      "en": "For example, my parents bought a house in 1970, and the value of the house has really appreciated over the last 40 years.",
+      "cn": "例如，我的父母在1970年买了一栋房子，房子的价值在过去40年里确实升值了。"
+    },
+    {
+      "id": 117,
+      "en": "So, now the value is much, much greater.",
+      "cn": "所以，现在价值大得多。"
+    },
+    {
+      "id": 118,
+      "en": "And actually, just mentioning it while we're on the topic, to appreciate, as you say, is something becomes more expensive.",
+      "cn": "其实，提到这一点，升值，正如你所说，是某物变得更贵。"
+    },
+    {
+      "id": 119,
+      "en": "The opposite, when something becomes cheaper or maybe the value goes down, is to depreciate.",
+      "cn": "相反，当某物变得更便宜或价值下降时，称为贬值。"
+    },
+    {
+      "id": 120,
+      "en": "Depreciate, so that D at the beginning means it's going down.",
+      "cn": "贬值，所以开头的D意味着它在下降。"
+    },
+    {
+      "id": 121,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 122,
+      "en": "Okay, and moving on to our last word for language takeaway.",
+      "cn": "好的，接下来是我们最后一个语言要点。"
+    },
+    {
+      "id": 123,
+      "en": "So, when he was talking about selling the Chinese currency, he said that he sold it at an amazing bid.",
+      "cn": "所以，当他谈到出售中国货币时，他说他以一个惊人的出价卖掉了它。"
+    },
+    {
+      "id": 124,
+      "en": "Okay, let's talk about bid here.",
+      "cn": "好的，我们来谈谈出价。"
+    },
+    {
+      "id": 125,
+      "en": "B-I-D, bid.",
+      "cn": "B-I-D，出价。"
+    },
+    {
+      "id": 126,
+      "en": "What does this mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 127,
+      "en": "So, to bid is to place an offer for something.",
+      "cn": "所以，出价是为某物提出报价。"
+    },
+    {
+      "id": 128,
+      "en": "Okay, so for example, at an auction when someone is selling many old objects or some art, I can bid $100, and maybe someone doesn't accept my bid.",
+      "cn": "好的，例如，在拍卖会上，当有人出售许多旧物品或一些艺术品时，我可以出价$100，也许有人不接受我的出价。"
+    },
+    {
+      "id": 129,
+      "en": "But if they do accept my bid, then I pay for it.",
+      "cn": "但如果他们接受我的出价，那么我就支付。"
+    },
+    {
+      "id": 130,
+      "en": "Right, so basically a bid is just another way of saying an offer.",
+      "cn": "对，所以基本上出价就是另一种说法，表示报价。"
+    },
+    {
+      "id": 131,
+      "en": "You're offering a certain amount of money for that product or that service, and you see it a lot, for example, on eBay, right?",
+      "cn": "你为那个产品或服务提供一定金额的钱，你在eBay上经常看到，对吧？"
+    },
+    {
+      "id": 132,
+      "en": "That's right, so eBay is an auction website, basically, and someone who's selling someone can see many, many bids, and they select the best bid.",
+      "cn": "没错，所以eBay基本上是一个拍卖网站，卖家可以看到许多出价，然后选择最佳出价。"
+    },
+    {
+      "id": 133,
+      "en": "Exactly, so that's what a bid is.",
+      "cn": "正是如此，这就是出价。"
+    },
+    {
+      "id": 134,
+      "en": "So, that's all we have for language takeaway.",
+      "cn": "所以，这就是我们语言要点的全部内容。"
+    },
+    {
+      "id": 135,
+      "en": "Let's move on now to fluency builder.",
+      "cn": "现在让我们进入流利度提升。"
+    },
+    {
+      "id": 136,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 137,
+      "en": "Marco, what have you been up to lately?",
+      "cn": "马尔科，你最近在忙什么？"
+    },
+    {
+      "id": 138,
+      "en": "I never see you.",
+      "cn": "我从未见过你。"
+    },
+    {
+      "id": 139,
+      "en": "Right, this is actually a very common sentence.",
+      "cn": "对，这实际上是一个非常常见的句子。"
+    },
+    {
+      "id": 140,
+      "en": "What have you been up to?",
+      "cn": "你在忙什么？"
+    },
+    {
+      "id": 141,
+      "en": "But most English learners don't really understand what it means.",
+      "cn": "但大多数英语学习者并不真正理解这是什么意思。"
+    },
+    {
+      "id": 142,
+      "en": "Well, this is a really interesting point because I say this all the time.",
+      "cn": "嗯，这是一个非常有趣的观点，因为我一直在说这个。"
+    },
+    {
+      "id": 143,
+      "en": "This is very native, very colloquial.",
+      "cn": "这非常地道，非常口语化。"
+    },
+    {
+      "id": 144,
+      "en": "What have you been up to?",
+      "cn": "你在忙什么？"
+    },
+    {
+      "id": 145,
+      "en": "It's almost the same as saying what's up.",
+      "cn": "这几乎与说“最近怎么样”是一样的。"
+    },
+    {
+      "id": 146,
+      "en": "What's up, or where have you been recently?",
+      "cn": "最近怎么样，或者你最近在哪里？"
+    },
+    {
+      "id": 147,
+      "en": "What have you been doing recently?",
+      "cn": "你最近在做什么？"
+    },
+    {
+      "id": 148,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 149,
+      "en": "How's your life?",
+      "cn": "你的生活怎么样？"
+    },
+    {
+      "id": 150,
+      "en": "Right, so this part, up to, what have you been up to?",
+      "cn": "对，所以这一部分，忙于， 你在忙什么？"
+    },
+    {
+      "id": 151,
+      "en": "It doesn't really say much if you translate it literally, but basically it's what have you been doing?",
+      "cn": "如果你逐字翻译并没有太多意义，但基本上是你在做什么？"
+    },
+    {
+      "id": 152,
+      "en": "What have you been spending your time on?",
+      "cn": "你在花时间做什么？"
+    },
+    {
+      "id": 153,
+      "en": "So to be up to means to do something, to do.",
+      "cn": "所以，忙于意味着做某事，去做。"
+    },
+    {
+      "id": 154,
+      "en": "Right, and there are many other definitions of up to, but in this case, what have you been up to means that what have you been doing.",
+      "cn": "对，还有许多其他的“忙于”的定义，但在这种情况下，你在忙什么意味着你在做什么。"
+    },
+    {
+      "id": 155,
+      "en": "So next time you see a friend you haven't seen in a week or two, you can say, what have you been up to?",
+      "cn": "所以下次你见到一个一两周没见的朋友时，你可以说，你在忙什么？"
+    },
+    {
+      "id": 156,
+      "en": "All right, and John answers, well, you know, on top of the norm, wife, kids, and work, that phrase right there, on top of the norm.",
+      "cn": "好的，约翰回答说，嗯，你知道，除了正常的，妻子、孩子和工作，那个短语，除了正常。"
+    },
+    {
+      "id": 157,
+      "en": "Well, the norm here means the normal.",
+      "cn": "嗯，这里的“正常”意味着正常。"
+    },
+    {
+      "id": 158,
+      "en": "That means basically normal life.",
+      "cn": "这基本上意味着正常生活。"
+    },
+    {
+      "id": 159,
+      "en": "I've been working, I've got my kids, my wife, on top of the norm.",
+      "cn": "我一直在工作，我有我的孩子，我的妻子，除了正常。"
+    },
+    {
+      "id": 160,
+      "en": "Just life is normal.",
+      "cn": "生活就是正常。"
+    },
+    {
+      "id": 161,
+      "en": "Right, so the norm, or the wife, kids, and work, on top of that, I'm actually gone into trading, right?",
+      "cn": "对，所以正常的情况，正常的生活是妻子、孩子和工作，除此之外，我实际上还进入了交易，对吧？"
+    },
+    {
+      "id": 162,
+      "en": "So the normal situation, the normal life is wife, kids, and work, and then he's saying, on top of that, I've actually been doing this.",
+      "cn": "所以正常的情况，正常的生活是妻子、孩子和工作，然后他说，除此之外，我实际上在做这个。"
+    },
+    {
+      "id": 163,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 164,
+      "en": "Okay, and now moving on to when he's explaining, again, the market and the currencies, he talked about an asking price.",
+      "cn": "好的，现在继续，当他再次解释市场和货币时，他谈到了要价。"
+    },
+    {
+      "id": 165,
+      "en": "Okay, asking price.",
+      "cn": "好的，要价。"
+    },
+    {
+      "id": 166,
+      "en": "This is, remember we were talking about bids?",
+      "cn": "记得我们在谈论出价吗？"
+    },
+    {
+      "id": 167,
+      "en": "We could say that someone has an asking price, which is the price they would like to receive for an object or a service that they are selling.",
+      "cn": "我们可以说某人有一个要价，这是他们希望为他们出售的物品或服务所收到的价格。"
+    },
+    {
+      "id": 168,
+      "en": "And so, for example, I'm going to sell my desk.",
+      "cn": "所以，例如，我要卖我的桌子。"
+    },
+    {
+      "id": 169,
+      "en": "My asking price is $100.",
+      "cn": "我的要价是$100。"
+    },
+    {
+      "id": 170,
+      "en": "Maybe you don't want to pay that much, but my asking price is the way that I'm going to start.",
+      "cn": "也许你不想支付那么多，但我的要价是我开始的方式。"
+    },
+    {
+      "id": 171,
+      "en": "That's how much I want for it.",
+      "cn": "这就是我想要的价格。"
+    },
+    {
+      "id": 172,
+      "en": "Right, so that's your asking price.",
+      "cn": "对，所以这就是你的要价。"
+    },
+    {
+      "id": 173,
+      "en": "That's how much you ideally want to sell it for, but you can negotiate.",
+      "cn": "这就是你理想中想要出售的价格，但你可以谈判。"
+    },
+    {
+      "id": 174,
+      "en": "You are willing to accept maybe a lower offer.",
+      "cn": "你愿意接受可能更低的报价。"
+    },
+    {
+      "id": 175,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 176,
+      "en": "Okay, and what is our last phrase?",
+      "cn": "好的，我们最后一个短语是什么？"
+    },
+    {
+      "id": 177,
+      "en": "A split-second decision.",
+      "cn": "一瞬间的决定。"
+    },
+    {
+      "id": 178,
+      "en": "This is really, really important.",
+      "cn": "这真的非常重要。"
+    },
+    {
+      "id": 179,
+      "en": "These words go together very often.",
+      "cn": "这些词经常一起使用。"
+    },
+    {
+      "id": 180,
+      "en": "Split-second and decision.",
+      "cn": "一瞬间和决定。"
+    },
+    {
+      "id": 181,
+      "en": "Okay, so that basically means that you made a very quick decision.",
+      "cn": "好的，这基本上意味着你做了一个非常快速的决定。"
+    },
+    {
+      "id": 182,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 183,
+      "en": "Split-second.",
+      "cn": "一瞬间。"
+    },
+    {
+      "id": 184,
+      "en": "Very fast.",
+      "cn": "非常快。"
+    },
+    {
+      "id": 185,
+      "en": "It's almost like it's less than a second.",
+      "cn": "几乎就像不到一秒。"
+    },
+    {
+      "id": 186,
+      "en": "And so a split-second decision means a decision in no time.",
+      "cn": "所以一瞬间的决定意味着在短时间内做出的决定。"
+    },
+    {
+      "id": 187,
+      "en": "It's very, very quick.",
+      "cn": "非常非常快。"
+    },
+    {
+      "id": 188,
+      "en": "So we can actually mix split-second with other things, right?",
+      "cn": "所以我们实际上可以将一瞬间与其他事物结合，对吧？"
+    },
+    {
+      "id": 189,
+      "en": "For example, so maybe you can say he reacted in a split-second and avoided the crash.",
+      "cn": "例如，你可以说他在一瞬间做出了反应，避免了碰撞。"
+    },
+    {
+      "id": 190,
+      "en": "Okay, so good for him.",
+      "cn": "好的，所以他做得很好。"
+    },
+    {
+      "id": 191,
+      "en": "He reacted quickly enough to avoid the accident.",
+      "cn": "他反应足够快以避免事故。"
+    },
+    {
+      "id": 192,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 193,
+      "en": "So split-second, very fast, very quickly.",
+      "cn": "所以一瞬间，非常快，非常迅速。"
+    },
+    {
+      "id": 194,
+      "en": "A split-second decision.",
+      "cn": "一瞬间的决定。"
+    },
+    {
+      "id": 195,
+      "en": "A decision that was made very fast.",
+      "cn": "一个非常快速做出的决定。"
+    },
+    {
+      "id": 196,
+      "en": "Okay, so that's all we have for Fluency Builder.",
+      "cn": "好的，这就是我们关于流利度提升的内容。"
+    },
+    {
+      "id": 197,
+      "en": "Why don't we go back, listen to this dialogue one more time, and we'll be back to talk a little bit more.",
+      "cn": "我们为什么不回去，再听一遍这个对话，然后再回来聊聊。"
+    },
+    {
+      "id": 198,
+      "en": "Hey John, I haven't seen you in ages.",
+      "cn": "嘿，约翰，我好久没见你了。"
+    },
+    {
+      "id": 199,
+      "en": "What's new?",
+      "cn": "最近怎么样？"
+    },
+    {
+      "id": 200,
+      "en": "What have you been up to?",
+      "cn": "你在忙什么？"
+    },
+    {
+      "id": 201,
+      "en": "Pete, nice to see you.",
+      "cn": "皮特，很高兴见到你。"
+    },
+    {
+      "id": 202,
+      "en": "Well, on top of the norm, you know, life and kids and work, I've actually gotten into doing some trading.",
+      "cn": "嗯，除了日常生活、孩子和工作，我实际上开始做一些交易。"
+    },
+    {
+      "id": 203,
+      "en": "Trading?",
+      "cn": "交易？"
+    },
+    {
+      "id": 204,
+      "en": "You a big guy?",
+      "cn": "你是大玩家吗？"
+    },
+    {
+      "id": 205,
+      "en": "What are you trading?",
+      "cn": "你在交易什么？"
+    },
+    {
+      "id": 206,
+      "en": "Currencies.",
+      "cn": "货币。"
+    },
+    {
+      "id": 207,
+      "en": "Currencies?",
+      "cn": "货币？"
+    },
+    {
+      "id": 208,
+      "en": "As in Euros, dollars, pounds and rupees?",
+      "cn": "就是欧元、美元、英镑和卢比？"
+    },
+    {
+      "id": 209,
+      "en": "It's called Forex, foreign exchange.",
+      "cn": "这叫外汇，外币交易。"
+    },
+    {
+      "id": 210,
+      "en": "The great thing about it is that I don't have to invest a huge amount.",
+      "cn": "这件事的好处是我不需要投资大量资金。"
+    },
+    {
+      "id": 211,
+      "en": "I put in a margin deposit and then I can buy and sell up to a hundred times that much.",
+      "cn": "我只需存入保证金，然后可以买卖多达一百倍的金额。"
+    },
+    {
+      "id": 212,
+      "en": "I don't understand.",
+      "cn": "我不太明白。"
+    },
+    {
+      "id": 213,
+      "en": "You're buying and selling money?",
+      "cn": "你是在买卖钱吗？"
+    },
+    {
+      "id": 214,
+      "en": "You got it.",
+      "cn": "没错。"
+    },
+    {
+      "id": 215,
+      "en": "Just last night I made 150 US dollars.",
+      "cn": "就在昨晚，我赚了150美元。"
+    },
+    {
+      "id": 216,
+      "en": "Last night?",
+      "cn": "昨晚？"
+    },
+    {
+      "id": 217,
+      "en": "Yeah, it's a 24-hour market.",
+      "cn": "是的，这是一个24小时的市场。"
+    },
+    {
+      "id": 218,
+      "en": "I bought some RMB earlier at a low asking price, but last night it appreciated drastically.",
+      "cn": "我之前以低价买了一些人民币，但昨晚它大幅升值。"
+    },
+    {
+      "id": 219,
+      "en": "So I made a split-second decision and sold all of my RMB at an amazing bid.",
+      "cn": "所以我做了一个瞬间的决定，把所有人民币以惊人的价格卖掉。"
+    },
+    {
+      "id": 220,
+      "en": "I've also done some trading with Swiss francs and Australian dollars and Hong Kong dollars.",
+      "cn": "我还做了一些瑞士法郎、澳大利亚元和港币的交易。"
+    },
+    {
+      "id": 221,
+      "en": "I've made some profits, but I've also suffered some losses.",
+      "cn": "我赚了一些利润，但也遭受了一些损失。"
+    },
+    {
+      "id": 222,
+      "en": "It depends on a lot of factors, just like any other market.",
+      "cn": "这取决于很多因素，就像其他市场一样。"
+    },
+    {
+      "id": 223,
+      "en": "In total, I've made about 500 US dollars in the past few months.",
+      "cn": "总的来说，过去几个月我赚了大约500美元。"
+    },
+    {
+      "id": 224,
+      "en": "You're kidding.",
+      "cn": "你在开玩笑吧。"
+    },
+    {
+      "id": 225,
+      "en": "I'm on.",
+      "cn": "我是认真的。"
+    },
+    {
+      "id": 226,
+      "en": "Where do I sign up?",
+      "cn": "我在哪里注册？"
+    },
+    {
+      "id": 227,
+      "en": "So Marco, you have to explain this to me.",
+      "cn": "所以马尔科，你得给我解释一下。"
+    },
+    {
+      "id": 228,
+      "en": "We're talking about currency today.",
+      "cn": "今天我们在谈论货币。"
+    },
+    {
+      "id": 229,
+      "en": "So every nation has a currency.",
+      "cn": "每个国家都有自己的货币。"
+    },
+    {
+      "id": 230,
+      "en": "For example, in the dialogue, we learned that India has rupees, pounds are in Britain.",
+      "cn": "例如，在对话中，我们了解到印度有卢比，英国有英镑。"
+    },
+    {
+      "id": 231,
+      "en": "Britain has pounds and Australia has Australian dollars.",
+      "cn": "英国有英镑，澳大利亚有澳大利亚元。"
+    },
+    {
+      "id": 232,
+      "en": "America has American dollars.",
+      "cn": "美国有美元。"
+    },
+    {
+      "id": 233,
+      "en": "But you just said earlier that Ecuador has American dollars too.",
+      "cn": "但你刚才说厄瓜多尔也有美元。"
+    },
+    {
+      "id": 234,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 235,
+      "en": "Actually, Ecuador went through a very difficult economic situation in late 1998, early 1999, where there was a hyperinflation.",
+      "cn": "实际上，厄瓜多尔在1998年底到1999年初经历了非常困难的经济形势，出现了恶性通货膨胀。"
+    },
+    {
+      "id": 236,
+      "en": "So basically, there was an inflation that was very, very, very large.",
+      "cn": "所以基本上，通货膨胀非常非常严重。"
+    },
+    {
+      "id": 237,
+      "en": "So that means that the old currency lost its value very fast.",
+      "cn": "这意味着旧货币的价值迅速下降。"
+    },
+    {
+      "id": 238,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 239,
+      "en": "So for example, if the currency before in Ecuador used to be sucres.",
+      "cn": "例如，厄瓜多尔之前的货币是苏克雷。"
+    },
+    {
+      "id": 240,
+      "en": "So if 10 sucres was $1, all of a sudden, it was 50 sucres was $1.",
+      "cn": "如果10苏克雷是1美元，突然变成50苏克雷是1美元。"
+    },
+    {
+      "id": 241,
+      "en": "Oh, wow.",
+      "cn": "哦，哇。"
+    },
+    {
+      "id": 242,
+      "en": "So and it got to the point where goods and services went from $3,000 to $1 to $25,000 to $1.",
+      "cn": "这导致商品和服务的价格从3000美元到1美元涨到25000美元到1美元。"
+    },
+    {
+      "id": 243,
+      "en": "Okay, so people have bags full of money, and it's not really worth anything.",
+      "cn": "好吧，人们口袋里装满了钱，但实际上没什么价值。"
+    },
+    {
+      "id": 244,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 245,
+      "en": "So what happened was the central bank couldn't absorb this currency depreciation.",
+      "cn": "所以发生的事情是中央银行无法吸收这种货币贬值。"
+    },
+    {
+      "id": 246,
+      "en": "They couldn't really regulate prices.",
+      "cn": "他们无法真正调控价格。"
+    },
+    {
+      "id": 247,
+      "en": "Obviously, salaries were about the same.",
+      "cn": "显然，工资差不多。"
+    },
+    {
+      "id": 248,
+      "en": "So you have a lot less money comparatively.",
+      "cn": "所以相对而言，你的钱少得多。"
+    },
+    {
+      "id": 249,
+      "en": "And so the government decided that there were two options.",
+      "cn": "所以政府决定有两个选择。"
+    },
+    {
+      "id": 250,
+      "en": "Either they would follow Argentina's example, what they did a couple of years before, and set a fixed rate.",
+      "cn": "要么他们跟随阿根廷的例子，几年前他们所做的，设定一个固定汇率。"
+    },
+    {
+      "id": 251,
+      "en": "So in Argentina, it's three pesos to $1.",
+      "cn": "在阿根廷，三比索兑换1美元。"
+    },
+    {
+      "id": 252,
+      "en": "Or we would just get rid of our currency and just use US dollars.",
+      "cn": "要么我们就放弃我们的货币，直接使用美元。"
+    },
+    {
+      "id": 253,
+      "en": "So that's what they did, right?",
+      "cn": "所以他们就这样做了，对吧？"
+    },
+    {
+      "id": 254,
+      "en": "They used US dollars.",
+      "cn": "他们使用美元。"
+    },
+    {
+      "id": 255,
+      "en": "And now, if you ever travel to Ecuador, you will use US dollars.",
+      "cn": "现在，如果你去厄瓜多尔，你会使用美元。"
+    },
+    {
+      "id": 256,
+      "en": "The same exact bills that you use in the US are the same exact bills in Ecuador.",
+      "cn": "你在美国使用的钞票在厄瓜多尔也是一样的。"
+    },
+    {
+      "id": 257,
+      "en": "So no need to exchange currency.",
+      "cn": "所以不需要兑换货币。"
+    },
+    {
+      "id": 258,
+      "en": "No need to exchange currency.",
+      "cn": "不需要兑换货币。"
+    },
+    {
+      "id": 259,
+      "en": "And that's why, I guess, there are many factors that people say are a lot better.",
+      "cn": "这就是为什么我想，很多人说这要好得多。"
+    },
+    {
+      "id": 260,
+      "en": "For example, trading has become a lot less complicated because now you're negotiating in US dollars as in everywhere else in the world.",
+      "cn": "例如，交易变得简单多了，因为现在你用美元进行交易，就像世界其他地方一样。"
+    },
+    {
+      "id": 261,
+      "en": "But then other things, as you know, not having a national currency also affects.",
+      "cn": "但正如你所知，没有国家货币的其他事情也会受到影响。"
+    },
+    {
+      "id": 262,
+      "en": "So there are a lot of things going on.",
+      "cn": "所以有很多事情在发生。"
+    },
+    {
+      "id": 263,
+      "en": "But it's an interesting topic.",
+      "cn": "但这是一个有趣的话题。"
+    },
+    {
+      "id": 264,
+      "en": "Very interesting.",
+      "cn": "非常有趣。"
+    },
+    {
+      "id": 265,
+      "en": "Well, so maybe for those of you who are listening, you could tell us about your country and your currency.",
+      "cn": "好吧，也许对于那些在听的人，你可以告诉我们你的国家和货币。"
+    },
+    {
+      "id": 266,
+      "en": "What do you use?",
+      "cn": "你们用什么？"
+    },
+    {
+      "id": 267,
+      "en": "What do you spend money on?",
+      "cn": "你们花钱买什么？"
+    },
+    {
+      "id": 268,
+      "en": "And do people buy and trade currencies where you're from?",
+      "cn": "在你们那里，人们会买卖货币吗？"
+    },
+    {
+      "id": 269,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 270,
+      "en": "Or maybe you can even enlighten us with the exchange rate, maybe.",
+      "cn": "或者也许你可以告诉我们汇率。"
+    },
+    {
+      "id": 271,
+      "en": "Usually, it's a good question to ask, how much is a liter of milk?",
+      "cn": "通常，问一个好问题是，一升牛奶多少钱？"
+    },
+    {
+      "id": 272,
+      "en": "Or how much is a haircut?",
+      "cn": "或者理发多少钱？"
+    },
+    {
+      "id": 273,
+      "en": "Right, because these are things that everyone needs, so the price doesn't change that much.",
+      "cn": "对，因为这些是每个人都需要的东西，所以价格变化不大。"
+    },
+    {
+      "id": 274,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 275,
+      "en": "We're really curious to know how inexpensive or maybe very expensive your country is.",
+      "cn": "我们真的很想知道你们的国家是多么便宜或昂贵。"
+    },
+    {
+      "id": 276,
+      "en": "So come to EnglishPod.com and we'll see everyone there.",
+      "cn": "所以来EnglishPod.com，我们在那里见。"
+    },
+    {
+      "id": 277,
+      "en": "Bye.",
+      "cn": "再见。"
+    }
+  ]
+}

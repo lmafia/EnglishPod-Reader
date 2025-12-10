@@ -1,0 +1,1409 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0266",
+  "title": "EnglishPod 中高级 0266",
+  "totalSegments": 280,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we have a very, very useful intermediate level lesson for you, all about the weather.",
+      "cn": "我叫Catherine，今天我们有一节非常有用的中级课程，主题是天气。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "So obviously we have seen the news, and sometimes on the news we have the weather report.",
+      "cn": "显然我们看过新闻，有时新闻中会有天气预报。"
+    },
+    {
+      "id": 6,
+      "en": "So today we're going to learn all about that weather report in English.",
+      "cn": "所以今天我们要学习关于天气预报的英语。"
+    },
+    {
+      "id": 7,
+      "en": "So let's check out today's dialogue, and we'll be back in a moment to talk about the words and phrases that those weather forecasters used.",
+      "cn": "让我们来看看今天的对话，稍后我们会回来讨论那些气象预报员使用的单词和短语。"
+    },
+    {
+      "id": 8,
+      "en": "And those are today's top stories.",
+      "cn": "这些就是今天的头条新闻。"
+    },
+    {
+      "id": 9,
+      "en": "Now let's go to John for the weather.",
+      "cn": "现在我们去找John了解天气情况。"
+    },
+    {
+      "id": 10,
+      "en": "John, what does the forecast look like for our weekend travelers?",
+      "cn": "John，我们周末旅行者的天气预报怎么样？"
+    },
+    {
+      "id": 11,
+      "en": "I'm afraid we're in for a rough weekend, Mary.",
+      "cn": "恐怕我们这个周末会很糟糕，Mary。"
+    },
+    {
+      "id": 12,
+      "en": "There's a storm system moving through the east coast.",
+      "cn": "东海岸有一个风暴系统正在移动。"
+    },
+    {
+      "id": 13,
+      "en": "It will be drizzling all day today, and there's a 60% chance of thunderstorms this evening.",
+      "cn": "今天会下小雨，今晚有60%的雷暴几率。"
+    },
+    {
+      "id": 14,
+      "en": "It will be warm and humid all weekend.",
+      "cn": "整个周末都会温暖潮湿。"
+    },
+    {
+      "id": 15,
+      "en": "In the Midwest, expect strong winds and a low of around 40 degrees.",
+      "cn": "在中西部，预计会有强风，气温低至40华氏度。"
+    },
+    {
+      "id": 16,
+      "en": "That's pretty chilly for the summer.",
+      "cn": "这对于夏天来说相当寒冷。"
+    },
+    {
+      "id": 17,
+      "en": "Will it rain on Saturday?",
+      "cn": "星期六会下雨吗？"
+    },
+    {
+      "id": 18,
+      "en": "Unfortunately, yes.",
+      "cn": "不幸的是，会的。"
+    },
+    {
+      "id": 19,
+      "en": "It will be clear early Saturday morning, but there is a high chance of showers and thunderstorms later in the day.",
+      "cn": "星期六早上会晴朗，但下午有很高的降雨和雷暴几率。"
+    },
+    {
+      "id": 20,
+      "en": "There is a severe thunderstorm warning for some parts of the southeast.",
+      "cn": "东南部有严重雷暴警告。"
+    },
+    {
+      "id": 21,
+      "en": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+      "cn": "那些地区的人可能会看到冰雹和洪水，尤其是在经历过创纪录降雨的地区。"
+    },
+    {
+      "id": 22,
+      "en": "That certainly sounds like a dreary Saturday.",
+      "cn": "听起来星期六会很阴沉。"
+    },
+    {
+      "id": 23,
+      "en": "It gets better on Sunday, though.",
+      "cn": "不过星期天会好一些。"
+    },
+    {
+      "id": 24,
+      "en": "The storm systems move east, and the skies will clear up at night.",
+      "cn": "风暴系统向东移动，晚上天空会放晴。"
+    },
+    {
+      "id": 25,
+      "en": "It will still be rather cool, with highs in the low 50s.",
+      "cn": "仍然会相当凉爽，最高气温在50华氏度左右。"
+    },
+    {
+      "id": 26,
+      "en": "The west coast will be experiencing some unusually chilly weather, but at least the sun will come out.",
+      "cn": "西海岸会经历一些异常寒冷的天气，但至少阳光会出来。"
+    },
+    {
+      "id": 27,
+      "en": "I advise weekend travelers to be careful, especially while driving.",
+      "cn": "我建议周末旅行者要小心，尤其是在开车时。"
+    },
+    {
+      "id": 28,
+      "en": "Back to you, Mary.",
+      "cn": "回到你那儿，Mary。"
+    },
+    {
+      "id": 29,
+      "en": "Thanks, John.",
+      "cn": "谢谢你，John。"
+    },
+    {
+      "id": 30,
+      "en": "And there you have it.",
+      "cn": "这就是情况。"
+    },
+    {
+      "id": 31,
+      "en": "Looks like it's a weekend to stay at home.",
+      "cn": "看起来这是一个待在家里的周末。"
+    },
+    {
+      "id": 32,
+      "en": "Alright, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 33,
+      "en": "So, apparently they're not going to have great weather this weekend, and they actually started with an interesting word.",
+      "cn": "显然他们这个周末的天气不会很好，实际上他们开始时提到了一个有趣的词。"
+    },
+    {
+      "id": 34,
+      "en": "And actually, the commentator started with asking the weatherman, John, what does the forecast look like for our weekend?",
+      "cn": "实际上，评论员开始询问气象员John，我们的周末天气预报怎么样？"
+    },
+    {
+      "id": 35,
+      "en": "Okay, so the word here, forecast, is very, very important because it describes this part of the newscast.",
+      "cn": "好的，这里的词“预报”非常重要，因为它描述了新闻播报的这一部分。"
+    },
+    {
+      "id": 36,
+      "en": "A forecast is basically a prediction, or a description of the future, weather situation.",
+      "cn": "预报基本上是对未来天气情况的预测或描述。"
+    },
+    {
+      "id": 37,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 38,
+      "en": "So, we're talking about the weather forecast.",
+      "cn": "所以，我们在谈论天气预报。"
+    },
+    {
+      "id": 39,
+      "en": "Now, it's very interesting because we can also use that in business, for example, in budgets.",
+      "cn": "现在很有趣的是，我们也可以在商业中使用这个词，例如在预算中。"
+    },
+    {
+      "id": 40,
+      "en": "You can say, what is the financial forecast of the company?",
+      "cn": "你可以说，公司的财务预报是什么？"
+    },
+    {
+      "id": 41,
+      "en": "Alright, so you can't know what will happen, but you can predict it, and that's what a forecast is.",
+      "cn": "好的，所以你不能知道会发生什么，但你可以预测，这就是预报的意义。"
+    },
+    {
+      "id": 42,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 43,
+      "en": "So, we're talking about the weather forecast, and the weatherman said that, well, there are some storms coming, and it will be drizzling all day.",
+      "cn": "所以，我们在谈论天气预报，气象员说，有一些风暴正在来临，今天会下小雨。"
+    },
+    {
+      "id": 44,
+      "en": "Okay, so to drizzle is a verb, and it's like the verb to rain, except it's less by degree.",
+      "cn": "好的，drizzle是一个动词，类似于下雨的动词，只是程度较轻。"
+    },
+    {
+      "id": 45,
+      "en": "It's very light rain.",
+      "cn": "这是一种很轻的雨。"
+    },
+    {
+      "id": 46,
+      "en": "Yeah, it's kind of like if I spray you with water from a spray can or something, it's like drizzle.",
+      "cn": "是的，就像我用喷雾罐喷你水一样，这就是小雨。"
+    },
+    {
+      "id": 47,
+      "en": "It's just little dots of water.",
+      "cn": "只是小水滴而已。"
+    },
+    {
+      "id": 48,
+      "en": "It's not like you're getting wet.",
+      "cn": "你并不会真的被淋湿。"
+    },
+    {
+      "id": 49,
+      "en": "You don't really have the normal, heavy raindrops.",
+      "cn": "你没有正常的、沉重的雨滴。"
+    },
+    {
+      "id": 50,
+      "en": "You just have a little bit of water coming down.",
+      "cn": "只是有一点水在下。"
+    },
+    {
+      "id": 51,
+      "en": "But it's annoying because, do you bring your umbrella?",
+      "cn": "但这很烦人，因为你要带伞吗？"
+    },
+    {
+      "id": 52,
+      "en": "Do you leave your umbrella?",
+      "cn": "你要不要把伞留在家里？"
+    },
+    {
+      "id": 53,
+      "en": "So drizzling is a kind of rain that's very, very light.",
+      "cn": "所以drizzling是一种非常轻的雨。"
+    },
+    {
+      "id": 54,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 55,
+      "en": "Alright, so it's going to drizzle all day.",
+      "cn": "好的，所以今天会下小雨。"
+    },
+    {
+      "id": 56,
+      "en": "And the weatherman also said that we might have some thunderstorms.",
+      "cn": "气象员还说我们可能会有雷暴。"
+    },
+    {
+      "id": 57,
+      "en": "Okay, so thunderstorms are very different.",
+      "cn": "好的，雷暴是非常不同的。"
+    },
+    {
+      "id": 58,
+      "en": "Thunderstorms are a kind of storm where there is thunder.",
+      "cn": "雷暴是一种有雷声的风暴。"
+    },
+    {
+      "id": 59,
+      "en": "So thunder is the loud noises when there's lightning.",
+      "cn": "雷声是闪电时发出的响亮声音。"
+    },
+    {
+      "id": 60,
+      "en": "Okay, so lightning is like the flash that you get from the sky, and thunder is the hard sound that comes after.",
+      "cn": "好的，闪电就像从天空降下的闪光，雷声是随之而来的响声。"
+    },
+    {
+      "id": 61,
+      "en": "The boom.",
+      "cn": "轰鸣声。"
+    },
+    {
+      "id": 62,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 63,
+      "en": "So remember, light, lightning.",
+      "cn": "所以记住，light，lightning。"
+    },
+    {
+      "id": 64,
+      "en": "Light is the light that comes down from the sky, lightning.",
+      "cn": "Light是从天空降下的光，lightning。"
+    },
+    {
+      "id": 65,
+      "en": "And thunderstorms are just those loud noises that the lightning makes.",
+      "cn": "雷暴就是闪电发出的那些响亮的声音。"
+    },
+    {
+      "id": 66,
+      "en": "So usually with thunderstorms we have very heavy rain.",
+      "cn": "所以通常雷暴伴随着非常大的雨。"
+    },
+    {
+      "id": 67,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 68,
+      "en": "And that's why it's different from drizzling, which is very light.",
+      "cn": "这就是它与drizzling的不同，后者是非常轻的。"
+    },
+    {
+      "id": 69,
+      "en": "Okay, now we're talking about water.",
+      "cn": "好的，现在我们在谈论水。"
+    },
+    {
+      "id": 70,
+      "en": "We have drizzle, we have thunderstorm.",
+      "cn": "我们有drizzle，我们有雷暴。"
+    },
+    {
+      "id": 71,
+      "en": "Now what about a shower?",
+      "cn": "那么淋浴呢？"
+    },
+    {
+      "id": 72,
+      "en": "Because the weatherman said there is a high chance of showers.",
+      "cn": "因为气象员说有很高的淋浴几率。"
+    },
+    {
+      "id": 73,
+      "en": "Well, yes, there's a high chance of showers.",
+      "cn": "是的，确实有很高的淋浴几率。"
+    },
+    {
+      "id": 74,
+      "en": "I take showers every day, thank you very much.",
+      "cn": "我每天都洗澡，非常感谢。"
+    },
+    {
+      "id": 75,
+      "en": "But that's not the kind of shower we're talking about here, is it?",
+      "cn": "但这不是我们在这里谈论的那种淋浴，对吗？"
+    },
+    {
+      "id": 76,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 77,
+      "en": "Think about it, though.",
+      "cn": "不过想想看。"
+    },
+    {
+      "id": 78,
+      "en": "It's similar.",
+      "cn": "这很相似。"
+    },
+    {
+      "id": 79,
+      "en": "A shower, when you wash yourself, is water coming down on top of you.",
+      "cn": "淋浴时，水从上面降下来。"
+    },
+    {
+      "id": 80,
+      "en": "Well, in this case, it's a rain shower.",
+      "cn": "在这种情况下，是降雨淋浴。"
+    },
+    {
+      "id": 81,
+      "en": "So it's rain that's happening.",
+      "cn": "所以是正在下的雨。"
+    },
+    {
+      "id": 82,
+      "en": "Okay, so it's rain water that's coming down, very similar to the shower that you take in the morning.",
+      "cn": "好的，所以是降下来的雨水，非常类似于你早上洗澡时的淋浴。"
+    },
+    {
+      "id": 83,
+      "en": "The difference, though, is that a shower is a noun, and to rain is a verb.",
+      "cn": "不同的是，淋浴是名词，而下雨是动词。"
+    },
+    {
+      "id": 84,
+      "en": "So it will rain tomorrow, or we expect showers tomorrow.",
+      "cn": "所以明天会下雨，或者我们预计明天会有淋浴。"
+    },
+    {
+      "id": 85,
+      "en": "Both mean the same thing.",
+      "cn": "两者意思相同。"
+    },
+    {
+      "id": 86,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 87,
+      "en": "And while talking about showers and thunderstorms, there's also another type of water that falls from the sky.",
+      "cn": "在谈论淋浴和雷暴时，还有另一种从天空降下的水。"
+    },
+    {
+      "id": 88,
+      "en": "This is called hail.",
+      "cn": "这叫做冰雹。"
+    },
+    {
+      "id": 89,
+      "en": "Okay, so hail is difficult to describe, because it's like ice, but it's not really.",
+      "cn": "好的，冰雹很难描述，因为它像冰，但又不完全是。"
+    },
+    {
+      "id": 90,
+      "en": "It's just usually hard, almost like marbles, like hard balls of rain that come down.",
+      "cn": "通常是硬的，几乎像弹珠一样，像从天而降的硬雨球。"
+    },
+    {
+      "id": 91,
+      "en": "So it's not snow.",
+      "cn": "所以这不是雪。"
+    },
+    {
+      "id": 92,
+      "en": "It hurts when it hits you.",
+      "cn": "打到你身上时会很痛。"
+    },
+    {
+      "id": 93,
+      "en": "Sometimes it's very big, sometimes it's very small, but it's heavy, hard things that come out of the clouds.",
+      "cn": "有时很大，有时很小，但都是从云层中降下的重而硬的东西。"
+    },
+    {
+      "id": 94,
+      "en": "Yeah, so just think about it.",
+      "cn": "是的，所以想想看。"
+    },
+    {
+      "id": 95,
+      "en": "It's very, very similar to ice.",
+      "cn": "它非常非常像冰。"
+    },
+    {
+      "id": 96,
+      "en": "It's small pieces of ice coming down from the sky.",
+      "cn": "是从天空降下的小冰块。"
+    },
+    {
+      "id": 97,
+      "en": "So that's hail.",
+      "cn": "所以这就是冰雹。"
+    },
+    {
+      "id": 98,
+      "en": "But obviously very different from snow, because as we said, it's hard.",
+      "cn": "但显然与雪非常不同，因为正如我们所说，它是硬的。"
+    },
+    {
+      "id": 99,
+      "en": "Snow is very soft.",
+      "cn": "雪是非常柔软的。"
+    },
+    {
+      "id": 100,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 101,
+      "en": "And well, with this type of weather going on on the weekend, the commentator said, wow, that certainly sounds like a dreary Saturday.",
+      "cn": "嗯，周末这种天气，评论员说，哇，这听起来确实是个阴沉的星期六。"
+    },
+    {
+      "id": 102,
+      "en": "Okay, dreary is a great word to describe it.",
+      "cn": "好吧，阴沉是一个很好的形容词。"
+    },
+    {
+      "id": 103,
+      "en": "So as you can tell, it's going to rain.",
+      "cn": "所以你可以看出，快要下雨了。"
+    },
+    {
+      "id": 104,
+      "en": "Dreary is not a good thing.",
+      "cn": "阴沉不是好事。"
+    },
+    {
+      "id": 105,
+      "en": "It's not a happy thing.",
+      "cn": "这不是快乐的事情。"
+    },
+    {
+      "id": 106,
+      "en": "So something is dreary when it's not very exciting.",
+      "cn": "当某事不太令人兴奋时，它就是阴沉的。"
+    },
+    {
+      "id": 107,
+      "en": "It looks like it'll be dull or sad or boring or dark.",
+      "cn": "看起来会很沉闷、悲伤、无聊或黑暗。"
+    },
+    {
+      "id": 108,
+      "en": "Now can you describe a person like this as well?",
+      "cn": "现在你能这样形容一个人吗？"
+    },
+    {
+      "id": 109,
+      "en": "Yes, he's a very dreary person.",
+      "cn": "是的，他是一个非常阴沉的人。"
+    },
+    {
+      "id": 110,
+      "en": "He's never optimistic.",
+      "cn": "他从不乐观。"
+    },
+    {
+      "id": 111,
+      "en": "He's always down and kind of quiet and sad and down.",
+      "cn": "他总是情绪低落，有点安静和悲伤。"
+    },
+    {
+      "id": 112,
+      "en": "Boring.",
+      "cn": "无聊。"
+    },
+    {
+      "id": 113,
+      "en": "Okay, so that's what it means, something that's boring, not very exciting or very calm.",
+      "cn": "好吧，这就是它的意思，某事无聊，不太令人兴奋或非常平静。"
+    },
+    {
+      "id": 114,
+      "en": "But also dark.",
+      "cn": "但也有黑暗的元素。"
+    },
+    {
+      "id": 115,
+      "en": "There's a dark element to it, because something is dreary.",
+      "cn": "因为某事是阴沉的。"
+    },
+    {
+      "id": 116,
+      "en": "There's no sunshine, there's no light, there's no optimism.",
+      "cn": "没有阳光，没有光明，没有乐观。"
+    },
+    {
+      "id": 117,
+      "en": "So you can say it's a dreary day.",
+      "cn": "所以你可以说这是一个阴沉的日子。"
+    },
+    {
+      "id": 118,
+      "en": "Yeah, a very dreary day today.",
+      "cn": "是的，今天是一个非常阴沉的日子。"
+    },
+    {
+      "id": 119,
+      "en": "No light, no sunshine.",
+      "cn": "没有光，没有阳光。"
+    },
+    {
+      "id": 120,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 121,
+      "en": "We've taken a look at a lot of vocab there.",
+      "cn": "我们已经看了很多词汇。"
+    },
+    {
+      "id": 122,
+      "en": "Why don't we review what we've just learned and listen to the dialogue again.",
+      "cn": "为什么我们不复习一下刚学到的内容，再听一遍对话。"
+    },
+    {
+      "id": 123,
+      "en": "And those are today's top stories.",
+      "cn": "这些就是今天的头条新闻。"
+    },
+    {
+      "id": 124,
+      "en": "Now let's go to John for the weather.",
+      "cn": "现在让我们去找约翰了解天气。"
+    },
+    {
+      "id": 125,
+      "en": "John, what does the forecast look like for our weekend travelers?",
+      "cn": "约翰，我们的周末旅行者的天气预报怎么样？"
+    },
+    {
+      "id": 126,
+      "en": "I'm afraid we're in for a rough weekend, Mary.",
+      "cn": "我恐怕我们要经历一个艰难的周末，玛丽。"
+    },
+    {
+      "id": 127,
+      "en": "There's a storm system moving through the East Coast.",
+      "cn": "东海岸有一个风暴系统正在移动。"
+    },
+    {
+      "id": 128,
+      "en": "It will be drizzling all day today and there's a 60% chance of thunderstorms this evening.",
+      "cn": "今天会下小雨，今晚有60%的雷暴可能性。"
+    },
+    {
+      "id": 129,
+      "en": "It will be warm and humid all weekend.",
+      "cn": "整个周末都会温暖潮湿。"
+    },
+    {
+      "id": 130,
+      "en": "In the Midwest, expect strong winds and a low of around 40 degrees.",
+      "cn": "在中西部，预计会有强风，气温低至40度。"
+    },
+    {
+      "id": 131,
+      "en": "That's pretty chilly for the summer.",
+      "cn": "这对夏天来说相当寒冷。"
+    },
+    {
+      "id": 132,
+      "en": "Will it rain on Saturday?",
+      "cn": "星期六会下雨吗？"
+    },
+    {
+      "id": 133,
+      "en": "Unfortunately, yes.",
+      "cn": "不幸的是，会的。"
+    },
+    {
+      "id": 134,
+      "en": "It will be clear early Saturday morning, but there is a high chance of showers and thunderstorms later in the day.",
+      "cn": "星期六早上会晴朗，但下午有很高的降雨和雷暴的可能性。"
+    },
+    {
+      "id": 135,
+      "en": "There is a severe thunderstorm warning for some parts of the Southeast.",
+      "cn": "东南部有严重雷暴警告。"
+    },
+    {
+      "id": 136,
+      "en": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+      "cn": "那些地区的人可能会看到冰雹和洪水，尤其是在经历了创纪录降雨的地区。"
+    },
+    {
+      "id": 137,
+      "en": "That certainly sounds like a dreary Saturday.",
+      "cn": "这听起来确实是个阴沉的星期六。"
+    },
+    {
+      "id": 138,
+      "en": "It gets better on Sunday, though.",
+      "cn": "不过，星期天会好一些。"
+    },
+    {
+      "id": 139,
+      "en": "The storm systems move east and the skies will clear up at night.",
+      "cn": "风暴系统向东移动，夜间天空会放晴。"
+    },
+    {
+      "id": 140,
+      "en": "It will still be rather cool with highs in the low 50s.",
+      "cn": "仍然会相当凉爽，最高气温在50度左右。"
+    },
+    {
+      "id": 141,
+      "en": "The West Coast will be experiencing some unusually chilly weather, but at least the sun will come out.",
+      "cn": "西海岸将经历一些异常寒冷的天气，但至少阳光会出来。"
+    },
+    {
+      "id": 142,
+      "en": "I advise weekend travelers to be careful, especially while driving.",
+      "cn": "我建议周末旅行者要小心，尤其是在开车时。"
+    },
+    {
+      "id": 143,
+      "en": "Back to you, Mary.",
+      "cn": "回到你那儿，玛丽。"
+    },
+    {
+      "id": 144,
+      "en": "Thanks, John.",
+      "cn": "谢谢你，约翰。"
+    },
+    {
+      "id": 145,
+      "en": "And there you have it.",
+      "cn": "这就是情况。"
+    },
+    {
+      "id": 146,
+      "en": "Looks like it's a weekend to stay at home.",
+      "cn": "看起来这是一个待在家里的周末。"
+    },
+    {
+      "id": 147,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 148,
+      "en": "So now we're going to talk a little bit about some phrases that we've chosen for you on Fluency Builder.",
+      "cn": "现在我们要谈谈一些我们为你选择的短语，关于流利度提升。"
+    },
+    {
+      "id": 149,
+      "en": "Fluency Builder So when we're talking about forecasts, remember that we're talking about things that aren't certain.",
+      "cn": "流利度提升 所以当我们谈论天气预报时，请记住我们在谈论不确定的事情。"
+    },
+    {
+      "id": 150,
+      "en": "We have to explain that there is a possibility of rain or a possibility of sunshine.",
+      "cn": "我们必须解释有可能下雨或有可能有阳光。"
+    },
+    {
+      "id": 151,
+      "en": "And usually in the weather report, they will use percentages to describe how likely something is to happen.",
+      "cn": "通常在天气报告中，他们会使用百分比来描述某事发生的可能性。"
+    },
+    {
+      "id": 152,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 153,
+      "en": "The weatherman said there is a 60% chance of thunderstorms.",
+      "cn": "气象员说有60%的雷暴可能性。"
+    },
+    {
+      "id": 154,
+      "en": "Okay, so 60% is not very likely, but it's also not unlikely.",
+      "cn": "好吧，60%并不是很可能，但也不是不可能。"
+    },
+    {
+      "id": 155,
+      "en": "It means that it might happen that it rains.",
+      "cn": "这意味着可能会下雨。"
+    },
+    {
+      "id": 156,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 157,
+      "en": "So as you said, it's a way to measure what the probabilities are.",
+      "cn": "正如你所说，这是衡量概率的一种方式。"
+    },
+    {
+      "id": 158,
+      "en": "Because imagine if the weatherman says it might rain tomorrow, you're like, well, maybe it really will or maybe it's very unlikely that it won't or we don't really know.",
+      "cn": "因为想象一下，如果气象员说明天可能会下雨，你会想，嗯，也许真的会，或者也许不太可能不会，或者我们真的不知道。"
+    },
+    {
+      "id": 159,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 160,
+      "en": "So for example, if the weatherman says there's a 95% chance of rain tomorrow, do you bring your umbrella?",
+      "cn": "例如，如果气象员说明天有95%的降雨可能性，你会带伞吗？"
+    },
+    {
+      "id": 161,
+      "en": "Yes.",
+      "cn": "会的。"
+    },
+    {
+      "id": 162,
+      "en": "What if he says there's a 5% chance of rain tomorrow?",
+      "cn": "如果他说明天有5%的降雨可能性呢？"
+    },
+    {
+      "id": 163,
+      "en": "No.",
+      "cn": "不会。"
+    },
+    {
+      "id": 164,
+      "en": "So you have to think about the probability.",
+      "cn": "所以你必须考虑概率。"
+    },
+    {
+      "id": 165,
+      "en": "60%, it's maybe half and half.",
+      "cn": "60%，可能是五五开。"
+    },
+    {
+      "id": 166,
+      "en": "But 95%, it's very likely to happen.",
+      "cn": "但95%，那是非常可能发生的。"
+    },
+    {
+      "id": 167,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 168,
+      "en": "And he also mentioned that there's a high chance of thunderstorms or maybe you can say there's a low chance of hail.",
+      "cn": "他还提到有很高的雷暴可能性，或者你可以说有很低的冰雹可能性。"
+    },
+    {
+      "id": 169,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 170,
+      "en": "So he's basically saying, he or she is basically saying, you know, it's possible that this will happen or it's not likely this will happen.",
+      "cn": "所以他基本上是在说，你知道，这可能会发生，或者这不太可能发生。"
+    },
+    {
+      "id": 171,
+      "en": "They're trying to help you out.",
+      "cn": "他们是在试图帮助你。"
+    },
+    {
+      "id": 172,
+      "en": "They can't say this will happen because they don't know.",
+      "cn": "他们不能说这会发生，因为他们不知道。"
+    },
+    {
+      "id": 173,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 174,
+      "en": "So the word for probability here, the key word is chance.",
+      "cn": "所以这里概率的关键词是机会。"
+    },
+    {
+      "id": 175,
+      "en": "There is a good chance that it will rain.",
+      "cn": "有很大的机会会下雨。"
+    },
+    {
+      "id": 176,
+      "en": "So chance is probability.",
+      "cn": "所以机会就是概率。"
+    },
+    {
+      "id": 177,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 178,
+      "en": "So for example, what's the chance it will rain tomorrow?",
+      "cn": "例如，明天下雨的机会有多大？"
+    },
+    {
+      "id": 179,
+      "en": "Well, there's a high chance.",
+      "cn": "嗯，有很大的机会。"
+    },
+    {
+      "id": 180,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 181,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 182,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 183,
+      "en": "And now when we talk about the degrees or how warm or cold it is.",
+      "cn": "现在当我们谈论温度或天气的冷热时。"
+    },
+    {
+      "id": 184,
+      "en": "So we express it in Fahrenheit in some countries or in other countries in centigrade.",
+      "cn": "在一些国家我们用华氏度，在其他国家用摄氏度。"
+    },
+    {
+      "id": 185,
+      "en": "Here we talk about 40 degrees Fahrenheit.",
+      "cn": "这里我们谈论的是40华氏度。"
+    },
+    {
+      "id": 186,
+      "en": "But the weatherman also says highs and lows.",
+      "cn": "但气象员也会说最高和最低。"
+    },
+    {
+      "id": 187,
+      "en": "There's a low of around 40 degrees.",
+      "cn": "低温大约在40度。"
+    },
+    {
+      "id": 188,
+      "en": "What does he mean a low?",
+      "cn": "他所说的低温是什么意思？"
+    },
+    {
+      "id": 189,
+      "en": "This is a really important part of the forecast because you need to know, will you have to bring a coat tomorrow?",
+      "cn": "这是天气预报中非常重要的一部分，因为你需要知道，明天你需要带外套吗？"
+    },
+    {
+      "id": 190,
+      "en": "Is it going to be hot or cold?",
+      "cn": "会热还是冷？"
+    },
+    {
+      "id": 191,
+      "en": "And so you think about a day, usually during the day at noon or one o'clock in the afternoon, it's the hottest.",
+      "cn": "所以你考虑一天，通常在中午或下午一点时是最热的。"
+    },
+    {
+      "id": 192,
+      "en": "But at night, it's the coldest.",
+      "cn": "但晚上是最冷的。"
+    },
+    {
+      "id": 193,
+      "en": "And so the low refers to the lowest temperature and the high refers to the highest temperature.",
+      "cn": "所以低温指的是最低温度，而高温指的是最高温度。"
+    },
+    {
+      "id": 194,
+      "en": "So for example, in the fall, maybe the highs are 60 degrees, but the lows are 40.",
+      "cn": "例如，在秋天，最高温度可能是60度，但最低温度是40度。"
+    },
+    {
+      "id": 195,
+      "en": "So you should bring a coat.",
+      "cn": "所以你应该带一件外套。"
+    },
+    {
+      "id": 196,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 197,
+      "en": "It means at night it'll be 40 and during the day it'll be 60.",
+      "cn": "这意味着晚上会是40度，白天会是60度。"
+    },
+    {
+      "id": 198,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 199,
+      "en": "So we're talking about the highs are the highest temperatures or the highest number that we'll get.",
+      "cn": "所以我们说的高温是我们能达到的最高温度。"
+    },
+    {
+      "id": 200,
+      "en": "And the lows is the lowest.",
+      "cn": "而低温是最低的。"
+    },
+    {
+      "id": 201,
+      "en": "So the weatherman will commonly say, tomorrow we'll experience a high of 32 degrees and a low of 25.",
+      "cn": "所以气象员通常会说，明天我们将经历32度的高温和25度的低温。"
+    },
+    {
+      "id": 202,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 203,
+      "en": "So it's very easy to understand that the temperature during the day will be between these two numbers.",
+      "cn": "所以很容易理解白天的温度会在这两个数字之间。"
+    },
+    {
+      "id": 204,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 205,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 206,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 207,
+      "en": "And for our last phrase, the weatherman also said that there is a severe thunderstorm warning for some parts of the southeast.",
+      "cn": "在我们的最后一句话中，气象员还说东南部某些地区有严重的雷暴警告。"
+    },
+    {
+      "id": 208,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 209,
+      "en": "So Marco, this is a really key phrase because it's telling people about potential danger.",
+      "cn": "所以Marco，这是一个非常关键的短语，因为它告诉人们潜在的危险。"
+    },
+    {
+      "id": 210,
+      "en": "You know, a thunderstorm can be very dangerous, so you want to stay inside.",
+      "cn": "你知道，雷暴可能非常危险，所以你要待在室内。"
+    },
+    {
+      "id": 211,
+      "en": "So a severe thunderstorm warning, severe means very, very serious, is something you should pay attention to.",
+      "cn": "所以严重的雷暴警告，严重意味着非常非常严重，是你应该注意的事情。"
+    },
+    {
+      "id": 212,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 213,
+      "en": "But now the interesting thing is that we can change the noun, in this case thunderstorm, and we can talk about, for example, a severe tornado warning.",
+      "cn": "但现在有趣的是，我们可以改变名词，在这种情况下是雷暴，我们可以谈论，例如，严重的龙卷风警告。"
+    },
+    {
+      "id": 214,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 215,
+      "en": "So if there's a severe tornado warning, then I really have to pay attention to the weather and be careful not to go outside, or even a severe flood warning.",
+      "cn": "所以如果有严重的龙卷风警告，我真的必须注意天气，并小心不要出去，或者甚至是严重的洪水警告。"
+    },
+    {
+      "id": 216,
+      "en": "You need to know that the streets might become flooded and prepare.",
+      "cn": "你需要知道街道可能会被淹没并做好准备。"
+    },
+    {
+      "id": 217,
+      "en": "So they're saying that there's a very high probability that this might happen, so they're warning you to take precaution.",
+      "cn": "所以他们说这种情况发生的可能性非常高，所以他们警告你要采取预防措施。"
+    },
+    {
+      "id": 218,
+      "en": "All right.",
+      "cn": "好的。"
+    },
+    {
+      "id": 219,
+      "en": "So pay attention to that last one, and we're going to listen to today's dialogue one more time.",
+      "cn": "所以注意最后一句，我们将再听一次今天的对话。"
+    },
+    {
+      "id": 220,
+      "en": "We'll be back in a moment to talk a little bit more about the weather.",
+      "cn": "我们稍后会回来谈谈天气。"
+    },
+    {
+      "id": 221,
+      "en": "And those are today's top stories.",
+      "cn": "这些就是今天的头条新闻。"
+    },
+    {
+      "id": 222,
+      "en": "Now let's go to John for the weather.",
+      "cn": "现在让我们去找John了解天气。"
+    },
+    {
+      "id": 223,
+      "en": "John, what does the forecast look like for our weekend travelers?",
+      "cn": "John，我们的周末旅行者的天气预报怎么样？"
+    },
+    {
+      "id": 224,
+      "en": "I'm afraid we're in for a rough weekend, Mary.",
+      "cn": "我恐怕我们将经历一个糟糕的周末，Mary。"
+    },
+    {
+      "id": 225,
+      "en": "There's a storm system moving through the East Coast.",
+      "cn": "东海岸有一个风暴系统正在移动。"
+    },
+    {
+      "id": 226,
+      "en": "It will be drizzling all day today, and there's a 60% chance of thunderstorms this evening.",
+      "cn": "今天将会下小雨，今晚有60%的雷暴几率。"
+    },
+    {
+      "id": 227,
+      "en": "It will be warm and humid all weekend.",
+      "cn": "整个周末都会温暖潮湿。"
+    },
+    {
+      "id": 228,
+      "en": "In the Midwest, expect strong winds and a low of around 40 degrees.",
+      "cn": "在中西部，预计会有强风，低温在40度左右。"
+    },
+    {
+      "id": 229,
+      "en": "That's pretty chilly for the summer.",
+      "cn": "对于夏天来说，这相当寒冷。"
+    },
+    {
+      "id": 230,
+      "en": "Will it rain on Saturday?",
+      "cn": "星期六会下雨吗？"
+    },
+    {
+      "id": 231,
+      "en": "Unfortunately, yes.",
+      "cn": "不幸的是，会。"
+    },
+    {
+      "id": 232,
+      "en": "It will be clear early Saturday morning, but there is a high chance of showers and thunderstorms later in the day.",
+      "cn": "星期六早上会晴朗，但下午有很高的降雨和雷暴几率。"
+    },
+    {
+      "id": 233,
+      "en": "There is a severe thunderstorm warning for some parts of the southeast.",
+      "cn": "东南部某些地区有严重的雷暴警告。"
+    },
+    {
+      "id": 234,
+      "en": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+      "cn": "那些地区的人可能会看到一些冰雹和洪水，特别是在经历了创纪录降雨的地区。"
+    },
+    {
+      "id": 235,
+      "en": "That certainly sounds like a dreary Saturday.",
+      "cn": "听起来星期六确实很阴沉。"
+    },
+    {
+      "id": 236,
+      "en": "It gets better on Sunday, though.",
+      "cn": "不过星期天会好一些。"
+    },
+    {
+      "id": 237,
+      "en": "The storm systems move east and the skies will clear up at night.",
+      "cn": "风暴系统向东移动，晚上天空会放晴。"
+    },
+    {
+      "id": 238,
+      "en": "It will still be rather cool, with highs in the low 50s.",
+      "cn": "仍然会相当凉爽，最高温度在50度左右。"
+    },
+    {
+      "id": 239,
+      "en": "The West Coast will be experiencing some unusually chilly weather, but at least the sun will come out.",
+      "cn": "西海岸将经历一些异常寒冷的天气，但至少阳光会出来。"
+    },
+    {
+      "id": 240,
+      "en": "I advise weekend travelers to be careful, especially while driving.",
+      "cn": "我建议周末旅行者要小心，尤其是在开车时。"
+    },
+    {
+      "id": 241,
+      "en": "Back to you, Mary.",
+      "cn": "回到你那儿，Mary。"
+    },
+    {
+      "id": 242,
+      "en": "Thanks, John.",
+      "cn": "谢谢你，John。"
+    },
+    {
+      "id": 243,
+      "en": "And there you have it.",
+      "cn": "这就是了。"
+    },
+    {
+      "id": 244,
+      "en": "Looks like it's a weekend to stay at home.",
+      "cn": "看起来这是一个待在家里的周末。"
+    },
+    {
+      "id": 245,
+      "en": "Alright, so talking about the weather, it always seems like the weatherman is always wrong.",
+      "cn": "好吧，谈到天气，气象员似乎总是错的。"
+    },
+    {
+      "id": 246,
+      "en": "Always.",
+      "cn": "总是。"
+    },
+    {
+      "id": 247,
+      "en": "It's like the opposite of what should happen.",
+      "cn": "就像应该发生的事情的反面。"
+    },
+    {
+      "id": 248,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 249,
+      "en": "But you know, you can't blame them because all they have is a computer and some sensors and they have to guess about the weather and help people figure out what to do.",
+      "cn": "但你知道，你不能责怪他们，因为他们只有一台电脑和一些传感器，他们必须猜测天气并帮助人们弄清楚该怎么做。"
+    },
+    {
+      "id": 250,
+      "en": "Have you ever experienced anything severe like a hard thunderstorm or maybe a tornado or something like this?",
+      "cn": "你有没有经历过像强雷暴或龙卷风这样的严重天气？"
+    },
+    {
+      "id": 251,
+      "en": "I have, actually, because I'm from Chicago.",
+      "cn": "其实有，因为我来自芝加哥。"
+    },
+    {
+      "id": 252,
+      "en": "And in America, the middle of the country is called the tornado belt.",
+      "cn": "在美国，国家中部被称为龙卷风带。"
+    },
+    {
+      "id": 253,
+      "en": "That means it's a piece of land where tornadoes are very common.",
+      "cn": "这意味着这是一个龙卷风非常常见的地方。"
+    },
+    {
+      "id": 254,
+      "en": "And so in the fall and in the spring, we often have tornadoes.",
+      "cn": "所以在秋天和春天，我们经常会有龙卷风。"
+    },
+    {
+      "id": 255,
+      "en": "And I've been in a couple tornadoes myself.",
+      "cn": "我自己经历过几次龙卷风。"
+    },
+    {
+      "id": 256,
+      "en": "Oh, wow.",
+      "cn": "哦，哇。"
+    },
+    {
+      "id": 257,
+      "en": "Have you seen them?",
+      "cn": "你见过它们吗？"
+    },
+    {
+      "id": 258,
+      "en": "Yes.",
+      "cn": "见过。"
+    },
+    {
+      "id": 259,
+      "en": "Is it amazing to see?",
+      "cn": "看到它们很惊人吗？"
+    },
+    {
+      "id": 260,
+      "en": "They're very scary.",
+      "cn": "非常可怕。"
+    },
+    {
+      "id": 261,
+      "en": "You're always running inside and locking yourself in the basement.",
+      "cn": "你总是跑进屋里，把自己锁在地下室。"
+    },
+    {
+      "id": 262,
+      "en": "It's very important to protect yourself in a tornado because it's very dangerous around the area of the tornado because the wind is so strong that trucks and cars and telephone Poles and big, big heavy objects can fly through the air and hurt people.",
+      "cn": "在龙卷风中保护自己非常重要，因为龙卷风周围的区域非常危险，因为风力如此强大，以至于卡车、汽车和电线杆以及大型重物都可能飞起来伤害人。"
+    },
+    {
+      "id": 263,
+      "en": "And that's how most of the damage happens.",
+      "cn": "这就是大多数损害发生的原因。"
+    },
+    {
+      "id": 264,
+      "en": "Okay, so this is interesting because a tornado is also considered a natural disaster.",
+      "cn": "好的，这很有趣，因为龙卷风也被认为是一种自然灾害。"
+    },
+    {
+      "id": 265,
+      "en": "Yes, it is.",
+      "cn": "是的。"
+    },
+    {
+      "id": 266,
+      "en": "But it's a weather phenomenon, whereas earthquakes are a natural disaster, but it's not part of the weather.",
+      "cn": "但它是一种天气现象，而地震是一种自然灾害，但它不是天气的一部分。"
+    },
+    {
+      "id": 267,
+      "en": "No, yeah, you're right.",
+      "cn": "不，是的，你说得对。"
+    },
+    {
+      "id": 268,
+      "en": "It's not something that it sweeps in and it leaves.",
+      "cn": "这不是一种会来又去的现象。"
+    },
+    {
+      "id": 269,
+      "en": "Like a flood, for example, all of the rain will come down and it will create a flood.",
+      "cn": "比如洪水，所有的雨会下来并造成洪水。"
+    },
+    {
+      "id": 270,
+      "en": "An earthquake is a natural disaster that's not weather related.",
+      "cn": "地震是一种与天气无关的自然灾害。"
+    },
+    {
+      "id": 271,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 272,
+      "en": "Okay, interesting thing.",
+      "cn": "好的，有趣的事情。"
+    },
+    {
+      "id": 273,
+      "en": "So maybe some of our listeners that live in a very cold area have experienced a heavy snowstorm.",
+      "cn": "所以也许我们的一些听众住在非常寒冷的地区，经历过大雪暴。"
+    },
+    {
+      "id": 274,
+      "en": "Like a blizzard.",
+      "cn": "像暴风雪。"
+    },
+    {
+      "id": 275,
+      "en": "Like a blizzard.",
+      "cn": "像暴风雪。"
+    },
+    {
+      "id": 276,
+      "en": "Or maybe people in a tropical area have experienced a hurricane.",
+      "cn": "或者也许热带地区的人经历过飓风。"
+    },
+    {
+      "id": 277,
+      "en": "So let us know if you've ever been in one of these weather-related phenomenons.",
+      "cn": "所以如果你曾经经历过这些与天气相关的现象，请告诉我们。"
+    },
+    {
+      "id": 278,
+      "en": "And also if you have any comments or questions, we're always at EnglishPod.com.",
+      "cn": "如果你有任何评论或问题，我们始终在EnglishPod.com。"
+    },
+    {
+      "id": 279,
+      "en": "We hope to see you guys there.",
+      "cn": "我们希望在那里见到你们。"
+    },
+    {
+      "id": 280,
+      "en": "Alright, bye.",
+      "cn": "好吧，再见。"
+    }
+  ]
+}

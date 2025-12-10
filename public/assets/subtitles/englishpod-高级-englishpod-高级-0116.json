@@ -1,0 +1,1224 @@
+{
+  "type": "book",
+  "id": "englishpod-高级-englishpod-高级-0116",
+  "title": "EnglishPod 高级 0116",
+  "totalSegments": 243,
+  "seriesId": "englishpod-高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another advanced lesson here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一个高级课程。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be back in the office.",
+      "cn": "今天我们将回到办公室。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "We are listening in as somebody gets a little bit of trouble from their boss for being a bit late on a project.",
+      "cn": "我们正在听某人因项目延迟而受到老板的责备。"
+    },
+    {
+      "id": 8,
+      "en": "Alright, so we're going to be at the office.",
+      "cn": "好吧，我们将在办公室。"
+    },
+    {
+      "id": 9,
+      "en": "Somebody misses a deadline.",
+      "cn": "有人错过了截止日期。"
+    },
+    {
+      "id": 10,
+      "en": "And so, well, how do you handle the situation?",
+      "cn": "那么，你如何处理这种情况？"
+    },
+    {
+      "id": 11,
+      "en": "What can you do to explain yourself?",
+      "cn": "你能做些什么来解释自己？"
+    },
+    {
+      "id": 12,
+      "en": "And what language can you actually use to talk about missed deadlines and late work?",
+      "cn": "你可以用什么语言来谈论错过的截止日期和延迟的工作？"
+    },
+    {
+      "id": 13,
+      "en": "Alright, so let's see why this person missed the deadline and let's find out what happens.",
+      "cn": "好吧，让我们看看这个人为什么错过了截止日期，看看会发生什么。"
+    },
+    {
+      "id": 14,
+      "en": "And so I just wanted to check in with you and find out where we are with this project.",
+      "cn": "我只是想和你确认一下这个项目的进展。"
+    },
+    {
+      "id": 15,
+      "en": "As you know, you missed a fairly significant deadline last week and this will negatively impact the team's ability to move forward with the next stages of this project.",
+      "cn": "如你所知，你上周错过了一个相当重要的截止日期，这将对团队推进项目的下一阶段产生负面影响。"
+    },
+    {
+      "id": 16,
+      "en": "I know.",
+      "cn": "我知道。"
+    },
+    {
+      "id": 17,
+      "en": "I'm really sorry that I missed a deadline.",
+      "cn": "我真的很抱歉错过了截止日期。"
+    },
+    {
+      "id": 18,
+      "en": "But really, it wasn't my fault.",
+      "cn": "但真的，这不是我的错。"
+    },
+    {
+      "id": 19,
+      "en": "You see, we had all of these unexpected technical problems at the last minute.",
+      "cn": "你看，我们在最后一刻遇到了所有这些意外的技术问题。"
+    },
+    {
+      "id": 20,
+      "en": "And I couldn't get into the database and extract the kind of information that I needed for the data analysis.",
+      "cn": "我无法进入数据库提取我需要的数据分析信息。"
+    },
+    {
+      "id": 21,
+      "en": "You know, if the tech guys would have done their job and kept the CRM stable, then I wouldn't have missed my deadline.",
+      "cn": "你知道，如果技术人员能做好他们的工作并保持CRM稳定，我就不会错过截止日期。"
+    },
+    {
+      "id": 22,
+      "en": "Oh, come on.",
+      "cn": "哦，得了吧。"
+    },
+    {
+      "id": 23,
+      "en": "An excuse like that is tantamount to lying.",
+      "cn": "这样的借口等同于撒谎。"
+    },
+    {
+      "id": 24,
+      "en": "You're essentially blaming the tech team for your time management issues rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+      "cn": "你实际上是在把时间管理问题归咎于技术团队，而不是接受你在过去两周拖延的事实。"
+    },
+    {
+      "id": 25,
+      "en": "No, I'm not trying to pass the buck here.",
+      "cn": "不，我不是在推卸责任。"
+    },
+    {
+      "id": 26,
+      "en": "I know it was me who was ultimately responsible for getting this done.",
+      "cn": "我知道最终负责完成这项工作的是我。"
+    },
+    {
+      "id": 27,
+      "en": "But the thing is, I could have finished on time if the system hadn't gone down.",
+      "cn": "但问题是，如果系统没有崩溃，我本可以按时完成。"
+    },
+    {
+      "id": 28,
+      "en": "And you know, with everything I've got going on now, I can't afford to waste time dealing with technical problems.",
+      "cn": "你知道，考虑到我现在的所有事情，我不能浪费时间处理技术问题。"
+    },
+    {
+      "id": 29,
+      "en": "I've got a lot on my plate and there are only 24 hours in a day.",
+      "cn": "我有很多事情要做，一天只有24小时。"
+    },
+    {
+      "id": 30,
+      "en": "I'm not going to accept this excuse.",
+      "cn": "我不会接受这个借口。"
+    },
+    {
+      "id": 31,
+      "en": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+      "cn": "你把这些小技术故障当作拐杖，试图合理化你错过截止日期的事实。"
+    },
+    {
+      "id": 32,
+      "en": "Look, we have standards and I expect you to live up to those standards.",
+      "cn": "听着，我们有标准，我希望你能达到这些标准。"
+    },
+    {
+      "id": 33,
+      "en": "No more phony excuses.",
+      "cn": "不要再有虚假的借口。"
+    },
+    {
+      "id": 34,
+      "en": "If you're in over your head, you tell me no more missed deadlines.",
+      "cn": "如果你力不从心，你就告诉我，不要再错过截止日期。"
+    },
+    {
+      "id": 35,
+      "en": "Now I want that data on my desk by 9am.",
+      "cn": "现在我希望早上9点之前把数据放在我的桌子上。"
+    },
+    {
+      "id": 36,
+      "en": "Well, it sounds like this guy isn't really accepting a lot of the responsibility for his missed deadline.",
+      "cn": "好吧，看来这个家伙并没有真正承担错过截止日期的责任。"
+    },
+    {
+      "id": 37,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 38,
+      "en": "Well, apparently he's explaining that it wasn't only his fault, right?",
+      "cn": "显然，他在解释这并不完全是他的错，对吧？"
+    },
+    {
+      "id": 39,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 40,
+      "en": "So some technical problems, but you know, he used a lot of pretty, pretty interesting language.",
+      "cn": "所以有一些技术问题，但你知道，他使用了很多非常有趣的语言。"
+    },
+    {
+      "id": 41,
+      "en": "And I think it'll help us to look at that now in language takeaway.",
+      "cn": "我认为现在看看这些语言会对我们有帮助。"
+    },
+    {
+      "id": 42,
+      "en": "Language takeaway.",
+      "cn": "语言要点。"
+    },
+    {
+      "id": 43,
+      "en": "Alright, so in language takeaway today we have five words and let's start with the first one.",
+      "cn": "好吧，今天的语言要点我们有五个单词，让我们从第一个开始。"
+    },
+    {
+      "id": 44,
+      "en": "Alright, well, the boss is not really happy with the excuse that the employee was giving and he said an excuse like that is tantamount to lying.",
+      "cn": "好吧，老板对员工的借口并不满意，他说这样的借口等同于撒谎。"
+    },
+    {
+      "id": 45,
+      "en": "Tantamount?",
+      "cn": "等同于？"
+    },
+    {
+      "id": 46,
+      "en": "Tantamount to something.",
+      "cn": "等同于某事。"
+    },
+    {
+      "id": 47,
+      "en": "Ok, so if an excuse like that is tantamount to lying, what is what is he trying to say here?",
+      "cn": "好吧，如果这样的借口等同于撒谎，他想说什么？"
+    },
+    {
+      "id": 48,
+      "en": "Basically, it's the same as or it's almost the same as.",
+      "cn": "基本上，它是相同的或几乎相同的。"
+    },
+    {
+      "id": 49,
+      "en": "So similar to.",
+      "cn": "所以类似于。"
+    },
+    {
+      "id": 50,
+      "en": "So if I say tantamount to something else, how would I use it?",
+      "cn": "如果我说等同于其他事情，我该如何使用它？"
+    },
+    {
+      "id": 51,
+      "en": "You know, Marco, taking my computer without asking is tantamount to stealing.",
+      "cn": "你知道，Marco，未经允许拿走我的电脑等同于偷窃。"
+    },
+    {
+      "id": 52,
+      "en": "Okay, so even though I'm not actually stealing it or taking it home with me, yeah, it is almost like stealing.",
+      "cn": "好吧，尽管我并没有真正偷走它或把它带回家，但确实几乎像偷窃。"
+    },
+    {
+      "id": 53,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 54,
+      "en": "And the interesting grammatical thing here is that we almost always use a gerund right after so tantamount to verb ing. Ok, tantamount to stealing, tantamount to lying, tantamount to killing.",
+      "cn": "有趣的语法是，我们几乎总是在后面使用动名词，所以等同于动词ing。 好吧，等同于偷窃，等同于撒谎，等同于杀人。"
+    },
+    {
+      "id": 55,
+      "en": "Ok, well on that happy note, let's go on to our next word.",
+      "cn": "好吧，在这个愉快的音符上，让我们继续下一个单词。"
+    },
+    {
+      "id": 56,
+      "en": "Now the boss was really unhappy with the employee for procrastinating.",
+      "cn": "现在老板对员工拖延感到非常不满。"
+    },
+    {
+      "id": 57,
+      "en": "Procrastinating.",
+      "cn": "拖延。"
+    },
+    {
+      "id": 58,
+      "en": "Procrastinating.",
+      "cn": "拖延。"
+    },
+    {
+      "id": 59,
+      "en": "So the verb is to procrastinate.",
+      "cn": "所以动词是拖延。"
+    },
+    {
+      "id": 60,
+      "en": "And when you procrastinate, you say, oh, I'll do it later, I'll do it tomorrow.",
+      "cn": "当你拖延时，你会说，哦，我稍后再做，我明天再做。"
+    },
+    {
+      "id": 61,
+      "en": "Okay, so you kind of delay things or you leave it for another day.",
+      "cn": "好吧，所以你有点推迟事情，或者把它留到另一天。"
+    },
+    {
+      "id": 62,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 63,
+      "en": "Alright, very good.",
+      "cn": "好吧，非常好。"
+    },
+    {
+      "id": 64,
+      "en": "So to procrastinate.",
+      "cn": "所以拖延。"
+    },
+    {
+      "id": 65,
+      "en": "A favorite verb amongst college students.",
+      "cn": "大学生最喜欢的动词。"
+    },
+    {
+      "id": 66,
+      "en": "I actually thought for a little while that procrastinate was to have babies.",
+      "cn": "我实际上曾经认为拖延是生孩子。"
+    },
+    {
+      "id": 67,
+      "en": "Oh, ok.",
+      "cn": "哦，好的。"
+    },
+    {
+      "id": 68,
+      "en": "It's kind of similar.",
+      "cn": "这有点相似。"
+    },
+    {
+      "id": 69,
+      "en": "What's the word?",
+      "cn": "那个词是什么？"
+    },
+    {
+      "id": 70,
+      "en": "Procreate.",
+      "cn": "繁殖。"
+    },
+    {
+      "id": 71,
+      "en": "Procreate.",
+      "cn": "繁殖。"
+    },
+    {
+      "id": 72,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 73,
+      "en": "So for a while I always thought that procrastinate was like having babies.",
+      "cn": "所以一段时间我总是认为拖延就像生孩子。"
+    },
+    {
+      "id": 74,
+      "en": "Like, why are you procrastinating?",
+      "cn": "像，为什么你在拖延？"
+    },
+    {
+      "id": 75,
+      "en": "And I'm like, I'm not.",
+      "cn": "我说，我没有。"
+    },
+    {
+      "id": 76,
+      "en": "Well, glad you got that straight.",
+      "cn": "好吧，真高兴你搞清楚了。"
+    },
+    {
+      "id": 77,
+      "en": "So yes, our listeners, procrastinate is not the same as procreate.",
+      "cn": "所以是的，我们的听众，拖延和繁殖不是同一回事。"
+    },
+    {
+      "id": 78,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 79,
+      "en": "I learned that the hard way.",
+      "cn": "我是通过艰难的方式学到这一点的。"
+    },
+    {
+      "id": 80,
+      "en": "Yes, um, well it sounds like you had a little bit of a glitch in your understanding of language and that's our next phrase.",
+      "cn": "是的，嗯，听起来你在理解语言方面有一点小故障，这就是我们的下一个短语。"
+    },
+    {
+      "id": 81,
+      "en": "So in the dialogue, they were talking about some glitches with the system.",
+      "cn": "在对话中，他们谈到了系统的一些故障。"
+    },
+    {
+      "id": 82,
+      "en": "A glitch in the system.",
+      "cn": "系统故障。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, so a glitch.",
+      "cn": "好吧，故障。"
+    },
+    {
+      "id": 84,
+      "en": "Now this is common among computers, right?",
+      "cn": "这在计算机中很常见，对吧？"
+    },
+    {
+      "id": 85,
+      "en": "A glitch is an error.",
+      "cn": "故障是一个错误。"
+    },
+    {
+      "id": 86,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 87,
+      "en": "So when you're talking about a glitch and you're talking about computers, it's an error, a mistake.",
+      "cn": "所以当你谈论故障时，谈论计算机时，它是一个错误，一个失误。"
+    },
+    {
+      "id": 88,
+      "en": "But we also use it to talk about any unexpected problem.",
+      "cn": "但我们也用它来谈论任何意外的问题。"
+    },
+    {
+      "id": 89,
+      "en": "A small unexpected problem.",
+      "cn": "一个小的意外问题。"
+    },
+    {
+      "id": 90,
+      "en": "Okay, so a small glitch.",
+      "cn": "好吧，所以一个小故障。"
+    },
+    {
+      "id": 91,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 92,
+      "en": "There was a glitch in our plan and we arrived 10 minutes late.",
+      "cn": "我们的计划中出现了故障，我们迟到了10分钟。"
+    },
+    {
+      "id": 93,
+      "en": "Or I can say this movie has a glitch in the story.",
+      "cn": "或者我可以说这部电影的故事有一个故障。"
+    },
+    {
+      "id": 94,
+      "en": "So there's a small problem in the story that doesn't make sense.",
+      "cn": "所以故事中有一个小问题，不合逻辑。"
+    },
+    {
+      "id": 95,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 96,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 97,
+      "en": "So the employee was blaming his lateness on these small technical glitches, but the boss didn't believe this, right?",
+      "cn": "所以员工把他的迟到归咎于这些小技术故障，但老板不相信，对吧？"
+    },
+    {
+      "id": 98,
+      "en": "The boss said you're trying to rationalize the fact that you missed the deadline.",
+      "cn": "老板说你在试图合理化你错过截止日期的事实。"
+    },
+    {
+      "id": 99,
+      "en": "Okay, to rationalize.",
+      "cn": "好吧，合理化。"
+    },
+    {
+      "id": 100,
+      "en": "To rationalize.",
+      "cn": "合理化。"
+    },
+    {
+      "id": 101,
+      "en": "So the boss is saying that he's trying to rationalize.",
+      "cn": "所以老板是在说他在试图找借口。"
+    },
+    {
+      "id": 102,
+      "en": "So that means is he trying to make sense of it?",
+      "cn": "那这意味着他是在试图理解这一切吗？"
+    },
+    {
+      "id": 103,
+      "en": "Well, this is an interesting psychological word.",
+      "cn": "嗯，这是一个有趣的心理学词汇。"
+    },
+    {
+      "id": 104,
+      "en": "And when you rationalize something, you think about it or describe it, like especially some bad behavior in a way that makes it seem better or proper or more sensible.",
+      "cn": "当你为某事找借口时，你会以某种方式思考或描述它，尤其是一些不良行为，使其看起来更好或更合理。"
+    },
+    {
+      "id": 105,
+      "en": "So you're trying to convince yourself?",
+      "cn": "所以你是在试图说服自己？"
+    },
+    {
+      "id": 106,
+      "en": "Yeah, you're telling other people, but you're also telling yourself that it's better.",
+      "cn": "是的，你在告诉别人，但你也在告诉自己这更好。"
+    },
+    {
+      "id": 107,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 108,
+      "en": "Or that you're right when you're actually wrong?",
+      "cn": "或者你认为自己是对的，而实际上是错的？"
+    },
+    {
+      "id": 109,
+      "en": "Yes.",
+      "cn": "是的。"
+    },
+    {
+      "id": 110,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 111,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 112,
+      "en": "So he was trying to rationalize the fact that he missed the deadline.",
+      "cn": "所以他在试图为错过截止日期找借口。"
+    },
+    {
+      "id": 113,
+      "en": "So he was trying to explain to the boss and also kind of make himself believe that it wasn't really his fault when it was.",
+      "cn": "所以他在试图向老板解释，并让自己相信这并不是他的错，尽管实际上是。"
+    },
+    {
+      "id": 114,
+      "en": "Now, because this is a little bit of a difficult concept to understand, I think we should hear some examples.",
+      "cn": "现在，因为这是一个有点难以理解的概念，我认为我们应该听一些例子。"
+    },
+    {
+      "id": 115,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 116,
+      "en": "You can't rationalize your son's behavior by saying he's going through a hard time.",
+      "cn": "你不能通过说你儿子正在经历困难时期来为他的行为找借口。"
+    },
+    {
+      "id": 117,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 118,
+      "en": "As much as I tried, I couldn't rationalize buying such an expensive pair of shoes.",
+      "cn": "尽管我努力尝试，我还是无法为买这么贵的一双鞋找借口。"
+    },
+    {
+      "id": 119,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 120,
+      "en": "You know, it was the wrong thing to do.",
+      "cn": "你知道，这样做是错误的。"
+    },
+    {
+      "id": 121,
+      "en": "Stop trying to rationalize it.",
+      "cn": "别再试图为此找借口了。"
+    },
+    {
+      "id": 122,
+      "en": "Okay, so clear as daylight now this word rationalize.",
+      "cn": "好的，现在这个词“找借口”很清楚了。"
+    },
+    {
+      "id": 123,
+      "en": "Alright, in our final words, so the boss really wasn't happy with these excuses.",
+      "cn": "好吧，在我们最后的话中，老板对这些借口真的不满意。"
+    },
+    {
+      "id": 124,
+      "en": "And he said, no more phony excuses.",
+      "cn": "他还说，不要再有虚假的借口了。"
+    },
+    {
+      "id": 125,
+      "en": "Okay, phony phony p h o n y phony.",
+      "cn": "好的，虚假，虚假，p h o n y，虚假。"
+    },
+    {
+      "id": 126,
+      "en": "So phony is basically false or fake.",
+      "cn": "所以虚假基本上是假的或伪造的。"
+    },
+    {
+      "id": 127,
+      "en": "Right?",
+      "cn": "对吧？"
+    },
+    {
+      "id": 128,
+      "en": "So a phony statement.",
+      "cn": "所以一个虚假的声明。"
+    },
+    {
+      "id": 129,
+      "en": "A phony watch.",
+      "cn": "一块虚假的手表。"
+    },
+    {
+      "id": 130,
+      "en": "Okay, a fake watch.",
+      "cn": "好的，一块假手表。"
+    },
+    {
+      "id": 131,
+      "en": "Yeah, not a Sony watch, but a phony.",
+      "cn": "是的，不是索尼手表，而是虚假的。"
+    },
+    {
+      "id": 132,
+      "en": "So a lot of great words in this dialogue.",
+      "cn": "所以这个对话中有很多很棒的词汇。"
+    },
+    {
+      "id": 133,
+      "en": "But as you mentioned, we also saw some very interesting phrases that we can use in situations like this.",
+      "cn": "但正如你提到的，我们也看到了一些非常有趣的短语，可以在这样的情况下使用。"
+    },
+    {
+      "id": 134,
+      "en": "So why don't we start now with fluency builder.",
+      "cn": "所以我们现在为什么不开始流利度提升呢？"
+    },
+    {
+      "id": 135,
+      "en": "Fluency builder.",
+      "cn": "流利度提升。"
+    },
+    {
+      "id": 136,
+      "en": "Well, you know, one of the interesting things about English is that we have a lot of ways to make things sound more direct, less direct, harder or softer.",
+      "cn": "嗯，你知道，英语中有很多方式让事情听起来更直接、更间接、更强烈或更温和。"
+    },
+    {
+      "id": 137,
+      "en": "And in this dialogue, there are a few examples of how we use softening words to but just to do the opposite to actually make it a little strong.",
+      "cn": "在这个对话中，有几个例子展示了我们如何使用缓和词，但实际上是为了让它更强烈。"
+    },
+    {
+      "id": 138,
+      "en": "Okay, so why don't we start with the first paragraph.",
+      "cn": "好的，那我们为什么不从第一段开始呢？"
+    },
+    {
+      "id": 139,
+      "en": "In the first part of the dialogue, he said you missed a fairly significant deadline, a fairly significant deadline.",
+      "cn": "在对话的第一部分，他说你错过了一个相当重要的截止日期，一个相当重要的截止日期。"
+    },
+    {
+      "id": 140,
+      "en": "Now this word fairly, kind of sort of so it's not very significant.",
+      "cn": "现在这个词“相当”，有点像，所以它并不是非常重要。"
+    },
+    {
+      "id": 141,
+      "en": "It's kind of significant.",
+      "cn": "它有点重要。"
+    },
+    {
+      "id": 142,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 143,
+      "en": "But in this context, when when the person is saying it, it just sounds a little bit softer.",
+      "cn": "但在这个上下文中，当这个人说时，它听起来有点温和。"
+    },
+    {
+      "id": 144,
+      "en": "But your understanding is it's a very important deadline.",
+      "cn": "但你的理解是这是一个非常重要的截止日期。"
+    },
+    {
+      "id": 145,
+      "en": "Okay, a very important deadline.",
+      "cn": "好的，一个非常重要的截止日期。"
+    },
+    {
+      "id": 146,
+      "en": "So another similar example of this is the boss was saying you're essentially blaming the tech team.",
+      "cn": "所以另一个类似的例子是老板在说你基本上是在责怪技术团队。"
+    },
+    {
+      "id": 147,
+      "en": "Okay, you're essentially blaming.",
+      "cn": "好的，你基本上是在责怪。"
+    },
+    {
+      "id": 148,
+      "en": "So essentially is like basically or pretty much.",
+      "cn": "所以“基本上”就像是“基本上”或“差不多”。"
+    },
+    {
+      "id": 149,
+      "en": "So it sounds a little softer.",
+      "cn": "听起来有点温和。"
+    },
+    {
+      "id": 150,
+      "en": "But what he's actually really saying is, you're doing this right.",
+      "cn": "但他实际上是在说，你是在责怪技术团队。"
+    },
+    {
+      "id": 151,
+      "en": "So instead of saying, you're blaming the tech team, he adds this word essentially to kind of say, well, basically, you're saying it's their fault.",
+      "cn": "所以他没有直接说你在责怪技术团队，而是加上这个词“基本上”，以便说，嗯，基本上，你是在说这是他们的错。"
+    },
+    {
+      "id": 152,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 153,
+      "en": "But the context or you understand that it's actually very direct, and he's saying it's your fault.",
+      "cn": "但上下文或你理解的是他实际上是非常直接的，他在说这是你的错。"
+    },
+    {
+      "id": 154,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 155,
+      "en": "So he's, he's saying, you're almost blaming the tech team.",
+      "cn": "所以他说，你几乎是在责怪技术团队。"
+    },
+    {
+      "id": 156,
+      "en": "But what he means is you're blaming the tech team.",
+      "cn": "但他的意思是你在责怪技术团队。"
+    },
+    {
+      "id": 157,
+      "en": "Now, our third phrase is very interesting because it's kind of like a saying.",
+      "cn": "现在，我们的第三个短语非常有趣，因为它有点像一个说法。"
+    },
+    {
+      "id": 158,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 159,
+      "en": "So the employee says, I'm not trying to pass the buck here.",
+      "cn": "所以员工说，我不是在推卸责任。"
+    },
+    {
+      "id": 160,
+      "en": "I'm not trying to pass the buck here.",
+      "cn": "我不是在推卸责任。"
+    },
+    {
+      "id": 161,
+      "en": "I'm not trying to pass the buck.",
+      "cn": "我不是在推卸责任。"
+    },
+    {
+      "id": 162,
+      "en": "Now, what's the buck?",
+      "cn": "现在，什么是“责任”？"
+    },
+    {
+      "id": 163,
+      "en": "A dollar bill, a dollar bill.",
+      "cn": "一美元钞票，一美元钞票。"
+    },
+    {
+      "id": 164,
+      "en": "So he's will understand that he's saying I'm not trying to blame somebody else or pass the blame onto someone else.",
+      "cn": "所以他会理解他在说我不是在责怪别人或把责任推给别人。"
+    },
+    {
+      "id": 165,
+      "en": "But you can think about it like this.",
+      "cn": "但你可以这样想。"
+    },
+    {
+      "id": 166,
+      "en": "Like, imagine he had some fake or phony money, right?",
+      "cn": "比如，想象一下他有一些假钱，对吧？"
+    },
+    {
+      "id": 167,
+      "en": "And he wants to pass that on to the next person so he doesn't get in trouble.",
+      "cn": "他想把它传给下一个人，这样他就不会惹麻烦。"
+    },
+    {
+      "id": 168,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 169,
+      "en": "So I'm not trying to pass the buck.",
+      "cn": "所以我不是在推卸责任。"
+    },
+    {
+      "id": 170,
+      "en": "I'm not trying to pass the blame, put the responsibility on someone else.",
+      "cn": "我不是在推卸责任，把责任推给别人。"
+    },
+    {
+      "id": 171,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 172,
+      "en": "But you know what, you know what he really means here?",
+      "cn": "但你知道他真正的意思是什么吗？"
+    },
+    {
+      "id": 173,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 174,
+      "en": "I am trying to do this.",
+      "cn": "我是在这样做。"
+    },
+    {
+      "id": 175,
+      "en": "Because he knew, yeah, he knew that it was a fake dollar bill.",
+      "cn": "因为他知道，是的，他知道那是一张假钞。"
+    },
+    {
+      "id": 176,
+      "en": "Yeah, yeah.",
+      "cn": "是的，是的。"
+    },
+    {
+      "id": 177,
+      "en": "Now, the fourth one is interesting as well, because it's kind of like a metaphor.",
+      "cn": "现在，第四个也很有趣，因为它有点像一个隐喻。"
+    },
+    {
+      "id": 178,
+      "en": "He said, the boss said, you're using the small technical glitches as a crutch.",
+      "cn": "他说，老板说，你把小的技术故障当作拐杖。"
+    },
+    {
+      "id": 179,
+      "en": "So using something as a crutch.",
+      "cn": "所以把某物当作拐杖。"
+    },
+    {
+      "id": 180,
+      "en": "Now, the crutch is a... You know when you break your leg, you use those wooden or metal sticks to walk with?",
+      "cn": "现在，拐杖是……你知道，当你摔断腿时，你用那些木头或金属棍子走路，对吧？"
+    },
+    {
+      "id": 181,
+      "en": "Okay, to help you walk.",
+      "cn": "好的，帮助你走路。"
+    },
+    {
+      "id": 182,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 183,
+      "en": "So the boss is basically saying you're using these technical glitches as an excuse or as an aid to why you missed the deadline.",
+      "cn": "所以老板基本上是在说你把这些技术故障当作借口或帮助，来解释你为什么错过截止日期。"
+    },
+    {
+      "id": 184,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 185,
+      "en": "So if you think about it like this, some people might say, okay, if you walk with a crutch, then you won't succeed, right?",
+      "cn": "所以如果你这样想，有些人可能会说，好吧，如果你用拐杖走路，那么你就不会成功，对吧？"
+    },
+    {
+      "id": 186,
+      "en": "Because, whatever.",
+      "cn": "因为，无论如何。"
+    },
+    {
+      "id": 187,
+      "en": "So this guy, this employee is basically saying, yes, I know that I should meet deadlines.",
+      "cn": "所以这个家伙，这个员工基本上是在说，是的，我知道我应该遵守截止日期。"
+    },
+    {
+      "id": 188,
+      "en": "But these these problems, these glitches are like my crutch that make me not succeed.",
+      "cn": "但这些问题，这些故障就像是我的拐杖，让我无法成功。"
+    },
+    {
+      "id": 189,
+      "en": "Okay, so he's trying to just make excuses.",
+      "cn": "好的，所以他只是在找借口。"
+    },
+    {
+      "id": 190,
+      "en": "So, um, God, Marco, that was a little bit difficult to understand.",
+      "cn": "所以，嗯，天哪，马尔科，这有点难以理解。"
+    },
+    {
+      "id": 191,
+      "en": "Do you think we should give a couple more examples?",
+      "cn": "你认为我们应该再给几个例子吗？"
+    },
+    {
+      "id": 192,
+      "en": "Yeah, I think I think some more examples would be very useful.",
+      "cn": "是的，我认为再给几个例子会很有用。"
+    },
+    {
+      "id": 193,
+      "en": "So let's listen to a couple of them now.",
+      "cn": "所以我们现在来听几个例子。"
+    },
+    {
+      "id": 194,
+      "en": "Example one.",
+      "cn": "例子一。"
+    },
+    {
+      "id": 195,
+      "en": "I realized that I was using alcohol as a crutch to get through the day.",
+      "cn": "我意识到我在用酒精作为拐杖来度过这一天。"
+    },
+    {
+      "id": 196,
+      "en": "Example two.",
+      "cn": "例子二。"
+    },
+    {
+      "id": 197,
+      "en": "I think Bill's very capable of being successful, but he uses his disability as a crutch.",
+      "cn": "我认为比尔非常有能力成功，但他把自己的残疾当作支柱。"
+    },
+    {
+      "id": 198,
+      "en": "Example three.",
+      "cn": "例子三。"
+    },
+    {
+      "id": 199,
+      "en": "Stop using your weight as a crutch.",
+      "cn": "别把你的体重当作支柱。"
+    },
+    {
+      "id": 200,
+      "en": "Just because you're a bit fat doesn't mean you can't get a great job.",
+      "cn": "仅仅因为你有点胖并不意味着你不能找到一份好工作。"
+    },
+    {
+      "id": 201,
+      "en": "Alright, so a lot of great phrases, great words.",
+      "cn": "好吧，很多很棒的短语，很棒的词汇。"
+    },
+    {
+      "id": 202,
+      "en": "And well, I think it's time for us to listen to this dialogue for the last time.",
+      "cn": "我想是时候最后一次听这个对话了。"
+    },
+    {
+      "id": 203,
+      "en": "And then we'll come back and talk about this aspect of meeting deadlines.",
+      "cn": "然后我们再回来讨论一下关于按时完成任务的这个方面。"
+    },
+    {
+      "id": 204,
+      "en": "And so I just wanted to check in with you and find out where we are with this project.",
+      "cn": "我只是想和你确认一下，我们这个项目的进展如何。"
+    },
+    {
+      "id": 205,
+      "en": "As you know, you missed a fairly significant deadline last week, and this will negatively impact the team's ability to move forward with the next stages of this project.",
+      "cn": "你知道，上周你错过了一个相当重要的截止日期，这将对团队推进项目的下一阶段产生负面影响。"
+    },
+    {
+      "id": 206,
+      "en": "I know, I'm really sorry that I missed the deadline.",
+      "cn": "我知道，我真的很抱歉错过了截止日期。"
+    },
+    {
+      "id": 207,
+      "en": "But really, it wasn't my fault.",
+      "cn": "但真的，这不是我的错。"
+    },
+    {
+      "id": 208,
+      "en": "You see, we had all of these unexpected technical problems at the last minute.",
+      "cn": "你看，我们在最后一刻遇到了所有这些意外的技术问题。"
+    },
+    {
+      "id": 209,
+      "en": "And I couldn't get into the database and extract the kind of information that I needed for the data analysis.",
+      "cn": "我无法进入数据库提取我需要的数据分析信息。"
+    },
+    {
+      "id": 210,
+      "en": "You know, if the tech guys would have done their job and kept the CRM stable, then I wouldn't have missed my deadline.",
+      "cn": "你知道，如果技术人员能做好他们的工作，保持CRM的稳定，我就不会错过截止日期。"
+    },
+    {
+      "id": 211,
+      "en": "Oh, come on.",
+      "cn": "哦，得了吧。"
+    },
+    {
+      "id": 212,
+      "en": "An excuse like that is tantamount to lying.",
+      "cn": "这样的借口等同于撒谎。"
+    },
+    {
+      "id": 213,
+      "en": "You're essentially blaming the tech team for your time management issues, rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+      "cn": "你实际上是在把时间管理问题归咎于技术团队，而不是接受你在过去两周拖延的事实。"
+    },
+    {
+      "id": 214,
+      "en": "No, I'm not trying to pass the buck here.",
+      "cn": "不，我不是想推卸责任。"
+    },
+    {
+      "id": 215,
+      "en": "I know it was me who was ultimately responsible for getting this done.",
+      "cn": "我知道最终负责完成这项工作的是我。"
+    },
+    {
+      "id": 216,
+      "en": "But the thing is, I could have finished on time if the system hadn't gone down.",
+      "cn": "但问题是，如果系统没有崩溃，我本可以按时完成。"
+    },
+    {
+      "id": 217,
+      "en": "And you know, with everything I've got going on now, I can't afford to waste time dealing with technical problems.",
+      "cn": "你知道，考虑到我现在的所有事情，我不能浪费时间处理技术问题。"
+    },
+    {
+      "id": 218,
+      "en": "I've got a lot of my plate, and there are only 24 hours in a day.",
+      "cn": "我有很多事情要做，一天只有24小时。"
+    },
+    {
+      "id": 219,
+      "en": "I'm not going to accept this excuse.",
+      "cn": "我不会接受这个借口。"
+    },
+    {
+      "id": 220,
+      "en": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+      "cn": "你把这些小的技术故障当作支柱，试图合理化你错过截止日期的事实。"
+    },
+    {
+      "id": 221,
+      "en": "Look, we have standards, and I expect you to live up to those standards.",
+      "cn": "听着，我们有标准，我希望你能达到这些标准。"
+    },
+    {
+      "id": 222,
+      "en": "No more phony excuses.",
+      "cn": "不要再有虚假的借口。"
+    },
+    {
+      "id": 223,
+      "en": "If you're in over your head, you tell me.",
+      "cn": "如果你力不从心，你告诉我。"
+    },
+    {
+      "id": 224,
+      "en": "No more missed deadlines.",
+      "cn": "不要再错过截止日期。"
+    },
+    {
+      "id": 225,
+      "en": "Now, I want that data on my desk by 9 A.M.",
+      "cn": "现在，我希望早上9点之前把数据放在我的桌子上。"
+    },
+    {
+      "id": 226,
+      "en": "This employee got in a lot of trouble for missing his deadline.",
+      "cn": "这名员工因为错过截止日期而陷入了很多麻烦。"
+    },
+    {
+      "id": 227,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 228,
+      "en": "I think it's a very important aspect of not only Western culture, but also, in general, assuming guilt when it's your fault.",
+      "cn": "我认为这不仅是西方文化中非常重要的一个方面，而且在一般情况下，承认责任也是如此。"
+    },
+    {
+      "id": 229,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 230,
+      "en": "In this case, we saw that the employee didn't really want to accept the fact that it was his fault.",
+      "cn": "在这种情况下，我们看到员工并不真正想接受这是他的错。"
+    },
+    {
+      "id": 231,
+      "en": "Yeah, he didn't say, Yeah, I know it was me.",
+      "cn": "是的，他没有说，\"是的，我知道是我。\""
+    },
+    {
+      "id": 232,
+      "en": "I'm sorry.",
+      "cn": "\"对不起。\""
+    },
+    {
+      "id": 233,
+      "en": "And this is my plan to fix it.",
+      "cn": "\"这是我解决问题的计划。\""
+    },
+    {
+      "id": 234,
+      "en": "Now, this is very important among cultures, because in some cultures, the aspect of losing face is so important, right?",
+      "cn": "现在，这在不同文化中非常重要，因为在某些文化中，失去面子是非常重要的，对吧？"
+    },
+    {
+      "id": 235,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 236,
+      "en": "So somebody may not really want to assume guilt, or they have to because it's part of the culture.",
+      "cn": "所以，有些人可能不想承担责任，或者他们必须这样做，因为这是文化的一部分。"
+    },
+    {
+      "id": 237,
+      "en": "But what's the standard in North American business practice?",
+      "cn": "但北美商业实践的标准是什么？"
+    },
+    {
+      "id": 238,
+      "en": "I would say that you would have to assume responsibility and take responsibility for your actions, right?",
+      "cn": "我会说，你必须承担责任，为你的行为负责，对吧？"
+    },
+    {
+      "id": 239,
+      "en": "And say, Yes, it's my fault I did it, but I'm gonna get it fixed, or I'll do it or I'll make up for it.",
+      "cn": "并说，\"是的，这是我的错，我做了，但我会解决它，或者我会做，或者我会弥补。\""
+    },
+    {
+      "id": 240,
+      "en": "So some good business tips here today in this lesson.",
+      "cn": "所以今天这节课里有一些好的商业建议。"
+    },
+    {
+      "id": 241,
+      "en": "Now, remember, if you have any questions about the language, or want to tell us a little bit about how you assume responsibility in your culture, visit our website at EnglishPod.com.",
+      "cn": "现在，记住，如果你对语言有任何问题，或者想告诉我们你在文化中如何承担责任，请访问我们的网站EnglishPod.com。"
+    },
+    {
+      "id": 242,
+      "en": "Right, we're always there to help you out and until next time.",
+      "cn": "对，我们一直在这里帮助你，直到下次。"
+    },
+    {
+      "id": 243,
+      "en": "Thanks for listening and goodbye!",
+      "cn": "感谢收听，再见！"
+    }
+  ]
+}

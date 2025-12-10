@@ -1,0 +1,1424 @@
+{
+  "type": "book",
+  "id": "englishpod-中级--englishpod-中级-0251",
+  "title": "EnglishPod 中级 0251",
+  "totalSegments": 283,
+  "seriesId": "englishpod-中级-",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "cn": "大家好，欢迎来到EnglishPod。"
+    },
+    {
+      "id": 2,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Catherine, and today we're talking a little bit about, well, kind of girly things.",
+      "cn": "我叫Catherine，今天我们要聊一些，嗯，有点女孩气的东西。"
+    },
+    {
+      "id": 4,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 5,
+      "en": "We've talked about guys' shoes, women's shoes.",
+      "cn": "我们谈过男士鞋子，女士鞋子。"
+    },
+    {
+      "id": 6,
+      "en": "So now we're going to talk about another aspect of women's accessories.",
+      "cn": "现在我们要谈谈女性配饰的另一个方面。"
+    },
+    {
+      "id": 7,
+      "en": "We're going to talk about makeup.",
+      "cn": "我们要谈谈化妆。"
+    },
+    {
+      "id": 8,
+      "en": "Okay, so we're wearing makeup today.",
+      "cn": "好的，今天我们化了妆。"
+    },
+    {
+      "id": 9,
+      "en": "Actually, we're buying makeup at the store.",
+      "cn": "实际上，我们在商店买化妆品。"
+    },
+    {
+      "id": 10,
+      "en": "I never even knew there were so many kinds of makeups.",
+      "cn": "我甚至不知道有这么多种化妆品。"
+    },
+    {
+      "id": 11,
+      "en": "We're going to learn all about these in today's dialogue.",
+      "cn": "我们将在今天的对话中了解这些。"
+    },
+    {
+      "id": 12,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 13,
+      "en": "Let's go grab a bite to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 14,
+      "en": "Yeah, me too.",
+      "cn": "是的，我也是。"
+    },
+    {
+      "id": 15,
+      "en": "Oh, can we stop at the shop really fast?",
+      "cn": "哦，我们能快点停在商店吗？"
+    },
+    {
+      "id": 16,
+      "en": "I lost my makeup bag at the airport, and I want to pick up a few things.",
+      "cn": "我在机场丢了化妆包，我想买几样东西。"
+    },
+    {
+      "id": 17,
+      "en": "Will you take long?",
+      "cn": "你会花很久吗？"
+    },
+    {
+      "id": 18,
+      "en": "No, five minutes.",
+      "cn": "不，五分钟。"
+    },
+    {
+      "id": 19,
+      "en": "I promise.",
+      "cn": "我保证。"
+    },
+    {
+      "id": 20,
+      "en": "Come on, we've been here for almost an hour.",
+      "cn": "来吧，我们在这里待了快一个小时了。"
+    },
+    {
+      "id": 21,
+      "en": "I thought you said you were only going to get a few things.",
+      "cn": "我以为你说你只会买几样东西。"
+    },
+    {
+      "id": 22,
+      "en": "How long does it take you to pick out a lipstick and some nail Polish?",
+      "cn": "你挑选一支口红和一些指甲油需要多久？"
+    },
+    {
+      "id": 23,
+      "en": "Are you crazy?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 24,
+      "en": "You have no idea what you're talking about.",
+      "cn": "你根本不知道你在说什么。"
+    },
+    {
+      "id": 25,
+      "en": "Just for my eyes, I have to get eyeliner, an eyelash curler, eyeshadow, an eyebrow pencil, and mascara.",
+      "cn": "仅仅是我的眼睛，我需要眼线笔、睫毛夹、眼影、眉笔和睫毛膏。"
+    },
+    {
+      "id": 26,
+      "en": "Then I need to get foundation, liquid foundation.",
+      "cn": "然后我还需要粉底，液体粉底。"
+    },
+    {
+      "id": 27,
+      "en": "Whoa, whoa, whoa.",
+      "cn": "哇，哇，哇。"
+    },
+    {
+      "id": 28,
+      "en": "Are you nuts?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 29,
+      "en": "How much is all this going to cost?",
+      "cn": "这一切要花多少钱？"
+    },
+    {
+      "id": 30,
+      "en": "I'm looking at the price of each one of these little things, and it's outrageous.",
+      "cn": "我在看这些小东西的价格，真是离谱。"
+    },
+    {
+      "id": 31,
+      "en": "This is basically a crayon.",
+      "cn": "这基本上就是一支蜡笔。"
+    },
+    {
+      "id": 32,
+      "en": "What about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 33,
+      "en": "You spend as much money or more on your razors, aftershave, Cologne, and gel.",
+      "cn": "你在剃须刀、须后水、香水和发胶上花的钱也不少。"
+    },
+    {
+      "id": 34,
+      "en": "Not to mention how much you spend on clothes and... Fine, get the stupid $30 crayon.",
+      "cn": "更不用说你在衣服上花了多少钱了……好吧，买那支30美元的蜡笔。"
+    },
+    {
+      "id": 35,
+      "en": "All right, we're back.",
+      "cn": "好的，我们回来了。"
+    },
+    {
+      "id": 36,
+      "en": "So obviously, we're getting a lot of things for this girl, a lot of makeup.",
+      "cn": "显然，我们为这个女孩买了很多东西，很多化妆品。"
+    },
+    {
+      "id": 37,
+      "en": "So I think there are a couple of things that we may not know about.",
+      "cn": "我想有几样东西我们可能不知道。"
+    },
+    {
+      "id": 38,
+      "en": "So let's take a look at them now on Language Takeaway.",
+      "cn": "所以现在让我们在Language Takeaway上看看它们。"
+    },
+    {
+      "id": 39,
+      "en": "Language Takeaway.",
+      "cn": "Language Takeaway。"
+    },
+    {
+      "id": 40,
+      "en": "So the first thing we're talking about today is a basic.",
+      "cn": "今天我们要谈的第一样东西是基础。"
+    },
+    {
+      "id": 41,
+      "en": "Most women carry this around in their purses.",
+      "cn": "大多数女性都会把这个放在她们的包里。"
+    },
+    {
+      "id": 42,
+      "en": "It's called lipstick.",
+      "cn": "它叫口红。"
+    },
+    {
+      "id": 43,
+      "en": "That's right, and as you said, this is a pretty basic thing.",
+      "cn": "没错，正如你所说，这是一种非常基本的东西。"
+    },
+    {
+      "id": 44,
+      "en": "It's the kind of like paint that you put on your lips, and it's called a lipstick because it looks like a little stick.",
+      "cn": "这就像你涂在嘴唇上的颜料，叫口红是因为它看起来像一根小棒。"
+    },
+    {
+      "id": 45,
+      "en": "Right, and you turn it with your fingers, and it comes up, and then you turn it again, and it goes down, basically keeping it from touching all of the things in your purse.",
+      "cn": "对，你用手指转动它，它就会上升，然后再转动，它就会下降，基本上防止它碰到你包里的所有东西。"
+    },
+    {
+      "id": 46,
+      "en": "That's right, so lipstick.",
+      "cn": "没错，所以是口红。"
+    },
+    {
+      "id": 47,
+      "en": "And well, apart from this, we also have nail Polish, and this is also very popular with the ladies.",
+      "cn": "除此之外，我们还有指甲油，这在女士中也非常受欢迎。"
+    },
+    {
+      "id": 48,
+      "en": "When you paint your nails a certain color.",
+      "cn": "当你给指甲涂上某种颜色时。"
+    },
+    {
+      "id": 49,
+      "en": "That's right, so Polish is basically anything that makes something shiny.",
+      "cn": "没错，所以指甲油基本上是让某物发光的任何东西。"
+    },
+    {
+      "id": 50,
+      "en": "It's something that you add to surfaces.",
+      "cn": "它是你添加到表面的东西。"
+    },
+    {
+      "id": 51,
+      "en": "So you could add Polish to wood on a table, but in this case we're putting it on our nails.",
+      "cn": "所以你可以在桌子的木头上添加指甲油，但在这种情况下，我们把它涂在指甲上。"
+    },
+    {
+      "id": 52,
+      "en": "That is fingernails or toenails.",
+      "cn": "也就是手指甲或脚趾甲。"
+    },
+    {
+      "id": 53,
+      "en": "So it's nail Polish.",
+      "cn": "所以是指甲油。"
+    },
+    {
+      "id": 54,
+      "en": "All right, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 55,
+      "en": "And now we're getting into the specific things.",
+      "cn": "现在我们进入具体的东西。"
+    },
+    {
+      "id": 56,
+      "en": "A lot of makeup that women use on their eyes.",
+      "cn": "很多女性在眼睛上使用的化妆品。"
+    },
+    {
+      "id": 57,
+      "en": "So for example, the first thing she said, she needs to get an eyeliner.",
+      "cn": "例如，她说的第一样东西，她需要买眼线笔。"
+    },
+    {
+      "id": 58,
+      "en": "Okay, so eyeliner is basically a pencil.",
+      "cn": "好的，眼线笔基本上是一支铅笔。"
+    },
+    {
+      "id": 59,
+      "en": "This is what the guy is making fun of her about.",
+      "cn": "这是那个男的在嘲笑她的地方。"
+    },
+    {
+      "id": 60,
+      "en": "He says it's just a pencil or a crayon for your eye.",
+      "cn": "他说这只是你眼睛的铅笔或蜡笔。"
+    },
+    {
+      "id": 61,
+      "en": "And so basically you use it to draw a line on the top or the bottom of your eye, your eyelid.",
+      "cn": "所以基本上你用它在眼睛的上面或下面画一条线，眼睑上。"
+    },
+    {
+      "id": 62,
+      "en": "Okay, so yeah, it kind of looks like a marker, and it comes I think black in different colors, and then you paint little lines around your eyes to make them more pronounced.",
+      "cn": "好的，所以是的，它看起来有点像记号笔，颜色有黑色和其他不同颜色，然后你在眼睛周围画小线条，让它们更明显。"
+    },
+    {
+      "id": 63,
+      "en": "So it's called an eyeliner.",
+      "cn": "所以叫眼线笔。"
+    },
+    {
+      "id": 64,
+      "en": "Okay, and now we have an eyelash curler, and also I think this is very important for the ladies.",
+      "cn": "好的，现在我们有睫毛夹，我认为这对女士来说也很重要。"
+    },
+    {
+      "id": 65,
+      "en": "Yeah, well not everyone uses this.",
+      "cn": "是的，并不是每个人都使用这个。"
+    },
+    {
+      "id": 66,
+      "en": "It's a little bit of a scary instrument.",
+      "cn": "这是一种有点可怕的工具。"
+    },
+    {
+      "id": 67,
+      "en": "It looks like it might pop your eye out.",
+      "cn": "它看起来可能会把你的眼睛弹出来。"
+    },
+    {
+      "id": 68,
+      "en": "It's something you use on your eyelashes.",
+      "cn": "这是你用在睫毛上的东西。"
+    },
+    {
+      "id": 69,
+      "en": "So those are the hairs that come off of your eye, and basically you use this to make them curly or to make them seem a bit longer and prettier.",
+      "cn": "所以那些是从你眼睛上长出来的毛发，基本上你用这个让它们卷曲或看起来更长更漂亮。"
+    },
+    {
+      "id": 70,
+      "en": "So an eyelash curler is something that it's almost like a press or something for your eyelashes.",
+      "cn": "所以睫毛夹就像是一个压夹，用于你的睫毛。"
+    },
+    {
+      "id": 71,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 72,
+      "en": "And well, now that we've got that covered, we move on to eyeshadow, and I think this goes on your eyelid, right?",
+      "cn": "现在我们已经覆盖了这些，我们继续谈眼影，我认为这涂在眼睑上，对吗？"
+    },
+    {
+      "id": 73,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 74,
+      "en": "Some people make it go further.",
+      "cn": "有些人会涂得更远。"
+    },
+    {
+      "id": 75,
+      "en": "They put it on their face above their eyelid, but that's a little bit crazy.",
+      "cn": "他们把它涂在眼睑上方的脸上，但那有点疯狂。"
+    },
+    {
+      "id": 76,
+      "en": "I think eyeshadow generally goes, like you said, on your eyelid, and it can be in many different colors.",
+      "cn": "我认为眼影通常涂在眼睑上，可以有很多不同的颜色。"
+    },
+    {
+      "id": 77,
+      "en": "So blue, pink, red, whatever.",
+      "cn": "比如蓝色、粉色、红色等等。"
+    },
+    {
+      "id": 78,
+      "en": "People sometimes go crazy with eyeshadow.",
+      "cn": "有时人们会在眼影上疯狂。"
+    },
+    {
+      "id": 79,
+      "en": "Okay, and now what about an eyebrow pencil?",
+      "cn": "好的，现在眉笔呢？"
+    },
+    {
+      "id": 80,
+      "en": "This is basically a pencil for filling in or for coloring your eyebrows.",
+      "cn": "这基本上是用来填充或给眉毛上色的铅笔。"
+    },
+    {
+      "id": 81,
+      "en": "Sometimes people like to make their eyebrows look darker or thicker, and so they use this pencil.",
+      "cn": "有时人们喜欢让眉毛看起来更深或更浓，所以他们使用这支铅笔。"
+    },
+    {
+      "id": 82,
+      "en": "It's usually brown or black, and they use it on their eyebrows.",
+      "cn": "通常是棕色或黑色，他们用它在眉毛上。"
+    },
+    {
+      "id": 83,
+      "en": "So we've picked up a lot of vocab here related to your eye.",
+      "cn": "所以我们在这里学到了很多与眼睛相关的词汇。"
+    },
+    {
+      "id": 84,
+      "en": "For example, an eyelash, your eyelid.",
+      "cn": "例如，睫毛、眼睑。"
+    },
+    {
+      "id": 85,
+      "en": "Now we're talking about the eyebrows, which are the hairs on top, more or less around your forehead.",
+      "cn": "现在我们谈论眉毛，它们是大致在额头上方的毛发。"
+    },
+    {
+      "id": 86,
+      "en": "And now we also have another type of makeup called mascara.",
+      "cn": "现在我们还有另一种化妆品叫睫毛膏。"
+    },
+    {
+      "id": 87,
+      "en": "This is another basic.",
+      "cn": "这也是一种基础。"
+    },
+    {
+      "id": 88,
+      "en": "So like we said earlier, lipstick is something you almost always find in a woman's purse.",
+      "cn": "正如我们之前所说，口红几乎总是可以在女性的包里找到。"
+    },
+    {
+      "id": 89,
+      "en": "Well, mascara is another one of those things.",
+      "cn": "而睫毛膏也是其中之一。"
+    },
+    {
+      "id": 90,
+      "en": "Almost everybody wears mascara.",
+      "cn": "几乎每个人都涂睫毛膏。"
+    },
+    {
+      "id": 91,
+      "en": "This is kind of like a brush for your eyelashes, and it paints them a different color.",
+      "cn": "这就像是给睫毛刷的东西，它给睫毛涂上不同的颜色。"
+    },
+    {
+      "id": 92,
+      "en": "So most women wear black or brown, and it makes your eyelashes look really long.",
+      "cn": "所以大多数女性涂黑色或棕色，它让你的睫毛看起来非常长。"
+    },
+    {
+      "id": 93,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 94,
+      "en": "So this is kind of like paint for your eyelashes.",
+      "cn": "所以这就像是给睫毛涂的颜料。"
+    },
+    {
+      "id": 95,
+      "en": "And now moving away from your eyelashes, we're gonna have, we're buying also some foundation and liquid foundation.",
+      "cn": "现在离开睫毛，我们还要买一些粉底和液体粉底。"
+    },
+    {
+      "id": 96,
+      "en": "Okay, so foundation is just a kind of base for your face.",
+      "cn": "好的，粉底就是你脸上的一种基础。"
+    },
+    {
+      "id": 97,
+      "en": "So foundation, like a building is the very bottom.",
+      "cn": "所以粉底，就像建筑物的基础，是最底层。"
+    },
+    {
+      "id": 98,
+      "en": "Well, in this case, it's something that you put on your cheeks, on your face, in general, on your forehead to kind of smooth your skin out and make it look all the same color or the same, the same texture.",
+      "cn": "在这种情况下，它是你涂在脸颊、脸上、额头上的东西，以平滑你的皮肤，使其看起来颜色均匀或质地相同。"
+    },
+    {
+      "id": 99,
+      "en": "And so foundation can be like, like we see here, either a powder, which is kind of like a dry substance, or you can use liquid foundation, which is like it says liquid, it's almost like a thick cream.",
+      "cn": "所以粉底可以是像我们看到的那样，粉状的，像干的物质，或者你可以使用液体粉底，像它所说的液体，几乎像厚奶油。"
+    },
+    {
+      "id": 100,
+      "en": "Alright, so foundation is, as you said, I guess you just want to make your skin look the same color, the same texture, because obviously not everyone's skin is perfect.",
+      "cn": "好吧，所以粉底就是，正如你所说，我想你只是想让你的皮肤看起来颜色均匀，质地相同，因为显然并不是每个人的皮肤都是完美的。"
+    },
+    {
+      "id": 101,
+      "en": "We all have some spots maybe or some different color on our face.",
+      "cn": "我们的脸上可能都有一些斑点或不同的颜色。"
+    },
+    {
+      "id": 102,
+      "en": "You say we like you wear foundation too.",
+      "cn": "你说我们也像你一样涂粉底。"
+    },
+    {
+      "id": 103,
+      "en": "Do you wear makeup, Marco?",
+      "cn": "马尔科，你化妆吗？"
+    },
+    {
+      "id": 104,
+      "en": "Well, I mean, we as people, because you know, alright, no, no, no, no, none of this makeup for me, although I have used an eyelash curler once.",
+      "cn": "嗯，我是说，我们作为人，知道的，好的，不，不，不，我不化妆，虽然我曾经用过一次睫毛夹。"
+    },
+    {
+      "id": 105,
+      "en": "That's scary.",
+      "cn": "那很可怕。"
+    },
+    {
+      "id": 106,
+      "en": "Well, my friends dared me to, so okay.",
+      "cn": "嗯，我的朋友们让我试试，所以好吧。"
+    },
+    {
+      "id": 107,
+      "en": "And you loved it.",
+      "cn": "你喜欢它。"
+    },
+    {
+      "id": 108,
+      "en": "Of course.",
+      "cn": "当然。"
+    },
+    {
+      "id": 109,
+      "en": "Now I use it all the time.",
+      "cn": "现在我一直在用。"
+    },
+    {
+      "id": 110,
+      "en": "No, no.",
+      "cn": "不，不。"
+    },
+    {
+      "id": 111,
+      "en": "But what I do use is now things related to guys.",
+      "cn": "但我现在用的是与男士相关的东西。"
+    },
+    {
+      "id": 112,
+      "en": "So for example, the girlfriend was saying, well, you buy razors and aftershave.",
+      "cn": "比如说，女朋友说，你买剃须刀和须后水。"
+    },
+    {
+      "id": 113,
+      "en": "So what are these things?",
+      "cn": "那这些东西是什么？"
+    },
+    {
+      "id": 114,
+      "en": "Well, razors aren't just a guy thing.",
+      "cn": "嗯，剃须刀并不仅仅是男士的东西。"
+    },
+    {
+      "id": 115,
+      "en": "Everyone can have a razor.",
+      "cn": "每个人都可以有剃须刀。"
+    },
+    {
+      "id": 116,
+      "en": "It's basically a blade like a very sharp piece of metal that you use to cut hair.",
+      "cn": "它基本上是一种刀片，像一块非常锋利的金属，用来剃头发。"
+    },
+    {
+      "id": 117,
+      "en": "So the hair on your legs, the hair on your face.",
+      "cn": "所以腿上的毛，脸上的毛。"
+    },
+    {
+      "id": 118,
+      "en": "These are these are things that you cut with a razor and men use razors to shave their faces, shave their chins or above their lip.",
+      "cn": "这些是用剃须刀剃的东西，男人用剃须刀剃脸、剃下巴或上唇。"
+    },
+    {
+      "id": 119,
+      "en": "Alright.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 120,
+      "en": "And well, actually, after we shave our beard, we put on a little bit of aftershave, which is basically kind of like alcohol that smells really nice.",
+      "cn": "实际上，剃完胡子后，我们会涂一点须后水，基本上就像一种闻起来很好的酒精。"
+    },
+    {
+      "id": 121,
+      "en": "That's right, because shaving can actually hurt your skin or the hairs under your skin can become really itchy or irritated.",
+      "cn": "没错，因为剃须实际上可能会伤害你的皮肤，或者皮肤下的毛发可能会变得非常痒或刺激。"
+    },
+    {
+      "id": 122,
+      "en": "And so aftershave helps make everything feel better.",
+      "cn": "所以须后水有助于让一切感觉更好。"
+    },
+    {
+      "id": 123,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 124,
+      "en": "And well, sometimes we also use a little bit of Cologne to smell nice.",
+      "cn": "有时我们也会用一点香水来闻起来很好。"
+    },
+    {
+      "id": 125,
+      "en": "So women usually wear perfume, which is, you know, all the perfumes like CK and Ugo Boss and all that stuff, as well as for guys, it's usually called Cologne.",
+      "cn": "所以女性通常使用香水，你知道的，所有的香水像CK和乌戈·博斯等等，而男士通常称之为古龙水。"
+    },
+    {
+      "id": 126,
+      "en": "Okay, that's right.",
+      "cn": "好的，没错。"
+    },
+    {
+      "id": 127,
+      "en": "It's an important difference there because we don't say perfume for guys, and we don't say Cologne for girls.",
+      "cn": "这是一个重要的区别，因为我们不对男士说香水，也不对女士说古龙水。"
+    },
+    {
+      "id": 128,
+      "en": "So women wear perfume, like you said, but men wear Cologne.",
+      "cn": "所以女性使用香水，正如你所说，但男性使用古龙水。"
+    },
+    {
+      "id": 129,
+      "en": "And this word is very funny looking.",
+      "cn": "这个词看起来很有趣。"
+    },
+    {
+      "id": 130,
+      "en": "It ends with, it's spelled c-o-l-o-g-n-e.",
+      "cn": "它以c-o-l-o-g-n-e拼写。"
+    },
+    {
+      "id": 131,
+      "en": "So you don't It's Cologne.",
+      "cn": "所以你不要，它是古龙水。"
+    },
+    {
+      "id": 132,
+      "en": "And it's something that you put on your neck or your face to smell really good if you're a man.",
+      "cn": "这是你涂在脖子或脸上的东西，让你闻起来很好，如果你是男士。"
+    },
+    {
+      "id": 133,
+      "en": "Exactly.",
+      "cn": "正是。"
+    },
+    {
+      "id": 134,
+      "en": "And finally, if you have long hair or maybe you have very spiky hair like I do, you need to wear a little bit of gel to kind of give your head a little bit of shape.",
+      "cn": "最后，如果你有长发，或者像我一样有非常尖的头发，你需要涂一点发胶来给你的头发一些形状。"
+    },
+    {
+      "id": 135,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 136,
+      "en": "So gel is actually the name of a kind of substance.",
+      "cn": "所以发胶实际上是一种物质的名称。"
+    },
+    {
+      "id": 137,
+      "en": "It's not liquid, but it's not hard either.",
+      "cn": "它不是液体，但也不是硬的。"
+    },
+    {
+      "id": 138,
+      "en": "And it's basically thick like paste that you put in your hair to keep it in one place.",
+      "cn": "它基本上像厚厚的糊状物，你涂在头发上以保持它在一个地方。"
+    },
+    {
+      "id": 139,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 140,
+      "en": "It makes your hair become a little bit hard or it keeps your hairstyle in for a long time.",
+      "cn": "它让你的头发变得有点硬，或者让你的发型保持很长时间。"
+    },
+    {
+      "id": 141,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 142,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 143,
+      "en": "So a lot of vocab here.",
+      "cn": "所以这里有很多词汇。"
+    },
+    {
+      "id": 144,
+      "en": "A lot of things that we've picked up.",
+      "cn": "我们学到了很多东西。"
+    },
+    {
+      "id": 145,
+      "en": "Why don't we go back, review all this great vocab on our dialogue for today.",
+      "cn": "我们为什么不回去，复习一下今天对话中的所有好词汇。"
+    },
+    {
+      "id": 146,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 147,
+      "en": "Let's go grab a bite to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 148,
+      "en": "Yeah, me too.",
+      "cn": "是的，我也是。"
+    },
+    {
+      "id": 149,
+      "en": "Oh, can we stop at the shop really fast?",
+      "cn": "哦，我们能快点在商店停一下吗？"
+    },
+    {
+      "id": 150,
+      "en": "I lost my makeup bag at the airport and I want to pick up a few things.",
+      "cn": "我在机场丢了化妆包，我想买一些东西。"
+    },
+    {
+      "id": 151,
+      "en": "Will you take long?",
+      "cn": "你会花很久吗？"
+    },
+    {
+      "id": 152,
+      "en": "No, five minutes.",
+      "cn": "不，五分钟。"
+    },
+    {
+      "id": 153,
+      "en": "I promise.",
+      "cn": "我保证。"
+    },
+    {
+      "id": 154,
+      "en": "Come on.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 155,
+      "en": "We've been here for almost an hour.",
+      "cn": "我们在这里待了快一个小时。"
+    },
+    {
+      "id": 156,
+      "en": "I thought you said you're only going to get a few things.",
+      "cn": "我以为你说你只会买几样东西。"
+    },
+    {
+      "id": 157,
+      "en": "How long does it take you to pick out a lipstick and some nail Polish?",
+      "cn": "你挑选一支口红和一些指甲油要多久？"
+    },
+    {
+      "id": 158,
+      "en": "Are you crazy?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 159,
+      "en": "You have no idea what you're talking about.",
+      "cn": "你根本不知道你在说什么。"
+    },
+    {
+      "id": 160,
+      "en": "Just for my eyes, I have to get eyeliner, an eyelash curler, eyeshadow, an eyebrow pencil, and mascara.",
+      "cn": "仅仅为了我的眼睛，我需要买眼线笔、睫毛夹、眼影、眉笔和睫毛膏。"
+    },
+    {
+      "id": 161,
+      "en": "Then I need to get foundation, liquid foundation.",
+      "cn": "然后我需要买粉底，液体粉底。"
+    },
+    {
+      "id": 162,
+      "en": "Whoa, whoa, whoa.",
+      "cn": "哇，哇，哇。"
+    },
+    {
+      "id": 163,
+      "en": "Are you nuts?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 164,
+      "en": "How much is all this going to cost?",
+      "cn": "这一切要花多少钱？"
+    },
+    {
+      "id": 165,
+      "en": "I'm looking at the price of each one of these little things and it's outrageous.",
+      "cn": "我在看这些小东西的价格，真是离谱。"
+    },
+    {
+      "id": 166,
+      "en": "This is basically a crayon.",
+      "cn": "这基本上是一支蜡笔。"
+    },
+    {
+      "id": 167,
+      "en": "What about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 168,
+      "en": "You spend as much money or more on your razors, aftershave, Cologne, and gel.",
+      "cn": "你在剃须刀、须后水、古龙水和发胶上花的钱也不少。"
+    },
+    {
+      "id": 169,
+      "en": "Not to mention how much you spend on clothes and... Fine, get the stupid $30 crayon.",
+      "cn": "更不用说你在衣服上花了多少钱了……好吧，买那支愚蠢的30美元蜡笔。"
+    },
+    {
+      "id": 170,
+      "en": "All right, we're back.",
+      "cn": "好吧，我们回来了。"
+    },
+    {
+      "id": 171,
+      "en": "So now we're going to take a look at three short phrases that we've picked out for you on Fluency Builder.",
+      "cn": "现在我们要看看我们为你挑选的三个短语，关于流利表达。"
+    },
+    {
+      "id": 172,
+      "en": "Fluency Builder.",
+      "cn": "流利表达。"
+    },
+    {
+      "id": 173,
+      "en": "So this first phrase is something that we always, almost always say with our friends or family.",
+      "cn": "所以第一个短语是我们几乎总是和朋友或家人说的。"
+    },
+    {
+      "id": 174,
+      "en": "When we're hungry, we're shopping, you know, sometimes you're outside and you just really want to eat, you say, hey, let's grab a bite to eat.",
+      "cn": "当我们饿了，购物时，你知道，有时你在外面，你真的想吃东西，你会说，嘿，我们去吃点东西吧。"
+    },
+    {
+      "id": 175,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 176,
+      "en": "So this is a very natural, colloquial way of saying, let's go get something to eat.",
+      "cn": "所以这是一个非常自然、口语化的说法，意思是，我们去吃点东西吧。"
+    },
+    {
+      "id": 177,
+      "en": "Let's go eat something.",
+      "cn": "我们去吃点东西。"
+    },
+    {
+      "id": 178,
+      "en": "So it could be small, it could be a snack like an ice cream, but it can also be dinner.",
+      "cn": "所以可以是小吃，比如冰淇淋，但也可以是晚餐。"
+    },
+    {
+      "id": 179,
+      "en": "So, hey, do you want to go grab a bite to eat sometime?",
+      "cn": "所以，嘿，你想什么时候去吃点东西吗？"
+    },
+    {
+      "id": 180,
+      "en": "That means, hey, you want to go have lunch or dinner sometime?",
+      "cn": "这意味着，嘿，你想什么时候去吃午餐或晚餐吗？"
+    },
+    {
+      "id": 181,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 182,
+      "en": "So the phrase is, grab a bite or go grab a bite to eat.",
+      "cn": "所以这个短语是，吃点东西或去吃点东西。"
+    },
+    {
+      "id": 183,
+      "en": "So a bite can be a noun, like a thing, like a piece of food that you eat, but it can also be a verb to bite like, you know, the dog bites the man.",
+      "cn": "所以一口可以是名词，像是你吃的食物的一部分，但它也可以是动词，像是，狗咬人。"
+    },
+    {
+      "id": 184,
+      "en": "And so you have to be careful with this one.",
+      "cn": "所以你要小心这个。"
+    },
+    {
+      "id": 185,
+      "en": "In this case, it's a noun.",
+      "cn": "在这种情况下，它是名词。"
+    },
+    {
+      "id": 186,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 187,
+      "en": "And well, she wanted to first go to the store and she said, I want to pick up a few things.",
+      "cn": "她首先想去商店，她说，我想买几样东西。"
+    },
+    {
+      "id": 188,
+      "en": "Well, usually when you pick something up, you take it from a table or from the ground.",
+      "cn": "通常当你拿起某样东西时，你是从桌子或地上拿起它。"
+    },
+    {
+      "id": 189,
+      "en": "But in this case, it means to buy something because you can't just pick something up in a store and then walk away.",
+      "cn": "但在这种情况下，它意味着买东西，因为你不能在商店里随便拿东西就走。"
+    },
+    {
+      "id": 190,
+      "en": "You have to pay for it.",
+      "cn": "你必须为它付钱。"
+    },
+    {
+      "id": 191,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 192,
+      "en": "So for example, you can say, when you come home, can you pick up a carton of milk?",
+      "cn": "例如，你可以说，当你回家时，你能买一盒牛奶吗？"
+    },
+    {
+      "id": 193,
+      "en": "So that means, can you buy some milk on your way home?",
+      "cn": "这意味着，你能在回家的路上买些牛奶吗？"
+    },
+    {
+      "id": 194,
+      "en": "It doesn't mean can you take some from someone else or steal some.",
+      "cn": "这并不意味着你能从别人那里拿一些或偷一些。"
+    },
+    {
+      "id": 195,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 196,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 197,
+      "en": "So to pick something up, to buy, to go and get, but obviously you have to pay.",
+      "cn": "所以拿东西，买东西，去拿，但显然你得付钱。"
+    },
+    {
+      "id": 198,
+      "en": "All right.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 199,
+      "en": "And he uses very interesting phrase.",
+      "cn": "他用了一句非常有趣的短语。"
+    },
+    {
+      "id": 200,
+      "en": "When she was getting all of these, all these things for her, he said, Whoa, Whoa, Whoa.",
+      "cn": "当她为自己拿这些东西时，他说，哇，哇，哇。"
+    },
+    {
+      "id": 201,
+      "en": "Are you nuts?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 202,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 203,
+      "en": "So nuts is the important word here.",
+      "cn": "所以“疯”是这里的重要词。"
+    },
+    {
+      "id": 204,
+      "en": "It means crazy or out of your mind.",
+      "cn": "它意味着疯狂或失去理智。"
+    },
+    {
+      "id": 205,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 206,
+      "en": "So it's another way of saying crazy.",
+      "cn": "所以这是另一种说“疯狂”的方式。"
+    },
+    {
+      "id": 207,
+      "en": "So if you call someone nuts or you say he's nuts, that means, yeah, like don't talk to him.",
+      "cn": "如果你称某人为疯子，或者你说他疯了，那意味着，是的，像是别跟他讲话。"
+    },
+    {
+      "id": 208,
+      "en": "He's nuts.",
+      "cn": "他疯了。"
+    },
+    {
+      "id": 209,
+      "en": "Or he always says really dangerous things.",
+      "cn": "或者他说一些非常危险的话。"
+    },
+    {
+      "id": 210,
+      "en": "He's nuts.",
+      "cn": "他疯了。"
+    },
+    {
+      "id": 211,
+      "en": "So he's a little bit crazy.",
+      "cn": "所以他有点疯狂。"
+    },
+    {
+      "id": 212,
+      "en": "So it's an adjective as to describe someone that's a little bit crazy or a little bit adventurous maybe.",
+      "cn": "所以这是一个形容词，用来形容一个人有点疯狂或有点冒险。"
+    },
+    {
+      "id": 213,
+      "en": "But in this case, he's not actually saying she's a crazy person.",
+      "cn": "但在这种情况下，他并不是在说她是个疯子。"
+    },
+    {
+      "id": 214,
+      "en": "He's saying, listen, this is so much stuff.",
+      "cn": "他在说，听着，这么多东西。"
+    },
+    {
+      "id": 215,
+      "en": "Are you crazy?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 216,
+      "en": "Or he's basically saying, do you really want to do this?",
+      "cn": "或者他基本上在说，你真的想这样做吗？"
+    },
+    {
+      "id": 217,
+      "en": "This seems like a bad decision.",
+      "cn": "这似乎是个糟糕的决定。"
+    },
+    {
+      "id": 218,
+      "en": "Exactly.",
+      "cn": "没错。"
+    },
+    {
+      "id": 219,
+      "en": "So that's why he used the phrase.",
+      "cn": "所以这就是他使用这个短语的原因。"
+    },
+    {
+      "id": 220,
+      "en": "Are you nuts?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 221,
+      "en": "Okay.",
+      "cn": "好吧。"
+    },
+    {
+      "id": 222,
+      "en": "So a lot of great stuff there.",
+      "cn": "所以这里有很多很棒的东西。"
+    },
+    {
+      "id": 223,
+      "en": "Why don't we go back, listen to our dialogue for the last time and we'll be back in a bit.",
+      "cn": "我们为什么不回去，最后听一次我们的对话，然后我们会很快回来。"
+    },
+    {
+      "id": 224,
+      "en": "I'm hungry.",
+      "cn": "我饿了。"
+    },
+    {
+      "id": 225,
+      "en": "Let's go grab a bite to eat.",
+      "cn": "我们去吃点东西吧。"
+    },
+    {
+      "id": 226,
+      "en": "Yeah, me too.",
+      "cn": "是的，我也是。"
+    },
+    {
+      "id": 227,
+      "en": "Oh, can we stop at the shop really fast?",
+      "cn": "哦，我们可以快速停一下商店吗？"
+    },
+    {
+      "id": 228,
+      "en": "I lost my makeup bag at the airport and I want to pick up a few things.",
+      "cn": "我在机场丢了我的化妆包，我想拿几样东西。"
+    },
+    {
+      "id": 229,
+      "en": "Will you take long?",
+      "cn": "你会花很久吗？"
+    },
+    {
+      "id": 230,
+      "en": "No, five minutes.",
+      "cn": "不，五分钟。"
+    },
+    {
+      "id": 231,
+      "en": "I promise.",
+      "cn": "我保证。"
+    },
+    {
+      "id": 232,
+      "en": "Come on.",
+      "cn": "来吧。"
+    },
+    {
+      "id": 233,
+      "en": "We've been here for almost an hour.",
+      "cn": "我们在这里待了快一个小时了。"
+    },
+    {
+      "id": 234,
+      "en": "I thought you said you're only going to get a few things.",
+      "cn": "我以为你说你只会拿几样东西。"
+    },
+    {
+      "id": 235,
+      "en": "How long does it take you to pick out a lipstick and some nail Polish?",
+      "cn": "你挑选一支口红和一些指甲油需要多久？"
+    },
+    {
+      "id": 236,
+      "en": "Are you crazy?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 237,
+      "en": "You have no idea what you're talking about.",
+      "cn": "你根本不知道你在说什么。"
+    },
+    {
+      "id": 238,
+      "en": "Just for my eyes, I have to get eyeliner and eyelash curler, eyeshadow, an eyebrow pencil and mascara.",
+      "cn": "仅仅是为了我的眼睛，我需要眼线笔、睫毛夹、眼影、眉笔和睫毛膏。"
+    },
+    {
+      "id": 239,
+      "en": "Then I need to get foundation, liquid foundation.",
+      "cn": "然后我还需要液体粉底。"
+    },
+    {
+      "id": 240,
+      "en": "Whoa, whoa, whoa.",
+      "cn": "哇，哇，哇。"
+    },
+    {
+      "id": 241,
+      "en": "Are you nuts?",
+      "cn": "你疯了吗？"
+    },
+    {
+      "id": 242,
+      "en": "How much is all this going to cost?",
+      "cn": "这一切要花多少钱？"
+    },
+    {
+      "id": 243,
+      "en": "I'm looking at the price of each one of these little things and it's outrageous.",
+      "cn": "我在看这些小东西的价格，真是离谱。"
+    },
+    {
+      "id": 244,
+      "en": "This is basically a crayon.",
+      "cn": "这基本上就是一支蜡笔。"
+    },
+    {
+      "id": 245,
+      "en": "What about you?",
+      "cn": "你呢？"
+    },
+    {
+      "id": 246,
+      "en": "You spend as much money or more on your razors, aftershave, Cologne, and gel.",
+      "cn": "你在剃须刀、须后水、香水和发胶上花的钱也不少。"
+    },
+    {
+      "id": 247,
+      "en": "Not to mention how much you spend on clothes and... Fine, get the stupid $30 crayon.",
+      "cn": "更不用说你在衣服上花了多少钱了……好吧，买那支愚蠢的30美元蜡笔。"
+    },
+    {
+      "id": 248,
+      "en": "Talking about makeup, a lot of things here.",
+      "cn": "说到化妆，这里有很多东西。"
+    },
+    {
+      "id": 249,
+      "en": "Maybe I didn't mention a couple of things.",
+      "cn": "也许我没有提到几样东西。"
+    },
+    {
+      "id": 250,
+      "en": "I don't know.",
+      "cn": "我不知道。"
+    },
+    {
+      "id": 251,
+      "en": "We took a look at the most important things, I think, right?",
+      "cn": "我们看了最重要的东西，我想，对吧？"
+    },
+    {
+      "id": 252,
+      "en": "But you also mentioned something, for example, cover up.",
+      "cn": "但你也提到了一些东西，例如，遮瑕膏。"
+    },
+    {
+      "id": 253,
+      "en": "There's something, such makeup called cover up.",
+      "cn": "有一种化妆品叫遮瑕膏。"
+    },
+    {
+      "id": 254,
+      "en": "Yeah, so cover up, it could be a couple of different things in English.",
+      "cn": "是的，所以遮瑕膏在英语中可以有几种不同的意思。"
+    },
+    {
+      "id": 255,
+      "en": "For example, something that you wear to cover your body when you're at the beach.",
+      "cn": "例如，当你在海滩时，你穿的东西来遮住你的身体。"
+    },
+    {
+      "id": 256,
+      "en": "You know, you don't want to walk around and everyone can see you in your bathing suit.",
+      "cn": "你知道的，你不想到处走，大家都能看到你穿着泳衣。"
+    },
+    {
+      "id": 257,
+      "en": "But when we're talking about cover up, a cover up is a thing that we use to hide blemishes or zits or pimples.",
+      "cn": "但当我们谈论遮瑕膏时，遮瑕膏是我们用来掩盖瑕疵、痘痘或粉刺的东西。"
+    },
+    {
+      "id": 258,
+      "en": "So you know when you get a really small red dot on your face and you're embarrassed and it's ugly and you don't want anyone to see it?",
+      "cn": "所以你知道，当你脸上有一个很小的红点时，你会感到尴尬，它很丑，你不想让任何人看到？"
+    },
+    {
+      "id": 259,
+      "en": "Well, cover up is a kind of makeup you use that looks like your skin color and you put it on top and you can't see the red anymore.",
+      "cn": "好吧，遮瑕膏是一种化妆品，它看起来像你的肤色，你把它涂在上面，红点就看不见了。"
+    },
+    {
+      "id": 260,
+      "en": "Okay, so you cover up your pimple.",
+      "cn": "好吧，所以你遮住了你的粉刺。"
+    },
+    {
+      "id": 261,
+      "en": "Yeah, or you use cover up.",
+      "cn": "是的，或者你使用遮瑕膏。"
+    },
+    {
+      "id": 262,
+      "en": "It's a noun too.",
+      "cn": "这也是一个名词。"
+    },
+    {
+      "id": 263,
+      "en": "Okay, and I've also seen that, well, many girls don't wear too much lipstick anymore nowadays.",
+      "cn": "好吧，我还看到，很多女孩现在不再涂太多口红了。"
+    },
+    {
+      "id": 264,
+      "en": "They use this thing called lip gloss.",
+      "cn": "她们使用一种叫唇彩的东西。"
+    },
+    {
+      "id": 265,
+      "en": "Okay, lip gloss.",
+      "cn": "好吧，唇彩。"
+    },
+    {
+      "id": 266,
+      "en": "Remember we were talking about Polish earlier?",
+      "cn": "记得我们之前谈到指甲油吗？"
+    },
+    {
+      "id": 267,
+      "en": "Well, gloss is a similar word.",
+      "cn": "嗯，光泽是一个类似的词。"
+    },
+    {
+      "id": 268,
+      "en": "It means something that makes another thing shiny.",
+      "cn": "它意味着使另一件东西发光的东西。"
+    },
+    {
+      "id": 269,
+      "en": "And so lipstick can be very dry, can be very flat.",
+      "cn": "所以口红可能很干，可能很平。"
+    },
+    {
+      "id": 270,
+      "en": "But lip gloss is something that makes things look wet, makes things look shiny.",
+      "cn": "但唇彩是让东西看起来湿润、闪亮的东西。"
+    },
+    {
+      "id": 271,
+      "en": "Okay, and actually one last thing before, when we talked about gel, I guess guys use gel, but women use this thing called mousse.",
+      "cn": "好吧，实际上最后一件事，当我们谈到发胶时，我想男生用发胶，但女生用一种叫摩丝的东西。"
+    },
+    {
+      "id": 272,
+      "en": "Or they could use gel too.",
+      "cn": "或者她们也可以使用发胶。"
+    },
+    {
+      "id": 273,
+      "en": "I don't think it's gender specific, but a lot of people use mousse.",
+      "cn": "我认为这并不是性别特定的，但很多人使用摩丝。"
+    },
+    {
+      "id": 274,
+      "en": "I know some men who use mousse as well.",
+      "cn": "我知道一些男生也用摩丝。"
+    },
+    {
+      "id": 275,
+      "en": "Mousse is kind of like a foam.",
+      "cn": "摩丝有点像泡沫。"
+    },
+    {
+      "id": 276,
+      "en": "You know, it comes in a can, it goes yeah, and it like inflates this white substance.",
+      "cn": "你知道，它装在罐子里，喷出来，像是膨胀的白色物质。"
+    },
+    {
+      "id": 277,
+      "en": "Yeah, it looks, it looks like, I don't know, like whipped cream, like whipped cream.",
+      "cn": "是的，它看起来，嗯，我不知道，像是打发奶油，像打发奶油。"
+    },
+    {
+      "id": 278,
+      "en": "Yeah, and you put it in your hair and it's very fluffy and it's actually less strong.",
+      "cn": "是的，你把它放在头发上，它非常蓬松，实际上没有那么强。"
+    },
+    {
+      "id": 279,
+      "en": "It's not like gel because if you put it in your hair, your hair won't look hard, but it will help shape your hair if you want to keep your hair in one place.",
+      "cn": "它不像发胶，因为如果你把它放在头发上，头发不会看起来硬，但如果你想让头发保持在一个地方，它会帮助塑形。"
+    },
+    {
+      "id": 280,
+      "en": "A lot of things here.",
+      "cn": "这里有很多东西。"
+    },
+    {
+      "id": 281,
+      "en": "I think in beauty and cosmetics we have a lot of a lot of things and probably we didn't even touch on half of the things that are out there.",
+      "cn": "我认为在美容和化妆品方面，我们有很多东西，可能我们甚至没有触及到一半的东西。"
+    },
+    {
+      "id": 282,
+      "en": "So if you have any questions or if you want to ask us anything at all about this lesson or anything else, you could always come to EnglishPod.com and leave your questions and comments there.",
+      "cn": "所以如果你有任何问题，或者你想问我们关于这节课或其他任何事情，你可以随时来EnglishPod.com，留下你的问题和评论。"
+    },
+    {
+      "id": 283,
+      "en": "So we'll see you at EnglishPod and until next time, bye everyone.",
+      "cn": "所以我们在EnglishPod见，直到下次，再见大家。"
+    }
+  ]
+}

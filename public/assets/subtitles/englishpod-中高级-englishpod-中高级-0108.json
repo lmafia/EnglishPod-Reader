@@ -1,0 +1,1244 @@
+{
+  "type": "book",
+  "id": "englishpod-中高级-englishpod-中高级-0108",
+  "title": "EnglishPod 中高级 0108",
+  "totalSegments": 247,
+  "seriesId": "englishpod-中高级",
+  "segments": [
+    {
+      "id": 1,
+      "en": "Hello, English learners.",
+      "cn": "你好，英语学习者。"
+    },
+    {
+      "id": 2,
+      "en": "Welcome back to another great podcast here at EnglishPod.",
+      "cn": "欢迎回到EnglishPod的另一期精彩播客。"
+    },
+    {
+      "id": 3,
+      "en": "My name is Marco.",
+      "cn": "我叫Marco。"
+    },
+    {
+      "id": 4,
+      "en": "And I'm Erica.",
+      "cn": "我是Erica。"
+    },
+    {
+      "id": 5,
+      "en": "And today we're going to be bringing you bad news.",
+      "cn": "今天我们要给你带来坏消息。"
+    },
+    {
+      "id": 6,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 7,
+      "en": "Actually, what we're really going to be bringing you is language to talk about bad news.",
+      "cn": "实际上，我们要教你的是谈论坏消息的语言。"
+    },
+    {
+      "id": 8,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 9,
+      "en": "So maybe you have to give bad news to your boss, to your parents, I don't know, somebody, and we're going to be teaching you how to do this in English.",
+      "cn": "所以，也许你需要把坏消息告诉你的老板、父母，我不知道，某个人，我们将教你如何用英语做到这一点。"
+    },
+    {
+      "id": 10,
+      "en": "Well, obviously it's always difficult to tell somebody bad news, but in your second language, it's even harder.",
+      "cn": "嗯，显然，告诉别人坏消息总是很困难，但在你的第二语言中，这更难。"
+    },
+    {
+      "id": 11,
+      "en": "So we're going to try and help you today with some great phrases and vocabulary items.",
+      "cn": "所以今天我们将尝试用一些很棒的短语和词汇来帮助你。"
+    },
+    {
+      "id": 12,
+      "en": "We're not going to preview anything today.",
+      "cn": "我们今天不会预览任何内容。"
+    },
+    {
+      "id": 13,
+      "en": "Let's go directly to our dialogue where we will be in a company and one of the employees is going to be giving bad news to his boss.",
+      "cn": "让我们直接进入对话，场景设定在一家公司，一名员工将向他的老板传达坏消息。"
+    },
+    {
+      "id": 14,
+      "en": "So let's listen.",
+      "cn": "所以让我们来听听。"
+    },
+    {
+      "id": 15,
+      "en": "Now that we've been over the gory details of our disastrous first quarter, Ed, give us some good news.",
+      "cn": "现在我们已经讨论了我们灾难性的第一季度的可怕细节，Ed，给我们一些好消息吧。"
+    },
+    {
+      "id": 16,
+      "en": "How are things looking for us in terms of sales this month?",
+      "cn": "这个月我们的销售情况如何？"
+    },
+    {
+      "id": 17,
+      "en": "Uh, well, would you like the bad news first or the really bad news?",
+      "cn": "嗯，你想先听坏消息还是更坏的消息？"
+    },
+    {
+      "id": 18,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 19,
+      "en": "Ed, don't tell me you only have bad news.",
+      "cn": "Ed，别告诉我你只有坏消息。"
+    },
+    {
+      "id": 20,
+      "en": "Well, sir, our sales have dropped.",
+      "cn": "嗯，先生，我们的销售额下降了。"
+    },
+    {
+      "id": 21,
+      "en": "No plunged.",
+      "cn": "不，是暴跌。"
+    },
+    {
+      "id": 22,
+      "en": "50% in the past month alone.",
+      "cn": "仅在过去一个月就下降了50%。"
+    },
+    {
+      "id": 23,
+      "en": "We are currently overstocked and overstaffed and our profits are falling fast.",
+      "cn": "我们目前库存过剩，人员过剩，利润快速下滑。"
+    },
+    {
+      "id": 24,
+      "en": "The market is in recession and we have no way of moving our inventory or getting rid of our staff.",
+      "cn": "市场正在衰退，我们没有办法处理库存或裁减员工。"
+    },
+    {
+      "id": 25,
+      "en": "If we consider redundancies, it costs us a fortune because of the new regulations governing compensation packages.",
+      "cn": "如果我们考虑裁员，由于新规定的补偿方案，这将花费我们一大笔钱。"
+    },
+    {
+      "id": 26,
+      "en": "It's a real mess.",
+      "cn": "这真是一团糟。"
+    },
+    {
+      "id": 27,
+      "en": "You're coming out loud.",
+      "cn": "你说得很清楚。"
+    },
+    {
+      "id": 28,
+      "en": "How fast are we losing money?",
+      "cn": "我们损失得有多快？"
+    },
+    {
+      "id": 29,
+      "en": "Um, um, how can I put this?",
+      "cn": "嗯，嗯，我该怎么说呢？"
+    },
+    {
+      "id": 30,
+      "en": "Let's just say that at this pace we will be filing for chapter 11 in less than three months.",
+      "cn": "就这样说吧，以这个速度，我们将在不到三个月内申请破产保护。"
+    },
+    {
+      "id": 31,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 32,
+      "en": "Jeez, how could this have happened?",
+      "cn": "天哪，这怎么会发生？"
+    },
+    {
+      "id": 33,
+      "en": "So what's the bad news?",
+      "cn": "那坏消息是什么？"
+    },
+    {
+      "id": 34,
+      "en": "Oh, that's the really bad news.",
+      "cn": "哦，那才是真正的坏消息。"
+    },
+    {
+      "id": 35,
+      "en": "Our suppliers suffered QC problems and, well, half of our production is faulty.",
+      "cn": "我们的供应商出现了质量控制问题，嗯，我们一半的生产都是有缺陷的。"
+    },
+    {
+      "id": 36,
+      "en": "We're going to have to recall all items sold in last quarter and the worst part?",
+      "cn": "我们将不得不召回上个季度销售的所有商品，最糟糕的是？"
+    },
+    {
+      "id": 37,
+      "en": "We're going to have to shoulder this cost.",
+      "cn": "我们将不得不承担这笔费用。"
+    },
+    {
+      "id": 38,
+      "en": "Are you joking?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 39,
+      "en": "Get the supplier on the line now.",
+      "cn": "现在就把供应商打电话叫过来。"
+    },
+    {
+      "id": 40,
+      "en": "They have to assume the cost of this mess.",
+      "cn": "他们必须承担这场混乱的费用。"
+    },
+    {
+      "id": 41,
+      "en": "We tried that, sir.",
+      "cn": "我们试过了，先生。"
+    },
+    {
+      "id": 42,
+      "en": "The factory has gone under and the owner apparently has fled the country.",
+      "cn": "工厂已经倒闭，老板显然已经逃离了国家。"
+    },
+    {
+      "id": 43,
+      "en": "Oh, we're doomed.",
+      "cn": "哦，我们完蛋了。"
+    },
+    {
+      "id": 44,
+      "en": "There's some really good news, though.",
+      "cn": "不过，还有一些非常好的消息。"
+    },
+    {
+      "id": 45,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 46,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 47,
+      "en": "I got offered a new job.",
+      "cn": "我得到了一个新工作机会。"
+    },
+    {
+      "id": 48,
+      "en": "Alright, it sounds like a pretty tough time for this, uh, this company, doesn't it?",
+      "cn": "好吧，这对这家公司来说似乎是个相当艰难的时刻，不是吗？"
+    },
+    {
+      "id": 49,
+      "en": "But good news for the employee.",
+      "cn": "但对员工来说是个好消息。"
+    },
+    {
+      "id": 50,
+      "en": "He won't be, uh, jobless.",
+      "cn": "他不会失业。"
+    },
+    {
+      "id": 51,
+      "en": "Well, I guess he knows when to get out.",
+      "cn": "嗯，我想他知道什么时候该离开。"
+    },
+    {
+      "id": 52,
+      "en": "But why don't we take a look at some of the language now in Language Takeaway.",
+      "cn": "但为什么我们现在不看看一些语言呢，在语言收获中。"
+    },
+    {
+      "id": 53,
+      "en": "So in Language Takeaway today, we have five vocabulary items and, well, let's start with the first one.",
+      "cn": "所以在今天的语言收获中，我们有五个词汇项目，嗯，让我们从第一个开始。"
+    },
+    {
+      "id": 54,
+      "en": "Alright, so the boss, uh, you know, he's talking about the gory details of our disastrous first quarter.",
+      "cn": "好吧，老板，嗯，你知道，他在谈论我们灾难性第一季度的可怕细节。"
+    },
+    {
+      "id": 55,
+      "en": "So let's look at the phrase gory details.",
+      "cn": "所以让我们看看“可怕细节”这个短语。"
+    },
+    {
+      "id": 56,
+      "en": "Alright, so gory details.",
+      "cn": "好吧，“可怕细节”。"
+    },
+    {
+      "id": 57,
+      "en": "Gory details.",
+      "cn": "可怕细节。"
+    },
+    {
+      "id": 58,
+      "en": "This sounds kind of strange.",
+      "cn": "这听起来有点奇怪。"
+    },
+    {
+      "id": 59,
+      "en": "Gory details.",
+      "cn": "可怕细节。"
+    },
+    {
+      "id": 60,
+      "en": "It seems very scary.",
+      "cn": "听起来非常可怕。"
+    },
+    {
+      "id": 61,
+      "en": "Well, the word gory comes from Gore, like blood and guts, right?",
+      "cn": "嗯，“可怕”这个词来自于“血腥”，就像血和内脏，对吧？"
+    },
+    {
+      "id": 62,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 63,
+      "en": "That's why it sounds a little bit scary to me.",
+      "cn": "所以这对我来说听起来有点可怕。"
+    },
+    {
+      "id": 64,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 65,
+      "en": "So gory details, uh, mean all the little, um, details of a, of a negative or shocking or bad situation.",
+      "cn": "所以“可怕细节”指的是负面、震惊或糟糕情况的所有小细节。"
+    },
+    {
+      "id": 66,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 67,
+      "en": "So the gory details of the meeting, so all the nasty and negative stuff.",
+      "cn": "所以会议的可怕细节，所有肮脏和负面的东西。"
+    },
+    {
+      "id": 68,
+      "en": "Or the gory detail, or you could say the newspaper reported all the gory details of the murder.",
+      "cn": "或者可怕的细节，或者你可以说报纸报道了谋杀案的所有可怕细节。"
+    },
+    {
+      "id": 69,
+      "en": "Okay.",
+      "cn": "好的。"
+    },
+    {
+      "id": 70,
+      "en": "Very good.",
+      "cn": "非常好。"
+    },
+    {
+      "id": 71,
+      "en": "So gory details.",
+      "cn": "所以可怕细节。"
+    },
+    {
+      "id": 72,
+      "en": "So the employee was talking about how bad the company was doing, and he mentioned this word redundancies.",
+      "cn": "所以员工在谈论公司表现不佳时，提到了“裁员”这个词。"
+    },
+    {
+      "id": 73,
+      "en": "Redundancies.",
+      "cn": "裁员。"
+    },
+    {
+      "id": 74,
+      "en": "They are considering redundancies.",
+      "cn": "他们正在考虑裁员。"
+    },
+    {
+      "id": 75,
+      "en": "Okay, so redundancies, again, it's based on the word to be redundant.",
+      "cn": "好的，所以裁员，实际上是基于“冗余”这个词。"
+    },
+    {
+      "id": 76,
+      "en": "Alright, and that means?",
+      "cn": "好吧，那是什么意思？"
+    },
+    {
+      "id": 77,
+      "en": "To not be needed anymore.",
+      "cn": "就是不再需要。"
+    },
+    {
+      "id": 78,
+      "en": "Okay, so redundancies are basically firing people.",
+      "cn": "好的，所以裁员基本上就是解雇人。"
+    },
+    {
+      "id": 79,
+      "en": "It's, well, laying people off.",
+      "cn": "这就是裁员。"
+    },
+    {
+      "id": 80,
+      "en": "People that you don't need anymore, they are redundancies.",
+      "cn": "不再需要的人就是裁员。"
+    },
+    {
+      "id": 81,
+      "en": "Alright, so this is actually a British term, redundancies, to become redundant, because in American English you would just say layoffs.",
+      "cn": "好吧，这实际上是一个英国术语，裁员，变得冗余，因为在美式英语中你只会说裁员。"
+    },
+    {
+      "id": 82,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 83,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 84,
+      "en": "Alright, so moving on, they were talking about redundancies, and maybe they should or shouldn't lay some people off, but one of the problems were the regulations governing compensation packages.",
+      "cn": "好吧，接下来，他们在谈论裁员，也许他们应该或不应该裁掉一些人，但其中一个问题是关于补偿方案的规定。"
+    },
+    {
+      "id": 85,
+      "en": "Okay, so regulations governing compensation packages.",
+      "cn": "好的，所以补偿方案的规定。"
+    },
+    {
+      "id": 86,
+      "en": "Regulations governing something.",
+      "cn": "规定管理某事。"
+    },
+    {
+      "id": 87,
+      "en": "So we have a noun governing noun.",
+      "cn": "所以我们有名词管理名词。"
+    },
+    {
+      "id": 88,
+      "en": "What does that mean?",
+      "cn": "这是什么意思？"
+    },
+    {
+      "id": 89,
+      "en": "Alright, so I think it would help us to understand this a little better if we listen to some examples of this pattern, noun governing noun.",
+      "cn": "好吧，我认为如果我们听一些这个模式的例子，名词管理名词，会帮助我们更好地理解。"
+    },
+    {
+      "id": 90,
+      "en": "Example 1.",
+      "cn": "示例1。"
+    },
+    {
+      "id": 91,
+      "en": "I don't agree with the regulations governing income taxes.",
+      "cn": "我不同意管理所得税的规定。"
+    },
+    {
+      "id": 92,
+      "en": "People shouldn't have to give away their hard-earned money.",
+      "cn": "人们不应该把他们辛苦挣来的钱交出去。"
+    },
+    {
+      "id": 93,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 94,
+      "en": "We need to protect the environment.",
+      "cn": "我们需要保护环境。"
+    },
+    {
+      "id": 95,
+      "en": "Therefore, there will be new policies governing corporate levels of pollution starting next month.",
+      "cn": "因此，从下个月开始，将会有新的政策管理企业的污染水平。"
+    },
+    {
+      "id": 96,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 97,
+      "en": "The lack of regulations governing city transportation has led to many traffic accidents.",
+      "cn": "管理城市交通的规定缺乏导致了许多交通事故。"
+    },
+    {
+      "id": 98,
+      "en": "Okay, great examples, and well, before we move on, this compensation packages, I guess it's all the things that the company gives you when they lay you off, right?",
+      "cn": "好的，很好的例子，嗯，在我们继续之前，这个补偿方案，我想这就是公司在裁员时给你的所有东西，对吧？"
+    },
+    {
+      "id": 99,
+      "en": "Right, maybe a certain portion of your retirement benefits, or... Like a month's pay, etc.",
+      "cn": "对，可能是你退休福利的一部分，或者……像一个月的工资等等。"
+    },
+    {
+      "id": 100,
+      "en": "Okay, compensation packages.",
+      "cn": "好的，补偿方案。"
+    },
+    {
+      "id": 101,
+      "en": "Alright, so moving on to our next item on language takeaway, we have to shoulder the cost.",
+      "cn": "好的，接下来我们要讨论的语言要点是，我们必须承担费用。"
+    },
+    {
+      "id": 102,
+      "en": "To shoulder the cost.",
+      "cn": "承担费用。"
+    },
+    {
+      "id": 103,
+      "en": "Alright, so if I shoulder something...",
+      "cn": "好的，如果我承担某样东西……"
+    },
+    {
+      "id": 104,
+      "en": "You have to carry it.",
+      "cn": "你必须承担它。"
+    },
+    {
+      "id": 105,
+      "en": "I carry it, that's a good one.",
+      "cn": "我承担，这个说得好。"
+    },
+    {
+      "id": 106,
+      "en": "So basically it's the same as the shoulder, your body.",
+      "cn": "所以基本上和肩膀是一样的，你的身体。"
+    },
+    {
+      "id": 107,
+      "en": "So you carry this cost or you carry this responsibility.",
+      "cn": "所以你承担这个费用或这个责任。"
+    },
+    {
+      "id": 108,
+      "en": "So you might also hear shoulder the burden.",
+      "cn": "所以你可能还会听到“承担负担”。"
+    },
+    {
+      "id": 109,
+      "en": "To shoulder the burden.",
+      "cn": "承担负担。"
+    },
+    {
+      "id": 110,
+      "en": "So it just means to carry the responsibility.",
+      "cn": "所以这只是意味着承担责任。"
+    },
+    {
+      "id": 111,
+      "en": "Okay, to share it.",
+      "cn": "好的，分享它。"
+    },
+    {
+      "id": 112,
+      "en": "Alright, interesting.",
+      "cn": "好的，有趣。"
+    },
+    {
+      "id": 113,
+      "en": "And we have one more word on language takeaway.",
+      "cn": "我们还有一个语言要点的词。"
+    },
+    {
+      "id": 114,
+      "en": "And the factory has gone under.",
+      "cn": "工厂已经倒闭了。"
+    },
+    {
+      "id": 115,
+      "en": "To go under.",
+      "cn": "倒闭。"
+    },
+    {
+      "id": 116,
+      "en": "Alright, to go under.",
+      "cn": "好的，倒闭。"
+    },
+    {
+      "id": 117,
+      "en": "When something goes under, a company goes under, it goes bankrupt.",
+      "cn": "当某样东西倒闭时，一家公司倒闭，它就破产了。"
+    },
+    {
+      "id": 118,
+      "en": "It goes bankrupt, so it's not working anymore.",
+      "cn": "它破产了，所以不再运作了。"
+    },
+    {
+      "id": 119,
+      "en": "That's right.",
+      "cn": "没错。"
+    },
+    {
+      "id": 120,
+      "en": "Alright, so to go under.",
+      "cn": "好的，所以倒闭。"
+    },
+    {
+      "id": 121,
+      "en": "Great vocabulary items here on language takeaway today.",
+      "cn": "今天的语言要点有很棒的词汇。"
+    },
+    {
+      "id": 122,
+      "en": "It's time for us to move on to the next segment of our show where we're going to look at some phrases.",
+      "cn": "现在是我们进入节目的下一个环节的时候了，我们将看一些短语。"
+    },
+    {
+      "id": 123,
+      "en": "So let's start now with fluency builder.",
+      "cn": "所以现在让我们开始流利表达。"
+    },
+    {
+      "id": 124,
+      "en": "Alright, so we've got some phrases that you can use when somebody's going to tell you some bad news.",
+      "cn": "好的，我们有一些短语可以在有人告诉你坏消息时使用。"
+    },
+    {
+      "id": 125,
+      "en": "But also some phrases you can use to deliver bad news.",
+      "cn": "还有一些短语可以用来传达坏消息。"
+    },
+    {
+      "id": 126,
+      "en": "Alright, so let's start with our first phrase.",
+      "cn": "好的，让我们从第一个短语开始。"
+    },
+    {
+      "id": 127,
+      "en": "So the boss is getting ready to prepare for this bad news and he says, lay it on me.",
+      "cn": "所以老板准备好接受这个坏消息，他说，告诉我吧。"
+    },
+    {
+      "id": 128,
+      "en": "He's like, okay, lay it on me.",
+      "cn": "他就像，好的，告诉我吧。"
+    },
+    {
+      "id": 129,
+      "en": "Lay it on me.",
+      "cn": "告诉我吧。"
+    },
+    {
+      "id": 130,
+      "en": "So if I say this, lay it on me, I'm just saying, tell me.",
+      "cn": "所以如果我说这个，告诉我吧，我只是说，告诉我。"
+    },
+    {
+      "id": 131,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 132,
+      "en": "So give me the bad news.",
+      "cn": "所以给我坏消息。"
+    },
+    {
+      "id": 133,
+      "en": "Alright, so lay it on me.",
+      "cn": "好的，所以告诉我吧。"
+    },
+    {
+      "id": 134,
+      "en": "Very informal though.",
+      "cn": "不过这很非正式。"
+    },
+    {
+      "id": 135,
+      "en": "Yeah, you're right.",
+      "cn": "是的，你说得对。"
+    },
+    {
+      "id": 136,
+      "en": "It is kind of informal.",
+      "cn": "这确实有点非正式。"
+    },
+    {
+      "id": 137,
+      "en": "But our next phrase, you know, the boss is hearing about all this bad news and he says, for crying out loud.",
+      "cn": "但我们的下一个短语，你知道，老板听到所有这些坏消息，他说，真是受够了。"
+    },
+    {
+      "id": 138,
+      "en": "For crying out loud.",
+      "cn": "真是受够了。"
+    },
+    {
+      "id": 139,
+      "en": "For crying out loud.",
+      "cn": "真是受够了。"
+    },
+    {
+      "id": 140,
+      "en": "Alright, so this is a very common phrase of frustration, right?",
+      "cn": "好的，这是一种非常常见的沮丧短语，对吧？"
+    },
+    {
+      "id": 141,
+      "en": "So why don't we listen to some examples to kind of understand how we use this phrase.",
+      "cn": "那么我们为什么不听一些例子来理解我们如何使用这个短语呢。"
+    },
+    {
+      "id": 142,
+      "en": "Example 1.",
+      "cn": "示例1。"
+    },
+    {
+      "id": 143,
+      "en": "For crying out loud, when I tell you to have the report done by Wednesday, that means I expect it to be on my desk by the end of the day.",
+      "cn": "真是受够了，当我告诉你在星期三之前完成报告时，这意味着我希望它在当天结束时放在我的桌子上。"
+    },
+    {
+      "id": 144,
+      "en": "Example 2.",
+      "cn": "示例2。"
+    },
+    {
+      "id": 145,
+      "en": "We've got to figure out a new marketing strategy for crying out loud.",
+      "cn": "我们必须想出一个新的营销策略，真是受够了。"
+    },
+    {
+      "id": 146,
+      "en": "Example 3.",
+      "cn": "示例3。"
+    },
+    {
+      "id": 147,
+      "en": "For crying out loud, you just got your driving license and you already got in an accident?",
+      "cn": "真是受够了，你刚拿到驾照就已经出事故了？"
+    },
+    {
+      "id": 148,
+      "en": "So it kind of reminds me of Oh My God.",
+      "cn": "所以这让我想起了“天哪”。"
+    },
+    {
+      "id": 149,
+      "en": "So you're frustrated.",
+      "cn": "所以你很沮丧。"
+    },
+    {
+      "id": 150,
+      "en": "You're just saying this phrase as Oh My God or something like this.",
+      "cn": "你只是把这个短语说成“天哪”或类似的东西。"
+    },
+    {
+      "id": 151,
+      "en": "Yeah, it's like, ugh, this is so annoying.",
+      "cn": "是的，就像，唉，这太烦人了。"
+    },
+    {
+      "id": 152,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 153,
+      "en": "For crying out loud.",
+      "cn": "真是受够了。"
+    },
+    {
+      "id": 154,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 155,
+      "en": "Alright, moving on to our third phrase.",
+      "cn": "好的，接下来是我们的第三个短语。"
+    },
+    {
+      "id": 156,
+      "en": "How can I put this?",
+      "cn": "我该怎么说呢？"
+    },
+    {
+      "id": 157,
+      "en": "How can I put this?",
+      "cn": "我该怎么说呢？"
+    },
+    {
+      "id": 158,
+      "en": "So the boss asked him a direct question and he said, well, how can I put this?",
+      "cn": "所以老板问了他一个直接的问题，他说，嗯，我该怎么说呢？"
+    },
+    {
+      "id": 159,
+      "en": "So we use this phrase, we want to say something maybe a little bit more indirectly.",
+      "cn": "所以我们使用这个短语时，我们想说一些可能更间接的东西。"
+    },
+    {
+      "id": 160,
+      "en": "Right, so you're looking for words of how you can make it softer or more polite.",
+      "cn": "对，所以你在寻找如何使其更柔和或更礼貌的词。"
+    },
+    {
+      "id": 161,
+      "en": "Maybe the truth of what you're about to say is a little bit strong, so you want to soften it up a bit.",
+      "cn": "也许你即将说的真相有点强烈，所以你想稍微柔和一下。"
+    },
+    {
+      "id": 162,
+      "en": "Yeah.",
+      "cn": "是的。"
+    },
+    {
+      "id": 163,
+      "en": "Okay, so you say, how can I put this?",
+      "cn": "好的，所以你说，我该怎么说呢？"
+    },
+    {
+      "id": 164,
+      "en": "But then you have to complement it with, let's just say that.",
+      "cn": "但你必须补充说，让我们这么说吧。"
+    },
+    {
+      "id": 165,
+      "en": "Let's just say that.",
+      "cn": "让我们这么说吧。"
+    },
+    {
+      "id": 166,
+      "en": "Let's just say that.",
+      "cn": "让我们这么说吧。"
+    },
+    {
+      "id": 167,
+      "en": "So how do we use this phrase?",
+      "cn": "那么我们如何使用这个短语？"
+    },
+    {
+      "id": 168,
+      "en": "So for example, somebody asks me, well, what do you mean?",
+      "cn": "例如，有人问我，嗯，你是什么意思？"
+    },
+    {
+      "id": 169,
+      "en": "Why can't you come on vacation with us?",
+      "cn": "为什么你不能和我们一起度假？"
+    },
+    {
+      "id": 170,
+      "en": "And I would say, hmm, how can I put this?",
+      "cn": "我会说，嗯，我该怎么说呢？"
+    },
+    {
+      "id": 171,
+      "en": "Let's just say that in nine months you will hear the pitter-patter of little feet.",
+      "cn": "让我们这么说吧，九个月后你会听到小脚丫的声音。"
+    },
+    {
+      "id": 172,
+      "en": "Okay, so your girlfriend's pregnant.",
+      "cn": "好的，所以你女朋友怀孕了。"
+    },
+    {
+      "id": 173,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 174,
+      "en": "So you're not saying, my girlfriend's pregnant.",
+      "cn": "所以你不是在说，我女朋友怀孕了。"
+    },
+    {
+      "id": 175,
+      "en": "You're giving like a metaphor.",
+      "cn": "你是在给出一个隐喻。"
+    },
+    {
+      "id": 176,
+      "en": "A metaphor of what's going on, but you don't want to say it directly.",
+      "cn": "一个关于发生了什么的隐喻，但你不想直接说出来。"
+    },
+    {
+      "id": 177,
+      "en": "Another example, I might say, let's just say that Michael isn't doing a great job.",
+      "cn": "另一个例子，我可能会说，让我们这么说吧，迈克尔的表现不好。"
+    },
+    {
+      "id": 178,
+      "en": "Alright, so maybe there are very strong reasons or he's doing very, very poorly.",
+      "cn": "好的，所以也许有很强的理由，或者他做得非常非常糟糕。"
+    },
+    {
+      "id": 179,
+      "en": "Right, but I'm just sort of not saying it exactly directly that he's doing bad.",
+      "cn": "对，但我只是没有直接说他做得不好。"
+    },
+    {
+      "id": 180,
+      "en": "Okay, very good.",
+      "cn": "好的，非常好。"
+    },
+    {
+      "id": 181,
+      "en": "So it's a phrase that you can actually use a lot.",
+      "cn": "所以这是一个你实际上可以经常使用的短语。"
+    },
+    {
+      "id": 182,
+      "en": "And to be a little bit more polite or a little bit more indirect when you're giving somebody some bad news.",
+      "cn": "当你给某人坏消息时，可以稍微礼貌或间接一点。"
+    },
+    {
+      "id": 183,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 184,
+      "en": "Two nice sort of complimenting phrases for delivering bad news.",
+      "cn": "两个很好的短语，用于传达坏消息。"
+    },
+    {
+      "id": 185,
+      "en": "And why don't we hear them one more time in the dialogue.",
+      "cn": "我们为什么不在对话中再听一遍它们呢。"
+    },
+    {
+      "id": 186,
+      "en": "Now that we've been over the gory details of our disastrous first quarter, Ed, give us some good news.",
+      "cn": "现在我们已经讨论了我们灾难性的第一季度的可怕细节，埃德，给我们一些好消息。"
+    },
+    {
+      "id": 187,
+      "en": "How are things looking for us in terms of sales this month?",
+      "cn": "这个月我们的销售情况如何？"
+    },
+    {
+      "id": 188,
+      "en": "Well, would you like the bad news first or the really bad news?",
+      "cn": "嗯，你想先听坏消息还是更坏的消息？"
+    },
+    {
+      "id": 189,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 190,
+      "en": "Ed, don't tell me you only have bad news.",
+      "cn": "埃德，别告诉我你只有坏消息。"
+    },
+    {
+      "id": 191,
+      "en": "Well, sir, our sales have dropped.",
+      "cn": "嗯，先生，我们的销售额下降了。"
+    },
+    {
+      "id": 192,
+      "en": "No plunged.",
+      "cn": "不，是暴跌。"
+    },
+    {
+      "id": 193,
+      "en": "50% in the past month alone.",
+      "cn": "在过去一个月中下降了50%。"
+    },
+    {
+      "id": 194,
+      "en": "We are currently overstocked and overstaffed and our profits are falling fast.",
+      "cn": "我们目前库存过剩，员工过多，利润正在快速下降。"
+    },
+    {
+      "id": 195,
+      "en": "The market is in recession and we have no way of moving our inventory or getting rid of our staff.",
+      "cn": "市场正在衰退，我们没有办法处理我们的库存或裁员。"
+    },
+    {
+      "id": 196,
+      "en": "If we consider redundancies, it would cost us a fortune because of the new regulations governing compensation packages.",
+      "cn": "如果考虑裁员，按照新规定，赔偿费用将会非常高。"
+    },
+    {
+      "id": 197,
+      "en": "It's a real mess.",
+      "cn": "这真是一团糟。"
+    },
+    {
+      "id": 198,
+      "en": "You're coming out loud.",
+      "cn": "你说得很响。"
+    },
+    {
+      "id": 199,
+      "en": "How fast are we losing money?",
+      "cn": "我们损失得有多快？"
+    },
+    {
+      "id": 200,
+      "en": "Um, um, how can I put this?",
+      "cn": "嗯，嗯，我该怎么说呢？"
+    },
+    {
+      "id": 201,
+      "en": "Let's just say that at this pace, we will be filing for Chapter 11 in less than three months.",
+      "cn": "就这样说吧，照这个速度，我们将在不到三个月内申请破产保护。"
+    },
+    {
+      "id": 202,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 203,
+      "en": "Jeez, how could this have happened?",
+      "cn": "天哪，怎么会发生这种事？"
+    },
+    {
+      "id": 204,
+      "en": "So what's the bad news?",
+      "cn": "那坏消息是什么？"
+    },
+    {
+      "id": 205,
+      "en": "Oh, that's the really bad news.",
+      "cn": "哦，那真是个坏消息。"
+    },
+    {
+      "id": 206,
+      "en": "Our suppliers suffered QC problems and, well, half of our production is faulty.",
+      "cn": "我们的供应商出现了质量控制问题，结果我们一半的产品有缺陷。"
+    },
+    {
+      "id": 207,
+      "en": "We're going to have to recall all items sold in the last quarter and the worst part?",
+      "cn": "我们将不得不召回上个季度销售的所有商品，最糟糕的是？"
+    },
+    {
+      "id": 208,
+      "en": "We're going to have to shoulder this cost.",
+      "cn": "我们得承担这笔费用。"
+    },
+    {
+      "id": 209,
+      "en": "Are you joking?",
+      "cn": "你在开玩笑吗？"
+    },
+    {
+      "id": 210,
+      "en": "Get the supplier on the line now.",
+      "cn": "现在就把供应商叫过来。"
+    },
+    {
+      "id": 211,
+      "en": "They have to assume the cost of this mess.",
+      "cn": "他们必须承担这场混乱的费用。"
+    },
+    {
+      "id": 212,
+      "en": "We tried that, sir.",
+      "cn": "我们试过了，先生。"
+    },
+    {
+      "id": 213,
+      "en": "The factory has gone under and the owner apparently has fled the country.",
+      "cn": "工厂已经倒闭，老板显然已经逃离了国家。"
+    },
+    {
+      "id": 214,
+      "en": "Oh, we're doomed.",
+      "cn": "哦，我们完蛋了。"
+    },
+    {
+      "id": 215,
+      "en": "There is some really good news, though.",
+      "cn": "不过有一些好消息。"
+    },
+    {
+      "id": 216,
+      "en": "Really?",
+      "cn": "真的？"
+    },
+    {
+      "id": 217,
+      "en": "What?",
+      "cn": "什么？"
+    },
+    {
+      "id": 218,
+      "en": "I got offered a new job.",
+      "cn": "我收到了一个新工作的邀请。"
+    },
+    {
+      "id": 219,
+      "en": "Alright, great.",
+      "cn": "好吧，太好了。"
+    },
+    {
+      "id": 220,
+      "en": "So this topic of filing for Chapter 11 is actually very recent, very common now because recently one of the biggest companies filed for Chapter 11 in the US.",
+      "cn": "所以申请破产保护这个话题其实很新，也很常见，因为最近美国最大的公司之一申请了破产保护。"
+    },
+    {
+      "id": 221,
+      "en": "Yeah, that's right.",
+      "cn": "是的，没错。"
+    },
+    {
+      "id": 222,
+      "en": "But I often get confused by the phrase to file for Chapter 11 versus to file for Chapter 13.",
+      "cn": "但我常常搞不清楚申请破产保护第11章和第13章的区别。"
+    },
+    {
+      "id": 223,
+      "en": "Alright, so in the United States the bankruptcy law has different chapters or different sections, right?",
+      "cn": "好吧，在美国，破产法有不同的章节或部分，对吧？"
+    },
+    {
+      "id": 224,
+      "en": "And Chapter 11 is basically for companies that run out of money, that go bankrupt, so they have to declare themselves in bankruptcy.",
+      "cn": "第11章基本上是针对资金耗尽、破产的公司，所以他们必须申请破产。"
+    },
+    {
+      "id": 225,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 226,
+      "en": "And so they file for Chapter 11.",
+      "cn": "所以他们申请第11章。"
+    },
+    {
+      "id": 227,
+      "en": "But what about Chapter 13?",
+      "cn": "那第13章呢？"
+    },
+    {
+      "id": 228,
+      "en": "Chapter 13 is for people.",
+      "cn": "第13章是针对个人的。"
+    },
+    {
+      "id": 229,
+      "en": "Ah, okay.",
+      "cn": "啊，明白了。"
+    },
+    {
+      "id": 230,
+      "en": "So people who have large debts maybe with the car company or the telephone company and they can't pay, they file for Chapter 13.",
+      "cn": "所以那些有大额债务的人，比如汽车公司或电话公司，无法偿还的，他们申请第13章。"
+    },
+    {
+      "id": 231,
+      "en": "They say, hey, I don't have money, I can't pay.",
+      "cn": "他们会说，嘿，我没钱，我还不了。"
+    },
+    {
+      "id": 232,
+      "en": "Alright, so I guess here it's kind of a metaphor again.",
+      "cn": "好吧，我想这里又是一个隐喻。"
+    },
+    {
+      "id": 233,
+      "en": "You know, it's this phrase to file for Chapter 11 or Chapter 13 meaning bankruptcy.",
+      "cn": "你知道，申请第11章或第13章的短语意味着破产。"
+    },
+    {
+      "id": 234,
+      "en": "Right.",
+      "cn": "对。"
+    },
+    {
+      "id": 235,
+      "en": "And people will say personally that they're filing for Chapter 11.",
+      "cn": "人们会说他们个人申请第11章。"
+    },
+    {
+      "id": 236,
+      "en": "Exactly.",
+      "cn": "正是如此。"
+    },
+    {
+      "id": 237,
+      "en": "Yep.",
+      "cn": "是的。"
+    },
+    {
+      "id": 238,
+      "en": "Right, so this is an interesting situation because if you file for bankruptcy in some countries you can go to jail.",
+      "cn": "对，所以这是一个有趣的情况，因为在某些国家申请破产可能会入狱。"
+    },
+    {
+      "id": 239,
+      "en": "Ah, I read recently about this happening in Dubai actually.",
+      "cn": "啊，我最近读到在迪拜发生过这种事。"
+    },
+    {
+      "id": 240,
+      "en": "Exactly, so there is prison for debts.",
+      "cn": "确切地说，确实有因债务入狱的情况。"
+    },
+    {
+      "id": 241,
+      "en": "In the US you don't go to prison for debts.",
+      "cn": "在美国，因债务不会入狱。"
+    },
+    {
+      "id": 242,
+      "en": "But what about in your countries, listeners?",
+      "cn": "但在你们的国家呢，听众们？"
+    },
+    {
+      "id": 243,
+      "en": "What happens when you go into debt in your country?",
+      "cn": "在你们的国家，负债后会发生什么？"
+    },
+    {
+      "id": 244,
+      "en": "Or what happens when a company goes into bankruptcy?",
+      "cn": "或者公司破产后会发生什么？"
+    },
+    {
+      "id": 245,
+      "en": "Let us know, come to our website EnglishPod.com, leave your questions and comments.",
+      "cn": "让我们知道，来我们的网站 EnglishPod.com，留下你的问题和评论。"
+    },
+    {
+      "id": 246,
+      "en": "And of course Erica and I are always there to help you out.",
+      "cn": "当然，Erica和我会一直在这里帮助你。"
+    },
+    {
+      "id": 247,
+      "en": "Thanks for downloading you guys and until next time, goodbye!",
+      "cn": "谢谢你们的下载，直到下次，再见！"
+    }
+  ]
+}
