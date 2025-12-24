@@ -256,23 +256,41 @@ const Library: React.FC<LibraryProps> = ({
       </div>
 
     
-      {/* Footer / Donation QR */}
-      <footer className="mt-auto pt-24 pb-8 flex flex-col items-center justify-center opacity-90 hover:opacity-100 transition-opacity duration-500">
-        <a className="text-[16px] font-bold tracking-widest uppercase text-stone-400 mb-2">
-            如果这个项目帮你节省了时间, 欢迎请我喝杯咖啡.
-          </a>
-        <div className="p-3 bg-white border border-stone-200 rounded-2xl shadow-sm">
-            <img 
-              src="https://image-s3.kylegeeks.com/data/2025/12/fd02bb11d4b8280805e39a5b864086e9.png" 
-              alt="Donate" 
-              className="w-32 h-32 md:w-40 md:h-40 object-contain rounded-lg"
-            />
+
+
+     {/* Footer / Donation QR */}
+      <footer className="mt-auto pt-24 pb-12 flex flex-col items-center justify-center opacity-90 hover:opacity-100 transition-opacity duration-500">
+        <p className="text-[16px] font-bold tracking-widest uppercase text-stone-400 mb-4"> 如果这个项目帮你节省了时间, 欢迎请我喝杯咖啡.</p>
+        
+        <div className="flex flex-row items-center gap-6 md:gap-10">
+          
+          {/* WeChat Pay */}
+          <div className="flex flex-col items-center gap-3 group/qr">
+            <div className="p-3 bg-white border border-stone-200 rounded-2xl shadow-sm group-hover/qr:shadow-md transition-all duration-300">
+                <img 
+                  src="https://image-s3.kylegeeks.com/data/2025/12/fd02bb11d4b8280805e39a5b864086e9.png" 
+                  alt="" 
+                  className="w-28 h-28 md:w-36 md:h-36 object-contain rounded-lg"
+                />
+            </div>
+            <span className="text-[10px] font-bold text-stone-300 group-hover/qr:text-stone-500 uppercase tracking-wider transition-colors">WeChat 赞赏</span>
+          </div>
+
+          {/* Alipay */}
+          <div className="flex flex-col items-center gap-3 group/qr">
+            <div className="p-3 bg-white border border-stone-200 rounded-2xl shadow-sm group-hover/qr:shadow-md transition-all duration-300">
+                <img 
+                  src="https://image-s3.kylegeeks.com/data/2025/12/52926e5b19e8a237dbed6a4092e7acf3.png" 
+                  alt="" 
+                  className="w-28 h-28 md:w-36 md:h-36 object-contain rounded-lg"
+                />
+            </div>
+            <span className="text-[10px] font-bold text-stone-300 group-hover/qr:text-stone-500 uppercase tracking-wider transition-colors">Alipay 赞赏</span>
+          </div>
 
         </div>
-                        <a className="text-[12px] font-bold tracking-widest text-stone-400 mb-6">
-            WeChat赞赏
-          </a>
       </footer>
+    
 
     </div>
   );
