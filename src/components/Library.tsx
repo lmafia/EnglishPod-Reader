@@ -254,6 +254,26 @@ const Library: React.FC<LibraryProps> = ({
           );
         })}
       </div>
+
+    
+      {/* Footer / Donation QR */}
+      <footer className="mt-auto pt-24 pb-8 flex flex-col items-center justify-center opacity-90 hover:opacity-100 transition-opacity duration-500">
+        <a className="text-[16px] font-bold tracking-widest uppercase text-stone-400 mb-2">
+            如果这个项目帮你节省了时间, 欢迎请我喝杯咖啡.
+          </a>
+        <div className="p-3 bg-white border border-stone-200 rounded-2xl shadow-sm">
+            <img 
+              src="https://image-s3.kylegeeks.com/data/2025/12/fd02bb11d4b8280805e39a5b864086e9.png" 
+              alt="Donate" 
+              className="w-32 h-32 md:w-40 md:h-40 object-contain rounded-lg"
+            />
+
+        </div>
+                        <a className="text-[12px] font-bold tracking-widest text-stone-400 mb-6">
+            WeChat赞赏
+          </a>
+      </footer>
+
     </div>
   );
 };
